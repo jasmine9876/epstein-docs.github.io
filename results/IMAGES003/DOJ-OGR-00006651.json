@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "445",
+    "date": "11/12/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 445 Filed 11/12/21 Page 2 of 11\n\nTABLE OF CONTENTS\n\nINTRODUCTION ....................................... 1\nI. The Document Cannot be Authenticated....................... 3\nII. The Document is Not a Business Record ........................ 4\ni\nDOJ-OGR-00006651",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 445 Filed 11/12/21 Page 2 of 11",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "TABLE OF CONTENTS",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "INTRODUCTION ....................................... 1\nI. The Document Cannot be Authenticated....................... 3\nII. The Document is Not a Business Record ........................ 4",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "i",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00006651",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "11/12/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "445",
+      "DOJ-OGR-00006651"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a table of contents. The text is clear and legible."
+}

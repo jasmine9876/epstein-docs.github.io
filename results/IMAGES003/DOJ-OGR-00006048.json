@@ -1,0 +1,85 @@
+{
+  "document_metadata": {
+    "page_number": "6",
+    "document_number": "406",
+    "date": "11/02/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 406 Filed 11/02/21 Page 6 of 6\nPage 6\nDAMIAN WILLIAMS\nUnited States Attorney\ns/ Jeffrey S. Pagliuca\nJeffrey S. Pagliuca\nLaura A. Menninger\nHADDON, MORGAN & FOREMAN P.C.\n150 East 10th Avenue\nDenver, CO 80203\nPhone: 303-831-7364\nChristian R. Everdell\nCOHEN & GRESSER LLP\n800 Third Avenue New York, NY 10022\nPhone: 212-957-7600\nBobbi C. Sternheim\nLaw Offices of Bobbi C. Sternheim\n225 Broadway, Suite 715\nNew York, NY 10007\nPhone: 212-243-1100\nBy: /s/\nAlison Moe\nLara Pomerantz\nAndrew Rohrbach\nAssistant United States Attorneys\nSouthern District of New York\nDOJ-OGR-00006048",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 406 Filed 11/02/21 Page 6 of 6",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Page 6",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DAMIAN WILLIAMS\nUnited States Attorney",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "s/ Jeffrey S. Pagliuca\nJeffrey S. Pagliuca\nLaura A. Menninger\nHADDON, MORGAN & FOREMAN P.C.\n150 East 10th Avenue\nDenver, CO 80203\nPhone: 303-831-7364",
+      "position": "left"
+    },
+    {
+      "type": "printed",
+      "content": "Christian R. Everdell\nCOHEN & GRESSER LLP\n800 Third Avenue New York, NY 10022\nPhone: 212-957-7600",
+      "position": "left"
+    },
+    {
+      "type": "printed",
+      "content": "Bobbi C. Sternheim\nLaw Offices of Bobbi C. Sternheim\n225 Broadway, Suite 715\nNew York, NY 10007\nPhone: 212-243-1100",
+      "position": "left"
+    },
+    {
+      "type": "printed",
+      "content": "By: /s/\nAlison Moe\nLara Pomerantz\nAndrew Rohrbach\nAssistant United States Attorneys\nSouthern District of New York",
+      "position": "right"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00006048",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Damian Williams",
+      "Jeffrey S. Pagliuca",
+      "Laura A. Menninger",
+      "Christian R. Everdell",
+      "Bobbi C. Sternheim",
+      "Alison Moe",
+      "Lara Pomerantz",
+      "Andrew Rohrbach"
+    ],
+    "organizations": [
+      "HADDON, MORGAN & FOREMAN P.C.",
+      "COHEN & GRESSER LLP",
+      "Law Offices of Bobbi C. Sternheim",
+      "United States Attorney's Office",
+      "Southern District of New York"
+    ],
+    "locations": [
+      "Denver, CO",
+      "New York, NY"
+    ],
+    "dates": [
+      "11/02/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "406",
+      "DOJ-OGR-00006048"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with attorney information and signatures."
+}

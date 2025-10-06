@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "458",
+    "date": "November 12, 2021",
+    "document_type": "Court Document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 458 Filed 11/12/21 Page 2 of 2\nDated: November 12, 2021 New York, New York\nAlison J. Nathan\nUnited States District Judge\n2\nDOJ-OGR-00006972",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 458 Filed 11/12/21 Page 2 of 2",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Dated: November 12, 2021 New York, New York",
+      "position": "left"
+    },
+    {
+      "type": "handwritten",
+      "content": "Alison J. Nathan",
+      "position": "right"
+    },
+    {
+      "type": "printed",
+      "content": "ALISON J. NATHAN United States District Judge",
+      "position": "right"
+    },
+    {
+      "type": "printed",
+      "content": "2",
+      "position": "center"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00006972",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Alison J. Nathan"
+    ],
+    "organizations": [
+      "United States District Court"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "November 12, 2021",
+      "11/12/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "458",
+      "DOJ-OGR-00006972"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a signature from a United States District Judge. The quality is clear, and there are no visible redactions or damage."
+}

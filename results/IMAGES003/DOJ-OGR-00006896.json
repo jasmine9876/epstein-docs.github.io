@@ -1,0 +1,53 @@
+{
+  "document_metadata": {
+    "page_number": "16",
+    "document_number": "453",
+    "date": "11/12/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 453 Filed 11/12/21 Page 16 of 52 Finally, the government contends these emails are \"similar in kind\" to a \"document\" they claim that Ms. Maxwell drafted (GX 416) concerning descriptions of adult women. Ms. Maxwell strongly disputes that suggestion. Notably, as the Court can tell, the government did not offer any evidence (or any offer of proof in their Response) that this document was in fact 10 DOJ-OGR-00006896",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 453 Filed 11/12/21 Page 16 of 52",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Finally, the government contends these emails are \"similar in kind\" to a \"document\" they claim that Ms. Maxwell drafted (GX 416) concerning descriptions of adult women. Ms. Maxwell strongly disputes that suggestion. Notably, as the Court can tell, the government did not offer any evidence (or any offer of proof in their Response) that this document was in fact",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "10",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00006896",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Maxwell"
+    ],
+    "organizations": [
+      "Court",
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "11/12/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "453",
+      "GX 416",
+      "DOJ-OGR-00006896"
+    ]
+  },
+  "additional_notes": "The document contains redactions, likely due to sensitive information being withheld."
+}

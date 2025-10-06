@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "15",
+    "document_number": "453",
+    "date": "11/12/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 453 Filed 11/12/21 Page 15 of 52 significant power and prestige\" for good reason, because the true motive of the government in introducing the emails would become apparent.",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 453 Filed 11/12/21 Page 15 of 52",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "significant power and prestige\" for good reason, because the true motive of the government in introducing the emails would become apparent.",
+      "position": "top"
+    },
+    {
+      "type": "other",
+      "content": "[Multiple redacted sections]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "9",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00006895",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "11/12/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "453",
+      "DOJ-OGR-00006895"
+    ]
+  },
+  "additional_notes": "The document contains multiple redacted sections, likely due to sensitive information."
+}

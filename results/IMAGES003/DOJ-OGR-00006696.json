@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "449",
+    "date": "11/12/21",
+    "document_type": "Court Document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 449 Filed 11/12/21 Page 3 of 8\n\nTABLES OF AUTHORITIES\n\nCases\n\nOld Chief v. United States, 519 U.S. 172, 178 (1997)............................................... 2, 3\nUnited States v. Salim, 189 F. Supp. 2d 93, 98 (S.D.N.Y. 2002) ....................................... 3\n\nRules\n\nFed. R. Evid. 401 ............................................................................................................... 1, 2\nFed. R. Evid. 403 ............................................................................................................... 1, 3\nFed. R. Evid. 404 ............................................................................................................... 1\nii\nDOJ-OGR-00006696",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 449 Filed 11/12/21 Page 3 of 8",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "TABLES OF AUTHORITIES",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Cases\n\nOld Chief v. United States, 519 U.S. 172, 178 (1997)............................................... 2, 3\nUnited States v. Salim, 189 F. Supp. 2d 93, 98 (S.D.N.Y. 2002) ....................................... 3\n\nRules\n\nFed. R. Evid. 401 ............................................................................................................... 1, 2\nFed. R. Evid. 403 ............................................................................................................... 1, 3\nFed. R. Evid. 404 ............................................................................................................... 1",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "ii",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00006696",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Old Chief",
+      "Salim"
+    ],
+    "organizations": [
+      "United States"
+    ],
+    "locations": [
+      "S.D.N.Y."
+    ],
+    "dates": [
+      "1997",
+      "2002",
+      "11/12/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "Document 449",
+      "DOJ-OGR-00006696"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a table of authorities. The text is clear and legible."
+}

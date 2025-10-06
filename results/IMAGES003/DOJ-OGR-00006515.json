@@ -1,0 +1,42 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "439-8",
+    "date": "11/12/21",
+    "document_type": "Exhibit",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 439-8 Filed 11/12/21 Page 1 of 1\n\nEXHIBIT H\nFILED UNDER SEAL\n\nDOJ-OGR-00006515",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 439-8 Filed 11/12/21 Page 1 of 1",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EXHIBIT H\nFILED UNDER SEAL",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00006515",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "11/12/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "439-8",
+      "DOJ-OGR-00006515"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear indication that it is 'FILED UNDER SEAL'. The content is minimal, suggesting that the actual exhibit is not visible or has been redacted."
+}

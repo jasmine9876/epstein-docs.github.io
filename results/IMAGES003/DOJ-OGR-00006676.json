@@ -1,0 +1,59 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "447",
+    "date": "11/12/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 447 Filed 11/12/21 Page 2 of 8 TABLE OF CONTENTS BACKGROUND ............................................... 1 ARGUMENT ............................................... 2 i DOJ-OGR-00006676",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 447 Filed 11/12/21 Page 2 of 8",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "TABLE OF CONTENTS",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "BACKGROUND ............................................... 1",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "ARGUMENT ............................................... 2",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "i",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00006676",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "11/12/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "447",
+      "DOJ-OGR-00006676"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a table of contents. The text is clear and legible."
+}

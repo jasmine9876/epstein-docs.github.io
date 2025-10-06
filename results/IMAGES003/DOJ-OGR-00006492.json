@@ -1,0 +1,49 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "438",
+    "date": "February 12, 2018",
+    "document_type": "Court Document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:18-cr-00330-ABJ Document 438 Filed 02/12/18 Page 1 of 15 COMPOSITE EXHIBIT A NON-PROSECUTION AGREEMENT AND ADDENDUM DOJ-OGR-00006492",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "COMPOSITE EXHIBIT A",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "NON-PROSECUTION AGREEMENT AND ADDENDUM",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00006492",
+      "position": "bottom"
+    },
+    {
+      "type": "header",
+      "content": "Case 1:18-cr-00330-ABJ Document 438 Filed 02/12/18 Page 1 of 15",
+      "position": "header"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "February 12, 2018"
+    ],
+    "reference_numbers": [
+      "1:18-cr-00330-ABJ",
+      "438",
+      "DOJ-OGR-00006492"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a header indicating the case number, document number, and filing date. The main content is a title page for a composite exhibit related to a non-prosecution agreement."
+}

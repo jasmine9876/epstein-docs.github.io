@@ -1,0 +1,78 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "456",
+    "date": "11/12/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 456 Filed 11/12/21 Page 3 of 10\nPage 3\nthe defense, told Employee-1 to go to his Palm Beach house to help someone who was coming to take computers from Epstein's Palm Beach House.\nFor the reasons set forth below, the Government respectfully submits that both statements are admissible at trial.\nB. Applicable Law\nHearsay is defined as a declarant's out-of-court statement \"offer[ed] in evidence to prove the truth of the matter asserted in the statement,\" and is inadmissible unless it falls within an exception. Fed. R. Evid. 801(c). \"If the significance of an offered statement lies solely in the fact that it was made,\" however, then \"no issue is raised as to the truth of anything asserted, and the statement is not hearsay.\" Fed. R. Evid. 801(c) advisory committee's note. \"Thus, a statement offered to show its effect on the listener is not hearsay.\" United States v. Dupree, 706 F.3d 131, 136 (2d Cir. 2013); see also George v. Celotex Corp., 914 F.2d 26, 30 (2d Cir. 1990) (\"To be sure, an out of court statement offered not for the truth of the matter asserted, but merely to show that the defendant was on notice of a danger, is not hearsay.\")\nRule 801(d)(2)(E) of the Federal Rules of Evidence provides in relevant part that \"[a] statement . . . is not hearsay [if] . . . [t]he statement is offered against an opposing party and . . . was made by the party's co-conspirator during and in furtherance of the conspiracy.\" To admit a statement under this rule, the Court must find two facts by a preponderance of the evidence: first, that a conspiracy that included the defendant and the declarant existed, and, second, that the statement was made during the course and in furtherance of that conspiracy. Bourjaily v. United States, 483 U.S. 171, 175 (1987); United States v. Gigante, 166 F.3d 75, 82 (2d Cir. 1999). If those two prongs are satisfied, then the offered statement is admissible for the truth of the matter asserted.\nDOJ-OGR-00006955",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 456 Filed 11/12/21 Page 3 of 10",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Page 3",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "the defense, told Employee-1 to go to his Palm Beach house to help someone who was coming to take computers from Epstein's Palm Beach House.",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "For the reasons set forth below, the Government respectfully submits that both statements are admissible at trial.",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "B. Applicable Law",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Hearsay is defined as a declarant's out-of-court statement \"offer[ed] in evidence to prove the truth of the matter asserted in the statement,\" and is inadmissible unless it falls within an exception. Fed. R. Evid. 801(c). \"If the significance of an offered statement lies solely in the fact that it was made,\" however, then \"no issue is raised as to the truth of anything asserted, and the statement is not hearsay.\" Fed. R. Evid. 801(c) advisory committee's note. \"Thus, a statement offered to show its effect on the listener is not hearsay.\" United States v. Dupree, 706 F.3d 131, 136 (2d Cir. 2013); see also George v. Celotex Corp., 914 F.2d 26, 30 (2d Cir. 1990) (\"To be sure, an out of court statement offered not for the truth of the matter asserted, but merely to show that the defendant was on notice of a danger, is not hearsay.\")",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Rule 801(d)(2)(E) of the Federal Rules of Evidence provides in relevant part that \"[a] statement . . . is not hearsay [if] . . . [t]he statement is offered against an opposing party and . . . was made by the party's co-conspirator during and in furtherance of the conspiracy.\" To admit a statement under this rule, the Court must find two facts by a preponderance of the evidence: first, that a conspiracy that included the defendant and the declarant existed, and, second, that the statement was made during the course and in furtherance of that conspiracy. Bourjaily v. United States, 483 U.S. 171, 175 (1987); United States v. Gigante, 166 F.3d 75, 82 (2d Cir. 1999). If those two prongs are satisfied, then the offered statement is admissible for the truth of the matter asserted.",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00006955",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Employee-1",
+      "Epstein"
+    ],
+    "organizations": [
+      "United States"
+    ],
+    "locations": [
+      "Palm Beach"
+    ],
+    "dates": [
+      "11/12/21",
+      "1987",
+      "1999",
+      "2013",
+      "1990"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "Document 456",
+      "DOJ-OGR-00006955"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing related to a criminal case. The text is mostly printed, with no visible handwriting or stamps. The document is well-formatted and legible."
+}

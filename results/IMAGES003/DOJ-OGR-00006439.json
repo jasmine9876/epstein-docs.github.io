@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "22",
+    "document_number": "439",
+    "date": "11/12/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 439 Filed 11/12/21 Page 22 of 69 14 DOJ-OGR-00006439",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 439 Filed 11/12/21 Page 22 of 69",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "14",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00006439",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "11/12/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "439",
+      "DOJ-OGR-00006439"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a large blacked-out section, likely due to redactions."
+}

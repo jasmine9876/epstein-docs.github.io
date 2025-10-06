@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "9",
+    "document_number": "440",
+    "date": "11/12/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 440 Filed 11/12/21 Page 9 of 40 8 DOJ-OGR-00006525",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 440 Filed 11/12/21 Page 9 of 40",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "8",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00006525",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "11/12/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "440",
+      "DOJ-OGR-00006525"
+    ]
+  },
+  "additional_notes": "The document appears to be a heavily redacted court filing. The majority of the content is obscured by black bars, suggesting sensitive information has been removed."
+}

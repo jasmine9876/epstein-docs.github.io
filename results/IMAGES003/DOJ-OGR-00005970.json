@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "15",
+    "document_number": "398",
+    "date": "10/29/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 398 Filed 10/29/21 Page 15 of 52 9 DOJ-OGR-00005970",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 398 Filed 10/29/21 Page 15 of 52",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "9",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00005970",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "10/29/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "398",
+      "DOJ-OGR-00005970"
+    ]
+  },
+  "additional_notes": "The document is heavily redacted, with most of the content obscured by black bars. The visible text is limited to the header, footer, and a few isolated numbers."
+}

@@ -1,0 +1,49 @@
+{
+  "document_metadata": {
+    "page_number": "11",
+    "document_number": "440",
+    "date": "11/12/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 440 Filed 11/12/21 Page 11 of 40\n2. Minor Victim-3\n\n\n\n\n\n\n\n\n\n\n\n\n\n10\nDOJ-OGR-00006527",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 440 Filed 11/12/21 Page 11 of 40",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "2. Minor Victim-3",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "10",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00006527",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "11/12/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "440",
+      "DOJ-OGR-00006527"
+    ]
+  },
+  "additional_notes": "The document contains redactions, likely for sensitive or personal information."
+}

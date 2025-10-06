@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "5",
+    "document_number": "407",
+    "date": "11/03/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 407 Filed 11/03/21 Page 5 of 7 EXHIBIT A DOJ-OGR-00006053",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 407 Filed 11/03/21 Page 5 of 7",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EXHIBIT A",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00006053",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "11/03/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "407",
+      "DOJ-OGR-00006053"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear header and footer. The main content is labeled 'EXHIBIT A'."
+}

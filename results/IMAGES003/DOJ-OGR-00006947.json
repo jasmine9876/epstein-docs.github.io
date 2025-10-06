@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": "11",
+    "document_number": "1:18-cr-00880",
+    "date": "11/13/2020",
+    "document_type": "Indictment",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK UNITED STATES OF AMERICA - v. - CLAUDIUS ENGLISH, a/k/a \"Jay Barnes,\" a/k/a \"Brent English,\" Defendant. INDICTMENT 18 Cr. (Title 18, United States Code, Sections 1591(a)(1) and (b)(2), and 2.) GEOFFREY S. BERMAN United States Attorney. A TRUE BILL Foreperson.",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "UNITED STATES OF AMERICA - v. - CLAUDIUS ENGLISH, a/k/a \"Jay Barnes,\" a/k/a \"Brent English,\" Defendant.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "INDICTMENT 18 Cr. (Title 18, United States Code, Sections 1591(a)(1) and (b)(2), and 2.)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "GEOFFREY S. BERMAN United States Attorney.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "A TRUE BILL Foreperson.",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Claudius English",
+      "Jay Barnes",
+      "Brent English",
+      "Geoffrey S. Berman"
+    ],
+    "organizations": [
+      "United States District Court",
+      "United States Attorney"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "11/13/2020"
+    ],
+    "reference_numbers": [
+      "1:18-cr-00880",
+      "18 Cr."
+    ]
+  },
+  "additional_notes": "The document is an indictment filed in the United States District Court for the Southern District of New York. It contains a mix of printed and handwritten text, with the 'A TRUE BILL' and 'Foreperson' sections being handwritten."
+}

@@ -1,0 +1,51 @@
+{
+  "document_metadata": {
+    "page_number": "16",
+    "document_number": "398",
+    "date": "10/29/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 398 Filed 10/29/21 Page 16 of 52 Maxwell strongly disputes that suggestion. Notably, as the Court can tell, the government did not offer any evidence (or any offer of proof in their Response) that this document was in fact 10 DOJ-OGR-00005971",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 398 Filed 10/29/21 Page 16 of 52",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Maxwell strongly disputes that suggestion. Notably, as the Court can tell, the government did not offer any evidence (or any offer of proof in their Response) that this document was in fact",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "10",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00005971",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Maxwell"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "10/29/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "398",
+      "DOJ-OGR-00005971"
+    ]
+  },
+  "additional_notes": "The document contains redactions, likely for sensitive or personal information."
+}

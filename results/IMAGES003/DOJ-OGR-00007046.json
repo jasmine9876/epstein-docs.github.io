@@ -1,0 +1,49 @@
+{
+  "document_metadata": {
+    "page_number": "30 of 32",
+    "document_number": "462",
+    "date": "11/15/21",
+    "document_type": "Juror Questionnaire",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 462 Filed 11/15/21 Page 30 of 32 Juror ID: ____________________________________________________ -29- DOJ-OGR-00007046",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 462 Filed 11/15/21 Page 30 of 32",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Juror ID:",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "-29-",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00007046",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "11/15/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "462",
+      "DOJ-OGR-00007046"
+    ]
+  },
+  "additional_notes": "The document appears to be a juror questionnaire with blank lines for responses. The page is clean and free of handwritten marks or stamps."
+}

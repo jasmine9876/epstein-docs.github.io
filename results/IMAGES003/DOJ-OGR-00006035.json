@@ -1,0 +1,92 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "403",
+    "date": "11/02/21",
+    "document_type": "court document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 403 Filed 11/02/21 Page 4 of 4\nPage 4\nRespectfully submitted,\nDAMIAN WILLIAMS\nUnited States Attorney\nBy: s/\nAlison Moe\nLara Pomerantz\nAndrew Rohrbach\nAssistant United States Attorneys\nSouthern District of New York\nCc: Defense Counsel (By ECF)\nDOJ-OGR-00006035",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 403 Filed 11/02/21 Page 4 of 4",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Page 4",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Respectfully submitted,",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DAMIAN WILLIAMS",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "United States Attorney",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "s/",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Alison Moe\nLara Pomerantz\nAndrew Rohrbach",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Assistant United States Attorneys",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Southern District of New York",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Cc: Defense Counsel (By ECF)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00006035",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Damian Williams",
+      "Alison Moe",
+      "Lara Pomerantz",
+      "Andrew Rohrbach"
+    ],
+    "organizations": [
+      "United States Attorney",
+      "Southern District of New York"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "11/02/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "403",
+      "DOJ-OGR-00006035"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a signature block and a cc section. The signature is represented by 's/' indicating an electronic signature."
+}

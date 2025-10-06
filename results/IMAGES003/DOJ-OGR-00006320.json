@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "9",
+    "document_number": "427",
+    "date": "11/09/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 427 Filed 11/09/21 Page 9 of 16\n\nIntroduction\n[PLACEHOLDER FOR INTRODUCTORY REMARKS]\n\n1\nDOJ-OGR-00006320",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 427 Filed 11/09/21 Page 9 of 16",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Introduction",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "[PLACEHOLDER FOR INTRODUCTORY REMARKS]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "1",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00006320",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "11/09/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "427",
+      "DOJ-OGR-00006320"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a placeholder for introductory remarks. The content is mostly printed, with no visible handwriting or stamps."
+}

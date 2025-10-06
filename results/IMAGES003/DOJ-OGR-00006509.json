@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "439-7",
+    "date": "11/12/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 439-7 Filed 11/12/21 Page 2 of 7 EXHIBIT G DOJ-OGR-00006509",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 439-7 Filed 11/12/21 Page 2 of 7",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EXHIBIT G",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00006509",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "11/12/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "439-7",
+      "DOJ-OGR-00006509"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear header and footer. The main content is labeled 'EXHIBIT G' and is otherwise blank on this page."
+}
