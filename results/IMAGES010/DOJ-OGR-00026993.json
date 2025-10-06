@@ -1,0 +1,53 @@
+{
+  "document_metadata": {
+    "page_number": "3404",
+    "document_number": "DOJ-OGR-00026993",
+    "date": "08/19/2019",
+    "document_type": "Log Entries By Event Date",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 3404 Date: 08/19/2019 Time: 10:15 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count 8/10/2019 (b)(7)(F) AM NYM Housing Units Housing Units, General Population ES 8/10/2019 5:24 AM Morning (b)(6); (b)(7)(C) Official Count - Summary Text: Clear Count (b)(7)(F) 8/10/2019 5:25 AM NYM Housing Units Housing Units, General Population KN 8/10/2019 5:25 AM Morning Rounds (Lieutenant) - Summary Text: Completed - PREA. Unit rounds conducted. PIV portal malfunc. 8/10/2019 5:26 AM NYM Housing Units Housing Units, General Population KS 8/10/2019 5:26 AM Morning Rounds (Lieutenant) - Summary Text: Completed - PREA. Unit rounds conducted. PIV portal malfunc. 8/10/2019 7:03 AM NYM Housing Units Housing Units, General Population ES 8/10/2019 6:00 AM Morning (b)(7)(E); (b)(7)(F) - Summary Text: Completed. Final (b)(7)(F) conducted 8/10/2019 6:01 AM NYM Housing Units Housing Units, General Population GN 8/10/2019 6:00 AM Morning Rounds (Officer) - Summary Text: Completed. 8/10/2019 6:01 AM NYM Housing Units Housing Units, General Population GN 8/10/2019 6:01 AM Morning Rounds (Officer) - Summary Text: Completed. 8/10/2019 7:20 PM NYM Housing Units Housing Units, General Population BA 8/10/2019 10:19 AM Day Rounds (Lieutenant) - Summary Text: Completed - PREA. Unit rounds complete on shift piv card error occur during sign in 8/10/2019 7:30 AM NYM Housing Units Housing Units, General Population ES 8/10/2019 7:29 AM Morning Sensitive Information - Summary Text: Sensitive Information. 8/10/2019 7:33 AM NYM Housing Units Housing Units, General Population GN 8/10/2019 7:33 AM Morning Rounds (Officer) - Summary Text: Completed. 8/10/2019 7:33 AM NYM Housing Units Housing Units, General Population GN 8/10/2019 7:33 AM Morning Daily Activity - Summary Text: OPERATIONS LT. JUST ANNOUNCED TO FEED THEM RIGHT NOW User ID: (b)(6); (b)(7)(C) Page 932 of 1155 DOJ-OGR-00026993",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3404 Date: 08/19/2019 Time: 10:15 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "8/10/2019 (b)(7)(F) AM NYM Housing Units Housing Units, General Population ES 8/10/2019 5:24 AM Morning (b)(6); (b)(7)(C) Official Count - Summary Text: Clear Count (b)(7)(F)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "User ID: (b)(6); (b)(7)(C)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page 932 of 1155 DOJ-OGR-00026993",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [],
+    "dates": [
+      "08/19/2019",
+      "8/10/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026993"
+    ]
+  },
+  "additional_notes": "The document appears to be a log entry report from the Federal Bureau of Prisons, containing sensitive but unclassified information. The report includes details about events, user IDs, and summary texts. Some information is redacted, indicated by (b)(6); (b)(7)(C) and (b)(7)(E); (b)(7)(F)."
+}

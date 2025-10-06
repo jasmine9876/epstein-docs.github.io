@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": "07/24/2019",
+    "document_type": "Bureau of Prisons Health Services Cosign/Review",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Bureau of Prisons Health Services Cosign/Review Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Encounter Date: 07/24/2019 13:08 Sex: M Reg #: 76318-054 Provider: Joaquin, Y. MLP Race: WHITE Facility: NYM Cosigned with New Encounter Note by (b)(6),(b)(7)(C) MD on 07/24/2019 16:10. Bureau of Prisons - NYM DOJ-OGR-00024113",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Bureau of Prisons Health Services Cosign/Review",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Encounter Date: 07/24/2019 13:08 Sex: M Reg #: 76318-054 Provider: Joaquin, Y. MLP Race: WHITE Facility: NYM",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Cosigned with New Encounter Note by",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6),(b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "MD on 07/24/2019 16:10.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Bureau of Prisons - NYM DOJ-OGR-00024113",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN",
+      "Joaquin, Y."
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/24/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024113"
+    ]
+  },
+  "additional_notes": "The document appears to be a standard form used by the Bureau of Prisons for health services cosign/review. The highlighted section contains a redacted name."
+}

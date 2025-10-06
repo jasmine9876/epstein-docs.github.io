@@ -1,0 +1,80 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024262",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "8/2/19 J.Epstein 06/18-054 2:05pm 6:35 8/9/19 Epstein 6/3/18 8/3/19 J.Epstein 7/31/18-059 8:20 12:25 8/3/19 Epstein ? 6/31/84 11:40 ?",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "8/2/19",
+      "position": "margin"
+    },
+    {
+      "type": "handwritten",
+      "content": "J.Epstein 06/18-054 2:05pm 6:35",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/9/19",
+      "position": "margin"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein 6/3/18",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/3/19",
+      "position": "margin"
+    },
+    {
+      "type": "handwritten",
+      "content": "J.Epstein 7/31/18-059 8:20 12:25",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/3/19",
+      "position": "margin"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein ? 6/31/84 11:40 ?",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024262",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "J. Epstein",
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "8/2/19",
+      "8/9/19",
+      "8/3/19",
+      "8/3/19",
+      "6/3/18",
+      "7/31/18",
+      "6/31/84"
+    ],
+    "reference_numbers": [
+      "06/18-054",
+      "7/31/18-059"
+    ]
+  },
+  "additional_notes": "The document appears to be a log or record of some sort, with handwritten entries and redactions. The dates and times listed may be relevant to the content of the document. The reference numbers may be case or file numbers."
+}

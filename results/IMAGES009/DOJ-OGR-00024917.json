@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "440",
+    "document_number": "DOJ-OGR-00024917",
+    "date": null,
+    "document_type": "Mail Attachment",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 440 Mail Attachment Sheriff Bradshaw's letter to the Governor.pdf Page 1220 DOJ-OGR-00024917",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 440",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Mail Attachment",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Sheriff Bradshaw's letter to the Governor.pdf",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Page 1220",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024917",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Bradshaw",
+      "Sheriff Bradshaw",
+      "Governor"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00024917"
+    ]
+  },
+  "additional_notes": "The document appears to be a page indicating an attachment to an email or report, referencing a PDF file of a letter from Sheriff Bradshaw to the Governor. The page is likely part of a larger document or report, given the page numbers and reference number."
+}

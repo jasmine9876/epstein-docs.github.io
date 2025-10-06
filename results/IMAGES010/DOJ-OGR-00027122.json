@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Epstein 76318-011 10:16 Epstein 76318-011 20 1:30 Epstein 7631809 2102 Epstein 5631809 535 76318054 5:35 76318 09 5:37 537",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "Epstein 76318-011 10:16",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "J- Epstein 76318-011 20",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1:30",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein 7631809 2102",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein 5631809 535 76318054 5:35",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318 09 5:37 537",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein",
+      "J- Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "76318-011",
+      "7631809",
+      "5631809",
+      "76318054",
+      "76318 09"
+    ]
+  },
+  "additional_notes": "The document appears to be a heavily redacted log or record, with multiple handwritten entries. The redactions obscure most of the content, but the visible text includes names, numbers, and times."
+}

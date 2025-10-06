@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "76318054",
+    "date": "08/13/2019",
+    "document_type": "Inmate Detail Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Date: 08/13/2019 Time: 07:22 AM Federal Bureau of Prisons TRUVIEW Inmate Detail Report Sensitive But Unclassified Reg #: 76318054 Inmate Last Name: EPSTEIN Inmate First Name: JEFFREY DOB: 1/20/1953 Sex: Race: Ethnicity: Alpha Code: NYM Unit: NYM-Z-A Quarters: Z04-206LAD Status: Inactive Location Code: NYM Account Creation Date: 7/6/2019 TRUFACS Balance: $566.27 TRUFONE Balance: $0.00 TRULINCS Balance: $0.00 User ID: [b)(6), (b)(7)(C) Page 1 of 2 DOJ-OGR-00024472",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date: 08/13/2019 Time: 07:22 AM",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Federal Bureau of Prisons TRUVIEW Inmate Detail Report Sensitive But Unclassified",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Reg #: 76318054 Inmate Last Name: EPSTEIN Inmate First Name: JEFFREY DOB: 1/20/1953 Sex: Race: Ethnicity: Alpha Code: NYM Unit: NYM-Z-A Quarters: Z04-206LAD Status: Inactive Location Code: NYM Account Creation Date: 7/6/2019 TRUFACS Balance: $566.27 TRUFONE Balance: $0.00 TRULINCS Balance: $0.00",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "User ID: [b)(6), (b)(7)(C)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 1 of 2",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024472",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [
+      "DC",
+      "NYM"
+    ],
+    "dates": [
+      "08/13/2019",
+      "1/20/1953",
+      "7/6/2019"
+    ],
+    "reference_numbers": [
+      "76318054",
+      "DOJ-OGR-00024472"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned inmate detail report from the Federal Bureau of Prisons. The report contains personal and financial information about the inmate, Jeffrey Epstein. The document is marked 'Sensitive But Unclassified'."
+}

@@ -1,0 +1,136 @@
+{
+  "document_metadata": {
+    "page_number": "2864",
+    "document_number": "NYMAQ 530.03",
+    "date": "08-12-2019",
+    "document_type": "BUREAU OF PRISONS COUNT SHEET",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2864 NYMAQ 530.03 * BUREAU OF PRISONS COUNT SHEET * 08-12-2019 * PAGE 001 NEW YORK MCC * 21:24:49 QTRG EQ **** OCTG EQ **** OUT COUNT SECTION ATT F N Y N Y E S P & A N I UO T T Y CENSUS D N W S TU T I V I T COUNT AREA CENSUS COUNT VERIFY COUNT COUNT AREA B-A . . . . . . . . X B-A C-A . . . . . . . . X C-A E-N . . . 1 . . . 1 X E-N E-S . . . 1 . . . 1 X E-S G-N . . . . . . . . X G-N G-S . . . . . . . . X G-S H-A . . . . . . . . X H-A I-N . . . . . . . . X I-N K-N . . . . . . . . X K-N K-S . . . . . . . . X K-S R-A . . . . . . . . X R-A Z-A . . . . . . . . X Z-A Z-B . . . . . . . . X Z-B TOTAL . . . 2 . . 2 COUNT VERIFY X X OFFICIAL PREPARING COUNT: (b)(6); (b)(7)(C) OFFICIAL TAKING COUNT: COUNT CLEARED TIME: (b)(7)(F) G.C. DOJ-OGR-00026520",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "NYMAQ 530.03 * BUREAU OF PRISONS COUNT SHEET * 08-12-2019 * PAGE 001 NEW YORK MCC * 21:24:49 QTRG EQ **** OCTG EQ ****",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "OUT COUNT SECTION",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "COUNT AREA CENSUS COUNT VERIFY COUNT COUNT AREA",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "B-A . . . . . . . . X B-A",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "C-A . . . . . . . . X C-A",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "E-N . . . 1 . . . 1 X E-N",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "E-S . . . 1 . . . 1 X E-S",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "G-N . . . . . . . . X G-N",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "G-S . . . . . . . . X G-S",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "H-A . . . . . . . . X H-A",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "I-N . . . . . . . . X I-N",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "K-N . . . . . . . . X K-N",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "K-S . . . . . . . . X K-S",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "R-A . . . . . . . . X R-A",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Z-A . . . . . . . . X Z-A",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Z-B . . . . . . . . X Z-B",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "TOTAL . . . 2 . . 2",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "COUNT VERIFY X X",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "OFFICIAL PREPARING COUNT: (b)(6); (b)(7)(C) OFFICIAL TAKING COUNT: COUNT CLEARED TIME: (b)(7)(F)",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "G.C.",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026520",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "BUREAU OF PRISONS",
+      "DOJ"
+    ],
+    "locations": [
+      "NEW YORK MCC"
+    ],
+    "dates": [
+      "08-12-2019"
+    ],
+    "reference_numbers": [
+      "NYMAQ 530.03",
+      "DOJ-OGR-00026520"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6), (b)(7)(C), and (b)(7)(F). The count sheet appears to be a record of a count conducted at the New York MCC on August 12, 2019."
+}

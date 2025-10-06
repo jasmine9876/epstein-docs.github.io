@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": "3055",
+    "document_number": "BP-A0971",
+    "date": "AUG 11",
+    "document_type": "CHAIN OF CUSTODY LOG CDFRM",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 3055\nBP-A0971\nAUG 11\nCHAIN OF CUSTODY LOG CDFRM\nU.S. DEPARTMENT OF JUSTICE\nFEDERAL BUREAU OF PRISONS\nECN # NVM-19-0175 (Enclose with/attach to evidence)\nITEM # NVM-19-00183\nCASE ID NUMBER:\nSUSPECT (If known) Jeffrey Epstein\nDESCRIPTION OF ITEM: (1) home made Noose.\nDATE/TIME ITEM FOUND: 8/10/19@ 3:11pm\nLOCATION: Special Housing Unit L-Lier Cell#20\nSIGNATURE OF PERSON RECOVERING EVIDENCE:\nPRINTED NAME:\n(b)(6); (b)(7)(C)\nML III\nEVIDENCE PLACED IN OVERNIGHT DROP BOX:\nDROP-BOX BY: (printed name)\nDate & Time:\nWitness: (printed name)\nEVIDENCE RECOVERED FROM OVERNIGHT DROP BOX BY:\n(printed name)\nDate & Time:\nWitness: (printed name)\nEVIDENCE PLACED EVIDENCE SAFE BY:\n(printed name)\nDate & Time:\nWitness: (printed name)\nDISPOSITION:\n( ) Hold as evidence\n( ) Return to finder\n( ) Other\n( ) Return to owner\n( ) Destroy immediately\n( ) Lab Analysis\n( ) FBI\nREMARKS (condition of evidence):\nCHAIN OF CUSTODY\nEVIDENCE RELEASED BY:\nSIS#1\n(b)(6); (b)(7)(C)\nDATE/TIME:\n8/10/19 3:49pm\nDESTINATION:\nOCME\nEVIDENCE RELEASED TO:\n(b)(6); (b)(7)(C)\nML III\nPDF\nPrescribed by P5520\nDOJ-OGR-00026695",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3055\nBP-A0971\nAUG 11\nCHAIN OF CUSTODY LOG CDFRM\nU.S. DEPARTMENT OF JUSTICE\nFEDERAL BUREAU OF PRISONS",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "NVM-19-0175\nNVM-19-00183\nJeffrey Epstein\n(1) home made Noose.\n8/10/19@ 3:11pm\nSpecial Housing Unit L-Lier Cell#20",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "SIS#1\n8/10/19 3:49pm\nOCME",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "ECN # (Enclose with/attach to evidence)\nITEM #\nCASE ID NUMBER:\nSUSPECT (If known)\nDESCRIPTION OF ITEM:\nDATE/TIME ITEM FOUND:\nLOCATION:\nSIGNATURE OF PERSON RECOVERING EVIDENCE:\nPRINTED NAME:\nEVIDENCE PLACED IN OVERNIGHT DROP BOX:\nDROP-BOX BY: (printed name)\nDate & Time:\nWitness: (printed name)\nEVIDENCE RECOVERED FROM OVERNIGHT DROP BOX BY:\n(printed name)\nDate & Time:\nWitness: (printed name)\nEVIDENCE PLACED EVIDENCE SAFE BY:\n(printed name)\nDate & Time:\nWitness: (printed name)\nDISPOSITION:\n( ) Hold as evidence\n( ) Return to finder\n( ) Other\n( ) Return to owner\n( ) Destroy immediately\n( ) Lab Analysis\n( ) FBI\nREMARKS (condition of evidence):\nCHAIN OF CUSTODY\nEVIDENCE RELEASED BY:\nDATE/TIME:\nDESTINATION:\nEVIDENCE RELEASED TO:",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "U.S. DEPARTMENT OF JUSTICE",
+      "FEDERAL BUREAU OF PRISONS",
+      "FBI",
+      "OCME"
+    ],
+    "locations": [
+      "Special Housing Unit L-Lier Cell#20"
+    ],
+    "dates": [
+      "8/10/19",
+      "AUG 11"
+    ],
+    "reference_numbers": [
+      "BP-A0971",
+      "NVM-19-0175",
+      "NVM-19-00183",
+      "DOJ-OGR-00026695"
+    ]
+  },
+  "additional_notes": "The document appears to be a Chain of Custody Log from the Federal Bureau of Prisons, detailing the handling of evidence related to Jeffrey Epstein. The evidence is described as a 'home made Noose.' The document contains handwritten notes and redactions."
+}

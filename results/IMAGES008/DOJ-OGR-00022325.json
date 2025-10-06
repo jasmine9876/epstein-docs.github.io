@@ -1,0 +1,59 @@
+{
+  "document_metadata": {
+    "page_number": "40",
+    "document_number": "DOJ-OGR-00022325",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Manners, Tarssa Manzano, Jose Luis & Aleiandra Mappin, John Margolis, Eric Marks, Stephan & Alisa Marocco, Manilo & Pia Marterler Astrid Martins Peter Marzotto, Matteo Marsh, Jeremy Mason, Christopher Massimo Parisi Mattsson, Carolina Mavroleon Caitlin Mavroleon, Basil & Catarina Mavroleon Carlos DOJ-OGR-00022325",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Manners, Tarssa Manzano, Jose Luis & Aleiandra Mappin, John Margolis, Eric Marks, Stephan & Alisa Marocco, Manilo & Pia Marterler Astrid Martins Peter Marzotto, Matteo Marsh, Jeremy Mason, Christopher Massimo Parisi Mattsson, Carolina Mavroleon Caitlin Mavroleon, Basil & Catarina Mavroleon Carlos",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022325",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Manners, Tarssa",
+      "Manzano, Jose Luis",
+      "Manzano, Aleiandra",
+      "Mappin, John",
+      "Margolis, Eric",
+      "Marks, Stephan",
+      "Marks, Alisa",
+      "Marocco, Manilo",
+      "Marocco, Pia",
+      "Marterler Astrid",
+      "Martins Peter",
+      "Marzotto, Matteo",
+      "Marsh, Jeremy",
+      "Mason, Christopher",
+      "Massimo Parisi",
+      "Mattsson, Carolina",
+      "Mavroleon Caitlin",
+      "Mavroleon, Basil",
+      "Mavroleon, Catarina",
+      "Mavroleon Carlos"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022325"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 40 and the document number is DOJ-OGR-00022325."
+}

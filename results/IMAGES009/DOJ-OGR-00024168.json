@@ -1,0 +1,59 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "DOJ-OGR-00024168",
+    "date": "07/26/2019",
+    "document_type": "Medical History",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Inmate Name: EPSTEIN, JEFFREY EDWARD\nDate of Birth: 01/20/1953\nEncounter Date: 07/26/2019 07:54\nSex: M\nRace: WHITE\nReg #: 76318-054\nProvider: (b)(6).(b)(7)(C) DDS\nFacility: NYM\nUnit: H01\n\nOther Infectious Diseases:\nSyphilis: No\nSyphilis Last Treatment: N/A\nGenital Warts: No\nChlamydia: Yes\nGonorrhea: No\nHerpes: No\nChicken Pox: Yes\nOther: No\nComments: Chlamydia in 2015, treated\nChicken pox in childhood\n\nOther Health Issues:\nOther Medical Conditions And Treatment: sleep apnea\nCurrent Medical Conditions:\nOther Current Treatments:\nPregnant: N/A\n\nDental Observations as of Dental Health History Encounter date: 07/26/2019 07:54\nHistory:\nAlcohol: No\nMethamphetamine: No\nTobacco products: No\nOther drugs: No\nSensitive teeth: No\nBleeding gums: Yes\nFood impaction: Yes\nPain around ear: No\nToothache: No\nWear partial dentures: No\nUnusual sounds while eating: No\nSnoring: Yes\nBlisters on lips or mouth: No\nClenching or grinding: Yes\nSwelling or lumps in mouth/throat: No\nBurning tongue: No\nBad breath: No\nDecayed teeth: No\nLoose teeth: No\nWear dentures: No\nNone: No\nComments:\nGenerated 07/26/2019 07:59 by (b)(6).(b)(7)(C) DDS Bureau of Prisons - NYM\nPage 2 of 3\nDOJ-OGR-00024168",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD\nDate of Birth: 01/20/1953\nEncounter Date: 07/26/2019 07:54\nSex: M\nRace: WHITE\nReg #: 76318-054\nProvider: (b)(6).(b)(7)(C) DDS\nFacility: NYM\nUnit: H01",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Other Infectious Diseases:\nSyphilis: No\nSyphilis Last Treatment: N/A\nGenital Warts: No\nChlamydia: Yes\nGonorrhea: No\nHerpes: No\nChicken Pox: Yes\nOther: No\nComments: Chlamydia in 2015, treated\nChicken pox in childhood",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Other Health Issues:\nOther Medical Conditions And Treatment: sleep apnea\nCurrent Medical Conditions:\nOther Current Treatments:\nPregnant: N/A",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Dental Observations as of Dental Health History Encounter date: 07/26/2019 07:54\nHistory:\nAlcohol: No\nMethamphetamine: No\nTobacco products: No\nOther drugs: No\nSensitive teeth: No\nBleeding gums: Yes\nFood impaction: Yes\nPain around ear: No\nToothache: No\nWear partial dentures: No\nUnusual sounds while eating: No\nSnoring: Yes\nBlisters on lips or mouth: No\nClenching or grinding: Yes\nSwelling or lumps in mouth/throat: No\nBurning tongue: No\nBad breath: No\nDecayed teeth: No\nLoose teeth: No\nWear dentures: No\nNone: No\nComments:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/26/2019 07:59 by (b)(6).(b)(7)(C) DDS Bureau of Prisons - NYM\nPage 2 of 3\nDOJ-OGR-00024168",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/26/2019",
+      "2015"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024168"
+    ]
+  },
+  "additional_notes": "The document appears to be a medical history record for Jeffrey Edward Epstein, an inmate. The document contains various medical conditions and treatments. Some information is redacted, marked as '(b)(6).(b)(7)(C)'."
+}

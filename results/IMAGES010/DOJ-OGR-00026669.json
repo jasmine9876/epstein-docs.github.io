@@ -1,0 +1,72 @@
+{
+  "document_metadata": {
+    "page_number": "3029",
+    "document_number": "DOJ-OGR-00026669",
+    "date": "8/9/19",
+    "document_type": "Official Count Slip",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 3029 Metropolitan Correctional Center Official Count Slip Unit: TWDVR Date: 8/9/19 Time: 5:004m Count: (b(7)(F) (b)(6); (b)(7)(C) Print Name: Signature: Print Name: Signature Metropolitan Correctional Center Official Count Slip Unit: HOSP Date: 8/9/19 Time: 5:00AM Count: (b(7)(F) (b)(6); (b)(7)(C) Print Name: Signature: Print Name: Signature DOJ-OGR-00026669",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "TWDVR 8/9/19 5:004m",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Unit: Date: Time: Count: Print Name: Signature: Print Name: Signature",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b(7)(F)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "HOSP 8/9/19 5:00AM",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Unit: Date: Time: Count: Print Name: Signature: Print Name: Signature",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b(7)(F)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026669",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [],
+    "dates": [
+      "8/9/19"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026669"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned image of two Official Count Slips from the Metropolitan Correctional Center. The slips contain handwritten information, including dates, times, and unit names. Some information is redacted, marked as '(b(7)(F)' and '(b)(6); (b)(7)(C)'. The document quality is generally clear, but there are some minor speckles and marks on the page."
+}

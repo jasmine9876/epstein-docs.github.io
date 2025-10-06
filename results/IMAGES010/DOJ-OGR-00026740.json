@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "BP-A0973",
+    "date": "FEB 12",
+    "document_type": "EVIDENCE RECOVERY LOG CDFRM",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 3100 BP-A0973 FEB 12 EVIDENCE RECOVERY LOG CDFRM U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS Page 3 of 5 GENERAL INFORMATION PRINT LEGIBLY DATE 8-12-19 CASE ID LOCATION 9 South Z06-220 PREPARER/ASSISTANTS SIS Tech PERSONNEL (Include Initials) TENT CARD# ECN# DESCRIPTION WHERE FOUND RECOVERED BY PACKAGING METHOD COMMENTS (If needed) Nym-19-0177 5-Books Z06-220 SIS Tech (b)(6); (b)(7)(C) Paper Bag Nym-19-0177 2-packs Cotton Swabs Z06-220 SIS Tech (b)(6); (b)(7)(C) Paper Bag Nym-19-0177 2-Boxes of soap 1-Tone, 1-Dove Z06-220 SIS Tech (b)(6); (b)(7)(C) Paper Bag Nym-19-0177 6-AAA Battery Z06-220 SIS Tech (b)(6); (b)(7)(C) Paper Bag Nym-19-0177 1-glasses Z06-220 SIS Tech (b)(6); (b)(7)(C) Paper Bag DOJ-OGR-00026740",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3100 BP-A0973 FEB 12 EVIDENCE RECOVERY LOG CDFRM U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS Page 3 of 5 GENERAL INFORMATION PRINT LEGIBLY PERSONNEL (Include Initials) TENT CARD# ECN# DESCRIPTION WHERE FOUND RECOVERED BY PACKAGING METHOD COMMENTS (If needed)",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "DATE 8-12-19 LOCATION 9 South Z06-220 PREPARER/ASSISTANTS SIS Tech",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Nym-19-0177 5-Books Z06-220 SIS Tech (b)(6); (b)(7)(C) Paper Bag Nym-19-0177 2-packs Cotton Swabs Z06-220 SIS Tech (b)(6); (b)(7)(C) Paper Bag Nym-19-0177 2-Boxes of soap 1-Tone, 1-Dove Z06-220 SIS Tech (b)(6); (b)(7)(C) Paper Bag Nym-19-0177 6-AAA Battery Z06-220 SIS Tech (b)(6); (b)(7)(C) Paper Bag Nym-19-0177 1-glasses Z06-220 SIS Tech (b)(6); (b)(7)(C) Paper Bag",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026740",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "U.S. DEPARTMENT OF JUSTICE",
+      "FEDERAL BUREAU OF PRISONS"
+    ],
+    "locations": [
+      "9 South Z06-220",
+      "Z06-220"
+    ],
+    "dates": [
+      "8-12-19",
+      "FEB 12"
+    ],
+    "reference_numbers": [
+      "BP-A0973",
+      "Nym-19-0177",
+      "DOJ-OGR-00026740"
+    ]
+  },
+  "additional_notes": "The document contains handwritten and printed text. Some information is redacted with (b)(6); (b)(7)(C)."
+}

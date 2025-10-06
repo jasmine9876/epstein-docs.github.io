@@ -1,0 +1,73 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "IO25",
+    "date": "04/28/2014",
+    "document_type": "Inspection Remarks",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:08:00 IO25 INSPECTION REMARKS 04/28/2014 *A *B *C PAGE 1 +--------------------------------------- INSPECTION REMARKS ---------------------------------------+ (b)(7)(E) TRANSIT STOP AND FLYING TO NEW MEXICO. +-----------------------------------------------------------------------------------------------+ (b)(7)(E) (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) DOJ-OGR-00028649",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:08:00 IO25 INSPECTION REMARKS 04/28/2014",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE 1",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "+--------------------------------------- INSPECTION REMARKS ---------------------------------------+",
+      "position": "top"
+    },
+    {
+      "type": "redacted",
+      "content": "(b)(7)(E)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "TRANSIT STOP AND FLYING TO NEW MEXICO.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "+-----------------------------------------------------------------------------------------------+",
+      "position": "middle"
+    },
+    {
+      "type": "redacted",
+      "content": "(b)(7)(E) (b)(7)(E) (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028649",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [
+      "New Mexico"
+    ],
+    "dates": [
+      "04/28/2014"
+    ],
+    "reference_numbers": [
+      "IO25",
+      "DOJ-OGR-00028649"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(7)(E), (b)(6), and (b)(7)(C). The document appears to be a report or inspection remarks related to a transit stop and flying to New Mexico."
+}

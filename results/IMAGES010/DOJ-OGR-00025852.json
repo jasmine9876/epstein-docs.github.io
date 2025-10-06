@@ -1,0 +1,51 @@
+{
+  "document_metadata": {
+    "page_number": "1853",
+    "document_number": "EPSTEIN #76318-054",
+    "date": "2019/08/19 09:17",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "EPSTEIN #76318-054\nFrom (b)(6); (b)(7)(C)\nTo (b)(6); (b)(7)(C)\nDate 2019/08/19 09:17\nSubject: EPSTEIN #76318-054\nAttachments: TEXT.htm\nGood morning,\nDid you get the case number yet for the autopsy? I have a draft letter to assist you in requesting the autopsy report itself.\nThank you,\n(b)(6); (b)(7)(C)\nSupervisory Staff Attorney\nCLC New York\nMetropolitan Correctional Center\n150 Park Row\nNew York, New York 10007\np. (646)836(b)(6); (b)(7)(C)\nf. (646)836-7665",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "EPSTEIN #76318-054",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "From (b)(6); (b)(7)(C)\nTo (b)(6); (b)(7)(C)\nDate 2019/08/19 09:17\nSubject: EPSTEIN #76318-054\nAttachments: TEXT.htm",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Good morning,\nDid you get the case number yet for the autopsy? I have a draft letter to assist you in requesting the autopsy report itself.\nThank you,",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6); (b)(7)(C)\nSupervisory Staff Attorney\nCLC New York\nMetropolitan Correctional Center\n150 Park Row\nNew York, New York 10007\np. (646)836(b)(6); (b)(7)(C)\nf. (646)836-7665",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "CLC New York",
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "2019/08/19 09:17"
+    ],
+    "reference_numbers": [
+      "EPSTEIN #76318-054",
+      "DOJ-OGR-00025852"
+    ]
+  },
+  "additional_notes": "The document contains redactions in the 'From', 'To', 'Signature', and phone number fields. The content is related to an autopsy report and a draft letter to assist in requesting the autopsy report."
+}

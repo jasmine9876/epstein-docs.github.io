@@ -1,0 +1,69 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "DOJ-OGR-00026120",
+    "date": "07/12/2019",
+    "document_type": "Clinical Encounter",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2444 Bureau of Prisons Health Services Clinical Encounter Inmate Name: EPSTEIN, JEFFREY EDWARD Reg #: 76318-054 Date of Birth: 01/20/1953 Sex: M Race: WHITE Facility: NYM Encounter Date: 07/12/2019 13:10 Provider: (b)(6); (b)(7)(C) MD Unit: Z05 Chronic Care - 14 Day Physician Eval encounter performed at Health Services. SUBJECTIVE: COMPLAINT 1 Provider: (b)(6); (b)(7)(C) MD Chief Complaint: ENDO/LIPID Subjective: 66 YR OLD WHITE MALE WITH HX OF HYPERTRIGLYCERIDEMIA X 5 YEARS ON VASCEPA FOR 1 YEAR. STATES TRIGL WAS 800 , NOW 434. STATES HE COULD NOT TOLERATE OTHER ANTI-TRIGLYCERIDE MEDS DUE TO THEIR GI SIDE EFFECTS. HX OF OBSTRUCTUVE SLEEP APNEA X 5 YEARS FOR WHICH HE USED A CPAP MACHINE. STATES HE HAD HIS CPAP MACHINE WITH HIM WHEN HE ARRESTED. STATES THE FBI LOCELY HAS L4 - L5 SEVERE STENOSIS CASUING NUMBBNESS AND SHOOTING PAIN IN THE LOWER EXTREMITIES. SURGICAL HX: NONE MENTAL HEALTH HX: NONE Pain: Yes Pain Assessment Date: 07/12/2019 13:25 Location: Back-Middle Quality of Pain: Shooting Pain Scale: 5 Intervention: MEDROL DOSE PACK Trauma Date/Year: Injury: Mechanism: Onset: 5+ Years Duration: 5+ Years Exacerbating Factors: NO EXERCISE Relieving Factors: MEDROL DOSE PACK Reason Not Done: Comments: Seen for clinic(s): Endocrine/Lipid, Pulmonary/Respiratory, Orthopedic/Rheumatology Added to clinic(s): Endocrine/Lipid, Pulmonary/Respiratory, Orthopedic/Rheumatology OBJECTIVE: Exam: General Appearance Yes: Appears Well, Alert and Oriented x 3 No: Appears Distressed, Dyspneic, Appears in Pain, Writhing in Pain, Pale, Pallor, Cyanotic, Diaphoretic, Disheveled, Unkempt, Acutely Ill Nutrition No: Appears Obese Generated 07/12/2019 14:20 by (b)(6); (b)(7)(C) MD Bureau of Prisons - NYM Page 1 of 3",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Bureau of Prisons Health Services Clinical Encounter",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Encounter Date: 07/12/2019 13:10 Sex: M Race: WHITE Reg #: 76318-054 Provider: (b)(6); (b)(7)(C) MD Facility: NYM Unit: Z05",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Chronic Care - 14 Day Physician Eval encounter performed at Health Services.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SUBJECTIVE: COMPLAINT 1 Provider: (b)(6); (b)(7)(C) MD Chief Complaint: ENDO/LIPID Subjective: ...",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Pain Assessment Date: 07/12/2019 13:25 Location: Back-Middle Quality of Pain: Shooting Pain Scale: 5 Intervention: MEDROL DOSE PACK",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "OBJECTIVE: Exam: General Appearance Yes: Appears Well, Alert and Oriented x 3 No: Appears Distressed, Dyspneic, Appears in Pain, Writhing in Pain, Pale, Pallor, Cyanotic, Diaphoretic, Disheveled, Unkempt, Acutely Ill Nutrition No: Appears Obese",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/12/2019 14:20 by (b)(6); (b)(7)(C) MD Bureau of Prisons - NYM Page 1 of 3",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons",
+      "FBI"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/12/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026120"
+    ]
+  },
+  "additional_notes": "The document contains a large 'Amendment' watermark across the center. The inmate's name is Jeffrey Edward Epstein. The document is a clinical encounter report from the Bureau of Prisons Health Services."
+}

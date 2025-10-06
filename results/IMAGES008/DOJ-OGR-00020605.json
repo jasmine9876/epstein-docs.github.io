@@ -1,0 +1,50 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "40",
+    "date": "01/12/2023",
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 22-1426, Document 40, 01/12/2023, 3451920, Page4 of 4\n546 5th Avenue, 6th Floor\nNew York, New York 10036\n3\nDOJ-OGR-00020605",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 22-1426, Document 40, 01/12/2023, 3451920, Page4 of 4",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "546 5th Avenue, 6th Floor\nNew York, New York 10036",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "3",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00020605",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "01/12/2023"
+    ],
+    "reference_numbers": [
+      "22-1426",
+      "40",
+      "3451920",
+      "DOJ-OGR-00020605"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing or legal document. The page is mostly blank with some header and footer information."
+}

@@ -1,0 +1,68 @@
+{
+  "document_metadata": {
+    "page_number": "2969",
+    "document_number": "DOJ-OGR-00026625",
+    "date": "8/19/19 and 8/18/19",
+    "document_type": "Official Count Slips",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2969 Metropolitan Correctional Center Official Count Slip Unit: CA Date: 8/9/19 Count: (b)(7)(F) Time: 4:00 Print Name: (b)(6); (b)(7)(C) Signature: Print Name: (b)(6); (b)(7)(C) Signature: Metropolitan Correctional Center Official Count Slip Unit: Hosp Date: 8/18/19 Count: (b)(7)(F) Time: 4:00 pm Print Name: (b)(6); (b)(7)(C) Signature: Print Name: (b)(6); (b)(7)(C) Signature: DOJ-OGR-00026625",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "CA 8/9/19 4:00",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(F)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Hosp 8/18/19 4:00 pm",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(F)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026625",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [],
+    "dates": [
+      "8/19/19",
+      "8/18/19"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026625"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as (b)(6); (b)(7)(C) and (b)(7)(F). The document appears to be a scan of two Official Count Slips from the Metropolitan Correctional Center."
+}

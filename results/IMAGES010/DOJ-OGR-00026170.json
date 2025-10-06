@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "DOJ-OGR-00026170",
+    "date": "07/26/2019",
+    "document_type": "Dental A&O Exam",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2494 Bureau of Prisons Health Services Dental A&O Exam Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Encounter Date: 07/26/2019 07:47 Sex: M Race: WHITE Reg #: 76318-054 Provider: (b)(6); (b)(7)(C) DDS Facility: NYM Unit: H01 Reviewed Health Status: Yes Occlusion: Class I Oral Hygiene: Fair CPITN: 3 2 3 3 2 3 Hard and soft tissue examination performed and documented on BP618 form: Yes Head & Neck/Soft Tissue within normal limits? No Comments: moderate to advanced upper posterior gingival recession Decayed: 0 Missing: 1 Filled: 14 Comments: Lower anterior crowding Approved for hygiene appointment and radiographs: Yes Instructed inmate how to obtain routine and emergency dental care. Oral hygiene instructions given: Yes Dental A&O Screening Exam findings entered on EPSTEIN, JEFFREY EDWARD by (b)(6); (b)(7)(C) DDS on 07/26/2019 07:47. Generated 07/26/2019 08:00 by (b)(6); (b)(7)(C) DDS Bureau of Prisons - NYM Page 1 of 1",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Bureau of Prisons Health Services Dental A&O Exam",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Encounter Date: 07/26/2019 07:47 Sex: M Race: WHITE Reg #: 76318-054 Provider: (b)(6); (b)(7)(C) DDS Facility: NYM Unit: H01",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Reviewed Health Status: Yes Occlusion: Class I Oral Hygiene: Fair CPITN: 3 2 3 3 2 3",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Hard and soft tissue examination performed and documented on BP618 form: Yes Head & Neck/Soft Tissue within normal limits? No Comments: moderate to advanced upper posterior gingival recession Decayed: 0 Missing: 1 Filled: 14 Comments: Lower anterior crowding Approved for hygiene appointment and radiographs: Yes Instructed inmate how to obtain routine and emergency dental care. Oral hygiene instructions given: Yes",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Dental A&O Screening Exam findings entered on EPSTEIN, JEFFREY EDWARD by (b)(6); (b)(7)(C) DDS on 07/26/2019 07:47.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/26/2019 08:00 by (b)(6); (b)(7)(C) DDS Bureau of Prisons - NYM Page 1 of 1",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/26/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026170"
+    ]
+  },
+  "additional_notes": "The document appears to be a dental examination report for an inmate. Some personal identifiable information is redacted."
+}

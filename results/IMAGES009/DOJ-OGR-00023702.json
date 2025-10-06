@@ -1,0 +1,53 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00023702",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "I really appreciate your help. Thank you, -- [b](6) [b](7)(C) -- [b](6) [b](7)(C) -- [b](6) [b](7)(C) -- [b](6) [b](7)(C) DOJ-OGR-00023702",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "I really appreciate your help. Thank you,",
+      "position": "top"
+    },
+    {
+      "type": "other",
+      "content": "[b](6) [b](7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "other",
+      "content": "[b](6) [b](7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "other",
+      "content": "[b](6) [b](7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "other",
+      "content": "[b](6) [b](7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00023702",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00023702"
+    ]
+  },
+  "additional_notes": "The document contains multiple redactions marked as [b](6) [b](7)(C), indicating potentially sensitive information has been removed."
+}

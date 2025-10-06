@@ -1,0 +1,80 @@
+{
+  "document_metadata": {
+    "page_number": "1805",
+    "document_number": "DOJ-OGR-00023666",
+    "date": "7/24/2019",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "(b)(6), (b)(7)(C) @nyu.edu> 7/24/2019 3:17 PM >>> Hello (b)(6), (b)(7)(C) I left you a voicemail earlier today regarding my paralegal application for Jeffrey Epstein, Reg. #76318-054. I was told today by the lobby guards that I had to re-submit my application and to ask the legal department directly on the reasoning. I wanted to reach out to ask what in my application needed to be changed or fixed so that I do not repeat the mistake. I really appreciate your help. Thank you, -- (b)(6), (b)(7)(C) -- (b)(6), (b)(7)(C) -- (b)(6), (b)(7)(C) Page 1805 DOJ-OGR-00023666",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C) @nyu.edu> 7/24/2019 3:17 PM >>>",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Hello (b)(6), (b)(7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "I left you a voicemail earlier today regarding my paralegal application for Jeffrey Epstein, Reg. #76318-054. I was told today by the lobby guards that I had to re-submit my application and to ask the legal department directly on the reasoning. I wanted to reach out to ask what in my application needed to be changed or fixed so that I do not repeat the mistake.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "I really appreciate your help.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Thank you,",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "-- (b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "-- (b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "-- (b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 1805",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00023666",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "NYU"
+    ],
+    "locations": [],
+    "dates": [
+      "7/24/2019"
+    ],
+    "reference_numbers": [
+      "#76318-054",
+      "DOJ-OGR-00023666"
+    ]
+  },
+  "additional_notes": "The document contains multiple redactions of personal information marked as '(b)(6), (b)(7)(C)'. The email is regarding a paralegal application for Jeffrey Epstein."
+}

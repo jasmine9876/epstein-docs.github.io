@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "76318-054",
+    "date": "1/21/13",
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "(b)(6), (b)(7)(C) (b)(6), (b)(7)(C) Epselen (b)(6), (b)(7)(C) 76318-054 1/21/13 2:13 DOJ-OGR-00024233",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "margin"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epselen",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "margin"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318-054 1/21/13 2:13",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024233",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "1/21/13"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024233"
+    ]
+  },
+  "additional_notes": "The document has been heavily redacted, with most of the content obscured by green highlighting. The visible text is mostly handwritten and appears to be a signature and a date with a timestamp."
+}

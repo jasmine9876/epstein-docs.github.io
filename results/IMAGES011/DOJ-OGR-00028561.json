@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028561",
+    "date": "08/13/2010",
+    "document_type": "SECONDARY INSPECTION",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07:52 04/28/2014 *A *B ENTRY: 08/13/2010 UPDATE: 08/13/2010 *C INSPECTION DTE: 08/13/2010 PORT/SITE: 7401/A512 CBP-ST THOMAS, VI PRECLEARA LAST NAME:* EPSTEIN FIRST:* JEFFREY DOC TYPE: P #: 469911707 DOB:* 01201953 RCPT#: GENDER:* M RACE:* U UNKNOWN CARRIER:* 99 FLT/VES #:* N909J IN/OUT:* I DEPART/DESTIN:* STT ISSUING CNTRY: US ID-ST: HISPANIC:* N (Y/N) FLT/VES CREW:* N (Y/N) EMBARK:* STT REFERRING OFFICER CODE:(b) (7) (E) REASON FOR REFERRAL:(b) (7) (E) BAG EXAM:* N (Y/N) # BAGS X-RAYED: PRSNL SRCH:* N (Y/N) # PAX ON DEC:* 1 POS/NEG INSP:* N (P/N/U) REFERRAL TIME:* 16 : 10 COMPLETION TIME:* 16 : 20 IOEM:* (Y/N) IOEM#: CCD USED:*D (Y/N) CAT 1 OR 2: VIOL CDS: INCIDENT #: REMARKS: (b) (7) (E) INSP COMPLETE:* Y (Y/N) ** SECONDARY INSPECTION COMPLETE ** (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) *E - (b) (7) (E)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07:52 04/28/2014 *A *B ENTRY: 08/13/2010 UPDATE: 08/13/2010 *C INSPECTION DTE: 08/13/2010 PORT/SITE: 7401/A512 CBP-ST THOMAS, VI PRECLEARA",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "LAST NAME:* EPSTEIN FIRST:* JEFFREY DOC TYPE: P #: 469911707 DOB:* 01201953 RCPT#: GENDER:* M RACE:* U UNKNOWN CARRIER:* 99 FLT/VES #:* N909J IN/OUT:* I DEPART/DESTIN:* STT ISSUING CNTRY: US ID-ST: HISPANIC:* N (Y/N) FLT/VES CREW:* N (Y/N) EMBARK:* STT",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "REFERRING OFFICER CODE:(b) (7) (E) REASON FOR REFERRAL:(b) (7) (E) BAG EXAM:* N (Y/N) # BAGS X-RAYED: PRSNL SRCH:* N (Y/N) # PAX ON DEC:* 1 POS/NEG INSP:* N (P/N/U) REFERRAL TIME:* 16 : 10 COMPLETION TIME:* 16 : 20 IOEM:* (Y/N) IOEM#: CCD USED:*D (Y/N) CAT 1 OR 2: VIOL CDS: INCIDENT #: REMARKS: (b) (7) (E) INSP COMPLETE:* Y (Y/N) ** SECONDARY INSPECTION COMPLETE **",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) *E - (b) (7) (E)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028561",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "CBP"
+    ],
+    "locations": [
+      "ST THOMAS, VI"
+    ],
+    "dates": [
+      "08/13/2010",
+      "04/28/2014",
+      "01/20/1953"
+    ],
+    "reference_numbers": [
+      "469911707",
+      "N909J",
+      "7401/A512",
+      "DOJ-OGR-00028561"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b) (7) (E)' and other codes, indicating sensitive or confidential content. The inspection was completed on August 13, 2010, at CBP-ST THOMAS, VI."
+}

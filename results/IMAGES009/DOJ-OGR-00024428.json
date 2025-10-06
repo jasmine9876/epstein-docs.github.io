@@ -1,0 +1,52 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024428",
+    "date": "13 Aug 2019",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "From: (b)(6) (b)(7)(C) (OAG) (b)(6) (b)(7)(C) @usdoj.gov To: Hugh Hurwitz (b)(6) @bop.gov Subject: draft Sent: Tue, 13 Aug 2019 13:00:47 +0000 Please review (b)(5) 8/13/19 8:55pm",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "From: (b)(6) (b)(7)(C) (OAG) (b)(6) (b)(7)(C) @usdoj.gov To: Hugh Hurwitz (b)(6) @bop.gov Subject: draft Sent: Tue, 13 Aug 2019 13:00:47 +0000 Please review",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(5)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "8/13/19 8:55pm",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024428",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Hugh Hurwitz"
+    ],
+    "organizations": [
+      "OAG",
+      "BOP",
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "13 Aug 2019",
+      "8/13/19"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00024428"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted email with a large green block covering the main content. The email is from an unknown sender at the Department of Justice to Hugh Hurwitz at the Bureau of Prisons, regarding a draft document. The email was sent on August 13, 2019, at 13:00:47 UTC and received at 8:55 pm on the same day."
+}

@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "2946",
+    "document_number": "NYMH4 530+05",
+    "date": "08-11-2019",
+    "document_type": "INMATE ROSTER",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2946 NYMH4 530+05 * INMATE ROSTER * 08-11-2019 PAGE 001 OF 001 CATEGORY: OCT ASSIGNMENT: FS GROUP CODE: 09:09:01 OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT FACILITY: NYM OPER CATG ASSIGNMENT NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK 0001 FS 08-11-2019 B10-579L WAREHOUSE 0002 08-11-2019 K07-011U FS AM 0003 08-11-2019 K09-031U FS AM 0004 08-11-2019 K11-053U FS AM 0005 08-11-2019 K07-008L FS AM 0006 08-11-2019 K08-016L FS AM 0007 08-11-2019 K11-054L FS AM 0008 08-11-2019 K08-014L SUICIDE OR 0009 08-11-2019 K11-055U FS AM 0010 08-11-2019 K08-019U FS AM 0011 08-11-2019 K08-020U FS AM 0012 08-11-2019 K07-001L FS AM 0013 08-11-2019 K08-013U UNASSG 0014 08-11-2019 K11-052L FS AM 0015 08-11-2019 K11-060L PLUMBING 0016 08-11-2019 K11-053L FS WAREHOU SUICIDE OR G0000 TRANSACTION SUCCESSFULLY COMPLETED DOJ-OGR-00026602",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 2946",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NYMH4 530+05 * INMATE ROSTER * 08-11-2019",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE 001 OF 001 CATEGORY: OCT ASSIGNMENT: FS GROUP CODE: 09:09:01",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT FACILITY: NYM OPER CATG ASSIGNMENT",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "0001 FS 08-11-2019 B10-579L WAREHOUSE 0002 08-11-2019 K07-011U FS AM 0003 08-11-2019 K09-031U FS AM 0004 08-11-2019 K11-053U FS AM 0005 08-11-2019 K07-008L FS AM 0006 08-11-2019 K08-016L FS AM 0007 08-11-2019 K11-054L FS AM 0008 08-11-2019 K08-014L SUICIDE OR 0009 08-11-2019 K11-055U FS AM 0010 08-11-2019 K08-019U FS AM 0011 08-11-2019 K08-020U FS AM 0012 08-11-2019 K07-001L FS AM 0013 08-11-2019 K08-013U UNASSG 0014 08-11-2019 K11-052L FS AM 0015 08-11-2019 K11-060L PLUMBING 0016 08-11-2019 K11-053L FS WAREHOU SUICIDE OR",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "G0000 TRANSACTION SUCCESSFULLY COMPLETED",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026602",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "08-11-2019"
+    ],
+    "reference_numbers": [
+      "NYMH4 530+05",
+      "DOJ-OGR-00026602"
+    ]
+  },
+  "additional_notes": "The document appears to be a roster of inmates, with details about their assignments and dates. The names of the inmates are redacted."
+}

@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": "1998",
+    "document_number": "DOJ-OGR-00023688",
+    "date": "2019/07/18",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Epstein, Jeffrey Edward, Reg. No. 76318-054\nFrom\nCharisma Edge\nTo\nLamine N'Diaye, Lee Plourde, Shirley V. Skipper-Scott\nDate\n2019/07/18 15:02\nSubject:\nEpstein, Jeffrey Edward, Reg. No. 76318-054\nAttachments:\nTEXT.htm, Charisma Edge.vcf\nFYI....Epstein was not granted bail. He returned from court wo incident.\nCharisma Edge\nAssociate Warden (O)\nFCI Estill\n100 Prison Road\nEstill, SC 29918\n803-625-\n@bop.gov\nEST/AW-Operations~@bop.gov\nPage 1998\nDOJ-OGR-00023688",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Epstein, Jeffrey Edward, Reg. No. 76318-054",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "From\nCharisma Edge\nTo\nLamine N'Diaye, Lee Plourde, Shirley V. Skipper-Scott\nDate\n2019/07/18 15:02\nSubject:\nEpstein, Jeffrey Edward, Reg. No. 76318-054\nAttachments:\nTEXT.htm, Charisma Edge.vcf",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "FYI....Epstein was not granted bail. He returned from court wo incident.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Charisma Edge\nAssociate Warden (O)\nFCI Estill\n100 Prison Road\nEstill, SC 29918\n803-625-\n@bop.gov\nEST/AW-Operations~@bop.gov",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 1998\nDOJ-OGR-00023688",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Edward Epstein",
+      "Lamine N'Diaye",
+      "Lee Plourde",
+      "Shirley V. Skipper-Scott",
+      "Charisma Edge"
+    ],
+    "organizations": [
+      "FCI Estill",
+      "BOP"
+    ],
+    "locations": [
+      "Estill, SC"
+    ],
+    "dates": [
+      "2019/07/18"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00023688"
+    ]
+  },
+  "additional_notes": "The document appears to be an email regarding Jeffrey Epstein's court appearance. Some phone numbers and email addresses are redacted."
+}

@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "1625",
+    "document_number": "DOJ-OGR-00025680",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 1625\n(b)(6); (b)(7)(C)\nSupervisory Staff Attorney\nCLC New York\nMetropolitan Correctional Center\n150 Park Row\nNew York, New York 10007\np: (646)836-(b)(6); (b)(7)(C)\nf: (646)836-7665\n\n\n\n\n\n\n\n\n\nPage 7992\nDOJ-OGR-00025680",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 1625",
+      "position": "header"
+    },
+    {
+      "type": "other",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Supervisory Staff Attorney\nCLC New York\nMetropolitan Correctional Center\n150 Park Row\nNew York, New York 10007\np: (646)836-(b)(6); (b)(7)(C)\nf: (646)836-7665",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Page 7992",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025680",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "CLC New York",
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00025680",
+      "(646)836-7665"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6); (b)(7)(C) in the contact information of the Supervisory Staff Attorney."
+}

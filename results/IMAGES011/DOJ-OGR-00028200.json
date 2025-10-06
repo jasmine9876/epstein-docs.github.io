@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "0006",
+    "document_number": "DOJ-OGR-00028200",
+    "date": "04282014",
+    "document_type": "TECSII - PRIMARY QUERY HISTORY PASSENGER ACTIVITY",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 *B TECSII - PRIMARY QUERY HISTORY 04282014 *A PASSENGER ACTIVITY *C PAGE NO. 0006 NAME DOB DATE TIME AGN ---- QUERY ---- LNE TERM/ RSLT TYP REF LANE API DIM EPSTEIN, JEFFREY 012053 010212 1423 CUS *D AIR CUS EY10 N N A512-CBP-ST THOMAS, VI PRECL DOC: 469911707 US P INSP: *E EPSTEIN, JEFFREY 012053 010712 0000 *F API 01 R N PARIS, ORLY DOC: US INSP: APIS QRY EPSTEIN, JEFFREY 012053 012412 0919 CUS *G AIR CUS EY06 N N A512-CBP-ST THOMAS, VI PRECL DOC: 469911707 US P INSP: *H EPSTEIN, JEFFREY 012053 121111 1432 CUS *I AIR EY08 N N A512-CBP-ST THOMAS, VI PRECL DOC: 469911707 US P INSP: *J EPSTEIN, JEFFREY 012053 110211 1450 CUS *K AIR EY12 N N A512-CBP-ST THOMAS, VI PRECL DOC: 469911707 US P INSP: *L EPSTEIN, JEFFREY 012053 110311 0000 *M API 01 R N PARIS, ORLY DOC: US INSP: APIS QRY (b) (7) (E) <...MORE...> (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) *E - (b) (6), (b) (7) (C) *F - (b) (7) (E) *G - (b) (7) (E) *H - (b) (6) , (b) (7) (C) *I - (b) (7) (E) *J - (b) (6) , (b) (7) (C) *K - (b) (7) (E) *L - (b) (6) , (b) (7) (C) *M - (b) (7) (E) DOJ-OGR-00028200",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "TECSII - PRIMARY QUERY HISTORY PASSENGER ACTIVITY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE NO. 0006",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB DATE TIME AGN ---- QUERY ---- LNE TERM/ RSLT TYP REF LANE API DIM",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY 012053 010212 1423 CUS *D AIR CUS EY10 N N A512-CBP-ST THOMAS, VI PRECL DOC: 469911707 US P INSP: *E",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) *E - (b) (6), (b) (7) (C) *F - (b) (7) (E) *G - (b) (7) (E) *H - (b) (6) , (b) (7) (C) *I - (b) (7) (E) *J - (b) (6) , (b) (7) (C) *K - (b) (7) (E) *L - (b) (6) , (b) (7) (C) *M - (b) (7) (E)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028200",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN",
+      "ST THOMAS"
+    ],
+    "organizations": [
+      "CBP"
+    ],
+    "locations": [
+      "PARIS",
+      "ORLY"
+    ],
+    "dates": [
+      "010212",
+      "010712",
+      "012412",
+      "121111",
+      "110211",
+      "110311",
+      "04282014"
+    ],
+    "reference_numbers": [
+      "469911707",
+      "DOJ-OGR-00028200"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted TECSII query history report. Multiple fields are redacted with '(b) (7) (E)' or '(b) (6), (b) (7) (C)'."
+}

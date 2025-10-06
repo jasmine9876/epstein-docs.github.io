@@ -1,0 +1,76 @@
+{
+  "document_metadata": {
+    "page_number": "3036",
+    "document_number": "NYMAQ 530.03 PAGE 001",
+    "date": "08-10-2019",
+    "document_type": "BUREAU OF PRISONS COUNT SHEET",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 3036 NYMAQ 530.03 * BUREAU OF PRISONS COUNT SHEET * 08-10-2019 PAGE 001 NEW YORK MCC * 21:39:31 QTRG EQ *** OCTG EQ **** OUT COUNT SECTION TR V OC TU VERIFY COUNT COUNT AREA CENSUS COUNT AREA ATTY F N J F N Y E F H M R S & A N V S I U O N T V E R I F Y COUNT COUNT AREA B-A (b)(7)(F) B-A C-A (b)(7)(F) C-A E-N . . . . . . . . . . . . E-N E-S . . 1 . . . . 1 E-S G-N . . . . . . . . . . . . G-N G-S . . . . . . . . . . . . G-S H-A . . . . . . . . . . . . H-A I-N . . . . . . . . . . . . I-N K-N . . . . . . . . . . . . K-N K-S . . 1 . . . . 1 K-S R-A . . . . . . . . . . . . R-A Z-A . . . . . . . . . . . . Z-A Z-B . . . . . . . . . . . . Z-B TOTAL . . 2 . . . 2 TOTAL COUNT VERIFY OFFICIAL PREPARING COUNT: (b)(6); (b)(7)(C) OFFICIAL TAKING COUNT: COUNT CLEARED TIME: (b)(7)(F) Good Verbal: DOJ-OGR-00026676",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3036 NYMAQ 530.03 * BUREAU OF PRISONS COUNT SHEET * 08-10-2019 PAGE 001 NEW YORK MCC * 21:39:31 QTRG EQ *** OCTG EQ ****",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "OUT COUNT SECTION TR V OC TU VERIFY COUNT COUNT AREA CENSUS COUNT AREA",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "ATTY F N J F N Y E F H M R S & A N V S I U O N T V E R I F Y COUNT COUNT AREA",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "B-A C-A E-N E-S G-N G-S H-A I-N K-N K-S R-A Z-A Z-B TOTAL",
+      "position": "left"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(F) B-A (b)(7)(F) C-A . . . . . . . . . . . . E-N . . 1 . . . . 1 E-S . . . . . . . . . . . . G-N . . . . . . . . . . . . G-S . . . . . . . . . . . . H-A . . . . . . . . . . . . I-N . . . . . . . . . . . . K-N . . . . . . . . . . . . K-S . . 1 . . . . 1 K-S . . . . . . . . . . . . R-A . . . . . . . . . . . . Z-A . . . . . . . . . . . . Z-B . . 2 . . . 2 TOTAL",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "X",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "COUNT VERIFY OFFICIAL PREPARING COUNT: (b)(6); (b)(7)(C) OFFICIAL TAKING COUNT: COUNT CLEARED TIME: (b)(7)(F)",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "Good Verbal:",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026676",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "BUREAU OF PRISONS",
+      "NEW YORK MCC"
+    ],
+    "locations": [
+      "NEW YORK"
+    ],
+    "dates": [
+      "08-10-2019"
+    ],
+    "reference_numbers": [
+      "NYMAQ 530.03 PAGE 001",
+      "DOJ-OGR-00026676"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6), (b)(7)(C), and (b)(7)(F). The count sheet appears to be a record of a count conducted at the New York MCC on August 10, 2019."
+}

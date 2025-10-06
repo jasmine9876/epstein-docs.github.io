@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "55",
+    "date": "May 25, 2021",
+    "document_type": "court document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:19-cr-00830-AT Document 55 Filed 05/25/21 Page 3 of 3 (6) enter any other order that is just under the circumstances. SO ORDERED. Dated: May 25, 2021 New York, New York ANALISA TORRES United States District Judge DOJ-OGR-00022127",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:19-cr-00830-AT Document 55 Filed 05/25/21 Page 3 of 3",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "(6) enter any other order that is just under the circumstances. SO ORDERED. Dated: May 25, 2021 New York, New York",
+      "position": "top"
+    },
+    {
+      "type": "signature",
+      "content": "ANALISA TORRES",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "United States District Judge",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "3",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022127",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Analisa Torres"
+    ],
+    "organizations": [
+      "United States District Court"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "May 25, 2021",
+      "05/25/21"
+    ],
+    "reference_numbers": [
+      "1:19-cr-00830-AT",
+      "55",
+      "DOJ-OGR-00022127"
+    ]
+  },
+  "additional_notes": "The document appears to be a court order signed by Judge Analisa Torres. The document is well-formatted and legible."
+}

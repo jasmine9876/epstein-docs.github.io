@@ -1,0 +1,69 @@
+{
+  "document_metadata": {
+    "page_number": "3007",
+    "document_number": "PP38",
+    "date": "08-09-2019",
+    "document_type": "DAILY LOG",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 3007 PP38 Page 1 of 1 NYMH3 532.01 * DAILY LOG 08-09-2019 PAGE 003 OF 003 * 21:30:45 FUNCTION : DIS SELECTION CATEGORY: QTR EQ ALL FACL.: NYM LOG START DATE: 08-09-2019 NEXT/PRIOR: ACT/FUT/HIS: A FORMAT: T LOG END DATE.: 08-09-2019 ---EFFECTIVE--- --ENTRY-- REG NO NAME FROM TO DATE TIME TID TIME (b)(6); (b)(7)(C) ADM CHANGE I03-922U 08-09-2019 1232 NYMCM 1233 E08-562L FT REL 08-09-2019 0959 NYMGZ 1000 Z01-107LAD G10-777L 08-09-2019 1847 NYMHG 1847 Z06-220UAD PRE REMOVE 08-09-2019 0838 NYMGZ 0838 G03-720U G06-747L 08-09-2019 1806 NYMHG 1806 Z02-203LAD Z05-122LAD 08-09-2019 2025 NYMH3 2025 Z06-217LAD H01-003L 08-09-2019 2022 NYMH3 2022 G07-749L ADM CHANGE 08-09-2019 1236 NYMCM 1236 ADM CHANGE G07-749L 08-09-2019 1235 NYMCM 1236 G0005 TRANSACTION SUCCESSFULLY COMPLETED - CONTINUE PROCESSING IF DESIRED https://bop.tcp.doj.gov:9049/SENTRY/J1PP170.do 8/9/2019 DOJ-OGR-00026647",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3007 PP38 Page 1 of 1",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NYMH3 532.01 * DAILY LOG 08-09-2019 PAGE 003 OF 003 * 21:30:45",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "FUNCTION : DIS SELECTION CATEGORY: QTR EQ ALL FACL.: NYM LOG START DATE: 08-09-2019 NEXT/PRIOR: ACT/FUT/HIS: A FORMAT: T LOG END DATE.: 08-09-2019",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "REG NO NAME FROM TO DATE TIME TID TIME",
+      "position": "table_header"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6); (b)(7)(C) ADM CHANGE I03-922U 08-09-2019 1232 NYMCM 1233 E08-562L FT REL 08-09-2019 0959 NYMGZ 1000 Z01-107LAD G10-777L 08-09-2019 1847 NYMHG 1847 Z06-220UAD PRE REMOVE 08-09-2019 0838 NYMGZ 0838 G03-720U G06-747L 08-09-2019 1806 NYMHG 1806 Z02-203LAD Z05-122LAD 08-09-2019 2025 NYMH3 2025 Z06-217LAD H01-003L 08-09-2019 2022 NYMH3 2022 G07-749L ADM CHANGE 08-09-2019 1236 NYMCM 1236 ADM CHANGE G07-749L 08-09-2019 1235 NYMCM 1236",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "G0005 TRANSACTION SUCCESSFULLY COMPLETED - CONTINUE PROCESSING IF DESIRED",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "https://bop.tcp.doj.gov:9049/SENTRY/J1PP170.do 8/9/2019 DOJ-OGR-00026647",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "NYMCM",
+      "NYMGZ",
+      "NYMHG",
+      "NYMH3"
+    ],
+    "locations": [],
+    "dates": [
+      "08-09-2019",
+      "8/9/2019"
+    ],
+    "reference_numbers": [
+      "PP38",
+      "NYMH3 532.01",
+      "G0005",
+      "DOJ-OGR-00026647"
+    ]
+  },
+  "additional_notes": "The document appears to be a daily log from a correctional facility, with various transactions and events recorded. Some personal identifying information has been redacted."
+}

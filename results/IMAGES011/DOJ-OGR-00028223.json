@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "0029",
+    "document_number": "04282014",
+    "date": null,
+    "document_type": "TECSII - PRIMARY QUERY HISTORY",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 TECSII - PRIMARY QUERY HISTORY 04282014 *A *B PASSENGER ACTIVITY PAGE NO. 0029 NAME DOB QUERY DATE TIME AGN RSLT LNE TYP REF LANE TERM/ API DIM EPSTEIN, JEFFREY E 012053 112913 0000 *D API R N UNKNOWN AIRPORT (USED ONLY W DOC: 469911707 US P INSP: APIS QRY EPSTEIN, JEFFREY E 012053 100313 0000 *E API R N TETERBORO DOC: 469911707 US P INSP: APIS QRY EPSTEIN, JEFFREY E 012053 101313 0000 *F API R N JOHN F KENNEDY INTL DOC: 469911707 US P INSP: APIS QRY EPSTEIN, JEFFREY E 012053 101513 1640 CUS *G API /G14 C N A477-NEW YORK, JFK AIRPORT, DOC: 469911707 US P INSP: *H EPSTEIN, JEFFREY E 012053 102113 0000 *I API R N LONG ISLAND MACARTHUR DOC: 469911707 US P INSP: APIS QRY EPSTEIN, JEFFREY E 012053 090413 0000 *J API R N TETERBORO DOC: 469911707 (b) (7) (E) <...MORE...> (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) *E - (b) (7) (E) *F - (b) (7) (E) *G - (b) (7) (E) *H - (b) (6), (b) (7) (C) *I - (b) (7) (E) *J - (b) (7) (E) DOJ-OGR-00028223",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "TECSII - PRIMARY QUERY HISTORY PASSENGER ACTIVITY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB QUERY DATE TIME AGN RSLT LNE TYP REF LANE TERM/ API DIM",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY E 012053 112913 0000 *D API R N UNKNOWN AIRPORT (USED ONLY W DOC: 469911707 US P INSP: APIS QRY",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) *E - (b) (7) (E) *F - (b) (7) (E) *G - (b) (7) (E) *H - (b) (6), (b) (7) (C) *I - (b) (7) (E) *J - (b) (7) (E)",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY E EPSTEIN"
+    ],
+    "organizations": [
+      "APIS"
+    ],
+    "locations": [
+      "UNKNOWN AIRPORT",
+      "TETERBORO",
+      "JOHN F KENNEDY INTL",
+      "NEW YORK",
+      "JFK AIRPORT",
+      "LONG ISLAND MACARTHUR"
+    ],
+    "dates": [
+      "112913",
+      "100313",
+      "101313",
+      "101513",
+      "102113",
+      "090413"
+    ],
+    "reference_numbers": [
+      "469911707",
+      "04282014",
+      "DOJ-OGR-00028223"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted TECSII query history report for Jeffrey Epstein, with various dates and locations listed. The redactions are indicated by (b) (7) (E) and other codes."
+}

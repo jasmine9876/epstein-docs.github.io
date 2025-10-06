@@ -1,0 +1,50 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024067",
+    "date": "2/17",
+    "document_type": "Inmate Visit Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE NAME Signature Inmate Reg # Time IN Time OUT 2/17 G. Tali [redacted] J. Eskill 76318-057 5:56 8 2/17 MK [redacted] [redacted] 76318504 [redacted] 2",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE NAME Signature Inmate Reg # Time IN Time OUT",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "2/17 G. Tali [redacted] J. Eskill 76318-057 5:56 8",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "2/17 MK [redacted] [redacted] 76318504 [redacted] 2",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024067",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "G. Tali",
+      "J. Eskill",
+      "MK"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "2/17"
+    ],
+    "reference_numbers": [
+      "76318-057",
+      "76318504"
+    ]
+  },
+  "additional_notes": "The document appears to be an inmate visit log with some information redacted."
+}

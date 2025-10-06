@@ -1,0 +1,117 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028827",
+    "date": "112512",
+    "document_type": "API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:08 PQH API/HIT DATA 042814 *B *A *C NAME DOB ----- QUERY ----- LNE TERM/ EPSTEIN, JEFFREY EDWARD 012053 112512 0000 AGN RSLT TYP REF LANE API ORY -PARIS, ORLY DOC: 469911707 *D API US P INSP: APIS QRY API DATA ---- INDICATOR : R REPORTED CARRIER CODE : BA BRITISH AIRWAYS P.L.C. FLT/VES NUMBER : 8004 ARRIVAL LOCATION : ORY PARIS, ORLY DEPARTURE LOCATION : EWR NEWARK INTERNATIONAL TRANSMITTED BY : ALTEA+CM AMADEUS DCS ALTEA CM INBOUND/OUTBOUND : OUTBOUND (b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6) , (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) (b) (7) (E) DOJ-OGR-00028827",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:08 PQH API/HIT DATA 042814",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB ----- QUERY ----- LNE TERM/",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY EDWARD 012053 112512 0000 AGN RSLT TYP REF LANE API",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "ORY -PARIS, ORLY DOC: 469911707 API US P INSP: APIS QRY",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "API DATA ----",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "INDICATOR : R REPORTED",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CARRIER CODE : BA BRITISH AIRWAYS P.L.C.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FLT/VES NUMBER : 8004",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "ARRIVAL LOCATION : ORY PARIS, ORLY",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DEPARTURE LOCATION : EWR NEWARK INTERNATIONAL",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TRANSMITTED BY : ALTEA+CM AMADEUS DCS ALTEA CM",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "INBOUND/OUTBOUND : OUTBOUND",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b) (7) (E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b) (7) (E) *B - (b) (6) , (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "(b) (7) (E)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028827",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "BRITISH AIRWAYS P.L.C.",
+      "AMADEUS DCS ALTEA CM",
+      "APIS"
+    ],
+    "locations": [
+      "PARIS",
+      "ORLY",
+      "NEWARK INTERNATIONAL",
+      "EWR"
+    ],
+    "dates": [
+      "112512"
+    ],
+    "reference_numbers": [
+      "469911707",
+      "DOJ-OGR-00028827"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b) (7) (E)' and '(b) (6) , (b) (7) (C)'. The document appears to be a travel record or API (Advance Passenger Information) data for Jeffrey Epstein's flight."
+}

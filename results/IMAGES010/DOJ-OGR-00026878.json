@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "3289",
+    "document_number": "DOJ-OGR-00026878",
+    "date": "7/23/19",
+    "document_type": "Suicide Watch Observation Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 3289\nSuicide Watch Observation Log\nName of Inmate on watch: Epstein Reg #: 763180854 Date: 7/23/19\nTime Observations: Briefly note your observations. Initial all entries. Initials\n7:00am Inmate comfortable (b)(6); (b)(7)(C)\n7:05am Inmate Epstein #76318-054 awake. Inmate advised he was ok (b)(6); (b)(7)(C)\n7:15am Inmate Epstein is sitting at the edge of his bed, lost in thought (b)(6); (b)(7)(C)\n7:30am Inmate Epstein is sitting at the edge of his bed, pensive\n7:40am Inmate Epstein walked to toilet paper\n7:48am Inmate Epstein is sitting on the edge of his bed, pensive\n7:55am Inmate Epstein laid down\n8:00am Inmate laying on his mattress, appeared to be asleep\n8:12am Inmate Epstein asked for toilet paper\n8:15am Inmate Epstein is sitting at the edge of his bed\n8:23am Inmate Epstein asked to speak with his attorney (b)(6); (b)(7)(C)\n8:30am Inmate Epstein is sitting on the edge of his bed\nNote to all observers: Legibly print and sign your name at the beginning of your shift.\n1\nDOJ-OGR-00026878",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Suicide Watch Observation Log",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein 763180854 7/23/19",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Time Observations: Briefly note your observations. Initial all entries. Initials",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "7:00am Inmate comfortable (b)(6); (b)(7)(C)\n7:05am Inmate Epstein #76318-054 awake. Inmate advised he was ok (b)(6); (b)(7)(C)\n7:15am Inmate Epstein is sitting at the edge of his bed, lost in thought (b)(6); (b)(7)(C)\n7:30am Inmate Epstein is sitting at the edge of his bed, pensive\n7:40am Inmate Epstein walked to toilet paper\n7:48am Inmate Epstein is sitting on the edge of his bed, pensive\n7:55am Inmate Epstein laid down\n8:00am Inmate laying on his mattress, appeared to be asleep\n8:12am Inmate Epstein asked for toilet paper\n8:15am Inmate Epstein is sitting at the edge of his bed\n8:23am Inmate Epstein asked to speak with his attorney (b)(6); (b)(7)(C)\n8:30am Inmate Epstein is sitting on the edge of his bed",
+      "position": "main"
+    },
+    {
+      "type": "printed",
+      "content": "Note to all observers: Legibly print and sign your name at the beginning of your shift.",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/23/19"
+    ],
+    "reference_numbers": [
+      "763180854",
+      "76318-054",
+      "DOJ-OGR-00026878"
+    ]
+  },
+  "additional_notes": "The document contains handwritten observations of inmate Epstein's activities and mental state during a suicide watch. The document has been redacted to remove personal identifying information of the observers."
+}

@@ -1,0 +1,45 @@
+{
+  "document_metadata": {
+    "page_number": "23",
+    "document_number": "117",
+    "date": "11/01/2024",
+    "document_type": "ORDER",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 22-1426, Document 117, 11/01/2024, 3636586, Page23 of 51\n\nORDER\n\nDOJ-OGR-00021847",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 22-1426, Document 117, 11/01/2024, 3636586, Page23 of 51",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "ORDER",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00021847",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "11/01/2024"
+    ],
+    "reference_numbers": [
+      "22-1426",
+      "117",
+      "3636586",
+      "DOJ-OGR-00021847"
+    ]
+  },
+  "additional_notes": "The document appears to be a court order with a clear header and footer. The content is mostly printed, with no visible handwriting or stamps. The document is well-formatted and legible."
+}

@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": "2689",
+    "document_number": "DOJ-OGR-00026345",
+    "date": "8/9/19",
+    "document_type": "WATCH CALL",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2689 Attachment #4 METROPOLITAN CORRECTIONAL CENTER NEW YORK, NEW YORK WATCH CALL DATE: 8/9/19 MORNING WATCH STAFF NAME A.M. POST (b)(6); (b)(7)(C) OPS LT (b)(7)(E); (b)(7)(F) SANITATION INTERNAL OSP #1 UNIT 2 UNIT 3 UNIT 5 NORTH UNIT 5 SOUTH UNIT 7 NORTH UNIT 7 SOUTH UNIT 9 NORTH UNIT 9 SOUTH UNIT 10 SOUTH UNIT 11 NORTH UNIT 11 SOUTH DUTY P.A. R & D FOOD SERVICE LAUNDRY LOBBY OPS LT ACT LT INTERNAL OSP #1 UNIT 2 UNIT 3 UNIT 5 NORTH #1 UNIT 5 SOUTH #1 UNIT 7 NORTH #1 (b)(7)(E); (b)(7)(F) Page 1 of 2 DOJ-OGR-00026345",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "METROPOLITAN CORRECTIONAL CENTER NEW YORK, NEW YORK WATCH CALL",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/9/19",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "MORNING WATCH",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "STAFF NAME A.M. POST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "OPS LT SANITATION INTERNAL OSP #1 UNIT 2 UNIT 3 UNIT 5 NORTH UNIT 5 SOUTH UNIT 7 NORTH UNIT 7 SOUTH UNIT 9 NORTH UNIT 9 SOUTH UNIT 10 SOUTH UNIT 11 NORTH UNIT 11 SOUTH DUTY P.A. R & D FOOD SERVICE LAUNDRY LOBBY OPS LT ACT LT INTERNAL OSP #1 UNIT 2 UNIT 3 UNIT 5 NORTH #1 UNIT 5 SOUTH #1 UNIT 7 NORTH #1",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Page 1 of 2",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026345",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "METROPOLITAN CORRECTIONAL CENTER"
+    ],
+    "locations": [
+      "NEW YORK"
+    ],
+    "dates": [
+      "8/9/19"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026345"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6); (b)(7)(C) and (b)(7)(E); (b)(7)(F). The document is a watch call log from the Metropolitan Correctional Center in New York, New York."
+}

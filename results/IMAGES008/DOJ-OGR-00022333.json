@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": "48",
+    "document_number": "DOJ-OGR-00022333",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Pearson, Hon Charles Pease, Simon & Clem Pedrini Lorenzo Pedrini Tito Pekeler, Marcus Peltz, Harlan Perlman, Ronald Petangi, Helius Peters, John Peterson, Holly Peterson, Riki Pham Linh-Dan + Andrew Picasso, Olivier & Alice Picciotto Michael Pittman, Bob & Veronique Pickering, Jane & William (Nic Pignatelli, Frederico Pigozzi Jean",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Pearson, Hon Charles\nPease, Simon & Clem\nPedrini Lorenzo\nPedrini Tito\nPekeler, Marcus\nPeltz, Harlan\nPerlman, Ronald\nPetangi, Helius\nPeters, John\nPeterson, Holly\nPeterson, Riki\nPham Linh-Dan + Andrew\nPicasso, Olivier & Alice\nPicciotto Michael\nPittman, Bob & Veronique\nPickering, Jane & William (Nic\nPignatelli, Frederico\nPigozzi Jean",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022333",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "48",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Pearson, Hon Charles",
+      "Pease, Simon & Clem",
+      "Pedrini Lorenzo",
+      "Pedrini Tito",
+      "Pekeler, Marcus",
+      "Peltz, Harlan",
+      "Perlman, Ronald",
+      "Petangi, Helius",
+      "Peters, John",
+      "Peterson, Holly",
+      "Peterson, Riki",
+      "Pham Linh-Dan + Andrew",
+      "Picasso, Olivier & Alice",
+      "Picciotto Michael",
+      "Pittman, Bob & Veronique",
+      "Pickering, Jane & William (Nic",
+      "Pignatelli, Frederico",
+      "Pigozzi Jean"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022333"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 48, and the document number is DOJ-OGR-00022333."
+}

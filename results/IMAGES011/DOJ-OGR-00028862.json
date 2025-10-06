@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "DOJ-OGR-00028862",
+    "date": "042814",
+    "document_type": "TECS II - PERSON SUBJECT DISPLAY",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:08 TECS II - PERSON SUBJECT DISPLAY (3 OF 4) 042814 *B TECS RECORD ID (b)(7)(E) *A *C *D ENTRY *E UPDATE BAGGAGE DEC- DATE INSPECTOR TIME SITE MORE (CF6059) FINANCIAL- INSTITUTION BRANCH ACCOUNT TYPE ACCOUNT NUMBER INFO FIN ID DATE MORE EMPLOYMENT- OCCUPATION POSITION DATE STATUS EMPLOYER EIN STREET CITY STATE CNTRY PHONE ZIP MORE PILOT'S- NUMBER RATING CNTRY LICENSE FAA REGION ISSUE DATE AIRMAN'S CERT MEDICAL CERT MEDICAL CERT DATE MORE (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(7)(E) DOJ-OGR-00028862",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:08 TECS II - PERSON SUBJECT DISPLAY (3 OF 4) 042814",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "*B TECS RECORD ID (b)(7)(E) *A *C *D ENTRY *E UPDATE",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "BAGGAGE DEC- DATE INSPECTOR TIME SITE MORE (CF6059)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "FINANCIAL- INSTITUTION BRANCH ACCOUNT TYPE ACCOUNT NUMBER INFO FIN ID DATE MORE",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "EMPLOYMENT- OCCUPATION POSITION DATE STATUS EMPLOYER EIN STREET CITY STATE CNTRY PHONE ZIP MORE",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "PILOT'S- NUMBER RATING CNTRY LICENSE FAA REGION ISSUE DATE AIRMAN'S CERT MEDICAL CERT MEDICAL CERT DATE MORE",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(7)(E)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028862",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "042814"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00028862"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted TECS II record, with multiple sections containing sensitive information blacked out. The redactions are indicated by '(b)(7)(E)' and other similar codes."
+}

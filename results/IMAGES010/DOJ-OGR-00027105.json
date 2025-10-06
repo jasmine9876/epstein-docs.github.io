@@ -1,0 +1,80 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00027105",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE NAME Signature Inmate Reg# Time In Time Out 8/1 Epstein J.Epstein 76318-054 5:00 5:25 8/2 Epstein 76318-054 8:00 1:28",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE NAME Signature Inmate Reg# Time In Time Out",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/1",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein J.Epstein",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318-054",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "5:00 5:25",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/2",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318-054",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8:00 1:28",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027105",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein",
+      "J.Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "8/1",
+      "8/2"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00027105"
+    ]
+  },
+  "additional_notes": "The document appears to be a log or record of some sort, with handwritten entries. Much of the content is redacted."
+}

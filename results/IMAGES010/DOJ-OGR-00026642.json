@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": "006",
+    "document_number": "NYMD4 530*07",
+    "date": "08-09-2019",
+    "document_type": "Roster",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "NYMD4 530*07 * ROSTER * 08-09-2019 01:20:18 .PAGE 006 OGR SUBSCRIB REG LN FN ARSD ARS 68956 EOSN E03-J33B 76318-0541 EPSTEIN JEFFREY 07-08-2019 A-PRE Z04A Z04-Z06LAD",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "NYMD4 530*07 * ROSTER * 08-09-2019 01:20:18 .PAGE 006",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "OGR SUBSCRIB REG LN FN ARSD ARS",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "68956 EOSN E03-J33B 76318-0541 EPSTEIN JEFFREY 07-08-2019 A-PRE Z04A Z04-Z06LAD",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Page 2990",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026642",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "08-09-2019",
+      "07-08-2019"
+    ],
+    "reference_numbers": [
+      "NYMD4 530*07",
+      "76318-0541",
+      "E03-J33B",
+      "Z04-Z06LAD",
+      "DOJ-OGR-00026642"
+    ]
+  },
+  "additional_notes": "The document appears to be a roster or a list of individuals with associated details. The text is mostly printed, with no visible handwriting or stamps. The document is well-structured and easy to read."
+}

@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": "718",
+    "document_number": "DOJ-OGR-00027291",
+    "date": "7/24/2019",
+    "document_type": "Email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "MCC New York\n150 Park Row\nNew York, New York 10007\nOffice: 646-836- (b)(6); (b)(7)(C)\nBlack Berry: 646-423- (b)(6); (b)(7)(C) (b)(6); (b)(7)(C) @bop.gov\n\n>>> Ray Ormond 7/24/2019 8:45 AM >>>\nShirley - Please provide me with a daily update on this inmate, including his status and any changes/activities I should be aware of. Thanks!\n\nJ. Ray Ormond\nRegional Director\nNortheast Region\n215-521- (b)(6); (b)(7)(C)\n\nPage 718\nDOJ-OGR-00027291",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "MCC New York\n150 Park Row\nNew York, New York 10007\nOffice: 646-836- (b)(6); (b)(7)(C)\nBlack Berry: 646-423- (b)(6); (b)(7)(C) (b)(6); (b)(7)(C) @bop.gov",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": ">>> Ray Ormond 7/24/2019 8:45 AM >>>\nShirley - Please provide me with a daily update on this inmate, including his status and any changes/activities I should be aware of. Thanks!",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "J. Ray Ormond\nRegional Director\nNortheast Region\n215-521- (b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 718\nDOJ-OGR-00027291",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ray Ormond",
+      "Shirley",
+      "J. Ray Ormond"
+    ],
+    "organizations": [
+      "MCC New York",
+      "Northeast Region",
+      "DOJ"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "7/24/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00027291",
+      "646-836-",
+      "646-423-",
+      "215-521-"
+    ]
+  },
+  "additional_notes": "The document contains redacted phone numbers and an email address. The content appears to be an email or a directive related to an inmate's status and activities."
+}

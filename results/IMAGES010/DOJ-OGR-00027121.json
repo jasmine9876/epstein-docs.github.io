@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00027121",
+    "date": null,
+    "document_type": "Inmate Visit Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE | NAME | Signature | Inmate | Reg# | Time IN | Time OUT 9/6/18 (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) Epstern 7658-011 10:15 11:13 9/20/18 (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) J-Epstern 7658-011 11:20 11:33 9/6/19 (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) Epstern 7658-011 3:25 DOJ-OGR-00027121",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE | NAME | Signature | Inmate | Reg# | Time IN | Time OUT",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "9/6/18 (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) Epstern 7658-011 10:15 11:13",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "9/20/18 (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) J-Epstern 7658-011 11:20 11:33",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "9/6/19 (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) Epstern 7658-011 3:25",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027121",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstern",
+      "J-Epstern"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "9/6/18",
+      "9/20/18",
+      "9/6/19"
+    ],
+    "reference_numbers": [
+      "7658-011",
+      "DOJ-OGR-00027121"
+    ]
+  },
+  "additional_notes": "The document appears to be a log of visits to an inmate, with some information redacted. The handwriting is mostly legible, but some dates and times are difficult to read due to the redaction."
+}

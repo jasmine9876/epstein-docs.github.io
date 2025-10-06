@@ -1,0 +1,80 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "webpage",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Federal Bureau of Prisons Correctional Excellence. Respect. Integrity. Home About Us Inmates Locations Jobs Business Resources Contact Us Find an inmate. Locate the whereabouts of a federal inmate incarcerated from 1982 to the present. Due to the First Step Act, sentences are being reviewed and recalculated to address pending Good Conduct Time changes. As a result, an inmate's release date may not be up-to-date. Website visitors should continue to check back periodically to see if any changes have occurred. Find By Number Find By Name First Middle Last Race Age Sex jeffrey epstein 1 Result for search jeffrey epstein Clear Form Search JEFFREY EDWARD EPSTEIN Register Number: 76318-054 Age: 66 Race: White Sex: Male Located at: New York MCC Release Date: UNKNOWN Related Links Facility Information Call or email Send mail/package Send money Visit Voice a concern About the inmate locator & record availability DOJ-OGR-00023923",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Federal Bureau of Prisons Correctional Excellence. Respect. Integrity.",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Find an inmate.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Locate the whereabouts of a federal inmate incarcerated from 1982 to the present. Due to the First Step Act, sentences are being reviewed and recalculated to address pending Good Conduct Time changes. As a result, an inmate's release date may not be up-to-date. Website visitors should continue to check back periodically to see if any changes have occurred.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Find By Number Find By Name",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "First Middle Last Race Age Sex",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "jeffrey epstein",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "1 Result for search jeffrey epstein",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "JEFFREY EDWARD EPSTEIN Register Number: 76318-054 Age: 66 Race: White Sex: Male Located at: New York MCC Release Date: UNKNOWN",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Related Links Facility Information Call or email Send mail/package Send money Visit Voice a concern",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "About the inmate locator & record availability DOJ-OGR-00023923",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Edward Epstein"
+    ],
+    "organizations": [
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [
+      "New York MCC"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00023923"
+    ]
+  },
+  "additional_notes": "The document is a screenshot of a webpage from the Federal Bureau of Prisons website, showing the search results for Jeffrey Epstein."
+}

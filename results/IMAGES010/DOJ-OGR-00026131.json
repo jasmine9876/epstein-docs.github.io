@@ -1,0 +1,53 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "DOJ-OGR-00026131",
+    "date": "07/09/2019",
+    "document_type": "Inmate Medical Record",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2455\nInmate Name: EPSTEIN, JEFFREY EDWARD\nDate of Birth: 01/20/1953\nEncounter Date: 07/09/2019 12:35\nSex: M\nRace: WHITE\nReg #: 76318-054\nProvider: MLP\nFacility: NYM\nUnit: H01\n\nMental Health:\nLevel of Consciousness: Alert and Oriented\nPsychomotor Activity: Normal\nGeneral Appearance: Normal\nBehavior: Cooperative\nMood: Appropriate to Content\nThought Process: Goal Directed\nThought Content: Normal\nHx of Mental Health Treatment: None\nHx of Head Injury: None\nCurrent Mental Health Treatment: No\nCurrent Mental Health Complaint: No\nHx of Loss of Consciousness: No\nHx of Hearing Voices: No\nPast History of Suicide Attempt: No\nCurrent Suicide Ideation: No\nSuicide Prevention Initiated: No\nComments:\nSubstance Use History: Denied\nCurrent Painful Condition: Denied\nOther Health Issues:\nCurrent Medical Conditions:\nOther Current Treatments:\nPregnant: N/A\nDental Condition: Denied\n\nGenerated 07/09/2019 13:03 by MLP\nBureau of Prisons - NYM\nPage 3 of 13",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD\nDate of Birth: 01/20/1953\nEncounter Date: 07/09/2019 12:35\nSex: M\nRace: WHITE\nReg #: 76318-054\nProvider: MLP\nFacility: NYM\nUnit: H01",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Mental Health:\nLevel of Consciousness: Alert and Oriented\nPsychomotor Activity: Normal\nGeneral Appearance: Normal\nBehavior: Cooperative\nMood: Appropriate to Content\nThought Process: Goal Directed\nThought Content: Normal\nHx of Mental Health Treatment: None\nHx of Head Injury: None\nCurrent Mental Health Treatment: No\nCurrent Mental Health Complaint: No\nHx of Loss of Consciousness: No\nHx of Hearing Voices: No\nPast History of Suicide Attempt: No\nCurrent Suicide Ideation: No\nSuicide Prevention Initiated: No\nComments:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Substance Use History: Denied\nCurrent Painful Condition: Denied\nOther Health Issues:\nCurrent Medical Conditions:\nOther Current Treatments:\nPregnant: N/A\nDental Condition: Denied",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/09/2019 13:03 by MLP\nBureau of Prisons - NYM\nPage 3 of 13",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/09/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026131"
+    ]
+  },
+  "additional_notes": "The document appears to be a medical record for Jeffrey Epstein, an inmate at NYM facility. The document is page 3 of 13 and was generated on 07/09/2019 at 13:03 by MLP. Some personal identifiable information is redacted."
+}

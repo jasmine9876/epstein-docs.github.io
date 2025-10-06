@@ -1,0 +1,79 @@
+{
+  "document_metadata": {
+    "page_number": "274",
+    "document_number": "DOJ-OGR-00024813",
+    "date": null,
+    "document_type": "Investigation Form",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "Page 274\n\nPart III - Investigation\n22. Date And Time Investigation Began\n\n23. Inmate Advised Of Right To Remain Silent: You are advised of your right to remain silent at all stages of the discipline process. Your silence may be used to draw an adverse inference against you at any stage of the discipline process. Your silence alone may not be used to support a finding that you have committed a prohibited act.\nThe Inmate Was Advised Of The Above Right By _______________________ At (Date/time) _______________________\n\n24. Inmate statement and attitude\n____________________________________________________________________\n____________________________________________________________________\n____________________________________________________________________\n____________________________________________________________________\n____________________________________________________________________\n____________________________________________________________________\n____________________________________________________________________\n\n25. Other facts about the incident, statements of those persons present at scene, disposition of evidence, etc.\n____________________________________________________________________\n____________________________________________________________________\n____________________________________________________________________\n____________________________________________________________________\n____________________________________________________________________\n____________________________________________________________________\n____________________________________________________________________\n____________________________________________________________________\n\n26. Investigator's comments and conclusions\n____________________________________________________________________\n____________________________________________________________________\n____________________________________________________________________\n____________________________________________________________________\n____________________________________________________________________\n____________________________________________________________________\n____________________________________________________________________\n____________________________________________________________________\n\n27. Action taken\n____________________________________________________________________\n____________________________________________________________________\n____________________________________________________________________\n____________________________________________________________________\n\nDate and Time Investigation Completed _______________________\nPrinted Name/Signature Of Investigator _______________________ Title _______________________\n\nCOPY\nPrescribed by P5270 Replaces BP-S288.052 Of MAY 94\nDOJ-OGR-00024813",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Part III - Investigation",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "23. Inmate Advised Of Right To Remain Silent: You are advised of your right to remain silent at all stages of the discipline process. Your silence may be used to draw an adverse inference against you at any stage of the discipline process. Your silence alone may not be used to support a finding that you have committed a prohibited act.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "The Inmate Was Advised Of The Above Right By _______________________ At (Date/time) _______________________",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "24. Inmate statement and attitude",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "25. Other facts about the incident, statements of those persons present at scene, disposition of evidence, etc.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "26. Investigator's comments and conclusions",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "27. Action taken",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Date and Time Investigation Completed _______________________",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Printed Name/Signature Of Investigator _______________________ Title _______________________",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "COPY",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "MAY 94"
+    ],
+    "reference_numbers": [
+      "P5270",
+      "BP-S288.052",
+      "DOJ-OGR-00024813"
+    ]
+  },
+  "additional_notes": "The document is a blank investigation form with various sections for recording details about an incident, inmate statements, and investigator conclusions. It includes a 'COPY' stamp in the bottom right corner."
+}

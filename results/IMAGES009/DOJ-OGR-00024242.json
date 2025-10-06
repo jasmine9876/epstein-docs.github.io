@@ -1,0 +1,68 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024242",
+    "date": "2009-03-16",
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "(b)(6), (b)(7)(C) 123 J. Epstein 7631800916 109 (b)(6), (b)(7)(C) DOJ-OGR-00024242",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "123",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "J. Epstein",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318009",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "16",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "109",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024242",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "J. Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "2009-03-16"
+    ],
+    "reference_numbers": [
+      "76318009",
+      "DOJ-OGR-00024242"
+    ]
+  },
+  "additional_notes": "The document has been heavily redacted, with most of the content obscured by green highlighting. The visible text is primarily found in the footer and a small section at the bottom of the page."
+}

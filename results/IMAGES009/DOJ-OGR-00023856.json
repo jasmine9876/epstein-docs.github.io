@@ -1,0 +1,55 @@
+{
+  "document_metadata": {
+    "page_number": "3664",
+    "document_number": "DOJ-OGR-00023856",
+    "date": null,
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Thank you in advance for your help.\nBest,\n(b)(6) (b)(7)(C)\nNOTICE: This message may contain information that is privileged or confidential. If you receive this transmission in error, please notify the sender by reply e-mail and delete the message and any attachments.\nPage 3664\nDOJ-OGR-00023856",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Thank you in advance for your help.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Best,",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6) (b)(7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "NOTICE: This message may contain information that is privileged or confidential. If you receive this transmission in error, please notify the sender by reply e-mail and delete the message and any attachments.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 3664",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00023856",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00023856"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted email with a confidentiality notice. The sender's name is redacted as '(b)(6) (b)(7)(C)'."
+}

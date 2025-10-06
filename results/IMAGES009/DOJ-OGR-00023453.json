@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": "86",
+    "document_number": "DOJ-OGR-00023453",
+    "date": "August 10, 2019",
+    "document_type": "Schematic drawing",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Figure 6.1\nSHU Camera Locations and Recording Status on August 10, 2019\nUpper Tiers\nLower Tiers\nJ Tier\nL Tier\nK Tier\nM Tier\nCommon Area\nEpstein's Cell\nCommon Area\nG Tier\n10th Floor South\nH Tier\n9th Floor South\nStreaming and Recording Camera\nStreaming but not Recording Camera\nSource: DOJ OIG schematic drawing depicting the MCC New York SHU",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Figure 6.1",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "SHU Camera Locations and Recording Status on August 10, 2019",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Upper Tiers",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Lower Tiers",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Source: DOJ OIG schematic drawing depicting the MCC New York SHU",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ OIG",
+      "MCC New York SHU"
+    ],
+    "locations": [
+      "MCC New York",
+      "Epstein's Cell"
+    ],
+    "dates": [
+      "August 10, 2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00023453"
+    ]
+  },
+  "additional_notes": "The document is a schematic drawing of the MCC New York SHU, showing camera locations and recording status on August 10, 2019. The image is clear and legible, with no visible damage or redactions."
+}

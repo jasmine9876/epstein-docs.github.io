@@ -1,0 +1,46 @@
+{
+  "document_metadata": {
+    "page_number": "3255",
+    "document_number": "DOJ-OGR-00023816",
+    "date": "2019/08/21",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Order in USA v. Jeffrey Epstein 19 cr 490\nFrom\nTo\nDate\nSubject:\nAttachments:\n\nPlease see attached Order.\nJudge Berman asked me to invite you and the new warden to the hearing.\n(See attached file: epstein aug 21 Order.pdf)\n\nPage 3255\nDOJ-OGR-00023816",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Order in USA v. Jeffrey Epstein 19 cr 490\nFrom\nTo\nDate\nSubject:\nAttachments:",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Please see attached Order.\nJudge Berman asked me to invite you and the new warden to the hearing.\n(See attached file: epstein aug 21 Order.pdf)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 3255\nDOJ-OGR-00023816",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Judge Berman"
+    ],
+    "organizations": [
+      "USA"
+    ],
+    "locations": [],
+    "dates": [
+      "2019/08/21"
+    ],
+    "reference_numbers": [
+      "19 cr 490",
+      "DOJ-OGR-00023816"
+    ]
+  },
+  "additional_notes": "The document appears to be an email with an attached PDF file. The email is related to a court case involving Jeffrey Epstein. The document is redacted, with the 'To' field obscured."
+}

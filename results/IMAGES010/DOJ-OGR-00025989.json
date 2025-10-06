@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "2181",
+    "document_number": "DOJ-OGR-00025989",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "9:00 am SIS Lt. reports to SHU. Interviews will be conducted with inmates assigned to tier.\n9:15 am CMC arrives at institution.\n9:30 am Acting Chief Psychologist arrived to the institution.\n9:50 am SCSS arrives at institution.\n9:55 am CMC and IDO depart institution enroute to Beekman Hospital.\n10:00 am CMC and IDO arrive at Beekman Hospital, fingerprints and photographs taken of inmate Epstein. Inmate clothing secured and brought back to institution.\n10:00 am Judge Berman notified.\n10:15 am CMC return to institution.\n10:45 am PIO arrived to the institution.\n11:00 am next of kin (brother) notified by Case Management Coordinator.\n11:12 am press release is released to media.\n11:15 am press release provided to Judge Berman.\n11:15 am CST activated.\n12:15 pm body release to Medical Examiner (ME) for autopsy\n12:19 pm FBI arrives.\n1:35 pm FBI arrives in Special Housing Unit.\n1:40 pm OIG notified by the Warden and they will be sending an Agent to NYM.\n2:15 pm CST debrief conducted.",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "9:00 am SIS Lt. reports to SHU. Interviews will be conducted with inmates assigned to tier.\n9:15 am CMC arrives at institution.\n9:30 am Acting Chief Psychologist arrived to the institution.\n9:50 am SCSS arrives at institution.\n9:55 am CMC and IDO depart institution enroute to Beekman Hospital.\n10:00 am CMC and IDO arrive at Beekman Hospital, fingerprints and photographs taken of inmate Epstein. Inmate clothing secured and brought back to institution.\n10:00 am Judge Berman notified.\n10:15 am CMC return to institution.\n10:45 am PIO arrived to the institution.\n11:00 am next of kin (brother) notified by Case Management Coordinator.\n11:12 am press release is released to media.\n11:15 am press release provided to Judge Berman.\n11:15 am CST activated.\n12:15 pm body release to Medical Examiner (ME) for autopsy\n12:19 pm FBI arrives.\n1:35 pm FBI arrives in Special Housing Unit.\n1:40 pm OIG notified by the Warden and they will be sending an Agent to NYM.\n2:15 pm CST debrief conducted.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025989",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "SIS Lt.",
+      "CMC",
+      "Acting Chief Psychologist",
+      "SCSS",
+      "IDO",
+      "Judge Berman",
+      "PIO",
+      "Case Management Coordinator",
+      "FBI",
+      "OIG",
+      "Warden",
+      "Epstein"
+    ],
+    "organizations": [
+      "FBI",
+      "OIG"
+    ],
+    "locations": [
+      "Beekman Hospital",
+      "NYM",
+      "SHU",
+      "Special Housing Unit"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00025989"
+    ]
+  },
+  "additional_notes": "The document appears to be a log or report detailing events related to the death of inmate Epstein. The text is typed and there are no visible redactions or damage."
+}

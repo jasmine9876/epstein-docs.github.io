@@ -1,0 +1,48 @@
+{
+  "document_metadata": {
+    "page_number": "3199",
+    "document_number": "DOJ-OGR-00026813",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 3199 AFTER HOURS. [b](7)(A) [b](6); [b](7)(C) DOJ-OGR-00026813",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3199",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "AFTER HOURS.",
+      "position": "top"
+    },
+    {
+      "type": "other",
+      "content": "[b](7)(A)",
+      "position": "middle"
+    },
+    {
+      "type": "other",
+      "content": "[b](6); [b](7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026813",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00026813"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as [b](7)(A) and [b](6); [b](7)(C). The page number is 3199, and it includes a reference number DOJ-OGR-00026813."
+}

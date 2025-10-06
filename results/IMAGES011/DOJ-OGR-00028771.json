@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028771",
+    "date": "070312",
+    "document_type": "PQH API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:08 *B PQH API/HIT DATA 042814 *A *C NAME DOB ----- QUERY ----- LNE TERM/ EPSTEIN, JEFFREY E 012053 070312 0000 *D API REF LANE API JFK -JOHN F KENNEDY INTL DOC: INSP: APIS QRY API DATA ---- INDICATOR : R CARRIER CODE : AF FLT/VES NUMBER : 6 ARRIVAL LOCATION : JFK DEPARTURE LOCATION : CDG TRANSMITTED BY : ALTEA*CM INBOUND/OUTBOUND : INBOUND REPORTED AIR FRANCE JOHN F KENNEDY INTL PARIS, CH. DE GAULLE AMADEUS DCS ALTEA CM (b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6) ,(b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) (b) (7) (E) DOJ-OGR-00028771",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:08 *B PQH API/HIT DATA 042814 *A *C",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB ----- QUERY ----- LNE TERM/ EPSTEIN, JEFFREY E 012053 070312 0000 *D API REF LANE API JFK -JOHN F KENNEDY INTL DOC: INSP: APIS QRY",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "API DATA ---- INDICATOR : R CARRIER CODE : AF FLT/VES NUMBER : 6 ARRIVAL LOCATION : JFK DEPARTURE LOCATION : CDG TRANSMITTED BY : ALTEA*CM INBOUND/OUTBOUND : INBOUND REPORTED AIR FRANCE JOHN F KENNEDY INTL PARIS, CH. DE GAULLE AMADEUS DCS ALTEA CM",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6) ,(b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) (b) (7) (E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028771",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY E EPSTEIN"
+    ],
+    "organizations": [
+      "AIR FRANCE",
+      "AMADEUS DCS ALTEA CM",
+      "ALTEA*CM"
+    ],
+    "locations": [
+      "JFK",
+      "JOHN F KENNEDY INTL",
+      "PARIS, CH. DE GAULLE",
+      "CDG"
+    ],
+    "dates": [
+      "070312",
+      "012053"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00028771"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b) (7) (E)' and '(b) (6) ,(b) (7) (C)'. The document appears to be a travel record or API data for Jeffrey Epstein's flight."
+}

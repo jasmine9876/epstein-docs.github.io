@@ -1,0 +1,53 @@
+{
+  "document_metadata": {
+    "page_number": "1740",
+    "document_number": "DOJ-OGR-00025771",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 1740 b(5) Hugh Sent from my Verizon, Samsung Galaxy smartphone Page 8948 DOJ-OGR-00025771",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 1740",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "b(5)",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "Hugh Sent from my Verizon, Samsung Galaxy smartphone",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 8948",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025771",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Hugh"
+    ],
+    "organizations": [
+      "Verizon",
+      "Samsung"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00025771"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted page with a large redacted section and a footer indicating it is part of a larger document."
+}

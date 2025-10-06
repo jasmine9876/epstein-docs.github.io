@@ -1,0 +1,41 @@
+{
+  "document_metadata": {
+    "page_number": "3280",
+    "document_number": "DOJ-OGR-00026869",
+    "date": "7-29-2019",
+    "document_type": "Inmate Monitoring Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "EPSTEIN#76318-054 7-29-2019 1:15 AM Inmate EPSTEIN is sleeping (b)(6); (b)(7)(C) 1:30 AM Inmate EPSTEIN is sleeping 1:45 AM Inmate EPSTEIN is sleeping 2:00 AM Inmate EPSTEIN is sleeping 2:15 AM Inmate EPSTEIN is sleeping 2:30 AM Inmate EPSTEIN is sleeping 2:45 AM Inmate EPSTEIN is sleeping 2:52 AM End of Shift By: ERROR 2:52 AM Count 2:58 AM End of Shift By: DG 3:00 AM Start of Shift (b)(6); (b)(7)(C) 3:10 AM Inmate EPSTEIN appears to be sleeping (b)(6); (b)(7)(C) 3:15 AM Inmate EPSTEIN appears to be sleeping 3:25 AM Inmate EPSTEIN went to the bathroom and ask about time 3:30 AM Inmate EPSTEIN went back to sleep 3:35 AM Inmate EPSTEIN appears to be sleeping 4:00 AM Inmate EPSTEIN appears to be sleeping 4:15 AM Inmate EPSTEIN appears to be sleeping (b)(6); (b)(7)(C) 4:30 AM Inmate EPSTEIN appears to be sleeping 4:45 AM Inmate EPSTEIN appears to be sleeping 5:00 AM Inmate EPSTEIN appears to be sleeping 3701A 5:15 AM Inmate EPSTEIN appears to be sleeping",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "EPSTEIN#76318-054 7-29-2019",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "1:15 AM Inmate EPSTEIN is sleeping (b)(6); (b)(7)(C) 1:30 AM Inmate EPSTEIN is sleeping 1:45 AM Inmate EPSTEIN is sleeping 2:00 AM Inmate EPSTEIN is sleeping 2:15 AM Inmate EPSTEIN is sleeping 2:30 AM Inmate EPSTEIN is sleeping 2:45 AM Inmate EPSTEIN is sleeping 2:52 AM End of Shift By: ERROR 2:52 AM Count 2:58 AM End of Shift By: DG 3:00 AM Start of Shift (b)(6); (b)(7)(C) 3:10 AM Inmate EPSTEIN appears to be sleeping (b)(6); (b)(7)(C) 3:15 AM Inmate EPSTEIN appears to be sleeping 3:25 AM Inmate EPSTEIN went to the bathroom and ask about time 3:30 AM Inmate EPSTEIN went back to sleep 3:35 AM Inmate EPSTEIN appears to be sleeping 4:00 AM Inmate EPSTEIN appears to be sleeping 4:15 AM Inmate EPSTEIN appears to be sleeping (b)(6); (b)(7)(C) 4:30 AM Inmate EPSTEIN appears to be sleeping 4:45 AM Inmate EPSTEIN appears to be sleeping 5:00 AM Inmate EPSTEIN appears to be sleeping 3701A 5:15 AM Inmate EPSTEIN appears to be sleeping",
+      "position": "main"
+    }
+  ],
+  "entities": {
+    "people": [
+      "EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "bathroom"
+    ],
+    "dates": [
+      "7-29-2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026869",
+      "3701A"
+    ]
+  },
+  "additional_notes": "The document is a handwritten log monitoring inmate Jeffrey Epstein's activities on July 29, 2019. The log indicates that Epstein was observed sleeping or appearing to be sleeping throughout the night. There are some redactions in the document, marked as '(b)(6); (b)(7)(C)'."
+}

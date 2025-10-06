@@ -1,0 +1,75 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "09162006",
+    "date": "01142005",
+    "document_type": "REPORT OF PRIVATE AIRCRAFT ARRIVAL - CF178",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "REQUESTED BY: (b)(6)(b)(7)(c) (b)(7)(e) 09162006 (b)(7)(e) - REPORT OF PRIVATE AIRCRAFT ARRIVAL - CF178 (b)(7)(e) AIRCRAFT TAIL #: N908JE REPORT ID: (b)(7)(e) US AIRPORT OF ARRIVAL: KPBI US ARRIVAL TIME: 2335 Z US ARRIVAL DATE: 01142005 AIRPORT OF DEPARTURE : KSTT DEPARTURE TIME : 2044 Z DEPARTURE DATE: 01142005 LAST FOREIGN CITY: ST THOMAS, USVI FOREIGN ITINERARY: DIRECT LAST FOREIGN COUNTRY: VI AIRPORT OF DEPARTURE: PALM BEACH INTERNATIONAL DEPARTURE STATE: FL US AIRPORT CODE: KPBI US DEPARTURE TIME: 0001 Z US DEPARTURE DATE: 01112005 MAKE: BOEING COLORS: SILVER OR ALUMI BLACK OWNER/LESSEE NAME: HYPERION AIR INC STREET ADDRESS: 103 FOULK ROAD CITY: WILMINGTON ST: DE COUNTRY: (b)(7)(e) APT: 202 ZIP: 19803 INSPECTOR ID: (b)(6)(b)(7)(c) AIRCRAFT REGISTRATION CERTIFICATE VERIFIED: N PILOT NAME: (b)(6)(b)(7)(c) (b)(6)(b)(7)(c) DOB: (b)(6)(b)(7)(c) NATIONALITY: (b)(7)(e) LICENSE NUMBER: (b)(6)(b)(7)(c) LICENSE COUNTRY: (b)(7)(e) STREET ADDRESS: (b)(6)(b)(7)(c) CITY: JUPITER ST: FL COUNTRY: (b)(7)(e) APT: (b)(6)(b)(7)(c) ZIP: (b)(6)(b)(7)(c) INSPECTOR ID: (b)(6)(b)(7)(c) PILOT LICENSE CERTIFICATE VERIFIED: N PILOT MEDICAL CERTIFICATE VERIFIED: N VIOLATIONS: NONE NUMBER OF PASSENGERS ON BOARD: 06 (b)(7)(e) PASSENGER NAME NTNL DOB (b)(6)(b)(7)(c) EPSTEIN JEFFREY US 01201956 (b)(6)(b)(7)(c) (b)(7)(e)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "REQUESTED BY: (b)(6)(b)(7)(c) (b)(7)(e) 09162006 (b)(7)(e) - REPORT OF PRIVATE AIRCRAFT ARRIVAL - CF178 (b)(7)(e)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "AIRCRAFT TAIL #: N908JE REPORT ID: (b)(7)(e) US AIRPORT OF ARRIVAL: KPBI US ARRIVAL TIME: 2335 Z US ARRIVAL DATE: 01142005 AIRPORT OF DEPARTURE : KSTT DEPARTURE TIME : 2044 Z DEPARTURE DATE: 01142005 LAST FOREIGN CITY: ST THOMAS, USVI FOREIGN ITINERARY: DIRECT LAST FOREIGN COUNTRY: VI AIRPORT OF DEPARTURE: PALM BEACH INTERNATIONAL DEPARTURE STATE: FL US AIRPORT CODE: KPBI US DEPARTURE TIME: 0001 Z US DEPARTURE DATE: 01112005",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "MAKE: BOEING COLORS: SILVER OR ALUMI BLACK OWNER/LESSEE NAME: HYPERION AIR INC STREET ADDRESS: 103 FOULK ROAD CITY: WILMINGTON ST: DE COUNTRY: (b)(7)(e) APT: 202 ZIP: 19803",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "INSPECTOR ID: (b)(6)(b)(7)(c) AIRCRAFT REGISTRATION CERTIFICATE VERIFIED: N PILOT NAME: (b)(6)(b)(7)(c) (b)(6)(b)(7)(c) DOB: (b)(6)(b)(7)(c) NATIONALITY: (b)(7)(e) LICENSE NUMBER: (b)(6)(b)(7)(c) LICENSE COUNTRY: (b)(7)(e) STREET ADDRESS: (b)(6)(b)(7)(c) CITY: JUPITER ST: FL COUNTRY: (b)(7)(e) APT: (b)(6)(b)(7)(c) ZIP: (b)(6)(b)(7)(c) INSPECTOR ID: (b)(6)(b)(7)(c) PILOT LICENSE CERTIFICATE VERIFIED: N PILOT MEDICAL CERTIFICATE VERIFIED: N VIOLATIONS: NONE",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "NUMBER OF PASSENGERS ON BOARD: 06 (b)(7)(e) PASSENGER NAME NTNL DOB (b)(6)(b)(7)(c) EPSTEIN JEFFREY US 01201956 (b)(6)(b)(7)(c)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(e)",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "HYPERION AIR INC"
+    ],
+    "locations": [
+      "ST THOMAS",
+      "USVI",
+      "PALM BEACH INTERNATIONAL",
+      "WILMINGTON",
+      "JUPITER",
+      "DE",
+      "FL"
+    ],
+    "dates": [
+      "01142005",
+      "01112005",
+      "01201956"
+    ],
+    "reference_numbers": [
+      "09162006",
+      "N908JE",
+      "KPBI",
+      "KSTT",
+      "103 FOULK ROAD",
+      "202",
+      "19803"
+    ]
+  },
+  "additional_notes": "The document contains redactions, likely for privacy or security reasons. The document appears to be a report of a private aircraft arrival, with details about the aircraft, pilot, and passengers."
+}

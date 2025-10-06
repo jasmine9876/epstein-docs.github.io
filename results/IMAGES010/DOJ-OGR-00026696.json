@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": "3056",
+    "document_number": "BP-A0971",
+    "date": "AUG 11",
+    "document_type": "CHAIN OF CUSTODY LOG CDFRM",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "BP-A0971 AUG 11 CHAIN OF CUSTODY LOG CDFRM U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS ECN # NVM-19-0174 (Enclose with/attach to evidence) ITEM # NVM-19-00186 CASE ID NUMBER: SUSPECT (If known) Jeffrey Epstein# DESCRIPTION OF ITEM: (1)torn Sheet miscellaneous Paperwork MP3Player Clothing released from hospital care bag Plastic DATE/TIME ITEM FOUND: 8/10/19 @ 3:11PM Special Housing Unit L-Tier Cell #220 LOCATION: SIGNATURE OF PERSON RECOVERING EVIDENCE: (b)(6); (b)(7)(C) PRINTED NAME: (b)(6); (b)(7)(C) EVIDENCE PLACED IN OVERNIGHT DROP BOX: DROP-BOX BY: (printed name) Date & Time: Witness: (printed name) EVIDENCE RECOVERED FROM OVERNIGHT DROP BOX BY: (printed name) Date & Time: Witness: (printed name) EVIDENCE PLACED EVIDENCE SAFE BY: (printed name) Date & Time: Witness: (printed name) DISPOSITION: ( ) Hold as evidence ( ) Return to owner ( ) Lab Analysis ( ) Return to finder ( ) Destroy immediately ( ) FBI ( ) Other REMARKS (condition of evidence): ************************************* CHAIN OF CUSTODY ************************************* EVIDENCE RELEASED BY: SIS LT (b)(6); (b)(7)(C) DATE/TIME: 8/10/19 3:40PM DESTINATION: FBI EVIDENCE RELEASED TO: (b)(6); (b)(7)(C)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "BP-A0971 AUG 11 CHAIN OF CUSTODY LOG CDFRM U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "NVM-19-0174 NVM-19-00186 Jeffrey Epstein# (1)torn Sheet miscellaneous Paperwork MP3Player Clothing released from hospital care bag Plastic 8/10/19 @ 3:11PM Special Housing Unit L-Tier Cell #220",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "ECN # (Enclose with/attach to evidence) ITEM # CASE ID NUMBER: SUSPECT (If known) DESCRIPTION OF ITEM: DATE/TIME ITEM FOUND: LOCATION: SIGNATURE OF PERSON RECOVERING EVIDENCE: PRINTED NAME: EVIDENCE PLACED IN OVERNIGHT DROP BOX: DROP-BOX BY: (printed name) Date & Time: Witness: (printed name) EVIDENCE RECOVERED FROM OVERNIGHT DROP BOX BY: (printed name) Date & Time: Witness: (printed name) EVIDENCE PLACED EVIDENCE SAFE BY: (printed name) Date & Time: Witness: (printed name) DISPOSITION: ( ) Hold as evidence ( ) Return to owner ( ) Lab Analysis ( ) Return to finder ( ) Destroy immediately ( ) FBI ( ) Other REMARKS (condition of evidence):",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6); (b)(7)(C) (b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "************************************* CHAIN OF CUSTODY ************************************* EVIDENCE RELEASED BY: DATE/TIME: DESTINATION: EVIDENCE RELEASED TO:",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "SIS LT (b)(6); (b)(7)(C) 8/10/19 3:40PM FBI (b)(6); (b)(7)(C)",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "U.S. DEPARTMENT OF JUSTICE",
+      "FEDERAL BUREAU OF PRISONS",
+      "FBI"
+    ],
+    "locations": [
+      "Special Housing Unit L-Tier Cell #220"
+    ],
+    "dates": [
+      "AUG 11",
+      "8/10/19"
+    ],
+    "reference_numbers": [
+      "BP-A0971",
+      "NVM-19-0174",
+      "NVM-19-00186"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6); (b)(7)(C), indicating sensitive information has been withheld."
+}

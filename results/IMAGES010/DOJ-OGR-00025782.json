@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": "1759",
+    "document_number": "DOJ-OGR-00025782",
+    "date": "2019/08/13",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Re: Statement From Hugh Hurwitz To Lee Lofthus (b)(6); (b)(7)(C) Date 2019/08/13 13:57 Subject: Re: Statement Attachments: TEXT.htm All 3 have been notified. >>> (b)(6); (b)(7)(C) (OAG) (b)(6); (b)(7)(C) This is the final. Are we OK? (b)(6); (b)(7)(C) (b)(5) 8/13/19 1:29pm @usdoj.gov> 8/13/2019 1:31 PM >>> Page 9262 DOJ-OGR-00025782",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Re: Statement From Hugh Hurwitz To Lee Lofthus (b)(6); (b)(7)(C) Date 2019/08/13 13:57 Subject: Re: Statement Attachments: TEXT.htm All 3 have been notified.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": ">>> (b)(6); (b)(7)(C) (OAG) (b)(6); (b)(7)(C) This is the final. Are we OK?",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6); (b)(7)(C) (b)(5) 8/13/19 1:29pm",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "@usdoj.gov> 8/13/2019 1:31 PM >>>",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 9262 DOJ-OGR-00025782",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Hugh Hurwitz",
+      "Lee Lofthus"
+    ],
+    "organizations": [
+      "OAG",
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "2019/08/13",
+      "8/13/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00025782"
+    ]
+  },
+  "additional_notes": "The document is an email with redactions. The redactions are marked with (b)(6); (b)(7)(C) and (b)(5)."
+}

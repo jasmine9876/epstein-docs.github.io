@@ -1,0 +1,43 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024488",
+    "date": "2/17",
+    "document_type": "Inmate Visit Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE NAME Signature Inmate Reg# Time IN Time OUT 2/17 RRB(1) (b)7(c) (b)7(c) J. Epstein 76318-054 5:56 8 (b)7(c) (b)7(c)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE NAME Signature Inmate Reg# Time IN Time OUT",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "2/17 RRB(1) (b)7(c) (b)7(c) J. Epstein 76318-054 5:56 8 (b)7(c) (b)7(c)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024488",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "J. Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "2/17"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024488"
+    ]
+  },
+  "additional_notes": "The document appears to be a log of inmate visits, with some information redacted."
+}

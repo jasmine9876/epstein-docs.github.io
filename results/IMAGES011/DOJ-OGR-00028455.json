@@ -1,0 +1,78 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028455",
+    "date": "052712",
+    "document_type": "API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 *B PQH API/HIT DATA 042814 *A *C NAME DOB ----- QUERY ----- LNE TIME AGN RSLT TYP REF TERM/ LANE API EPSTEIN, JEFFREY E 012053 052712 1609 CUS *D API /G28 C A477-NEW YORK, JFK AIRPORT, API DATA ---- INDICATOR : C CONFIRMED CARRIER CODE : AF AIR FRANCE FLT/VES NUMBER : 6 ARRIVAL LOCATION : JFK JOHN F KENNEDY INTL DEPARTURE LOCATION : CDG PARIS, CH. DE GAULLE TRANSMITTED BY : ALTEA+CM AMADEUS DCS ALTEA CM INBOUND/OUTBOUND : INBOUND (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) DOJ-OGR-00028455",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07 *B PQH API/HIT DATA 042814 *A *C",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB ----- QUERY ----- LNE TIME AGN RSLT TYP REF TERM/ LANE API",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY E 012053 052712 1609 CUS *D API /G28 C",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "A477-NEW YORK, JFK AIRPORT,",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "API DATA ---- INDICATOR : C CONFIRMED CARRIER CODE : AF AIR FRANCE FLT/VES NUMBER : 6 ARRIVAL LOCATION : JFK JOHN F KENNEDY INTL DEPARTURE LOCATION : CDG PARIS, CH. DE GAULLE TRANSMITTED BY : ALTEA+CM AMADEUS DCS ALTEA CM INBOUND/OUTBOUND : INBOUND",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E) (b)(7)(E)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028455",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY E EPSTEIN"
+    ],
+    "organizations": [
+      "AIR FRANCE",
+      "AMADEUS DCS ALTEA CM",
+      "ALTEA+CM"
+    ],
+    "locations": [
+      "NEW YORK",
+      "JFK AIRPORT",
+      "JOHN F KENNEDY INTL",
+      "PARIS, CH. DE GAULLE"
+    ],
+    "dates": [
+      "052712",
+      "012053"
+    ],
+    "reference_numbers": [
+      "A477",
+      "6"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as (b)(7)(E) and (b)(6), (b)(7)(C)."
+}

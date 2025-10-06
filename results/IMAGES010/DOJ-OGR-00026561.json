@@ -1,0 +1,53 @@
+{
+  "document_metadata": {
+    "page_number": "2905",
+    "document_number": "DOJ-OGR-00026561",
+    "date": null,
+    "document_type": "Official Count Slips",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2905 Metropolitan Correctional Center Official Count Slip Unit: E71 Date 8-17-19 Count: Time: 300 Metropolitan Correctional Center Official Count Slip Unit: E5 Date: 08/12/19 Count: Time: 5300 DOJ-OGR-00026561",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "E71 8-17-19 300",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "E5 08/12/19 5300",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026561",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [],
+    "dates": [
+      "8-17-19",
+      "08/12/19"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026561"
+    ]
+  },
+  "additional_notes": "The document appears to be a scan of two 'Official Count Slips' from the Metropolitan Correctional Center, with some handwritten information and redactions."
+}

@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": "83",
+    "document_number": "DOJ-OGR-00022368",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information C4TX Quinn, Thomas H. Rockefeller, David Ross, David Rodgers, Dave Rosovsky, Henry Schaeffer, Stan Pivar, Stuart Ranieri, Lewis S Razek, Ed Preece Dara Roxton Sporting Daniel Reynolds Sacks Oliver Dr.",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "C4TX",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Quinn, Thomas H.\nRockefeller, David\nRoss, David\nRodgers, Dave\nRosovsky, Henry\nSchaeffer, Stan\nPivar, Stuart\nRanieri, Lewis S\nRazek, Ed\nPreece Dara\nRoxton Sporting Daniel Reynolds\nSacks Oliver Dr.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022368",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Thomas H. Quinn",
+      "David Rockefeller",
+      "David Ross",
+      "Dave Rodgers",
+      "Henry Rosovsky",
+      "Stan Schaeffer",
+      "Stuart Pivar",
+      "Lewis S Ranieri",
+      "Ed Razek",
+      "Dara Preece",
+      "Daniel Reynolds",
+      "Oliver Dr. Sacks"
+    ],
+    "organizations": [
+      "Roxton Sporting"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022368"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 83, and the document number is DOJ-OGR-00022368."
+}

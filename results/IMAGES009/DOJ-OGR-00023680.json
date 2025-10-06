@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "1844",
+    "document_number": "DOJ-OGR-00023680",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "I really appreciate your help. Thank you, -- (b)(6), (b)(7)(C) -- (b)(6), (b)(7)(C) Page 1844 DOJ-OGR-00023680",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "I really appreciate your help.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Thank you,",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "--",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "--",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Page 1844",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00023680",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00023680"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6), (b)(7)(C)."
+}

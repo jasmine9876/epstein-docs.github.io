@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "09122006",
+    "date": "05292005",
+    "document_type": "REPORT OF PRIVATE AIRCRAFT ARRIVAL - CF178",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "REQUESTED BY: (b)(6)(b)(7)(c) (b)(7)(e) 09122006 (b)(7)(e) - REPORT OF PRIVATE AIRCRAFT ARRIVAL - CF178 (b)(7)(e) AIRCRAFT TAIL #: N909JE REPORT ID: (b)(7)(e) US AIRPORT OF ARRIVAL: KPBI US ARRIVAL TIME: 2225 Z US ARRIVAL DATE: 05292005 AIRPORT OF DEPARTURE : KSTT DEPARTURE TIME : 0000 Z DEPARTURE DATE: 05292005 LAST FOREIGN CITY: KSTT FOREIGN ITINERARY: NONE LAST FOREIGN COUNTRY: VI AIRPORT CODE: US DEPARTURE TIME: 0 Z DEPARTURE STATE: US DEPARTURE DATE: MAKE: GULFSTREAM AEROSPACE MODEL: TRIM : COLORS: BLACK OWNER/LESSEE NAME: HYPERION AIR INC STREET ADDRESS: 103 POULK ROAD CITY: WILMINGTON ST: DE COUNTRY: US APT: 202 ZIP: 19803 INSPECTOR ID: (b)(7)(e) AIRCRAFT REGISTRATION CERTIFICATE VERIFIED: N PILOT NAME: (b)(6)(b)(7)(c) (b)(6)(b)(7)(c) DOB: 02051960 NATIONALITY: (b)(6)(b)(7)(c) LICENSE NUMBER: (b)(6)(b)(7)(c) LICENSE COUNTRY: (b)(6)(b)(7)(c) STREET ADDRESS: (b)(6)(b)(7)(c) CITY: JUPITER ST: (b)(6)(b)(7)(c) COUNTRY: (b)(6)(b)(7)(c) APT: (b)(6)(b)(7)(c) ZIP: INSPECTOR ID: (b)(6)(b)(7)(c) PILOT LICENSE CERTIFICATE VERIFIED: N PILOT MEDICAL CERTIFICATE VERIFIED: N VIOLATIONS: NUMBER OF PASSENGERS ON BOARD: 05 PASSENGER NAME NTNL DOB EPSTEIN JEFFREY US 01201953 (b)(6)(b)(7)(c) (b)(7)(e)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "REQUESTED BY: (b)(6)(b)(7)(c) (b)(7)(e) 09122006 (b)(7)(e) - REPORT OF PRIVATE AIRCRAFT ARRIVAL - CF178 (b)(7)(e)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "AIRCRAFT TAIL #: N909JE REPORT ID: (b)(7)(e) US AIRPORT OF ARRIVAL: KPBI US ARRIVAL TIME: 2225 Z US ARRIVAL DATE: 05292005 AIRPORT OF DEPARTURE : KSTT DEPARTURE TIME : 0000 Z DEPARTURE DATE: 05292005 LAST FOREIGN CITY: KSTT FOREIGN ITINERARY: NONE LAST FOREIGN COUNTRY: VI AIRPORT CODE: US DEPARTURE TIME: 0 Z DEPARTURE STATE: US DEPARTURE DATE: MAKE: GULFSTREAM AEROSPACE MODEL: TRIM : COLORS: BLACK OWNER/LESSEE NAME: HYPERION AIR INC STREET ADDRESS: 103 POULK ROAD CITY: WILMINGTON ST: DE COUNTRY: US APT: 202 ZIP: 19803",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "INSPECTOR ID: (b)(7)(e) AIRCRAFT REGISTRATION CERTIFICATE VERIFIED: N PILOT NAME: (b)(6)(b)(7)(c) (b)(6)(b)(7)(c) DOB: 02051960 NATIONALITY: (b)(6)(b)(7)(c) LICENSE NUMBER: (b)(6)(b)(7)(c) LICENSE COUNTRY: (b)(6)(b)(7)(c) STREET ADDRESS: (b)(6)(b)(7)(c) CITY: JUPITER ST: (b)(6)(b)(7)(c) COUNTRY: (b)(6)(b)(7)(c) APT: (b)(6)(b)(7)(c) ZIP: INSPECTOR ID: (b)(6)(b)(7)(c) PILOT LICENSE CERTIFICATE VERIFIED: N PILOT MEDICAL CERTIFICATE VERIFIED: N",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "VIOLATIONS: NUMBER OF PASSENGERS ON BOARD: 05 PASSENGER NAME NTNL DOB EPSTEIN JEFFREY US 01201953 (b)(6)(b)(7)(c)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(e)",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "HYPERION AIR INC"
+    ],
+    "locations": [
+      "WILMINGTON",
+      "JUPITER",
+      "DE",
+      "US",
+      "VI"
+    ],
+    "dates": [
+      "05292005",
+      "02051960",
+      "01201953"
+    ],
+    "reference_numbers": [
+      "09122006",
+      "N909JE",
+      "202",
+      "19803"
+    ]
+  },
+  "additional_notes": "The document contains multiple redactions, indicated by (b)(6)(b)(7)(c) and (b)(7)(e), suggesting sensitive information has been withheld."
+}

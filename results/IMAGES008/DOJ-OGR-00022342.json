@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": "57",
+    "document_number": "DOJ-OGR-00022342",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Stern, Allison & Leonard Stracher Kate Sundlun, Stuart Sunley, Mr James & Amanda Stevens Michael Stopford-Sackville, Char- lie & Swire, Hugo Swire, Jenny Swire, Mark Swire Sophie Sykes, Lucy Ewen Taaffe, Paul Tabet, Karim and Cristina Taki Talbot Williams, Simon Tang, Mr David, & Lucy Wastnag DOJ-OGR-00022342",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Stern, Allison & Leonard Stracher Kate Sundlun, Stuart Sunley, Mr James & Amanda Stevens Michael Stopford-Sackville, Char- lie & Sutherland Harry Svenlinson, Peter Swire Sophie Sykes, Lucy Ewen Swire, Hugo Swire, Jenny Swire, Mark Taaffe, Paul Tabet, Karim and Cristina Taki Talbot Williams, Simon Tang, Mr David, & Lucy Wastnag",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "57",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022342",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Allison Stern",
+      "Leonard Stracher",
+      "Kate Stracher",
+      "Stuart Sundlun",
+      "Mr James Sunley",
+      "Amanda Sunley",
+      "Michael Stevens",
+      "Charlie Stopford-Sackville",
+      "Harry Sutherland",
+      "Peter Svenlinson",
+      "Sophie Swire",
+      "Lucy Ewen Sykes",
+      "Hugo Swire",
+      "Jenny Swire",
+      "Mark Swire",
+      "Paul Taaffe",
+      "Karim Tabet",
+      "Cristina Tabet",
+      "Taki",
+      "Simon Talbot Williams",
+      "Mr David Tang",
+      "Lucy Wastnag"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022342"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 57, and the document number is DOJ-OGR-00022342."
+}

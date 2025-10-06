@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": "2574",
+    "document_number": "DOJ-OGR-00026234",
+    "date": "07/12/2019",
+    "document_type": "Clinical Encounter - Administrative Note",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2574\nBureau of Prisons\nHealth Services\nClinical Encounter - Administrative Note\nInmate Name: EPSTEIN, JEFFREY EDWARD\nDate of Birth: 01/20/1953\nNote Date: 07/12/2019 09:06\nSex: M\nRace: WHITE\nReg #: 76318-054\nProvider:\nFacility: NYM\nUnit: Z05\nAdmin Note - Orders encounter performed at Health Services.\nAdministrative Notes:\nADMINISTRATIVE NOTE 1\nProvider: [redacted] MD\nPATIENT REQUESTED TO HAVE A COLACE RX, INSTEAD OF TEH BISACODYL FOR CONSTIPATION.\nNew Medication Orders:\nRx#\nMedication\nOrder Date\nPrescriber Order\nDocusate Sodium Capsule\n07/12/2019 09:06\nTAKE ONE 100 MG CAP Orally - Two Times a Day x 30 day(s)\nIndication: Constipation, unspecified\nDiscontinued Medication Orders:\nRx#\nMedication\nOrder Date\nPrescriber Order\n121757-NYM\nBisacodyl E.C. 5 MG TAB\n07/12/2019 09:06\nTake one tablet (5 MG) by mouth at bedtime AS NEEDED for 10 days\nDiscontinue Type: When Pharmacy Processes\nDiscontinue Reason: discontinue\nIndication:\nCopay Required: No\nCosign Required: No\nTelephone/Verbal Order: No\nCompleted by [redacted] MD on 07/12/2019 09:10\nGenerated 07/12/2019 09:10 by [redacted] MD Bureau of Prisons - NYM\nPage 1 of 1\nDOJ-OGR-00026234",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Bureau of Prisons\nHealth Services\nClinical Encounter - Administrative Note",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD\nDate of Birth: 01/20/1953\nNote Date: 07/12/2019 09:06\nSex: M\nRace: WHITE\nReg #: 76318-054\nProvider:\nFacility: NYM\nUnit: Z05",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Admin Note - Orders encounter performed at Health Services.\nAdministrative Notes:\nADMINISTRATIVE NOTE 1\nProvider: [redacted] MD\nPATIENT REQUESTED TO HAVE A COLACE RX, INSTEAD OF TEH BISACODYL FOR CONSTIPATION.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "New Medication Orders:\nRx#\nMedication\nOrder Date\nPrescriber Order\nDocusate Sodium Capsule\n07/12/2019 09:06\nTAKE ONE 100 MG CAP Orally - Two Times a Day x 30 day(s)\nIndication: Constipation, unspecified",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Discontinued Medication Orders:\nRx#\nMedication\nOrder Date\nPrescriber Order\n121757-NYM\nBisacodyl E.C. 5 MG TAB\n07/12/2019 09:06\nTake one tablet (5 MG) by mouth at bedtime AS NEEDED for 10 days",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Discontinue Type: When Pharmacy Processes\nDiscontinue Reason: discontinue\nIndication:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Copay Required: No\nCosign Required: No\nTelephone/Verbal Order: No\nCompleted by [redacted] MD on 07/12/2019 09:10",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/12/2019 09:10 by [redacted] MD Bureau of Prisons - NYM\nPage 1 of 1",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/12/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "121757-NYM",
+      "DOJ-OGR-00026234"
+    ]
+  },
+  "additional_notes": "The document contains redactions of personal identifiable information."
+}

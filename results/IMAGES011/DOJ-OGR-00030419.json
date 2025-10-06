@@ -1,0 +1,89 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "3258.7",
+    "date": "01/18/05",
+    "document_type": "DDA Statement History",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "JE Jan. 18. 2005 11:20AM OR DDA STATEMENT HISTORY No. 3258.7 P. 1 PAGE 1 ACCOUNT 000-00-0000 GHISLAINE MAXWELL OR ALFREDO RODRIGUEZ DATE LAST STATEMENT 12/22/04 HOUSEHOLD ACCOUNT DATE THIS STATEMENT 01/18/05 *****DDA TRANSACTIONS***** BEGINNING BALANCE CHECKS/OTHER DEBITS DEPOSITS/OTHER CREDITS ENDING BALANCE 5825.46 NBR 11 TOTAL AMOUNT 9438.14 NBR 1 TOTAL AMOUNT 1000.00 6387.32 DATE CK NBR AMOUNT TP TRANSACTION DESCRIPTION BALANCE 11/30 2515 1125.00 CK CHECK 5700.46 12/03 2516 1600.00 CK CHECK 4100.46 12/03 2517 1549.29 CK CHECK 3551.17 12/06 10000.00 CR INCOMING WIRE CREDIT 13551.17 12/06 210.00 DB INCOMING WIRE FEE 13541.17 12/06 Bank check 2000.00 CK TELLER CASHED CHECK Pretty Cash 11541.17 12/07 2521 517.74 CK CHECK 11023.43 12/07 2522 210.00 CK CHECK 10813.43 12/07 2518 101.03 CK CHECK 10712.40 12/08 2519 2925.08 CK CHECK 7787.32 12/08 Bank Check 1000.00 CK TELLER CASHED CHECK (to JE) 6787.32 12/13 2524 400.00 CK CHECK 6387.32 PF1 - PAGE FWD 07/26/17 Page 66 of 114 Public Records Request No.: 17-295",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "JE Jan. 18. 2005 11:20AM OR DDA STATEMENT HISTORY No. 3258.7 P. 1 PAGE 1",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "ACCOUNT 000-00-0000 GHISLAINE MAXWELL OR ALFREDO RODRIGUEZ DATE LAST STATEMENT 12/22/04 HOUSEHOLD ACCOUNT DATE THIS STATEMENT 01/18/05",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "*****DDA TRANSACTIONS***** BEGINNING BALANCE CHECKS/OTHER DEBITS DEPOSITS/OTHER CREDITS ENDING BALANCE 5825.46 NBR 11 TOTAL AMOUNT 9438.14 NBR 1 TOTAL AMOUNT 1000.00 6387.32",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DATE CK NBR AMOUNT TP TRANSACTION DESCRIPTION BALANCE",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "11/30 2515 1125.00 CK CHECK 5700.46 12/03 2516 1600.00 CK CHECK 4100.46 12/03 2517 1549.29 CK CHECK 3551.17 12/06 10000.00 CR INCOMING WIRE CREDIT 13551.17 12/06 210.00 DB INCOMING WIRE FEE 13541.17 12/06 Bank check 2000.00 CK TELLER CASHED CHECK Pretty Cash 11541.17 12/07 2521 517.74 CK CHECK 11023.43 12/07 2522 210.00 CK CHECK 10813.43 12/07 2518 101.03 CK CHECK 10712.40 12/08 2519 2925.08 CK CHECK 7787.32 12/08 Bank Check 1000.00 CK TELLER CASHED CHECK (to JE) 6787.32 12/13 2524 400.00 CK CHECK 6387.32",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "Pretty Cash",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "Bank check",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "Bank Check (to JE)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "PF1 - PAGE FWD",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 66 of 114 Public Records Request No.: 17-295",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "GHISLAINE MAXWELL",
+      "ALFREDO RODRIGUEZ",
+      "JE"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "01/18/05",
+      "12/22/04",
+      "11/30",
+      "12/03",
+      "12/06",
+      "12/07",
+      "12/08",
+      "12/13",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "3258.7",
+      "000-00-0000",
+      "17-295"
+    ]
+  },
+  "additional_notes": "The document appears to be a bank statement with handwritten annotations. The statement is for the account of Ghislaine Maxwell or Alfredo Rodriguez. The document is page 1 of 1 and page 66 of 114 in a larger collection."
+}

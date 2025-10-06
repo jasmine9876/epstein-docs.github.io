@@ -1,0 +1,48 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024493",
+    "date": null,
+    "document_type": "Visitor Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE | NAME | Signature | INM ATP | Reg # | TIME IN | TIME OUT 7/23 7/23 J. Epstein J. Epstein 76318-054 76318-054 12:17 12:00 7/23 7/23 7/23 7/23 Epstein Epstein Epstein 76318 054 76318054 2:2 5:20 25 1600m 620",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE | NAME | Signature | INM ATP | Reg # | TIME IN | TIME OUT",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/23 7/23 J. Epstein J. Epstein 76318-054 76318-054 12:17 12:00",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/23 7/23 7/23 7/23 Epstein Epstein Epstein 76318 054 76318054 2:2 5:20 25 1600m 620",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024493",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "J. Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/23"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024493"
+    ]
+  },
+  "additional_notes": "The document appears to be a visitor log with handwritten entries. Some information is redacted."
+}

@@ -1,0 +1,49 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024010",
+    "date": "Mon, 05 Aug 2019 08:46:28 -0400",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Sent: Mon, 05 Aug 2019 08:46:28 -0400\nSubject: Jeffrey Epstein, 76318-054\nFrom: [b(6), b(7)C] <[b(6)]@gmail.com>\nTo: [b(6), b(7)C] @bop.gov>\n\nMr. [b(6), b(7)C]\n\nI understand that Mr. Epstein has not yet had the opportunity to establish a telephone account. Unit Mgr. [b(6)] (or [b(6)]) began the process last week, but did not have a chance to finish it. If you could arrange for someone to help Mr. Epstein set up the account, we'd really appreciate it.\n\nThank you for all your help.\n\n[b(6), b(7)C]",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Sent: Mon, 05 Aug 2019 08:46:28 -0400\nSubject: Jeffrey Epstein, 76318-054\nFrom: [b(6), b(7)C] <[b(6)]@gmail.com>\nTo: [b(6), b(7)C] @bop.gov>",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Mr. [b(6), b(7)C]\n\nI understand that Mr. Epstein has not yet had the opportunity to establish a telephone account. Unit Mgr. [b(6)] (or [b(6)]) began the process last week, but did not have a chance to finish it. If you could arrange for someone to help Mr. Epstein set up the account, we'd really appreciate it.\n\nThank you for all your help.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "[b(6), b(7)C]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024010",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Mr. Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "Mon, 05 Aug 2019 08:46:28 -0400"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024010"
+    ]
+  },
+  "additional_notes": "The document is an email with redactions. The email discusses setting up a telephone account for Jeffrey Epstein."
+}

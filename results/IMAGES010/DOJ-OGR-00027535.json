@@ -1,0 +1,71 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00027535",
+    "date": "29JAN1217Z",
+    "document_type": "Travel Record",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "019 Z/ /DCS-SYNCUS CR-ORYEC0002 00000000 GS 9977JM 29JAN1217Z #7 --- TST RLR --- RP/NYCEC08AA/NYCEC08AA HK/GS 01APR11/2358Z 66Z3E2 1.EPSTEIN/JEFFREY MR(ADT) /P2 2 EC 4 A 01APR 5 EWRORY HK1 B 2025 1010 1 EC/6Z3E2 3 UCI 000814D8C9C5C735 /P2 4 SSR DOCS EC HK1 ///US/20JAN53/M//EPSTEIN/JEFFREY /P2 5 SSR DOCS EC HK1 P/USA/469911707/USA/20JAN53/M/26MAY20/EPSTEIN/JEFFREY/ /P2 6 SSR DOCS EC HK1 P/USA/469911707/USA/20JAN53/M/26MAY20/EPSTEIN/JEFFREY/ /P2/S2 7 AP (b) (6) 8 AP (b) (6) 9 AP (b) (6) 10 TK OK 31MAR/NYCEC0103 ET 11 FA PAX 284-2401013338/ETEC/USD750.00/31MAR11/NYCEC0103/33999980 /P2/S2 12 FB PAX 3100002063 TTP/RT OK ETICKET /P2/S2 13 FO PAX 284-2401015219NYC25MAR11/33999991/284-24010152191E1 /P2/S2 14 FP O/AX /CCAXXXXXXXXXXXXX2016D0114/N297139 15 RM FARE3018.30 USD 16 RM TIDS5L7FZVAA 17 RM (b) (6) 18 RM MODETICKET 19 RM FF:BEDFFUS 20 RM MOPEXTERNAL PAYMENT 21 SSR SSR RQST EC HN1 EWRORY/01C/EC 004 D 31MAR EWRORY 22 SSR SSR DOCSECHK1 ///US/20JAN53/M//EPSTEIN/JEFFREY/EPSTEIN/JEFFREY MR(ADT 23 SSR SSR RQST EC HN1 EWRORY/01C/EC 004 D 31MAR EWRORY 24 SSR SSR RQST EC KK1 EWRORY/01CN/EC 004 D 31MAR EWRORY DOJ-OGR-00027535",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "019 Z/ /DCS-SYNCUS CR-ORYEC0002 00000000 GS 9977JM 29JAN1217Z",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "#7 --- TST RLR --- RP/NYCEC08AA/NYCEC08AA HK/GS 01APR11/2358Z 66Z3E2",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "1.EPSTEIN/JEFFREY MR(ADT) /P2",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "2 EC 4 A 01APR 5 EWRORY HK1 B 2025 1010 1 EC/6Z3E2",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027535",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "EWRORY",
+      "USA",
+      "NYC"
+    ],
+    "dates": [
+      "01APR11",
+      "29JAN1217Z",
+      "20JAN53",
+      "26MAY20",
+      "31MAR11",
+      "25MAR11"
+    ],
+    "reference_numbers": [
+      "9977JM",
+      "66Z3E2",
+      "000814D8C9C5C735",
+      "469911707",
+      "284-2401013338",
+      "3100002063",
+      "284-2401015219",
+      "33999991",
+      "33999980",
+      "N297139",
+      "TIDS5L7FZVAA"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b) (6)'. The document appears to be a travel record or itinerary for Jeffrey Epstein."
+}

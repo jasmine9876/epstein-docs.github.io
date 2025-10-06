@@ -1,0 +1,53 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "DOJ-OGR-00026238",
+    "date": "07/06/2019",
+    "document_type": "Inmate Medical Record",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2578 Inmate Name: EPSTEIN, JEFFREY EDWARD Reg #: 76318-054 Date of Birth: 01/20/1953 Sex: M Race: WHITE Encounter Date: 07/06/2019 21:38 Provider: (b)(6); (b)(7)(C) PA-C Facility: NYM Mental Health: Level of Consciousness: Alert and Oriented Psychomotor Activity: Normal General Appearance: Normal Behavior: Cooperative Mood: Appropriate to Content Thought Process: Goal Directed Thought Content: Normal Hx of Mental Health Treatment: None Hx of Head Injury: None Current Mental Health Treatment: No Current Mental Health Complaint: No Hx of Loss of Consciousness: No Hx of Hearing Voices: No Past History of Suicide Attempt: No Current Suicide Ideation: No Suicide Prevention Initiated: No Comments: Substance Use History: Denied Current Painful Condition: Denied Other Health Issues: Current Medical Conditions: Other Current Treatments: Pregnant: N/A Dental Condition: Denied Generated 07/06/2019 21:56 by (b)(6); (b)(7)(C) PA-C Bureau of Prisons - NYM Page 3 of 6 DOJ-OGR-00026238",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 2578",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD Reg #: 76318-054 Date of Birth: 01/20/1953 Sex: M Race: WHITE Encounter Date: 07/06/2019 21:38 Provider: (b)(6); (b)(7)(C) PA-C Facility: NYM",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Mental Health: Level of Consciousness: Alert and Oriented Psychomotor Activity: Normal General Appearance: Normal Behavior: Cooperative Mood: Appropriate to Content Thought Process: Goal Directed Thought Content: Normal Hx of Mental Health Treatment: None Hx of Head Injury: None Current Mental Health Treatment: No Current Mental Health Complaint: No Hx of Loss of Consciousness: No Hx of Hearing Voices: No Past History of Suicide Attempt: No Current Suicide Ideation: No Suicide Prevention Initiated: No Comments: Substance Use History: Denied Current Painful Condition: Denied Other Health Issues: Current Medical Conditions: Other Current Treatments: Pregnant: N/A Dental Condition: Denied",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/06/2019 21:56 by (b)(6); (b)(7)(C) PA-C Bureau of Prisons - NYM Page 3 of 6 DOJ-OGR-00026238",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/06/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026238"
+    ]
+  },
+  "additional_notes": "The document appears to be a medical record for Jeffrey Epstein, containing various health-related information. Some personal identifiable information is redacted."
+}

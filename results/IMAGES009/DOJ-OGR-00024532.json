@@ -1,0 +1,89 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024532",
+    "date": "Sunday, July 28, 2019",
+    "document_type": "Daily Lieutenant's Log",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "UNITED STATES DEPARTMENT OF JUSTICE METROPOLITAN CORRECTIONAL CENTER, NEW YORK, NY DAILY LIEUTENANT'S LOG SHIFT-DAY-DATE: D/W - Sunday, July 28, 2019 Beginning Count: (b)(7)(F) SHU: (b)(7)(F) D/W Daily Sensitive Information: I/M (b)(6) (b)(7)(C) I/M Epstein on Psych obs. w/inmate companion I/M (b)(6) (b)(7)(C) 8:00 AM Lieutenant (b)(6) assumes duties as the Day Watch Operations Lieutenant. (b)(7)(E) (b)(7)(F) 8:00 AM (b)(7)(F) 8:25 AM (b)(7)(F) Initiated. 8:30 AM AM Census count 9:01 AM (b)(7)(F) Complete. 9:06 AM -1 L-HOSP: (b)(6) (b)(7)(C) 10:00 AM Institution count. (b)(7)(F) Good verbal announced. Clear count announced. 11:00 AM Mainline feeding in progress. 12:02 PM +1 L-HOSP return: (b)(6) (b)(7)(C) 12:30 PM PM Census count 2:43 PM I/M (b)(6) (b)(7)(C) escorted to the Special Housing Unit. 3:02 PM I/M (b)(6) return from local hospital with Bop staff. 3:25 PM Three inmates released from ZA to general population (b)(6) (b)(7)(C) 3:40 PM I/m (b)(6) (b)(7)(C) released from HA to KN 3:45 PM Institutional lockdown for count. 4:00 PM Relieved of duties by Lt. (b)(6) (b)(7)(C) as E/W Operations Lieutenant. Visitation: NA Inmates Adults Children Total N/A N/A N/A N/A ION SCANNING TESTED HITS: 0 (b)(7)(E) (b)(7)(F) The following Inmate(s) were placed in Administrative Detention: 0 Name Reg Number Reason Unit TIME A/D Order Ops Lt (b)(6) (b)(7)(C) Ending Count: (b)(7)(F) SHU: (b)(7)(F) 10-South: (b)(7)(F) SHU OBS: (b)(7)(F) Act Lt Local Hosp: (b)(7)(F) H/A OBS: B/A OBS: Dry Cell",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "UNITED STATES DEPARTMENT OF JUSTICE METROPOLITAN CORRECTIONAL CENTER, NEW YORK, NY DAILY LIEUTENANT'S LOG",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "SHIFT-DAY-DATE: D/W - Sunday, July 28, 2019 Beginning Count: (b)(7)(F) SHU: (b)(7)(F)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "D/W Daily Sensitive Information: I/M (b)(6) (b)(7)(C) I/M Epstein on Psych obs. w/inmate companion I/M (b)(6) (b)(7)(C)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "8:00 AM Lieutenant (b)(6) assumes duties as the Day Watch Operations Lieutenant. (b)(7)(E) (b)(7)(F)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Visitation: NA Inmates Adults Children Total N/A N/A N/A N/A",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "ION SCANNING TESTED HITS: 0 (b)(7)(E) (b)(7)(F)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "The following Inmate(s) were placed in Administrative Detention: 0",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Name Reg Number Reason Unit TIME A/D Order",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Ops Lt (b)(6) (b)(7)(C) Ending Count: (b)(7)(F) SHU: (b)(7)(F) 10-South: (b)(7)(F) SHU OBS: (b)(7)(F) Act Lt Local Hosp: (b)(7)(F) H/A OBS: B/A OBS: Dry Cell",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024532",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein",
+      "Lieutenant (b)(6)",
+      "Lt. (b)(6) (b)(7)(C)"
+    ],
+    "organizations": [
+      "UNITED STATES DEPARTMENT OF JUSTICE",
+      "METROPOLITAN CORRECTIONAL CENTER"
+    ],
+    "locations": [
+      "NEW YORK, NY",
+      "Local hospital"
+    ],
+    "dates": [
+      "Sunday, July 28, 2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00024532",
+      "(b)(6)",
+      "(b)(7)(C)",
+      "(b)(7)(E)",
+      "(b)(7)(F)"
+    ]
+  },
+  "additional_notes": "The document contains redactions, likely for privacy and security reasons. The log details various activities and events at the Metropolitan Correctional Center on the specified date."
+}

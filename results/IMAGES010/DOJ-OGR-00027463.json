@@ -1,0 +1,80 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00027463",
+    "date": "05/14/2007",
+    "document_type": "Inspection Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "UNCLASSIFIED // FOR OFFICIAL USE ONLY\nEPSTEIN JEFFREY (b)(7)(E)\n05/14/2007 13:04:00\nAir / Sea Baggage Secondary Inspection (b)(7)(E)\n(b)(7)(E)\nSubject\nLast Name: EPSTEIN\nFirst Name: JEFFREY\nGender: Male (b)(7)(E)\nRace: White (b)(7)(E)\nDate Of Birth: 01/20/1953\nCrossing Information\nPort: NEWARK (4601)\nSite: NEWARK, INTL AP TERMINAL C (b)(7)(E)\nInbound/Outbound: Inbound\nPort Crossing Date: 05/14/2007 13:04:00\nEmbark Port: SPB (b)(7)(E)\nDeparture Airport: SPB (b)(7)(E)\nAirline: AIR MARTINIQUE (NN)\nReferral / Inspection Information\nReferral Office: (b)(7)(E)\nReferral Reason: (b)(7)(E)\nReferral Comment: (b)(7)(E)\nInspection Completion: Yes\nInspection Result: Negative\nMiscellaneous Info\nPersonnel Search: No\nBaggage Examination: Yes\nPassenger On Declare Number: 1\nRemarks\n(b)(6); (b)(7)(C), (b)(7)(E)\nUNCLASSIFIED // FOR OFFICIAL USE ONLY",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "UNCLASSIFIED // FOR OFFICIAL USE ONLY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN JEFFREY (b)(7)(E)\n05/14/2007 13:04:00\nAir / Sea Baggage Secondary Inspection (b)(7)(E)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Subject\nLast Name: EPSTEIN\nFirst Name: JEFFREY\nGender: Male (b)(7)(E)\nRace: White (b)(7)(E)\nDate Of Birth: 01/20/1953",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Crossing Information\nPort: NEWARK (4601)\nSite: NEWARK, INTL AP TERMINAL C (b)(7)(E)\nInbound/Outbound: Inbound\nPort Crossing Date: 05/14/2007 13:04:00\nEmbark Port: SPB (b)(7)(E)\nDeparture Airport: SPB (b)(7)(E)\nAirline: AIR MARTINIQUE (NN)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Referral / Inspection Information\nReferral Office: (b)(7)(E)\nReferral Reason: (b)(7)(E)\nReferral Comment: (b)(7)(E)\nInspection Completion: Yes\nInspection Result: Negative",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Miscellaneous Info\nPersonnel Search: No\nBaggage Examination: Yes\nPassenger On Declare Number: 1",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Remarks\n(b)(6); (b)(7)(C), (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "UNCLASSIFIED // FOR OFFICIAL USE ONLY",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027463",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "AIR MARTINIQUE"
+    ],
+    "locations": [
+      "NEWARK",
+      "NEWARK, INTL AP TERMINAL C",
+      "SPB"
+    ],
+    "dates": [
+      "05/14/2007",
+      "01/20/1953"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00027463",
+      "4601"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(7)(E), (b)(6), and (b)(7)(C). The document is an inspection report related to JEFFREY EPSTEIN's travel."
+}

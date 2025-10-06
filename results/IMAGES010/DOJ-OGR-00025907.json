@@ -1,0 +1,50 @@
+{
+  "document_metadata": {
+    "page_number": "1991",
+    "document_number": "76318-054",
+    "date": "2019/07/23",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 1991\nI/M Epstein #76318-054\nFrom [b](6); (b)(7)(C)\nTo [b](6); (b)(7)(C) NYM/Lieutenants\nDate 2019/07/23 22:17\nSubject: I/M Epstein #76318-054\nAttachments: TEXT.htm\nThe purpose of this email is to inquire as to whether or not inmate Epstein, Jeffrey #76318-054 is mentally capable of proceeding with the disciplinary process. Thanks in advance.\nPage 11054\nDOJ-OGR-00025907",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 1991",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "I/M Epstein #76318-054\nFrom [b](6); (b)(7)(C)\nTo [b](6); (b)(7)(C) NYM/Lieutenants\nDate 2019/07/23 22:17\nSubject: I/M Epstein #76318-054\nAttachments: TEXT.htm",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "The purpose of this email is to inquire as to whether or not inmate Epstein, Jeffrey #76318-054 is mentally capable of proceeding with the disciplinary process. Thanks in advance.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 11054\nDOJ-OGR-00025907",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "NYM"
+    ],
+    "locations": [],
+    "dates": [
+      "2019/07/23"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00025907"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted email regarding Jeffrey Epstein's mental capability to undergo a disciplinary process. The sender and recipient's names are redacted."
+}

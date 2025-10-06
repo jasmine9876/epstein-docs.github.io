@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "61",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "check image",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "JAN 19-2005 12:56 P.02 Jeffery E. Erbair Inv. 8040136088 Date 12/03/04 by 1027831 32008 Payable to: CASSA $ 2,000.00 Two: thousand 00/100 Dollars COLONIAL BANK 34-18 Cultural Crescent P.O. Box 1477 Tuscaloosa, AL 35403-1477 (205) 502-2715 JRodriguez 0000 200000 07/26/17 Page 61 of 114 Public Records Request No.: 17-295 DOJ-OGR-00030414",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "JAN 19-2005 12:56 P.02",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffery E. Erbair Inv. 8040136088 Date 12/03/04 by 1027831 32008 Payable to: CASSA $ 2,000.00 Two: thousand 00/100 Dollars JRodriguez",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "COLONIAL BANK 34-18 Cultural Crescent P.O. Box 1477 Tuscaloosa, AL 35403-1477 (205) 502-2715",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 61 of 114 Public Records Request No.: 17-295 DOJ-OGR-00030414",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffery E. Erbair",
+      "JRodriguez"
+    ],
+    "organizations": [
+      "CASSA",
+      "COLONIAL BANK"
+    ],
+    "locations": [
+      "Tuscaloosa",
+      "AL"
+    ],
+    "dates": [
+      "JAN 19-2005",
+      "12/03/04",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "8040136088",
+      "1027831",
+      "32008",
+      "17-295",
+      "DOJ-OGR-00030414"
+    ]
+  },
+  "additional_notes": "The document is a scanned check image with some handwritten information. The check is from Colonial Bank and is made payable to CASSA for $2,000.00. The document also contains some metadata at the top and bottom, including a date and page number."
+}

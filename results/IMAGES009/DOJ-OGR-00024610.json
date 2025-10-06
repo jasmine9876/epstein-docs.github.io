@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "BP-A0292",
+    "date": "APR 16",
+    "document_type": "SPECIAL HOUSING UNIT RECORD",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "BP-A0292 APR 16 SPECIAL HOUSING UNIT RECORD U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS NEW YORK MCC (Institution) Inmate Name: EPSTEIN, JEFFREY EDWARD Reg. No. 76318-054 Team/caseworker: UNASSIGNED ADMISSION Regular Unit: 5UNT MGR EXT-101 Cell: 5 Violation or Reason: N/A Date Rec'd: N/A Admittance Authorized: N/A Date Rel.: N/A Pertinent Information: N/A Separation Information: N/A Special Housing Unit Cell Number: H01-001L Inmate is In: N/A DS: N/A AD Status N/A Is Inmate on Medication: N/A Medical Department Notified: N/A Date Shift Meals SH Exercise Out of cell time (Total min/hrs) Comments Medical Staff Sign OIC Signature B D S 07-21-2019 Morn Y Y 07-21-2019 Day Y Y 07-21-2019 Eve Y Y 07-22-2019 Morn Y Y Y No 01:00 07-22-2019 Day Y Y 07-22-2019 Eve Y Y EXPLANATORY NOTES: Pertinent Info: i.e., Epileptic; Diabetic; Suicidal; Assaultive; etc. Meals/SH: Shower - Yes (Y); No (N); Refused (R) Out-of-Cell Time: (LL) Law Library, (LV) Legal Visit, (U) Unit Team, (P) Psychology, (E) Education, (H) Haircut, (C) Chapel, (R) Recreation, (X) Property Issue, (V) Visit, (M) Medical, (C) Court, (O) Other - Yes (Y) if applicable / Enter Actual Time Period Start and End (i.e., 0930 - 1030 hrs) in Out of Cell Time Block. Medical: Medical providers will sign the segregation log each shift and the record sheet each time the inmate is seen by a medical provider. At a minimum, the record sheet must be signed at least once each day by the medical provider. Comments: i.e., Conduct, Attitude, etc. Additional comments on reverse side must include date, signature, and title. OIC Signature: OIC must sign all record sheets each shift. (OIC - Unit Officer) PDF Prescribed by P5270 This form replaces BP-292(52) dated AUG 2011 DOJ-OGR-00024610",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "SPECIAL HOUSING UNIT RECORD",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "EPSTEIN, JEFFREY EDWARD",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "EXPLANATORY NOTES: ...",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "U.S. DEPARTMENT OF JUSTICE",
+      "FEDERAL BUREAU OF PRISONS"
+    ],
+    "locations": [
+      "NEW YORK MCC"
+    ],
+    "dates": [
+      "07-21-2019",
+      "07-22-2019",
+      "APR 16",
+      "AUG 2011"
+    ],
+    "reference_numbers": [
+      "BP-A0292",
+      "76318-054",
+      "H01-001L",
+      "DOJ-OGR-00024610"
+    ]
+  },
+  "additional_notes": "The document contains handwritten entries and appears to be a scanned copy. Some information is redacted."
+}

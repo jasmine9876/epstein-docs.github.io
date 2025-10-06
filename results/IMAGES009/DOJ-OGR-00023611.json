@@ -1,0 +1,46 @@
+{
+  "document_metadata": {
+    "page_number": "1500",
+    "document_number": "DOJ-OGR-00023611",
+    "date": "07/23/2019",
+    "document_type": "email thread",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": ">>> \"Ray Ormond\" 07/23/2019 11:46 >>> Lamine (b)(5) </div></div><!-- originalMessage --><div>---------- Original message ----------</div><div>From: Lamine N'Diaye (b)(6) @bop.gov </div><div>Date: 7/23/19 </div></div>>>> \"Lamine N'Diaye\" (b)(6) @bop.gov 07/23/2019 11:12>>> Sent from my Verizon, Samsung Galaxy smartphone</div></div><!-- originalMessage --><div>---------- Original message ----------</div><div>From: \"Shirley V. Skipper-Scott\" (b)(6) (b)(7)(c) @bop.gov </div><div> Page 1500 DOJ-OGR-00023611",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": ">>> \"Ray Ormond\" 07/23/2019 11:46 >>> Lamine (b)(5)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "</div></div><!-- originalMessage --><div>---------- Original message ----------</div><div>From: Lamine N'Diaye (b)(6) @bop.gov </div><div>Date: 7/23/19 </div></div>>>> \"Lamine N'Diaye\" (b)(6) @bop.gov 07/23/2019 11:12>>> Sent from my Verizon, Samsung Galaxy smartphone</div></div><!-- originalMessage --><div>---------- Original message ----------</div><div>From: \"Shirley V. Skipper-Scott\" (b)(6) (b)(7)(c) @bop.gov </div><div>",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 1500 DOJ-OGR-00023611",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ray Ormond",
+      "Lamine N'Diaye",
+      "Shirley V. Skipper-Scott"
+    ],
+    "organizations": [
+      "BOP"
+    ],
+    "locations": [],
+    "dates": [
+      "07/23/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00023611"
+    ]
+  },
+  "additional_notes": "The document appears to be an email thread with redactions. The content is mostly legible, but some parts are obscured by green highlights indicating redactions."
+}

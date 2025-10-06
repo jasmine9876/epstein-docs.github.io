@@ -1,0 +1,55 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "122",
+    "date": "01/28/2025",
+    "document_type": "Envelope",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "Case 22-1426, Document 122, 01/28/2025, 3639977, Page3 of 3 FIRST-CLASS MAIL US POSTAGE $0.690 01/23/2025 NEH POST ZIP 20543 041M11122601 SUPREME COURT OF THE UNITED STATES OFFICE OF THE CLERK WASHINGTON, DC 20543-0001 OFFICIAL BUSINESS PENALTY FOR PRIVATE USE $300 DOJ-OGR-00021906",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 22-1426, Document 122, 01/28/2025, 3639977, Page3 of 3",
+      "position": "header"
+    },
+    {
+      "type": "stamp",
+      "content": "FIRST-CLASS MAIL US POSTAGE $0.690 01/23/2025 NEH POST ZIP 20543 041M11122601",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "SUPREME COURT OF THE UNITED STATES OFFICE OF THE CLERK WASHINGTON, DC 20543-0001 OFFICIAL BUSINESS PENALTY FOR PRIVATE USE $300",
+      "position": "left margin"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00021906",
+      "position": "bottom right"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Supreme Court of the United States",
+      "Office of the Clerk"
+    ],
+    "locations": [
+      "Washington, DC"
+    ],
+    "dates": [
+      "01/28/2025",
+      "01/23/2025"
+    ],
+    "reference_numbers": [
+      "22-1426",
+      "122",
+      "3639977",
+      "041M11122601",
+      "DOJ-OGR-00021906"
+    ]
+  },
+  "additional_notes": "The document is an envelope with a postage stamp and a return address from the Supreme Court of the United States. The envelope appears to be addressed to the Department of Justice."
+}

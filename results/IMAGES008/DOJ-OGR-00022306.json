@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": "21",
+    "document_number": "DOJ-OGR-00022306",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information\nDubin, Peter\nDuchess of York\nDuke of York\nDucrey-Giordano, Francesco\nDuesing, Paul\nDunbar Johnson Miranda & Steph\nDunne, Griffin\nDunne, Philip & Dominice\nDunna Anh\nDurso Luigi\nDuthie, John & Charlotte\nDzhabrailou, Umar\nEcclestone, Bernie\nEckon, Paul\nEdsel, Lucinda",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Dubin, Peter\nDuchess of York\nDuke of York\nDucrey-Giordano, Francesco\nDuesing, Paul\nDunbar Johnson Miranda & Steph\nDunne, Griffin\nDunne, Philip & Dominice\nDunna Anh\nDurso Luigi\nDuthie, John & Charlotte\nDzhabrailou, Umar\nEcclestone, Bernie\nEckon, Paul\nEdsel, Lucinda",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022306",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Peter Dubin",
+      "Duchess of York",
+      "Duke of York",
+      "Francesco Ducrey-Giordano",
+      "Paul Duesing",
+      "Miranda Dunbar Johnson",
+      "Steph Dunbar Johnson",
+      "Griffin Dunne",
+      "Philip Dunne",
+      "Dominice Dunne",
+      "Anh Dunna",
+      "Luigi Durso",
+      "John Duthie",
+      "Charlotte Duthie",
+      "Umar Dzhabrailou",
+      "Bernie Ecclestone",
+      "Paul Eckon",
+      "Lucinda Edsel"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022306"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 21."
+}

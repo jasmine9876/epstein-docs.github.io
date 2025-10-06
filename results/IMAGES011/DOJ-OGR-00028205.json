@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": "0011",
+    "document_number": "DOJ-OGR-00028205",
+    "date": "04282014",
+    "document_type": "TECSII - PRIMARY QUERY HISTORY PASSENGER ACTIVITY",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 TECSII - PRIMARY QUERY HISTORY 04282014 *A *B PASSENGER ACTIVITY *C PAGE NO. 0011 NAME DOB QUERY DATE TIME AGN RSLT TYP LNE TERM/ REF LANE API DIM EPSTEIN, JEFFREY 012053 101810 1645 CUS *D API INS /N33 C N A471-NEW YORK, JFK AIRPORT, DOC: 469911707 US P INSP: *E EPSTEIN, JEFFREY 012053 102910 0904 CUS *F AIR :%71 N N A103-NEWARK, INTL AIRPORT T DOC: 469911707 US P INSP: *G EPSTEIN, JEFFREY 012053 092510 0000 *H API 01 R N LONDON / HEATHROW INTL DOC: INSP: APIS QRY EPSTEIN, JEFFREY 012053 092610 0000 *I API 01 R N LONDON / HEATHROW INTL DOC: INSP: APIS QRY EPSTEIN, JEFFREY 012053 081310 1607 CUS *J AIR CUS EY11 N N A512-CBP-ST THOMAS, VI PRECL DOC: 469911707 US P INSP: *K EPSTEIN, JEFFREY 012053 071610 1541 CUS *L AIR CUS JK21 N N A512-CBP-ST THOMAS, VI PRECL DOC: 469911707 US P INSP: *M (b) (7) (E) <...MORE...> (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) *E - (b) (6), (b) (7) (C) *F - (b) (7) (E) *G - (b) (6), (b) (7) (C) *H - (b) (7) (E) *I - (b) (7) (E) *J - (b) (7) (E) *K - (b) (6), (b) (7) (C) *L - (b) (7) (E) *M - (b) (6), (b) (7) (C) DOJ-OGR-00028205",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "TECSII - PRIMARY QUERY HISTORY PASSENGER ACTIVITY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE NO. 0011",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB QUERY DATE TIME AGN RSLT TYP LNE TERM/ REF LANE API DIM",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY 012053 101810 1645 CUS *D API INS /N33 C N A471-NEW YORK, JFK AIRPORT, DOC: 469911707 US P INSP: *E",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) *E - (b) (6), (b) (7) (C) *F - (b) (7) (E) *G - (b) (6), (b) (7) (C) *H - (b) (7) (E) *I - (b) (7) (E) *J - (b) (7) (E) *K - (b) (6), (b) (7) (C) *L - (b) (7) (E) *M - (b) (6), (b) (7) (C)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028205",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "CBP"
+    ],
+    "locations": [
+      "NEW YORK",
+      "JFK AIRPORT",
+      "NEWARK",
+      "LONDON",
+      "HEATHROW INTL",
+      "ST THOMAS",
+      "VI"
+    ],
+    "dates": [
+      "101810",
+      "102910",
+      "092510",
+      "092610",
+      "081310",
+      "071610",
+      "04282014"
+    ],
+    "reference_numbers": [
+      "469911707",
+      "DOJ-OGR-00028205"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted version of a TECSII query history report, with several fields blacked out. The report contains information about Jeffrey Epstein's travel history, including dates, locations, and query results."
+}

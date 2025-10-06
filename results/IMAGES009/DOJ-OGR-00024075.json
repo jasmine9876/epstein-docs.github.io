@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Inmate Visit Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE NAME SIGNATURE Inmate Reg# Time in Time out 2/25 G. Tall Ahn S. Epstein 76318-054 8:28 11:25 (b)(6), (b)(7)(C) 2/25 Callender Dr Barky 116-718-084 11:05 11:15 (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) DOJ-OGR-00024075",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE NAME SIGNATURE Inmate Reg# Time in Time out",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "2/25 G. Tall Ahn S. Epstein 76318-054 8:28 11:25",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "2/25 Callender Dr Barky 116-718-084 11:05 11:15",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024075",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "G. Tall",
+      "Ahn",
+      "S. Epstein",
+      "Callender",
+      "Dr Barky"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "2/25"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "116-718-084",
+      "DOJ-OGR-00024075"
+    ]
+  },
+  "additional_notes": "The document appears to be an inmate visit log with handwritten entries. Some parts of the document are redacted with green blocks, and there are repeated redactions marked as '(b)(6), (b)(7)(C)'."
+}

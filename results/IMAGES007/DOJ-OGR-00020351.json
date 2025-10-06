@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "2016c500330",
+    "date": "04/29/2016",
+    "document_type": "Exhibit",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case: 2016c500330-AJnt Doc #: 117562 Filed: 04/29/16 Page: 4 of 4 EXHIBIT B DOJ-OGR-00020351",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case: 2016c500330-AJnt Doc #: 117562 Filed: 04/29/16 Page: 4 of 4",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EXHIBIT B",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00020351",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "04/29/2016"
+    ],
+    "reference_numbers": [
+      "2016c500330",
+      "117562",
+      "DOJ-OGR-00020351"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with an image of a person's face. The image is likely being used as evidence."
+}

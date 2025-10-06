@@ -1,0 +1,82 @@
+{
+  "document_metadata": {
+    "page_number": "1187",
+    "document_number": "DOJ-OGR-00025392",
+    "date": null,
+    "document_type": "Medical Record Review Form",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 1187\nDocumentation in medical record reviewed by Mortality Review Committee and found to be within acceptable limits. If no, describe\nYes No NA\nDid patient receive appropriate and adequate health care, consistent with community standards, during his incarceration in the Federal Bureau of Prisons? If no, explain\nYes No NA\nState any strengths and weaknesses that existed:\n1. The Mortality Review Committee reviewed the Medical Record. The patient received timely and appropriate medical and psychological care.\n27. Recommendation(s) if any.\nThe Mortality Review Committee reviewed the Medical Record. No recommendations at this time.\nPDF Prescribed by P6013 6 DOJ-OGR-00025392",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Documentation in medical record reviewed by Mortality Review Committee and found to be within acceptable limits. If no, describe",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Yes",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Did patient receive appropriate and adequate health care, consistent with community standards, during his incarceration in the Federal Bureau of Prisons? If no, explain",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Yes",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "State any strengths and weaknesses that existed:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "1. The Mortality Review Committee reviewed the Medical Record. The patient received timely and appropriate medical and psychological care.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "27. Recommendation(s) if any.",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "The Mortality Review Committee reviewed the Medical Record. No recommendations at this time.",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "PDF Prescribed by P6013",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "6",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025392",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Mortality Review Committee",
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "P6013",
+      "DOJ-OGR-00025392"
+    ]
+  },
+  "additional_notes": "The document appears to be a medical record review form used by the Mortality Review Committee. The form is filled out with 'Yes' answers to the questions about the quality of care received by the patient. The committee found the documentation in the medical record to be within acceptable limits and noted that the patient received timely and appropriate medical and psychological care. There are no recommendations made."
+}

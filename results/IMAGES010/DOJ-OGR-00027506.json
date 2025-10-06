@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00027506",
+    "date": "03/23/2003",
+    "document_type": "Admissibility Secondary Inspection",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "UNCLASSIFIED // FOR OFFICIAL USE ONLY EPSTEIN JEFFREY (b)(7)(E) 03/23/2003 21:42:00 Admissibility Secondary Inspection (b)(7)(E) (b)(7)(E) Crossing Information Site: CBP-PALM BEACH, INTERNATIONAL (b)(7)(E) Disposition: U.S. Citizen (USC) Port Crossing Date: 03/23/2003 21:42:00 Referred Date: 03/23/2003 21:42:48 Airline: (b)(6) Comment: SUBJECT REPORTED THAT HE DID NOT REPORT PASSPORT STOLEN, ACTUAL OWNER OF PASSPORT Subject Last Name: EPSTEIN First Name: JEFFREY Date Of Birth: 01/20/1953 Referral/Vehicle Information Referral Reason: (b)(7)(E) Passenger Document Document Issue Country: United States (US/USA) Document Number: (b)(6),(b)(7)(C) Miscellaneous Info Type Association: Document Type UNCLASSIFIED // FOR OFFICIAL USE ONLY DOJ-OGR-00027506",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "UNCLASSIFIED // FOR OFFICIAL USE ONLY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN JEFFREY (b)(7)(E) 03/23/2003 21:42:00 Admissibility Secondary Inspection (b)(7)(E)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Crossing Information Site: CBP-PALM BEACH, INTERNATIONAL (b)(7)(E) Disposition: U.S. Citizen (USC) Port Crossing Date: 03/23/2003 21:42:00 Referred Date: 03/23/2003 21:42:48 Airline: (b)(6) Comment: SUBJECT REPORTED THAT HE DID NOT REPORT PASSPORT STOLEN, ACTUAL OWNER OF PASSPORT",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Subject Last Name: EPSTEIN First Name: JEFFREY Date Of Birth: 01/20/1953",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Referral/Vehicle Information Referral Reason: (b)(7)(E) Passenger Document Document Issue Country: United States (US/USA) Document Number: (b)(6),(b)(7)(C) Miscellaneous Info Type Association: Document Type",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "UNCLASSIFIED // FOR OFFICIAL USE ONLY DOJ-OGR-00027506",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "CBP"
+    ],
+    "locations": [
+      "PALM BEACH",
+      "United States"
+    ],
+    "dates": [
+      "03/23/2003",
+      "01/20/1953"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00027506"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6), (b)(7)(C), and (b)(7)(E), indicating sensitive information has been withheld."
+}

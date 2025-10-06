@@ -1,0 +1,75 @@
+{
+  "document_metadata": {
+    "page_number": "0020",
+    "document_number": "DOJ-OGR-00028214",
+    "date": "04282014",
+    "document_type": "TECSII - PRIMARY QUERY HISTORY",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 TECSII - PRIMARY QUERY HISTORY 04282014 *A *B PASSENGER ACTIVITY PAGE NO. 0020 NAME DOB QUERY DATE TIME AGN RSLT LNE TYP REF LANE TERM/ API DIM EPSTEIN, JEFFREY 012053 021906 1553 CUS *D AIR JK06 N N A511-CBP-CYRIL E KING, INTL DOC: 207320604 US P INSP: *E EPSTEIN, JEFFREY 012053 010106 1151 CUS *F AIR JK07 N N A511-CBP-CYRIL E KING, INTL DOC: 207320604 US P INSP: *G EPSTEIN, JEFFREY 012053 012906 1056 CUS *H AIR JK06 N N A511-CBP-CYRIL E KING, INTL DOC: 207320604 US P INSP: *I EPSTEIN, JEFFREY 012053 122205 1422 CUS *J AIR JK06 N N A511-CBP-CYRIL E KING, INTL DOC: 207320604 US P INSP: *K EPSTEIN, JEFFREY 012053 122705 1555 CUS *L AIR JK06 N N A511-CBP-CYRIL E KING, INTL DOC: 207320604 US P INSP: *M EPSTEIN, JEFFREY 012053 112005 1447 CUS *N AIR JK07 N N A511-CBP-CYRIL E KING, INTL DOC: 207320604 US P INSP: *O (b)(7)(E) <...MORE...> (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(6), (b)(7)(C) *F - (b)(7)(E) *G - (b)(6), (b)(7)(C) *H - (b)(7)(E) *I - (b)(6), (b)(7)(C) *J - (b)(7)(E) *K - (b)(6), (b)(7)(C) *L - (b)(7)(E) *M - (b)(6), (b)(7)(C) *N - (b)(7)(E) *O - (b)(6), (b)(7)(C) DOJ-OGR-00028214",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "TECSII - PRIMARY QUERY HISTORY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGER ACTIVITY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE NO. 0020",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB QUERY DATE TIME AGN RSLT LNE TYP REF LANE TERM/ API DIM",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY 012053 021906 1553 CUS *D AIR JK06 N N A511-CBP-CYRIL E KING, INTL DOC: 207320604 US P INSP: *E",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(6), (b)(7)(C) *F - (b)(7)(E) *G - (b)(6), (b)(7)(C) *H - (b)(7)(E) *I - (b)(6), (b)(7)(C) *J - (b)(7)(E) *K - (b)(6), (b)(7)(C) *L - (b)(7)(E) *M - (b)(6), (b)(7)(C) *N - (b)(7)(E) *O - (b)(6), (b)(7)(C)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028214",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "CBP"
+    ],
+    "locations": [
+      "CYRIL E KING",
+      "INTL"
+    ],
+    "dates": [
+      "021906",
+      "010106",
+      "012906",
+      "122205",
+      "122705",
+      "112005",
+      "04282014"
+    ],
+    "reference_numbers": [
+      "A511-CBP-CYRIL E KING",
+      "207320604",
+      "DOJ-OGR-00028214"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted passenger activity report from TECSII. Multiple redactions are present throughout the document, indicated by (b)(7)(E) and (b)(6), (b)(7)(C)."
+}

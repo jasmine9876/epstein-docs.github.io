@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00022167",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "After a thorough investigation, FBI investigators concluded that Jeffrey Epstein committed suicide in his cell at the Metropolitan Correctional Center in New York City on August 10, 2019. This conclusion is consistent with previous findings, including the August 19, 2019 autopsy findings of the New York City Office of the Chief Medical Examiner, the November 2019 position of the U.S. Attorney's Office for the Southern District of New York in connection with the investigation of federal correctional officers responsible for guarding Epstein, and the June 2023 conclusions of DOJ's Office of the Inspector General. The conclusion that Epstein died by suicide is further supported by video footage from the common area of the Special Housing Unit (SHU) where Epstein was housed at the time of his death. As DOJ's Inspector General explained in 2023, anyone entering or attempting to enter the tier where Epstein's cell was located from the SHU common area would have been captured by this footage. The FBI's independent review of this footage confirmed that from the time Epstein was locked in his cell at around 10:40 pm on August 9, 2019, until around 6:30 am the next morning, nobody entered any of the tiers in the SHU. During this review, the FBI enhanced the relevant footage by increasing its contrast, balancing the color, and improving its sharpness for greater clarity and viewability. The full raw and enhanced videos are available at the following links: https://www.justice.gov/video-file1; https://www.justice.gov/video-file2. DOJ-OGR-00022167",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "After a thorough investigation, FBI investigators concluded that Jeffrey Epstein committed suicide in his cell at the Metropolitan Correctional Center in New York City on August 10, 2019. This conclusion is consistent with previous findings, including the August 19, 2019 autopsy findings of the New York City Office of the Chief Medical Examiner, the November 2019 position of the U.S. Attorney's Office for the Southern District of New York in connection with the investigation of federal correctional officers responsible for guarding Epstein, and the June 2023 conclusions of DOJ's Office of the Inspector General.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "The conclusion that Epstein died by suicide is further supported by video footage from the common area of the Special Housing Unit (SHU) where Epstein was housed at the time of his death. As DOJ's Inspector General explained in 2023, anyone entering or attempting to enter the tier where Epstein's cell was located from the SHU common area would have been captured by this footage. The FBI's independent review of this footage confirmed that from the time Epstein was locked in his cell at around 10:40 pm on August 9, 2019, until around 6:30 am the next morning, nobody entered any of the tiers in the SHU.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "During this review, the FBI enhanced the relevant footage by increasing its contrast, balancing the color, and improving its sharpness for greater clarity and viewability. The full raw and enhanced videos are available at the following links: https://www.justice.gov/video-file1; https://www.justice.gov/video-file2.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022167",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "FBI",
+      "New York City Office of the Chief Medical Examiner",
+      "U.S. Attorney's Office",
+      "DOJ's Office of the Inspector General"
+    ],
+    "locations": [
+      "Metropolitan Correctional Center",
+      "New York City",
+      "Southern District of New York",
+      "Special Housing Unit (SHU)"
+    ],
+    "dates": [
+      "August 10, 2019",
+      "August 19, 2019",
+      "November 2019",
+      "June 2023",
+      "August 9, 2019",
+      "6:30 am"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00022167"
+    ]
+  },
+  "additional_notes": "The document appears to be a formal report or statement from the FBI regarding the investigation into Jeffrey Epstein's death. The text is well-formatted and free of handwritten notes or stamps. The document includes links to video footage related to the investigation."
+}

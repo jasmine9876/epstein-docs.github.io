@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024501",
+    "date": null,
+    "document_type": "Inmate Visit Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE NAME Signature Inmate Deg# Time in Time out (b)(6) (b)(7)(C) 2/8/17 (b)(6) (b)(7)(C) Tyson Johnson 76318-004 5:00  2/8/17 (b)(6) (b)(7)(C)  76318-004 5:20 4:30 3/2/17 (b)(6) (b)(7)(C) Epstein 76318-007 8:20 1:28 8/2/17 (b)(6) (b)(7)(C) Epstein 76318-007 10am",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "DATE NAME Signature Inmate Deg# Time in Time out",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "2/8/17 Tyson Johnson 76318-004 5:00",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "2/8/17  76318-004 5:20 4:30",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "3/2/17 Epstein 76318-007 8:20 1:28",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/2/17 Epstein 76318-007 10am",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024501",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Tyson Johnson",
+      "Epstein"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "2/8/17",
+      "3/2/17",
+      "8/2/17"
+    ],
+    "reference_numbers": [
+      "76318-004",
+      "76318-007",
+      "DOJ-OGR-00024501"
+    ]
+  },
+  "additional_notes": "The document appears to be a log of inmate visits, with some information redacted."
+}

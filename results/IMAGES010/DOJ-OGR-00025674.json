@@ -1,0 +1,45 @@
+{
+  "document_metadata": {
+    "page_number": "1619",
+    "document_number": "DOJ-OGR-00025674",
+    "date": "7-30-19",
+    "document_type": "log or observation record",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Epstein 76318-054 7-30-19\n5:00 am Inmate Epstein is sleeping\n5:06 am Inmate Epstein is awake sitting on bed\n5:12 am Inmate Epstein is sleeping\n5:30 am Inmate Epstein is sleeping\n5:48 am Inmate Epstein is sleeping\n6:00 am Inmate Epstein is sleeping\n6:15 am Inmate Epstein is sleeping\n6:30 am Inmate Epstein is awake\n6:45 am Inmate Epstein is talking to me about jail life\n7:00 am Inmate Epstein is eating breakfast\n7:00 am End of shift\n7:00 AM Start of new shift\n7:10 AM F/M Epstein is having breakfast Cereal and Milk\n7:15 AM F/M Epstein is still eating sitting on floor 7/30/19\n7:30 AM The H gave the F/M breakfast the brown bag\n7:45 AM F/M Epstein is setting down on his bed\n8:15 AM Psych observation is being attempted",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "Epstein 76318-054 7-30-19\n5:00 am Inmate Epstein is sleeping\n5:06 am Inmate Epstein is awake sitting on bed\n5:12 am Inmate Epstein is sleeping\n5:30 am Inmate Epstein is sleeping\n5:48 am Inmate Epstein is sleeping\n6:00 am Inmate Epstein is sleeping\n6:15 am Inmate Epstein is sleeping\n6:30 am Inmate Epstein is awake\n6:45 am Inmate Epstein is talking to me about jail life\n7:00 am Inmate Epstein is eating breakfast\n7:00 am End of shift\n7:00 AM Start of new shift\n7:10 AM F/M Epstein is having breakfast Cereal and Milk\n7:15 AM F/M Epstein is still eating sitting on floor 7/30/19\n7:30 AM The H gave the F/M breakfast the brown bag\n7:45 AM F/M Epstein is setting down on his bed\n8:15 AM Psych observation is being attempted",
+      "position": "main content"
+    },
+    {
+      "type": "handwritten",
+      "content": "Page-1619",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025674",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [
+      "jail"
+    ],
+    "dates": [
+      "7-30-19",
+      "7/30/19"
+    ],
+    "reference_numbers": [
+      "76318-054"
+    ]
+  },
+  "additional_notes": "The document appears to be a handwritten log or observation record of Jeffrey Epstein's activities on July 30, 2019, while in custody. The handwriting is mostly legible, but some parts are marked out or redacted with '(b)(6); (b)(7)(C)'. The document is from a larger collection or file, as indicated by the 'Page-1619' notation."
+}

@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "2932",
+    "document_number": "DOJ-OGR-00026588",
+    "date": "08-11-2019",
+    "document_type": "Official Count Slip",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2932 Metropolitan Correctional Center Official Count Slip Unit: YN Date 08-11-2019 Time: 12:01A.M. Count: (b)(7)(F) Print Name: (b)(6); (b)(7)(C) Signature: Print Name: Signature: Metropolitan Correctional Center Official Count Slip Unit: K-3 Date 8/11/19 Time: 12: 01 Count: (b)(7)(F) Print Name: (b)(6); (b)(7)(C) Signature: Print Name: Signature: 1 DOJ-OGR-00026588",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "YN 08-11-2019 12:01A.M. (b)(7)(F)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "K-3 8/11/19 12: 01 (b)(7)(F) 1",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page 2932",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026588",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [],
+    "dates": [
+      "08-11-2019",
+      "8/11/19"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026588"
+    ]
+  },
+  "additional_notes": "The document contains two Official Count Slips from the Metropolitan Correctional Center, both dated August 11, 2019. The slips have handwritten entries for unit, date, time, and count, while other fields such as print name and signature are redacted or left blank. The document is a photocopy and has some minor ink smudges."
+}

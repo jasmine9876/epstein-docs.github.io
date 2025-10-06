@@ -1,0 +1,83 @@
+{
+  "document_metadata": {
+    "page_number": "2501",
+    "document_number": "BP-A0618",
+    "date": "JUN 16",
+    "document_type": "A&O DENTAL EXAMINATION",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "BP-A0618 JUN 16 A&O DENTAL EXAMINATION (Initial Clinical Dental Findings) U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS Occlusion: Oral Hygiene: Good Fair Poor CPITN: 3 2 3 3 2 3 Head & Neck / Soft Tissue: D: 0 Classification: CL I M: 14 F: Pain Scale: /10 Dental Prostheses at Intake: Yes No Type: Age: Condition: Comments: advanced need to periodontal recession observed. Lower anterior crowding observed Intra-oral Photos Taken: Yes No Radiographs Taken: (Document findings on A&O encounter) Yes No Instructed how to obtain urgent and non-urgent dental care: Yes: No: Treatment Priorities: None: Non-urgent: non-urgent Urgent: Referred to Sick Call: Radiographs authorized: PAs: BWs: Panorex: Prophylaxis authorized: Yes No (Approval valid 18 months from examination date) Patient Name: Epstein, Jeffrey E Register Number: 76318-054 Institution: MCC NEW YORK Dentist Signature: (b)(6); (b)(7)(C) DDS Date: 7-26-19 Signature Block/Stamp: (b)(6); (b)(7)(C) DDS Chief Dental Officer MCC New York PDF Prescribed by P6400 Replaces BP-A0618 of JUN 10 DOJ-OGR-00026177",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "BP-A0618 JUN 16 A&O DENTAL EXAMINATION (Initial Clinical Dental Findings) U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Fair",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "3 2 3 3 2 3",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "0 CL I 14 /10",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "advanced need to periodontal recession observed. Lower anterior crowding observed",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "non-urgent",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein, Jeffrey E 76318-054 MCC NEW YORK",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6); (b)(7)(C) DDS 7-26-19",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "PDF Prescribed by P6400 Replaces BP-A0618 of JUN 10",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey E Epstein"
+    ],
+    "organizations": [
+      "U.S. DEPARTMENT OF JUSTICE",
+      "FEDERAL BUREAU OF PRISONS",
+      "MCC NEW YORK"
+    ],
+    "locations": [
+      "NEW YORK"
+    ],
+    "dates": [
+      "JUN 16",
+      "7-26-19",
+      "JUN 10"
+    ],
+    "reference_numbers": [
+      "BP-A0618",
+      "76318-054",
+      "P6400",
+      "DOJ-OGR-00026177"
+    ]
+  },
+  "additional_notes": "The document is a dental examination form filled out for Jeffrey E Epstein. It includes various handwritten notes and markings indicating the patient's dental condition and treatment priorities."
+}

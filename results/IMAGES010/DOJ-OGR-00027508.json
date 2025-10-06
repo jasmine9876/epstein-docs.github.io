@@ -1,0 +1,80 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00027508",
+    "date": "02/16/2010",
+    "document_type": "Admissibility Secondary Inspection",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "UNCLASSIFIED // FOR OFFICIAL USE ONLY\nEPSTEIN JEFFREY (b)(7)(E)\n02/16/2010 15:29:00\nAdmissibility Secondary Inspection (b)(7)(E)\n(b)(7)(E)\nCrossing Information\nSite: CBP-ST THOMAS, VI PREDEPARTURE (b)(7)(E)\nDisposition: U.S. Citizen (USC)\nPort Crossing Date: 02/16/2010 15:29:00\nReferred Date: 02/16/2010 15:29:47\nAirline: SAGGAS INTERNATIONAL (999)\nComment: (b)(6); (b)(7)(C), (b)(7)(E)\nSubject Passenger Document\nLast Name: EPSTEIN Document Type: PASSPORT (b)(7)(E)\nFirst Name: JEFFREY Document Issue Country: United States (US/USA)\nDate Of Birth: 01/20/1953 Document Number: (b)(6);(b)(7)(C)\nReferral/Vehicle Information\nReferral Reason: (b)(7)(E)\nNO FIN NUMBER\nMiscellaneous Info\nType Association: Document Type\nRemarks (b)(6); (b)(7)(C), (b)(7)(E)\nUNCLASSIFIED // FOR OFFICIAL USE ONLY",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "UNCLASSIFIED // FOR OFFICIAL USE ONLY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN JEFFREY (b)(7)(E)\n02/16/2010 15:29:00\nAdmissibility Secondary Inspection (b)(7)(E)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Crossing Information\nSite: CBP-ST THOMAS, VI PREDEPARTURE (b)(7)(E)\nDisposition: U.S. Citizen (USC)\nPort Crossing Date: 02/16/2010 15:29:00\nReferred Date: 02/16/2010 15:29:47\nAirline: SAGGAS INTERNATIONAL (999)\nComment: (b)(6); (b)(7)(C), (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Subject Passenger Document\nLast Name: EPSTEIN Document Type: PASSPORT (b)(7)(E)\nFirst Name: JEFFREY Document Issue Country: United States (US/USA)\nDate Of Birth: 01/20/1953 Document Number: (b)(6);(b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Referral/Vehicle Information\nReferral Reason: (b)(7)(E)\nNO FIN NUMBER",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Miscellaneous Info\nType Association: Document Type",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Remarks (b)(6); (b)(7)(C), (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "UNCLASSIFIED // FOR OFFICIAL USE ONLY",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027508",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "CBP",
+      "SAGGAS INTERNATIONAL"
+    ],
+    "locations": [
+      "ST THOMAS, VI",
+      "United States"
+    ],
+    "dates": [
+      "02/16/2010",
+      "01/20/1953"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00027508",
+      "(999)"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6), (b)(7)(C), and (b)(7)(E). The document is an Admissibility Secondary Inspection report for Jeffrey Epstein."
+}

@@ -1,0 +1,100 @@
+{
+  "document_metadata": {
+    "page_number": "0010",
+    "document_number": null,
+    "date": "04282014",
+    "document_type": "TECSII - PRIMARY QUERY HISTORY",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 *B TECSII - PRIMARY QUERY HISTORY 04282014 *A PASSENGER ACTIVITY *C PAGE NO. 0010 NAME DOB DATE TIME AGN ---- QUERY ---- LNE TERM/ RSLT TYP REF LANE API DIM EPSTEIN, JEFFREY 012053 011911 0000 *D API 01 R N PARIS, ORLY DOC: 469911707 US P INSP: APIS QRY EPSTEIN, JEFFREY 012053 012111 0000 *E API 01 R N PARIS, ORLY DOC: 469911707 US P INSP: APIS QRY EPSTEIN, JEFFREY 012053 012211 0000 *F API 01 R N PARIS, ORLY DOC: 469911707 US P INSP: APIS QRY EPSTEIN, JEFFREY 012053 013011 0000 *G API 01 R N A103-NEWARK, INTL AIRPORT T DOC: 469911707 US P INSP: APIS QRY EPSTEIN, JEFFREY 012053 013111 0000 *H API 01 R N A103-NEWARK, INTL AIRPORT T DOC: US INSP: APIS QRY EPSTEIN, JEFFREY 012053 112910 0000 *I API 01 R N SAN JUAN, LUIS MUNOZ MARIN I DOC: 469911707 US P INSP: APIS QRY (b)(7)(E) <...MORE...> (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(7)(E) *F - (b)(7)(E) *G - (b)(7)(E) *H - (b)(7)(E) *I - (b)(7)(E) DOJ-OGR-00028204",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "TECSII - PRIMARY QUERY HISTORY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGER ACTIVITY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE NO. 0010",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB DATE TIME AGN ---- QUERY ---- LNE TERM/ RSLT TYP REF LANE API DIM",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY 012053 011911 0000 *D API 01 R N PARIS, ORLY DOC: 469911707 US P INSP: APIS QRY",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY 012053 012111 0000 *E API 01 R N PARIS, ORLY DOC: 469911707 US P INSP: APIS QRY",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY 012053 012211 0000 *F API 01 R N PARIS, ORLY DOC: 469911707 US P INSP: APIS QRY",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY 012053 013011 0000 *G API 01 R N A103-NEWARK, INTL AIRPORT T DOC: 469911707 US P INSP: APIS QRY",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY 012053 013111 0000 *H API 01 R N A103-NEWARK, INTL AIRPORT T DOC: US INSP: APIS QRY",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY 012053 112910 0000 *I API 01 R N SAN JUAN, LUIS MUNOZ MARIN I DOC: 469911707 US P INSP: APIS QRY",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E) <...MORE...>",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(7)(E) *F - (b)(7)(E) *G - (b)(7)(E) *H - (b)(7)(E) *I - (b)(7)(E)",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN",
+      "ORLY PARIS",
+      "LUIS MUNOZ MARIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "PARIS",
+      "NEWARK",
+      "SAN JUAN"
+    ],
+    "dates": [
+      "011911",
+      "012111",
+      "012211",
+      "013011",
+      "013111",
+      "112910",
+      "04282014"
+    ],
+    "reference_numbers": [
+      "469911707",
+      "DOJ-OGR-00028204"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as (b)(7)(E) and (b)(6), (b)(7)(C). The document appears to be a query history for a passenger activity related to Jeffrey Epstein."
+}

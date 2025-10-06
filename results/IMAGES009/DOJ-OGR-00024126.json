@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "76318-054",
+    "date": "07/06/2019",
+    "document_type": "Health Screen",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Bureau of Prisons Health Services Health Screen Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Encounter Date: 07/06/2019 21:38 Sex: M Reg #: 76318-054 Provider: [b(6) (b)(7)(C) PA-C Race: WHITE Facility: NYM Seizures: Denied Diabetes: Denied Cardiovascular: Denied CVA: Denied Hypertension: Denied Respiratory: Denied Sickle Cell Anemia: Denied Carcinoma/Lymphoma: Denied Allergies: Denied PPD Administration: Date/Time: 07/06/2019 21:39 Provider: [b(6) (b)(7)(C) PA-C Location: Right Forearm Drug Mfg: Sanofi Pasteur Lot Number: C5474BA Dosage: 0.1mL Route: ID Exp Dt: 10/2020 Comments: Tuberculosis: Hx of Previous Disease: No Blood-tinged Sputum: No Night Sweats: No Weight Loss: No Fever: No Cough: No Comments: Generated 07/06/2019 21:56 by [b)(6) PA-C Bureau of Prisons - NYM Page 1 of 6 DOJ-OGR-00024126",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Bureau of Prisons Health Services Health Screen",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Encounter Date: 07/06/2019 21:38 Sex: M Reg #: 76318-054 Provider: [b(6) (b)(7)(C) PA-C Race: WHITE Facility: NYM",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Seizures: Denied Diabetes: Denied Cardiovascular: Denied CVA: Denied Hypertension: Denied Respiratory: Denied Sickle Cell Anemia: Denied Carcinoma/Lymphoma: Denied Allergies: Denied PPD Administration: Date/Time: 07/06/2019 21:39 Provider: [b(6) (b)(7)(C) PA-C Location: Right Forearm Drug Mfg: Sanofi Pasteur Lot Number: C5474BA Dosage: 0.1mL Route: ID Exp Dt: 10/2020 Comments: Tuberculosis: Hx of Previous Disease: No Blood-tinged Sputum: No Night Sweats: No Weight Loss: No Fever: No Cough: No Comments:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/06/2019 21:56 by [b)(6) PA-C Bureau of Prisons - NYM Page 1 of 6 DOJ-OGR-00024126",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons",
+      "Sanofi Pasteur"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/06/2019",
+      "10/2020"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "C5474BA",
+      "DOJ-OGR-00024126"
+    ]
+  },
+  "additional_notes": "The document contains redactions in the provider names and has a clear structure for health screening information."
+}

@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "IO95",
+    "date": "10/18/2010",
+    "document_type": "Inspection Results",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:08:00 IO95 Inspection Results 042814 A471 NEW YORK, JFK A VS 45 VIRGIN ATLANTIC AIRWAY DOCTYP*: P #*: 469911707 CTRY*: US UNITED STATES ST: M/F: M DNAME (LAST) : EPSTEIN FRST: JEFFREY DOB: 012053 RFRD BY: -CBP OFFCR-C DTE: 10182010 TME: 1645 REASON: (b)(7)(E) CCD: SNAME (LAST) : FRST: NO FIN NUMBER NATIONALITY: US UNITED STATES DOB: DISP: USC U.S. CITIZEN RCPT#: AUDATE: CHARGE (CODED) : FIN#: DFRD TO: SEC OFCR: -CBP OFFCR-C 10/18/2010 16:58 IOEM#: REFR CDE: COMMENTS: VIOLS: New Comments: (b)(7)(E) Admit USC and refer to baggage cotn rols econdary. Comments History: WHTI CMPLNT? ADDL COMMTS: (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(6)(b)(7)(C) *E - (b)(6)(b)(7)(C) *F - (b)(7)(E) *G - (b)(7)(E) *H - (b)(7)(E) DOJ-OGR-00028661",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:08:00 IO95 Inspection Results 042814",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "A471 NEW YORK, JFK A VS 45 VIRGIN ATLANTIC AIRWAY DOCTYP*: P #*: 469911707 CTRY*: US UNITED STATES ST: M/F: M DNAME (LAST) : EPSTEIN FRST: JEFFREY DOB: 012053 RFRD BY: -CBP OFFCR-C DTE: 10182010 TME: 1645 REASON: (b)(7)(E) CCD:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SNAME (LAST) : FRST: NO FIN NUMBER NATIONALITY: US UNITED STATES DOB: DISP: USC U.S. CITIZEN RCPT#: AUDATE: CHARGE (CODED) : FIN#: DFRD TO: SEC OFCR: -CBP OFFCR-C 10/18/2010 16:58 IOEM#: REFR CDE: COMMENTS: VIOLS: New Comments: (b)(7)(E) Admit USC and refer to baggage cotn rols econdary. Comments History: WHTI CMPLNT? ADDL COMMTS: (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(6)(b)(7)(C) *E - (b)(6)(b)(7)(C) *F - (b)(7)(E) *G - (b)(7)(E) *H - (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028661",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "VIRGIN ATLANTIC AIRWAY",
+      "CBP"
+    ],
+    "locations": [
+      "NEW YORK",
+      "JFK",
+      "UNITED STATES"
+    ],
+    "dates": [
+      "01/20/53",
+      "10/18/2010"
+    ],
+    "reference_numbers": [
+      "469911707",
+      "IO95",
+      "DOJ-OGR-00028661"
+    ]
+  },
+  "additional_notes": "The document contains multiple redactions, indicated by (b)(7)(E) and other codes, suggesting sensitive information has been withheld."
+}

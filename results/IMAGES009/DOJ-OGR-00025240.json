@@ -1,0 +1,51 @@
+{
+  "document_metadata": {
+    "page_number": "996",
+    "document_number": "DOJ-OGR-00025240",
+    "date": null,
+    "document_type": "Mail Attachment",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 996 Mail Attachment Epstein(b)(6),(b)(7)(C)76318-054.pdf Page 2247 DOJ-OGR-00025240",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 996",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Mail Attachment",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Epstein(b)(6),(b)(7)(C)76318-054.pdf",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Page 2247",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025240",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00025240"
+    ]
+  },
+  "additional_notes": "The document appears to be a page from a larger document, with a redacted name 'Epstein' and a reference number '76318-054'. The page has a header and footer with page numbers and a document identifier."
+}

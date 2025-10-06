@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024653",
+    "date": "August 10th, 2019",
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "RCD HISTORIE RCD HISTORIE SATURDAY AUGUST 10TH, 2019 (b)(6), (b)(7)(A), (b)(7)(C) (b)(6), (b)(7)(A), (b)(7)(C) 220L EPSTEIN #76318-054 (C/1) (b)(6), (b)(7)(A), (b)(7)(C), (b)(7)(F) TOT DOJ-OGR-00024653",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "RCD HISTORIE",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "SATURDAY AUGUST 10TH, 2019",
+      "position": "header"
+    },
+    {
+      "type": "stamp",
+      "content": "RCD HISTORIE",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(A), (b)(7)(C)",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "220L EPSTEIN #76318-054 (C/1)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(A), (b)(7)(C), (b)(7)(F)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "TOT",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024653",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "August 10th, 2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024653"
+    ]
+  },
+  "additional_notes": "The document contains redactions and stamps. The main content is obscured by a green block."
+}

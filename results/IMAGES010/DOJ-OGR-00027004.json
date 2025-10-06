@@ -1,0 +1,92 @@
+{
+  "document_metadata": {
+    "page_number": "3415",
+    "document_number": "DOJ-OGR-00027004",
+    "date": "08/13/2019",
+    "document_type": "Log Entries By Event Date",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 3415 Date: 08/13/2019 Time: 12:38 PM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified Start Date: 08/10/2019 End Date: 08/10/2019 Alpha Code: NYM Level 1: SHU Level 2: Housing Unit, Special (SHU) Level 3: All Shift: Evening User: All Reg #: All Events: Count Events Only Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count 8/10/2019 7:01 PM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 8/10/2019 4:00 PM Evening (b)(6); (b)(7)(C) Official Count 8/10/2019 11:58 PM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 8/10/2019 10:00 PM Evening (b)(6); (b)(7)(C) Official Count 8/10/2019 11:59 PM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 8/10/2019 11:00 PM Evening (b)(6); (b)(7)(C) Base Count Verified (b)(7)(F) User ID: (b)(6); (b)(7)(C) Page 1 of 1",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3415",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Date: 08/13/2019 Time: 12:38 PM",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Start Date: 08/10/2019 End Date: 08/10/2019 Alpha Code: NYM Level 1: SHU Level 2: Housing Unit, Special (SHU) Level 3: All Shift: Evening User: All Reg #: All Events: Count Events Only",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count",
+      "position": "table_header"
+    },
+    {
+      "type": "printed",
+      "content": "8/10/2019 7:01 PM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 8/10/2019 4:00 PM Evening (b)(6); (b)(7)(C) Official Count",
+      "position": "table_row"
+    },
+    {
+      "type": "printed",
+      "content": "8/10/2019 11:58 PM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 8/10/2019 10:00 PM Evening (b)(6); (b)(7)(C) Official Count",
+      "position": "table_row"
+    },
+    {
+      "type": "printed",
+      "content": "8/10/2019 11:59 PM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 8/10/2019 11:00 PM Evening (b)(6); (b)(7)(C) Base Count Verified (b)(7)(F)",
+      "position": "table_row"
+    },
+    {
+      "type": "printed",
+      "content": "User ID: (b)(6); (b)(7)(C)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 1 of 1",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027004",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [
+      "9 SOUTH SHU",
+      "Housing Unit, Special (SHU)"
+    ],
+    "dates": [
+      "08/13/2019",
+      "08/10/2019",
+      "8/10/2019 7:01 PM",
+      "8/10/2019 4:00 PM",
+      "8/10/2019 11:58 PM",
+      "8/10/2019 10:00 PM",
+      "8/10/2019 11:59 PM",
+      "8/10/2019 11:00 PM"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00027004"
+    ]
+  },
+  "additional_notes": "The document contains redacted user IDs and names."
+}

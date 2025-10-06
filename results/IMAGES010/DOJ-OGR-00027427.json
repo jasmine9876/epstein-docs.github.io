@@ -1,0 +1,88 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "DOJ-OGR-00027427",
+    "date": "9/4/2020",
+    "document_type": "Managed Query",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Managed Query Page 2 of 3 (b)(6)&(b)(7)(C) PRIMARY ROLE DEP ARTURE *GA N09JE (XXX + IST) 02/06/2011 16:30 02/06/2011 13:59 Crew M *GA N09JE (IST - XXX) 01/17/2011 03:00 01/17/2011 13:32 Crew M *GA N09JE (IST - XXX) 01/14/2011 13:00 01/14/2011 22:45 Crew M *GA N09JE (IST - XXX) 12/30/2010 08:30 12/30/2010 18:25 Crew M *GA N09JE (IST - XXX) 10/28/2010 21:45 10/29/2010 08:30 Crew (Cockpit) M *GA N09JE (XXX + BGR) 10/19/2010 12:00 10/19/2010 14:00 Crew (Cockpit) M *GA N09JE (XXX + TEB) 10/18/2010 08:00 10/18/2010 09:13 Crew M *GA N09JE (TEB - XXX) 09/26/2010 22:00 09/27/2010 09:25 Crew M *GA N09JE (XXX + IST) 09/21/2010 00:30 09/21/2010 10:52 Crew (Cockpit) M *GA N09JE (XXX + IST) 09/19/2010 06:30 09/19/2010 03:04 Crew M *GA N09JE (IST - XXX) 09/11/2010 23:00 09/12/2010 09:39 Crew (Cockpit) M *GA N09JE (IST - XXX) 09/11/2010 12:00 09/11/2010 23:00 Crew (Cockpit) M *GA N09JE (IST - XXX) 09/11/2010 06:30 09/11/2010 17:09 Crew (Cockpit) M *GA N09JE (XXX + TEB) 08/02/2010 19:55 08/02/2010 21:15 Crew M *GA N09JE (TEB - XXX) 07/24/2010 23:00 07/24/2010 11:40 Crew (Cockpit) M *GA N09JE (XXX + FXE) 07/16/2010 15:15 07/16/2010 17:45 Crew (Cockpit) M *GA N09JE (XXX + IST) 07/15/2010 07:30 07/15/2010 02:46 Crew (Cockpit) M *GA N09JE (XXX + PBI) 07/06/2010 13:45 07/06/2010 16:10 Crew (Cockpit) M *GA N09JE (PBI + XXX) 07/01/2010 07:00 07/01/2010 09:15 Crew M *GA N09JE (IST - XXX) 06/24/2010 12:00 06/24/2010 21:20 Crew (Cockpit) M *GA N09JE (XXX + PBI) 06/09/2010 19:00 06/09/2010 21:30 Crew (Cockpit) M *GA N09JE (IST - XXX) 06/09/2010 12:00 06/09/2010 21:30 Crew (Cockpit) M *GA N09JE (OPP + XXX) 08/28/2014 10:00 08/28/2014 13:00 Crew M *GA N09JE (XXX + OPP) 08/19/2014 13:30 08/19/2014 16:30 Crew M *GA N09JE (OPP + XXX) 08/18/2014 08:00 08/18/2014 10:30 Crew M *GA N09JE (XXX + OPP) 07/27/2014 11:00 07/27/2014 14:00 Crew M *GA N09JE (OPP + XXX) 07/25/2014 09:00 07/25/2014 12:00 Crew M *GA N09JE (OPP + XXX) 07/21/2014 11:00 07/21/2014 14:00 Crew M *GA N09JE (XXX + OPP) 07/10/2014 08:00 07/10/2014 11:00 Crew M *GA N09JE (OPP + XXX) 06/25/2014 12:30 06/25/2014 16:30 Crew M *GA N09JE (XXX + OPP) 06/17/2014 15:30 06/17/2014 18:30 Crew M *GA N09JE (OPP + XXX) 06/09/2014 19:35 06/09/2014 22:35 Crew M *GA N09JE (XXX + OPP) 08/18/2014 14:00 08/18/2014 17:00 Crew M *GA N09JE (XXX + OPP) 08/19/2014 13:30 08/19/2014 16:30 Passenger F *GA N09JE (XXX + OPP) 08/18/2014 14:00 08/18/2014 17:00 Passenger 9/4/2020 DOJ-OGR-00027427",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Managed Query",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Page 2 of 3",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6)&(b)(7)(C) PRIMARY ROLE DEP ARTURE",
+      "position": "table header"
+    },
+    {
+      "type": "printed",
+      "content": "*GA N09JE (XXX + IST) 02/06/2011 16:30 02/06/2011 13:59 Crew M",
+      "position": "table row"
+    },
+    {
+      "type": "printed",
+      "content": "9/4/2020 DOJ-OGR-00027427",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [
+      "XXX",
+      "IST",
+      "BGR",
+      "TEB",
+      "FXE",
+      "PBI",
+      "OPP"
+    ],
+    "dates": [
+      "02/06/2011",
+      "01/17/2011",
+      "01/14/2011",
+      "12/30/2010",
+      "10/28/2010",
+      "10/19/2010",
+      "10/18/2010",
+      "09/26/2010",
+      "09/21/2010",
+      "09/19/2010",
+      "09/11/2010",
+      "08/02/2010",
+      "07/24/2010",
+      "07/16/2010",
+      "07/15/2010",
+      "07/06/2010",
+      "07/01/2010",
+      "06/24/2010",
+      "06/09/2010",
+      "08/28/2014",
+      "08/19/2014",
+      "08/18/2014",
+      "07/27/2014",
+      "07/25/2014",
+      "07/21/2014",
+      "07/10/2014",
+      "06/25/2014",
+      "06/17/2014",
+      "06/09/2014",
+      "9/4/2020"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00027427",
+      "N09JE"
+    ]
+  },
+  "additional_notes": "The document appears to be a table listing various flight-related data, including dates, times, and roles. The text is mostly printed, with no visible handwriting or stamps. The document is labeled as 'Page 2 of 3' and has a date of '9/4/2020' in the footer."
+}

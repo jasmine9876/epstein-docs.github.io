@@ -1,0 +1,81 @@
+{
+  "document_metadata": {
+    "page_number": "3845",
+    "document_number": "DOJ-OGR-00024217",
+    "date": "2019/08/10",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "EPSTEIN, Jeffrey, reg. no. 76318-054\nFrom [redacted]\nTo [redacted] Lamine N'Diaye, Michael Greco,\nDate 2019/08/10 13:56\nSubject: EPSTEIN, Jeffrey, reg. no. 76318-054\nAttachments: TEXT.htm, mltC634.pdf\n\nGood afternoon,\n\nEnclosed please find official notification from Warden N'Diaye regarding Mr. Epstein's passing. As the investigation is ongoing, we have no further details at this time. We will continue to keep you updated as more information is available.\n\nThank you,\n\n[redacted]\nSupervisory Staff Attorney\nCLC New York\nMetropolitan Correctional Center\n150 Park Row\nNew York, New York 10007\np: (646)836-[redacted]\nf: (646)836-7665\n\nPage 3845\nDOJ-OGR-00024217",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "EPSTEIN, Jeffrey, reg. no. 76318-054",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "From [redacted]",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "To [redacted] Lamine N'Diaye, Michael Greco,",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Date 2019/08/10 13:56",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Subject: EPSTEIN, Jeffrey, reg. no. 76318-054",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Attachments: TEXT.htm, mltC634.pdf",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Good afternoon,\n\nEnclosed please find official notification from Warden N'Diaye regarding Mr. Epstein's passing. As the investigation is ongoing, we have no further details at this time. We will continue to keep you updated as more information is available.\n\nThank you,",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "[redacted]\nSupervisory Staff Attorney\nCLC New York\nMetropolitan Correctional Center\n150 Park Row\nNew York, New York 10007\np: (646)836-[redacted]\nf: (646)836-7665",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 3845\nDOJ-OGR-00024217",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Lamine N'Diaye",
+      "Michael Greco"
+    ],
+    "organizations": [
+      "CLC New York",
+      "Metropolitan Correctional Center",
+      "USMS"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "2019/08/10"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024217"
+    ]
+  },
+  "additional_notes": "The document contains redactions, likely for privacy or security reasons."
+}

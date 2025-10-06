@@ -1,0 +1,52 @@
+{
+  "document_metadata": {
+    "page_number": "3364",
+    "document_number": "NYMAQ 530*05",
+    "date": "08-06-2019",
+    "document_type": "Inmate Roster",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 3364 NYMAQ 530*05 * INMATE ROSTER 08-06-2019 PAGE 001 OF 001 15:41:08 CATEGORY: OCT GROUP CODE: ASSIGNMENT: ATTY FACILITY: NYM OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT NUM ASSIGNMENT REG NO. NAME OCT DATE QTR WRK 0001 ATTY [b(6); b(7)(C)] 08-06-2019 T04-930U UNASSG 0002 76118-054 EPSTEIN 08-06-2019 Z04-206LAD UNASSG 0003 [b(6); b(7)(C)] 08-06-2019 K06-145U UNASSG 0004 [b(6); b(7)(C)] 08-06-2019 Z06-215UAD UNASSG G0000 TRANSACTION SUCCESSFULLY COMPLETED DOJ-OGR-00026953",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3364 NYMAQ 530*05 * INMATE ROSTER 08-06-2019 PAGE 001 OF 001 15:41:08 CATEGORY: OCT GROUP CODE: ASSIGNMENT: ATTY FACILITY: NYM OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NUM ASSIGNMENT REG NO. NAME OCT DATE QTR WRK 0001 ATTY [b(6); b(7)(C)] 08-06-2019 T04-930U UNASSG 0002 76118-054 EPSTEIN 08-06-2019 Z04-206LAD UNASSG 0003 [b(6); b(7)(C)] 08-06-2019 K06-145U UNASSG 0004 [b(6); b(7)(C)] 08-06-2019 Z06-215UAD UNASSG",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "G0000 TRANSACTION SUCCESSFULLY COMPLETED",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026953",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "EPSTEIN"
+    ],
+    "organizations": [
+      "NYM",
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "08-06-2019"
+    ],
+    "reference_numbers": [
+      "NYMAQ 530*05",
+      "76118-054",
+      "DOJ-OGR-00026953"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as [b(6); b(7)(C)]."
+}

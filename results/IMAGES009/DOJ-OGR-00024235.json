@@ -1,0 +1,68 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Inmate Visit Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE NAME Signature Inmate Dog# Time in Time out 7/16 7-18 (b)(6), (b)(7)(C) Epstein Epstein 76318-054 76318-054 2:0 2:1 5:30 7/18 (b)(6), (b)(7)(C) Epstein 76318-054 5:30 1 7/19 (b)(6), (b)(7)(C) Epstein 76318-054 5:20 7-19 (b)(6), (b)(7)(C) Epstein 76318-054 5:20 6:00 7-19 (b)(6), (b)(7)(C) Epstein 76318-054 5:40 DOJ-OGR-0004235",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE NAME Signature Inmate Dog# Time in Time out",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/16 7-18 (b)(6), (b)(7)(C) Epstein Epstein 76318-054 76318-054 2:0 2:1 5:30",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/18 (b)(6), (b)(7)(C) Epstein 76318-054 5:30",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "1 7/19 (b)(6), (b)(7)(C) Epstein 76318-054 5:20",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "7-19 (b)(6), (b)(7)(C) Epstein 76318-054 5:20 6:00",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "7-19 (b)(6), (b)(7)(C) Epstein 76318-054 5:40",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-0004235",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/16",
+      "7-18",
+      "7/18",
+      "1 7/19",
+      "7-19",
+      "7-19"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-0004235"
+    ]
+  },
+  "additional_notes": "The document appears to be a log of visits to an inmate, with some information redacted. The inmate's name is Epstein, and the log covers dates in July 2018 and 2019. Some times are listed, but many fields are blank or redacted."
+}

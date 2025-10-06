@@ -1,0 +1,87 @@
+{
+  "document_metadata": {
+    "page_number": "2934",
+    "document_number": "NYMBM: 530*05",
+    "date": "08-11-2019",
+    "document_type": "Inmate Roster",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2934\nINMATE ROSTER\n08-11-2019 01:35:20\nNYMBM: 530*05 *\nPAGE 001 OF 001 CATEGORY: OCT\nASSIGNMENT: HOSP\nGROUP CODE:\nFACILITY: NYM\nOPER CATG ASSIGNMENT OPER CATG ASSIGNMENT\nOPER CATG ASSIGNMENT\nNUM ASSIGNMENT REG NO NAME\n0001 HOSP\n(b)(6), (b)(7)(C)\n0002\nOCT DATE QTR WRK\n08-11-2019 E06-546L SUICIDE OR UNASSG\n08-11-2019 K11-053L FS WAREHOU SUICIDE OR\nG0000 TRANSACTION SUCCESSFULLY COMPLETED\nDOJ-OGR-00026590",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "INMATE ROSTER",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NYMBM: 530*05 *\nPAGE 001 OF 001 CATEGORY: OCT\nASSIGNMENT: HOSP",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "GROUP CODE:\nFACILITY: NYM",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NUM ASSIGNMENT REG NO NAME",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "0001 HOSP",
+      "position": "body"
+    },
+    {
+      "type": "redacted",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0002",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "OCT DATE QTR WRK\n08-11-2019 E06-546L SUICIDE OR UNASSG\n08-11-2019 K11-053L FS WAREHOU SUICIDE OR",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "G0000 TRANSACTION SUCCESSFULLY COMPLETED",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026590",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "08-11-2019"
+    ],
+    "reference_numbers": [
+      "NYMBM: 530*05",
+      "E06-546L",
+      "K11-053L",
+      "DOJ-OGR-00026590"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b)(6), (b)(7)(C)'. The document appears to be a roster of inmates, with details about their assignments and status."
+}

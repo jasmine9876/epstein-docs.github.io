@@ -1,0 +1,93 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "76318054",
+    "date": "05/11/2020",
+    "document_type": "Inmate Center Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Date: 05/11/2020 Time: 09:28 AM Location: DC Federal Bureau of Prisons TRUVIEW Inmate Center Report Sensitive But Unclassified Reg #: 76318054 Start Dt: 7/6/2019 End Dt: 8/10/2019 Money Received Email List Money Sent Messages Contact List Visitor List Addresses Phone List Visits Timeline Calls Money Received Transaction Date Loc Trans Type Amount Sender Nm Address City St Zip Phone 8/7/2019 12:04:45 PM NYM Western Union $200.00 7/31/2019 9:04:12 AM NYM Western Union $300.00 7/8/2019 10:04:21 AM NYM Western Union $200.00 Money Sent Transaction Date Loc Trans Type Amount Recipient Nm Address City St Zip No information was found for the given criteria. Contact List Contact Nm Relationship Email Phone Mail No information was found for the given criteria. Addresses Contact Nm Relationship Address City State Zip No information was found for the given criteria. Phone List Creation Date Last Change Date Loc Status Phone Contact First Nm Contact Last Nm Alerted Block Description No information was found for the given criteria. Calls User ID: TF34228 Page 1 of 2 DOJ-OGR-00024456",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date: 05/11/2020 Time: 09:28 AM Location: DC",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Federal Bureau of Prisons TRUVIEW Inmate Center Report Sensitive But Unclassified",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Reg #: 76318054 Start Dt: 7/6/2019 End Dt: 8/10/2019",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Money Received Email List Money Sent Messages Contact List Visitor List Addresses Phone List Visits Timeline Calls",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Money Received Transaction Date Loc Trans Type Amount Sender Nm Address City St Zip Phone 8/7/2019 12:04:45 PM NYM Western Union $200.00 7/31/2019 9:04:12 AM NYM Western Union $300.00 7/8/2019 10:04:21 AM NYM Western Union $200.00",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Money Sent Transaction Date Loc Trans Type Amount Recipient Nm Address City St Zip No information was found for the given criteria.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Contact List Contact Nm Relationship Email Phone Mail No information was found for the given criteria.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Addresses Contact Nm Relationship Address City State Zip No information was found for the given criteria.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Phone List Creation Date Last Change Date Loc Status Phone Contact First Nm Contact Last Nm Alerted Block Description No information was found for the given criteria.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Calls",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "User ID: TF34228 Page 1 of 2 DOJ-OGR-00024456",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Federal Bureau of Prisons",
+      "Western Union"
+    ],
+    "locations": [
+      "NYM",
+      "DC"
+    ],
+    "dates": [
+      "05/11/2020",
+      "7/6/2019",
+      "8/10/2019",
+      "8/7/2019",
+      "7/31/2019",
+      "7/8/2019"
+    ],
+    "reference_numbers": [
+      "76318054",
+      "TF34228",
+      "DOJ-OGR-00024456"
+    ]
+  },
+  "additional_notes": "The document appears to be a report from the Federal Bureau of Prisons, detailing financial transactions and other information related to an inmate. The report is marked 'Sensitive But Unclassified'. Some sections of the report indicate that no information was found for the given criteria."
+}

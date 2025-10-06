@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "DOJ-OGR-00027308",
+    "date": "08/01/2019",
+    "document_type": "Inmate Record",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Inmate Name: EPSTEIN, JEFFREY EDWARD Reg #: 76318-054 Date of Birth: 01/20/1953 Sex: M Facility: NYM Unit Team: 5 Date: 08/01/2019 13:29 Provider: [redacted] PsyD Completed by [redacted] PsyD on 08/01/2019 16:21 Generated 08/01/2019 16:21 by [redacted] PsyD Bureau of Prisons - NYM Page 3 of 3 DOJ-OGR-00027308",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD Reg #: 76318-054",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Date of Birth: 01/20/1953 Sex: M Facility: NYM Unit Team: 5",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Date: 08/01/2019 13:29 Provider: [redacted] PsyD",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Completed by [redacted] PsyD on 08/01/2019 16:21",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 08/01/2019 16:21 by [redacted] PsyD Bureau of Prisons - NYM Page 3 of 3 DOJ-OGR-00027308",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "08/01/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00027308"
+    ]
+  },
+  "additional_notes": "The document contains redactions in the form of [redacted] for personal identifiable information."
+}

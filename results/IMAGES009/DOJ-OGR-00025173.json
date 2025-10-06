@@ -1,0 +1,55 @@
+{
+  "document_metadata": {
+    "page_number": "875",
+    "document_number": "DOJ-OGR-00025173",
+    "date": "8/12/2019",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 875 Good morning I have notified the appropriate parties at MCC New York as to the below request for preservation and advised that they preserve any responsive documentation in their possession. Please be advise that policy requires any request for production to be routed as a Freedom of Information Act request. For more information, please visit our website at www.bop.gov. Thank you, Supervisory Staff Attorney CLC New York Metropolitan Correctional Center 150 Park Row New York, New York 10007 p: (646)836- f: (646)836-7665 Page 1705",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Good morning",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "I have notified the appropriate parties at MCC New York as to the below request for preservation and advised that they preserve any responsive documentation in their possession. Please be advise that policy requires any request for production to be routed as a Freedom of Information Act request. For more information, please visit our website at www.bop.gov.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Thank you,",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Supervisory Staff Attorney CLC New York Metropolitan Correctional Center 150 Park Row New York, New York 10007 p: (646)836- f: (646)836-7665",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [
+      "MCC New York",
+      "CLC New York",
+      "Metropolitan Correctional Center",
+      "BOP"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "8/12/2019",
+      "8/11/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00025173"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted email chain with some information blacked out, likely for privacy or security reasons."
+}

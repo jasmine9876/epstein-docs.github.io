@@ -1,0 +1,87 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00027468",
+    "date": "10/17/2006",
+    "document_type": "Air / Sea Baggage Secondary Inspection",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "UNCLASSIFIED // FOR OFFICIAL USE ONLY\nEPSTEIN JEFFREY (b)(7)(E)\n10/17/2006 00:04:00\nAir / Sea Baggage Secondary Inspection (b)(7)(E)\n(b)(7)(E)\nSubject\nLast Name: EPSTEIN\nFirst Name: JEFFREY\nGender: Male (b)(7)(E)\nDate Of Birth: 01/20/1953\nCrossing Information\nPort: NEWARK (4601)\nSite: CBP- TETERBORO, AIRPT HANGER 2 (b)(7)(E)\nInbound/Outbound: Inbound\nPort Crossing Date: 10/17/2006 00:04:00\nEmbark Port: HEWANDRRA AIRPORT (b)(7)(E)\nDeparture Airport: HEWANDRRA AIRPORT\nAirline: U.S. CARRIER UNKNOWN (b)(7)(E)\nPassenger Document\nDocument Type I: PASSPORT (b)(7)(E)\nIssue Country: United States (US/USA)\nReferral / Inspection Information\nReferral Office: (b)(7)(E)\nReferral Reason: (b)(7)(E)\nReferral Comment: (b)(7)(E)\nInspection Completion: Yes\nInspection Result: Negative\nMiscellaneous Info\nPersonnel Search: No\nBaggage Examination: Yes\nPassenger On Declare Number: 1\nRemarks\n(b)(7)(E)\nUNCLASSIFIED // FOR OFFICIAL USE ONLY\nDOJ-OGR-00027468",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "UNCLASSIFIED // FOR OFFICIAL USE ONLY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN JEFFREY (b)(7)(E)\n10/17/2006 00:04:00\nAir / Sea Baggage Secondary Inspection (b)(7)(E)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Subject\nLast Name: EPSTEIN\nFirst Name: JEFFREY\nGender: Male (b)(7)(E)\nDate Of Birth: 01/20/1953",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Crossing Information\nPort: NEWARK (4601)\nSite: CBP- TETERBORO, AIRPT HANGER 2 (b)(7)(E)\nInbound/Outbound: Inbound\nPort Crossing Date: 10/17/2006 00:04:00\nEmbark Port: HEWANDRRA AIRPORT (b)(7)(E)\nDeparture Airport: HEWANDRRA AIRPORT\nAirline: U.S. CARRIER UNKNOWN (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Passenger Document\nDocument Type I: PASSPORT (b)(7)(E)\nIssue Country: United States (US/USA)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Referral / Inspection Information\nReferral Office: (b)(7)(E)\nReferral Reason: (b)(7)(E)\nReferral Comment: (b)(7)(E)\nInspection Completion: Yes\nInspection Result: Negative",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Miscellaneous Info\nPersonnel Search: No\nBaggage Examination: Yes\nPassenger On Declare Number: 1",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Remarks\n(b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "UNCLASSIFIED // FOR OFFICIAL USE ONLY",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027468",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "U.S. CARRIER",
+      "CBP"
+    ],
+    "locations": [
+      "NEWARK",
+      "TETERBORO",
+      "HEWANDRRA AIRPORT",
+      "United States"
+    ],
+    "dates": [
+      "10/17/2006",
+      "01/20/1953"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00027468",
+      "4601"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(7)(E). The document is an Air / Sea Baggage Secondary Inspection report for JEFFREY EPSTEIN."
+}

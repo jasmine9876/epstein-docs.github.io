@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "3129",
+    "document_number": "DOJ-OGR-00026769",
+    "date": "08/10/2019",
+    "document_type": "Photo Sheet",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "Page 3129\n\n\nLieutenant's Office\n\nMetropolitan Correctional Center New York, N.Y.\nPhoto Sheet\nLieutenant's Office\n\nType of Incident    INMATE SUICIDE\nDate and Time of Incident    08/10/2019 6:33 AM\nInmate Name / Reg. No.    EPSTEIN, JEFFERY REG#76318-054\nLocation of Incident    ZA\nPhotograph(s) by    Lt. [redacted]\nDate and Time of Photo    08/10/2019 6:49 AM\n\n\n[redacted]\n\nCOPY\ns/10/19\n[redacted]\nDOJ-OGR-00026769",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3129",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Lieutenant's Office",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center New York, N.Y.\nPhoto Sheet\nLieutenant's Office",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Type of Incident    INMATE SUICIDE\nDate and Time of Incident    08/10/2019 6:33 AM\nInmate Name / Reg. No.    EPSTEIN, JEFFERY REG#76318-054\nLocation of Incident    ZA\nPhotograph(s) by    Lt. [redacted]\nDate and Time of Photo    08/10/2019 6:49 AM",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "COPY",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "s/10/19",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026769",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFERY EPSTEIN"
+    ],
+    "organizations": [
+      "Metropolitan Correctional Center",
+      "Department of Justice"
+    ],
+    "locations": [
+      "New York, N.Y.",
+      "ZA"
+    ],
+    "dates": [
+      "08/10/2019",
+      "s/10/19"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026769"
+    ]
+  },
+  "additional_notes": "The document contains redactions and a stamp indicating it is a copy. The date 's/10/19' appears to be a handwritten date, possibly a signing or review date."
+}

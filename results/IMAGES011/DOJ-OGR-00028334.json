@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028334",
+    "date": "012108",
+    "document_type": "PQH API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 *B PQH API/HIT DATA 042814 *A *C NAME EPSTEIN, JEFFREY PARIS, CH. DE GAULLE ----- QUERY ----- LNE TERM/ DOB DATE TIME AGN RSLT TYP REF LANE API 012053 012108 0000 *D API 01 R API DATA ---- INDICATOR : R CARRIER CODE : AF FLT/VES NUMBER : 7 ARRIVAL LOCATION : CDG DEPARTURE LOCATION : JFK TRANSMITTED BY : AFDCS INBOUND/OUTBOUND : OUTBOUND REPORTED AIR FRANCE PARIS, CH. DE GAULLE JOHN F KENNEDY INTL AIR FRANCE (b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) DOJ-OGR-00028334",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07 *B PQH API/HIT DATA 042814 *A *C",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME EPSTEIN, JEFFREY PARIS, CH. DE GAULLE",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "----- QUERY ----- LNE TERM/ DOB DATE TIME AGN RSLT TYP REF LANE API 012053 012108 0000 *D API 01 R",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "API DATA ---- INDICATOR : R CARRIER CODE : AF FLT/VES NUMBER : 7 ARRIVAL LOCATION : CDG DEPARTURE LOCATION : JFK TRANSMITTED BY : AFDCS INBOUND/OUTBOUND : OUTBOUND",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "REPORTED AIR FRANCE PARIS, CH. DE GAULLE JOHN F KENNEDY INTL AIR FRANCE",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028334",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "AIR FRANCE",
+      "AFDCS"
+    ],
+    "locations": [
+      "PARIS, CH. DE GAULLE",
+      "JOHN F KENNEDY INTL"
+    ],
+    "dates": [
+      "012108"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00028334",
+      "012053",
+      "042814"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted API/HIT data report related to Jeffrey Epstein's travel. Multiple redactions are present, marked as (b) (7) (E) and (b) (6), (b) (7) (C)."
+}

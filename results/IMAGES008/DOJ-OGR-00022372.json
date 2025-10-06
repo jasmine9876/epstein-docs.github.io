@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "87",
+    "document_number": "DOJ-OGR-00022372",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Zuckerman, Mort Blachon, Magali Epstein, Jeffrey JEFFREY 71ST. Barnett, Richard Flowers-Gary Baura Fontanilla, Lynn & Jojo Gaston Steve Graces Marketplace Hamblin, Sue Miller, Charles Sawyers Tom/Pat (telephones) Tindall, Brent 212 993 1003 (emergency) DOJ-OGR-00022372",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Zuckerman, Mort Blachon, Magali Epstein, Jeffrey JEFFREY 71ST. Barnett, Richard",
+      "position": "left"
+    },
+    {
+      "type": "printed",
+      "content": "Flowers-Gary Baura Fontanilla, Lynn & Jojo Gaston Steve Graces Marketplace Hamblin, Sue",
+      "position": "right"
+    },
+    {
+      "type": "handwritten",
+      "content": "Sawyers Tom/Pat (telephones)",
+      "position": "right"
+    },
+    {
+      "type": "printed",
+      "content": "Miller, Charles Tindall, Brent 212 993 1003 (emergency)",
+      "position": "right"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022372",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Mort Zuckerman",
+      "Magali Blachon",
+      "Jeffrey Epstein",
+      "Richard Barnett",
+      "Gary Baura Flowers",
+      "Lynn & Jojo Fontanilla",
+      "Steve Gaston",
+      "Sue Hamblin",
+      "Charles Miller",
+      "Tom/Pat Sawyers",
+      "Brent Tindall"
+    ],
+    "organizations": [
+      "Graces Marketplace"
+    ],
+    "locations": [
+      "JEFFREY 71ST"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022372",
+      "212 993 1003"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 87, and the document number is DOJ-OGR-00022372."
+}

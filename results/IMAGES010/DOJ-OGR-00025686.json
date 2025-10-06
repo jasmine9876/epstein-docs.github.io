@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": "1633",
+    "document_number": "DOJ-OGR-00025686",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 1633 [b](5) Hugh Sent from my Verizon, Samsung Galaxy smartphone Page 8071 DOJ-OGR-00025686",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 1633",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "[b](5)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Hugh",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Sent from my Verizon, Samsung Galaxy smartphone",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 8071",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025686",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Hugh"
+    ],
+    "organizations": [
+      "Verizon"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00025686"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted email or message, with a large redacted section. The visible text indicates it was sent from a Samsung Galaxy smartphone via Verizon."
+}

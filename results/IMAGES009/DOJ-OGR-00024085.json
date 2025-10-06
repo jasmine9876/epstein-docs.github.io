@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Inmate Visit Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE NAME Signature Inmate Reg# Time IN Time OUT 8/6/19 Jeffrey Epstein 76318-054 2:45 2:55 8/6/19 Sarah Colon Epstein 76318-054 2:45 6:44 8/6/19 [redacted] Epstein [redacted] 76318-054 2:45 [redacted] 2/6/20 [redacted] [redacted] [redacted] [redacted] 2:47 6:04pm [redacted] 8/7 [redacted] [redacted] [redacted] [redacted] 12:02",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE NAME Signature Inmate Reg# Time IN Time OUT",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/6/19 Jeffrey Epstein 76318-054 2:45 2:55",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/6/19 Sarah Colon Epstein 76318-054 2:45 6:44",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/6/19 [redacted] Epstein [redacted] 76318-054 2:45 [redacted]",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "2/6/20 [redacted] [redacted] [redacted] [redacted] 2:47 6:04pm [redacted]",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/7 [redacted] [redacted] [redacted] [redacted] 12:02",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Sarah Colon",
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "8/6/19",
+      "2/6/20",
+      "8/7"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024085"
+    ]
+  },
+  "additional_notes": "The document appears to be a log of inmate visits, with some information redacted. The handwriting is mostly legible, but some parts are difficult to read due to the quality of the image."
+}

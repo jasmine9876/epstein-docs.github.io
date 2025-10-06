@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": "3097",
+    "document_number": "DOJ-OGR-00026737",
+    "date": null,
+    "document_type": "Official Out Count Form",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "METROPOLITAN CORRECTIONAL CENTER NEW YORK, NY OFFICIAL OUT COUNT DATE: (b)(6); (b)(7)(C) COUNT TIME: 3:00AM FROM: (Signature) (b)(6); (b)(7)(C) LOCATION: Hosp APPROVED: (Operations Lieutenant) REG # NAME UNIT REG # NAME UNIT 1 (b)(6); (b)(7)(C) (b)(6); (b)(7)(C) in 13. 2 iis 14. 3. 15. 4. 16. 5. 17. 6. 18. 7. 19. 8. 20. 9. 21. 10. 22. 11. 23. 12. 24. OUT-COUNT BY UNIT B-A C-A E-N E-S G-N G-S H-A I-N K-N K-S R-A Z-A Z-B Total Out-Counted: 2 This form must be submitted to the Counts and Assignments Officer FORTY-FIVE MINUTES PRIOR to the affected count. Prepare this form in ink. Group the inmates according to their respective housing units. This form is to be used only as a Out-Count. No other form will be accepted in lieu of the Out-Count Form. DOJ-OGR-00026737",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "METROPOLITAN CORRECTIONAL CENTER NEW YORK, NY OFFICIAL OUT COUNT",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DATE: COUNT TIME: FROM: APPROVED: REG # NAME UNIT REG # NAME UNIT",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "3:00AM Hosp in iis",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "OUT-COUNT BY UNIT B-A C-A E-N E-S G-N G-S H-A I-N K-N K-S R-A Z-A Z-B Total Out-Counted:",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "2",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "This form must be submitted to the Counts and Assignments Officer FORTY-FIVE MINUTES PRIOR to the affected count. Prepare this form in ink. Group the inmates according to their respective housing units. This form is to be used only as a Out-Count. No other form will be accepted in lieu of the Out-Count Form.",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026737",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [
+      "New York, NY"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00026737"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6); (b)(7)(C). The form is partially filled out with handwritten information."
+}

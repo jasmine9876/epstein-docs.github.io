@@ -1,0 +1,52 @@
+{
+  "document_metadata": {
+    "page_number": "10854",
+    "document_number": "DOJ-OGR-00024434",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "(b)(5)\nHugh\nSent from my Verizon, Samsung Galaxy smartphone\nPage 10854\nDOJ-OGR-00024434",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "(b)(5)",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Hugh",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Sent from my Verizon, Samsung Galaxy smartphone",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Page 10854",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024434",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Hugh"
+    ],
+    "organizations": [
+      "Verizon"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00024434"
+    ]
+  },
+  "additional_notes": "The document contains a redacted section marked '(b)(5)' and a footer with page number and document ID. The text 'Hugh' and the device information suggest an email or message signature."
+}

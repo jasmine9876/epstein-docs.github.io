@@ -1,0 +1,73 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028301",
+    "date": null,
+    "document_type": "API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 *B PQH API/HIT DATA 042814 *A *C NAME EPSTEIN, JEFFREY PARIS, ORLY DOB 012053 QUERY DATE TIME AGN RSLT 011911 0000 *D LNE TYP REF API TERM/ LANE API 01 R API DATA ---- INDICATOR : R CARRIER CODE : EC FLT/VES NUMBER : 2 ARRIVAL LOCATION : ORY DEPARTURE LOCATION : EWR TRANSMITTED BY : ALTEA+CM INBOUND/OUTBOUND : OUTBOUND REPORTED OPEN SKIES PARIS, ORLY NEWARK INTERNATIONAL AMADEUS DCS ALTEA CM (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) DOJ-OGR-00028301",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07 *B PQH API/HIT DATA 042814 *A *C",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME EPSTEIN, JEFFREY PARIS, ORLY",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "DOB 012053 QUERY DATE TIME AGN RSLT 011911 0000 *D LNE TYP REF API TERM/ LANE API 01 R",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "API DATA ---- INDICATOR : R CARRIER CODE : EC FLT/VES NUMBER : 2 ARRIVAL LOCATION : ORY DEPARTURE LOCATION : EWR TRANSMITTED BY : ALTEA+CM INBOUND/OUTBOUND : OUTBOUND REPORTED OPEN SKIES PARIS, ORLY NEWARK INTERNATIONAL AMADEUS DCS ALTEA CM",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E) (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028301",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "AMADEUS DCS ALTEA CM",
+      "ALTEA+CM"
+    ],
+    "locations": [
+      "PARIS",
+      "ORLY",
+      "NEWARK INTERNATIONAL",
+      "EWR"
+    ],
+    "dates": [
+      "011911"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00028301",
+      "012053",
+      "011911",
+      "042814"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as (b)(7)(E) and (b)(6), (b)(7)(C)."
+}

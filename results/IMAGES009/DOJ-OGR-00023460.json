@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": "93",
+    "document_number": "DOJ-OGR-00023460",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "The FBI's Digital Forensics Analysis Unit in Quantico, Virginia, received MCC New York's DVR system on August 16, 2019, and began to conduct a forensic analysis of the system. According to FBI forensic reports, DVR 2 did not start successfully. The Digital Forensics Analysis Unit found that the system contained three faulty hard drives. The FBI forensic reports state that the three drives were repaired by an FBI Advanced Data Recovery Specialist, but the DVR was never able to be assembled successfully. The forensic reports further state that an FBI computer scientist and the Company 1 Technician reviewed the DVR 2 controller logs and found that there had previously been \"catastrophic disk failures\" and no recordings would have been available after July 29, 2019. When the OIG asked the Electronics Technician about this finding by the FBI, he told the OIG he was unaware that cameras were not recording to DVR 2 between July 29 and August 8, 2019. Neither the Warden nor the SIS Lieutenant was aware the cameras assigned to DVR 2 had not been recording since July 29, 2019. The Company 1 Technician could not recall working with the Electronics Technician on any DVR issues prior to August 8, 2019, but he said that if the entire DVR 2 server went down on July 29, 2019, no video would have been able to have been retrieved from that point forward from any of the cameras recording to DVR 2.",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "The FBI's Digital Forensics Analysis Unit in Quantico, Virginia, received MCC New York's DVR system on August 16, 2019, and began to conduct a forensic analysis of the system. According to FBI forensic reports, DVR 2 did not start successfully. The Digital Forensics Analysis Unit found that the system contained three faulty hard drives. The FBI forensic reports state that the three drives were repaired by an FBI Advanced Data Recovery Specialist, but the DVR was never able to be assembled successfully. The forensic reports further state that an FBI computer scientist and the Company 1 Technician reviewed the DVR 2 controller logs and found that there had previously been \"catastrophic disk failures\" and no recordings would have been available after July 29, 2019.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "When the OIG asked the Electronics Technician about this finding by the FBI, he told the OIG he was unaware that cameras were not recording to DVR 2 between July 29 and August 8, 2019. Neither the Warden nor the SIS Lieutenant was aware the cameras assigned to DVR 2 had not been recording since July 29, 2019. The Company 1 Technician could not recall working with the Electronics Technician on any DVR issues prior to August 8, 2019, but he said that if the entire DVR 2 server went down on July 29, 2019, no video would have been able to have been retrieved from that point forward from any of the cameras recording to DVR 2.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "93",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00023460",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "FBI",
+      "MCC New York",
+      "OIG",
+      "Company 1"
+    ],
+    "locations": [
+      "Quantico",
+      "Virginia",
+      "New York"
+    ],
+    "dates": [
+      "August 16, 2019",
+      "July 29, 2019",
+      "August 8, 2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00023460"
+    ]
+  },
+  "additional_notes": "The document appears to be a page from a report, likely related to an investigation or audit. The text is well-formatted and easy to read. There are no visible redactions or damage to the document."
+}

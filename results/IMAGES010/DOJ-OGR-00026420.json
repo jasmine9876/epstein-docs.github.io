@@ -1,0 +1,50 @@
+{
+  "document_metadata": {
+    "page_number": "2764",
+    "document_number": "DOJ-OGR-00026420",
+    "date": "07/28/2019",
+    "document_type": "30 MINUTE CHECK SHEET",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "MCC NEW YORK SPECIAL HOUSING UNIT 30 MINUTE CHECK SHEET M-TIER DATE: 07/28/2019 ... (complete text transcription in reading order)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "MCC NEW YORK SPECIAL HOUSING UNIT 30 MINUTE CHECK SHEET M-TIER",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "1207 1209",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "MCC NEW YORK SPECIAL HOUSING UNIT",
+      "position": "header"
+    },
+    {
+      "type": "signature",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "MCC NEW YORK",
+      "SPECIAL HOUSING UNIT"
+    ],
+    "locations": [
+      "NEW YORK"
+    ],
+    "dates": [
+      "07/28/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026420"
+    ]
+  },
+  "additional_notes": "The document contains handwritten check-in times and signatures. Some information is redacted with '(b)(6); (b)(7)(C)'."
+}

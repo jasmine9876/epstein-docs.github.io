@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00027097",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE NAME Signature Inmate Reg# Time in (b)(6), (b)(7)(C) 772c (b)(6), (b)(7)(C) Dposter 243k-09 12/15 (b)(6), (b)(7)(C) 7726 (b)(6), (b)(7)(C) Gopl 76501 30 (b)(6), (b)(7)(C) 7726 (b)(6), (b)(7)(C) Dposter 76515 051520 DOJ-OGR-00027097",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE NAME Signature Inmate Reg# Time in",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "772c (b)(6), (b)(7)(C) Dposter 243k-09 12/15",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7726 (b)(6), (b)(7)(C) Gopl 76501 30",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6), (b)(7)(C) 7726 (b)(6), (b)(7)(C) Dposter 76515 051520",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027097",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "12/15",
+      "051520"
+    ],
+    "reference_numbers": [
+      "243k-09",
+      "76501",
+      "76515",
+      "DOJ-OGR-00027097"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6), (b)(7)(C). The content is mostly handwritten with some printed headers and a footer."
+}

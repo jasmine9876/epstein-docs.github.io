@@ -1,0 +1,69 @@
+{
+  "document_metadata": {
+    "page_number": "2893",
+    "document_number": "DOJ-OGR-00026549",
+    "date": "8/12/2019",
+    "document_type": "OFFICIAL OUT-COUNT FORM",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "METROPOLITAN CORRECTIONAL CENTER NEW YORK NY OFFICIAL OUT-COUNT FORM DATE: 8/12/2019 TIME: 4PM FROM: [redacted] LOCATION: F/S Number Name Unit Number Name Unit 1 KS 21 2 KS 22 3 KS 23 4 KS 24 5 KS 25 6 ES 26 7 KS 27 8 KS 28 9 ES 29 10 KS 30 11 KS 31 12 ES 32 13 KS 33 14 KS 34 15 35 16 36 17 37 18 38 19 39 20 40 OUT-COUNTS BY UNIT: B-A C-A E-N G-N K-N Z-A H-A E-S 3 G-S I-N K-S 11 R-A Z-B TOTAL OUT-COUNT: 14 [redacted] Out-counts will be submitted at a minimum of two (2) hours prior to the count. Out-counts WILL be submitted in ink, and legible. Out-counts should list inmates alphabetically by unit with the inmate's name, register number, and quarters assignment. Please verify all information. DOJ-OGR-00026549",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "METROPOLITAN CORRECTIONAL CENTER NEW YORK NY OFFICIAL OUT-COUNT FORM",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DATE: 8/12/2019 TIME: 4PM FROM: [redacted] LOCATION: F/S",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Number Name Unit Number Name Unit",
+      "position": "table header"
+    },
+    {
+      "type": "handwritten",
+      "content": "KS ES KS",
+      "position": "table body"
+    },
+    {
+      "type": "printed",
+      "content": "OUT-COUNTS BY UNIT:",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "E-S 3 K-S 11",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "TOTAL OUT-COUNT: 14 [redacted]",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Out-counts will be submitted at a minimum of two (2) hours prior to the count. Out-counts WILL be submitted in ink, and legible. Out-counts should list inmates alphabetically by unit with the inmate's name, register number, and quarters assignment. Please verify all information.",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "METROPOLITAN CORRECTIONAL CENTER"
+    ],
+    "locations": [
+      "NEW YORK NY"
+    ],
+    "dates": [
+      "8/12/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026549"
+    ]
+  },
+  "additional_notes": "The document contains redactions, likely for privacy or security reasons. The handwriting is mostly legible, but some parts may be difficult to read due to the quality of the image."
+}

@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028470",
+    "date": "090411",
+    "document_type": "PQH API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 *B PQH API/HIT DATA 042814 *A *C NAME EPSTEIN, JEFFREY E ATATURK DOB 012053 QUERY DATE TIME AGN RSLT 090411 0000 *D LNE TYP REF TERM/ LANE API API 01 R API DATA ---- INDICATOR : R CARRIER CODE : *GA FLT/VES NUMBER : N909JE ARRIVAL LOCATION : IST DEPARTURE LOCATION : XXX TRANSMITTED BY : APGA888J INBOUND/OUTBOUND : INBOUND REPORTED GENERAL AVIATION ATATURK UNKNOWN AIRPORT (USED ON GENERAL AVIATION (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) DOJ-OGR-00028470",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "PQH API/HIT DATA",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "NAME EPSTEIN, JEFFREY E ATATURK",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "API DATA ----",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028470",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY E EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "ATATURK",
+      "IST"
+    ],
+    "dates": [
+      "090411"
+    ],
+    "reference_numbers": [
+      "N909JE",
+      "APGA888J",
+      "DOJ-OGR-00028470"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked with (b)(6), (b)(7)(C), and (b)(7)(E)."
+}

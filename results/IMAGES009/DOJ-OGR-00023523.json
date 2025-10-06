@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": "153",
+    "document_number": "DOJ-OGR-00023523",
+    "date": "2019/10/30",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Epstein article. From Lee Plourde To James Petrucci, Marti Licon-Vitale Date 2019/10/30 11:50 Subject: Epstein article. Attachments: TEXT.htm https://www.nytimes.com/2019/10/30/nyregion/jeffrey-epstein-homicide-autopsy-michael-baden.html Sent from my Verizon, Samsung Galaxy smartphone Page 153 DOJ-OGR-00023523",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Epstein article. From Lee Plourde To James Petrucci, Marti Licon-Vitale Date 2019/10/30 11:50 Subject: Epstein article. Attachments: TEXT.htm",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "https://www.nytimes.com/2019/10/30/nyregion/jeffrey-epstein-homicide-autopsy-michael-baden.html",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Sent from my Verizon, Samsung Galaxy smartphone",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 153 DOJ-OGR-00023523",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Lee Plourde",
+      "James Petrucci",
+      "Marti Licon-Vitale",
+      "Jeffrey Epstein",
+      "Michael Baden"
+    ],
+    "organizations": [
+      "Verizon",
+      "Samsung",
+      "New York Times",
+      "DOJ"
+    ],
+    "locations": [
+      "New York Region"
+    ],
+    "dates": [
+      "2019/10/30"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00023523"
+    ]
+  },
+  "additional_notes": "The document is an email with redactions on the recipient names. It contains a link to a New York Times article about Jeffrey Epstein's autopsy."
+}

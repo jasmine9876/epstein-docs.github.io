@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "DOJ-OGR-00024473",
+    "date": "08/13/2019",
+    "document_type": "Inmate Detail Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Date: 08/13/2019 Time: 07:22 AM Location: DC Federal Bureau of Prisons TRUVIEW Inmate Detail Report Sensitive But Unclassified AKAs/Nicknames Security Threat Groups Name Type Last Name First Name Assignment Description No Data No Data Current Charges Charge No Data ARS History Facility Assignment Assignment Description Start Date Stop Date No Data User ID: Page 2 of 2 DOJ-OGR-00024473",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date: 08/13/2019 Time: 07:22 AM",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Federal Bureau of Prisons TRUVIEW Inmate Detail Report Sensitive But Unclassified",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "AKAs/Nicknames Security Threat Groups",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Name Type Last Name First Name Assignment Description No Data No Data",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Current Charges Charge No Data",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "ARS History Facility Assignment Assignment Description Start Date Stop Date No Data",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "User ID:",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "WACJ bldugas",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page 2 of 2 DOJ-OGR-00024473",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [
+      "DC"
+    ],
+    "dates": [
+      "08/13/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00024473"
+    ]
+  },
+  "additional_notes": "The document appears to be a standard form used by the Federal Bureau of Prisons. The 'User ID' field contains handwritten text."
+}

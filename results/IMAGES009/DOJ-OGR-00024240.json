@@ -1,0 +1,55 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024240",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "(b)(6), (b)(7)(C) Epstein Epstein 76318-054 76318-054 6/24 21:33 1635 1 :od (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) Epstein Epstein 76318054 76318054 225 610 7/23 6:10 (b)(6), (b)(7)(C) DOJ-OGR-00024240",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein Epstein 76318-054 76318-054 6/24 21:33 1635 1 :od",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein Epstein 76318054 76318054 225 610 7/23 6:10",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024240",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "6/24",
+      "7/23"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "76318054",
+      "DOJ-OGR-00024240"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as '(b)(6), (b)(7)(C)'. The handwritten text appears to be a log or record of some sort, with dates and times, and a name 'Epstein'."
+}

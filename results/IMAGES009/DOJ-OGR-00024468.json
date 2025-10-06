@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "76318054",
+    "date": "07/18/2019",
+    "document_type": "SALES INVOICE",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "SALES INVOICE --S.B.U.-- NEW YORK MCC MAIN ACCOUNT No. 76318054 EPSTEIN, JEFFREY EDWARD 07/18/2019 Time 08:13:22 (b)(6) (b)(7)(C) Receipt# 61 BEGINNING BALANCES: Available Balance is N/A Spending Limit Balance is N/A Account Balance is $198.42 QTY DESCRIPTION PRICE 1 AA POWERCELL BATTERIES $1.00 2 DOVE $4.30 1 HALLS 40IC $0.95 1 HYDROCORTISONE $1.55 1 NB SHOWER SHOES $19.50 2 TONE SOAP $2.50 .1 VITAMIN C 24IC $3.25 # ITEMS SOLD: 9 CHARGE 76318054 $33.05 ENDING BALANCES: Available Balance is N/A Spending Limit Balance is N/A Account Balance is $165.37 Signature DOJ-OGR-00024468",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "SALES INVOICE --S.B.U.-- NEW YORK MCC MAIN ACCOUNT No. 76318054 EPSTEIN, JEFFREY EDWARD 07/18/2019 Time 08:13:22",
+      "position": "top"
+    },
+    {
+      "type": "stamp",
+      "content": "(b)(6) (b)(7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Receipt# 61 BEGINNING BALANCES: Available Balance is N/A Spending Limit Balance is N/A Account Balance is $198.42 QTY DESCRIPTION PRICE 1 AA POWERCELL BATTERIES $1.00 2 DOVE $4.30 1 HALLS 40IC $0.95 1 HYDROCORTISONE $1.55 1 NB SHOWER SHOES $19.50 2 TONE SOAP $2.50 .1 VITAMIN C 24IC $3.25 # ITEMS SOLD: 9 CHARGE 76318054 $33.05 ENDING BALANCES: Available Balance is N/A Spending Limit Balance is N/A Account Balance is $165.37",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Signature",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024468",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "NEW YORK MCC"
+    ],
+    "locations": [
+      "NEW YORK"
+    ],
+    "dates": [
+      "07/18/2019"
+    ],
+    "reference_numbers": [
+      "76318054",
+      "61",
+      "DOJ-OGR-00024468"
+    ]
+  },
+  "additional_notes": "The document is a sales invoice with a stamp and a reference number at the bottom."
+}

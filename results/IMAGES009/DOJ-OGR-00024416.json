@@ -1,0 +1,46 @@
+{
+  "document_metadata": {
+    "page_number": "6737",
+    "document_number": "DOJ-OGR-00024416",
+    "date": "2019/08/12",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Fwd: Question from NYTimes... From Lee Plourde To Lamine N'Diaye, (b)(6), (b)(7)(C) Date 2019/08/12 14:58 Subject: Fwd: Question from NYTimes... Attachments: TEXT.htm Page 6737 DOJ-OGR-00024416",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Fwd: Question from NYTimes...",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "From Lee Plourde To Lamine N'Diaye, (b)(6), (b)(7)(C) Date 2019/08/12 14:58 Subject: Fwd: Question from NYTimes... Attachments: TEXT.htm",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 6737 DOJ-OGR-00024416",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Lee Plourde",
+      "Lamine N'Diaye"
+    ],
+    "organizations": [
+      "NYTimes",
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "2019/08/12"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00024416"
+    ]
+  },
+  "additional_notes": "The document appears to be an email header with a redacted recipient name. The page number and document number are present in the footer."
+}

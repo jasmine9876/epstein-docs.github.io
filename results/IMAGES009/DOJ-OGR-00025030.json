@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": "577",
+    "document_number": "DOJ-OGR-00025030",
+    "date": "5/19/2020",
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 577 Page 11 Log Date/Time User Action Alias Post Shift date Watch Assignment Type Mndtry 07/22/19 22:08 (b)(6); (b)(7)(C) Signed Up for OT (b)(6); (b)(7)(C) N/A Selected Shifts: D/W 08/28/19 N/A N/A 07/22/19 22:08 Signed Up for OT N/A Selected Shifts: P/M 08/28/19 N/A N/A 07/22/19 22:08 Signed Up for OT N/A Selected Shifts: E/W 08/28/19 N/A N/A 07/22/19 22:08 Signed Up for OT N/A Selected Shifts: A/M 08/29/19 N/A N/A 07/22/19 22:07 Signed Up for OT N/A Selected Shifts: D/W 08/29/19 N/A N/A 07/22/19 22:07 Signed Up for OT N/A Selected Shifts: P/M 08/29/19 N/A N/A 07/22/19 22:07 Signed Up for OT N/A Selected Shifts: E/W 08/29/19 N/A N/A 07/22/19 22:07 Signed Up for OT N/A Selected Shifts: A/M 08/30/19 N/A N/A 07/22/19 22:07 Signed Up for OT N/A Selected Shifts: D/W 08/30/19 N/A N/A 07/22/19 22:07 Signed Up for OT N/A Selected Shifts: P/M 08/30/19 N/A N/A 07/22/19 22:07 Signed Up for OT N/A Selected Shifts: E/W 08/30/19 N/A N/A 07/22/19 22:06 Signed Up for OT N/A Selected Shifts: A/M 08/31/19 N/A N/A 07/22/19 22:06 Signed Up for OT N/A Selected Shifts: P/M 08/31/19 N/A N/A 07/22/19 22:06 Signed Up for OT N/A Selected Shifts: A/M 09/01/19 N/A N/A 07/22/19 22:06 Signed Up for OT N/A Selected Shifts: P/M 09/01/19 N/A N/A 07/22/19 22:06 Signed Up for OT N/A Selected Shifts: P/M 09/02/19 N/A N/A 07/22/19 22:06 Signed Up for OT N/A Selected Shifts: E/W 09/02/19 N/A N/A 07/22/19 22:06 Signed Up for OT N/A Selected Shifts: A/M 09/03/19 N/A N/A 07/22/19 22:06 Signed Up for OT N/A Selected Shifts: D/W 09/03/19 N/A N/A 07/22/19 22:06 Signed Up for OT N/A Selected Shifts: P/M 09/03/19 N/A N/A 07/22/19 22:06 Signed Up for OT N/A Selected Shifts: E/W 09/03/19 N/A N/A 07/22/19 22:05 Signed Up for OT N/A Selected Shifts: A/M 09/04/19 N/A N/A 5/19/2020 10:35:51 AM DOJ-OGR-00025030",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 577 Page 11",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Log Date/Time User Action Alias Post Shift date Watch Assignment Type Mndtry",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "07/22/19 22:08 (b)(6); (b)(7)(C) Signed Up for OT (b)(6); (b)(7)(C) N/A Selected Shifts: D/W 08/28/19 N/A N/A",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "5/19/2020 10:35:51 AM DOJ-OGR-00025030",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "(b)(6); (b)(7)(C)"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "07/22/19",
+      "08/28/19",
+      "08/29/19",
+      "08/30/19",
+      "08/31/19",
+      "09/01/19",
+      "09/02/19",
+      "09/03/19",
+      "09/04/19",
+      "5/19/2020"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00025030"
+    ]
+  },
+  "additional_notes": "The document appears to be a log of user actions, with a list of users who signed up for overtime (OT) on a specific date. The log includes the date, time, user, action, alias, post, shift date, watch, assignment type, and a mandatory field. The document has been redacted to remove sensitive information, with some fields marked as '(b)(6); (b)(7)(C)'. The document is printed and does not contain any handwritten text or stamps."
+}

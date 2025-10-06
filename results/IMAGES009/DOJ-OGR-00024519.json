@@ -1,0 +1,77 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024519",
+    "date": null,
+    "document_type": "Daily Lieutenant's Log",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "UNITED STATES DEPARTMENT OF JUSTICE METROPOLITAN CORRECTIONAL CENTER, NEW YORK, NY DAILY LIEUTENANT'S LOG D/W Daily Sensitive Information: (b)(6) (b)(7)(C) I/M Epstein on Psych obs. w/inmate companion 8:00 AM Lieutenant (b)(6) (b)(7)(C) assumes duties as the Day Watch Operations Lieutenant (b)(7)(E) (b)(7)(F) 8:00 AM (b)(7)(F) 8:23 AM 8:30 AM Census Conducted 8:48 AM (b)(7)(F) 9:00 AM Lock Down Census Count Begin 10:10 AM Lock Down Census Count Complete 11:00 AM Mainline Conducted 12:30 PM PM Census Conducted 12:30 PM I/M (b)(6) (b)(7)(C) out to Court 12:30 PM I/M out to L-Hosp 2:00 PM I/M return from L-Hosp 1:05 PM -2 I/M (b)(6) (b)(7)(C) 1:30 PM I/M (b)(6) (b)(7)(C) 3:23 PM -1 Bail Bond; (b)(6) (b)(7)(C) 3:34 PM +1 court return; (b)(6) (b)(7)(C) 3:45 PM Institutional lockdown for count 4:00 PM Relieved of duties by Lt. (b)(6) as E/W Operations Lieutenant Visitation: 9 North Inmates Adults Children Total 23 32 7 62 ION SCANNING TESTED HITS: 0 (b)(7)(E) (b)(7)(F) The following Inmate(s) were placed in Administrative Detention: 0 Name Reg Number Reason Unit TIME A/D Order (b)(6) (b)(7)(C) (b)(6) (b)(7)(C) (b)(6) (b)(7)(C) Ops Lt (b)(6) (b)(7)(C) Ending Count (b)(7)(F) ; SHU: (b)(7)(F) 10-South: (b)(7)(F) SHU OBS: (b)(7)(F) Act Lt Local Hosp: (b)(6) H/A OBS: (b)(7)(F) B/A OBS: (b)(7)(F) Dry Cell: (b)(6)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "UNITED STATES DEPARTMENT OF JUSTICE METROPOLITAN CORRECTIONAL CENTER, NEW YORK, NY DAILY LIEUTENANT'S LOG",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "D/W Daily Sensitive Information:",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "8:00 AM Lieutenant (b)(6) (b)(7)(C) assumes duties as the Day Watch Operations Lieutenant",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Visitation: 9 North",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Inmates Adults Children Total 23 32 7 62",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "ION SCANNING TESTED HITS: 0",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "The following Inmate(s) were placed in Administrative Detention: 0",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Ops Lt (b)(6) (b)(7)(C) Ending Count (b)(7)(F) ; SHU: (b)(7)(F) 10-South: (b)(7)(F) SHU OBS: (b)(7)(F) Act Lt Local Hosp: (b)(6) H/A OBS: (b)(7)(F) B/A OBS: (b)(7)(F) Dry Cell: (b)(6)",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein",
+      "Lieutenant"
+    ],
+    "organizations": [
+      "UNITED STATES DEPARTMENT OF JUSTICE",
+      "METROPOLITAN CORRECTIONAL CENTER"
+    ],
+    "locations": [
+      "NEW YORK",
+      "NY",
+      "9 North",
+      "L-Hosp",
+      "Court",
+      "SHU",
+      "10-South"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00024519"
+    ]
+  },
+  "additional_notes": "The document contains redactions, likely for privacy and security reasons. The log details various activities and events at the Metropolitan Correctional Center, including census counts, inmate movements, and institutional lockdowns."
+}

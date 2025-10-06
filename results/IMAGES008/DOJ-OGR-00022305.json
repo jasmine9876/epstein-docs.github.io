@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": "20",
+    "document_number": "DOJ-OGR-00022305",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Diniz, Pedro Dixon, Alexandra Dlerassi, Dale Dolbey, Alex & Suzie Douglas, Diandra Donne, Alegra Dori Dorrit Doss, David & Christy Prunier Driver, Minnie Dubb, Anthony V. Dubbens, Peter Dr Eli Wiesel Dublin, Glen Drax, Jeremy Dreesmann, Bernard Dublin, Louis & Tiffany DOJ-OGR-00022305",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Diniz, Pedro Dixon, Alexandra Dlerassi, Dale Dolbey, Alex & Suzie Douglas, Diandra Donne, Alegra Dori Dorrit Doss, David & Christy Prunier Driver, Minnie Dubb, Anthony V. Dubbens, Peter Dr Eli Wiesel Dublin, Glen Drax, Jeremy Dreesmann, Bernard Dublin, Louis & Tiffany",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022305",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "20",
+      "position": "margin"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Pedro Diniz",
+      "Alexandra Dixon",
+      "Dale Dlerassi",
+      "Alex Dolbey",
+      "Suzie Dolbey",
+      "Diandra Douglas",
+      "Alegra Donne",
+      "Dori",
+      "Dorrit",
+      "David Doss",
+      "Christy Prunier",
+      "Minnie Driver",
+      "Anthony V. Dubb",
+      "Peter Dubbens",
+      "Eli Wiesel",
+      "Glen Dublin",
+      "Jeremy Drax",
+      "Bernard Dreesmann",
+      "Louis Dublin",
+      "Tiffany Dublin"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022305"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 20, and the document number is DOJ-OGR-00022305."
+}

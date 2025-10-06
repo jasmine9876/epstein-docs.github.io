@@ -1,0 +1,52 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00027099",
+    "date": null,
+    "document_type": "Inmate Visit Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE NAME Signature Inmate Reg# Time In Time Out 7/27/19 Epstein 7636-054 1:40 5:30 Epstein 7651-054 3:15 7:50 J. Epstein 7638-054 12:57 5:20 Epstein 7638-054 8:30 7:00 7/28/19 Epstein 7638-054 8:30 9:00",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE NAME Signature Inmate Reg# Time In Time Out",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/27/19 Epstein 7636-054 1:40 5:30 Epstein 7651-054 3:15 7:50 J. Epstein 7638-054 12:57 5:20 Epstein 7638-054 8:30 7:00",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/28/19 Epstein 7638-054 8:30 9:00",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027099",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein",
+      "J. Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/27/19",
+      "7/28/19"
+    ],
+    "reference_numbers": [
+      "7636-054",
+      "7651-054",
+      "7638-054",
+      "DOJ-OGR-00027099"
+    ]
+  },
+  "additional_notes": "The document appears to be a log of visits to an inmate named Epstein. The log includes dates, times, and registration numbers. Some information is redacted."
+}

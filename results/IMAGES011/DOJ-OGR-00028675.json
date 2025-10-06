@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "IO95",
+    "date": "02/19/2014",
+    "document_type": "Inspection Results",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:08:01 IO95 Inspection Results 042814 *A *B A477 NEW YORK, JFK A FLT/VES#: AF 22 AIR FRANCE DOCTYP*: P #*: 469911707 CTRY*: US UNITED STATES ST: M/F: M DNAME (LAST) : EPSTEIN FRST: JEFFREY DOB: 012053 RFRD BY: *D -CBP OFFCR-C DTE: 02192014 TME: 1038 REASON: (b)(7)(E) CCD:*E SNAME (LAST) : FRST: DOB: NATIONALITY: US UNITED STATES DISP: USC U.S. CITIZEN RCPT#: AUDATE: CHARGE (CODED) : DFRD TO: SEC OFCR: *F -CBP OFFCR-C FIN#: REFR CDE: 02/19/2014 10:53 IOEM#: COMMENTS: VIOLS: (b)(7)(E) VERIFIED. (b)(7)(E) . SUBJECT IS RETURNING FROM 10 DAY TRIP FROM FRANCE. SUBJECT ADMITTED USC. WHTI CMPLNT? ADDL COMTS: (b)(7)(E) *G (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) *H *I Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (6) (b) (7) (C) *E - (b) (7) (E) *F - (b) (6) (b) (7) (C) *G - (b) (7) (E) *H - (b) (7) (E) *I - (b) (7) (E) DOJ-OGR-00028675",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:08:01 IO95 Inspection Results 042814",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "*B A477 NEW YORK, JFK A FLT/VES#: AF 22 AIR FRANCE DOCTYP*: P #*: 469911707 CTRY*: US UNITED STATES ST: M/F: M DNAME (LAST) : EPSTEIN FRST: JEFFREY DOB: 012053 RFRD BY: *D -CBP OFFCR-C DTE: 02192014 TME: 1038 REASON: (b)(7)(E) CCD:*E",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SNAME (LAST) : FRST: DOB: NATIONALITY: US UNITED STATES DISP: USC U.S. CITIZEN RCPT#: AUDATE: CHARGE (CODED) : DFRD TO: SEC OFCR: *F -CBP OFFCR-C FIN#: REFR CDE: 02/19/2014 10:53 IOEM#: COMMENTS: VIOLS: (b)(7)(E) VERIFIED. (b)(7)(E) . SUBJECT IS RETURNING FROM 10 DAY TRIP FROM FRANCE. SUBJECT ADMITTED USC.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "WHTI CMPLNT? ADDL COMTS: (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "*G (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) *H *I Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (6) (b) (7) (C) *E - (b) (7) (E) *F - (b) (6) (b) (7) (C) *G - (b) (7) (E) *H - (b) (7) (E) *I - (b) (7) (E)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028675",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "AIR FRANCE",
+      "CBP"
+    ],
+    "locations": [
+      "NEW YORK",
+      "JFK",
+      "FRANCE",
+      "UNITED STATES"
+    ],
+    "dates": [
+      "02/19/2014",
+      "012053"
+    ],
+    "reference_numbers": [
+      "IO95",
+      "A477",
+      "AF 22",
+      "469911707",
+      "DOJ-OGR-00028675"
+    ]
+  },
+  "additional_notes": "The document contains multiple redactions, indicated by (b)(7)(E) and other codes, suggesting sensitive information has been withheld."
+}

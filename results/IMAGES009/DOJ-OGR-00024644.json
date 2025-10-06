@@ -1,0 +1,46 @@
+{
+  "document_metadata": {
+    "page_number": "001",
+    "document_number": "NYM35 530*C7",
+    "date": "08-08-2019",
+    "document_type": "POPULATION MONITORING CENSUS/ROSTER GENERALIZED RETRIEVAL",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "NYM35 530*C7 PAGE 001 POPULATION MONITORING CENSUS/ROSTER GENERALIZED RETRIEVAL 08-08-2019 06:28:35 FUNCTION: R-P SELECTION CATEGORY: QTR EQ ALL ZERO/N3R: NO ORGANIZATION: FACL EQ NYM OPTION: TYPE OF FACILITY: TOF EQ EO DJP SUPR: YES FACILITY MANAGED BY: FYB EQ AP COLUMNS 1: REG 2: IN 3: LN2 4: FN 5: ARSD 6: ARS 7: 8: JUDG: C SORT COL: COL SEQ: SEQ: 234 NP: CONDITIONS (GRP 1) OR CONDITIONS (GRP 2) OR CONDITIONS (GRP 3) OR CONDITIONS (GRP 4) CXCI NE G CXCI NE P 606 /",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "NYM35 530*C7 PAGE 001 POPULATION MONITORING CENSUS/ROSTER GENERALIZED RETRIEVAL 08-08-2019 06:28:35 FUNCTION: R-P SELECTION CATEGORY: QTR EQ ALL ZERO/N3R: NO ORGANIZATION: FACL EQ NYM OPTION: TYPE OF FACILITY: TOF EQ EO DJP SUPR: YES FACILITY MANAGED BY: FYB EQ AP COLUMNS 1: REG 2: IN 3: LN2 4: FN 5: ARSD 6: ARS 7: 8: JUDG: C SORT COL: COL SEQ: SEQ: 234 NP: CONDITIONS (GRP 1) OR CONDITIONS (GRP 2) OR CONDITIONS (GRP 3) OR CONDITIONS (GRP 4) CXCI NE G CXCI NE P",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "606 /",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024644",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ",
+      "OGR"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "08-08-2019"
+    ],
+    "reference_numbers": [
+      "NYM35 530*C7",
+      "DOJ-OGR-00024644"
+    ]
+  },
+  "additional_notes": "The document contains handwritten text and has two large green blocks covering parts of the content. The document appears to be a technical or official report with specific codes and conditions listed."
+}

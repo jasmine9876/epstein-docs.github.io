@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "2541",
+    "document_number": "DOJ-OGR-00026201",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2541\n\nThanks,\n\n(b)(6); (b)(7)(C)\nAssistant United States Attorney\nSouthern District of New York\nTel: (212) 63(b)(6); (b)(7)(C)\n\nPage 15869\nDOJ-OGR-00026201",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 2541",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Thanks,",
+      "position": "top"
+    },
+    {
+      "type": "other",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Assistant United States Attorney\nSouthern District of New York\nTel: (212) 63(b)(6); (b)(7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Page 15869\nDOJ-OGR-00026201",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "United States Attorney",
+      "Southern District of New York"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00026201",
+      "(212) 63(b)(6); (b)(7)(C)"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6); (b)(7)(C) in the name and phone number fields."
+}

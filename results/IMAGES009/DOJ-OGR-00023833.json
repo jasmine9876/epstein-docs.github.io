@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": "3402",
+    "document_number": "DOJ-OGR-00023833",
+    "date": null,
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Thank you so much, I appreciate it!\n(b)(6)\n(b)(7)(C)\nNY1 News\n(b)(6)\n(b)(7)(C)@Charter.com\n(347)491-(b)(6)\nThe contents of this e-mail message and any attachments are intended solely for the addressee(s) and may contain confidential and/or legally privileged information. If you are not the intended recipient of this message or if this message has been addressed to you in error, please immediately alert the sender by reply e-mail and then delete this message and any attachments. If you are not the intended recipient, you are notified that any use, dissemination, distribution, copying, or storage of this message or any attachment is strictly prohibited.\nPage 3402\nDOJ-OGR-00023833",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Thank you so much, I appreciate it!",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6)\n(b)(7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "NY1 News",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6)\n(b)(7)(C)@Charter.com\n(347)491-(b)(6)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "The contents of this e-mail message and any attachments are intended solely for the addressee(s) and may contain confidential and/or legally privileged information. If you are not the intended recipient of this message or if this message has been addressed to you in error, please immediately alert the sender by reply e-mail and then delete this message and any attachments. If you are not the intended recipient, you are notified that any use, dissemination, distribution, copying, or storage of this message or any attachment is strictly prohibited.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 3402\nDOJ-OGR-00023833",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "NY1 News",
+      "Charter"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00023833",
+      "(347)491-(b)(6)"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6) and (b)(7)(C), indicating potentially sensitive or personal information has been removed."
+}

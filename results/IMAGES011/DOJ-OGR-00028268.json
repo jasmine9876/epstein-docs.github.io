@@ -1,0 +1,85 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028268",
+    "date": "042814",
+    "document_type": "PQH API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 *B PQH API/HIT DATA 042814 *A *C NAME DOB ----- QUERY ----- LNE TERM/ EPSTEIN, JEFFREY 012053 DATE TIME AGN RSLT TYP REF LANE API A512-CBP-ST THOMAS, VI PRECL 061712 1522 CUS *D AIR EY12 N TECS RECORD ID : CARRIER CODE : *GA GENERAL AVIATION FLT/VES NUMBER : N909J (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) DOJ-OGR-00028268",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07 *B PQH API/HIT DATA 042814 *A *C",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB ----- QUERY ----- LNE TERM/",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY 012053 DATE TIME AGN RSLT TYP REF LANE API",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "A512-CBP-ST THOMAS, VI PRECL 061712 1522 CUS *D AIR EY12 N",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "TECS RECORD ID :",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CARRIER CODE : *GA GENERAL AVIATION",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FLT/VES NUMBER : N909J",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E) (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028268",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "CBP"
+    ],
+    "locations": [
+      "ST THOMAS, VI"
+    ],
+    "dates": [
+      "012053",
+      "061712",
+      "042814"
+    ],
+    "reference_numbers": [
+      "A512-CBP-ST",
+      "N909J",
+      "DOJ-OGR-00028268"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as (b)(6), (b)(7)(C), and (b)(7)(E)."
+}

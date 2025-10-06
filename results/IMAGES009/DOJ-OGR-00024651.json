@@ -1,0 +1,55 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024651",
+    "date": "Tuesday, July 30, 2019",
+    "document_type": "METROPOLITAN CORRECTIONAL CENTER RUNNING BOARD",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "METROPOLITAN CORRECTIONAL CENTER RUNNING BOARD \"Unit KS (11S Even) Early Visit\" DATE: Tuesday, July 30, 2019 TIME: 1:42 PM TOUR: DW NUMBER NAME FRO TO TIME BA CA EN ES GN GS HA IN KN KS RA ZA ZB TOTAL 76318-054 Epstein HA ZA 12:21",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "METROPOLITAN CORRECTIONAL CENTER RUNNING BOARD \"Unit KS (11S Even) Early Visit\"",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "DATE: Tuesday, July 30, 2019 TIME: 1:42 PM TOUR: DW",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NUMBER NAME FRO TO TIME BA CA EN ES GN GS HA IN KN KS RA ZA ZB TOTAL",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "76318-054 Epstein HA ZA 12:21",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024651",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [
+      "METROPOLITAN CORRECTIONAL CENTER"
+    ],
+    "locations": [],
+    "dates": [
+      "Tuesday, July 30, 2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024651"
+    ]
+  },
+  "additional_notes": "The document contains redacted information, indicated by green blocks. The document appears to be a running board for the Metropolitan Correctional Center, detailing a visit to Unit KS (11S Even) on July 30, 2019."
+}

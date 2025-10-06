@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024257",
+    "date": null,
+    "document_type": "Inmate Visit Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE NAME Signature Inmate Deg-H Time IN Time OUT (b)(6). (b)(7)(C) (b)(6). (b)(7)(C) 8/21/19 (b)(6). (b)(7)(C) EPSTEIN 76318-054 1100 - (b)(6). (b)(7)(C) 8/21/19 (b)(6). (b)(7)(C) EPSTEIN 76318-054 1214 - 1301 8/1/19 (b)(6). (b)(7)(C) EPSTEIN 76318-054 210 - 2104 8/1/19 (b)(6). (b)(7)(C) EPSTEIN 76318-054 210 - 2104",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE NAME Signature Inmate Deg-H Time IN Time OUT",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6). (b)(7)(C) (b)(6). (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/21/19 (b)(6). (b)(7)(C) EPSTEIN 76318-054 1100 -",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6). (b)(7)(C) 8/21/19 (b)(6). (b)(7)(C) EPSTEIN 76318-054 1214 - 1301",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/1/19 (b)(6). (b)(7)(C) EPSTEIN 76318-054 210 - 2104",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/1/19 (b)(6). (b)(7)(C) EPSTEIN 76318-054 210 - 2104",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024257",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "8/21/19",
+      "8/1/19"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024257"
+    ]
+  },
+  "additional_notes": "The document appears to be an inmate visit log with some redacted information. The log includes the date, name, signature, inmate information, and time in and out. The inmate's name is Jeffrey Epstein."
+}

@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024245",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "7/22 7/23 J. Epstein 76318-054 12:17 J. Epstein 76318-054 12:00 7/23 7/23 7/23 7/23 Epstein Epstein J. Epstein Epstein 76318 054y 2:25 5:20 76318-054 5:20 11: 7638087855 650",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "7/22 7/23",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "J. Epstein 76318-054 12:17 J. Epstein 76318-054 12:00",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/23 7/23 7/23 7/23",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein Epstein J. Epstein Epstein",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318 054y 2:25 5:20 76318-054 5:20 11: 7638087855 650",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [
+      "J. Epstein",
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/22",
+      "7/23"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "7638087855",
+      "DOJ-OGR-00024245"
+    ]
+  },
+  "additional_notes": "The document appears to be a log or record of some sort, with handwritten entries. The image has been partially redacted with green boxes, obscuring some of the content. The handwriting is mostly legible, but some entries are unclear or difficult to read."
+}

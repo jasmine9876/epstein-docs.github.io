@@ -1,0 +1,48 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028640",
+    "date": "05/12/2013",
+    "document_type": "SECONDARY INSPECTION",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07:59 04/28/2014 *A *B ENTRY: 05/12/2013 UPDATE: 05/12/2013 *C INSPECTION DTE: 05/12/2013 PORT/SITE: 5204/A523 PALM BEACH, INTERNATIONAL LAST NAME:* EPSTEIN FIRST:* JEFFREY EDWARD DOB:* 01201953 RCPT#: DOC TYPE: P #: 469911707 ISSUING CNTRY: US ID-ST: GENDER:* M RACE:* W WHITE HISPANIC:* N (Y/N) CARRIER:* *GA FLT/VES #: * N909 FLT/VES CREW:* N (Y/N) IN/OUT:* I DEPART/DESTIN:* STT EMBARK:* STT REFERRING OFFICER CODE: (b) (7) (E) REASON FOR REFERRAL: (b) (7) (E) BAG EXAM:* Y (Y/N) # BAGS X-RAYED: PRSNL SRCH:* N (Y/N) # PAX ON DEC:* 1 POS/NEG INSP:* N (P/N/U) REFERRAL TIME:* 11 : 30 COMPLETION TIME:* 11 : 35 IOEM:* *D (Y/N) IOEM#: CCD USED: *F (Y/N) CAT 1 OR 2: VIOL CDS: INCIDENT #: REMARKS: (b) (7) (E) INSP COMPLETE:* Y (Y/N) ** SECONDARY INSPECTION COMPLETE ** (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6) , (b) (7) (C) *C - (b) (7) , (E) *D - (b) (7) (E) *E - (b) (7) (E) *F - (b) (7) (E) *G - (b) (7) (E)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "SECONDARY INSPECTION",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "LAST NAME:* EPSTEIN FIRST:* JEFFREY EDWARD DOB:* 01201953 RCPT#: DOC TYPE: P #: 469911707 ISSUING CNTRY: US ID-ST: GENDER:* M RACE:* W WHITE HISPANIC:* N (Y/N) CARRIER:* *GA FLT/VES #: * N909 FLT/VES CREW:* N (Y/N) IN/OUT:* I DEPART/DESTIN:* STT EMBARK:* STT REFERRING OFFICER CODE: (b) (7) (E) REASON FOR REFERRAL: (b) (7) (E) BAG EXAM:* Y (Y/N) # BAGS X-RAYED: PRSNL SRCH:* N (Y/N) # PAX ON DEC:* 1 POS/NEG INSP:* N (P/N/U) REFERRAL TIME:* 11 : 30 COMPLETION TIME:* 11 : 35 IOEM:* *D (Y/N) IOEM#: CCD USED: *F (Y/N) CAT 1 OR 2: VIOL CDS: INCIDENT #: REMARKS: (b) (7) (E) INSP COMPLETE:* Y (Y/N) ** SECONDARY INSPECTION COMPLETE **",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b) (7) (E) *B - (b) (6) , (b) (7) (C) *C - (b) (7) , (E) *D - (b) (7) (E) *E - (b) (7) (E) *F - (b) (7) (E) *G - (b) (7) (E)",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "PALM BEACH, INTERNATIONAL"
+    ],
+    "dates": [
+      "05/12/2013",
+      "04/28/2014",
+      "01201953"
+    ],
+    "reference_numbers": [
+      "469911707",
+      "DOJ-OGR-00028640",
+      "5204/A523"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b) (7) (E)' and other similar codes, indicating sensitive or classified information has been removed."
+}

@@ -1,0 +1,91 @@
+{
+  "document_metadata": {
+    "page_number": "89",
+    "document_number": "DOJ-OGR-00022353",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Tickets Tribeca Grill Two Bunch Palm Waldorf Astoria Westbury hotel BRAZIL Cecilia Szalman Ganero, Mario Sr Riccardo ENTERTAINMENT (E) Annabels Aspinals Bibendum Clermont Club Daphne Foxtrot Oscar Harrys Bar Marks Club Nam long Nikitas Patisserie Valerie San Lorenzo Scalinis Tramp FINANCE (F) Bear Stearns Centurion Chemical Bank",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Tickets Tribeca Grill Two Bunch Palm Waldorf Astoria Westbury hotel",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "BRAZIL Cecilia Szalman Ganero, Mario Sr",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Riccardo ENTERTAINMENT (E) Annabels Aspinals Bibendum Clermont Club",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Daphne Foxtrot Oscar Harrys Bar Marks Club Nam long Nikitas Patisserie Valerie San Lorenzo Scalinis Tramp",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FINANCE (F) Bear Stearns Centurion Chemical Bank",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022353",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "89",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Cecilia Szalman",
+      "Ganero, Mario Sr",
+      "Riccardo"
+    ],
+    "organizations": [
+      "Tribeca Grill",
+      "Two Bunch Palm",
+      "Waldorf Astoria",
+      "Westbury hotel",
+      "Annabels",
+      "Aspinals",
+      "Bibendum",
+      "Clermont Club",
+      "Daphne",
+      "Foxtrot Oscar",
+      "Harrys Bar",
+      "Marks Club",
+      "Nam long",
+      "Nikitas",
+      "Patisserie Valerie",
+      "San Lorenzo",
+      "Scalinis",
+      "Tramp",
+      "Bear Stearns",
+      "Centurion",
+      "Chemical Bank"
+    ],
+    "locations": [
+      "Brazil"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022353"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 89, and the document number is DOJ-OGR-00022353."
+}

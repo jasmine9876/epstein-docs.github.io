@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "BP-A0292",
+    "date": "APR 15",
+    "document_type": "SPECIAL HOUSING UNIT RECORD",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "BP-A0292 APR 15 SPECIAL HOUSING UNIT RECORD U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS NEW YORK MCC (institution) Inmate Name: EPSTEIN, JEFFREY EDWARD Reg. No. 76318-054 Team/caseworker: Regular Unit: 5UNT MGR UNIT EXT UNIT Cell: 5 Violation or Reason: N/A Date Rec'd: N/A Time Rec'd: N/A Admittance Authorized: N/A Date Rel.: N/A Time Rel.: N/A Pertinent Information: N/A Separation Information: N/A Z04-206LAD Inmate Is In: N/A DS: N/A AD Status Special Housing Unit Cell Number: Is Inmate on Medication: N/A Medical Department Notified: N/A Date Shift Meals SH Exercise Out of cell time (Total min/hrs) Comments Medical Staff Sign OIC Signature B D S 07-29-2019 Morn Y N/A N/A N/A N/A N/A N/A N/A WBU (M7 (N/A) (H7)MCI 07-29-2019 Day 07-29-2019 Eve Y N N/A N/A N/A N/A N/A 07-30-2019 Morn Y N/A N/A N/A N/A N/A N/A See 2nd page 07-30-2019 Day Y N Ref 07-30-2019 Eve Y No 07-31-2019 Morn Y N/A N/A N/A N/A N/A N/A See 2nd page 07-31-2019 Day Y Y 05:30/07:30 O 02:00 See 2nd page 07-31-2019 Eve Y No 08-01-2019 Morn Y N/A N/A N/A N/A N/A N/A See 2nd page 08-01-2019 Day Y N Ref 08-01-2019 Eve Y No 08-02-2019 Morn Y N/A N/A N/A N/A N/A N/A See 2nd page 08-02-2019 Day Y Y No 01:00 See 2nd page 08-02-2019 Eve Y No 08-03-2019 Morn Y N/A N/A N/A N/A N/A N/A 08-03-2019 Day Y N 08-03-2019 Eve Y N No EXPLANATORY NOTES: Pertinent Info: i.e., Epileptic; Diabetic; Suicidal; Assaultive; etc. Meals/SH: Shower - Yes (Y); No (N); Refused (R) Out-of-Cell Time: (LL) Law Library, (LV) Legal Visit, (U) Unit Team, (P) Psychology, (E) Education, (H) Haircut, (C) Chapel, (R) Recreation, (X) Property Issue, (V) Visit, (M) Medical, (C) Court, (O) Other - Yes (Y) if applicable / Enter Actual Time Period Start and End (i.e., 0930 - 1030 hrs) in Out of Cell Time Block. Medical: Medical providers will sign the segregation log each shift and the record sheet each time the inmate is seen by a medical provider. At a minimum, the record must be signed at least once each day by the medical provider. Comments: i.e., Conduct, Attitude, etc. Additional comments on reverse side must include date, signature, and title. OIC Signature: OIC must sign all record sheets each shift. (OIC - Unit Officer) PDF Prescribed by P5270 This form replaces BP-292(52) dated AUG 2011. DOJ-OGR-00024611",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "BP-A0292 APR 15 SPECIAL HOUSING UNIT RECORD U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NEW YORK MCC (institution)",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "EPSTEIN, JEFFREY EDWARD",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "EXPLANATORY NOTES: Pertinent Info: i.e., Epileptic; Diabetic; Suicidal; Assaultive; etc. Meals/SH: Shower - Yes (Y); No (N); Refused (R) Out-of-Cell Time: (LL) Law Library, (LV) Legal Visit, (U) Unit Team, (P) Psychology, (E) Education, (H) Haircut, (C) Chapel, (R) Recreation, (X) Property Issue, (V) Visit, (M) Medical, (C) Court, (O) Other - Yes (Y) if applicable / Enter Actual Time Period Start and End (i.e., 0930 - 1030 hrs) in Out of Cell Time Block.",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Medical: Medical providers will sign the segregation log each shift and the record sheet each time the inmate is seen by a medical provider. At a minimum, the record must be signed at least once each day by the medical provider. Comments: i.e., Conduct, Attitude, etc. Additional comments on reverse side must include date, signature, and title. OIC Signature: OIC must sign all record sheets each shift. (OIC - Unit Officer)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "PDF Prescribed by P5270 This form replaces BP-292(52) dated AUG 2011.",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "U.S. DEPARTMENT OF JUSTICE",
+      "FEDERAL BUREAU OF PRISONS"
+    ],
+    "locations": [
+      "NEW YORK MCC"
+    ],
+    "dates": [
+      "07-29-2019",
+      "07-30-2019",
+      "07-31-2019",
+      "08-01-2019",
+      "08-02-2019",
+      "08-03-2019",
+      "APR 15",
+      "AUG 2011"
+    ],
+    "reference_numbers": [
+      "BP-A0292",
+      "76318-054",
+      "Z04-206LAD",
+      "P5270",
+      "BP-292(52)",
+      "DOJ-OGR-00024611"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned copy of a Special Housing Unit Record for Jeffrey Epstein. The document contains handwritten entries and printed information. The document is partially obscured by a green highlight on the right-hand side."
+}

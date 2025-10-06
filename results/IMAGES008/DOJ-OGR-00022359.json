@@ -1,0 +1,59 @@
+{
+  "document_metadata": {
+    "page_number": "7thL",
+    "document_number": "DOJ-OGR-00022359",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "*Redactions for personal contact information\n\nAdler, Frederick (Fred) & Cath\nAli\nAndersson, Eva\nArcher, Bill\nAslanian, Linda\nBannenberg, Jon\nBarak, Ehud\nBarrack, Tom\nBandar Prince\nDOJ-OGR-00022359",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "7thL",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "Adler, Frederick (Fred) & Cath\nAli\nAndersson, Eva\nArcher, Bill\nAslanian, Linda\nBannenberg, Jon\nBarak, Ehud\nBarrack, Tom\nBandar Prince",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022359",
+      "position": "footer"
+    },
+    {
+      "type": "stamp",
+      "content": "",
+      "position": "header"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Frederick (Fred) Adler",
+      "Cath Adler",
+      "Ali",
+      "Eva Andersson",
+      "Bill Archer",
+      "Linda Aslanian",
+      "Jon Bannenberg",
+      "Ehud Barak",
+      "Tom Barrack",
+      "Bandar Prince"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022359"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information and has stamps at the top. The page number '7thL' is handwritten in the margin."
+}

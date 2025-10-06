@@ -1,0 +1,78 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "66-1",
+    "date": "01/05/22",
+    "document_type": "Property Release Order",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:19-cr-00830-AT Document 66-1 Filed 01/05/22 Page 1 of 1\n\nUNITED STATES DISTRICT COURT\nSOUTHERN DISTRICT OF NEW YORK\n-------------------------------------------------------------x\n\nUNITED STATES OF AMERICA, :\n\nPROPERTY RELEASE\nORDER\n\n-against- :\n\n19 Cr. 830(AT)\n\nTOVA NOEL, et al, :\n\nDefendant. :\n-------------------------------------------------------------x\n\nUpon the letter application of Jason E. Foy, Esq, attorney for the defendant, TOVA NOEL, for an Order mandating the release of the firearm and all other property surrendered the New York City Police Department as a condition of bail back to the defendant,\n\nIT IS HEREBY ORDERED that the New York City Police Department shall immediately return the firearm and all other property surrendered as a condition of bail in the above referenced criminal action.\n\nDated: January __, 2022\nNew York, New York\n\nHONORABLE ANALISA TORRES\nUS District Court Judge of the SDNY\n\nDOJ-OGR-00022151",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:19-cr-00830-AT Document 66-1 Filed 01/05/22 Page 1 of 1",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "UNITED STATES OF AMERICA, : PROPERTY RELEASE ORDER -against- : 19 Cr. 830(AT) TOVA NOEL, et al, : Defendant. :",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Upon the letter application of Jason E. Foy, Esq, attorney for the defendant, TOVA NOEL, for an Order mandating the release of the firearm and all other property surrendered the New York City Police Department as a condition of bail back to the defendant,",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "IT IS HEREBY ORDERED that the New York City Police Department shall immediately return the firearm and all other property surrendered as a condition of bail in the above referenced criminal action.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Dated: January __, 2022 New York, New York",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "HONORABLE ANALISA TORRES US District Court Judge of the SDNY",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022151",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jason E. Foy",
+      "TOVA NOEL",
+      "ANALISA TORRES"
+    ],
+    "organizations": [
+      "New York City Police Department",
+      "US District Court"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "January __, 2022",
+      "01/05/22"
+    ],
+    "reference_numbers": [
+      "1:19-cr-00830-AT",
+      "Document 66-1",
+      "19 Cr. 830(AT)",
+      "DOJ-OGR-00022151"
+    ]
+  },
+  "additional_notes": "The document appears to be a court order with a missing date in the 'Dated' field."
+}

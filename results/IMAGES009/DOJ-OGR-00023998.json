@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00023998",
+    "date": null,
+    "document_type": "Annual Data Summary",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "ANNUAL DATA SUMMARY 2010 - 2019\nAverage Daily Population\nNumber of Suicides\nRate per 100,000\nNumber of Attempts (Self-Injury)\nRate per 100,000\nAct Motivated by Intent to Die\nRate per 100,000\nAct Result in Any Injuries\nRate per 100,000\nNumber of Suicide Watches\nRate per 100,000\nNumber of Risk Assessments\nRate per 100,000\nType of Institution\nUSP/ADX/SMU\nFCI\nContract Facility\nFDC/MCC/MDC\nFMC\nFPC\nFTC\nRRC/Home Confinement\nFurlough\nLocation\nSHU/SMU (rate per 100,000)\nGeneral Population\nSeclusion (FMC)\nOther\nHistory of Mental Illness\nHistory of Sex Offense\nProtective Custody Status",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "ANNUAL DATA SUMMARY 2010 - 2019",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Average Daily Population\nNumber of Suicides\nRate per 100,000\nNumber of Attempts (Self-Injury)\nRate per 100,000\nAct Motivated by Intent to Die\nRate per 100,000\nAct Result in Any Injuries\nRate per 100,000\nNumber of Suicide Watches\nRate per 100,000\nNumber of Risk Assessments\nRate per 100,000\nType of Institution\nUSP/ADX/SMU\nFCI\nContract Facility\nFDC/MCC/MDC\nFMC\nFPC\nFTC\nRRC/Home Confinement\nFurlough\nLocation\nSHU/SMU (rate per 100,000)\nGeneral Population\nSeclusion (FMC)\nOther\nHistory of Mental Illness\nHistory of Sex Offense\nProtective Custody Status",
+      "position": "main content"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00023998",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ",
+      "FCI",
+      "FDC",
+      "MCC",
+      "MDC",
+      "FMC",
+      "FPC",
+      "FTC",
+      "RRC",
+      "USP",
+      "ADX",
+      "SMU"
+    ],
+    "locations": [],
+    "dates": [
+      "2010",
+      "2011",
+      "2012",
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00023998"
+    ]
+  },
+  "additional_notes": "The document is a table summarizing annual data from 2010 to 2019. The data includes statistics on suicides, attempts, and risk assessments in various institutions. The table is well-structured and easy to read."
+}

@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024502",
+    "date": null,
+    "document_type": "Inmate Visit Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE NAME Signature Inmate Dept Time in Time out 8/2/19 (b)(6) (b)(7)(C) Epstein 76318-054 11:00 8/2/19 (b)(6) (b)(7)(C) Epstein 76318-054 3:20pm 6:35 8/4/19 (b)(6) (b)(7)(C) Epstein 76304 6:39pm 8/3/19 (b)(6) (b)(7)(C) Epstein 76305 11:40 8:32",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE NAME Signature Inmate Dept Time in Time out",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/2/19 (b)(6) (b)(7)(C) Epstein 76318-054 11:00",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/2/19 (b)(6) (b)(7)(C) Epstein 76318-054 3:20pm 6:35",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/4/19 (b)(6) (b)(7)(C) Epstein 76304 6:39pm",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/3/19 (b)(6) (b)(7)(C) Epstein 76305 11:40 8:32",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024502",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "8/2/19",
+      "8/2/19",
+      "8/4/19",
+      "8/3/19"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "76318-054",
+      "76304",
+      "76305"
+    ]
+  },
+  "additional_notes": "The document appears to be a log of visits to an inmate, with some information redacted. The inmate's name is Epstein, and the log covers dates in August 2019. Some of the time fields are not filled in."
+}

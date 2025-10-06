@@ -1,0 +1,68 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "DOJ-OGR-00027285",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Institutional History: On July 6, 2019, Mr. Epstein was arrested at Teterboro Airport in New Jersey upon his return from Paris, France. It is unknown whether he was anticipating this arrest. He was transported to MCC New York and keyed into SENTRY at 9:24 p.m. that evening. Mr. Epstein was placed in a general population housing unit for approximately 22 hours. On July 7, 2019, at approximately 7:20 p.m. he was moved to the Special Housing Unit (SHU) pending reclassification due to the significant increase in media coverage and awareness of his notoriety among the inmate population. (b)(7)(A) Also, a review of financial transactions associated with Mr. Epstein's prison account revealed one of his attorneys was depositing funds into his cellmate's (inmate Reyes) commissary account for unknown reasons. HEALTH CARE AND PERSONALITY DESCRIPTION BOP Electronic Medical Records (BEMR) indicate Mr. Epstein was diagnosed with hyperlipidemia, sleep apnea, hypertension, constipation, prediabetes, neuralgia, and neuritis unspecified. He was prescribed the following mediations: docusate sodium, milk of magnesia, omega 3, methylprednisone, and bisacodyl. Mr. Epstein was also prescribed insulin, and the prescription required him to go to the institution pharmacy for administration of this medication. However, the dates for which it was prescribed have a notation indicating \"dose not indicated,\" thus it does not appear insulin was routinely medically necessary. The rest of the medications prescribed were self-carry. He also had a continuous positive airway pressure (CPAP) machine which is typically used to treat sleep apnea. Mr. Epstein was provided with his personal CPAP machine on July 30, 2019, per BEMR. (b)(7)(A) (b)(7)(A) 3 DOJ-OGR-00027285",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Institutional History: On July 6, 2019, Mr. Epstein was arrested at Teterboro Airport in New Jersey upon his return from Paris, France. It is unknown whether he was anticipating this arrest. He was transported to MCC New York and keyed into SENTRY at 9:24 p.m. that evening. Mr. Epstein was placed in a general population housing unit for approximately 22 hours. On July 7, 2019, at approximately 7:20 p.m. he was moved to the Special Housing Unit (SHU) pending reclassification due to the significant increase in media coverage and awareness of his notoriety among the inmate population.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Also, a review of financial transactions associated with Mr. Epstein's prison account revealed one of his attorneys was depositing funds into his cellmate's (inmate Reyes) commissary account for unknown reasons.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "HEALTH CARE AND PERSONALITY DESCRIPTION",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "BOP Electronic Medical Records (BEMR) indicate Mr. Epstein was diagnosed with hyperlipidemia, sleep apnea, hypertension, constipation, prediabetes, neuralgia, and neuritis unspecified. He was prescribed the following mediations: docusate sodium, milk of magnesia, omega 3, methylprednisone, and bisacodyl. Mr. Epstein was also prescribed insulin, and the prescription required him to go to the institution pharmacy for administration of this medication. However, the dates for which it was prescribed have a notation indicating \"dose not indicated,\" thus it does not appear insulin was routinely medically necessary. The rest of the medications prescribed were self-carry. He also had a continuous positive airway pressure (CPAP) machine which is typically used to treat sleep apnea. Mr. Epstein was provided with his personal CPAP machine on July 30, 2019, per BEMR.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "3",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027285",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Mr. Epstein",
+      "Reyes"
+    ],
+    "organizations": [
+      "BOP"
+    ],
+    "locations": [
+      "Teterboro Airport",
+      "New Jersey",
+      "Paris",
+      "France",
+      "MCC New York"
+    ],
+    "dates": [
+      "July 6, 2019",
+      "July 7, 2019",
+      "July 30, 2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00027285"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted report regarding Jeffrey Epstein's detention. Several sections are redacted, indicated by (b)(7)(A)."
+}

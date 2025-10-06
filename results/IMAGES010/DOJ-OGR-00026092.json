@@ -1,0 +1,86 @@
+{
+  "document_metadata": {
+    "page_number": "2416",
+    "document_number": "DOJ-OGR-00026092",
+    "date": "07/30/2019",
+    "document_type": "Medical Record",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2416 Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Encounter Date: 07/30/2019 11:12 Sex: M Race: WHITE Reg #: 76318-054 Provider: [redacted] MD Facility: NYM Unit: Z01 New Medication Orders: Rx# Medication Order Date Prescriber Order Magnesium Hydroxide Susp conc 800 MG/5ML Indication: Constipation, unspecified 07/30/2019 11:12 10 CC Orally - Two Times a Day PRN x 90 day(s) INsulin REG - Human Indication: Prediabetes 07/30/2019 11:12 SLIDING SCALE Subcutaneously - Two Times a Day x 7 day(s) Pill Line Only Renew Medication Orders: Rx# Medication Order Date Prescriber Order 121836-NYM methylPREDNISolone 4 MG Tab (21 count Pack) Indication: Neuralgia and neuritis, unspecified 07/30/2019 11:12 Take the tablet by mouth as directed x 6 day(s) New Laboratory Requests: Details Frequency Due Date Priority Lab Tests - Short List-General-CBC w/diff Lab Tests-P-PSA, Total Lab Tests-U-Uric Acid Lab Tests - Short List-General-Comprehensive Metabolic Profile (CMP) Lab Tests-U-Urinalysis w/Reflex to Microscopic One Time 08/01/2019 00:00 Routine New Radiology Request Orders: Details Frequency End Date Due Date Priority General Radiology-Spine / Cervical-General One Time 08/29/2019 Routine Specific reason(s) for request (Complaints and findings): 66 YR OLD MALE WITH COMPLAINT OF RIGHT ARM NUMBNESS FOR 2-3 MINUTES 3 DAYS AGO. PLEASE PERFORM C SPINE SERIES Disposition: Follow-up at Sick Call as Needed Patient Education Topics: Date Initiated Format Handout/Topic Provider Outcome 07/30/2019 Counseling Access to Care [redacted] Verbalizes Understanding 07/30/2019 Counseling Plan of Care [redacted] Verbalizes Understanding Copay Required: No Telephone/Verbal Order: No Completed by [redacted] MD on 07/30/2019 14:05 Generated 07/30/2019 14:05 by [redacted] MD Bureau of Prisons - NYM Page 3 of 3",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 2416",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Encounter Date: 07/30/2019 11:12 Sex: M Race: WHITE Reg #: 76318-054 Provider: [redacted] MD Facility: NYM Unit: Z01",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "New Medication Orders: Rx# Medication Order Date Prescriber Order Magnesium Hydroxide Susp conc 800 MG/5ML Indication: Constipation, unspecified 07/30/2019 11:12 10 CC Orally - Two Times a Day PRN x 90 day(s) INsulin REG - Human Indication: Prediabetes 07/30/2019 11:12 SLIDING SCALE Subcutaneously - Two Times a Day x 7 day(s) Pill Line Only",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Renew Medication Orders: Rx# Medication Order Date Prescriber Order 121836-NYM methylPREDNISolone 4 MG Tab (21 count Pack) Indication: Neuralgia and neuritis, unspecified 07/30/2019 11:12 Take the tablet by mouth as directed x 6 day(s)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "New Laboratory Requests: Details Frequency Due Date Priority Lab Tests - Short List-General-CBC w/diff Lab Tests-P-PSA, Total Lab Tests-U-Uric Acid Lab Tests - Short List-General-Comprehensive Metabolic Profile (CMP) Lab Tests-U-Urinalysis w/Reflex to Microscopic One Time 08/01/2019 00:00 Routine",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "New Radiology Request Orders: Details Frequency End Date Due Date Priority General Radiology-Spine / Cervical-General One Time 08/29/2019 Routine Specific reason(s) for request (Complaints and findings): 66 YR OLD MALE WITH COMPLAINT OF RIGHT ARM NUMBNESS FOR 2-3 MINUTES 3 DAYS AGO. PLEASE PERFORM C SPINE SERIES",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Disposition: Follow-up at Sick Call as Needed",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Patient Education Topics: Date Initiated Format Handout/Topic Provider Outcome 07/30/2019 Counseling Access to Care [redacted] Verbalizes Understanding 07/30/2019 Counseling Plan of Care [redacted] Verbalizes Understanding",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Copay Required: No Telephone/Verbal Order: No Completed by [redacted] MD on 07/30/2019 14:05",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/30/2019 14:05 by [redacted] MD Bureau of Prisons - NYM Page 3 of 3",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/30/2019",
+      "08/01/2019",
+      "08/29/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "121836-NYM",
+      "DOJ-OGR-00026092"
+    ]
+  },
+  "additional_notes": "The document contains redacted information, likely for privacy or security reasons. The document is a medical record for Jeffrey Epstein, detailing his medication, lab tests, and other medical information while in custody."
+}

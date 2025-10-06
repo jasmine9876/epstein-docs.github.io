@@ -1,0 +1,53 @@
+{
+  "document_metadata": {
+    "page_number": "1090",
+    "document_number": "DOJ-OGR-00025312",
+    "date": "07-23-19",
+    "document_type": "Suicide Watch Observation Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 1090\nSuicide Watch Observation Log\nName of Inmate on watch: Epstein Reg #: 76318-059 Date: 07.23.19\nTime Observations: Briefly note your observations. Initial all entries. Initials\n8:37am Inmate Epstein is pajamaed (b)(6); (b)(7)(C)\n8:45am Inmate Epstein is sitting at the edge of his bunk motionless. I made sure he was breathing.\n* 8:59am Inmate Epstein says he feels his therapist won't let him drink water.\n9:00am Inmate Epstein is pajamaed, looking out the window.\n9:10am (b)(6); (b)(7)(C) I noticed Inmate Epstein is still speaking with L.S.O.\n9:15am (b)(6); (b)(7)(C)\n9:30am Inmate Epstein Inmate Epstein is sitting on the edge of his bed.\n9:29am Inmate Epstein asked for the time.\n9:45am Inmate Epstein is sitting on the edge of his bed.\n10:00 Inmate Epstein asked to speak with his attorney. Inmate Epstein is using the bathroom.\n11:15am Inmate Epstein is speaking with the Officer about his attorney.\n11:16am Inmate Epstein mentioned to be said his attorney is not here yet (b)(6); (b)(7)(C)\n* 10:30am Inmate Epstein is drinking water\nNote to all observers: Legibly print and sign your name at the beginning of your shift.\n2\nDOJ-OGR-00025312",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Suicide Watch Observation Log",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Name of Inmate on watch: Reg #: 76318-059 Date: 07.23.19",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "8:37am Inmate Epstein is pajamaed (b)(6); (b)(7)(C) 8:45am Inmate Epstein is sitting at the edge of his bunk motionless. I made sure he was breathing. * 8:59am Inmate Epstein says he feels his therapist won't let him drink water. 9:00am Inmate Epstein is pajamaed, looking out the window. 9:10am (b)(6); (b)(7)(C) I noticed Inmate Epstein is still speaking with L.S.O. 9:15am (b)(6); (b)(7)(C) 9:30am Inmate Epstein Inmate Epstein is sitting on the edge of his bed. 9:29am Inmate Epstein asked for the time. 9:45am Inmate Epstein is sitting on the edge of his bed. 10:00 Inmate Epstein asked to speak with his attorney. Inmate Epstein is using the bathroom. 11:15am Inmate Epstein is speaking with the Officer about his attorney. 11:16am Inmate Epstein mentioned to be said his attorney is not here yet (b)(6); (b)(7)(C) * 10:30am Inmate Epstein is drinking water",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Note to all observers: Legibly print and sign your name at the beginning of your shift.",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "07-23-19"
+    ],
+    "reference_numbers": [
+      "76318-059",
+      "DOJ-OGR-00025312"
+    ]
+  },
+  "additional_notes": "The document is a Suicide Watch Observation Log for inmate Epstein. The log contains handwritten observations at various times on July 23, 2019. Some of the entries are initialed with redacted information."
+}

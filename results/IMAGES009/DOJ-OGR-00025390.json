@@ -1,0 +1,139 @@
+{
+  "document_metadata": {
+    "page_number": "1185",
+    "document_number": "DOJ-OGR-00025390",
+    "date": null,
+    "document_type": "Medical Form",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 1185\n\nDiscussion with patient or patient's family regarding prognosis ___Yes ___No NA\nDNR order ___Yes ___No Date\nAdvance Directive / Living Will ___Yes ___No NA\n\nLOCAL COMMUNITY HOSPITALIZATIONS ONLY:\nType of admission ___Routine Emergent ___Other\nMethod of transportation appropriate to patient condition Yes ___No ___NA\nSeverity of condition at time of admission to local hospital ___Critical ___Stable ___Unknown\nPrognosis on admission to local hospital ___Poor ___Good ___Unknown\nWere diagnostic procedures appropriate and timely Yes ___No\nWas treatment appropriate to diagnosis and instituted timely Yes ___No\nPrognosis with treatment ___Poor ___Good ___Unknown\nAny complications adversely affecting outcome: (describe briefly) Asphyxiation Secondary to Hanging. Yes ___No\nWas treatment appropriate to complication Yes ___No\nSurgical Procedures (list) ___Yes No\n\nAppropriate pre-operative evaluation completed, including lab, physical exam, updated history ___Yes No\nComplications related to surgical procedures Describe ___Yes No\n\nPrognosis following surgical procedure ___Poor ___Good Unknown\nPatient compliant with treatment / medications ___Yes ___No NA\nDiscussion with patient or patient's family regarding patient prognosis ___Yes ___No NA\n\nPDF Prescribed by P6013 4\nDOJ-OGR-00025390",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Discussion with patient or patient's family regarding prognosis",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "NA",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "DNR order",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "No",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Advance Directive / Living Will",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "NA",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "LOCAL COMMUNITY HOSPITALIZATIONS ONLY:",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Emergent",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Yes",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Critical",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Poor",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Yes",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Yes",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Poor",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Asphyxiation Secondary to Hanging.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Yes",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Yes",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "No",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "No",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "No",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Unknown",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "NA",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "NA",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "P6013",
+      "DOJ-OGR-00025390"
+    ]
+  },
+  "additional_notes": "The document appears to be a medical form related to a patient's hospitalization and treatment. The form contains various sections with checkboxes and handwritten notes. The patient's condition is described as critical, with a poor prognosis. The cause of the condition is listed as asphyxiation secondary to hanging."
+}

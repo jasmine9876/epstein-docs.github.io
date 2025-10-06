@@ -1,0 +1,102 @@
+{
+  "document_metadata": {
+    "page_number": "81",
+    "document_number": "DOJ-OGR-00022253",
+    "date": null,
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... AIRPLANE GLIDER HY-LIF\n15 G-11598 N909JC ISP LCQ PBI 1472 JG,GM,AP ALXFD WALKOUT, RGR 1/1 2 6 \n15 \" \" \" LCQ PBI 473 JG,GM AP,AW,BK RGR 1/1  9\n16 \" \" \" PBI MLA 1474 JG,GM,AP,AW,BK,CHgR3 LYNDA RGR 1/1  7\n16 \" \" \" MFA TIST 1478 JG,GM RF,AV; BK,CL, ED TUTTLE RGR 1/1 2 2\n19 \" \" \" TIST LGF 1479 JG,GM,AP,AW,BK,CL, EJ TUTTLE RGR 1/1 3 8\n22 \" \" \" LGA PBI 1480 JG,GM ET JOE PAGANDS VA CELLING ROD RODRIGUEZ MYRA DURAN A MANIN 2 4\n23 C-421B N908GM PBI OPF  JG RODRIGUEZ - SOL,TWINS 1/1  6\n23 \" \" \" OPF FLL  KIRBY RODRIGUEZ - SOL,TWINS 1/1  4\n23 \" \" \" FLL PBI  JONATHAN PAMD - ILS -PEI  6\n24 \" \" \" PBI ISM  JONATHAN PAMD - IFR CROSS COUNTRY TOR CROSSWIND SELECTIONS 1/1 1 0\n24 \" \" \" ISM PBI  JONATHAN PAMD - IFR CROS COUNTRY 1 1\n27 G-11598 N909JC PBI TGR 1478 JG,GT,VR, JF EMERG ,PAM RGR 2 5\n29 \" \" \" TGR SAF 1479 JG,GM APMR BK, MARVE VMSMSY MANVE 4 11\n31 \" \" \" SAF PBI 1480 JG,GM AP,MR MANVE 1/1 3 3\nAPR1 \" \" \" PBI LCQ 1481 JG,GM,AP 1/1 1 0\n1 \" \" \" LCQ TGR 1482 JG,GM,AP  2 1\n3 \" \" \" TGR GAI 1483 JG, HEATHER MAND, LYOPA 1/1  9\n3 \" \" \" GAI TGR 1484 JG, HEATHER MANV, LYOPA  8\n4 \" \" \" TGR BGR 1485 JG, RHONDA 1/1  8\nI certify that the statements made by me on this form are true.\nPilot's Signature David Relga\nPage Total 15 12 319\nAmount Forward 6369 81334 3 3 112 6\nTotal to Date 63842 81653 3 3 112 6",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... AIRPLANE GLIDER HY-LIF",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "15 G-11598 N909JC ISP LCQ PBI 1472 JG,GM,AP ALXFD WALKOUT, RGR 1/1 2 6",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true.\nPilot's Signature David Relga",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "15 12 319 6369 81334 3 3 112 6 63842 81653 3 3 112 6",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Relga",
+      "Joe Pagands",
+      "Myra Duran",
+      "Rodriguez",
+      "Jonathan PAMD",
+      "Heather",
+      "Lyopa",
+      "Rhonda"
+    ],
+    "organizations": [],
+    "locations": [
+      "ISP",
+      "LCQ",
+      "PBI",
+      "MLA",
+      "MFA",
+      "TIST",
+      "LGF",
+      "LGA",
+      "OPF",
+      "FLL",
+      "ISM",
+      "TGR",
+      "SAF",
+      "GAI",
+      "BGR"
+    ],
+    "dates": [
+      "15",
+      "16",
+      "19",
+      "22",
+      "23",
+      "24",
+      "27",
+      "29",
+      "31",
+      "APR1",
+      "1",
+      "3",
+      "4"
+    ],
+    "reference_numbers": [
+      "G-11598",
+      "N909JC",
+      "C-421B",
+      "N908GM",
+      "1472",
+      "473",
+      "1474",
+      "1478",
+      "1479",
+      "1480",
+      "1481",
+      "1482",
+      "1483",
+      "1484",
+      "1485",
+      "DOJ-OGR-00022253"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The log includes details such as date, aircraft make and model, identification mark, points of departure and arrival, miles flown, flight number, remarks, procedures, maneuvers, endorsements, number of landings, and aircraft category. The pilot's signature is present at the bottom of the page."
+}

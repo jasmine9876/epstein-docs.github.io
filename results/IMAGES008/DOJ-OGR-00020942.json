@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": "116",
+    "document_number": "58",
+    "date": "02/28/2023",
+    "document_type": "court document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 22-1426, Document 58 02/28/2023, 3475901, Page116 of 221\nA-316\nCase 1:20-cr-00330-AJN Document 638 Filed 03/09/22 Page 28 of 29\nJuror ID: 50\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n-30-\nDOJ-OGR-00020942",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 22-1426, Document 58 02/28/2023, 3475901, Page116 of 221",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "A-316",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-AJN Document 638 Filed 03/09/22 Page 28 of 29",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "50",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "-30-",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00020942",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "02/28/2023",
+      "03/09/22"
+    ],
+    "reference_numbers": [
+      "22-1426",
+      "1:20-cr-00330-AJN",
+      "Document 58",
+      "Document 638",
+      "3475901",
+      "A-316",
+      "DOJ-OGR-00020942"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a juror ID number filled in by hand. The document is mostly blank with lines for notes or text."
+}

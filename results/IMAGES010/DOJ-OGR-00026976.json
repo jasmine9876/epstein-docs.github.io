@@ -1,0 +1,55 @@
+{
+  "document_metadata": {
+    "page_number": "3387",
+    "document_number": "DOJ-OGR-00026976",
+    "date": "08/19/2019",
+    "document_type": "Log Entries By Event Date",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 3387 Date: 08/19/2019 Time: 10:15 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count - Summary Text: Completed. 8/9/2019 4:03 PM NYM Housing Units Housing Units, General Population EN 8/9/2019 4:00 PM Evening (b)(6); (b)(7)(C) Begin Shift - Summary Text: Completed. 8/9/2019 4:11 PM NYM Housing Units Housing Units, General Population BA 8/9/2019 4:00 PM Evening (b)(6); (b)(7)(C) Begin Shift 8/9/2019 4:04 PM NYM Housing Units Housing Units, General Population EN 8/9/2019 4:01 PM Evening Fire Alarm Panel Check - Summary Text: Completed. n/a 8/9/2019 4:04 PM NYM Housing Units Housing Units, General Population EN 8/9/2019 4:01 PM Evening Inventory Sheet Verified - Summary Text: Completed. 8/9/2019 4:04 PM NYM Housing Units Housing Units, General Population EN 8/9/2019 4:01 PM Evening Key Check - Summary Text: Ring Number Count (b)(7)(F) 8/9/2019 4:04 PM NYM Housing Units Housing Units, General Population EN 8/9/2019 4:01 PM Evening Key Check - Summary Text: Ring Number Count (b)(7)(F) 8/9/2019 4:04 PM NYM Housing Units Housing Units, General Population EN 8/9/2019 4:01 PM Evening OC Spray Check - Summary Text: Completed. Serviceable. 8/9/2019 4:04 PM NYM Housing Units Housing Units, General Population EN 8/9/2019 4:01 PM Evening Radio Check - Summary Text: Radio Number: (b)(7)(F) 8/9/2019 4:14 PM NYM Housing Units Housing Units, General Population EN 8/9/2019 4:10 PM Evening Fire and Security Check - Summary Text: Completed. 8/9/2019 4:11 PM NYM Housing Units Housing Units, General Population BA 8/9/2019 4:11 PM Evening Fire and Security Check User ID: (b)(6); (b)(7)(C) Page 915 of 1155",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3387 Date: 08/19/2019 Time: 10:15 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "8/9/2019 4:03 PM NYM Housing Units Housing Units, General Population EN 8/9/2019 4:00 PM Evening (b)(6); (b)(7)(C) Begin Shift",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "User ID: (b)(6); (b)(7)(C) Page 915 of 1155",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026976",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [
+      "Housing Units"
+    ],
+    "dates": [
+      "08/19/2019",
+      "8/9/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026976"
+    ]
+  },
+  "additional_notes": "The document appears to be a log entry from the Federal Bureau of Prisons, detailing various events and checks performed on August 9, 2019. Some information is redacted, indicated by (b)(6); (b)(7)(C) and (b)(7)(F)."
+}

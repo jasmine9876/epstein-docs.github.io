@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "3077",
+    "document_number": "DOJ-OGR-00026717",
+    "date": null,
+    "document_type": "Official Count Slip",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 3077 Metropolitan Correctional Center Official Count Slip Unit: G55 Date: 8.9.19 Count: Time: 12 am Print Name: Signature: Print Name: Signature: Metropolitan Correctional Center Official Count Slip Unit: H42 Date: 12.9.19 Count: Time: 8.10.19 Print Name: (b)(6); (b)(7)(C) Signature: Print Name: Signature: DOJ-OGR-00026717",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "G55 8.9.19 12 am",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "H42 12.9.19 8.10.19",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Unit: Date: Count: Time: Print Name: Signature: Print Name: Signature:",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026717",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [],
+    "dates": [
+      "8.9.19",
+      "12.9.19",
+      "8.10.19"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026717"
+    ]
+  },
+  "additional_notes": "The document contains two Official Count Slips from the Metropolitan Correctional Center with handwritten entries. Some information is redacted with (b)(6); (b)(7)(C)."
+}

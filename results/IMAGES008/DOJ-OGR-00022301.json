@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": "16",
+    "document_number": "DOJ-OGR-00022301",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Chatwal, Vikram Cicogna, Gianfranco Cipriani Guiseppi Clive, Lucy Chenevix-Trench, John & Lucy Cicogna, Marina Cicognani, Pietro & Alejandra Cisneros, Gustavo and Patty Claverino, Amadeo Coben, Larry Cicogna Gianluca Claverino, Isabel Cleese John Alice Fay Cochrane, Ms Mandy Cicogna, Gecondda Clerach, Linska Clempson, Graham & Emma Cohen Dalit",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Chatwal, Vikram\nCicogna, Gianfranco\nCipriani Guiseppi\nClive, Lucy\nChenevix-Trench, John & Lucy\nCicogna, Marina\nCicognani, Pietro & Alejandra\nCisneros, Gustavo and Patty\nClaverino, Amadeo\nCoben, Larry\nCicogna Gianluca\nClaverino, Isabel\nCleese John Alice Fay\nCochrane, Ms Mandy\nCicogna, Gecondda\nClerach, Linska\nClempson, Graham & Emma\nCohen Dalit",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "16",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022301",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Vikram Chatwal",
+      "Gianfranco Cicogna",
+      "Guiseppi Cipriani",
+      "Lucy Clive",
+      "John Chenevix-Trench",
+      "Lucy Chenevix-Trench",
+      "Marina Cicogna",
+      "Pietro Cicognani",
+      "Alejandra Cicognani",
+      "Gustavo Cisneros",
+      "Patty Cisneros",
+      "Amadeo Claverino",
+      "Larry Coben",
+      "Gianluca Cicogna",
+      "Isabel Claverino",
+      "John Alice Fay Cleese",
+      "Ms Mandy Cochrane",
+      "Gecondda Cicogna",
+      "Linska Clerach",
+      "Graham Clempson",
+      "Emma Clempson",
+      "Dalit Cohen"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022301"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 16, and the document number is DOJ-OGR-00022301."
+}

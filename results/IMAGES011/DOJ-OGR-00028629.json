@@ -1,0 +1,69 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "IO25",
+    "date": "04/28/2014",
+    "document_type": "Inspection Remarks",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07:58 IO25 INSPECTION REMARKS 04/28/2014 *B *A *C PAGE 1 +--------------------------------------- I N S P E C T I O N R E M A R K S ---------------------------------------+ (b)(7)(E) (b)(7)(E) . PAX WAS IN FRANCE FOR 5 DAYS FOR VACATION. PAX WORKS AS A BANKER. HE RESIDES IN THE VIRGIN ISLANDS. +-------------------------------------------------------------------------------------------+ (b)(7)(E) (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) DOJ-OGR-00028629",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07:58 IO25 INSPECTION REMARKS 04/28/2014",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "*B *A *C PAGE 1",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "+--------------------------------------- I N S P E C T I O N R E M A R K S ---------------------------------------+",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E) (b)(7)(E) . PAX WAS IN FRANCE FOR 5 DAYS FOR VACATION. PAX WORKS AS A BANKER. HE RESIDES IN THE VIRGIN ISLANDS.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "+-------------------------------------------------------------------------------------------+",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E) (b)(7)(E) (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028629",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [
+      "France",
+      "Virgin Islands"
+    ],
+    "dates": [
+      "04/28/2014"
+    ],
+    "reference_numbers": [
+      "IO25",
+      "DOJ-OGR-00028629"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(7)(E), (b)(6), and (b)(7)(C). The document appears to be a scanned or photocopied version of an original inspection remarks document."
+}

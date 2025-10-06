@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "2121",
+    "document_number": "DOJ-OGR-00024192",
+    "date": "8/12/2019",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "New York, New York 10007 p: (646)836-2188 f: (646)836-7665 >>> <BermanNYSDChambers@nysd.uscourts.gov> 8/12/2019 12:47 PM >>> Please see attached letter from Judge Richard M. Berman. (See attached file: Aug 12 letter.pdf)(See attached file: 2019_08_12_14_31_06.pdf) <2019_08_12_14_31_06.pdf> Page 2121 DOJ-OGR-00024192",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "New York, New York 10007 p: (646)836-2188 f: (646)836-7665",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": ">>> <BermanNYSDChambers@nysd.uscourts.gov> 8/12/2019 12:47 PM >>>",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Please see attached letter from Judge Richard M. Berman.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "(See attached file: Aug 12 letter.pdf)(See attached file: 2019_08_12_14_31_06.pdf)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "<2019_08_12_14_31_06.pdf>",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Page 2121",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024192",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Richard M. Berman"
+    ],
+    "organizations": [
+      "NYSD Chambers",
+      "US Courts",
+      "DOJ"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "8/12/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00024192",
+      "(646)836-2188",
+      "(646)836-7665"
+    ]
+  },
+  "additional_notes": "The document appears to be an email with attachments, likely related to a court case or proceeding. The email is from Judge Richard M. Berman's chambers."
+}

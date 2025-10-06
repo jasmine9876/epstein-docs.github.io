@@ -1,0 +1,53 @@
+{
+  "document_metadata": {
+    "page_number": "533",
+    "document_number": "DOJ-OGR-00024549",
+    "date": "08/19/2019",
+    "document_type": "Log Entries By Event Date",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Date: 08/19/2019 Time: 10:15 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count 7/22/2019 1:01 AM NYM Housing Units Housing Units, General Population ES 7/22/2019 1:01 AM Morning b6(01 b7(uc) Search (Areas) - Summary Text: Common Area: GYM AREA. 7/22/2019 1:01 AM NYM Housing Units Housing Units, General Population ES 7/22/2019 1:01 AM Morning Search (Areas) - Summary Text: Common Area: KITCHEN AREA. 7/22/2019 1:01 AM NYM Housing Units Housing Units, General Population ES 7/22/2019 1:01 AM Morning Search (Areas) - Summary Text: Common Area: LAUNDRY AREA. 7/22/2019 1:01 AM NYM Housing Units Housing Units, General Population ES 7/22/2019 1:01 AM Morning Search (Areas) - Summary Text: Common Area: MPA AREA. 7/22/2019 1:01 AM NYM Housing Units Housing Units, General Population ES 7/22/2019 1:01 AM Morning Search (Areas) - Summary Text: Common Area: SHOWER AREA. 7/22/2019 1:01 AM NYM Housing Units Housing Units, General Population ES 7/22/2019 1:01 AM Morning Search (Cells) - Summary Text: Common Area: VISIT STRIP ROOM. 7/22/2019 1:01 AM NYM Housing Units Housing Units, General Population ES 7/22/2019 1:01 AM Morning Sensitive Information - Summary Text: Cell: 563. 7/22/2019 1:01 AM NYM Housing Units Housing Units, General Population ES 7/22/2019 3:45 AM Morning b6(01 b7(c) Official Count - Summary Text: Sensitive Information. 7/22/2019 4:40 AM NYM Housing Units Housing Units, General Population ES 7/22/2019 4:39 AM Morning b6(01 b7(c) Daily Activity - Summary Text: Clear Count. 7/22/2019 4:40 AM NYM Housing Units Housing Units, General ES 7/22/2019 4:40 AM Morning Watch Call - Summary Text: Inmate b6(01 b7(c) town driver went out to work. User ID: b6(01 b7(c) Page 533 of 1155 DOJ-OGR-00024549",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date: 08/19/2019 Time: 10:15 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "7/22/2019 1:01 AM NYM Housing Units Housing Units, General Population ES 7/22/2019 1:01 AM Morning b6(01 b7(uc) Search (Areas) - Summary Text: Common Area: GYM AREA.",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "User ID: b6(01 b7(c)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 533 of 1155 DOJ-OGR-00024549",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [],
+    "dates": [
+      "08/19/2019",
+      "7/22/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00024549"
+    ]
+  },
+  "additional_notes": "The document appears to be a log entry report from the Federal Bureau of Prisons, detailing various events and activities that occurred on July 22, 2019. The report includes information such as the date, time, location, and type of event, as well as the user who entered the information. Some of the text is redacted, indicating sensitive information."
+}

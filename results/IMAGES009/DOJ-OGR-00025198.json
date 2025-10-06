@@ -1,0 +1,67 @@
+{
+  "document_metadata": {
+    "page_number": "933",
+    "document_number": "DOJ-OGR-00025198",
+    "date": "August 11, 2019",
+    "document_type": "log or report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 933\nSunday, August 11, 2019\n12:15 am Computer Services Manager departs the institution.\n10:40 am OIG [redacted] arrives at institution.\n11:15 am OIG [redacted] departs institution with two computers FPS 021407270 and FPS 0214207268.\n2:00 pm OIG [redacted] departs the institution.\nDOJ-OGR-00025198",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 933",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Sunday, August 11, 2019",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "12:15 am Computer Services Manager departs the institution.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "10:40 am OIG [redacted] arrives at institution.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "11:15 am OIG [redacted] departs institution with two computers FPS 021407270 and FPS 0214207268.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "2:00 pm OIG [redacted] departs the institution.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025198",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "OIG",
+      "FPS"
+    ],
+    "locations": [
+      "institution"
+    ],
+    "dates": [
+      "August 11, 2019"
+    ],
+    "reference_numbers": [
+      "FPS 021407270",
+      "FPS 0214207268",
+      "DOJ-OGR-00025198"
+    ]
+  },
+  "additional_notes": "The document appears to be a log or report of events at an institution on August 11, 2019. Some names or identifiers have been redacted."
+}

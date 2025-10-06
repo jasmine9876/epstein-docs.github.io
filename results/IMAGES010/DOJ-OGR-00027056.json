@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "3741",
+    "document_number": "ZB",
+    "date": "7/23/19",
+    "document_type": "30 MINUTE CHECK SHEET",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "MCC NEW YORK SPECIAL HOUSING UNIT 30 MINUTE CHECK SHEET ZB DATE: 7/23/19 ... (complete text transcription in reading order)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "MCC NEW YORK SPECIAL HOUSING UNIT 30 MINUTE CHECK SHEET",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "ZB 7/23/19",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "TIME FRAME TIME START TIME END SIGNATURE TIME FRAME TIME START TIME END SIGNATURE TIME FRAME TIME START TIME END SIGNATURE",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(various times and signatures)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "A staff member must observe all inmates confined in a continuous locked down status... All observations must be documented.",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "REVIEWED BY MORNING WATCH LIEUTENANT CAPTAIN",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "MCC NEW YORK"
+    ],
+    "locations": [
+      "NEW YORK"
+    ],
+    "dates": [
+      "7/23/19"
+    ],
+    "reference_numbers": [
+      "ZB",
+      "DOJ-OGR-00027056"
+    ]
+  },
+  "additional_notes": "The document contains handwritten notes and stamps. The text is mostly legible, but some handwritten entries are difficult to read."
+}

@@ -1,0 +1,67 @@
+{
+  "document_metadata": {
+    "page_number": "123",
+    "document_number": "DOJ-OGR-00023512",
+    "date": "2019/08/10",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Fwd: Epstein\nFrom [b(6), (b)(7)(C)]\nTo Lee Plourde\nDate 2019/08/10 10:56\nSubject: Fwd: Epstein\nAttachments: TEXT.htm\nSent from my Verizon, Samsung Galaxy smartphone\n------- Original message -------\nFrom: [b(6), (b)(7)(C) @wsj.com>\nDate: 8/10/19 10:54 AM (GMT-05:00)\nTo: [b(6), (b)(7)(C) @bop.gov>\nSubject: Epstein\n>>> [b(6), (b)(7)(C)] 08/10/2019 10:54 >>>\nHi [b(6)],\nI'm a legal reporter with the Wall Street Journal. Like everyone else, we're trying to find out more about what happened to Jeffrey Epstein overnight. Happy to talk on background or off the record. My phone number is 484-354-[b(6)].\nBest,\n[b(6)]\n--\n[b(6), (b)(7)(C)]\nREPORTER\n[image: The Wall Street Journal] <http://www.wsj.com/>\nM: 484-354-[b(6)] O: 212-416-[b(6)]\nE:[b(6), (b)(7)(C)] @wsj.com T: [@b(6), (b)(7)(C)] @wsj.com>\nA: 1211 Avenue of the Americas, New York, NY 10036\n[image: Dow Jones] <http://www.dowjones.com/>\nPage 123\nDOJ-OGR-00023512",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Fwd: Epstein\nFrom [b(6), (b)(7)(C)]\nTo Lee Plourde\nDate 2019/08/10 10:56\nSubject: Fwd: Epstein\nAttachments: TEXT.htm",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Sent from my Verizon, Samsung Galaxy smartphone",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "------- Original message -------\nFrom: [b(6), (b)(7)(C) @wsj.com>\nDate: 8/10/19 10:54 AM (GMT-05:00)\nTo: [b(6), (b)(7)(C) @bop.gov>\nSubject: Epstein",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": ">>> [b(6), (b)(7)(C)] 08/10/2019 10:54 >>>\nHi [b(6)],\nI'm a legal reporter with the Wall Street Journal. Like everyone else, we're trying to find out more about what happened to Jeffrey Epstein overnight. Happy to talk on background or off the record. My phone number is 484-354-[b(6)].\nBest,\n[b(6)]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "--\n[b(6), (b)(7)(C)]\nREPORTER\n[image: The Wall Street Journal] <http://www.wsj.com/>\nM: 484-354-[b(6)] O: 212-416-[b(6)]\nE:[b(6), (b)(7)(C)] @wsj.com T: [@b(6), (b)(7)(C)] @wsj.com>\nA: 1211 Avenue of the Americas, New York, NY 10036\n[image: Dow Jones] <http://www.dowjones.com/>",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 123\nDOJ-OGR-00023512",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Lee Plourde"
+    ],
+    "organizations": [
+      "Wall Street Journal",
+      "Dow Jones",
+      "Verizon"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "2019/08/10",
+      "8/10/19"
+    ],
+    "reference_numbers": [
+      "484-354-[b(6)]",
+      "212-416-[b(6)]",
+      "DOJ-OGR-00023512"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted email chain discussing Jeffrey Epstein. Multiple email addresses, phone numbers, and names have been redacted."
+}

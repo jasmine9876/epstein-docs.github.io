@@ -1,0 +1,81 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028667",
+    "date": "03/28/2012",
+    "document_type": "IO95 Inspection Results",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:08:01 IO95 Inspection Results 042814 A477 NEW YORK, JFK A AF 6 AIR FRANCE DOCTYP*: P #*: 469911707 CTRY*: US UNITED STATES ST: M/F: M DNAME (LAST) : EPSTEIN FRST: JEFFREY DOB: 012053 RFRD BY: -CBP OFFCR-C DTE: 03282012 TME: 1619 REASON: (b)(7)(E) CCD:*E SNAME (LAST) : FRST: DOB: NATIONALITY: US UNITED STATES DISP: USC U.S. CITIZEN RCPT#: AUDATE: CHARGE (CODED) : DFRD TO: FIN#: SEC OFFCR: -CBP OFFCR-C 03/28/2012 16:24 IOEM#: REFR CDE: COMMENTS: VIOLS: ADM USC. (b)(7)(E) .REFERRED TO CBP WHTI CMPLNT? ADDL COMTS: (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6),(b)(7)(C) *C - (b)(7)(E) *D - (b)(6)(b)(7)(C) *E - (b)(7)(E) *F - (b)(6)(b)(7)(C) *G - (b)(7)(E) *H - (b)(7)(E) *I - (b)(7)(E)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:08:01 IO95 Inspection Results 042814",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "A477 NEW YORK, JFK A FLT/VES#: AF 6 AIR FRANCE DOCTYP*: P #*: 469911707 CTRY*: US UNITED STATES ST: M/F: M",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "DNAME (LAST) : EPSTEIN FRST: JEFFREY DOB: 012053 RFRD BY: -CBP OFFCR-C DTE: 03282012 TME: 1619 REASON: (b)(7)(E) CCD:*E",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "SNAME (LAST) : FRST: DOB: NATIONALITY: US UNITED STATES DISP: USC U.S. CITIZEN RCPT#: AUDATE:",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "CHARGE (CODED) : DFRD TO: FIN#: SEC OFFCR: -CBP OFFCR-C 03/28/2012 16:24 IOEM#: REFR CDE: COMMENTS: VIOLS:",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "ADM USC. (b)(7)(E) .REFERRED TO CBP",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "WHTI CMPLNT? ADDL COMTS: (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6),(b)(7)(C) *C - (b)(7)(E) *D - (b)(6)(b)(7)(C) *E - (b)(7)(E) *F - (b)(6)(b)(7)(C) *G - (b)(7)(E) *H - (b)(7)(E) *I - (b)(7)(E)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028667",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "CBP"
+    ],
+    "locations": [
+      "NEW YORK",
+      "JFK",
+      "FRANCE",
+      "UNITED STATES"
+    ],
+    "dates": [
+      "03/28/2012",
+      "012053"
+    ],
+    "reference_numbers": [
+      "469911707",
+      "DOJ-OGR-00028667"
+    ]
+  },
+  "additional_notes": "The document contains multiple redactions, indicated by (b)(7)(E) and other codes, suggesting sensitive information has been withheld."
+}

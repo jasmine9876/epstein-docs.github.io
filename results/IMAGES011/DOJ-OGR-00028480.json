@@ -1,0 +1,82 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "042814",
+    "date": "020611",
+    "document_type": "PQH API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 *B PQH API/HIT DATA 042814 *A *C NAME EPSTEIN, JEFFREY E ATATURK DOB 012053 QUERY DATE TIME AGN RSLT 020611 0000 *D LNE TYP REF API TERM/ LANE API 01 R API DATA ---- INDICATOR : R CARRIER CODE : *GA FLT/VES NUMBER : N909JE ARRIVAL LOCATION : IST DEPARTURE LOCATION : XXX TRANSMITTED BY : APGA888J INBOUND/OUTBOUND : INBOUND REPORTED GENERAL AVIATION ATATURK UNKNOWN AIRPORT (USED ON GENERAL AVIATION (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) DOJ-OGR-00028480",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "PQH API/HIT DATA",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "042814",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "NAME EPSTEIN, JEFFREY E ATATURK",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DOB 012053 QUERY DATE TIME AGN RSLT 020611 0000 *D LNE TYP REF API TERM/ LANE API 01 R",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "API DATA ---- INDICATOR : R CARRIER CODE : *GA FLT/VES NUMBER : N909JE ARRIVAL LOCATION : IST DEPARTURE LOCATION : XXX TRANSMITTED BY : APGA888J INBOUND/OUTBOUND : INBOUND",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "REPORTED GENERAL AVIATION ATATURK UNKNOWN AIRPORT (USED ON GENERAL AVIATION",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028480",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY E EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "ATATURK",
+      "IST"
+    ],
+    "dates": [
+      "020611"
+    ],
+    "reference_numbers": [
+      "N909JE",
+      "APGA888J",
+      "DOJ-OGR-00028480"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b)(7)(E)' and '(b)(6), (b)(7)(C)'. The document appears to be related to travel or aviation data."
+}

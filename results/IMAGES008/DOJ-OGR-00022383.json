@@ -1,0 +1,48 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "DOJ-OGR-00022383",
+    "date": null,
+    "document_type": "Visitors Message",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "*Redacted to protect potential victim information Visitors Messego (P.B) DOJ-OGR-00022383 2",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redacted to protect potential victim information",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Visitors Messego (P.B)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022383",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "2",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Messego",
+      "P.B"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022383"
+    ]
+  },
+  "additional_notes": "The document contains redactions to protect potential victim information. The main content is obscured by black rectangles, suggesting sensitive information has been removed."
+}

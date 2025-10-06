@@ -1,0 +1,130 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024032",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "(b)(6), (b)(7)(C) (b)(6), (b)(7)(C) Alex G. Tali Sanen 7/31/2015-5:30 6135 725 Callender me Dryken 2/8/16 11:05 721st Swella Epstein 2/28/16-2nd 6:8 2Q8 (b)(6), (b)(7)(C) 726 G. Tali Mr. J. Epstein 7/03/2018 08 12130 (b)(6), (b)(7)(C) DOJ-OGR-00024032",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Alex G. Tali",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Sanen",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/31/2015-5:30 6135",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "725 Callender",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "me Dryken",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "2/8/16 11:05",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "721st Swella",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "2/28/16-2nd 6:8 2Q8",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "726 G. Tali",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "Mr.",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "J. Epstein",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/03/2018 08 12130",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024032",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Alex G. Tali",
+      "Sanen",
+      "Callender",
+      "Dryken",
+      "Swella",
+      "Epstein",
+      "G. Tali",
+      "J. Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/31/2015",
+      "2/8/16",
+      "2/28/16",
+      "7/03/2018"
+    ],
+    "reference_numbers": [
+      "725",
+      "721st",
+      "726",
+      "DOJ-OGR-00024032"
+    ]
+  },
+  "additional_notes": "The document contains multiple redactions marked as '(b)(6), (b)(7)(C)'. The visible text is primarily handwritten and appears to be a log or record of some sort."
+}

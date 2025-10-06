@@ -1,0 +1,50 @@
+{
+  "document_metadata": {
+    "page_number": "3402",
+    "document_number": "DOJ-OGR-00026991",
+    "date": "08/19/2019",
+    "document_type": "Log Entries By Event Date",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 3402 Date: 08/19/2019 Time: 10:15 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count 8/10/2019 2:43 AM NYM Housing Units Housing Units, General Population GN 8/10/2019 2:43 AM Morning b(6); (b)(7)(c) Rounds (Officer) - Summary Text: Completed. 8/10/2019 3:02 AM NYM Housing Units Housing Units, General Population GN 8/10/2019 3:02 AM Morning b(7)(E); (b)(7)(F) Rounds (Officer) - Summary Text: Completed. 8/10/2019 3:02 AM NYM Housing Units Housing Units, General Population GN 8/10/2019 3:02 AM Morning Rounds (Officer) - Summary Text: Completed. 8/10/2019 3:13 AM NYM Housing Units Housing Units, General Population GN 8/10/2019 3:13 AM Morning b(7)(E); (b)(7)(F) Rounds (Officer) - Summary Text: Completed. 8/10/2019 3:13 AM NYM Housing Units Housing Units, General Population GN 8/10/2019 3:13 AM Morning Rounds (Officer) - Summary Text: Completed. 8/10/2019 b(7)(F) AM NYM Housing Units Housing Units, General Population GN 8/10/2019 3:14 AM Morning Official Count - Summary Text: Clear Count: b(7)(F) 8/10/2019 3:14 AM NYM Housing Units Housing Units, General Population GN 8/10/2019 3:14 AM Morning b(7)(F) Base Count Verified - Summary Text: Base Count: b(7)(F) 8/10/2019 b(7)(F) AM NYM Housing Units Housing Units, General Population ES 8/10/2019 3:25 AM Morning Official Count - Summary Text: Clear Count: b(7)(F) 8/10/2019 3:32 AM NYM Housing Units Housing Units, General Population GN 8/10/2019 3:32 AM Morning b(7)(E); (b)(7)(F) Rounds (Officer) - Summary Text: Completed. 8/10/2019 3:32 AM NYM Housing Units Housing Units, General Population GN 8/10/2019 3:32 AM Morning Rounds (Officer) User ID: b(6); (b)(7)(C) Page 930 of 1155 DOJ-OGR-00026991",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3402 Date: 08/19/2019 Time: 10:15 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "8/10/2019 2:43 AM NYM Housing Units Housing Units, General Population GN 8/10/2019 2:43 AM Morning b(6); (b)(7)(c) Rounds (Officer) - Summary Text: Completed.",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "User ID: b(6); (b)(7)(C) Page 930 of 1155 DOJ-OGR-00026991",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [
+      "Housing Units"
+    ],
+    "dates": [
+      "08/19/2019",
+      "8/10/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026991"
+    ]
+  },
+  "additional_notes": "The document appears to be a log entry report from the Federal Bureau of Prisons, containing various events and counts related to housing units. The report includes redactions, indicated by 'b(6); (b)(7)(C)' and 'b(7)(E); (b)(7)(F)', suggesting sensitive information has been withheld."
+}

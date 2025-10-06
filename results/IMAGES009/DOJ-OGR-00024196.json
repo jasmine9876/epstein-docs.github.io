@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "2341",
+    "document_number": "DOJ-OGR-00024196",
+    "date": "2019/08/23",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Re: EPSTEIN #76318-054\nFrom [redacted]\nTo [redacted]\nDate 2019/08/23 16:17\nSubject: Re: EPSTEIN #76318-054\nAttachments: Mime.822\nI was in court all week I'll reach out to you early next week and see what I can assistance I can provide.\nAgain sorry in the delay have a good weekend.\n[redacted]\nSent from my iPad\nOn Aug 21, 2019, at 3:17 PM [redacted] wrote:\nHi [redacted]\n[redacted]\nPlease feel free to contact me at 646-836-[redacted] to discuss, and thank you for your cooperation.\nBest,\n[redacted]\nStaff Attorney\nCLC New York\nMetropolitan Correctional Center\n150 Park Row\nNew York, NY 10007\np: 646-836-[redacted]\nf: 646-836-7665\nPage 2341\nDOJ-OGR-00024196",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Re: EPSTEIN #76318-054\nFrom [redacted]\nTo [redacted]\nDate 2019/08/23 16:17\nSubject: Re: EPSTEIN #76318-054\nAttachments: Mime.822",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "I was in court all week I'll reach out to you early next week and see what I can assistance I can provide.\nAgain sorry in the delay have a good weekend.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "[redacted]\nSent from my iPad",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "On Aug 21, 2019, at 3:17 PM [redacted] wrote:\nHi [redacted]\n[redacted]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Please feel free to contact me at 646-836-[redacted] to discuss, and thank you for your cooperation.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Best,\n[redacted]\nStaff Attorney\nCLC New York\nMetropolitan Correctional Center\n150 Park Row\nNew York, NY 10007\np: 646-836-[redacted]\nf: 646-836-7665",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "CLC New York",
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [
+      "New York",
+      "NY"
+    ],
+    "dates": [
+      "2019/08/23",
+      "Aug 21, 2019"
+    ],
+    "reference_numbers": [
+      "EPSTEIN #76318-054",
+      "DOJ-OGR-00024196"
+    ]
+  },
+  "additional_notes": "The document contains multiple redactions, likely for privacy or security reasons. The email is related to the Epstein case and includes contact information for a Staff Attorney at CLC New York."
+}

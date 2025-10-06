@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": "2553",
+    "document_number": "DOJ-OGR-00026213",
+    "date": "07/26/2019",
+    "document_type": "Clinical Encounter - Administrative Note",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2553\nBureau of Prisons\nHealth Services\nClinical Encounter - Administrative Note\nInmate Name: EPSTEIN, JEFFREY EDWARD\nDate of Birth: 01/20/1953\nSex: M\nRace: WHITE\nReg #: 76318-054\nNote Date: 07/26/2019 08:57\nProvider: [b(6); (b)(7)(C)] MD\nFacility: NYM\nUnit: H01\nCosign Note - Clinical Encounter Cosign encounter performed at Health Services.\nAdministrative Notes:\nADMINISTRATIVE NOTE 1\nProvider: [b(6); (b)(7)(C)] MD\n[b(7)(A)]\nNew Medication Orders:\nRx#\nMedication\nOrder Date\nPrescriber Order\nDocusate Sodium Capsule\n07/26/2019 08:57\nTAKE ONE 100 MG CAP Orally - Two Times a Day x 180 day(s)\nIndication: Constipation, unspecified\nCopay Required: No\nCosign Required: No\nTelephone/Verbal Order: No\nCompleted by [b(6); (b)(7)(C)] MD on 07/26/2019 08:58\nGenerated 07/26/2019 08:58 by [b(6); (b)(7)(C)] MD Bureau of Prisons - NYM\nPage 1 of 1\nDOJ-OGR-00026213",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Bureau of Prisons\nHealth Services\nClinical Encounter - Administrative Note",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD\nDate of Birth: 01/20/1953\nSex: M\nRace: WHITE\nReg #: 76318-054\nNote Date: 07/26/2019 08:57\nProvider: [b(6); (b)(7)(C)] MD\nFacility: NYM\nUnit: H01",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Cosign Note - Clinical Encounter Cosign encounter performed at Health Services.\nAdministrative Notes:\nADMINISTRATIVE NOTE 1\nProvider: [b(6); (b)(7)(C)] MD\n[b(7)(A)]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "New Medication Orders:\nRx#\nMedication\nOrder Date\nPrescriber Order\nDocusate Sodium Capsule\n07/26/2019 08:57\nTAKE ONE 100 MG CAP Orally - Two Times a Day x 180 day(s)\nIndication: Constipation, unspecified\nCopay Required: No\nCosign Required: No\nTelephone/Verbal Order: No\nCompleted by [b(6); (b)(7)(C)] MD on 07/26/2019 08:58",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/26/2019 08:58 by [b(6); (b)(7)(C)] MD Bureau of Prisons - NYM\nPage 1 of 1",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons",
+      "NYM"
+    ],
+    "locations": [],
+    "dates": [
+      "01/20/1953",
+      "07/26/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026213"
+    ]
+  },
+  "additional_notes": "The document contains redacted information, indicated by [b(6); (b)(7)(C)] and [b(7)(A)]."
+}

@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028689",
+    "date": "02/09/2011",
+    "document_type": "IO95 Inspection Results",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:08:02 IO95 Inspection Results 042814 *A *B A461 TETERBORO, AIRP *C FLT/VES#: ZZ 909JE UNKOWN AIRLINE CODE DOCTYP*: P #*: 469911707 CTRY*: US UNITED STATES ST: M/F: M DNAME (LAST) : EPSTEIN FRST: JEFFREY EDWARD DOB: 012053 RFRD BY: *D -CBP OFFCR-C DTE: 02092011 TME: 2316 REASON: (b)(7)(E) CCD: SNAME (LAST) : FRST: DOB: NATIONALITY: US UNITED STATES DISP: USC U.S. CITIZEN RCPT#: AUDATE: CHARGE (CODED) : DFRD TO: FIN#: SEC OFCR: *E -CBP OFFCR-C 02/09/2011 23:34 IOEM#: REFR CDE: COMMENTS: VIOLS: NEW COMMENTS: (b)(7)(E) TRAVELING WITH RUSSIAN WOMEN. AL L PAX WERE OVER 18 YEARS OLD. NO WARRANTS NO ACTION NEEDED. COMMENTS HISTORY: WHTI CMPLNT? ADDL COMMTs: (b) (7) (E) *F (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) *G *H Key: *A - (b) (7) (E) *B - (b) (6) , (b) (7) (C) *C - (b) (7) (E) *D - (b) (6) (b) (7) (C) *E - (b) (6) (b) (7) (C) *F - (b) (7) (E) *G - (b) (7) (E) *H - (b) (7) (E) DOJ-OGR-00028689",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:08:02 IO95 Inspection Results 042814",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "*B A461 TETERBORO, AIRP *C FLT/VES#: ZZ 909JE UNKOWN AIRLINE CODE DOCTYP*: P #*: 469911707 CTRY*: US UNITED STATES ST: M/F: M DNAME (LAST) : EPSTEIN FRST: JEFFREY EDWARD DOB: 012053 RFRD BY: *D -CBP OFFCR-C DTE: 02092011 TME: 2316 REASON: (b)(7)(E) CCD: SNAME (LAST) : FRST: DOB: NATIONALITY: US UNITED STATES DISP: USC U.S. CITIZEN RCPT#: AUDATE: CHARGE (CODED) : DFRD TO: FIN#: SEC OFCR: *E -CBP OFFCR-C 02/09/2011 23:34 IOEM#: REFR CDE: COMMENTS: VIOLS: NEW COMMENTS: (b)(7)(E) TRAVELING WITH RUSSIAN WOMEN. AL L PAX WERE OVER 18 YEARS OLD. NO WARRANTS NO ACTION NEEDED. COMMENTS HISTORY: WHTI CMPLNT? ADDL COMMTs: (b) (7) (E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "*F (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) *G *H Key: *A - (b) (7) (E) *B - (b) (6) , (b) (7) (C) *C - (b) (7) (E) *D - (b) (6) (b) (7) (C) *E - (b) (6) (b) (7) (C) *F - (b) (7) (E) *G - (b) (7) (E) *H - (b) (7) (E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028689",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "CBP"
+    ],
+    "locations": [
+      "TETERBORO",
+      "RUSSIAN",
+      "UNITED STATES"
+    ],
+    "dates": [
+      "02/09/2011",
+      "02092011",
+      "012053"
+    ],
+    "reference_numbers": [
+      "469911707",
+      "DOJ-OGR-00028689"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(7)(E), (b)(6), and (b)(7)(C). The document appears to be an inspection result related to a travel incident involving Jeffrey Edward Epstein."
+}

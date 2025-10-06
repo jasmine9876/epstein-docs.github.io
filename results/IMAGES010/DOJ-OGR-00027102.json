@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00027102",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "7/31/19 Epstein 7/31/19 12:15 7/24/14 (b)(6), (b)(7)(C) 8/1/19 J. Epstein 76318-009 9:00am 76318-054 5:30 Epstein",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "7/31/19 Epstein 7/31/19 12:15",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/24/14",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein 76318.054 5:30",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/1/19 J. Epstein 76318-009 9:00am",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027102",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein",
+      "J. Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/31/19",
+      "7/24/14",
+      "8/1/19"
+    ],
+    "reference_numbers": [
+      "76318-009",
+      "76318-054",
+      "DOJ-OGR-00027102"
+    ]
+  },
+  "additional_notes": "The document appears to be a heavily redacted record, likely from a legal or law enforcement context. The visible text includes dates, times, and a name, 'Epstein', which is likely referring to Jeffrey Epstein. The redactions are extensive, obscuring most of the content."
+}

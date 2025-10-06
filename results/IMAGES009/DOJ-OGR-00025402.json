@@ -1,0 +1,55 @@
+{
+  "document_metadata": {
+    "page_number": "1197",
+    "document_number": "DOJ-OGR-00025402",
+    "date": null,
+    "document_type": "Mail Attachment",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 1197 Mail Attachment Epstein SW Chronological Log 7-23 & 24 -19.pdf Page 3228 DOJ-OGR-00025402",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 1197",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Mail Attachment",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Epstein SW Chronological Log 7-23 & 24 -19.pdf",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Page 3228",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025402",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "7-23",
+      "24-19"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00025402"
+    ]
+  },
+  "additional_notes": "The document appears to be a page from a larger document, with a header and footer indicating page numbers and a document ID. The content is mostly related to a mail attachment and a chronological log."
+}

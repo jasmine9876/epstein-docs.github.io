@@ -1,0 +1,91 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "DOJ-OGR-00027423",
+    "date": "9/4/2020",
+    "document_type": "Managed Query Results",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Managed Query Page 1 of 3 APIS - All Passengers Results Conf. Name DOB Gender Document Conveyance Departure Date Arrival Date PNR Hit Types Attributes Status Event IDs (b)(6)&(b)(7)(C) [REDACTED] F (b)(6)&(b)(7)(C) 4GA N909JE (IST - XXX) 09/11/2010 12:00 09/11/2010 23:00 Passenger 4GA N909JE (IST - XXX) 09/11/2010 06:30 09/11/2010 07:09 Passenger 4GA N909JE (XXX - ABQ) 08/13/2010 05:55 08/13/2010 22:00 Passenger 4GA N909JE (IST - XXX) 08/13/2010 09:15 08/13/2010 20:00 Passenger 4GA N909JE (TEB - XXX) 03/23/2013 21:00 03/23/2013 08:40 Passenger 4GA N909JE (IST - XXX) 09/06/2011 08:15 09/06/2011 18:48 Passenger 4GA N909JE (XXX - IST) 01/08/2012 10:10 01/08/2012 06:40 Passenger 4GA N909JE (MHT - XXX) 04/08/2012 20:30 04/09/2012 08:37 Passenger 4GA N909JE (MHT - XXX) 04/08/2012 20:30 04/09/2012 08:00 Passenger 4GA N909JE (IST - XXX) 12/11/2011 08:00 12/11/2011 17:32 Passenger 4GA N909JE (XXX - IST) 10/19/2011 04:30 10/19/2011 15:14 Passenger 4GA N909JE (XXX - IST) 09/04/2011 17:30 09/04/2011 13:58 Passenger 4GA N909JE (IST - XXX) 07/20/2011 10:00 07/20/2011 20:43 Passenger 4GA N909JE (XXX - IST) 06/26/2011 04:15 06/26/2011 11:53 Passenger 4GA N909JE (IST - XXX) 02/22/2011 05:00 02/22/2011 15:35 Passenger 4GA N909JE (XXX - IST) 05/20/2011 06:00 05/20/2011 02:00 Passenger 4GA N909JE (TEB - XXX) 05/14/2011 24:00 05/15/2011 09:50 Passenger 4GA N909JE (IST - XXX) 04/30/2011 08:00 04/30/2011 18:37 Passenger 4GA N909JE (IST - XXX) 03/29/2011 15:00 03/29/2011 20:47 Passenger 4GA N909JE (IST - XXX) 02/20/2011 10:30 02/20/2011 20:27 Passenger 4GA N909JE (IST - XXX) 02/09/2011 13:00 02/09/2011 22:40 Passenger 4GA N909JE (IST - XXX) 01/17/2011 03:00 01/17/2011 13:32 Passenger 4GA N909JE (IST - XXX) 01/14/2011 13:00 01/14/2011 22:45 Passenger 4GA N909JE (XXX - TEB) 10/18/2010 08:00 10/18/2010 09:43 Passenger 4GA N909JE (TEB - XXX) 09/27/2010 22:00 09/27/2010 09:25 Passenger 4GA N909JE (XXX - ABQ) 08/13/2010 05:55 08/13/2010 22:00 Passenger 4GA N909JE (IST - XXX) 08/13/2010 09:15 08/13/2010 20:00 Passenger 4GA N909JE (XXX - TEB) 08/02/2010 19:55 08/02/2010 21:45 Passenger 4GA N909JE (IST - XXX) 07/23/2010 23:00 07/23/2010 11:40 Passenger 4GA N909JE (XXX - PHI) 06/09/2010 19:09 06/09/2010 21:30 Passenger 4GA N909JE (IST - XXX) 06/09/2010 12:00 06/09/2010 21:30 Passenger 9/4/2020 DOJ-OGR-00027423",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Managed Query",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Page 1 of 3",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "APIS - All Passengers Results",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Conf. Name DOB Gender Document Conveyance Departure Date Arrival Date PNR Hit Types Attributes Status Event IDs",
+      "position": "table header"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6)&(b)(7)(C) [REDACTED] F (b)(6)&(b)(7)(C) 4GA N909JE (IST - XXX) 09/11/2010 12:00 09/11/2010 23:00 Passenger",
+      "position": "table row"
+    },
+    {
+      "type": "printed",
+      "content": "9/4/2020 DOJ-OGR-00027423",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "(b)(6)&(b)(7)(C)"
+    ],
+    "organizations": [
+      "4GA"
+    ],
+    "locations": [
+      "IST",
+      "XXX",
+      "ABQ",
+      "TEB",
+      "MHT",
+      "PHI"
+    ],
+    "dates": [
+      "9/4/2020",
+      "09/11/2010",
+      "08/13/2010",
+      "03/23/2013",
+      "09/06/2011",
+      "01/08/2012",
+      "04/08/2012",
+      "12/11/2011",
+      "10/19/2011",
+      "09/04/2011",
+      "07/20/2011",
+      "06/26/2011",
+      "02/22/2011",
+      "05/20/2011",
+      "05/14/2011",
+      "04/30/2011",
+      "03/29/2011",
+      "02/20/2011",
+      "02/09/2011",
+      "01/17/2011",
+      "01/14/2011",
+      "10/18/2010",
+      "09/27/2010",
+      "08/02/2010",
+      "07/23/2010",
+      "06/09/2010"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00027423"
+    ]
+  },
+  "additional_notes": "The document contains redacted information, indicated by (b)(6)&(b)(7)(C)."
+}

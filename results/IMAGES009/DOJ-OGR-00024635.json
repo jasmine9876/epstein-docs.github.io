@@ -1,0 +1,45 @@
+{
+  "document_metadata": {
+    "page_number": "006",
+    "document_number": "NYYES 530*07",
+    "date": "08-02-2019",
+    "document_type": "ROSTER",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "NYYES 530*07 * ROSTER * 08-02-2019 PAGE 006 01:22:48 (b)(6)(b)(7)(C) (b)(6)(b)(7)(C) Z04A Z04-206 AD 76318-054 EPSTEIN JEFFREY 07-08-2019 A-PRE (b)(6)(b)(7)(C) (b)(6)(b)(7)(C) DOJ-OGR-00024635",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "NYYES 530*07 * ROSTER * 08-02-2019 PAGE 006 01:22:48",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6)(b)(7)(C) (b)(6)(b)(7)(C) Z04A Z04-206 AD 76318-054 EPSTEIN JEFFREY 07-08-2019 A-PRE (b)(6)(b)(7)(C) (b)(6)(b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024635",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "08-02-2019",
+      "07-08-2019"
+    ],
+    "reference_numbers": [
+      "NYYES 530*07",
+      "76318-054",
+      "DOJ-OGR-00024635"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6)(b)(7)(C), indicating sensitive information has been removed."
+}

@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "DOJ-OGR-00024153",
+    "date": "05/11/2020",
+    "document_type": "Devices and Equipment",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Bureau of Prisons Health Services Devices and Equipment Start Date: 07/06/2019 Stop Date: 05/11/2020 Reg #: 76318-054 Inmate Name: EPSTEIN, JEFFREY EDWARD Device/Equipment Start Date Stop Date Date Returned Obtained From Comments C-Pap 07/30/2019 14:05 EST (b)(6), (b)(7)(C) MD 07/30/2019 Personal PHILIPS RESPIRONICS SYSTEM ONE CPAP MACHINE. SERIAL #: P11312813B1ED. Total: 1 Generated 05/11/2020 09:57 by (b)(6) OGGC Bureau of Prisons - DAN Page 1 of 1 DOJ-OGR-00024153",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Bureau of Prisons Health Services Devices and Equipment",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Start Date: 07/06/2019 Stop Date: 05/11/2020 Reg #: 76318-054 Inmate Name: EPSTEIN, JEFFREY EDWARD",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Device/Equipment Start Date Stop Date Date Returned Obtained From Comments",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "C-Pap 07/30/2019 14:05 EST (b)(6), (b)(7)(C) MD 07/30/2019 Personal PHILIPS RESPIRONICS SYSTEM ONE CPAP MACHINE. SERIAL #: P11312813B1ED.",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Total: 1",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 05/11/2020 09:57 by (b)(6) OGGC Bureau of Prisons - DAN Page 1 of 1 DOJ-OGR-00024153",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons",
+      "Philips Respironics"
+    ],
+    "locations": [],
+    "dates": [
+      "07/06/2019",
+      "05/11/2020",
+      "07/30/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "P11312813B1ED",
+      "DOJ-OGR-00024153"
+    ]
+  },
+  "additional_notes": "The document appears to be a record of medical equipment issued to an inmate. There are redactions in the document, indicating sensitive information has been removed."
+}

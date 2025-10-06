@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "1150",
+    "document_number": "DOJ-OGR-00025372",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 1150\nThank you,\n[b](6); [b](7)(C) [b](6); [b](7)(C) Psy.D.\nChief Psychologist\nU.S. Department of Justice/\nFederal Bureau of Prisons\nMetropolitan Correctional Center\n150 Park Row\nNew York, New York 10007\nOffice: (646) 836-[b](6); [b](7)(C)\nFax: (646) 836-7712\nE-mail: [b](6); [b](7)(C)@bop.gov\nPage 2972\nDOJ-OGR-00025372",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 1150",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Thank you,",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "[b](6); [b](7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "[b](6); [b](7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Psy.D.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Chief Psychologist\nU.S. Department of Justice/\nFederal Bureau of Prisons\nMetropolitan Correctional Center\n150 Park Row\nNew York, New York 10007\nOffice: (646) 836-[b](6); [b](7)(C)\nFax: (646) 836-7712\nE-mail: [b](6); [b](7)(C)@bop.gov",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 2972\nDOJ-OGR-00025372",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "U.S. Department of Justice",
+      "Federal Bureau of Prisons",
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00025372",
+      "(646) 836-7712"
+    ]
+  },
+  "additional_notes": "The document contains redactions in the name, phone number, and email address of the sender."
+}

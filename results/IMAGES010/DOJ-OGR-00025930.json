@@ -1,0 +1,49 @@
+{
+  "document_metadata": {
+    "page_number": "2090",
+    "document_number": "DOJ-OGR-00025930",
+    "date": "7-8-10-2019",
+    "document_type": "Mail Attachment",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2090\nMail Attachment\nEpstein Psych Observation 7-8-10-2019.pdf\nPage 11633\nDOJ-OGR-00025930",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 2090",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Mail Attachment\nEpstein Psych Observation 7-8-10-2019.pdf",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Page 11633",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025930",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "7-8-10-2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00025930"
+    ]
+  },
+  "additional_notes": "The document appears to be a page from a larger document or report, with a header and footer indicating page numbers and a reference number. The content is mostly related to a psychiatric observation of Epstein on a specific date."
+}

@@ -1,0 +1,67 @@
+{
+  "document_metadata": {
+    "page_number": "0012",
+    "document_number": "DOJ-OGR-00028206",
+    "date": "04282014",
+    "document_type": "TECSII - PRIMARY QUERY HISTORY PASSENGER ACTIVITY",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 TECSII - PRIMARY QUERY HISTORY 04282014 *A *B PASSENGER ACTIVITY *C PAGE NO. 0012 NAME DOB DATE TIME AGN RSLT TYP REF LANE TERM/ API DIM EPSTEIN, JEFFREY A512-CBP-ST THOMAS, VI 012053 051310 1622 CUS *D AIR INS JK21 N N PRECL DOC: 207320604 US P INSP: *E EPSTEIN, JEFFREY A512-CBP-ST THOMAS, VI 012053 030510 1541 CUS *F AIR CUS JK21 N N PRECL DOC: 207320604 US P INSP: *G EPSTEIN, JEFFREY A512-CBP-ST THOMAS, VI 012053 032910 1637 CUS *H AIR INS JK21 N N PRECL DOC: 207320604 US P INSP: *I EPSTEIN, JEFFREY A512-CBP-ST THOMAS, VI 012053 020510 1538 CUS *J AIR INS EY05 N N PRECL DOC: 207320604 US P INSP: *K EPSTEIN, JEFFREY A512-CBP-ST THOMAS, VI 012053 021610 1529 CUS *L AIR INS EY09 N N PRECL DOC: 207320604 US P INSP: *M EPSTEIN, JEFFREY A512-CBP-ST THOMAS, VI 012053 011510 1541 CUS *N AIR CUS N N PRECL DOC: 207320604 US P INSP: *O (b)(7)(E) <...MORE...> (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(6), (b)(7)(C) *F - (b)(7)(E) *G - (b)(6), (b)(7)(C) *H - (b)(7)(E) *I - (b)(6), (b)(7)(C) *J - (b)(7)(E) *K - (b)(6), (b)(7)(C) *L - (b)(7)(E) *M - (b)(6), (b)(7)(C) *N - (b)(7)(E) *O - (b)(6), (b)(7)(C) DOJ-OGR-00028206",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "TECSII - PRIMARY QUERY HISTORY PASSENGER ACTIVITY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE NO. 0012",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB DATE TIME AGN RSLT TYP REF LANE TERM/ API DIM",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY A512-CBP-ST THOMAS, VI 012053 051310 1622 CUS *D AIR INS JK21 N N PRECL DOC: 207320604 US P INSP: *E",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(6), (b)(7)(C) *F - (b)(7)(E) *G - (b)(6), (b)(7)(C) *H - (b)(7)(E) *I - (b)(6), (b)(7)(C) *J - (b)(7)(E) *K - (b)(6), (b)(7)(C) *L - (b)(7)(E) *M - (b)(6), (b)(7)(C) *N - (b)(7)(E) *O - (b)(6), (b)(7)(C)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028206",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN",
+      "THOMAS"
+    ],
+    "organizations": [
+      "CBP"
+    ],
+    "locations": [],
+    "dates": [
+      "04282014",
+      "051310",
+      "030510",
+      "032910",
+      "020510",
+      "021610",
+      "011510"
+    ],
+    "reference_numbers": [
+      "207320604",
+      "DOJ-OGR-00028206"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted TECSII query history report. The redactions are indicated by (b)(6), (b)(7)(C), and (b)(7)(E)."
+}

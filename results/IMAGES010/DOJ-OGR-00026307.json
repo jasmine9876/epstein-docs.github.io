@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "2651",
+    "document_number": null,
+    "date": "07/09/2019",
+    "document_type": "Bureau of Prisons Health Services",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2651 Bureau of Prisons Health Services See Amendment Inmate Name: EPSTEIN, JEFFREY EDWARD Reg #: 76318-054 Date of Birth: 01/20/1953 Sex: M Race: WHITE Encounter Date: 07/09/2019 08:41 Facility: NYM Amendment made to this note by [redacted] PhD/Chief Psychologist on 07/10/2019 09:20. Bureau of Prisons - NYM DOJ-OGR-00026307",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 2651",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Bureau of Prisons Health Services See Amendment",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD Reg #: 76318-054 Date of Birth: 01/20/1953 Sex: M Race: WHITE Encounter Date: 07/09/2019 08:41 Facility: NYM",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Amendment made to this note by",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "[redacted]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PhD/Chief Psychologist on 07/10/2019 09:20.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Bureau of Prisons - NYM DOJ-OGR-00026307",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons",
+      "Bureau of Prisons Health Services"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/09/2019",
+      "07/10/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026307"
+    ]
+  },
+  "additional_notes": "The document contains a redacted name."
+}

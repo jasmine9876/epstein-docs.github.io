@@ -1,0 +1,75 @@
+{
+  "document_metadata": {
+    "page_number": "2106",
+    "document_number": "DOJ-OGR-00025946",
+    "date": null,
+    "document_type": "Eating/Shower Chart",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2106\nName of Inmate On Suicide Watch or Psych Observation: Epstein\nRegistration #: 76318-054\nEATING/SHOWER CHART\nDATE | BREAKFAST | LUNCH | DINNER | LIQUIDS | OFFERED SHOWER | RECEIVED SHOWER\n7/23 | √ |  | √ | √ | √ | √\n7/24/19 | √ |  |  | √ | √ | √\n7/25/19 |  |  |  |  |  | \n7/26/19 | √ | √ | √ | √ | √ | √\n7/27/19 | √ |  |  |  |  | \n7/28/19 | √ | √ | √ | √ | √ | √\n7/29/19 |  |  |  |  |  | \n7/30/19 | √ |  |  | √ |  | \n\nPlease check the appropriate box if the person on Suicide Watch/Psych Observation actually eats his meal. Do not check the box if he just received it, but did not eat it.\nPlace a check in the \"Liquids\" box each time the person drinks.\nThank you.\nDOJ-OGR-00025946",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Name of Inmate On Suicide Watch or Psych Observation:",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Registration #:",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318-054",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "EATING/SHOWER CHART",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "DATE | BREAKFAST | LUNCH | DINNER | LIQUIDS | OFFERED SHOWER | RECEIVED SHOWER",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/23 | √ |  | √ | √ | √ | √\n7/24/19 | √ |  |  | √ | √ | √\n7/25/19 |  |  |  |  |  | \n7/26/19 | √ | √ | √ | √ | √ | √\n7/27/19 | √ |  |  |  |  | \n7/28/19 | √ | √ | √ | √ | √ | √\n7/29/19 |  |  |  |  |  | \n7/30/19 | √ |  |  | √ |  | ",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Please check the appropriate box if the person on Suicide Watch/Psych Observation actually eats his meal. Do not check the box if he just received it, but did not eat it.\nPlace a check in the \"Liquids\" box each time the person drinks.\nThank you.",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/23",
+      "7/24/19",
+      "7/25/19",
+      "7/26/19",
+      "7/27/19",
+      "7/28/19",
+      "7/29/19",
+      "7/30/19"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00025946"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned copy of a handwritten eating/shower chart for an inmate on suicide watch or psych observation. The chart tracks the inmate's food and liquid intake, as well as shower activity, over several days. The document is generally legible, but some handwritten entries are difficult to read due to poor handwriting or scanning quality."
+}

@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "1025",
+    "document_number": "USM-130",
+    "date": "7/8/19",
+    "document_type": "Prisoner Custody Alert Notice",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 1025 U.S. Department of Justice United States Marshals Service Prisoner Custody Alert Notice Prisoner Name: EPSTEIN, JEFFREY EDWARD Prisoner Number: 76318054 Original Offense Code Original Offense Description Remark Arrest Date 3699 Sex Offense 18 USC 371 SEX TRAFFICKING CONSPIRACY 7/8/19 Alerts: Code Description Remark MTL Mental Concerns Suicidal Tendencies Prepared By: Received By: Prepared Date: Received Date: Copy 1 - Jail/Copy 2 - USMS Page 1 Form USM-130 Rev. 12/16 DOJ-OGR-00025251",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "U.S. Department of Justice United States Marshals Service Prisoner Custody Alert Notice",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Prisoner Name: EPSTEIN, JEFFREY EDWARD Prisoner Number: 76318054",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Original Offense Code Original Offense Description Remark Arrest Date 3699 Sex Offense 18 USC 371 SEX TRAFFICKING CONSPIRACY 7/8/19",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Alerts: Code Description Remark MTL Mental Concerns Suicidal Tendencies",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Prepared By: Received By: Prepared Date: Received Date:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Copy 1 - Jail/Copy 2 - USMS Page 1 Form USM-130 Rev. 12/16",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "U.S. Department of Justice",
+      "United States Marshals Service"
+    ],
+    "locations": [],
+    "dates": [
+      "7/8/19",
+      "12/16"
+    ],
+    "reference_numbers": [
+      "76318054",
+      "USM-130",
+      "DOJ-OGR-00025251"
+    ]
+  },
+  "additional_notes": "The document appears to be a Prisoner Custody Alert Notice for Jeffrey Epstein, indicating he was arrested on 7/8/19 for sex trafficking conspiracy and had suicidal tendencies."
+}

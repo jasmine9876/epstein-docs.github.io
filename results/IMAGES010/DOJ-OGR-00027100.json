@@ -1,0 +1,84 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00027100",
+    "date": "7/26/19",
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "(b)(6) (b)(7)(C) Egsten 763800 1830 100 (b)(6) (b)(7)(C) 7/26/19 Egsten 763800 S:Re 83 (b)(6) (b)(7)(C) DOJ-OGR-00027100",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "(b)(6) (b)(7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Egsten 763800 1830 100",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6) (b)(7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/26/19",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6) (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Egsten",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "763800",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "S:Re",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "83",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6) (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027100",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/26/19"
+    ],
+    "reference_numbers": [
+      "763800",
+      "1830",
+      "100",
+      "83",
+      "DOJ-OGR-00027100"
+    ]
+  },
+  "additional_notes": "The document is heavily redacted, with most of the content obscured by green blocks. The visible text is primarily handwritten and appears to be a mix of names, dates, and numbers."
+}

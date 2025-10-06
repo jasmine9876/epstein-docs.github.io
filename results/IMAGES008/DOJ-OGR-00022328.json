@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "43",
+    "document_number": "DOJ-OGR-00022328",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Mermagon, Mr. Jonathan Metcalf Justin Metcalf Melanie & Jullan Metcalfe Julian & Melanie Metcalfe, Justin & Joane Melz Robin Meyer, Tony Micklethwait, Fev & John Milani, Gianluca Milford Haven George and Clare Milford Haven, Sarah Miller, Nicole & Kim Talpale Mills, Cheryl Minot, Carie & Bell, George Minot, Susan Mischer, Kevin Modaffari, Daniela Moncada Cico DOJ-OGR-00022328",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Mermagon, Mr. Jonathan\nMetcalf Justin\nMetcalf Melanie & Jullan\nMetcalfe Julian & Melanie\nMetcalfe, Justin & Joane\nMelz Robin\nMeyer, Tony\nMicklethwait, Fev & John\nMilani, Gianluca\nMilford Haven George and Clare\nMilford Haven, Sarah\nMiller, Nicole & Kim Talpale\nMills, Cheryl\nMinot, Carie & Bell, George\nMinot, Susan\nMischer, Kevin\nModaffari, Daniela\nMoncada Cico",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022328",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "43",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Mr. Jonathan Mermagon",
+      "Justin Metcalf",
+      "Melanie Metcalf",
+      "Jullan Metcalf",
+      "Julian Metcalfe",
+      "Melanie Metcalfe",
+      "Justin Metcalfe",
+      "Joane Metcalfe",
+      "Robin Melz",
+      "Tony Meyer",
+      "Fev Micklethwait",
+      "John Micklethwait",
+      "Gianluca Milani",
+      "George Milford Haven",
+      "Clare Milford Haven",
+      "Sarah Milford Haven",
+      "Nicole Miller",
+      "Kim Talpale Miller",
+      "Cheryl Mills",
+      "Carie Minot",
+      "Bell Minot",
+      "George Minot",
+      "Susan Minot",
+      "Kevin Mischer",
+      "Daniela Modaffari",
+      "Cico Moncada"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022328"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 43, and the document number is DOJ-OGR-00022328."
+}

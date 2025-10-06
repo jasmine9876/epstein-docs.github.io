@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "001",
+    "document_number": "NYMD9 530*07",
+    "date": "07-23-2019",
+    "document_type": "POPULATION MONITORING CENSUS/ROSTER GENERALIZED RETRIEVAL",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "NYMD9 530*07 * POPULATION MONITORING CENSUS/ROSTER * 07-23-2019 PAGE 001 * GENERALIZED RETRIEVAL * 04:04:37 FUNCTION: R-P SELECTION CATEGORY: QTR EQ ALL ZERO/NBR: NO ORGANIZATION: FACIL EQ NYM OPTION: TYPE OF FACILITY: TOF EQ T DUP SUPR: YES FACILITY MANAGED BY: FMB EQ AP COLUMNS 1: REG 2: LN 3: LN2 4: FN 5: ARSJ 6: ARS 7: 8: SEQ: 234 NP: JUDG: C SORT COL: COL SEQ: CONDITIONS (GRP 1) OR CONDITIONS (GRP 2) OR CONDITIONS (GRP 3) OR CONDITIONS (GRP 4) CMCI NE G CMCI NE P Control 58165 G TOT G0002 MORE PAGES TO FOLLOW DOJ-OGR-00024616",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "NYMD9 530*07 * POPULATION MONITORING CENSUS/ROSTER * 07-23-2019 PAGE 001 * GENERALIZED RETRIEVAL * 04:04:37",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "FUNCTION: R-P SELECTION CATEGORY: QTR EQ ALL ZERO/NBR: NO ORGANIZATION: FACIL EQ NYM OPTION: TYPE OF FACILITY: TOF EQ T DUP SUPR: YES FACILITY MANAGED BY: FMB EQ AP COLUMNS 1: REG 2: LN 3: LN2 4: FN 5: ARSJ 6: ARS 7: 8: SEQ: 234 NP: JUDG: C SORT COL: COL SEQ: CONDITIONS (GRP 1) OR CONDITIONS (GRP 2) OR CONDITIONS (GRP 3) OR CONDITIONS (GRP 4) CMCI NE G CMCI NE P",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Control 58165",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "G TOT G0002 MORE PAGES TO FOLLOW",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024616",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "07-23-2019"
+    ],
+    "reference_numbers": [
+      "NYMD9 530*07",
+      "DOJ-OGR-00024616",
+      "58165"
+    ]
+  },
+  "additional_notes": "The document appears to be a computer-generated report with some handwritten annotations. The report is related to population monitoring and has a specific document number and date. There are green highlighted areas on the page, but the text within these areas is not visible."
+}

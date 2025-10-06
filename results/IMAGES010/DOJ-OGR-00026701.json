@@ -1,0 +1,67 @@
+{
+  "document_metadata": {
+    "page_number": "3061",
+    "document_number": "BP-A0971",
+    "date": "AUG 11",
+    "document_type": "CHAIN OF CUSTODY LOG CDFRM",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 3061\nBP-A0971\nAUG 11\nCHAIN OF CUSTODY LOG CDFRM\nU.S. DEPARTMENT OF JUSTICE\nFEDERAL BUREAU OF PRISONS\nCHAIN OF CUSTODY LOG\n(Enclose with/attach to evidence)\nECN #:\nITEM #:\nCASE ID NUMBER:\nSUSPECT (If Known):\nEpstein, Jeffrey Reg. No.\n76318-054\nDESCRIPTION OF ITEM:\nAttorney Conference Log Book, visual search log, SHU sign-in logbook\nDATE/TIME ITEM FOUND:\n8/10/19 7:50 am\nLOCATION:\nMCC 2nd Floor Attorney Conference Room\nSIGNATURE OF PERSON RECOVERING EVIDENCE:\n(b)(6); (b)(7)(C)\nPRINTED NAME:\nEVIDENCE PLACED IN OVERNIGHT DROP-BOX BY: (printed name)\nDate & Time:\nWitness: (printed name)\nEVIDENCE RECOVERED FROM OVERNIGHT DROP BOX BY: (printed name)\nDate & Time:\nWitness: (printed name)\nEVIDENCE PLACED IN SAFE FROM DROP BOX BY: (printed name)\nDate & Time:\nWitness: (printed name)\nEVIDENCE PLACED DIRECTLY IN EVIDENCE SAFE BY: (printed name)\nDate & Time:\nWitness: (printed name)\nDISPOSITION:\n/ X /\nHold as evidence\n/ /\nReturn to finder\n/ /\nReturn to owner\n/ /\nLab Analysis\n/ /\nDestroy immediately\n/ /\nOther\nFBI\nREMARKS (condition of evidence)\nCHAIN OF CUSTODY\nEVIDENCE RELEASED BY\nDATE/TIME\nDESTINATION\nEVIDENCE RELEASED TO\n(b)(6); (b)(7)(C)\n8/10/19 7:52am\n515\n(b)(6); (b)(7)(C)\nS18 kt\n(b)(6); (b)(7)(C)\n8/14/19 4:31pm\nDOT-OIG\nC\nATTACH TO EVIDENCE\nDOJ-OGR-00026701",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3061\nBP-A0971\nAUG 11\nCHAIN OF CUSTODY LOG CDFRM\nU.S. DEPARTMENT OF JUSTICE\nFEDERAL BUREAU OF PRISONS\nCHAIN OF CUSTODY LOG\n(Enclose with/attach to evidence)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "ECN #:\nITEM #:\nCASE ID NUMBER:\nSUSPECT (If Known):\nDESCRIPTION OF ITEM:\nDATE/TIME ITEM FOUND:\nLOCATION:\nSIGNATURE OF PERSON RECOVERING EVIDENCE:\nPRINTED NAME:\nEVIDENCE PLACED IN OVERNIGHT DROP-BOX BY: (printed name)\nDate & Time:\nWitness: (printed name)\nEVIDENCE RECOVERED FROM OVERNIGHT DROP BOX BY: (printed name)\nDate & Time:\nWitness: (printed name)\nEVIDENCE PLACED IN SAFE FROM DROP BOX BY: (printed name)\nDate & Time:\nWitness: (printed name)\nEVIDENCE PLACED DIRECTLY IN EVIDENCE SAFE BY: (printed name)\nDate & Time:\nWitness: (printed name)\nDISPOSITION:\nREMARKS (condition of evidence)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein, Jeffrey Reg. No.\n76318-054\nAttorney Conference Log Book, visual search log, SHU sign-in logbook\n8/10/19 7:50 am\nMCC 2nd Floor Attorney Conference Room\n(b)(6); (b)(7)(C)\n/ X /\nHold as evidence\n/ /\nReturn to finder\n/ /\nReturn to owner\n/ /\nLab Analysis\n/ /\nDestroy immediately\n/ /\nOther\nFBI",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CHAIN OF CUSTODY\nEVIDENCE RELEASED BY\nDATE/TIME\nDESTINATION\nEVIDENCE RELEASED TO",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6); (b)(7)(C)\n8/10/19 7:52am\n515\n(b)(6); (b)(7)(C)\nS18 kt\n(b)(6); (b)(7)(C)\n8/14/19 4:31pm\nDOT-OIG\nC",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "ATTACH TO EVIDENCE\nDOJ-OGR-00026701",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "U.S. DEPARTMENT OF JUSTICE",
+      "FEDERAL BUREAU OF PRISONS",
+      "FBI",
+      "DOT-OIG"
+    ],
+    "locations": [
+      "MCC 2nd Floor Attorney Conference Room"
+    ],
+    "dates": [
+      "8/10/19",
+      "8/14/19"
+    ],
+    "reference_numbers": [
+      "BP-A0971",
+      "76318-054",
+      "DOJ-OGR-00026701"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6); (b)(7)(C)."
+}

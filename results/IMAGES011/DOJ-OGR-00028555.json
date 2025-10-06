@@ -1,0 +1,76 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028555",
+    "date": "April 28, 2014",
+    "document_type": "API/HIT Data",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 *B PQH API/HIT DATA 042814 *A *C NAME DOB DATE TIME AGN RSLT LNE TYP REF TERM/LANE API EPSTEIN, JEFFREY EDWARD E 012053 101413 0000 *D API JOHN F KENNEDY INTL API DATA ---- INDICATOR : R CARRIER CODE : AF FLT/VES NUMBER : 6 ARRIVAL LOCATION : JFK DEPARTURE LOCATION : CDG TRANSMITTED BY : ALTEA+CM INBOUND/OUTBOUND : INBOUND REPORTED AIR FRANCE JOHN F KENNEDY INTL PARIS, CH. DE GAULLE AMADEUS DCS ALTEA CM (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) (b)(7)(E) DOJ-OGR-00028555",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07 *B PQH API/HIT DATA 042814 *A *C",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB DATE TIME AGN RSLT LNE TYP REF TERM/LANE API",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY EDWARD E 012053 101413 0000 *D API JOHN F KENNEDY INTL",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "API DATA ---- INDICATOR : R CARRIER CODE : AF FLT/VES NUMBER : 6 ARRIVAL LOCATION : JFK DEPARTURE LOCATION : CDG TRANSMITTED BY : ALTEA+CM INBOUND/OUTBOUND : INBOUND",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "REPORTED AIR FRANCE JOHN F KENNEDY INTL PARIS, CH. DE GAULLE AMADEUS DCS ALTEA CM",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028555",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "AIR FRANCE",
+      "AMADEUS DCS ALTEA CM",
+      "ALTEA+CM"
+    ],
+    "locations": [
+      "JOHN F KENNEDY INTL",
+      "PARIS, CH. DE GAULLE"
+    ],
+    "dates": [
+      "January 20, 1953",
+      "October 14, 2013"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00028555",
+      "6"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b)(7)(E)' and '(b)(6), (b)(7)(C)'. The document appears to be a record of a flight arrival, specifically for Jeffrey Epstein's travel on Air France."
+}

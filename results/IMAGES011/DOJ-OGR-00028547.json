@@ -1,0 +1,73 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028547",
+    "date": "110110",
+    "document_type": "PQH API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 PQH API/HIT DATA 042814 NAME DOB DATE TIME AGN RSLT LNE TYP REF TERM/ LANE API EPSTEIN, JEFFREY EDWARD 012053 110110 0000 *D API PARIS, ORLY API DATA ---- INDICATOR : R CARRIER CODE : EC FLT/VES NUMBER : 4 ARRIVAL LOCATION : ORY DEPARTURE LOCATION : EWR TRANSMITTED BY : EC INBOUND/OUTBOUND : OUTBOUND (b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6) , (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) REPORTED OPEN SKIES PARIS, ORLY NEWARK INTERNATIONAL OPEN SKIES (b) (7) (E) DOJ-OGR-00028547",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07 PQH API/HIT DATA 042814",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB DATE TIME AGN RSLT LNE TYP REF TERM/ LANE API EPSTEIN, JEFFREY EDWARD 012053 110110 0000 *D API PARIS, ORLY",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "API DATA ---- INDICATOR : R CARRIER CODE : EC FLT/VES NUMBER : 4 ARRIVAL LOCATION : ORY DEPARTURE LOCATION : EWR TRANSMITTED BY : EC INBOUND/OUTBOUND : OUTBOUND",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b) (7) (E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b) (7) (E) *B - (b) (6) , (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "REPORTED OPEN SKIES PARIS, ORLY NEWARK INTERNATIONAL OPEN SKIES",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b) (7) (E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028547",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "PARIS",
+      "ORLY",
+      "NEWARK INTERNATIONAL",
+      "EWR"
+    ],
+    "dates": [
+      "110110"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00028547",
+      "012053"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b) (7) (E)' and '(b) (6) , (b) (7) (C)'. The document appears to be a data report related to API/HIT data."
+}

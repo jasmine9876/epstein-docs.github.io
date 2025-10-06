@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "2147",
+    "document_number": "DOJ-OGR-00025987",
+    "date": "2019/08/10",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2147\nEpstein, Jeffrey Edward, Reg. No. 73618-054\nFrom Charisma Edge\nTo Lamine N'Diaye\nDate 2019/08/10 12:36\nSubject: Epstein, Jeffrey Edward, Reg. No. 73618-054\nAttachments: TEXT.htm, Epstein, Jeffrey Edward, Reg. No. 73618-054.docx, Charisma Edge.vcf\nCharisma Edge\nAssociate Warden\nMCC New York\n150 Park Row\nNew York, NY 10007\n646-836-6300 ext. (b)(6); (b)(7)(C)\n(b)(6): @bop.gov\nNYM/AW-Programs-@bop.gov\nPage 11707\nDOJ-OGR-00025987",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Epstein, Jeffrey Edward, Reg. No. 73618-054\nFrom Charisma Edge\nTo Lamine N'Diaye\nDate 2019/08/10 12:36\nSubject: Epstein, Jeffrey Edward, Reg. No. 73618-054\nAttachments: TEXT.htm, Epstein, Jeffrey Edward, Reg. No. 73618-054.docx, Charisma Edge.vcf",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Charisma Edge\nAssociate Warden\nMCC New York\n150 Park Row\nNew York, NY 10007\n646-836-6300 ext.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "@bop.gov\nNYM/AW-Programs-@bop.gov",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 11707\nDOJ-OGR-00025987",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Edward Epstein",
+      "Charisma Edge",
+      "Lamine N'Diaye"
+    ],
+    "organizations": [
+      "MCC New York",
+      "BOP"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "2019/08/10"
+    ],
+    "reference_numbers": [
+      "73618-054",
+      "DOJ-OGR-00025987"
+    ]
+  },
+  "additional_notes": "The document appears to be an email with redactions in the phone number extension and email addresses."
+}

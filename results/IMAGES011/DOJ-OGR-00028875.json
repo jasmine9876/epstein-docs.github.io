@@ -1,0 +1,53 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "DOJ-OGR-00028875",
+    "date": "042814",
+    "document_type": "TECS II - PERSON SUBJECT DISPLAY",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:08 TECS II - PERSON SUBJECT DISPLAY (4 OF 4) 042814 *B TECS RECORD ID (b) (7) (E) ENTRY *D UPDATE *E RECEIPT # ALIEN # ISSUE # ISSUE TYPE CARD STATUS MORE (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6) , (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) *E - (b) (7) (E)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:08 TECS II - PERSON SUBJECT DISPLAY (4 OF 4) 042814",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "*B TECS RECORD ID (b) (7) (E) ENTRY *D UPDATE *E RECEIPT # ALIEN # ISSUE # ISSUE TYPE CARD STATUS MORE",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "(b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b) (7) (E) *B - (b) (6) , (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) *E - (b) (7) (E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028875",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "042814"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00028875",
+      "(b) (7) (E)",
+      "(b) (6)",
+      "(b) (7) (C)"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted TECS II record display with various fields and a key explaining the redactions. The redactions are extensive, with most information obscured."
+}

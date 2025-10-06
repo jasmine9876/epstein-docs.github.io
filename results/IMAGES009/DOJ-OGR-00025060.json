@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "607",
+    "document_number": "DOJ-OGR-00025060",
+    "date": "5/19/2020",
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 607 Page 5 Log Date/Time User Action Alias Post Shift date Watch Assignment Type Mndtry 07/22/19 22:07 (b)(6); (b)(7)(C) Signed Up for OT (b)(6); (b)(7)(C) N/A 08/30/19 N/A N/A 07/22/19 22:07 Signed Up for OT N/A 08/30/19 N/A N/A ... 07/22/19 18:12 OT Assigned 5 NORTH 07/23/19 M/W Signup List 5/19/2020 10:36:43 AM DOJ-OGR-00025060",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 607",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Page 5",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Log Date/Time User Action Alias Post Shift date Watch Assignment Type Mndtry",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "07/22/19 22:07 (b)(6); (b)(7)(C) Signed Up for OT (b)(6); (b)(7)(C) N/A 08/30/19 N/A N/A",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "5/19/2020 10:36:43 AM",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025060",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "07/22/19",
+      "08/30/19",
+      "07/23/19",
+      "07/26/19",
+      "08/03/19",
+      "07/25/19",
+      "07/24/19",
+      "07/22/19",
+      "5/19/2020"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00025060"
+    ]
+  },
+  "additional_notes": "The document appears to be a log of user actions related to overtime (OT) assignments. The log includes dates, user IDs, actions, and other relevant information. The document is well-structured and easy to read."
+}

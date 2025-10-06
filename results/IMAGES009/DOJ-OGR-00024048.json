@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024048",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "(b)(6), (b)(7)(C) 7/5 G.Talihu J.Epstein 76 3/8-04 2:40 6:35 (b)(6), (b)(7)(C) 8/5 Indy baccarat Epstein 76 3/8-04 3:00 6:30 WERACON PLC Eptien 76 3/16-04 3:00 6:20 (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) 8/5 Oonodine Eson 76 3/8-04 5:15 (b)(6), (b)(7)(C) (b)(6) (b)(7)(C) 4/6 G.Tali hu J. Eptien 76 3/8-04 8:35 2:55 (b)(6), (b)(7)(C) (b)(6), (b)(7)(C)",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "7/5 G.Talihu J.Epstein 76 3/8-04 2:40 6:35",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/5 Indy baccarat Epstein 76 3/8-04 3:00 6:30 WERACON PLC Eptien 76 3/16-04 3:00 6:20",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/5 Oonodine Eson 76 3/8-04 5:15",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "4/6 G.Tali hu J. Eptien 76 3/8-04 8:35 2:55",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024048",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "G.Talihu",
+      "J.Epstein",
+      "Indy baccarat",
+      "Eptien",
+      "Oonodine Eson",
+      "G.Tali hu",
+      "J. Eptien"
+    ],
+    "organizations": [
+      "WERACON PLC"
+    ],
+    "locations": [],
+    "dates": [
+      "3/8-04",
+      "3/16-04",
+      "7/5",
+      "8/5",
+      "4/6"
+    ],
+    "reference_numbers": [
+      "76",
+      "DOJ-OGR-00024048"
+    ]
+  },
+  "additional_notes": "The document appears to be a log or record of some sort, with handwritten entries. Much of the document is redacted, with green highlights covering large portions of the text. The redactions are labeled '(b)(6), (b)(7)(C)', indicating that they are related to personal privacy and law enforcement information."
+}

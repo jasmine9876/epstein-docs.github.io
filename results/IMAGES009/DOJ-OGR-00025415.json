@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "1210",
+    "document_number": "76318-054",
+    "date": "2019/08/10",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Fwd: Epstein, Jeffrey, Register No. 76318-054 From Shirley V. Skipper-Scott To [redacted] Date 2019/08/10 20:07 Subject: Fwd: Epstein, Jeffrey, Register No. 76318-054 Attachments: TEXT.htm Page 3293 DOJ-OGR-00025415",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Fwd: Epstein, Jeffrey, Register No. 76318-054",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "From Shirley V. Skipper-Scott To [redacted] Date 2019/08/10 20:07 Subject: Fwd: Epstein, Jeffrey, Register No. 76318-054 Attachments: TEXT.htm",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 3293 DOJ-OGR-00025415",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Shirley V. Skipper-Scott"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "2019/08/10"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00025415"
+    ]
+  },
+  "additional_notes": "The 'To' field is redacted."
+}

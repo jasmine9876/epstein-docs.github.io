@@ -1,0 +1,77 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028424",
+    "date": "042814",
+    "document_type": "PQH API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 *B PQH API/HIT DATA 042814 *A *C NAME DOB ----- QUERY ----- LNE TERM/ DATE TIME AGN RSLT TYP REF LANE API EPSTEIN, JEFFREY E 012053 082313 0000 *D API R UNKNOWN AIRPORT (USED ONLY W API DATA ---- INDICATOR : R REPORTED CARRIER CODE : *GA GENERAL AVIATION FLT/VES NUMBER : N909JE ARRIVAL LOCATION : XXX UNKNOWN AIRPORT (USED ON DEPARTURE LOCATION : TEB TETERBORO TRANSMITTED BY : APGA928N GENERAL AVIATION INBOUND/OUTBOUND : OUTBOUND (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) DOJ-OGR-00028424",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07 *B PQH API/HIT DATA 042814 *A *C",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB ----- QUERY ----- LNE TERM/ DATE TIME AGN RSLT TYP REF LANE API",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY E 012053 082313 0000 *D API R",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "UNKNOWN AIRPORT (USED ONLY W",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "API DATA ---- INDICATOR : R REPORTED CARRIER CODE : *GA GENERAL AVIATION FLT/VES NUMBER : N909JE ARRIVAL LOCATION : XXX UNKNOWN AIRPORT (USED ON DEPARTURE LOCATION : TEB TETERBORO TRANSMITTED BY : APGA928N GENERAL AVIATION INBOUND/OUTBOUND : OUTBOUND",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E) (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028424",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY E EPSTEIN"
+    ],
+    "organizations": [
+      "GENERAL AVIATION"
+    ],
+    "locations": [
+      "UNKNOWN AIRPORT",
+      "TETERBORO",
+      "PETERBORO"
+    ],
+    "dates": [
+      "082313",
+      "042814",
+      "012053"
+    ],
+    "reference_numbers": [
+      "N909JE",
+      "APGA928N",
+      "DOJ-OGR-00028424"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted API/HIT data report related to Jeffrey Epstein's flight information. Multiple sections are redacted with codes such as (b)(7)(E) and (b)(6), (b)(7)(C)."
+}

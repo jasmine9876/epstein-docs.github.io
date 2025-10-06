@@ -1,0 +1,68 @@
+{
+  "document_metadata": {
+    "page_number": "8",
+    "document_number": "DOJ-OGR-00024140",
+    "date": "07/09/2019",
+    "document_type": "Medical Examination Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Inmate Name: EPSTEIN, JEFFREY EDWARD\nDate of Birth: 01/20/1953\nEncounter Date: 07/09/2019 12:35\nSex: M\nRace: WHITE\nReg #: 76318-054\nProvider: (b)(6)\n(b)(7)(C)\nMLP\nFacility: NYM\nUnit: H01\n\nEyes:\nEOMI: Yes\nIctertus: No\nConjunctival Inflammation: No\nPupils PERRLA: Yes\nPupil Size Rt:\nPupil Size Lt:\nPupils Comments:\nFundi Vessels Nicking: No\nFundi Vessels Discs Flat: Yes\nFundi Vessels Discs Sharp Margins: Yes\nFundi Vessels Grounds Abnormal: No\nEyes Comments:\n\nVision Screen 07/09/2019 12:52\nBlindness:\n\nDistance Vision: OD: 100 OS: 70 OU:\nNear Vision: OD: OS: OU:\nIshihara Color Test:\nTonometry: L: R:\n\nWith Corrective\nOD: OS OU:\nOD: OS OU:\n\nComments: Needs evaluation with optometrist.\n\nEars:\nRight Ear: Canal patent\nLeft Ear: Canal patent\nEars Comments:\n\nNose:\nNares Patent: Yes\nSeptum Midline: Yes\nSeptum Intact: Yes\nDrainage/Discharge: No\nPolyps: No\nNose Comments:\n\nGenerated 07/09/2019 13:03 by (b)(6) MLP Bureau of Prisons - NYM\nPage 8 of 13",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD\nDate of Birth: 01/20/1953\nEncounter Date: 07/09/2019 12:35\nSex: M\nRace: WHITE\nReg #: 76318-054\nProvider: (b)(6)\n(b)(7)(C)\nMLP\nFacility: NYM\nUnit: H01",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Eyes:\nEOMI: Yes\nIctertus: No\nConjunctival Inflammation: No\nPupils PERRLA: Yes\nPupil Size Rt:\nPupil Size Lt:\nPupils Comments:\nFundi Vessels Nicking: No\nFundi Vessels Discs Flat: Yes\nFundi Vessels Discs Sharp Margins: Yes\nFundi Vessels Grounds Abnormal: No\nEyes Comments:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Vision Screen 07/09/2019 12:52\nBlindness:\n\nDistance Vision: OD: 100 OS: 70 OU:\nNear Vision: OD: OS: OU:\nIshihara Color Test:\nTonometry: L: R:\n\nWith Corrective\nOD: OS OU:\nOD: OS OU:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Comments: Needs evaluation with optometrist.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Ears:\nRight Ear: Canal patent\nLeft Ear: Canal patent\nEars Comments:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Nose:\nNares Patent: Yes\nSeptum Midline: Yes\nSeptum Intact: Yes\nDrainage/Discharge: No\nPolyps: No\nNose Comments:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/09/2019 13:03 by (b)(6) MLP Bureau of Prisons - NYM\nPage 8 of 13",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/09/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024140"
+    ]
+  },
+  "additional_notes": "The document appears to be a medical examination report for an inmate. Some personal identifiable information is redacted."
+}

@@ -1,0 +1,53 @@
+{
+  "document_metadata": {
+    "page_number": "11",
+    "document_number": "DOJ-OGR-00024143",
+    "date": "07/09/2019",
+    "document_type": "Medical Examination Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Sex: M Race: WHITE Reg #: 76318-054 Encounter Date: 07/09/2019 12:35 Provider: (b)(6) MLP Facility: NYM Unit: H01 Abdomen: Normal Contour:Yes Scaphoid: No Obese: No Gravid: No Hernias: No Bruits: No Masses:No Scars: No Tenderness: No Organomegaly: No Active Bowel Sounds: Yes Comments: Extremities: Nails Clubbing: No Nails Cyanosis: No Lower Extremity Edema - Right: None Lower Extremity Edema - Left: None Atrophy: No Amputations: No Other Deformities: No Varicosities:No Calf Tenderness:No Pulse Deficit:No Strength: Right Left Arm: Leg: Full ROM: Right Left Arm: Yes Yes Leg: Yes Yes Comments: Generated 07/09/2019 13:03 by (b)(6) MLP Bureau of Prisons - NYM Page 11 of 13 DOJ-OGR-00024143",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Sex: M Race: WHITE Reg #: 76318-054 Encounter Date: 07/09/2019 12:35 Provider: (b)(6) MLP Facility: NYM Unit: H01",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Abdomen: Normal Contour:Yes Scaphoid: No Obese: No Gravid: No Hernias: No Bruits: No Masses:No Scars: No Tenderness: No Organomegaly: No Active Bowel Sounds: Yes Comments:",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Extremities: Nails Clubbing: No Nails Cyanosis: No Lower Extremity Edema - Right: None Lower Extremity Edema - Left: None Atrophy: No Amputations: No Other Deformities: No Varicosities:No Calf Tenderness:No Pulse Deficit:No Strength: Right Left Arm: Leg: Full ROM: Right Left Arm: Yes Yes Leg: Yes Yes Comments:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/09/2019 13:03 by (b)(6) MLP Bureau of Prisons - NYM Page 11 of 13 DOJ-OGR-00024143",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/09/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024143"
+    ]
+  },
+  "additional_notes": "The document appears to be a medical examination report for Jeffrey Epstein, with various sections detailing his medical condition. Some information is redacted, marked as '(b)(6)'."
+}

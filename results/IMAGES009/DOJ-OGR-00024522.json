@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024522",
+    "date": null,
+    "document_type": "Daily Lieutenant's Log",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "UNITED STATES DEPARTMENT OF JUSTICE METROPOLITAN CORRECTIONAL CENTER, NEW YORK, NY DAILY LIEUTENANT'S LOG D/W Daily Sensitive Information: (b)(6) (b)(7)(C) I/M Epstein on Psych obs. w/inmate companion 8:00 AM Lieutenant (b)(6) (b)(7)(C) assumes duties as the Day Watch Operations Lieutenant. (b)(7)(E), (b)(7)(F) 8:00 AM (b)(7)(F) 8:05 AM -2 Out to court: (b)(6), (b)(7)(C) 8:15 AM (b)(7)(F) Initiated. 8:30 AM AM Census Conducted 8:46 AM (b)(7)(F) Complete. 9:09 AM -1 L-Hosp w/bop staff: (b)(6) (b)(7)(C) 9:39 AM -1 FT REL: (b)(6), (b)(7)(C) 10:30 AM Inmate (b)(6) (b)(7)(C) 11:00 AM Mainline Conducted 12:30 PM PM Census Conducted 12:43 PM +1; 1/M (b)(6) (b)(7)(C) 12:46 PM +1 Hosp. return; I/M (b)(6) (b)(7)(C) 1:25 PM +1 court return (b)(6) (b)(7)(C) 3:09 PM -1 hospital trip; (b)(6), (b)(7)(C) 3:45 PM Institutional lockdown for count. 4:00 PM Relieved of duties by Lt. (b)(6) (b)(7)(C) as E/W Operations Lieutenant. Visitation: 9 SOUTH Inmates Adults Children Total 17 17 7 41  ION SCANNING TESTED HITS: 0 (b)(7)(E), (b)(7)(F) The following Inmate(s) were placed in Administrative Detention: 0 Name Reg Number Reason Unit TIME A/D Order (b)(6) (b)(7)(C) Ops Lt (b)(6) (b)(7)(C) Ending Count (bNF); SHU: (bNF) 10-South. (b)(6) (b)(7)(C) Act Lt Local Hosp: (bNF) H/A OBS: (bNF) B/A OBS: (bNF) Dry Cell: (b)(6) (b)(7)(C)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "UNITED STATES DEPARTMENT OF JUSTICE METROPOLITAN CORRECTIONAL CENTER, NEW YORK, NY DAILY LIEUTENANT'S LOG",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "D/W Daily Sensitive Information:",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "The following Inmate(s) were placed in Administrative Detention: 0",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "ION SCANNING TESTED HITS: 0",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024522",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein",
+      "Lieutenant"
+    ],
+    "organizations": [
+      "UNITED STATES DEPARTMENT OF JUSTICE",
+      "METROPOLITAN CORRECTIONAL CENTER"
+    ],
+    "locations": [
+      "NEW YORK",
+      "NY",
+      "9 SOUTH",
+      "SHU",
+      "10-South"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00024522"
+    ]
+  },
+  "additional_notes": "The document contains redactions, likely for privacy or security reasons. The log details various activities and movements within the correctional facility, including inmate transfers, court appearances, and counts."
+}

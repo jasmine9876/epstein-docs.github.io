@@ -1,0 +1,100 @@
+{
+  "document_metadata": {
+    "page_number": "0032",
+    "document_number": "DOJ-OGR-00028226",
+    "date": "04282014",
+    "document_type": "TECSII - PRIMARY QUERY HISTORY",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 TECSII - PRIMARY QUERY HISTORY 04282014 *A *B *C PASSENGER ACTIVITY PAGE NO. 0032 NAME DOB QUERY DATE TIME AGN ---- LNE TERM/ RS LT TYP REF LANE API DIM EPSTEIN, JEFFREY E 012053 052213 0000 *D API R N LONG ISLAND MACARTHUR DOC: 469911707 US P INSP: APIS QRY EPSTEIN, JEFFREY E 012053 041413 0000 *E API R N UNKNOWN AIRPORT (USED ONLY W DOC: 469911707 US P INSP: APIS QRY EPSTEIN, JEFFREY E 012053 042113 0000 *F API R N UNKNOWN AIRPORT (USED ONLY W DOC: 469911707 US P INSP: APIS QRY EPSTEIN, JEFFREY E 012053 031913 0000 *G API R N UNKNOWN AIRPORT (USED ONLY W DOC: 469911707 US P INSP: APIS QRY EPSTEIN, JEFFREY E 012053 032113 0000 *H API R N UNKNOWN AIRPORT (USED ONLY W DOC: 469911707 US P INSP: APIS QRY EPSTEIN, JEFFREY E 012053 033113 1727 CUS *I API C N BANGOR DOC: 469911707 US P INSP: *J (b)(7)(E) <...MORE...> (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(7)(E) *F - (b)(7)(E) *G - (b)(7)(E) *H - (b)(7)(E) *I - (b)(7)(E) *J - (b)(6), (b)(7)(C) DOJ-OGR-00028226",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "TECSII - PRIMARY QUERY HISTORY PASSENGER ACTIVITY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE NO. 0032",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB QUERY DATE TIME AGN ---- LNE TERM/ RS LT TYP REF LANE API DIM",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY E 012053 052213 0000 *D API R N LONG ISLAND MACARTHUR DOC: 469911707 US P INSP: APIS QRY",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY E 012053 041413 0000 *E API R N UNKNOWN AIRPORT (USED ONLY W DOC: 469911707 US P INSP: APIS QRY",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY E 012053 042113 0000 *F API R N UNKNOWN AIRPORT (USED ONLY W DOC: 469911707 US P INSP: APIS QRY",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY E 012053 031913 0000 *G API R N UNKNOWN AIRPORT (USED ONLY W DOC: 469911707 US P INSP: APIS QRY",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY E 012053 032113 0000 *H API R N UNKNOWN AIRPORT (USED ONLY W DOC: 469911707 US P INSP: APIS QRY",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY E 012053 033113 1727 CUS *I API C N BANGOR DOC: 469911707 US P INSP: *J",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E) <...MORE...> (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(7)(E) *F - (b)(7)(E) *G - (b)(7)(E) *H - (b)(7)(E) *I - (b)(7)(E) *J - (b)(6), (b)(7)(C)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028226",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY E EPSTEIN"
+    ],
+    "organizations": [
+      "APIS"
+    ],
+    "locations": [
+      "LONG ISLAND MACARTHUR",
+      "UNKNOWN AIRPORT",
+      "BANGOR"
+    ],
+    "dates": [
+      "052213",
+      "041413",
+      "042113",
+      "031913",
+      "032113",
+      "033113",
+      "04282014"
+    ],
+    "reference_numbers": [
+      "469911707",
+      "DOJ-OGR-00028226"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted TECSII query history report. Multiple sections are blacked out with (b)(7)(E) and other codes, indicating redactions for national security or law enforcement purposes."
+}

@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "1204",
+    "document_number": "DOJ-OGR-00025409",
+    "date": "7-23-19",
+    "document_type": "Suicide Watch Observation Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Suicide Watch Observation Log\nName of Inmate on watch: EPSTEIN Reg #: 76315-054 Date: 7-23-19\nTime Observations: Briefly note your observations. Initial all entries. Initials\n11:15pm Inmate Epstein is watching TV\n11:30pm Inmate Epstein is watching STAR TREK DS9 (b)(6); (b)(7)(C) PSSUNS\nresponsibility for s/w watch of I/M EPSTEIN on cell check N 7-23-19\n19:15 I/m Epstein has Refused Even CGCAC\n19:30 I/m Epstein is talking about ACCIDENTS\n19:45 I/m EPSTEIN is talking about finance\n20:00 I/m Epstein is talking about science\n20:15 I/m Epstein is talking about science\n20:30 I/m EPSTEIN is talking about math\n20:45 I/m EPSTEIN is talking about finance\n21:00 I/m EPSTEIN is talking about the prison environment\n21:15 I/m EPSTEIN is discussing prison environment\n21:30 I/m Epstein is talking about his gastrointestinal maintenance/physics\n21:45 I/m Epstein is eating peanut butter and drinking water\n22:00 I/m Epstein decides to lay down\n22:15 I/m Epstein appears to be sleeping\n22:30 I/m Epstein appears to be sleeping\n22:45 I/m Epstein continues to be sleeping\nEND SHIFT (b)(6); (b)(7)(C)\nNote to all observers: Legibly print and sign your name at the beginning of your shift.",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Suicide Watch Observation Log",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "EPSTEIN",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "Name of Inmate on watch: Reg #: Date:",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "76315-054 7-23-19",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Time Observations: Briefly note your observations. Initial all entries. Initials",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "11:15pm Inmate Epstein is watching TV\n11:30pm Inmate Epstein is watching STAR TREK DS9 (b)(6); (b)(7)(C) PSSUNS\nresponsibility for s/w watch of I/M EPSTEIN on cell check N 7-23-19\n19:15 I/m Epstein has Refused Even CGCAC\n19:30 I/m Epstein is talking about ACCIDENTS\n19:45 I/m EPSTEIN is talking about finance\n20:00 I/m Epstein is talking about science\n20:15 I/m Epstein is talking about science\n20:30 I/m EPSTEIN is talking about math\n20:45 I/m EPSTEIN is talking about finance\n21:00 I/m EPSTEIN is talking about the prison environment\n21:15 I/m EPSTEIN is discussing prison environment\n21:30 I/m Epstein is talking about his gastrointestinal maintenance/physics\n21:45 I/m Epstein is eating peanut butter and drinking water\n22:00 I/m Epstein decides to lay down\n22:15 I/m Epstein appears to be sleeping\n22:30 I/m Epstein appears to be sleeping\n22:45 I/m Epstein continues to be sleeping\nEND SHIFT (b)(6); (b)(7)(C)",
+      "position": "main"
+    },
+    {
+      "type": "printed",
+      "content": "Note to all observers: Legibly print and sign your name at the beginning of your shift.",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "prison"
+    ],
+    "dates": [
+      "7-23-19"
+    ],
+    "reference_numbers": [
+      "76315-054",
+      "DOJ-OGR-00025409"
+    ]
+  },
+  "additional_notes": "The document is a Suicide Watch Observation Log for inmate Epstein. The log contains handwritten observations from 11:15pm to 22:45. The document has some redactions."
+}

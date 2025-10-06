@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "2110",
+    "document_number": "Epstein # 7678-054",
+    "date": null,
+    "document_type": "log or diary entry",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2110 Epstein # 7678-054 8:06 --- Iln Epstein and I are discussing investment strategies 8:17 --- Iln Epstein and I are continuing the discussion 8:30 --- Iln Epstein and I are now discussing inmate safety 8:47 --- Iln Epstein is asking me questions about prison adjustment 9:00 --- Iln Epstein paused to work his food 9:15 --- Iln Epstein is lying down for a rest 9:31 --- Room check --- HE 9:30 Iln Epstein is asleep 9:45 Iln Epstein continues at rest 10:00 Iln Epstein lying on his back asleep 10:15 Iln Epstein motionless and apparently asleep on his back 10:30 Iln Epstein is asleep and snoring 10:45 Iln Epstein is for a second and now lying down again 10:55 END SHIFT 10:55pm (b)(6); (b)(7)(C) (b)(6); (b)(7)(C) DOJ-OGR-00025950",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "Epstein # 7678-054 8:06 --- Iln Epstein and I are discussing investment strategies 8:17 --- Iln Epstein and I are continuing the discussion 8:30 --- Iln Epstein and I are now discussing inmate safety 8:47 --- Iln Epstein is asking me questions about prison adjustment 9:00 --- Iln Epstein paused to work his food 9:15 --- Iln Epstein is lying down for a rest 9:31 --- Room check --- HE 9:30 Iln Epstein is asleep 9:45 Iln Epstein continues at rest 10:00 Iln Epstein lying on his back asleep 10:15 Iln Epstein motionless and apparently asleep on his back 10:30 Iln Epstein is asleep and snoring 10:45 Iln Epstein is for a second and now lying down again 10:55 END SHIFT 10:55pm",
+      "position": "main content"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025950",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein",
+      "Iln Epstein"
+    ],
+    "organizations": [],
+    "locations": [
+      "prison"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "7678-054",
+      "DOJ-OGR-00025950"
+    ]
+  },
+  "additional_notes": "The document appears to be a log or diary entry detailing the activities and status of Jeffrey Epstein while in prison. The handwriting is cursive and mostly legible. There are redactions in the margin."
+}

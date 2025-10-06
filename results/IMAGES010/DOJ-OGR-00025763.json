@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "1730",
+    "document_number": "DOJ-OGR-00025763",
+    "date": "July 24, 2019",
+    "document_type": "Memorandum",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "United States Government MEMORANDUM MCC NEW YORK Page 1730 DATE: July 24, 2019 TO: Lieutenant's Office FROM: [b)(6); (b)(7)(C) Ph.D. RE: REMOVE FROM SUICIDE WATCH AND PLACE ON PSYCHOLOGICAL OBSERVATION Please remove inmate Epstein #76318-054 from Suicide Watch and place him on Psychological Observation.",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "United States Government MEMORANDUM MCC NEW YORK",
+      "position": "header"
+    },
+    {
+      "type": "stamp",
+      "content": "FEDERAL BUREAU OF PRISONS DEPARTMENT OF JUSTICE",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DATE: July 24, 2019 TO: Lieutenant's Office FROM: [b)(6); (b)(7)(C) Ph.D. RE: REMOVE FROM SUICIDE WATCH AND PLACE ON PSYCHOLOGICAL OBSERVATION",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "[Signature]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Please remove inmate Epstein #76318-054 from Suicide Watch and place him on Psychological Observation.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025763",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [
+      "Federal Bureau of Prisons",
+      "Department of Justice"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "July 24, 2019"
+    ],
+    "reference_numbers": [
+      "#76318-054",
+      "DOJ-OGR-00025763"
+    ]
+  },
+  "additional_notes": "The document contains redactions and a signature. The document is a memorandum from the Federal Bureau of Prisons."
+}

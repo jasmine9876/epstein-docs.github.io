@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": "2945",
+    "document_number": "DOJ-OGR-00026601",
+    "date": "8/11/2019",
+    "document_type": "OFFICIAL OUT-COUNT FORM",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2945\nMETROPOLITAN CORRECTIONAL CENTER\nNEW YORK, NY\nOFFICIAL OUT-COUNT FORM\nDATE: 8/11/2019 TIME: 10:00AM\nFROM: (b)(6); (b)(7)(C) Staff Supervising Out-Count LOCATION: F/S\nNumber Name Unit Number Name Unit\n1 (b)(6); (b)(7)(C) KS 21\n2 KS 22\n3 KS 23\n4 KS 24\n5 KS 25\n6 KS 26\n7 KS 27\n8 KS 28\n9 KS 29\n10 KS 30\n11 KS 31\n12 KS 32\n13 KS 33\n14 KS 34\n15 ES 35\n16 KS 36\n17 37\n18 38\n19 39\n20 40\nOUT-COUNTS BY UNIT: B-A C-A G-N K-N H-A E-N G-S L-N Z-A Z-B E-S 1 K-S 15 R-A TOTAL ON OUT COUNT: 16 (b)(6); (b)(7)(C) Approving\nOut-counts will be submitted (2) hours prior to the count. Out-counts WILL be submitted in ink, and legible. Out-counts should list inmates alphabetically by unit with the inmate's name, register number, and quarters assignment. Please verify all information.\nDOJ-OGR-00026601",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "METROPOLITAN CORRECTIONAL CENTER NEW YORK, NY OFFICIAL OUT-COUNT FORM",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/11/2019 10:00AM (b)(6); (b)(7)(C) F/S",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Number Name Unit Number Name Unit",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6); (b)(7)(C) KS 21 ... KS 36 ES 35",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "OUT-COUNTS BY UNIT: ... TOTAL ON OUT COUNT: ... Approving",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "E-S 1 K-S 15 16 (b)(6); (b)(7)(C)",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "(b)(6); (b)(7)(C)"
+    ],
+    "organizations": [
+      "METROPOLITAN CORRECTIONAL CENTER"
+    ],
+    "locations": [
+      "NEW YORK, NY"
+    ],
+    "dates": [
+      "8/11/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026601"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6); (b)(7)(C). The form is filled out with handwritten entries, primarily listing names and unit numbers. The document appears to be a standard form used for counting inmates at the Metropolitan Correctional Center."
+}

@@ -1,0 +1,141 @@
+{
+  "document_metadata": {
+    "page_number": "63",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Check Image",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "JAN-19-2005 12:56 P.04 3175175 Name Alfredo Rodriguez Account No 804056032 Date 12/8/04 Pay to the Order of CACA $ 1000.00 One Thousand and 00/100 Dollars COLONIAL BANK Port Beach, Florida 1-877-802-2296 Alfredo Rodriguez 0000 10000 0370% 07/26/17 Page 63 of 114 Public Records Request No.: 17-295 DOJ-OGR-00030416",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "JAN-19-2005 12:56",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "P.04",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Alfredo Rodriguez",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Account No",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "804056032",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Date",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "12/8/04",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Pay to the Order of",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "CACA",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "$",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "1000.00",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "One Thousand and 00/100",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "COLONIAL BANK",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Port Beach, Florida 1-877-802-2296",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Alfredo Rodriguez",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "0000 10000 0370%",
+      "position": "bottom"
+    },
+    {
+      "type": "stamp",
+      "content": "3175175",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 63 of 114",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00030416",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Alfredo Rodriguez"
+    ],
+    "organizations": [
+      "COLONIAL BANK",
+      "CACA"
+    ],
+    "locations": [
+      "Port Beach, Florida"
+    ],
+    "dates": [
+      "JAN-19-2005",
+      "12/8/04",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "804056032",
+      "17-295",
+      "DOJ-OGR-00030416"
+    ]
+  },
+  "additional_notes": "The document is a scanned image of a check from Colonial Bank, dated December 8, 2004, for $1000.00, made payable to CACA. The check is signed by Alfredo Rodriguez. The image also includes a stamp with the number 3175175 and various metadata, including the date it was scanned (January 19, 2005) and the page number (63 of 114)."
+}

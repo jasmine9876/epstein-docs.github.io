@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024509",
+    "date": null,
+    "document_type": "Inmate Visit Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE NAME Signature Inmate Reg# Time in Time out (b)(6) (b)(7)(C) (b)(6) (b)(7)(C) Epstein 705318-004 1615 1130 (b)(6) (b)(7)(C) (b)(6) (b)(7)(C) Epstein 705318-004 1620 4:06 (b)(6) (b)(7)(C) (b)(6) (b)(7)(C) Epstein 705318-004 3196 0:50 (b)(6) (b)(7)(C) (b)(6) (b)(7)(C) Epstein 063180555 KUP (b)(6)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE NAME Signature Inmate Reg# Time in Time out",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "2/6 (b)(6) (b)(7)(C) (b)(6) (b)(7)(C) Epstein 705318-004 1615 1130",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "2/8 (b)(6) (b)(7)(C) (b)(6) (b)(7)(C) Epstein 705318-004 1620 4:06",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/6/19 (b)(6) (b)(7)(C) (b)(6) (b)(7)(C) Epstein 705318-004 3196 0:50",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/8 (b)(6) (b)(7)(C) (b)(6) (b)(7)(C) Epstein 063180555 KUP (b)(6)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024509",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "2/6",
+      "2/8",
+      "8/6/19",
+      "8/8"
+    ],
+    "reference_numbers": [
+      "705318-004",
+      "063180555",
+      "DOJ-OGR-00024509"
+    ]
+  },
+  "additional_notes": "The document appears to be an inmate visit log with redacted names and some handwritten entries. The document quality is good, but some information is redacted."
+}

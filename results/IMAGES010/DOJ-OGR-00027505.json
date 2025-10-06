@@ -1,0 +1,73 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00027505",
+    "date": "04/11/2003",
+    "document_type": "Admissibility Secondary Inspection",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "UNCLASSIFIED // FOR OFFICIAL USE ONLY EPSTEIN JEFFREY (b)(7)(E) 04/11/2003 00:45:00 Admissibility Secondary Inspection (b)(7)(E) (b)(7)(E) Crossing Information Site: CBP-PALM BEACH, INTERNATIONAL (b)(7)(E) Disposition: U.S. Citizen (USC) Port Crossing Date: 04/11/2003 00:45:00 Referred Date: 04/11/2003 00:45:56 Airline: (b)(7)(E) Comment: VERIFIED SUBJECT'S IDENTITY. SUBJECT ADMITTED USC. Subject Passenger Document Last Name: EPSTEIN Document Issue Country: United States (US/USA) First Name: JEFFREY Document Number: (b)(6).(b)(7)(C) Date Of Birth: 01/20/1953 Gender: Male (b)(6) Referral/Vehicle Information Miscellaneous Info Referral Reason: (b)(7)(E) Type Association: Document Type UNCLASSIFIED // FOR OFFICIAL USE ONLY DOJ-OGR-00027505",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "UNCLASSIFIED // FOR OFFICIAL USE ONLY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN JEFFREY (b)(7)(E) 04/11/2003 00:45:00 Admissibility Secondary Inspection (b)(7)(E) (b)(7)(E)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Crossing Information Site: CBP-PALM BEACH, INTERNATIONAL (b)(7)(E) Disposition: U.S. Citizen (USC) Port Crossing Date: 04/11/2003 00:45:00 Referred Date: 04/11/2003 00:45:56 Airline: (b)(7)(E) Comment: VERIFIED SUBJECT'S IDENTITY. SUBJECT ADMITTED USC.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Subject Last Name: EPSTEIN First Name: JEFFREY Date Of Birth: 01/20/1953 Gender: Male (b)(6)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Passenger Document Document Issue Country: United States (US/USA) Document Number: (b)(6).(b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Referral/Vehicle Information Referral Reason: (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Miscellaneous Info Type Association: Document Type",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "UNCLASSIFIED // FOR OFFICIAL USE ONLY DOJ-OGR-00027505",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "CBP"
+    ],
+    "locations": [
+      "Palm Beach"
+    ],
+    "dates": [
+      "04/11/2003",
+      "01/20/1953"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00027505",
+      "(b)(6).(b)(7)(C)"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(7)(E) and (b)(6).(b)(7)(C)."
+}

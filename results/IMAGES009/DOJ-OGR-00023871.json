@@ -1,0 +1,53 @@
+{
+  "document_metadata": {
+    "page_number": "3924",
+    "document_number": "DOJ-OGR-00023871",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "(b)(6), (b)(7)(C) Assistant United States Attorney Southern District of New York 1 St. Andrew's Plaza New York, NY 10007 212-637(b)(6) (b)(7)(E) @usdoj.gov Page 3924 DOJ-OGR-00023871",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Assistant United States Attorney Southern District of New York 1 St. Andrew's Plaza New York, NY 10007",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "212-637(b)(6)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "@usdoj.gov",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Page 3924",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00023871",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "US Department of Justice"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00023871",
+      "212-637"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6), (b)(7)(C), and (b)(7)(E). The image quality is clear, and the text is mostly printed with some redacted sections."
+}

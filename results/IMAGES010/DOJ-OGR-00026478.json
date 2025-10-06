@@ -1,0 +1,51 @@
+{
+  "document_metadata": {
+    "page_number": "2822",
+    "document_number": "DOJ-OGR-00026478",
+    "date": "08/05/2019",
+    "document_type": "30 MINUTE CHECK SHEET",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "MCC NEW YORK SPECIAL HOUSING UNIT 30 MINUTE CHECK SHEET ZA TIER-J DATE: 08/05/2019 ... (rest of the text as it appears on the page)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "MCC NEW YORK SPECIAL HOUSING UNIT 30 MINUTE CHECK SHEET ZA TIER-J DATE: 08/05/2019",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "1207 1209 ... (all handwritten times)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "A staff member must observe all inmates confined in a continuous locked down status...",
+      "position": "bottom"
+    },
+    {
+      "type": "stamp",
+      "content": "MCC NEW YORK SPECIAL HOUSING UNIT",
+      "position": "header"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "MCC NEW YORK",
+      "SPECIAL HOUSING UNIT",
+      "DOJ"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "08/05/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026478"
+    ]
+  },
+  "additional_notes": "The document contains handwritten times and signatures, with some redacted information. The document is a 30-minute check sheet for inmates in a special housing unit."
+}

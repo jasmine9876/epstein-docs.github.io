@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": "1618",
+    "document_number": "76318-054",
+    "date": "2019/08/10 18:14",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Epstein, Reg. No. 76318-054\nFrom Charisma Edge\nTo Lamine N'Diaye\nDate 2019/08/10 18:14\nSubject: Epstein, Reg. No. 76318-054\nAttachments: TEXT.htm, 2019_08_10_18_12_55.pdf, Charisma Edge.vcf\nPsych Ops discontinued on 7/30/18 at 8:15 am\nCharisma Edge\nAssociate Warden\nMCC New York\n150 Park Row\nNew York, NY 10007\n646-836-6300 ext. (b)(6); (b)(7)(C)\n(b)(6); (b)(7)(C)@bop.gov\nNYM/AW-Programs~@bop.gov",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Epstein, Reg. No. 76318-054\nFrom Charisma Edge\nTo Lamine N'Diaye\nDate 2019/08/10 18:14\nSubject: Epstein, Reg. No. 76318-054\nAttachments: TEXT.htm, 2019_08_10_18_12_55.pdf, Charisma Edge.vcf",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Psych Ops discontinued on 7/30/18 at 8:15 am",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Charisma Edge\nAssociate Warden\nMCC New York\n150 Park Row\nNew York, NY 10007\n646-836-6300 ext.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6); (b)(7)(C)@bop.gov\nNYM/AW-Programs~@bop.gov",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Charisma Edge",
+      "Lamine N'Diaye",
+      "Epstein"
+    ],
+    "organizations": [
+      "MCC New York",
+      "BOP"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "2019/08/10 18:14",
+      "7/30/18"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00025673"
+    ]
+  },
+  "additional_notes": "The document appears to be an email with redactions in the contact information."
+}

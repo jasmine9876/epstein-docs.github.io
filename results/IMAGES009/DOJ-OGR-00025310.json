@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "1088",
+    "date": "07-24-2019",
+    "document_type": "Inmate History",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 1088 PP37 Page 1 of 1 NYMBJ 531.01 * INMATE HISTORY 07-24-2019 PAGE 001 OF 001 * MED DY ST 12:32:30 REG NO.: 76318-054 NAME....: EPSTEIN, JEFFREY EDWARD CATEGORY: MDS FUNCTION: DIS FORMAT: FCL ASSIGNMENT DESCRIPTION START DATE/TIME STOP DATE/TIME NYM NOT MED CL NOT MEDICALLY CLEARED 07-06-2019 2124 CURRENT NYM SUIC WATCH SUICIDE WATCH 07-23-2019 0140 07-24-2019 0845 G0005 TRANSACTION SUCCESSFULLY COMPLETED - CONTINUE PROCESSING IF DESIRED https://bop.tcp.doj.gov:9049/SENTRY/J1PP160.do 7/24/2019 DOJ-OGR-00025310",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 1088 PP37",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NYMBJ 531.01 * INMATE HISTORY 07-24-2019 PAGE 001 OF 001 * MED DY ST 12:32:30",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "REG NO.: 76318-054 NAME....: EPSTEIN, JEFFREY EDWARD CATEGORY: MDS FUNCTION: DIS FORMAT:",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "FCL ASSIGNMENT DESCRIPTION START DATE/TIME STOP DATE/TIME",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "NYM NOT MED CL NOT MEDICALLY CLEARED 07-06-2019 2124 CURRENT",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "NYM SUIC WATCH SUICIDE WATCH 07-23-2019 0140 07-24-2019 0845",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "G0005 TRANSACTION SUCCESSFULLY COMPLETED - CONTINUE PROCESSING IF DESIRED",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "https://bop.tcp.doj.gov:9049/SENTRY/J1PP160.do 7/24/2019 DOJ-OGR-00025310",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Edward Epstein"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "07-24-2019",
+      "07-06-2019",
+      "07-23-2019",
+      "7/24/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "NYMBJ 531.01",
+      "DOJ-OGR-00025310"
+    ]
+  },
+  "additional_notes": "The document appears to be a prison inmate history report for Jeffrey Edward Epstein. It contains medical and administrative information, including a suicide watch status."
+}

@@ -1,0 +1,72 @@
+{
+  "document_metadata": {
+    "page_number": "3033",
+    "document_number": "NYMAQ 530*05",
+    "date": "08-06-2019",
+    "document_type": "INMATE ROSTER",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 3033 NYMAQ 530*05 INMATE ROSTER 08-06-2019 15:41:08 PAGE 001 OF 001 CATEGORY: OCT GROUP CODE: ASSIGNMENT: ATTY FACILITY: NYM OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK 0001 ATTY (b)(6); (b)(7)(C) 0002 76318-054 EPSTEIN 08-06-2019 Z04-206LAD UNASSG 0003 (b)(6); (b)(7)(C) 0004 G0000 TRANSACTION SUCCESSFULLY COMPLETED DOJ-OGR-00026673",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "NYMAQ 530*05 INMATE ROSTER 08-06-2019 15:41:08 PAGE 001 OF 001 CATEGORY: OCT GROUP CODE: ASSIGNMENT: ATTY FACILITY: NYM OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "0001 ATTY (b)(6); (b)(7)(C)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0002 76318-054 EPSTEIN 08-06-2019 Z04-206LAD UNASSG",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0003 (b)(6); (b)(7)(C)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0004",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "G0000 TRANSACTION SUCCESSFULLY COMPLETED",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026673",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "08-06-2019"
+    ],
+    "reference_numbers": [
+      "NYMAQ 530*05",
+      "76318-054",
+      "Z04-206LAD",
+      "DOJ-OGR-00026673"
+    ]
+  },
+  "additional_notes": "The document appears to be a printed inmate roster from a correctional facility. Some information is redacted using (b)(6); (b)(7)(C)."
+}

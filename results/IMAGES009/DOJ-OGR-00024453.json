@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024453",
+    "date": "August 09, 2019",
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Friday August 09, 2019 (b)(6) (b)(7)(A) (b)(7)(B) (b)(7)(C) (b)(7)(F) Morning Watch AM Watch Day Watch PM Watch Evening Watch **Back Page Categori (b)(7)(A) (b)(7)(B) (b)(7)(F) Day Off Sick Leave Annual Leave LWOP LWOP(M) AWOL SUSPENSION OFFICIAL TIME (b)(7)(A) (b)(7)(B) (b)(7)(F) DOJ-OGR-00024453",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Friday August 09, 2019",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6) (b)(7)(A) (b)(7)(B) (b)(7)(C) (b)(7)(F)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Morning Watch\nAM Watch\nDay Watch\nPM Watch\nEvening Watch",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "**Back Page Categori",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(A)\n(b)(7)(B)\n(b)(7)(F)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Day Off\nSick Leave\nAnnual Leave\nLWOP\nLWOP(M)\nAWOL\nSUSPENSION\nOFFICIAL TIME",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(A) (b)(7)(B) (b)(7)(F)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024453",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "August 09, 2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00024453"
+    ]
+  },
+  "additional_notes": "The document contains heavily redacted text with multiple instances of '(b)(7)(A)', '(b)(7)(B)', and '(b)(7)(F)', indicating sensitive information has been removed. The content appears to be related to work schedules and categories."
+}

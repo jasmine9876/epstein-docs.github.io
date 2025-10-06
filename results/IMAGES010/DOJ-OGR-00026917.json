@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "3328",
+    "date": "August 10, 2019",
+    "document_type": "Assignment Record",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "Page 3328 Saturday August 10, 2019 Page 2 ****Special Assignments**** PHONE RM STAFF SEARCH LOBBY #2 DRY CELL ESCORT #1 ESCORT #2 CST EMERGENCY SIS LT ESCORT #3 ****Back Page Categories**** DAY OFF SICK LEAVE ANNUAL LEAVE COP ****Change Records**** Post Split Shift Officer Relieved Officer's New Status Relieving Officer Relieving Officer's Previous Status Ret Shft Changed By OPS LT 12 <Unassigned> OPS LT 12 (b)(6); (b)(7)(C) Annual Leave (b)(6); (b)(7)(C) 7/30 20:22 OPS LT (b)(6); (b)(7)(C) [SWAP] (b)(6); (b)(7)(C) 7/30 20:22 Assignment Swap 3/10/2019 9:02:09 PM DOJ-OGR-00026917",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "****Special Assignments****",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "PHONE RM STAFF SEARCH LOBBY #2 DRY CELL ESCORT #1 ESCORT #2 CST EMERGENCY SIS LT ESCORT #3",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "****Back Page Categories****",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DAY OFF SICK LEAVE ANNUAL LEAVE COP",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "****Change Records****",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Post Split Shift Officer Relieved Officer's New Status Relieving Officer Relieving Officer's Previous Status Ret Shft Changed By",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "8-10-19",
+      "position": "top"
+    },
+    {
+      "type": "stamp",
+      "content": "bday",
+      "position": "top"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "August 10, 2019",
+      "7/30",
+      "3/10/2019"
+    ],
+    "reference_numbers": [
+      "3328",
+      "DOJ-OGR-00026917"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6); (b)(7)(C) and (b)(7)(F). The document appears to be a record of assignments and changes to those assignments on a specific date."
+}

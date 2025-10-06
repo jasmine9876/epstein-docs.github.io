@@ -1,0 +1,110 @@
+{
+  "document_metadata": {
+    "page_number": "656",
+    "document_number": "DOJ-OGR-00025103",
+    "date": null,
+    "document_type": "log or report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Cont. Sunday, August 11, 2019\n10:40 am: OIG Agent [redacted] arrives at institution.\n11:15 am: OIG Agent [redacted] departs institution with two computers FPS 021407270 and FPS 0214207268.\n2:00 pm: OIG Agent [redacted] departs the institution.\nMonday, August 12, 2019\n1:00 pm: Staff recall conducted\n3:14 pm: FBI arrives\n7:56 pm: FBI departs\n9:45 pm: FBI returns\n10:30 pm: FBI departs\nTuesday August 13, 2019\n7:15 am: [redacted] NER Correctional Services Administrator arrives to the institution\n7:25 am: [redacted] National suicide prevention coordinator, and [redacted] National Sex offender program coordinator arrives to the institution.\n8:40 am: Northeast Regional Director R. Ormond arrives to the institution.",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Cont. Sunday, August 11, 2019",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "10:40 am: OIG Agent [redacted] arrives at institution.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "11:15 am: OIG Agent [redacted] departs institution with two computers FPS 021407270 and FPS 0214207268.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "2:00 pm: OIG Agent [redacted] departs the institution.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Monday, August 12, 2019",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "1:00 pm: Staff recall conducted",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "3:14 pm: FBI arrives",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "7:56 pm: FBI departs",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "9:45 pm: FBI returns",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "10:30 pm: FBI departs",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Tuesday August 13, 2019",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "7:15 am: [redacted] NER Correctional Services Administrator arrives to the institution",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "7:25 am: [redacted] National suicide prevention coordinator, and [redacted] National Sex offender program coordinator arrives to the institution.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "8:40 am: Northeast Regional Director R. Ormond arrives to the institution.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025103",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "R. Ormond"
+    ],
+    "organizations": [
+      "FBI",
+      "OIG",
+      "NER Correctional Services"
+    ],
+    "locations": [],
+    "dates": [
+      "Sunday, August 11, 2019",
+      "Monday, August 12, 2019",
+      "Tuesday August 13, 2019"
+    ],
+    "reference_numbers": [
+      "FPS 021407270",
+      "FPS 0214207268",
+      "DOJ-OGR-00025103"
+    ]
+  },
+  "additional_notes": "The document appears to be a log or report detailing events at an institution over three days. Several names and identifiers are redacted."
+}

@@ -1,0 +1,50 @@
+{
+  "document_metadata": {
+    "page_number": "3750",
+    "document_number": "DOJ-OGR-00027065",
+    "date": "08/10/2019",
+    "document_type": "30 MINUTE CHECK SHEET",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "MCC NEW YORK SPECIAL HOUSING UNIT 30 MINUTE CHECK SHEET M-TIER DATE: 08/10/2019 ... (complete text transcription)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "MCC NEW YORK SPECIAL HOUSING UNIT 30 MINUTE CHECK SHEET M-TIER",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "804 806 (b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "A staff member must observe all inmates confined in a continuous locked down status...",
+      "position": "bottom"
+    },
+    {
+      "type": "stamp",
+      "content": "MCC NEW YORK SPECIAL HOUSING UNIT",
+      "position": "header"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "MCC NEW YORK",
+      "SPECIAL HOUSING UNIT"
+    ],
+    "locations": [
+      "NEW YORK"
+    ],
+    "dates": [
+      "08/10/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00027065"
+    ]
+  },
+  "additional_notes": "The document contains handwritten entries in the table and appears to be a record of checks performed on inmates. The document is stamped with 'MCC NEW YORK SPECIAL HOUSING UNIT'."
+}

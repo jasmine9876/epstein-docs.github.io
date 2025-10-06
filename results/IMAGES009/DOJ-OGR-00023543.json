@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": "580",
+    "document_number": "DOJ-OGR-00023543",
+    "date": "2019/08/26",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Epstein/Washington Post question\nFrom [b(6), (b)(7)(C)] To BOP-IPP/PublicAffairs@bop.gov, Lee Plourde\nDate 2019/08/26 15:00\nSubject: Epstein/Washington Post question\nAttachments: TEXT.htm, Mime.822\nHi—\n[b(6), (b)(7)(C)] from the Washington Post here. We are in the process of working on a story about the cameras outside Jeffrey Epstein’s cell on the morning of his death. The story will assert that the data in those cameras was found to be corrupted/unreadable, though it is being sent to Quantico for further analysis.\nCan the BOP comment on that assertion? Is the functionality of cameras a larger issue at BOP or MCC? Are you able to say what other cameras might have captured that night to support the assertion that Mr. Epstein killed himself?\nThank you,\n[b(6), (b)(7)(C)] | The Washington Post\n(202) 629-[b(6)] (cell)\nPage 580\nDOJ-OGR-00023543",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Epstein/Washington Post question",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "From [b(6), (b)(7)(C)] To BOP-IPP/PublicAffairs@bop.gov, Lee Plourde\nDate 2019/08/26 15:00\nSubject: Epstein/Washington Post question\nAttachments: TEXT.htm, Mime.822",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Hi—\n[b(6), (b)(7)(C)] from the Washington Post here. We are in the process of working on a story about the cameras outside Jeffrey Epstein’s cell on the morning of his death. The story will assert that the data in those cameras was found to be corrupted/unreadable, though it is being sent to Quantico for further analysis.\nCan the BOP comment on that assertion? Is the functionality of cameras a larger issue at BOP or MCC? Are you able to say what other cameras might have captured that night to support the assertion that Mr. Epstein killed himself?\nThank you,",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "[b(6), (b)(7)(C)] | The Washington Post\n(202) 629-[b(6)] (cell)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 580\nDOJ-OGR-00023543",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Lee Plourde"
+    ],
+    "organizations": [
+      "Washington Post",
+      "BOP",
+      "MCC",
+      "Quantico"
+    ],
+    "locations": [],
+    "dates": [
+      "2019/08/26"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00023543"
+    ]
+  },
+  "additional_notes": "The document is an email with redactions on the sender's name, phone number, and other personal details. The email discusses a story about cameras outside Jeffrey Epstein's cell and their functionality."
+}

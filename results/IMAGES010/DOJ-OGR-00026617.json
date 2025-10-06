@@ -1,0 +1,72 @@
+{
+  "document_metadata": {
+    "page_number": "2961",
+    "document_number": "NYMAQ 530*05",
+    "date": "08-11-2019",
+    "document_type": "Inmate Roster",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2961 NYMAQ 530*05 * INMATE ROSTER * 08-11-2019 PAGE 001 OF 001 21:23:08 CATEGORY: OCT GROUP CODE: ASSIGNMENT: HOSP FACILITY: NYM OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK 0001 HOSP (b)(6); (b)(7)(C) 08-11-2019 E05-539L SUICIDE OR UNASSG 0002 08-11-2019 E12-592U FS PM SUICIDE OR G0000 TRANSACTION SUCCESSFULLY COMPLETED DOJ-OGR-00026617",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 2961",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NYMAQ 530*05 * INMATE ROSTER * 08-11-2019 PAGE 001 OF 001 21:23:08",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CATEGORY: OCT GROUP CODE: ASSIGNMENT: HOSP FACILITY: NYM OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "0001 HOSP (b)(6); (b)(7)(C) 08-11-2019 E05-539L SUICIDE OR UNASSG",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0002 08-11-2019 E12-592U FS PM SUICIDE OR",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "G0000 TRANSACTION SUCCESSFULLY COMPLETED",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026617",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "08-11-2019"
+    ],
+    "reference_numbers": [
+      "NYMAQ 530*05",
+      "DOJ-OGR-00026617",
+      "0001",
+      "0002",
+      "E05-539L",
+      "E12-592U"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b)(6); (b)(7)(C)'. The document appears to be a roster of inmates, with details about their assignments and locations within the facility."
+}

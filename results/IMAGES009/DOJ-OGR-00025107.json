@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": "672",
+    "document_number": "DOJ-OGR-00025107",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 672\n\nSunday, August 11, 2019\n12:15 am Computer Services Manager departs the institution.\n10:40 am OIG (b)(6); (b)(7)(C) arrives at institution.\n11:15 am OIG (b)(6); (b)(7)(C) departs institution with two computers FPS 021407270 and FPS 0214207268.\n2:00 pm OIG (b)(6); (b)(7)(C) departs the institution.\n\nMonday, August 12, 2019\n10:00 am Warden departed to AUSA office for questioning.\n12:50 am Warden arrives back from AUSA office.\n\nTuesday August 13, 2019\n7:15 am (b)(6); (b)(7)(C) NER Correctional Services Administrator arrives to the institution\n7:25 am (b)(6); (b)(7)(C) National suicide prevention coordinator, and (b)(6); (b)(7)(C) ***** arrives to the institution.\n8:40 am Northeast Regional Director R. Ormond arrives to the institution.\n\nDOJ-OGR-00025107",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 672",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Sunday, August 11, 2019\n12:15 am Computer Services Manager departs the institution.\n10:40 am OIG (b)(6); (b)(7)(C) arrives at institution.\n11:15 am OIG (b)(6); (b)(7)(C) departs institution with two computers FPS 021407270 and FPS 0214207268.\n2:00 pm OIG (b)(6); (b)(7)(C) departs the institution.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Monday, August 12, 2019\n10:00 am Warden departed to AUSA office for questioning.\n12:50 am Warden arrives back from AUSA office.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Tuesday August 13, 2019\n7:15 am (b)(6); (b)(7)(C) NER Correctional Services Administrator arrives to the institution\n7:25 am (b)(6); (b)(7)(C) National suicide prevention coordinator, and (b)(6); (b)(7)(C) ***** arrives to the institution.\n8:40 am Northeast Regional Director R. Ormond arrives to the institution.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025107",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "R. Ormond"
+    ],
+    "organizations": [
+      "OIG",
+      "AUSA",
+      "NER Correctional Services"
+    ],
+    "locations": [
+      "AUSA office"
+    ],
+    "dates": [
+      "August 11, 2019",
+      "August 12, 2019",
+      "August 13, 2019"
+    ],
+    "reference_numbers": [
+      "FPS 021407270",
+      "FPS 0214207268",
+      "DOJ-OGR-00025107"
+    ]
+  },
+  "additional_notes": "The document appears to be a log of events at a correctional institution over three days. Some names and identifiers are redacted."
+}

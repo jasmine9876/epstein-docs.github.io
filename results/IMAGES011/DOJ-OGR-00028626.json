@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028626",
+    "date": "01/17/2011",
+    "document_type": "SECONDARY INSPECTION",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07:58 04/28/2014 *A *B ENTRY: 01/17/2011 UPDATE: 01/17/2011 *C INSPECTION DTE: 01/17/2011 PORT/SITE: 5204/A523 PALM BEACH, INTERNATIONAL LAST NAME:* EPSTEIN FIRST:* JEFFREY EDWARD DOB:* 01201953 RCPT#: DOC TYPE: P #: 469911707 ISSUING CNTRY: US ID-ST: GENDER:* M RACE:* W WHITE HISPANIC:* N (Y/N) CARRIER:* *GA FLT/VES #: * 909JE FLT/VES CREW:* N (Y/N) IN/OUT:* I DEPART/DESTIN:* STT EMBARK:* STT REFERRING OFFICER CODE: (b) (7) (E) REASON FOR REFERRAL: (b) (7) (E) BAG EXAM:* Y (Y/N) # BAGS X-RAYED: PRSNL SRCH:* N (Y/N) # PAX ON DEC:* 1 POS/NEG INSP:* N (P/N/U) REFERRAL TIME:* 13 : 44 COMPLETION TIME:* 13 : 46 IOM:* (Y/N) IOM#: CCD USED:*D (Y/N) CAT 1 OR 2: VIOL CDS: INCIDENT #: REMARKS: (b) (7) (E) INSP COMPLETE:* Y (Y/N) ** SECONDARY INSPECTION COMPLETE ** (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) *E - (b) (7) (E)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "SECONDARY INSPECTION",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "LAST NAME:* EPSTEIN FIRST:* JEFFREY EDWARD DOB:* 01201953 RCPT#: DOC TYPE: P #: 469911707 ISSUING CNTRY: US ID-ST:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "GENDER:* M RACE:* W WHITE HISPANIC:* N (Y/N) CARRIER:* *GA FLT/VES #: * 909JE FLT/VES CREW:* N (Y/N) IN/OUT:* I DEPART/DESTIN:* STT EMBARK:* STT",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "REFERRING OFFICER CODE: (b) (7) (E) REASON FOR REFERRAL: (b) (7) (E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "BAG EXAM:* Y (Y/N) # BAGS X-RAYED: PRSNL SRCH:* N (Y/N) # PAX ON DEC:* 1 POS/NEG INSP:* N (P/N/U) REFERRAL TIME:* 13 : 44 COMPLETION TIME:* 13 : 46 IOM:* (Y/N) IOM#: CCD USED:*D (Y/N)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CAT 1 OR 2: VIOL CDS: INCIDENT #: REMARKS: (b) (7) (E) INSP COMPLETE:* Y (Y/N) ** SECONDARY INSPECTION COMPLETE **",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) *E - (b) (7) (E)",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "PALM BEACH, INTERNATIONAL"
+    ],
+    "dates": [
+      "01/17/2011",
+      "04/28/2014"
+    ],
+    "reference_numbers": [
+      "469911707",
+      "DOJ-OGR-00028626"
+    ]
+  },
+  "additional_notes": "The document appears to be a secondary inspection report for Jeffrey Edward Epstein, with various details redacted."
+}

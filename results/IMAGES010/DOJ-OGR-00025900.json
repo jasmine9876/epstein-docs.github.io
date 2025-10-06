@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": "1982",
+    "document_number": "DOJ-OGR-00025900",
+    "date": "07/27/2019",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Date: 11/21/19 03:00 AMV To: [b(6); (b)(7)(C)]@bop.gov>, [b(6); (b)(7)(C)]@bop.gov>, ... Subject: Suicide Watch/Psych Observation Update >>> [b(6); (b)(7)(C)] 07/27/2019 06:08 >>> Suicide Watch None Psych Observation 1. Epstein #76318-054 Thank you, [b(6); (b)(7)(C)] Page 10829 DOJ-OGR-00025900",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date: 11/21/19 03:00 AMV To: ",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Subject: Suicide Watch/Psych Observation Update",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": ">>> [b(6); (b)(7)(C)] 07/27/2019 06:08 >>>",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Suicide Watch None Psych Observation 1. Epstein #76318-054",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Thank you,",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page 10829 DOJ-OGR-00025900",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Shirley V. Skipper-Scott",
+      "Lamine N'Diaye"
+    ],
+    "organizations": [
+      "BOP"
+    ],
+    "locations": [],
+    "dates": [
+      "11/21/19",
+      "07/27/2019"
+    ],
+    "reference_numbers": [
+      "#76318-054",
+      "DOJ-OGR-00025900"
+    ]
+  },
+  "additional_notes": "The document is heavily redacted, with most email addresses and names obscured."
+}

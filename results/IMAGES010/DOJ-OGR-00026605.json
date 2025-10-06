@@ -1,0 +1,53 @@
+{
+  "document_metadata": {
+    "page_number": "2949",
+    "document_number": "DOJ-OGR-00026605",
+    "date": "8-11-19",
+    "document_type": "Official Count Slip",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2949 Metropolitan Correctional Center Official Count Slip Unit: CA Date: 8/11/19 Count: Time: 10:00am Print Name: Signature: Print Name: Signature: Metropolitan Correctional Center Official Count Slip Unit: CA Date: 8-11-19 Time: 10:00am Count: Print Name: Signature: Print Name: Signature: DOJ-OGR-00026605",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "CA 8/11/19 10:00am",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "CA 8-11-19 10:00am",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Unit: Date: Count: Time: Print Name: Signature: Print Name: Signature:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026605",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [],
+    "dates": [
+      "8/11/19",
+      "8-11-19"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026605"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned image of two Official Count Slips from the Metropolitan Correctional Center, both dated 8-11-19 and timed 10:00am. The top slip has handwritten entries, while the bottom slip is partially filled with printed information. The document quality is clear, with some minor black specks around the edges."
+}

@@ -1,0 +1,121 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00027108",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "8/3/19 J.Epstein 96318-054 2:05pm 6:35 8/29 Gstein 963804y 63018 8/3/19 J.Epstein 96318-054 8:20 12:20 8/3/19 Gstein 963804 11:40",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "8/3/19",
+      "position": "margin"
+    },
+    {
+      "type": "handwritten",
+      "content": "J.Epstein",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "96318-054",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "2:05pm",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "6:35",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/29",
+      "position": "margin"
+    },
+    {
+      "type": "handwritten",
+      "content": "Gstein",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "963804y",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "63018",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/3/19",
+      "position": "margin"
+    },
+    {
+      "type": "handwritten",
+      "content": "J.Epstein",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "96318-054",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8:20",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "12:20",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/3/19",
+      "position": "margin"
+    },
+    {
+      "type": "handwritten",
+      "content": "Gstein",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "963804",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "11:40",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [
+      "J.Epstein",
+      "Gstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "8/3/19",
+      "8/29"
+    ],
+    "reference_numbers": [
+      "96318-054",
+      "963804y",
+      "963804"
+    ]
+  },
+  "additional_notes": "The document appears to be a log or record of some sort, with handwritten entries. The text is mostly legible, but some parts are obscured by green rectangles. The document has a unique identifier 'DOJ-OGR-00027108' at the bottom."
+}

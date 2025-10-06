@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "3282555",
+    "date": "07-30-2019",
+    "document_type": "Inmate Discipline Update Charges",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "NYMBN PAGE 001 OF 001 INMATE DISCIPLINE UPDATE CHARGES 07-30-2019 12:58:08 REGISTER NUMBER...: 76318-054 NAME.........: EPSTEIN REPORT NUMBER.....: 3282555 FUNCTION......: REP INCIDENT DATE/TIME: 07-23-2019 0127 INCIDENT FACL.: NYM REPORT DATE/TIME..: 07-30-2019 1240 INVESTIGATOR..: b(6); (b)(7)(C) STATUS............: PEND UDC STATUS UPDT BY: NYM STATUS DATE/TIME..: 07-30-2019 1256 STATUS FACL...: NYM REPORT REMARKS....( I/R UNSUSPENDED TO GO FOWARD WITH UDC PROCESS. ) CHARGE: 228 TATTOOING OR SELF-MUTILATION CHARGE: CHARGE: CHARGE: CHARGE: CHARGE: CHARGE: CHARGE: CHARGE: G0005 TRANSACTION SUCCESSFULLY COMPLETED - CONTINUE PROCESSING IF DESIRED Page 1 of 1 7/30/2019 DOJ-OGR-00025274",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "NYMBN PAGE 001 OF 001 INMATE DISCIPLINE UPDATE CHARGES 07-30-2019 12:58:08",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "REGISTER NUMBER...: 76318-054 NAME.........: EPSTEIN REPORT NUMBER.....: 3282555 FUNCTION......: REP INCIDENT DATE/TIME: 07-23-2019 0127 INCIDENT FACL.: NYM REPORT DATE/TIME..: 07-30-2019 1240 INVESTIGATOR..: b(6); (b)(7)(C) STATUS............: PEND UDC STATUS UPDT BY: NYM STATUS DATE/TIME..: 07-30-2019 1256 STATUS FACL...: NYM REPORT REMARKS....( I/R UNSUSPENDED TO GO FOWARD WITH UDC PROCESS. )",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CHARGE: 228 TATTOOING OR SELF-MUTILATION CHARGE: CHARGE: CHARGE: CHARGE: CHARGE: CHARGE: CHARGE: CHARGE: CHARGE:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "G0005 TRANSACTION SUCCESSFULLY COMPLETED - CONTINUE PROCESSING IF DESIRED",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 1 of 1 7/30/2019 DOJ-OGR-00025274",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "EPSTEIN"
+    ],
+    "organizations": [
+      "NYM"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "07-23-2019",
+      "07-30-2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "3282555",
+      "G0005",
+      "DOJ-OGR-00025274"
+    ]
+  },
+  "additional_notes": "The document appears to be a prison disciplinary report regarding Jeffrey Epstein. The report is dated July 30, 2019, and details a charge of 'TATTOOING OR SELF-MUTILATION'. The document is mostly printed, with one redacted field."
+}

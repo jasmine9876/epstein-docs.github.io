@@ -1,0 +1,53 @@
+{
+  "document_metadata": {
+    "page_number": "2495",
+    "document_number": "DOJ-OGR-00026171",
+    "date": "07/18/2019",
+    "document_type": "Dental Soap/Admin Encounter",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2495 Bureau of Prisons Health Services Dental Soap/Admin Encounter Inmate Name: EPSTEIN, JEFFREY EDWARD Reg #: 76318-054 Date of Birth: 01/20/1953 Sex: M Race: WHITE Facility: NYM Encounter Date: 07/18/2019 13:48 Provider: (b)(6); (b)(7)(C) Dental Asst Unit: Z05 Screening encounter at Dental Clinic. Reason Not Done: Unavailable Comments: Patient has had several call outs for his Dental A & O screening but has not been escorted to the dental clinic. Cosign Required: No Completed by (b)(6); (b)(7)(C) Dental Asst on 07/19/2019 13:49. Generated 07/19/2019 13:49 by (b)(6); (b)(7)(C) Dental Bureau of Prisons - NYM Page 1 of 1",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Bureau of Prisons Health Services Dental Soap/Admin Encounter",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD Reg #: 76318-054 Date of Birth: 01/20/1953 Sex: M Race: WHITE Facility: NYM Encounter Date: 07/18/2019 13:48 Provider: (b)(6); (b)(7)(C) Dental Asst Unit: Z05",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Screening encounter at Dental Clinic. Reason Not Done: Unavailable Comments: Patient has had several call outs for his Dental A & O screening but has not been escorted to the dental clinic. Cosign Required: No Completed by (b)(6); (b)(7)(C) Dental Asst on 07/19/2019 13:49.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/19/2019 13:49 by (b)(6); (b)(7)(C) Dental Bureau of Prisons - NYM Page 1 of 1",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons",
+      "NYM"
+    ],
+    "locations": [],
+    "dates": [
+      "01/20/1953",
+      "07/18/2019",
+      "07/19/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026171"
+    ]
+  },
+  "additional_notes": "The document contains redacted names and has no handwritten text or stamps."
+}

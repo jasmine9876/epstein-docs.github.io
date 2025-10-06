@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": "3022",
+    "document_number": "NYMD4 530*05",
+    "date": "08-09-2019",
+    "document_type": "INMATE ROSTER",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 3022 NYMD4 530*05 * INMATE ROSTER * 08-09-2019 PAGE, 001 OF 001 05:02:26 CATEGORY: OCT ASSIGNMENT: TNWDVR OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT GROUP CODE: FACILITY: NYM OPER CATG ASSIGNMENT NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK 0001 TNWDVR [b(6); b(7)(C)] 08-09-2019 E08-561L TWN DRIVER G0000 TRANSACTION SUCCESSFULLY COMPLETED DOJ-OGR-00026662",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3022",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NYMD4 530*05 * INMATE ROSTER * 08-09-2019 PAGE, 001 OF 001 05:02:26",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CATEGORY: OCT ASSIGNMENT: TNWDVR OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT GROUP CODE: FACILITY: NYM OPER CATG ASSIGNMENT",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK 0001 TNWDVR [b(6); b(7)(C)] 08-09-2019 E08-561L TWN DRIVER",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "G0000 TRANSACTION SUCCESSFULLY COMPLETED",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026662",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "08-09-2019"
+    ],
+    "reference_numbers": [
+      "NYMD4 530*05",
+      "E08-561L",
+      "DOJ-OGR-00026662"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted inmate roster with a successfully completed transaction message at the bottom."
+}

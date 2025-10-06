@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "policy document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "staff member. C. An inmate on Psychological Observation status is allowed only items indicated by a Psychologist. These items will be indicated on the inmate's psychological observation log book. The suicide watch mattress and suicide watch blanket will be used for all inmates on psychological observation. D. Log entries as to the behavior of the observed inmate will ideally be made every 15 minutes in a marble log book by the Inmate Companion or staff member, but observation of the inmate is continuous. E. When the observation is conducted in the suicide watch room, the Unit 2 Officer will make hourly rounds and sign the log book. F. A Lieutenant and Physician Assistant will also make rounds once a shift and sign the log book. G. On a daily basis a Psychologist will assess the inmate on Psychological Observation and sign the log book. H. If there is a staff watch being conducted on 9S, the staff member cannot watch more than two inmates on psychological observation at a time. If the Staff member is watching two inmates on psychological observation, they must be directly next to one another so that the officer can directly observe both of them on a continuous basis. C: (b)(6), (b)(7)(C) Captain Health Services Administrator DOJ-OGR-00023902",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "staff member. C. An inmate on Psychological Observation status is allowed only items indicated by a Psychologist. These items will be indicated on the inmate's psychological observation log book. The suicide watch mattress and suicide watch blanket will be used for all inmates on psychological observation. D. Log entries as to the behavior of the observed inmate will ideally be made every 15 minutes in a marble log book by the Inmate Companion or staff member, but observation of the inmate is continuous. E. When the observation is conducted in the suicide watch room, the Unit 2 Officer will make hourly rounds and sign the log book. F. A Lieutenant and Physician Assistant will also make rounds once a shift and sign the log book. G. On a daily basis a Psychologist will assess the inmate on Psychological Observation and sign the log book. H. If there is a staff watch being conducted on 9S, the staff member cannot watch more than two inmates on psychological observation at a time. If the Staff member is watching two inmates on psychological observation, they must be directly next to one another so that the officer can directly observe both of them on a continuous basis.",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Captain Health Services Administrator",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00023902",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Psychologist",
+      "Inmate Companion",
+      "Lieutenant",
+      "Physician Assistant",
+      "Officer",
+      "Captain",
+      "Health Services Administrator"
+    ],
+    "organizations": [],
+    "locations": [
+      "suicide watch room",
+      "9S"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00023902"
+    ]
+  },
+  "additional_notes": "The document appears to be a policy document related to the observation of inmates on psychological observation status. The text is mostly printed, with a small section of redacted information. The document is likely from a correctional facility or prison."
+}

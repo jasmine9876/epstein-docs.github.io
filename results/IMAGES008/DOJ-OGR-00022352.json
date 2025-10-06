@@ -1,0 +1,75 @@
+{
+  "document_metadata": {
+    "page_number": "97",
+    "document_number": "DOJ-OGR-00022352",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information\nMvers of Westwick\nNicolas\nOpia\nPeninsula Hotel\nPeninsulla Hotel\nPierre Hotel\nPlaza\nPlaza Athenee Hotel\nProvince Restaurant\nRitz Carlton\nRoyalton\nSette Mezzo\nShoes-Repair\nShutters on the Beach\nSotheby's\nSt Regis Hotel\nStanhope Hotel\nSunset Marquee\nTao Restaurant\nTavlor, The\nThe Great American Health Bar\nThe Lowell\nThe Westbury",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Mvers of Westwick\nNicolas\nOpia\nPeninsula Hotel\nPeninsulla Hotel",
+      "position": "left"
+    },
+    {
+      "type": "printed",
+      "content": "Pierre Hotel\nPlaza\nPlaza Athenee Hotel\nProvince Restaurant\nRitz Carlton\nRoyalton\nSette Mezzo",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Shoes-Repair\nShutters on the Beach\nSotheby's\nSt Regis Hotel",
+      "position": "right"
+    },
+    {
+      "type": "printed",
+      "content": "Stanhope Hotel\nSunset Marquee\nTao Restaurant\nTavlor, The\nThe Great American Health Bar\nThe Lowell\nThe Westbury",
+      "position": "right"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022352",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Mvers of Westwick",
+      "Nicolas",
+      "Opia",
+      "Peninsula Hotel",
+      "Peninsulla Hotel",
+      "Pierre Hotel",
+      "Plaza",
+      "Plaza Athenee Hotel",
+      "Province Restaurant",
+      "Ritz Carlton",
+      "Royalton",
+      "Sette Mezzo",
+      "Sotheby's",
+      "St Regis Hotel",
+      "Stanhope Hotel",
+      "Sunset Marquee",
+      "Tao Restaurant",
+      "Tavlor, The",
+      "The Great American Health Bar",
+      "The Lowell",
+      "The Westbury"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022352"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 97."
+}

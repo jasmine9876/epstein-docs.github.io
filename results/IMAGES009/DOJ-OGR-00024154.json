@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "DOJ-OGR-00024154",
+    "date": "05/11/2020",
+    "document_type": "Pain Management Record",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Bureau of Prisons Health Services Pain Management Begin Date: 07/06/2019 End Date: 05/11/2020 Reg #: 76318-054 Inmate Name: EPSTEIN, JEFFREY EDWARD Date Intervention Pain Quality Location Pre Post Provider 07/12/2019 13:25 MEDROL DOSE PACK Shooting Back-Middle 5 [redacted] MD Orig Entered: 07/12/2019 13:28 EST [redacted] MD Generated 05/11/2020 09:57 by [redacted] OGC Bureau of Prisons - DAN Page 1 of 1 DOJ-OGR-00024154",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Bureau of Prisons Health Services Pain Management",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Begin Date: 07/06/2019 End Date: 05/11/2020 Reg #: 76318-054 Inmate Name: EPSTEIN, JEFFREY EDWARD",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Date Intervention Pain Quality Location Pre Post Provider",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/12/2019 13:25 MEDROL DOSE PACK Shooting Back-Middle 5 [redacted] MD",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Orig Entered: 07/12/2019 13:28 EST [redacted] MD",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 05/11/2020 09:57 by [redacted] OGC Bureau of Prisons - DAN Page 1 of 1 DOJ-OGR-00024154",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [],
+    "dates": [
+      "07/06/2019",
+      "05/11/2020",
+      "07/12/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024154"
+    ]
+  },
+  "additional_notes": "The document contains redacted information, likely for privacy or security reasons."
+}

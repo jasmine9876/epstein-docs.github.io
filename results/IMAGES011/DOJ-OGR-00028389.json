@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028389",
+    "date": "061403",
+    "document_type": "PQH API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 *B PQH API/HIT DATA 042814 *A *C NAME DOB ----- QUERY ----- LNE TERM/ EPSTEIN, JEFFREY 012053 061403 TIME AGN RSLT TYP REF LANE API 2028 INS *D API AJ01 C A523-PALM BEACH, INTERNATION API DATA ---- INDICATOR : C CONFIRMED CARRIER CODE : ZZ UNKOWN AIRLINE CODE FLT/VES NUMBER : 909JE ARRIVAL LOCATION : PBI WEST PALM BEACH DEPARTURE LOCATION :  TRANSMITTED BY : (b)(6), (b)(7)(C) INBOUND/OUTBOUND : INBOUND (b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6) , (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) (b) (7) (E) DOJ-OGR-00028389",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07 *B PQH API/HIT DATA 042814 *A *C",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB ----- QUERY ----- LNE TERM/ EPSTEIN, JEFFREY 012053 061403 TIME AGN RSLT TYP REF LANE API 2028 INS *D API AJ01 C A523-PALM BEACH, INTERNATION",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "API DATA ---- INDICATOR : C CONFIRMED CARRIER CODE : ZZ UNKOWN AIRLINE CODE FLT/VES NUMBER : 909JE ARRIVAL LOCATION : PBI WEST PALM BEACH DEPARTURE LOCATION :  TRANSMITTED BY : (b)(6), (b)(7)(C) INBOUND/OUTBOUND : INBOUND",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6) , (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) (b) (7) (E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028389",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "PALM BEACH",
+      "WEST PALM BEACH"
+    ],
+    "dates": [
+      "061403"
+    ],
+    "reference_numbers": [
+      "A523",
+      "909JE",
+      "DOJ-OGR-00028389"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as (b)(6), (b)(7)(C), and (b)(7)(E)."
+}

@@ -1,0 +1,75 @@
+{
+  "document_metadata": {
+    "page_number": "92",
+    "document_number": "DOJ-OGR-00023459",
+    "date": null,
+    "document_type": "Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Figure 6.7\n\nLocation of Non-Recording Camera in the L Tier of the SHU\n\nSource: DOJ OIG schematic drawing depicting the MCC New York SHU and the Office of the Chief Medical Examiner, City of New York\n\nThe Warden, who was not scheduled to work on August 10, 2019, arrived at the institution later that morning after being notified of Epstein's death and was informed that most of the cameras in the SHU were not recording. He told the OIG that when the SIS Lieutenant arrived at the facility that morning, he informed her that the SHU cameras had not been recording, and the SIS Lieutenant explained that the hard drive issue had been detected on August 8. He told the OIG that prior to August 10, he was unaware that the DVR 2 issue had been detected on August 8, and that approximately half of the facility's cameras, and in particular the cameras in the SHU, were found to not be recording on that date.\n\nThe Electronics Technician told the OIG that the Warden had instructed Electronics Technician to try and recover any potential SHU video that may have been recorded by the cameras assigned to the malfunctioning DVR 2 system, but the Electronics Technician was unable to find anything. The Electronics Technician further said that the Warden wanted to have all the facility's cameras recording again as soon as possible, so he instructed the Electronics Technician to begin repairing DVR 2.\n\nD. FBI Forensic Analysis of the DVR System\n\nFBI evidence documents revealed that on August 10, 2019, the FBI seized all hard drives contained within the DVR 2 system. On August 14, 2019, the FBI returned to MCC New York and seized additional DVR 2 components. On August 15, 2019, the FBI seized the entire DVR 1 system.",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Figure 6.7",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Location of Non-Recording Camera in the L Tier of the SHU",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Source: DOJ OIG schematic drawing depicting the MCC New York SHU and the Office of the Chief Medical Examiner, City of New York",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "The Warden, who was not scheduled to work on August 10, 2019, arrived at the institution later that morning after being notified of Epstein's death and was informed that most of the cameras in the SHU were not recording. He told the OIG that when the SIS Lieutenant arrived at the facility that morning, he informed her that the SHU cameras had not been recording, and the SIS Lieutenant explained that the hard drive issue had been detected on August 8. He told the OIG that prior to August 10, he was unaware that the DVR 2 issue had been detected on August 8, and that approximately half of the facility's cameras, and in particular the cameras in the SHU, were found to not be recording on that date.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "The Electronics Technician told the OIG that the Warden had instructed Electronics Technician to try and recover any potential SHU video that may have been recorded by the cameras assigned to the malfunctioning DVR 2 system, but the Electronics Technician was unable to find anything. The Electronics Technician further said that the Warden wanted to have all the facility's cameras recording again as soon as possible, so he instructed the Electronics Technician to begin repairing DVR 2.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "D. FBI Forensic Analysis of the DVR System",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FBI evidence documents revealed that on August 10, 2019, the FBI seized all hard drives contained within the DVR 2 system. On August 14, 2019, the FBI returned to MCC New York and seized additional DVR 2 components. On August 15, 2019, the FBI seized the entire DVR 1 system.",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Warden",
+      "SIS Lieutenant",
+      "Electronics Technician",
+      "Epstein"
+    ],
+    "organizations": [
+      "DOJ OIG",
+      "FBI",
+      "MCC New York",
+      "Office of the Chief Medical Examiner"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "August 10, 2019",
+      "August 8",
+      "August 14, 2019",
+      "August 15, 2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00023459"
+    ]
+  },
+  "additional_notes": "The document appears to be a page from a report related to the investigation of Epstein's death. The page includes a figure with a photograph and a schematic drawing, as well as text describing the events surrounding the death and the subsequent investigation."
+}

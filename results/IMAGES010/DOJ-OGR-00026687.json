@@ -1,0 +1,67 @@
+{
+  "document_metadata": {
+    "page_number": "3047",
+    "document_number": "BP-A0971",
+    "date": "AUG 11",
+    "document_type": "CHAIN OF CUSTODY LOG CDFRM",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 3047\nBP-A0971\nAUG 11\nCHAIN OF CUSTODY LOG CDFRM\nU.S. DEPARTMENT OF JUSTICE\nFEDERAL BUREAU OF PRISONS\nECN #\n(Enclose with/attach to evidence)\nITEM #\nCASE ID NUMBER:\nSUSPECT (If known)\nDESCRIPTION OF ITEM: Phone log Print outs for ext. 6314(IN) 6313(OUT) 6313(IN) 6333(IN) + 6498(OUT) 6468(IN) 6468(OUT) 6285(OUT) 6317(OUT) 6385(IN), 6385(OUT) 6468(IN) 6314(OUT), 6317(IN)\nDATE/TIME ITEM FOUND:\nLOCATION:\nSIGNATURE OF PERSON RECOVERING EVIDENCE:\nPRINTED NAME:\nEVIDENCE PLACED IN OVERNIGHT DROP BOX:\nDROP-BOX BY: (printed name)\nDate & Time:\nWitness:(printed name)\nEVIDENCE RECOVERED FROM OVERNIGHT DROP BOX BY:\n(printed name)\nDate & Time:\nWitness:(printed name)\nEVIDENCE PLACED EVIDENCE SAFE BY:\n(printed name)\nDate & Time:\nWitness:(printed name)\nDISPOSITION:\n( ) Hold as evidence\n( ) Return to owner\n( ) Lab Analysis\n( ) Return to finder\n( ) Destroy immediately\n( ) FBI\n( ) Other\nREMARKS (condition of evidence):\nCHAIN OF CUSTODY\nEVIDENCE RELEASED BY:\nDATE/TIME:\nDESTINATION:\nEVIDENCE RELEASED TO:\nSIS b(6), b(7)c\n8/11/19\n003-016\nb(6), b(7)c\n\n\n\n\n\n\n\nPDF\nPrescribed by P5510\nDOJ-OGR-00026687",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "CHAIN OF CUSTODY LOG CDFRM",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "U.S. DEPARTMENT OF JUSTICE\nFEDERAL BUREAU OF PRISONS",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Phone log Print outs for ext. 6314(IN) 6313(OUT) 6313(IN) 6333(IN) + 6498(OUT) 6468(IN) 6468(OUT) 6285(OUT) 6317(OUT) 6385(IN), 6385(OUT) 6468(IN) 6314(OUT), 6317(IN)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "SIS b(6), b(7)c\n8/11/19\n003-016\nb(6), b(7)c",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "U.S. DEPARTMENT OF JUSTICE",
+      "FEDERAL BUREAU OF PRISONS",
+      "FBI"
+    ],
+    "locations": [],
+    "dates": [
+      "AUG 11",
+      "8/11/19"
+    ],
+    "reference_numbers": [
+      "BP-A0971",
+      "6314(IN)",
+      "6313(OUT)",
+      "6313(IN)",
+      "6333(IN)",
+      "6498(OUT)",
+      "6468(IN)",
+      "6468(OUT)",
+      "6285(OUT)",
+      "6317(OUT)",
+      "6385(IN)",
+      "6385(OUT)",
+      "6468(IN)",
+      "6314(OUT)",
+      "6317(IN)",
+      "003-016",
+      "P5510",
+      "DOJ-OGR-00026687"
+    ]
+  },
+  "additional_notes": "The document is a Chain of Custody Log from the Federal Bureau of Prisons, containing handwritten notes describing phone log printouts and their disposition. Some fields are left blank, and there are redactions in the 'EVIDENCE RELEASED BY' and 'EVIDENCE RELEASED TO' sections."
+}

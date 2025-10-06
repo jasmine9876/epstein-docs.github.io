@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "DOJ-OGR-00024650",
+    "date": "07/31/2019",
+    "document_type": "Prisoner Remand or Order to Deliver",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "Prepared on: 07/31/2019 SOUTHERN NEW YORK District 54 Prisoner Remand or Order to Deliver PRISONER REMAND OR ORDER TO DELIVER AND RECEIPT FOR UNITED STATES PRISONERS (SHORT FORM) DATE: 07/31/2019 TO: MCC New York THE FOLLOWING NAMED UNITED STATES PRISONERS: [X] are herewith remanded to your custody [ ] are to be delivered to representative presenting and signing this order # USMS NO. Local Jail No. Name 1 76318054 EPSTEIN, JEFFREY RECEIPT THE ABOVE NAMED PRISONER(S) WERE RECEIVED: BY: [redacted] TITLE: [redacted] DISTRICT OR ORGAN. ADDRESS: LIMITED UNITED STATES MARSHAL BY: DEPUTY U.S. MARSHAL Limited Official Use Page 1 of 1 DOJ-OGR-00024650",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Prepared on: 07/31/2019 SOUTHERN NEW YORK District 54 Prisoner Remand or Order to Deliver PRISONER REMAND OR ORDER TO DELIVER AND RECEIPT FOR UNITED STATES PRISONERS (SHORT FORM) DATE: 07/31/2019 TO: MCC New York THE FOLLOWING NAMED UNITED STATES PRISONERS: [X] are herewith remanded to your custody [ ] are to be delivered to representative presenting and signing this order # USMS NO. Local Jail No. Name",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "1 76318054 EPSTEIN, JEFFREY",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "[redacted]",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "RECEIPT THE ABOVE NAMED PRISONER(S) WERE RECEIVED: BY: TITLE: DISTRICT OR ORGAN. ADDRESS: LIMITED UNITED STATES MARSHAL BY: DEPUTY U.S. MARSHAL Limited Official Use Page 1 of 1",
+      "position": "footer"
+    },
+    {
+      "type": "stamp",
+      "content": "LIMITED UNITED STATES MARSHAL",
+      "position": "bottom"
+    },
+    {
+      "type": "signature",
+      "content": "DEPUTY U.S. MARSHAL",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "MCC New York",
+      "UNITED STATES MARSHAL"
+    ],
+    "locations": [
+      "SOUTHERN NEW YORK"
+    ],
+    "dates": [
+      "07/31/2019"
+    ],
+    "reference_numbers": [
+      "76318054",
+      "DOJ-OGR-00024650"
+    ]
+  },
+  "additional_notes": "The document contains redactions in the receipt section. The document is a 'Prisoner Remand or Order to Deliver' form used by the U.S. Marshals Service."
+}

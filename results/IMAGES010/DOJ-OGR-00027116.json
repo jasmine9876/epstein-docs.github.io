@@ -1,0 +1,51 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00027116",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "(b)(6), (b)(7)(C) J. Epstein 76318-059 6-00pm 7-13 (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) Epstein 76318-054 8:30 12:30 (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) J. Epstein 76318 12:45 6:03 DOJ-OGR-00027116",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "J. Epstein 76318-059 6-00pm 7-13",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein 76318-054 8:30 12:30",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "J. Epstein 76318 12:45 6:03",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027116",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "J. Epstein",
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7-13"
+    ],
+    "reference_numbers": [
+      "76318-059",
+      "76318-054",
+      "76318",
+      "DOJ-OGR-00027116"
+    ]
+  },
+  "additional_notes": "The document contains heavily redacted sections with (b)(6), (b)(7)(C) markings, indicating sensitive information has been removed. The visible text is primarily handwritten and appears to be a log or record of some sort, possibly related to a person named J. Epstein or Epstein."
+}

@@ -1,0 +1,71 @@
+{
+  "document_metadata": {
+    "page_number": "3358",
+    "document_number": "NYMDI, 530*05",
+    "date": "08-04-2019",
+    "document_type": "INMATE ROSTER",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 3358\nNYMDI, 530*05 * INMATE ROSTER 08-04-2019\nPAGE 001 OF 001 15:57:34\nCATEGORY: OCT GROUP CODE :\nASSIGNMENT: ATTY FACILITY: NYM\nOPER CATG ASSIGNMENT OPER CATG ASSIGNMENT\nNUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK\n0001 ATTY (b)(6),(b)(7)(C) 08-04-2019 I04-930U UNASSG\n0002 76318-054 EPSTEIN 08-04-2019 K09-030U UNASSG\n0003 08-04-2019 Z04-206LAD UNASSG\nG0000 TRANSACTION SUCCESSFULLY COMPLETED\nDOJ-OGR-00026947",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3358",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NYMDI, 530*05 * INMATE ROSTER 08-04-2019\nPAGE 001 OF 001 15:57:34",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CATEGORY: OCT GROUP CODE :\nASSIGNMENT: ATTY FACILITY: NYM",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "0001 ATTY (b)(6),(b)(7)(C) 08-04-2019 I04-930U UNASSG\n0002 76318-054 EPSTEIN 08-04-2019 K09-030U UNASSG\n0003 08-04-2019 Z04-206LAD UNASSG",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "G0000 TRANSACTION SUCCESSFULLY COMPLETED",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026947",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "08-04-2019"
+    ],
+    "reference_numbers": [
+      "NYMDI, 530*05",
+      "76318-054",
+      "DOJ-OGR-00026947"
+    ]
+  },
+  "additional_notes": "The document appears to be a roster of inmates, with one entry redacted."
+}

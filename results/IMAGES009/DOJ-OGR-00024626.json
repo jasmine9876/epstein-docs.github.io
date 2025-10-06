@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "001",
+    "document_number": "NYMD9 530*07",
+    "date": "07-29-2019",
+    "document_type": "POPULATION MONITORING CENSUS/ROSTER GENERALIZED RETRIEVAL",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "NYMD9 530*07 * POPULATION MONITORING CENSUS/ROSTER * 07-29-2019 PAGE 001 * GENERALIZED RETRIEVAL * 00:37:47 FUNCTION: R-P SELECTION CATEGORY: QTR EQ ALL ZERO/NBR: NO ORGANIZATION: FACL EQ NYM OPTION: TYPE OF FACILITY: TOF EQ T FACILITY MANAGED BY: FMB EQ AP DUP SUPR: YES COLUMNS 1: REG 2: LN 3: LN2 4: FN 5: ARSD 6: ARS 7: 8: SEQ: 234 NP: JUDG: C SORT COL: COL SEQ: CONDITIONS (GRP 1) OR CONDITIONS (GRP 2) OR CONDITIONS (GRP 3) OR CONDITIONS (GRP 4) CMCI NE G CMCI NE P Continue 1 DOJ-OGR-00024626",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "NYMD9 530*07 * POPULATION MONITORING CENSUS/ROSTER * 07-29-2019 PAGE 001 * GENERALIZED RETRIEVAL * 00:37:47 FUNCTION: R-P SELECTION CATEGORY: QTR EQ ALL ZERO/NBR: NO ORGANIZATION: FACL EQ NYM OPTION: TYPE OF FACILITY: TOF EQ T FACILITY MANAGED BY: FMB EQ AP DUP SUPR: YES COLUMNS 1: REG 2: LN 3: LN2 4: FN 5: ARSD 6: ARS 7: 8: SEQ: 234 NP: JUDG: C SORT COL: COL SEQ: CONDITIONS (GRP 1) OR CONDITIONS (GRP 2) OR CONDITIONS (GRP 3) OR CONDITIONS (GRP 4) CMCI NE G CMCI NE P",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Continue 1",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024626",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "FMB",
+      "NYM"
+    ],
+    "locations": [],
+    "dates": [
+      "07-29-2019"
+    ],
+    "reference_numbers": [
+      "NYMD9 530*07",
+      "DOJ-OGR-00024626"
+    ]
+  },
+  "additional_notes": "The document appears to be a computer-generated report with some handwritten annotations. The image is mostly clear, but there is a large green rectangle covering part of the bottom section."
+}

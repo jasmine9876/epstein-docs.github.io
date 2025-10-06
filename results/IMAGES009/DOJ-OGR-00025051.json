@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": "9",
+    "document_number": "DOJ-OGR-00025051",
+    "date": "5/19/2020",
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 598 Page 9 Log Date/Time User Action Alias Post Shift date Watch Assignment Type Mndtry 08/09/19 1:10 (b)(6); (b)(7)(C) Signed Up for OT (b)(6); (b)(7)(C) N/A 08/10/19 N/A N/A Selected Lists: [All] Selected Shifts: M/W 5/19/2020 10:37:33 AM DOJ-OGR-00025051",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 598",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Page 9",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Log Date/Time User Action Alias Post Shift date Watch Assignment Type Mndtry",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "08/09/19 1:10 (b)(6); (b)(7)(C) Signed Up for OT (b)(6); (b)(7)(C) N/A 08/10/19 N/A N/A Selected Lists: [All] Selected Shifts: M/W",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "5/19/2020 10:37:33 AM",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025051",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "08/09/19",
+      "08/10/19",
+      "5/19/2020"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00025051"
+    ]
+  },
+  "additional_notes": "The document appears to be a log or report with redacted user information."
+}

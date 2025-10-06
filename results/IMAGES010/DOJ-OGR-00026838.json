@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": "3249",
+    "document_number": "DOJ-OGR-00026838",
+    "date": "7/8/19",
+    "document_type": "Inmate Observation Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "7/8/19 Epstein 76318-054 10:30PM Inmate Epstein is sleeping 10:45PM Inmate Epstein is sleeping 11:00PM End of Shift for Inmate Companion 1:09PM Inmate assumes responsibility for the psych observation of Inmate Epstein #76318-054 in cell #4 on 7/8/19 at 11:00pm 11:15PM Inmate EPSTEIN is SLEEPING 11:23PM Inmate EPSTEIN is up using bathroom 11:25PM Inmate EPSTEIN is laying down, I asked if he ate dinner because it was not logged. He said he was offered dinner out refused because it was nasty (He is right) 11:30PM Inmate EPSTEIN is laying down 11:45PM Inmate EPSTEIN is laying down 12:00AM Inmate EPSTEIN is sleeping 12:09AM Staff rounds 12:15AM Inmate EPSTEIN is awake pacing cell 12:30AM Inmate EPSTEIN is pacing, used bathroom then lays down 12:45AM Inmate EPSTEIN is pacing his cell",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "7/8/19 Epstein 76318-054",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "10:30PM Inmate Epstein is sleeping\n10:45PM Inmate Epstein is sleeping\n11:00PM End of Shift for Inmate Companion",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1:09PM Inmate assumes responsibility for the psych observation of Inmate Epstein #76318-054 in cell #4 on 7/8/19 at 11:00pm",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "11:15PM Inmate EPSTEIN is SLEEPING\n11:23PM Inmate EPSTEIN is up using bathroom\n11:25PM Inmate EPSTEIN is laying down, I asked if he ate dinner because it was not logged. He said he was offered dinner out refused because it was nasty (He is right)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "11:30PM Inmate EPSTEIN is laying down\n11:45PM Inmate EPSTEIN is laying down\n12:00AM Inmate EPSTEIN is sleeping",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "12:09AM Staff rounds\n12:15AM Inmate EPSTEIN is awake pacing cell\n12:30AM Inmate EPSTEIN is pacing, used bathroom then lays down\n12:45AM Inmate EPSTEIN is pacing his cell",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/8/19"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026838"
+    ]
+  },
+  "additional_notes": "The document appears to be a handwritten log of observations of inmate Jeffrey Epstein. The log includes timestamps and notes on Epstein's activities and status. Some parts of the document are redacted."
+}

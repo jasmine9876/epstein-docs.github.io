@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": "73",
+    "document_number": "DOJ-OGR-00022358",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Massage A - Island Moseley, Brian Roberts, Theresa Romualdez, Daniel Sanchez, Carlos Tropical Shipping Water Taxi ISRAEL Eshed, Elisa Evani Duud Efrat Gil Avi Gutman, Arik Gutman, Arik Jerusalem Hyatt Neima, Yakhof Olmert, Ehud ITALY (I) Torne di Pisa Train Info JEFFREY (J) Apt for Models",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Massage A - Island Moseley, Brian Roberts, Theresa Romualdez, Daniel Sanchez, Carlos Tropical Shipping Water Taxi",
+      "position": "left"
+    },
+    {
+      "type": "printed",
+      "content": "ISRAEL Eshed, Elisa Evani Duud Efrat Gil Avi Gutman, Arik Gutman, Arik Jerusalem Hyatt Neima, Yakhof Olmert, Ehud",
+      "position": "right"
+    },
+    {
+      "type": "printed",
+      "content": "ITALY (I) Torne di Pisa Train Info",
+      "position": "right"
+    },
+    {
+      "type": "handwritten",
+      "content": "JEFFREY (J) Apt for Models",
+      "position": "right"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022358",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Moseley, Brian",
+      "Roberts, Theresa",
+      "Romualdez, Daniel",
+      "Sanchez, Carlos",
+      "Eshed, Elisa",
+      "Evani Duud Efrat",
+      "Gil Avi",
+      "Gutman, Arik",
+      "Neima, Yakhof",
+      "Olmert, Ehud",
+      "JEFFREY (J)"
+    ],
+    "organizations": [
+      "Tropical Shipping",
+      "Water Taxi",
+      "Jerusalem Hyatt",
+      "Torne di Pisa",
+      "Train Info"
+    ],
+    "locations": [
+      "ISRAEL",
+      "ITALY"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022358"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 73, and the document number is DOJ-OGR-00022358."
+}

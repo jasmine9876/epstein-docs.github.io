@@ -1,0 +1,69 @@
+{
+  "document_metadata": {
+    "page_number": "0014",
+    "document_number": "DOJ-OGR-00028208",
+    "date": "04282014",
+    "document_type": "TECSII - PRIMARY QUERY HISTORY",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 TECSII - PRIMARY QUERY HISTORY 04282014 *A *B PASSENGER ACTIVITY PAGE NO. 0014 NAME DOB QUERY DATE TIME AGN RSLT LNE TYP REF LANE TERM/ API DIM EPSTEIN, JEFFREY 012053 040408 0000 *D API 01 R N PARIS, CH. DE GAULLE DOC: 207320604 US P INSP: APIS QRY EPSTEIN, JEFFREY 012053 041508 1503 CUS *E AIR JK10 N N A512-CBP-ST THOMAS, VI PRECL DOC: 207320604 US P INSP: *F EPSTEIN, JEFFREY 012053 042908 1921 CUS *G AIR :W01 N N A461-TETERBORO, AIRPORT HANG DOC: 207320604 US P INSP: *H EPSTEIN, JEFFREY 012053 030508 0709 CUS *I AIR JK38 N N A512-CBP-ST THOMAS, VI PRECL DOC: 207320604 US P INSP: *J EPSTEIN, JEFFREY 012053 032408 1232 CUS *K AIR JK41 N N A512-CBP-ST THOMAS, VI PRECL DOC: 207320604 US P INSP: *L EPSTEIN, JEFFREY 012053 020508 1152 CUS *M AIR JK29 N N A512-CBP-ST THOMAS, VI PRECL DOC: 207320604 US P INSP: *N (b)(7)(E) <...MORE...> (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(7)(E) *F - (b)(6), (b)(7)(C) *G - (b)(7)(E) *H - (b)(6), (b)(7)(C) *I - (b)(7)(E) *J - (b)(6), (b)(7)(C) *K - (b)(7)(E) *L - (b)(6), (b)(7)(C) *M - (b)(7)(E) *N - (b)(6), (b)(7)(C) DOJ-OGR-00028208",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "TECSII - PRIMARY QUERY HISTORY PASSENGER ACTIVITY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE NO. 0014",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB QUERY DATE TIME AGN RSLT LNE TYP REF LANE TERM/ API DIM",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY 012053 040408 0000 *D API 01 R N PARIS, CH. DE GAULLE DOC: 207320604 US P INSP: APIS QRY",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(7)(E) *F - (b)(6), (b)(7)(C) *G - (b)(7)(E) *H - (b)(6), (b)(7)(C) *I - (b)(7)(E) *J - (b)(6), (b)(7)(C) *K - (b)(7)(E) *L - (b)(6), (b)(7)(C) *M - (b)(7)(E) *N - (b)(6), (b)(7)(C)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028208",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "CBP"
+    ],
+    "locations": [
+      "PARIS",
+      "TETERBORO"
+    ],
+    "dates": [
+      "040408",
+      "041508",
+      "042908",
+      "030508",
+      "032408",
+      "020508",
+      "04282014"
+    ],
+    "reference_numbers": [
+      "207320604",
+      "DOJ-OGR-00028208"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted TECSII query history report. Multiple redactions are present, marked as (b)(6), (b)(7)(C), and (b)(7)(E)."
+}

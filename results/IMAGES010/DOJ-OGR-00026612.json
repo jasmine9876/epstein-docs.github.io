@@ -1,0 +1,68 @@
+{
+  "document_metadata": {
+    "page_number": "2956",
+    "document_number": "DOJ-OGR-00026612",
+    "date": "8-11-19",
+    "document_type": "Official Count Slip",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2956 Metropolitan Correctional Center Official Count Slip Unit: ES Date 8-11-19 Count: (b)(7)(F) Time: 450 pm Print Name: (b)(6); (b)(7)(C) Signature: Print Name: Signature Metropolitan Correctional Center Official Count Slip Unit: GN Date 08/11/19 Count: (b)(7)(F) Time: 4pm Print Name: (b)(6); (b)(7)(C) Signature: Print Name: Signature Metropolitan Correctional Center Official Count Slip Unit: GS Date: 8-11-19 Count: (b)(7)(F) Time: 4:00 Print Name: (b)(6); (b)(7)(C) Signature: Print Name: Signature DOJ-OGR-00026612",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "ES 8-11-19 450 pm",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Unit: Date Count: Time: Print Name: Signature: Print Name: Signature",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(7)(F)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "GN 08/11/19 4pm",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "GS 8-11-19 4:00",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026612",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [],
+    "dates": [
+      "8-11-19",
+      "08/11/19"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026612"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6); (b)(7)(C) and (b)(7)(F). The image quality is clear, but some information is redacted."
+}

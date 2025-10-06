@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Flight Information",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "A5 /S/T20.1-1/ADDR1/BILLINGANDDELIVERY (b)(6)\nA5 /S/T20.1-2/301 EAST 66TH STREET/301/NEW YORK/NY/NY/NY/10065/USA\nX5 /S/T20.1-1/ADDR1/BILLINGANDDELIVERY (b)(6)\nX5 /S/T20.1-2/301 EAST 66TH STREET/301/NEW YORK/NY/NY/NY/10065/USA\nX5 ORIGINALLY ADDED BY LON GS FD 18OCT 0852Z B1250F\nRCVD-FD\nLON GS FD 18OCT0855Z\nXQ 18OCT0856Z\nRCVD-TICKETWIZARD\nNYD SU QK 18OCT0856Z\nX7 TAE/2200./18OCT/AD.SEE.RMKS\nXF LON19178553363*US/B\nRCVD-\nNYD SU QK 18OCT0856Z\nXF LON*9052*A1.1/N\nRCVD-TICKETWIZARD\nNYD SU QK 18OCT0856Z\n#2\nRECLOC EC QO8ZVL 30OCT10\nNM: EPSTEIN,JEFFREY\nFL: 10 EC 004 01NOV10 EWR ORY 20:25 08:50\nPHONE: (b)(6)\nEMAIL (b)(6)\nPASSENGER: EPSTEIN,JEFFREY\nADDRESS: \"\",\"\"\nSEATING\nFLT DATE BOARDING PASS SEAT NUMBER\nDOJ-OGR-00027518",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "A5 /S/T20.1-1/ADDR1/BILLINGANDDELIVERY (b)(6)\nA5 /S/T20.1-2/301 EAST 66TH STREET/301/NEW YORK/NY/NY/NY/10065/USA\nX5 /S/T20.1-1/ADDR1/BILLINGANDDELIVERY (b)(6)\nX5 /S/T20.1-2/301 EAST 66TH STREET/301/NEW YORK/NY/NY/NY/10065/USA\nX5 ORIGINALLY ADDED BY LON GS FD 18OCT 0852Z B1250F\nRCVD-FD\nLON GS FD 18OCT0855Z\nXQ 18OCT0856Z\nRCVD-TICKETWIZARD\nNYD SU QK 18OCT0856Z\nX7 TAE/2200./18OCT/AD.SEE.RMKS\nXF LON19178553363*US/B\nRCVD-\nNYD SU QK 18OCT0856Z\nXF LON*9052*A1.1/N\nRCVD-TICKETWIZARD\nNYD SU QK 18OCT0856Z",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "#2\nRECLOC EC QO8ZVL 30OCT10\nNM: EPSTEIN,JEFFREY\nFL: 10 EC 004 01NOV10 EWR ORY 20:25 08:50\nPHONE: (b)(6)\nEMAIL (b)(6)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGER: EPSTEIN,JEFFREY\nADDRESS: \"\",\"\"\nSEATING\nFLT DATE BOARDING PASS SEAT NUMBER",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027518",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "TICKETWIZARD"
+    ],
+    "locations": [
+      "NEW YORK",
+      "EWR",
+      "ORY",
+      "LON"
+    ],
+    "dates": [
+      "18OCT",
+      "30OCT10",
+      "01NOV10"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00027518",
+      "QO8ZVL",
+      "EC 004"
+    ]
+  },
+  "additional_notes": "The document contains redacted phone number and email address. The document appears to be a flight information record for JEFFREY EPSTEIN."
+}

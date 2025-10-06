@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028736",
+    "date": "042814",
+    "document_type": "PQH API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:08 PQH API/HIT DATA 042814 *B *A *C NAME DOB ----- QUERY ----- LNE TERM/ DATE TIME AGN RSLT TYP REF LANE API EPSTEIN, JEFFREY EDWARD 012053 040714 1102 CUS *D AIR INS /M02 N A10D-TETERBORO, JET AVIATION DOC: 469911707 US P INSP: *E TECS RECORD ID : (b)(7)(E) ADMIT UNTIL : 00000000 CARRIER CODE : *GA GENERAL AVIATION FLT/VES NUMBER : 212JE (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(6), (b)(7)(C) DOJ-OGR-00028736",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:08 PQH API/HIT DATA 042814",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB ----- QUERY ----- LNE TERM/ DATE TIME AGN RSLT TYP REF LANE API",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY EDWARD 012053 040714 1102 CUS *D AIR INS /M02 N A10D-TETERBORO, JET AVIATION DOC: 469911707 US P INSP: *E",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TECS RECORD ID : (b)(7)(E) ADMIT UNTIL : 00000000",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CARRIER CODE : *GA GENERAL AVIATION FLT/VES NUMBER : 212JE",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E) (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028736",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "JET AVIATION"
+    ],
+    "locations": [
+      "TETERBORO"
+    ],
+    "dates": [
+      "040714",
+      "042814"
+    ],
+    "reference_numbers": [
+      "469911707",
+      "212JE",
+      "DOJ-OGR-00028736"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as (b)(7)(E), (b)(6), and (b)(7)(C). The document appears to be a record of a query related to an individual, Jeffrey Edward Epstein, and his aviation activities."
+}

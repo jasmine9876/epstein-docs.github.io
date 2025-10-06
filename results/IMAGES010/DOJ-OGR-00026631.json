@@ -1,0 +1,86 @@
+{
+  "document_metadata": {
+    "page_number": "2975",
+    "document_number": "DOJ-OGR-00026631",
+    "date": "08/09/2019",
+    "document_type": "Official Count Slip",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2975 Metropolitan Correctional Center New York, New York Official Count Slip Unit: FNYS Date: 08/09/2019 Count: (b)(7)(F) Time: 4:40 pm 1. Print Name: (b)(6); (b)(7)(C) 1. Signature: 2. Print Name: 2. Signature: Metropolitan Correctional Center Official Count Slip Unit: ES Date: 8/9/15 Count: (b)(7)(F) Time: 2:0 Print Name: (b)(6); (b)(7)(C) Signature: Print Name: Signature: DOJ-OGR-00026631",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center New York, New York Official Count Slip",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "FNYS 08/09/2019 4:40 pm",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Unit: Date: Count: Time: 1. Print Name: 1. Signature: 2. Print Name: 2. Signature:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(F)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "ES 8/9/15 2:0",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Unit: Date: Count: Time: Print Name: Signature: Print Name: Signature:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(F)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026631",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Metropolitan Correctional Center",
+      "FNYS"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "08/09/2019",
+      "8/9/15"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026631"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned image of two Official Count Slips from the Metropolitan Correctional Center in New York. The slips contain handwritten information, including dates, times, and unit identifiers. Some information has been redacted with (b)(6); (b)(7)(C) and (b)(7)(F)."
+}

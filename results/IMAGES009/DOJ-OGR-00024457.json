@@ -1,0 +1,101 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "DOJ-OGR-00024457",
+    "date": "05/11/2020",
+    "document_type": "Inmate Center Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Date: 05/11/2020 Time: 09:28 AM Federal Bureau of Prisons TRUVIEW Inmate Center Report Sensitive But Unclassified Location: DC Start Date Loc Completed Duration Phone Contact First Nm Contact Last Nm City St Country Email List Creation Date Loc Status Email Address Contact Nm Relationship Reject Reason Email Messages Entered Date Loc Type Status Rev Req Email Address Contact Nm Relationship Visitor List Visitor Nm Relationship Address City St Zip Phone Alpha Cd Visits Visitor Nm Relationship Address City St Zip Phone Start Date End Date Alpha Cd Timeline Date Type Summary 8/7/2019 12:04:45 PM Money Received Inmate: 76318054 EPSTEIN, JEFFREY | Sender (b)(6) (b)(7)(C) (b)(7)(F) Amount: 200.0000 7/31/2019 9:04:12 AM Money Received Inmate: 76318054 EPSTEIN, JEFFREY | Sender (b)(6) (b)(7)(C) (b)(7)(F) Amount: 300.0000 7/8/2019 10:04:21 AM Money Received Inmate: 76318054 EPSTEIN, JEFFREY | Sender (b)(6) (b)(7)(C) (b)(7)(F) Amount: 200.0000 User ID: TF34228 Page 2 of 2 DOJ-OGR-00024457",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date: 05/11/2020 Time: 09:28 AM Federal Bureau of Prisons TRUVIEW Inmate Center Report Sensitive But Unclassified Location: DC",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Start Date Loc Completed Duration Phone Contact First Nm Contact Last Nm City St Country",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "**No information was found for the given criteria.**",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Email List Creation Date Loc Status Email Address Contact Nm Relationship Reject Reason",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "**No information was found for the given criteria.**",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Email Messages Entered Date Loc Type Status Rev Req Email Address Contact Nm Relationship",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "**No information was found for the given criteria.**",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Visitor List Visitor Nm Relationship Address City St Zip Phone Alpha Cd",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "**No information was found for the given criteria.**",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Visits Visitor Nm Relationship Address City St Zip Phone Start Date End Date Alpha Cd",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "**No information was found for the given criteria.**",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Timeline Date Type Summary 8/7/2019 12:04:45 PM Money Received Inmate: 76318054 EPSTEIN, JEFFREY | Sender (b)(6) (b)(7)(C) (b)(7)(F) Amount: 200.0000 7/31/2019 9:04:12 AM Money Received Inmate: 76318054 EPSTEIN, JEFFREY | Sender (b)(6) (b)(7)(C) (b)(7)(F) Amount: 300.0000 7/8/2019 10:04:21 AM Money Received Inmate: 76318054 EPSTEIN, JEFFREY | Sender (b)(6) (b)(7)(C) (b)(7)(F) Amount: 200.0000",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "User ID: TF34228 Page 2 of 2 DOJ-OGR-00024457",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [
+      "DC"
+    ],
+    "dates": [
+      "05/11/2020",
+      "8/7/2019",
+      "7/31/2019",
+      "7/8/2019"
+    ],
+    "reference_numbers": [
+      "76318054",
+      "TF34228",
+      "DOJ-OGR-00024457"
+    ]
+  },
+  "additional_notes": "The document appears to be a report from the Federal Bureau of Prisons, detailing financial transactions related to inmate JEFFREY EPSTEIN. Some information is redacted."
+}

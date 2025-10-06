@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": "3324",
+    "document_number": "DOJ-OGR-00026913",
+    "date": "August 10, 2019",
+    "document_type": "Memorandum",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "UNITED STATES GOVERNMENT MEMORANDUM Metropolitan Correctional Center, New York, New York DATE: August 10, 2019 TO: (b)(6); (b)(7)(C) Captain FROM: (b)(6); (b)(7)(C) Clinical Nurse SUBJECT: Medical Emergency Unit (CA) On Saturday, Aug 10, 2019, at approximately 0633 a.m., I responded to a medical emergency 9S, upon arrival Inmate (EPSTEIN, J. Reg #: 76318-054) was received on the floor of his cell unresponsive with CPR in progress by correctional officers, Inmate was Cold, with circumferential Bruising around the neck and posterior mottling, Pupils Fixed and dilated, No Palpable pulses were felt. At this time 0635 a call placed for EMS, CPR Continued, an AED was Placed with No shock advised, CPR was continued. Inmate was transported to HSU treatment room with CPR in progress, where a 18g hep lock to L AC was placed and, O2 15 Lt ViA BVM. Pulse Check NO SHOCK advised. EMS and Paramedics arrived 0656, Placed on cardiac Monitor shows asystole Resumed CPR, Inmate was intubated by Medics, 3 Rounds of Epinephrine administered, and Pulse Check asystole, Inmate was transported to Local ER with CPR in progress at approximately 0710.",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "UNITED STATES GOVERNMENT MEMORANDUM",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center, New York, New York",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DATE: August 10, 2019 TO: (b)(6); (b)(7)(C) Captain FROM: (b)(6); (b)(7)(C) Clinical Nurse SUBJECT: Medical Emergency Unit (CA)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "On Saturday, Aug 10, 2019, at approximately 0633 a.m., I responded to a medical emergency 9S, upon arrival Inmate (EPSTEIN, J. Reg #: 76318-054) was received on the floor of his cell unresponsive with CPR in progress by correctional officers, Inmate was Cold, with circumferential Bruising around the neck and posterior mottling, Pupils Fixed and dilated, No Palpable pulses were felt. At this time 0635 a call placed for EMS, CPR Continued, an AED was Placed with No shock advised, CPR was continued. Inmate was transported to HSU treatment room with CPR in progress, where a 18g hep lock to L AC was placed and, O2 15 Lt ViA BVM. Pulse Check NO SHOCK advised. EMS and Paramedics arrived 0656, Placed on cardiac Monitor shows asystole Resumed CPR, Inmate was intubated by Medics, 3 Rounds of Epinephrine administered, and Pulse Check asystole, Inmate was transported to Local ER with CPR in progress at approximately 0710.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8-10-19",
+      "position": "margin"
+    },
+    {
+      "type": "stamp",
+      "content": "DOJ",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026913",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "EPSTEIN, J.",
+      "Captain",
+      "Clinical Nurse"
+    ],
+    "organizations": [
+      "Metropolitan Correctional Center",
+      "EMS",
+      "HSU",
+      "Local ER"
+    ],
+    "locations": [
+      "New York",
+      "9S"
+    ],
+    "dates": [
+      "August 10, 2019",
+      "Aug 10, 2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026913"
+    ]
+  },
+  "additional_notes": "The document is a memorandum from the United States Government regarding a medical emergency involving inmate Epstein. The document contains some redacted information and a stamp indicating it was received on August 10, 2019."
+}

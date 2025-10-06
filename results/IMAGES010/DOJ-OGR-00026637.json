@@ -1,0 +1,90 @@
+{
+  "document_metadata": {
+    "page_number": "2981",
+    "document_number": "DOJ-OGR-00026637",
+    "date": "8/11/2019",
+    "document_type": "OFFICIAL OUT-COUNT FORM",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "METROPOLITAN CORRECTIONAL CENTER NEW YORK NY OFFICIAL OUT-COUNT FORM DATE: 8/11/2019 TIME: 4PM FROM: (b)(6); (b)(7)(C) Staff Supervising Out-Count LOCATION: F/S Number Name Unit Number Name Unit 1 (b)(6); (b)(7)(C) KS 21 2 (b)(6); (b)(7)(C) KS 22 3 (b)(6); (b)(7)(C) KS 23 4 KS 24 5 KS 25 6 ES 26 7 KS 27 8 KS 28 9 ES 29 10 KS 30 11 KS 31 12 KS 32 13 33 14 34 15 35 16 36 17 37 18 38 19 39 20 40 OUT-COUNTS BY UNIT: B-A C-A E-N E-S 2 G-N G-S I-N K-S 10 K-N Z-A Z-B R-A TOTAL ON OUT COUNT: 12 (b)(6); (b)(7)(C) Count Out-counts will be submitted at a minimum of two (2) hours prior to the count. Out-counts WILL be submitted in ink and legible. Out-counts should list inmates alphabetically by unit with the inmate's name, register number, and quarters assignment. Please verify all information.",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "METROPOLITAN CORRECTIONAL CENTER NEW YORK NY OFFICIAL OUT-COUNT FORM",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/11/2019",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "4PM",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Staff Supervising Out-Count",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "F/S",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Number Name Unit Number Name Unit",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6); (b)(7)(C) KS (b)(6); (b)(7)(C) KS (b)(6); (b)(7)(C) KS KS KS ES KS KS ES KS KS KS (b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "21 22 23 24 25 26 27 28 29 30 31 32 2 10 12",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "OUT-COUNTS BY UNIT: B-A C-A E-N E-S G-N G-S I-N K-S K-N Z-A Z-B R-A TOTAL ON OUT COUNT:",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "2 10 12 (b)(6); (b)(7)(C)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Out-counts will be submitted at a minimum of two (2) hours prior to the count. Out-counts WILL be submitted in ink and legible. Out-counts should list inmates alphabetically by unit with the inmate's name, register number, and quarters assignment. Please verify all information.",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "METROPOLITAN CORRECTIONAL CENTER"
+    ],
+    "locations": [
+      "NEW YORK",
+      "NY"
+    ],
+    "dates": [
+      "8/11/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026637"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6); (b)(7)(C), indicating sensitive or personal information has been removed."
+}

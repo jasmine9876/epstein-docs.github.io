@@ -1,0 +1,46 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "log sheet",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "log # Time In Time Out Date Name Signature Inmate Doc # Time In Time Out 665 665 7/1 SE Epstein 7628054 7628051 9 5",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "log # Time In Time Out Date Name Signature Inmate Doc # Time In Time Out",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "665 665 7/1 SE Epstein 7628054 7628051 9 5",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024485",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "7/1"
+    ],
+    "reference_numbers": [
+      "7628054",
+      "7628051",
+      "DOJ-OGR-00024485"
+    ]
+  },
+  "additional_notes": "The document appears to be a log sheet with handwritten entries. The majority of the content is obscured by a green overlay, making it difficult to discern further details."
+}

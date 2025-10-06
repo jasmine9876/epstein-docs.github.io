@@ -1,0 +1,49 @@
+{
+  "document_metadata": {
+    "page_number": "413",
+    "document_number": "DOJ-OGR-00023540",
+    "date": "2019/08/09",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Epstein From (b)(6); (b)(7)(C) To (b)(6); (b)(7)(C) Date 2019/08/09 10:56 Subject: Epstein Attachments: TEXT.htm, Mime.822 (b)(6) Can you give me a ring when you get a minute? I understand that Jeffrey Epstein is not being provided with water in the attorney visiting offices. Also I have a few follow up questions about conditions that I reached out to you about a couple of days ago. Thank you. (b)(6) (b)(7)(C) This message and any attached documents contain information from the law firm Steptoe & Johnson LLP that may be confidential and/or privileged. If you are not the intended recipient, please do not read, copy, distribute, or use this information. If you have received this transmission in error, please notify the sender immediately by reply e-mail and then delete this message. Page 413 DOJ-OGR-00023540",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Epstein From (b)(6); (b)(7)(C) To (b)(6); (b)(7)(C) Date 2019/08/09 10:56 Subject: Epstein Attachments: TEXT.htm, Mime.822",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6) Can you give me a ring when you get a minute? I understand that Jeffrey Epstein is not being provided with water in the attorney visiting offices. Also I have a few follow up questions about conditions that I reached out to you about a couple of days ago. Thank you. (b)(6) (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "This message and any attached documents contain information from the law firm Steptoe & Johnson LLP that may be confidential and/or privileged. If you are not the intended recipient, please do not read, copy, distribute, or use this information. If you have received this transmission in error, please notify the sender immediately by reply e-mail and then delete this message.",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 413 DOJ-OGR-00023540",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "Steptoe & Johnson LLP"
+    ],
+    "locations": [],
+    "dates": [
+      "2019/08/09"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00023540"
+    ]
+  },
+  "additional_notes": "The email contains redactions of personal information marked as (b)(6) and (b)(7)(C)."
+}

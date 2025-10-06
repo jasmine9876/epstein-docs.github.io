@@ -1,0 +1,41 @@
+{
+  "document_metadata": {
+    "page_number": "001",
+    "document_number": "NYMIE 530*07",
+    "date": "08-05-2019",
+    "document_type": "POPULATION MONITORING CENSUS/ROSTER GENERALIZED RETRIEVAL",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "NYMIE: 530*07 * POPULATION MONITORING CENSUS/ROSTER * 08-05-2019 PAGE 001 * GENERALIZED RETRIEVAL * 08:42:36 FUNCTION: R-P SELECTION CATEGORY: QTR EQ ALL ZERO/NBR: NO ORGANIZATION: FACL EQ NYM OPTION: TYPE OF FACILITY: TOF EQ T DUP SUPR: YES FACILITY MANAGED BY: FMB EQ AP COLUMNS 1: REG 2: LN 3: FN2 4: FN 5: ARSD 6: ARS 7: 8= JUDG: C SORT COL: COL SEQ: SEQ: 234 NP: CONDITIONS (GRP 1) OR CONDITIONS (GRP 2) OR CONDITIONS (GRP 3) OR CONDITIONS (GRP 4) CMCI NE G",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "NYMIE: 530*07 * POPULATION MONITORING CENSUS/ROSTER * 08-05-2019 PAGE 001 * GENERALIZED RETRIEVAL * 08:42:36",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "FUNCTION: R-P SELECTION CATEGORY: QTR EQ ALL ZERO/NBR: NO ORGANIZATION: FACL EQ NYM OPTION: TYPE OF FACILITY: TOF EQ T DUP SUPR: YES FACILITY MANAGED BY: FMB EQ AP COLUMNS 1: REG 2: LN 3: FN2 4: FN 5: ARSD 6: ARS 7: 8= JUDG: C SORT COL: COL SEQ: SEQ: 234 NP: CONDITIONS (GRP 1) OR CONDITIONS (GRP 2) OR CONDITIONS (GRP 3) OR CONDITIONS (GRP 4) CMCI NE G",
+      "position": "middle"
+    },
+    {
+      "type": "other",
+      "content": "DOJ-OGR-00024640",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "08-05-2019"
+    ],
+    "reference_numbers": [
+      "NYMIE 530*07",
+      "DOJ-OGR-00024640"
+    ]
+  },
+  "additional_notes": "The document appears to be a technical report or data retrieval output with specific codes and categories. The presence of a highlighted green bar at the bottom suggests potential redaction or highlighting of sensitive information, though the content within the bar is not visible."
+}

@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "3318",
+    "document_number": "DOJ-OGR-00026907",
+    "date": "August 10, 2019",
+    "document_type": "Memorandum",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "U.S Department of Justice Federal Bureau of Prisons Memorandum Federal Correctional Institution DATE: August 10, 2019 TO: Captain, J. Darden REPLY TO ATTN OF: Operations Lieutenant SUBJECT: Inmate Epstein, Jeffrey (#76318-054) On August 10, 2019, at approximately 6:33 a.m., while attempting to serve inmate Epstein, Jeffrey, Reg. No. 76318-054, the breakfast meal, he was found unresponsive in his cell. Staff called for assistance and began life saving measures. He was escorted to Health Services at approximately 6:39 a.m., and EMS arrived at 6:43 a.m. Institution medical staff stated he had circumfitial bruising around the neck. He was transported to the local hospital at approximately 7:10 a.m. Inmate Epstein was pronounced deceased at 7:36 am. DOJ-OGR-00026907",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "U.S Department of Justice Federal Bureau of Prisons Memorandum",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Federal Correctional Institution DATE: August 10, 2019 TO: Captain, J. Darden REPLY TO ATTN OF: Operations Lieutenant SUBJECT: Inmate Epstein, Jeffrey (#76318-054)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "On August 10, 2019, at approximately 6:33 a.m., while attempting to serve inmate Epstein, Jeffrey, Reg. No. 76318-054, the breakfast meal, he was found unresponsive in his cell. Staff called for assistance and began life saving measures. He was escorted to Health Services at approximately 6:39 a.m., and EMS arrived at 6:43 a.m. Institution medical staff stated he had circumfitial bruising around the neck. He was transported to the local hospital at approximately 7:10 a.m. Inmate Epstein was pronounced deceased at 7:36 am.",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "SENT ENCLOSED",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026907",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "J. Darden"
+    ],
+    "organizations": [
+      "U.S Department of Justice",
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [
+      "Federal Correctional Institution",
+      "local hospital"
+    ],
+    "dates": [
+      "August 10, 2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026907"
+    ]
+  },
+  "additional_notes": "The document contains redactions and a stamp indicating 'SENT ENCLOSED'."
+}

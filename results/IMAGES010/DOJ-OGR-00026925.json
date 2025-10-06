@@ -1,0 +1,88 @@
+{
+  "document_metadata": {
+    "page_number": "3336",
+    "document_number": "NYMDK 530*05",
+    "date": "07-25-2019",
+    "document_type": "Inmate Roster",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 3336\nNYMDK 530*05 * INMATE ROSTER 07-25-2019\nPAGE 001 OF 001 15:36:23\nCATEGORY: OCT GROUP CODER:\nASSIGNMENT: ATTY FACILITY: NYM\nOPER CATG ASSIGNMENT OPER CATG ASSIGNMENT\nNUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK\n0001 ATTY (b)(6); (b)(7)(C) 07-25-2019 G01-703I UNASSG\n0002 76318-054 EPSTEIN 07-25-2019 H01-001I UNASSG\n0003 (b)(6); (b)(7)(C) 07-25-2019 %06-215UI UNASSG\nG0000 TRANSACTION SUCCESSFULLY COMPLETED\nDOJ-OGR-00026925",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "NYMDK 530*05 * INMATE ROSTER 07-25-2019",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE 001 OF 001 15:36:23",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CATEGORY: OCT GROUP CODER:",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "ASSIGNMENT: ATTY FACILITY: NYM",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "0001 ATTY (b)(6); (b)(7)(C) 07-25-2019 G01-703I UNASSG",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0002 76318-054 EPSTEIN 07-25-2019 H01-001I UNASSG",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0003 (b)(6); (b)(7)(C) 07-25-2019 %06-215UI UNASSG",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "G0000 TRANSACTION SUCCESSFULLY COMPLETED",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026925",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "EPSTEIN"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "07-25-2019"
+    ],
+    "reference_numbers": [
+      "NYMDK 530*05",
+      "76318-054",
+      "DOJ-OGR-00026925"
+    ]
+  },
+  "additional_notes": "The document appears to be a roster of inmates, with one entry for Jeffrey Epstein. Some personal identifying information is redacted."
+}

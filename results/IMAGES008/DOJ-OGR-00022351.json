@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": "66",
+    "document_number": "DOJ-OGR-00022351",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information\n\nBeverly Wilshire\nBice\nBilboquet\nBond Street\nCarlyle\nChristie's New York\nCipriani Downtown\nCoffee Shop\nCohen Gibby\nCook Henry Meer\nDawat Haute Cuisine of India\nDelmonico's\nDoyle's\nElaine\nElectrolysis\nEllio's Restaurent\nEssex House\nEstia\nExercise-New York\nFour Seasons\nFour Seasons Hotel\nFour Seasons Restaurant",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Beverly Wilshire\nBice\nBilboquet\nBond Street\nCarlyle\nChristie's New York\nCipriani Downtown\nCoffee Shop\nCohen Gibby\nCook Henry Meer",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Dawat Haute Cuisine of India\nDelmonico's\nDoyle's\nElaine\nElectrolysis\nEllio's Restaurent\nEssex House\nEstia\nExercise-New York\nFour Seasons\nFour Seasons Hotel\nFour Seasons Restaurant",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "66",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022351",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Beverly Wilshire",
+      "Bice",
+      "Bilboquet",
+      "Bond Street",
+      "Carlyle",
+      "Christie's New York",
+      "Cipriani Downtown",
+      "Coffee Shop",
+      "Cohen Gibby",
+      "Cook Henry Meer",
+      "Dawat Haute Cuisine of India",
+      "Delmonico's",
+      "Doyle's",
+      "Elaine",
+      "Electrolysis",
+      "Ellio's Restaurent",
+      "Essex House",
+      "Estia",
+      "Exercise-New York",
+      "Four Seasons",
+      "Four Seasons Hotel",
+      "Four Seasons Restaurant"
+    ],
+    "locations": [
+      "New York",
+      "India"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022351"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 66, and the document number is DOJ-OGR-00022351."
+}

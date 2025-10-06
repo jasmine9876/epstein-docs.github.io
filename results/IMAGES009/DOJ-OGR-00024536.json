@@ -1,0 +1,35 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Inmate Visit Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "PRINT FULL NAME SIGNATURE INMATES PRINT FULL NAME Registered # TIME IN PRINT FULL NAME SIGNATURE INMATE'S PRINT FULL NAME Register # Time IN 12 15 J. Franklin 76531549",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PRINT FULL NAME SIGNATURE INMATES PRINT FULL NAME Registered # TIME IN PRINT FULL NAME SIGNATURE INMATE'S PRINT FULL NAME Register # Time IN",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "12 15 J. Franklin 76531549",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "J. Franklin"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "76531549"
+    ]
+  },
+  "additional_notes": "The document appears to be a partially filled inmate visit log with handwritten entries. The majority of the content is obscured by a green overlay, suggesting potential redactions or sensitive information."
+}

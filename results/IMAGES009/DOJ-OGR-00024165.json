@@ -1,0 +1,90 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "DOJ-OGR-00024165",
+    "date": "05/11/2020",
+    "document_type": "Medication Summary",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Bureau of Prisons Health Services Medication Summary Historical Complex: NYM--NEW YORK MCC Begin Date: 07/06/2019 End Date: 05/11/2020 Inmate: EPSTEIN, JEFFREY EDWARD Reg #: 76318-054 Quarter: ???-???? Medications listed reflect prescribed medications from the begin date to end date on this report. Allergies: Denied Active Prescriptions Bisacodyl E.C. 5 MG TAB Take one tablet (5 MG) by mouth at bedtime AS NEEDED for 10 days Rx#: 121757-NYM Doctor: MLP Start: 07/09/19 Exp: 07/19/19 D/C: 07/12/19 Pharmacy Dispensings: 10 TAB in 307 days Docusate Sodium 100 MG Cap Take one capsule (100 MG) by mouth twice daily for 30 days Rx#: 121823-NYM Doctor: MD Start: 07/12/19 Exp: 08/11/19 D/C: 08/10/19 Pharmacy Dispensings: 60 CAP in 304 days Docusate Sodium 100 MG Cap Take one capsule (100 MG) twice daily by mouth with plenty of water Rx#: 122084-NYM Doctor: MD Start: 07/26/19 Exp: 01/22/20 D/C: 08/10/19 Pharmacy Dispensings: 30 CAP in 290 days Milk of Magnesia Susp (OTC) (473ML) 400MG/5ML shake well take 2 tablespoonful twice daily by mouth Rx#: 121835-NYM Doctor: Beaudouin, Robert MD Start: 07/12/19 Exp: 07/14/19 Pharmacy Dispensings: 473 ML in 304 days Milk of Magnesia Susp (OTC) (473ML) 400MG/5ML shake well take 10ml by mouth twice daily AS NEEDED Rx#: 122150-NYM Doctor: MD Start: 07/30/19 Exp: 10/28/19 D/C: 08/10/19 Pharmacy Dispensings: 473 ML in 286 days methylPREDNISolone 4 MG Tab [21 count Pack] Take the tablet by mouth as directed Rx#: 121836-NYM Doctor: MD Start: 07/12/19 Exp: 07/18/19 Pharmacy Dispensings: 21 tab in 304 days methylPREDNISolone 4 MG Tab [21 count Pack] Take the tablet by mouth as directed Rx#: 122149-NYM Doctor: MD Start: 07/30/19 Exp: 08/05/19 Pharmacy Dispensings: 21 tab in 286 days Generated 05/11/2020 09:57 by OGC Bureau of Prisons - DAN Page 1 of 2",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Bureau of Prisons Health Services Medication Summary Historical",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Complex: NYM--NEW YORK MCC Begin Date: 07/06/2019 End Date: 05/11/2020 Inmate: EPSTEIN, JEFFREY EDWARD Reg #: 76318-054 Quarter: ???-????",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Medications listed reflect prescribed medications from the begin date to end date on this report. Allergies: Denied",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Active Prescriptions",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 05/11/2020 09:57 by OGC Bureau of Prisons - DAN Page 1 of 2",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024165",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN",
+      "Beaudouin, Robert"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NEW YORK MCC"
+    ],
+    "dates": [
+      "07/06/2019",
+      "05/11/2020",
+      "07/09/19",
+      "07/19/19",
+      "07/12/19",
+      "07/12/19",
+      "08/11/19",
+      "08/10/19",
+      "07/26/19",
+      "01/22/20",
+      "08/10/19",
+      "07/12/19",
+      "07/14/19",
+      "07/30/19",
+      "10/28/19",
+      "08/10/19",
+      "07/12/19",
+      "07/18/19",
+      "07/30/19",
+      "08/05/19",
+      "05/11/2020"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "121757-NYM",
+      "121823-NYM",
+      "122084-NYM",
+      "121835-NYM",
+      "122150-NYM",
+      "121836-NYM",
+      "122149-NYM",
+      "DOJ-OGR-00024165"
+    ]
+  },
+  "additional_notes": "The document appears to be a medication summary report for Jeffrey Epstein, an inmate at the New York MCC. The report lists various medications prescribed to Epstein during his incarceration, along with dosage instructions and dispensing information. Some doctor names are redacted."
+}

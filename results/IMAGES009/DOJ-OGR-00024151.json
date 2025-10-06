@@ -1,0 +1,71 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "76318-054",
+    "date": "05/11/2020",
+    "document_type": "Medication Administration Record",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "76318-054 EPSTEIN, JEFFREY Medication Orders Medication Administration Record JULY 2019 Ord. Date 07/30/19 14:21 Exp. Date 07/31/19 10:01 NYM 122148-NYM Insulin Reg (10 ML) 100 UNITS/ML Inj Ord. Date 07/31/19 10:00 Exp. Date 08/07/19 09:59 NYM 122160-NYM Insulin Reg (10 ML) 100 UNITS/ML Inj Time 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 PRN (b)(6) (b)(7)(C-) MD PRN (b)(6) (b)(7)(C-) MD Providers: (b)(6) (b)(7)(C-) Documentation Codes: ORD = Order | NI = Dose Not Indicated Registration #: 76318-054 Pt. Name: EPSTEIN, JEFFREY DOB: 01/20/53 Report information is current as of the date and time of printing: 05/11/2020 09:57 EST DOJ-OGR-00024151",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "76318-054 EPSTEIN, JEFFREY Medication Orders Medication Administration Record JULY 2019",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Ord. Date 07/30/19 14:21 Exp. Date 07/31/19 10:01 NYM 122148-NYM Insulin Reg (10 ML) 100 UNITS/ML Inj",
+      "position": "left"
+    },
+    {
+      "type": "printed",
+      "content": "Ord. Date 07/31/19 10:00 Exp. Date 08/07/19 09:59 NYM 122160-NYM Insulin Reg (10 ML) 100 UNITS/ML Inj",
+      "position": "left"
+    },
+    {
+      "type": "printed",
+      "content": "Time 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PRN (b)(6) (b)(7)(C-) MD PRN (b)(6) (b)(7)(C-) MD",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Providers: (b)(6) (b)(7)(C-) Documentation Codes: ORD = Order | NI = Dose Not Indicated",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Registration #: 76318-054 Pt. Name: EPSTEIN, JEFFREY DOB: 01/20/53 Report information is current as of the date and time of printing: 05/11/2020 09:57 EST DOJ-OGR-00024151",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "NYM"
+    ],
+    "locations": [],
+    "dates": [
+      "07/30/19",
+      "07/31/19",
+      "08/07/19",
+      "01/20/53",
+      "05/11/2020"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "122148",
+      "122160",
+      "DOJ-OGR-00024151"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as (b)(6) and (b)(7)(C-). The document appears to be a medication administration record for Jeffrey Epstein."
+}

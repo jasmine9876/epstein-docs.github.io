@@ -1,0 +1,93 @@
+{
+  "document_metadata": {
+    "page_number": "3057",
+    "document_number": "BP-A0971",
+    "date": "AUG 11",
+    "document_type": "CHAIN OF CUSTODY LOG CDFRM",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 3057\nBP-A0971\nAUG 11\nCHAIN OF CUSTODY LOG CDFRM\nU.S. DEPARTMENT OF JUSTICE\nFEDERAL BUREAU OF PRISONS\nCHAIN OF CUSTODY LOG\n(Enclose with/attach to evidence)\nECN #:\nITEM #:\nCASE ID NUMBER:\nSUSPECT (If Known):\nEpstein, Jeffrey Reg. No.\n76318-054\nDESCRIPTION OF ITEM:\nSpecial Housing Unit 30 Minute Rounds Sheets for 8/8/19\nDATE/TIME ITEM FOUND:\n8/10/19 8:10 am\nLOCATION:\nMCC Special Housing Unit\nSIGNATURE OF PERSON RECOVERING EVIDENCE:\n(b)(6); (b)(7)(C)\nPRINTED NAME:\n(b)(6); (b)(7)(C)\nEVIDENCE PLACED IN OVERNIGHT DROP-BOX BY: (printed name)\nDate & Time:\nWitness: (printed name)\nEVIDENCE RECOVERED FROM OVERNIGHT DROP BOX BY: (printed name)\nDate & Time:\nWitness: (printed name)\nEVIDENCE PLACED IN SAFE FROM DROP BOX BY: (printed name)\nDate & Time:\nWitness: (printed name)\nEVIDENCE PLACED DIRECTLY IN EVIDENCE SAFE BY: (printed name)\nDate & Time:\nWitness: (printed name)\nDISPOSITION:\n/ X / Hold as evidence\n/ / Return to finder\n/ / Return to owner\n/ / Lab Analysis\n/ / Destroy immediately\n/ / FBI\n/ / Other\nREMARKS (condition of evidence)\nCHAIN OF CUSTODY\n| EVIDENCE RELEASED BY | DATE/TIME | DESTINATION | EVIDENCE RELEASED TO |\n| (b)(6); (b)(7)(C) |  |  | (b)(6); (b)(7)(C) |\n| SLS Lt. (b)(6); (b)(7)(C) | 8/10/19 8/13/19 | SJS PDJ-OIG |  |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\nATTACH TO EVIDENCE\nDOJ-OGR-00026697",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "CHAIN OF CUSTODY LOG CDFRM",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "U.S. DEPARTMENT OF JUSTICE\nFEDERAL BUREAU OF PRISONS",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CHAIN OF CUSTODY LOG\n(Enclose with/attach to evidence)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "ECN #:\nITEM #:\nCASE ID NUMBER:\nSUSPECT (If Known):\nEpstein, Jeffrey Reg. No.\n76318-054\nDESCRIPTION OF ITEM:\nSpecial Housing Unit 30 Minute Rounds Sheets for 8/8/19\nDATE/TIME ITEM FOUND:\n8/10/19 8:10 am\nLOCATION:\nMCC Special Housing Unit",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6); (b)(7)(C)\n(b)(6); (b)(7)(C)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "SIGNATURE OF PERSON RECOVERING EVIDENCE:\nPRINTED NAME:\nEVIDENCE PLACED IN OVERNIGHT DROP-BOX BY: (printed name)\nDate & Time:\nWitness: (printed name)\nEVIDENCE RECOVERED FROM OVERNIGHT DROP BOX BY: (printed name)\nDate & Time:\nWitness: (printed name)\nEVIDENCE PLACED IN SAFE FROM DROP BOX BY: (printed name)\nDate & Time:\nWitness: (printed name)\nEVIDENCE PLACED DIRECTLY IN EVIDENCE SAFE BY: (printed name)\nDate & Time:\nWitness: (printed name)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "DISPOSITION:\n/ X / Hold as evidence\n/ / Return to finder\n/ / Return to owner\n/ / Lab Analysis\n/ / Destroy immediately\n/ / FBI\n/ / Other",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "X",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "REMARKS (condition of evidence)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "CHAIN OF CUSTODY",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6); (b)(7)(C)\nSLS Lt. (b)(6); (b)(7)(C)\n8/10/19\n8/13/19\nSJS\nPDJ-OIG",
+      "position": "body"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "U.S. DEPARTMENT OF JUSTICE",
+      "FEDERAL BUREAU OF PRISONS",
+      "FBI"
+    ],
+    "locations": [
+      "MCC Special Housing Unit"
+    ],
+    "dates": [
+      "AUG 11",
+      "8/8/19",
+      "8/10/19",
+      "8/13/19"
+    ],
+    "reference_numbers": [
+      "BP-A0971",
+      "76318-054",
+      "DOJ-OGR-00026697"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6); (b)(7)(C). The document is a Chain of Custody Log used by the Federal Bureau of Prisons."
+}

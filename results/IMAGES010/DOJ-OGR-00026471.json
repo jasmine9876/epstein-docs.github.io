@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "2815",
+    "document_number": null,
+    "date": "08/04/2019",
+    "document_type": "30 MINUTE CHECK SHEET",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "Page 2815 MCC NEW YORK SPECIAL HOUSING UNIT MCC NEW YORK SPECIAL HOUSING UNIT 30 MINUTE CHECK SHEET ZA TIER J DATE: 08/04/2019 TIME FRAME TIME START TIME END SIGNATURE TIME FRAME TIME START TIME END SIGNATURE TIME FRAME TIME START TIME END SIGNATURE 12:00-12:30 AM 1205 1206 (b)(6); (b)(7)(C) 8:00-8:30 AM 805 807 (b)(6); (b)(7)(C) 4:00-4:30 PM 405 406 (b)(6); (b)(7)(C) 12:30- 1:00 AM 1236 1237 8:30- 9:00 AM 836 838 4:30-5:00 PM 436 434 1:00-1:30 AM 106 107 9:00-9:30 AM 905 907 5:00 -5:30 PM 500 507 1:30-2:00 AM 134 135 9:30-10:00 AM 936 938 5:30-6:00 PM 534 536 2:00-2:30 AM 204 205 10:00-10:30 AM 1005 1007 6:00-6:30 PM 604 605 2:30-3:00 AM 235 236 10:30-11:00 AM 1037 1039 6:30-7:00 PM 1035 1036 3:00-3:30 AM 304 305 11:00-11:30 AM 1105 1107 7:00-7:30 PM 704 705 3:30-4:00 AM 334 335 11:30-12:00 AM 1137 1139 7:30-8:00 PM 734 736 4:00-4:30 AM 405 406 12:00-12:30 PM 1205 1207 8:00-8:30 PM 805 806 4:30-5:00 AM 436 437 12:30- 1:00 PM 1236 1238 8:30- 9:00 PM 830 837 5:00 -5:30 AM 504 505 1:00-1:30 PM 105 107 9:00-9:30 PM 905 905 5:30-6:00 AM 536 537 1:30-2:00 PM 136 138 9:30-10:00 PM 930 937 6:00-6:30 AM 605 606 2:00-2:30 PM 205 207 10:00-10:30 PM 1005 1006 6:30-7:00 AM 636 637 2:30-3:00 PM 236 238 10:30-11:00 PM 1030 1037 7:00-7:30 AM 708 709 3:00-3:30 PM 305 307 11:00-11:30 PM 1107 1108 7:30-8:00 AM 734 735 3:30-4:00 PM 336 338 11:30-12:00 PM 1134 1136 MORNING WATCH OPERATIONS LIEUTENANT (b)(6); (b)(7)(C) DAY WATCH OPERATIONS LIEUTENANT (b)(6); (b)(7)(C) EVENING WATCH OPERATIONS LIEUTENANT (b)(6); (b)(7)(C) A staff member must observe all inmates confined in a continuous locked down status, such as administrative detention or disciplinary segregation, at least once in the first 30 minute period of the hour (example, 12:00 a.m. - 12:30 a.m.) followed by another round in the second 30 minutes period of the same hour (example, 12:30 am - 1:00 a.m.), thus ensuring an inmate is observed at least twice per hour. These rounds are to be conducted on an irregular schedule and no more than 40 minutes apart. All observations must be documented. REVIEWED BY MORNING WATCH LIEUTENANT CAPTAIN DOJ-OGR-00026471",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "MCC NEW YORK SPECIAL HOUSING UNIT 30 MINUTE CHECK SHEET ZA TIER J DATE:",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "08/04/2019",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "TIME FRAME TIME START TIME END SIGNATURE TIME FRAME TIME START TIME END SIGNATURE TIME FRAME TIME START TIME END SIGNATURE",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Various times and signatures",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "A staff member must observe all inmates confined in a continuous locked down status, such as administrative detention or disciplinary segregation, at least once in the first 30 minute period of the hour (example, 12:00 a.m. - 12:30 a.m.) followed by another round in the second 30 minutes period of the same hour (example, 12:30 am - 1:00 a.m.), thus ensuring an inmate is observed at least twice per hour. These rounds are to be conducted on an irregular schedule and no more than 40 minutes apart. All observations must be documented.",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "REVIEWED BY MORNING WATCH LIEUTENANT CAPTAIN",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "MCC NEW YORK",
+      "DOJ"
+    ],
+    "locations": [
+      "NEW YORK"
+    ],
+    "dates": [
+      "08/04/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026471"
+    ]
+  },
+  "additional_notes": "The document contains handwritten times and signatures in a table format. The document is stamped with 'MCC NEW YORK SPECIAL HOUSING UNIT' at the top left and right corners."
+}

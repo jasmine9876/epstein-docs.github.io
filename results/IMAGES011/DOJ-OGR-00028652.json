@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028652",
+    "date": "04/18/2003",
+    "document_type": "I095 Inspection Results",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07:59 I095 Inspection Results 042814 A523 PALM BEACH, INT ZZ 1 UNKOWN AIRLINE CODE DOCTYP*: P #: 207320604 CTRY*: US UNITED STATES ST: M/F: M DNAME (LAST) : EPSTEIN FRST: JEFFREY DOB: 012053 RFRD BY: -SUPVY CBP OFFCR-C DTE: 04112003 TME: 0045 REASON: (b)(7)(E) CCD: SNAME (LAST) : FRST: DOB: NATIONALITY: US UNITED STATES DISP: USC U.S. CITIZEN RCPT#: CHARGE (CODED) : (b)(7)(E) FIN#: DFRD TO: SEC OFCR: -SUPVY CBP OFFCR-C 04/18/2003 20:06 IOEM#: REFR CDE: (b)(7)(E) COMMENTS: VIOLS: VERIFIED SUBJECT'S IDENTITY. SUBJECT ADMITTED USC. WHTI CMPLNT? ADDL COMTS: (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(6) (b)(7)(C) *E - (b)(6) (b)(7)(C) *F - (b)(7)(E) *G - (b)(7)(E) *H - (b)(7)(E)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07:59 I095 Inspection Results 042814",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "A523 PALM BEACH, INT ZZ 1 UNKOWN AIRLINE CODE DOCTYP*: P #: 207320604 CTRY*: US UNITED STATES ST: M/F: M DNAME (LAST) : EPSTEIN FRST: JEFFREY DOB: 012053 RFRD BY: -SUPVY CBP OFFCR-C DTE: 04112003 TME: 0045 REASON: (b)(7)(E) CCD: SNAME (LAST) : FRST: DOB: NATIONALITY: US UNITED STATES DISP: USC U.S. CITIZEN RCPT#: CHARGE (CODED) : (b)(7)(E) FIN#: DFRD TO: SEC OFCR: -SUPVY CBP OFFCR-C 04/18/2003 20:06 IOEM#: REFR CDE: (b)(7)(E) COMMENTS: VIOLS: VERIFIED SUBJECT'S IDENTITY. SUBJECT ADMITTED USC.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "WHTI CMPLNT? ADDL COMTS: (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(6) (b)(7)(C) *E - (b)(6) (b)(7)(C) *F - (b)(7)(E) *G - (b)(7)(E) *H - (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028652",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "CBP"
+    ],
+    "locations": [
+      "PALM BEACH",
+      "UNITED STATES"
+    ],
+    "dates": [
+      "04/18/2003",
+      "01/20/53",
+      "04/11/2003"
+    ],
+    "reference_numbers": [
+      "207320604",
+      "DOJ-OGR-00028652"
+    ]
+  },
+  "additional_notes": "The document contains multiple redactions, indicated by (b)(7)(E) and other codes, suggesting sensitive information has been withheld."
+}

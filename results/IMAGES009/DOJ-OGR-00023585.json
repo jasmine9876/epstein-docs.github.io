@@ -1,0 +1,76 @@
+{
+  "document_metadata": {
+    "page_number": "1010",
+    "document_number": "DOJ-OGR-00023585",
+    "date": "2019/07/26",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Fwd: Jeffrey Epstein, 76318-054\nFrom\nTo\nDate\nSubject:\nAttachments:\nGood morning all,\nEpstein's attorneys are trying to get him his CPAP machine per our request. Can we have them hand-deliver it to medical staff as we have in previous instances?\nThank you,\nMr\nIs Mr. Epstein approved to receive a CPAP machine? If so, should we send it directly to him through the inmate mail system? Please confirm.\nThank you.\nPage 1010\nDOJ-OGR-00023585",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Fwd: Jeffrey Epstein, 76318-054",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "From",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "To",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Date",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Subject:",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Attachments:",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Good morning all,\nEpstein's attorneys are trying to get him his CPAP machine per our request. Can we have them hand-deliver it to medical staff as we have in previous instances?\nThank you,",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Is Mr. Epstein approved to receive a CPAP machine? If so, should we send it directly to him through the inmate mail system? Please confirm.\nThank you.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 1010\nDOJ-OGR-00023585",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "NYM"
+    ],
+    "locations": [],
+    "dates": [
+      "2019/07/26",
+      "7/26/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00023585"
+    ]
+  },
+  "additional_notes": "The document contains multiple redacted sections, likely due to privacy or security concerns. The content appears to be an email discussion regarding Jeffrey Epstein's medical needs while in custody."
+}

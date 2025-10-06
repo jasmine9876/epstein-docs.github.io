@@ -1,0 +1,86 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": "09/21/2010",
+    "document_type": "IO95 Inspection Results",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:08:02 IO95 Inspection Results 042814 *A *B A10D TETERBORO, JET *C FLT/VES#: *GA 909JE GENERAL AVIATION DOCTYP*: P #*: 469911707 CTRY*: US UNITED STATES ST: M/F: M DNAME (LAST) : EPSTEIN FRST: JEFFREY EDWARD DOB: 012053 RFRD BY: *D -CBP OFFCR-C DTE: 09212010 TME: 1223 REASON: (b)(7)(E) CCD:*E SNAME (LAST) : FRST: NO FIN NUMBER NATIONALITY: US UNITED STATES DOB: DISP: USC U.S. CITIZEN RCPT#: AUDATE: CHARGE (CODED) : FIN#: DFRD TO: SEC OFCR: *F -CBP OFFCR-C 09/21/2010 12:29 IOEM#: REFR CDE: COMMENTS: VIOLS: (b)(7)(E) (b)(7)(E) NO CAUSE FOR ACTION AT THIS TIME/RECENT WHTI CMPLNT? ADDL COMMTS: (b)(7)(E) *G (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) *H *I Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(6) (b)(7)(C) *E - (b)(7)(E) *F - (b)(6) (b)(7)(C) *G - (b)(7)(E) *H - (b)(7)(E) *I - (b)(7)(E) DOJ-OGR-00028681",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:08:02 IO95 Inspection Results 042814",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "*B A10D TETERBORO, JET FLT/VES#: *GA 909JE GENERAL AVIATION DOCTYP*: P #*: 469911707 CTRY*: US UNITED STATES ST: M/F: M",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "DNAME (LAST) : EPSTEIN FRST: JEFFREY EDWARD DOB: 012053 RFRD BY: *D -CBP OFFCR-C DTE: 09212010 TME: 1223 REASON: (b)(7)(E) CCD:*E",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "SNAME (LAST) : FRST: NO FIN NUMBER NATIONALITY: US UNITED STATES DOB: DISP: USC U.S. CITIZEN RCPT#: AUDATE:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CHARGE (CODED) : FIN#: DFRD TO: SEC OFCR: *F -CBP OFFCR-C 09/21/2010 12:29 IOEM#: REFR CDE:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "COMMENTS: VIOLS: (b)(7)(E) (b)(7)(E) NO CAUSE FOR ACTION AT THIS TIME/RECENT",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "WHTI CMPLNT? ADDL COMMTS: (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "*G (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) *H *I",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(6) (b)(7)(C) *E - (b)(7)(E) *F - (b)(6) (b)(7)(C) *G - (b)(7)(E) *H - (b)(7)(E) *I - (b)(7)(E)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028681",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "CBP"
+    ],
+    "locations": [
+      "TETERBORO",
+      "UNITED STATES"
+    ],
+    "dates": [
+      "09/21/2010",
+      "09212010",
+      "012053"
+    ],
+    "reference_numbers": [
+      "469911707",
+      "GA 909JE",
+      "DOJ-OGR-00028681"
+    ]
+  },
+  "additional_notes": "The document contains multiple redacted sections with codes such as (b)(7)(E) and (b)(6), indicating sensitive information has been removed for privacy or security reasons."
+}

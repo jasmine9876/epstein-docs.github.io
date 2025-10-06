@@ -1,0 +1,55 @@
+{
+  "document_metadata": {
+    "page_number": "1181",
+    "document_number": "DOJ-OGR-00025386",
+    "date": "09-09-2019",
+    "document_type": "Mortality Review",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 1181 Mail Attachment Mortality Review for Inmate Jefrey Epstein # 76318-054 09-09-2019.pdf Page 3085 DOJ-OGR-00025386",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 1181",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Mail Attachment",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Mortality Review for Inmate Jefrey Epstein # 76318-054 09-09-2019.pdf",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Page 3085",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025386",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jefrey Epstein"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "09-09-2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00025386"
+    ]
+  },
+  "additional_notes": "The document appears to be a page from a larger report or file related to the mortality review of Jeffrey Epstein. The page is mostly blank, with text at the top and bottom."
+}

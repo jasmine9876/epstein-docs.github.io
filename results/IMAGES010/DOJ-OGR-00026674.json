@@ -1,0 +1,82 @@
+{
+  "document_metadata": {
+    "page_number": "3034",
+    "document_number": "DOJ-OGR-00026674",
+    "date": "3/5/19",
+    "document_type": "OFFICIAL OUT COUNT",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "METROPOLITAN CORRECTIONAL CENTER NEW YORK, NY OFFICIAL OUT COUNT DATE: 3/5/19 COUNT TIME: 4pm FROM: (Staff Member Preparing Out Count) LOCATION: Atty Conf APPROVED: (Officer Approving Out Count) REG # NAME UNIT REG # NAME UNIT 1. 76318-031 EPSTEIN ZA 13. 2. (b)(6), (b)(7)(C) IN 14. 3. ZA 15. 4. IN 16. 5. 17. 6. 18. 7. 19. 8. 20. 9. 21. 10. 22. 11. 23. 12. 24. OUT-COUNT BY UNIT B-A I-N 2 C-A K-N E-N K-S E-S R-A G-N Z-A 2 G-S Z-B H-A Total Out-Counted: 4 This form must be submitted to the Counts and Assignments Officer FORTY-FIVE MINUTES PRIOR to the affected count. Prepare this form in ink. Group the inmates according to their respective housing units. This form is to be used only as an Out-Count. No other form will be accepted in lieu of the Out-Count Form. DOJ-OGR-00026674",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "METROPOLITAN CORRECTIONAL CENTER NEW YORK, NY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "OFFICIAL OUT COUNT",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "3/5/19",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "4pm",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Atty Conf",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318-031 EPSTEIN ZA",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "2",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "2",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "4",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "This form must be submitted to the Counts and Assignments Officer FORTY-FIVE MINUTES PRIOR to the affected count. Prepare this form in ink. Group the inmates according to their respective housing units. This form is to be used only as an Out-Count. No other form will be accepted in lieu of the Out-Count Form.",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "EPSTEIN"
+    ],
+    "organizations": [
+      "METROPOLITAN CORRECTIONAL CENTER"
+    ],
+    "locations": [
+      "NEW YORK, NY"
+    ],
+    "dates": [
+      "3/5/19"
+    ],
+    "reference_numbers": [
+      "76318-031",
+      "DOJ-OGR-00026674"
+    ]
+  },
+  "additional_notes": "The document contains handwritten and printed text. Some information is redacted with '(b)(6), (b)(7)(C)'."
+}

@@ -1,0 +1,76 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024510",
+    "date": null,
+    "document_type": "Inmate Visit Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE NAME Signature Inmate Log# Time in Time out 8/19/19 (b)(6) (b)(7)(C) Epstein 765004 655 655 2/19 (b)(6) (b)(7)(C) 763004 234 5/19 (b)(6) (b)(7)(C) 763818 220 1.50 8/19 (b)(6) (b)(7)(C) Epstein J. Epstein 763004 1140 1135 76518-014 11:00 6:3 8/12 (b)(6) (b)(7)(C) Epstein 76318-020 7:22 6:45 8/19 (b)(6) (b)(7)(C) 763804 220 645 DOJ-OGR-00024510",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE NAME Signature Inmate Log# Time in Time out",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/19/19 (b)(6) (b)(7)(C) Epstein 765004 655 655",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "2/19 (b)(6) (b)(7)(C) 763004 234",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "5/19 (b)(6) (b)(7)(C) 763818 220 1.50",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/19 (b)(6) (b)(7)(C) Epstein J. Epstein 763004 1140 1135 76518-014 11:00 6:3",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/12 (b)(6) (b)(7)(C) Epstein 76318-020 7:22 6:45",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/19 (b)(6) (b)(7)(C) 763804 220 645",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024510",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein",
+      "J. Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "8/19/19",
+      "2/19",
+      "5/19",
+      "8/12"
+    ],
+    "reference_numbers": [
+      "765004",
+      "763004",
+      "763818",
+      "76518-014",
+      "76318-020",
+      "763804"
+    ]
+  },
+  "additional_notes": "The document appears to be an inmate visit log with several redacted fields. The log includes dates, inmate names, log numbers, and times in and out. The document has been partially redacted, with some information obscured."
+}

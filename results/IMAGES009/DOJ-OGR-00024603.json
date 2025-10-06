@@ -1,0 +1,101 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": "08/19/2019",
+    "document_type": "Log Entries By Event Date",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date: 08/19/2019 Time: 10:27 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count - Summary Text: Cell: 220. Inmates: 2. 8/8/2019 8:43 PM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 8/8/2019 8:42 PM Evening (b)(7)(E) Search (Cells) - Summary Text: Cell: 105. Inmates: 2. 8/8/2019 8:44 PM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 8/8/2019 8:43 PM Evening (b)(7)(E) Search (Cells) - Summary Text: Cell: 120. Inmates: 2. 8/8/2019 10:23 PM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 8/8/2019 10:23 PM Evening Official Count - Summary Text: Clear Count (b)(7)(E) 8/8/2019 10:41 PM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 8/8/2019 10:41 PM Evening Watch Call - Summary Text: Completed. 8/8/2019 10:41 PM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 8/8/2019 10:41 PM Evening Rounds (Officer) - Summary Text: Completed. 8/8/2019 11:18 PM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 8/8/2019 11:18 PM Evening Watch Call - Summary Text: Completed. 8/8/2019 11:19 PM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 8/8/2019 11:19 PM Evening Rounds (Officer) - Summary Text: Completed. 8/8/2019 11:31 PM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 8/8/2019 11:31 PM Evening Rounds (Officer) - Summary Text: Completed. 8/8/2019 11:32 PM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 8/8/2019 11:32 PM Evening Watch Call (b)(6)(b)(7)(A)(b)(7)(C)(b)(7)(E) DOJ-OGR-00024603",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date: 08/19/2019 Time: 10:27 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "8/8/2019 8:43 PM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 8/8/2019 8:42 PM Evening (b)(7)(E) Search (Cells) - Summary Text: Cell: 220. Inmates: 2.",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "8/8/2019 8:44 PM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 8/8/2019 8:43 PM Evening (b)(7)(E) Search (Cells) - Summary Text: Cell: 105. Inmates: 2.",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/8/2019",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 8/8/2019 10:23 PM Evening Official Count - Summary Text: Cell: 120. Inmates: 2.",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "8/8/2019 10:41 PM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 8/8/2019 10:41 PM Evening Watch Call - Summary Text: Clear Count (b)(7)(E)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "8/8/2019 10:41 PM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 8/8/2019 10:41 PM Evening Rounds (Officer) - Summary Text: Completed.",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "8/8/2019 11:18 PM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 8/8/2019 11:18 PM Evening Watch Call - Summary Text: Completed.",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "8/8/2019 11:19 PM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 8/8/2019 11:19 PM Evening Rounds (Officer) - Summary Text: Completed.",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "8/8/2019 11:31 PM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 8/8/2019 11:31 PM Evening Rounds (Officer) - Summary Text: Completed.",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "8/8/2019 11:32 PM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 8/8/2019 11:32 PM Evening Watch Call",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6)(b)(7)(A)(b)(7)(C)(b)(7)(E)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024603",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [
+      "9 SOUTH SHU",
+      "NYM"
+    ],
+    "dates": [
+      "08/19/2019",
+      "8/8/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00024603"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b)(7)(E)' and '(b)(6)(b)(7)(A)(b)(7)(C)(b)(7)(E)'. The bottom part of the document is heavily redacted with a green block."
+}

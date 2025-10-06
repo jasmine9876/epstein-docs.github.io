@@ -1,0 +1,82 @@
+{
+  "document_metadata": {
+    "page_number": "2489",
+    "document_number": "DOJ-OGR-00026165",
+    "date": "08/10/2019",
+    "document_type": "Medication Summary Historical",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2489\n\nBureau of Prisons\nHealth Services\nMedication Summary\nHistorical\n\nComplex: NYM--NEW YORK MCC\nInmate: EPSTEIN, JEFFREY EDWARD\nBegin Date: 07/07/2019\nEnd Date: 08/10/2019\nReg #: 76318-054\nQuarter: Z04-206LAD\n\nMedications listed reflect prescribed medications from the begin date to end date on this report.\nAllergies: Denied\n\nActive Prescriptions\nBisacodyl E.C. 5 MG TAB\nTake one tablet (5 MG) by mouth at bedtime AS NEEDED for 10 days\nRx#: 121757-NYM\nDoctor: MLP\nStart: 07/09/19\nExp: 07/19/19\nD/C: 07/12/19\nPharmacy Dispenings: 10 TAB in 32 days\n\nDocusate Sodium 100 MG Cap\nTake one capsule (100 MG) by mouth twice daily for 30 days\nRx#: 121823-NYM\nDoctor: MD\nStart: 07/12/19\nExp: 08/11/19\nPharmacy Dispenings: 60 CAP in 29 days\n\nDocusate Sodium 100 MG Cap\nTake one capsule (100 MG) twice daily by mouth with plenty of water\nRx#: 122084-NYM\nDoctor: MD\nStart: 07/26/19\nExp: 01/22/20\nPharmacy Dispenings: 30 CAP in 15 days\n\nMilk of Magnesia Susp (OTC) (473ML) 400MG/5ML\nshake well take 2 tablespoonful twice daily by mouth\nRx#: 121835-NYM\nDoctor: MD\nStart: 07/12/19\nExp: 07/14/19\nPharmacy Dispenings: 473 ML in 29 days\n\nMilk of Magnesia Susp (OTC) (473ML) 400MG/5ML\nshake well take 10ml by mouth twice daily AS NEEDED\nRx#: 122150-NYM\nDoctor: MD\nStart: 07/30/19\nExp: 10/28/19\nPharmacy Dispenings: 473 ML in 11 days\n\nmethylPREDNISolone 4 MG Tab (21 count Pack)\nTake the tablet by mouth as directed\nRx#: 121836-NYM\nDoctor: MD\nStart: 07/12/19\nExp: 07/18/19\nPharmacy Dispenings: 21 tab in 29 days\n\nmethylPREDNISolone 4 MG Tab (21 count Pack)\nTake the tablet by mouth as directed\nRx#: 122149-NYM\nDoctor: MD\nStart: 07/30/19\nExp: 08/05/19\nPharmacy Dispenings: 21 tab in 11 days\n\nGenerated 08/10/2019 11:02 by Bureau of Prisons - NYM\nPage 1 of 2\n\nDOJ-OGR-00026165",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Bureau of Prisons\nHealth Services\nMedication Summary\nHistorical",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Complex: NYM--NEW YORK MCC\nInmate: EPSTEIN, JEFFREY EDWARD\nBegin Date: 07/07/2019\nEnd Date: 08/10/2019\nReg #: 76318-054\nQuarter: Z04-206LAD",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Medications listed reflect prescribed medications from the begin date to end date on this report.\nAllergies: Denied",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Active Prescriptions",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 08/10/2019 11:02 by Bureau of Prisons - NYM\nPage 1 of 2",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons",
+      "NYM--NEW YORK MCC"
+    ],
+    "locations": [
+      "NEW YORK"
+    ],
+    "dates": [
+      "07/07/2019",
+      "08/10/2019",
+      "07/09/19",
+      "07/19/19",
+      "07/12/19",
+      "07/12/19",
+      "08/11/19",
+      "07/26/19",
+      "01/22/20",
+      "07/12/19",
+      "07/14/19",
+      "07/30/19",
+      "10/28/19",
+      "07/12/19",
+      "07/18/19",
+      "07/30/19",
+      "08/05/19",
+      "08/10/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "121757-NYM",
+      "121823-NYM",
+      "122084-NYM",
+      "121835-NYM",
+      "122150-NYM",
+      "121836-NYM",
+      "122149-NYM",
+      "DOJ-OGR-00026165"
+    ]
+  },
+  "additional_notes": "The document appears to be a medication summary for Jeffrey Epstein, an inmate at NYM--NEW YORK MCC. The document lists various medications prescribed to Epstein during his stay, along with their dosages and dispensing information. Some personal identifiable information has been redacted."
+}

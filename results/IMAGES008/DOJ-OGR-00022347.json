@@ -1,0 +1,75 @@
+{
+  "document_metadata": {
+    "page_number": "62",
+    "document_number": "DOJ-OGR-00022347",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Wastnage, Lucy Waterman, Fellcity Watson, Victoria Webb, Veronica Weidenfeld, Lord Weimberg, Jason Weinstein, Bob Weintraub, Harriet Westheimer, Ruth Dr. Weymouth, Mrs Lally White Somers White Victoria White, Michael White, O'Gara, Victoria Whitworth, Alan & Wendy Wiat, Jim Wienberg Anouska and Mark Wiesel Dr Eli and Marion Wigram Liionel and Lydia Wigram, Lionel Williams Alexandra & Nick DOJ-OGR-00022347",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Wastnage, Lucy\nWaterman, Fellcity\nWatson, Victoria\nWebb, Veronica\nWeidenfeld, Lord\nWeimberg, Jason\nWeinstein, Bob\nWeintraub, Harriet\nWestheimer, Ruth Dr.\nWeymouth, Mrs Lally",
+      "position": "left"
+    },
+    {
+      "type": "printed",
+      "content": "White Somers\nWhite Victoria\nWhite, Michael\nWhite, O'Gara, Victoria\nWhitworth, Alan & Wendy\nWiat, Jim\nWienberg Anouska and Mark\nWiesel Dr Eli and Marion\nWigram Liionel and Lydia\nWigram, Lionel\nWilliams Alexandra & Nick",
+      "position": "right"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022347",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "62",
+      "position": "left margin"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Lucy Wastnage",
+      "Fellcity Waterman",
+      "Victoria Watson",
+      "Veronica Webb",
+      "Lord Weidenfeld",
+      "Jason Weimberg",
+      "Bob Weinstein",
+      "Harriet Weintraub",
+      "Ruth Dr. Westheimer",
+      "Mrs Lally Weymouth",
+      "White Somers",
+      "White Victoria",
+      "Michael White",
+      "Victoria White O'Gara",
+      "Alan Whitworth",
+      "Wendy Whitworth",
+      "Jim Wiat",
+      "Anouska Wienberg",
+      "Mark Wienberg",
+      "Dr Eli Wiesel",
+      "Marion Wiesel",
+      "Liionel Wigram",
+      "Lydia Wigram",
+      "Lionel Wigram",
+      "Alexandra Williams",
+      "Nick Williams"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022347"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 62, and the document number is DOJ-OGR-00022347."
+}

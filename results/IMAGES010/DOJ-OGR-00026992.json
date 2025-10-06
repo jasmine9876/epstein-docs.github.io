@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": "3403",
+    "document_number": "DOJ-OGR-00026992",
+    "date": "08/19/2019",
+    "document_type": "Log Entries By Event Date",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 3403 Date: 08/19/2019 Time: 10:15 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count 8/10/2019 5:17 AM NYM Housing Units Housing Units, General Population GN 8/10/2019 5:17 AM Morning (b)(6); (b)(7)(C) (b)(7)(E); (b)(7)(F) 8/10/2019 5:17 AM NYM Housing Units Housing Units, General Population GN 8/10/2019 5:17 AM Morning Rounds (Officer) 8/10/2019 5:18 AM NYM Housing Units Housing Units, General Population GN 8/10/2019 5:18 AM Morning Official Count 8/10/2019 5:18 AM NYM Housing Units Housing Units, General Population GN 8/10/2019 5:18 AM Morning (b)(7)(F) Base Count Verified (b)(7)(F) 8/10/2019 5:22 AM NYM Housing Units Housing Units, General Population BA 8/10/2019 5:22 AM Morning Rounds (Lieutenant) 8/10/2019 5:23 AM NYM Housing Units Housing Units, General Population EN 8/10/2019 5:23 AM Morning Rounds (Lieutenant) 8/10/2019 5:23 AM NYM Housing Units Housing Units, General Population ES 8/10/2019 5:23 AM Morning Rounds (Lieutenant) 8/10/2019 5:24 AM NYM Housing Units Housing Units, General Population GN 8/10/2019 5:23 AM Morning Rounds (Lieutenant) 8/10/2019 5:24 AM NYM Housing Units Housing Units, General Population GS 8/10/2019 5:24 AM Morning Rounds (Lieutenant) 8/10/2019 5:25 AM NYM Housing Units Housing Units, General Population IN 8/10/2019 5:24 AM Morning Rounds (Lieutenant) User ID: (b)(6); (b)(7)(C) Page 931 of 1155 DOJ-OGR-00026992",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3403 Date: 08/19/2019 Time: 10:15 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count",
+      "position": "table header"
+    },
+    {
+      "type": "printed",
+      "content": "8/10/2019 5:17 AM NYM Housing Units Housing Units, General Population GN 8/10/2019 5:17 AM Morning (b)(6); (b)(7)(C) (b)(7)(E); (b)(7)(F)",
+      "position": "table row"
+    },
+    {
+      "type": "printed",
+      "content": "User ID: (b)(6); (b)(7)(C)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 931 of 1155 DOJ-OGR-00026992",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [
+      "Housing Units",
+      "Housing Units, General Population"
+    ],
+    "dates": [
+      "08/19/2019",
+      "8/10/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026992"
+    ]
+  },
+  "additional_notes": "The document appears to be a log entry report from the Federal Bureau of Prisons, containing sensitive but unclassified information. The report includes details about events that occurred on August 10, 2019, including counts and rounds conducted by officers and lieutenants. Some information has been redacted, indicated by (b)(6); (b)(7)(C); (b)(7)(E); (b)(7)(F)."
+}

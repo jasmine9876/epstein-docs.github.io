@@ -1,0 +1,73 @@
+{
+  "document_metadata": {
+    "page_number": "2972",
+    "document_number": "DOJ-OGR-00026628",
+    "date": "8/9/2019",
+    "document_type": "Official Count Slip",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2972 Metropolitan Correctional Center Official Count Slip Unit: TN Date: 8/9/2019 Count: (b)(7)(F) Time: 400pm Print Name: (b)(6); (b)(7)(C) Signature: Print Name: Signature: Metropolitan Correctional Center Official Count Slip Unit: TN Date: 8/9/19 Count: (b)(7)(F) Time: Print Name: (b)(6); (b)(7)(C) Signature: Print Name: Signature: DOJ-OGR-00026628",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "TN 8/9/2019 400pm",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Unit: Date: Count: Time: Print Name: Signature: Print Name: Signature:",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(7)(F) (b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "TN 8/9/19",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Unit: Date: Count: Time: Print Name: Signature: Print Name: Signature:",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(7)(F) (b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026628",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [],
+    "dates": [
+      "8/9/2019",
+      "8/9/19"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026628"
+    ]
+  },
+  "additional_notes": "The document contains redactions and handwritten entries. The image quality is generally clear, but there are some minor speckles and marks on the page."
+}

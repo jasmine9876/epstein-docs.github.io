@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "1062",
+    "document_number": "PD15",
+    "date": "07-30-2019",
+    "document_type": "INMATE DISCIPLINE DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 1062 PD15 Page 1 of 1 NYMDH INMATE DISCIPLINE DATA 07-30-2019 PAGE 001 OF 001 CHRONOLOGICAL DISCIPLINARY RECORD 17:50:25 REGISTER NO: 76318-054 NAME.: EPSTEIN, JEFFREY EDWARD FUNCTION....: DIS FORMAT: CHRONO LIMIT TO MOS PRIOR TO 07-30-2019 RSP OF: NYM-NEW YORK MCC G5463 NO ENTRIES EXIST IN CHRONOLOGICAL LOG FOR TIME PERIOD REQUESTED https://bop.tcp.doj.gov:9049/SENTRY/J1PPD50.do 7/30/2019 DOJ-OGR-00025285",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 1062 PD15 Page 1 of 1",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NYMDH INMATE DISCIPLINE DATA 07-30-2019 PAGE 001 OF 001 CHRONOLOGICAL DISCIPLINARY RECORD 17:50:25",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "REGISTER NO: 76318-054 NAME.: EPSTEIN, JEFFREY EDWARD FUNCTION....: DIS FORMAT: CHRONO LIMIT TO MOS PRIOR TO 07-30-2019 RSP OF: NYM-NEW YORK MCC",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "G5463 NO ENTRIES EXIST IN CHRONOLOGICAL LOG FOR TIME PERIOD REQUESTED",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "https://bop.tcp.doj.gov:9049/SENTRY/J1PPD50.do 7/30/2019 DOJ-OGR-00025285",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "NYM-NEW YORK MCC",
+      "DOJ"
+    ],
+    "locations": [
+      "NEW YORK"
+    ],
+    "dates": [
+      "07-30-2019",
+      "7/30/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "G5463",
+      "DOJ-OGR-00025285"
+    ]
+  },
+  "additional_notes": "The document appears to be a printout from the Bureau of Prisons (BOP) SENTRY system, indicating that there are no disciplinary records for Jeffrey Epstein for the requested time period."
+}

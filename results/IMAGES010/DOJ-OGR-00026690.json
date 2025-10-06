@@ -1,0 +1,73 @@
+{
+  "document_metadata": {
+    "page_number": "3050",
+    "document_number": "BP-A0971",
+    "date": "AUG 11",
+    "document_type": "CHAIN OF CUSTODY LOG CDFRM",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 3050\nBP-A0971\nAUG 11\nCHAIN OF CUSTODY LOG CDFRM\nU.S. DEPARTMENT OF JUSTICE\nFEDERAL BUREAU OF PRISONS\nECN #\nITEM #\nCASE ID NUMBER:\nSUSPECT (If known)\nDESCRIPTION OF ITEM: POST ORDERS (Lieutenant. SHU#1 SHU#2 SHU#3 Recreation Office 1+2, SHU#4) *Sign -in sheets for SHU#1 SHU#2 SHU#3, SHU#4, Rec 1+2. QUAR/ly SHU Training 6/6/19 +\nDATE/TIME ITEM FOUND:\nLOCATION:\nSIGNATURE OF PERSON RECOVERING EVIDENCE:\nPRINTED NAME:\nEVIDENCE PLACED IN OVERNIGHT DROP BOX:\nDROP-BOX BY: (printed name)\nDate & Time:\nWitness: (printed name)\nEVIDENCE RECOVERED FROM OVERNIGHT DROP BOX BY:\n(printed name)\nDate & Time:\nWitness: (printed name)\nEVIDENCE PLACED EVIDENCE SAFE BY:\n(printed name)\nDate & Time:\nWitness: (printed name)\nDISPOSITION:\n( ) Hold as evidence\n( ) Return to owner\n( ) Lab Analysis\n( ) Return to finder\n( ) Destroy immediately\n( ) FBI\n( ) Other\nREMARKS (condition of evidence):\nCHAIN OF CUSTODY\nEVIDENCE RELEASED BY:\nDATE/TIME:\nDESTINATION:\nEVIDENCE RELEASED TO:\nSIS H(b)(6); (b)(7)(C)\n8/8/19, 1700\nDOJ-OTF\n(b)(6); (b)(7)(C)\nPDF\nPrescribed by P5510\nDOJ-OGR-00026690",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3050\nBP-A0971\nAUG 11\nCHAIN OF CUSTODY LOG CDFRM\nU.S. DEPARTMENT OF JUSTICE\nFEDERAL BUREAU OF PRISONS",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "ECN #\nITEM #\nCASE ID NUMBER:\nSUSPECT (If known)\nDESCRIPTION OF ITEM:\nDATE/TIME ITEM FOUND:\nLOCATION:\nSIGNATURE OF PERSON RECOVERING EVIDENCE:\nPRINTED NAME:\nEVIDENCE PLACED IN OVERNIGHT DROP BOX:\nDROP-BOX BY: (printed name)\nDate & Time:\nWitness: (printed name)\nEVIDENCE RECOVERED FROM OVERNIGHT DROP BOX BY:\n(printed name)\nDate & Time:\nWitness: (printed name)\nEVIDENCE PLACED EVIDENCE SAFE BY:\n(printed name)\nDate & Time:\nWitness: (printed name)\nDISPOSITION:\n( ) Hold as evidence\n( ) Return to owner\n( ) Lab Analysis\n( ) Return to finder\n( ) Destroy immediately\n( ) FBI\n( ) Other\nREMARKS (condition of evidence):",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "POST ORDERS (Lieutenant. SHU#1 SHU#2 SHU#3 Recreation Office 1+2, SHU#4) *Sign -in sheets for SHU#1 SHU#2 SHU#3, SHU#4, Rec 1+2. QUAR/ly SHU Training 6/6/19 +",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "SIS H(b)(6); (b)(7)(C)\n8/8/19, 1700\nDOJ-OTF\n(b)(6); (b)(7)(C)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "CHAIN OF CUSTODY\nEVIDENCE RELEASED BY:\nDATE/TIME:\nDESTINATION:\nEVIDENCE RELEASED TO:",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "PDF\nPrescribed by P5510\nDOJ-OGR-00026690",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Lieutenant"
+    ],
+    "organizations": [
+      "U.S. DEPARTMENT OF JUSTICE",
+      "FEDERAL BUREAU OF PRISONS",
+      "SIS",
+      "DOJ-OTF",
+      "FBI"
+    ],
+    "locations": [
+      "SHU#1",
+      "SHU#2",
+      "SHU#3",
+      "SHU#4",
+      "Recreation Office 1+2"
+    ],
+    "dates": [
+      "AUG 11",
+      "6/6/19",
+      "8/8/19"
+    ],
+    "reference_numbers": [
+      "BP-A0971",
+      "P5510",
+      "DOJ-OGR-00026690"
+    ]
+  },
+  "additional_notes": "The document is a Chain of Custody Log from the Federal Bureau of Prisons. It contains handwritten notes describing the evidence and the chain of custody. Some information is redacted."
+}

@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": "81",
+    "document_number": "DOJ-OGR-00022366",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Meister, Robert Merrit, Jerry Middleton, Mark Minsky, Marvin Mitchell, David Mitchell, Senator George Morrison, Larry Myhrvold, Nathan Intellectual Ventures N.A. Property, Inc. Lesly Wexner DOJ-OGR-00022366",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Meister, Robert Merrit, Jerry Middleton, Mark Minsky, Marvin Mitchell, David Mitchell, Senator George Morrison, Larry Myhrvold, Nathan Intellectual Ventures N.A. Property, Inc.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Lesly Wexner",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022366",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Robert Meister",
+      "Jerry Merrit",
+      "Mark Middleton",
+      "Marvin Minsky",
+      "David Mitchell",
+      "Senator George Mitchell",
+      "Larry Morrison",
+      "Nathan Myhrvold",
+      "Lesly Wexner"
+    ],
+    "organizations": [
+      "Intellectual Ventures",
+      "N.A. Property, Inc."
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022366"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 81, and the document number is DOJ-OGR-00022366."
+}

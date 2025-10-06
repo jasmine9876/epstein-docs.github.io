@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024031",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE NAME SIGNATURE Inmate Reg# TIME IN TIME OUT DATE NAME SIGNATURE Inmate Reg# TIME IN TIME OUT 7-25 G. Tali (b)(6), (b)(7)(C) J. Epstein 76318-054 13:28 11/25 (b)(6), (b)(7)(C) PBT Saellin J. Epstein 76318-054 2:55 6:00 7-25 Caliendo (b)(6), (b)(7)(C) J. Epstein 76318-054 11:05 PBT Saellin J. Epstein 76318-054 6:8 7-26 G. Tali (b)(6), (b)(7)(C) J. Epstein 76318-054 5:10 6:15 PBT Saellin J. Epstein 76318-054 7-26 G. Tali (b)(6), (b)(7)(C) J. Epstein 76318-054 12:30",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE NAME SIGNATURE Inmate Reg# TIME IN TIME OUT DATE NAME SIGNATURE Inmate Reg# TIME IN TIME OUT",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "7-25 G. Tali (b)(6), (b)(7)(C) J. Epstein 76318-054 13:28 11/25 (b)(6), (b)(7)(C) PBT Saellin J. Epstein 76318-054 2:55 6:00",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7-25 Caliendo (b)(6), (b)(7)(C) J. Epstein 76318-054 11:05 PBT Saellin J. Epstein 76318-054 6:8",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7-26 G. Tali (b)(6), (b)(7)(C) J. Epstein 76318-054 5:10 6:15 PBT Saellin J. Epstein 76318-054",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7-26 G. Tali (b)(6), (b)(7)(C) J. Epstein 76318-054 12:30",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024031",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "G. Tali",
+      "J. Epstein",
+      "Caliendo",
+      "PBT Saellin"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7-25",
+      "7-26",
+      "11/25"
+    ],
+    "reference_numbers": [
+      "76318-054"
+    ]
+  },
+  "additional_notes": "The document contains handwritten entries in a table format, with some information redacted."
+}

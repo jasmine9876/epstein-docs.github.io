@@ -1,0 +1,53 @@
+{
+  "document_metadata": {
+    "page_number": "2900",
+    "document_number": "DOJ-OGR-00026556",
+    "date": "08-02-1999",
+    "document_type": "Official Count Slip",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2900 Metropolitan Correctional Center Official Count Slip Unit: FN Date: 08-02-1999 Count: [b(7)(F)] Time: 4001m Print Name: [b(6); b(7)(C)] Signature: Print Name: Signature: Metropolitan Correctional Center Official Count Slip Unit: GN Date: 8/2/99 Count: [b(7)(F)] Time: 4001m Print Name: [b(6); b(7)(C)] Signature: Print Name: Signature: DOJ-OGR-00026556",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "FN 08-02-1999 4001m",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Unit: Date: Count: Time: Print Name: Signature: Print Name: Signature:",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "GN 8/2/99 4001m",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026556",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [],
+    "dates": [
+      "08-02-1999",
+      "8/2/99"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026556"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned copy of two 'Official Count Slip' forms from the Metropolitan Correctional Center, with some handwritten entries and redactions."
+}

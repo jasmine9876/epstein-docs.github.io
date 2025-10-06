@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": "3351",
+    "document_number": "NYMDW 530*05",
+    "date": "08-02-2019",
+    "document_type": "INMATE ROSTER",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 3351\nNYMDW 530*05 * INMATE ROSTER * 08-02-2019\nPAGE 001 OF 001 16:30:09\nCATEGORY: OCT GROUP CODE:\nASSIGNMENT: ATTY FACILITY: NYM\nOPER CATG ASSIGNMENT OPER CATG ASSIGNMENT\nNUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK\n0001 ATTY b(6), (b)(7)(C) 08-02-2019 T04-930U UNASSG\n0002 76318-054 EPSTEIN 08-02-2019 Z04-206LAD UNASSG\nG0000 TRANSACTION SUCCESSFULLY COMPLETED\nDOJ-OGR-00026940",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3351",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NYMDW 530*05 * INMATE ROSTER * 08-02-2019\nPAGE 001 OF 001 16:30:09\nCATEGORY: OCT GROUP CODE:\nASSIGNMENT: ATTY FACILITY: NYM\nOPER CATG ASSIGNMENT OPER CATG ASSIGNMENT",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "0001 ATTY b(6), (b)(7)(C) 08-02-2019 T04-930U UNASSG\n0002 76318-054 EPSTEIN 08-02-2019 Z04-206LAD UNASSG",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "G0000 TRANSACTION SUCCESSFULLY COMPLETED",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026940",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "08-02-2019"
+    ],
+    "reference_numbers": [
+      "NYMDW 530*05",
+      "76318-054",
+      "DOJ-OGR-00026940"
+    ]
+  },
+  "additional_notes": "The document appears to be a printed inmate roster from a correctional facility. The name 'EPSTEIN' is listed, likely referring to Jeffrey Epstein. Some information is redacted, marked as 'b(6), (b)(7)(C)'. The document is stamped with a transaction success message."
+}

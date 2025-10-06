@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": "04/07/2014",
+    "document_type": "I095 Inspection Results",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:08:04 I095 Inspection Results 042814 *A *B A10D TETERBORO, JET FLT/VES#: *GA 212JE GENERAL AVIATION DOCTYP*: P #*: 469911707 CTRY*: US UNITED STATES ST: M/F: M DNAME (LAST) : EPSTEIN FRST: JEFFREY EDWARD DOB: 012053 RFRD BY: *D -CBP OFFCR-C DTE: 04072014 TME: 1102 REASON: (b)(7)(E) CCD:*E SNAME (LAST) : FRST: DOB: NATIONALITY: US UNITED STATES DISP: USC U.S. CITIZEN RCPT#: AUDATE: CHARGE (CODED) : DFRD TO: SEC OFCR: *F -CBP OFFCR-C 04/07/2014 11:15 IOEM#: REFR CDE: FIN#: COMMENTS: VIOLS: (b)(7)(E) REFERRED FOR BAGGAGE EXAM. (b)(7)(E) WHTI CMPLNT? ADDL COMMTS: (b)(7)(E) *G (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) *H *I Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(6) (b)(7)(C) *E - (b)(7)(E) *F - (b)(6) (b)(7)(C) *G - (b)(7)(E) *H - (b)(7)(E) *I - (b)(7)(E) DOJ-OGR-00028709",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:08:04 I095 Inspection Results 042814",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "*B A10D TETERBORO, JET FLT/VES#: *GA 212JE GENERAL AVIATION DOCTYP*: P #*: 469911707 CTRY*: US UNITED STATES ST: M/F: M DNAME (LAST) : EPSTEIN FRST: JEFFREY EDWARD DOB: 012053 RFRD BY: *D -CBP OFFCR-C DTE: 04072014 TME: 1102 REASON: (b)(7)(E) CCD:*E SNAME (LAST) : FRST: DOB: NATIONALITY: US UNITED STATES DISP: USC U.S. CITIZEN RCPT#: AUDATE: CHARGE (CODED) : DFRD TO: SEC OFCR: *F -CBP OFFCR-C 04/07/2014 11:15 IOEM#: REFR CDE: FIN#: COMMENTS: VIOLS: (b)(7)(E) REFERRED FOR BAGGAGE EXAM. (b)(7)(E) WHTI CMPLNT? ADDL COMMTS: (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "*G (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) *H *I Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(6) (b)(7)(C) *E - (b)(7)(E) *F - (b)(6) (b)(7)(C) *G - (b)(7)(E) *H - (b)(7)(E) *I - (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028709",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "CBP"
+    ],
+    "locations": [
+      "TETERBORO",
+      "UNITED STATES"
+    ],
+    "dates": [
+      "04/07/2014",
+      "012053",
+      "04072014"
+    ],
+    "reference_numbers": [
+      "469911707",
+      "GA 212JE",
+      "DOJ-OGR-00028709"
+    ]
+  },
+  "additional_notes": "The document contains multiple redactions, indicated by (b)(7)(E) and other codes, suggesting sensitive information has been withheld. The document appears to be a U.S. Customs and Border Protection (CBP) inspection report."
+}

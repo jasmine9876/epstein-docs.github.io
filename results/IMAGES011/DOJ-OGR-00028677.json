@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": "06/09/2010",
+    "document_type": "I095 Inspection Results",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:08:01 I095 Inspection Results 042814 *B A523 PALM BEACH, INT *A FLT/VES#: *GA 909JE GENERAL AVIATION *C DOCTYP*: P #*: 469911707 CTRY*: US UNITED STATES ST: M/F: M DNAME (LAST) : EPSTEIN FRST: JEFFREY EDWARD DOB: 012053 RFRD BY: *D -CBP OFFCR-C DTE: 06092010 TME: 2125 REASON: (b)(7)(E) CCD:*E SNAME (LAST) : FRST: NO FIN NUMBER NATIONALITY: US UNITED STATES DOB: DISP: USC U.S. CITIZEN RCPT#: AUDATE: CHARGE (CODED) : DFRD TO: FIN#: SEC OFCR: *F -CBP OFFCR-C 06/09/2010 21:42 IOEM#: REFR CDE: COMMENTS: VIOLS: (b)(7)(E) WHTI CMPLNT? ADDL COMTS: (b)(7)(E) *G (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) *H *I Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(6) (b)(7)(C) *E - (b)(7)(E) *F - (b)(6) (b)(7)(C) *G - (b)(7)(E) *H - (b)(7)(E) *I - (b)(7)(E) DOJ-OGR-00028677",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:08:01 I095 Inspection Results 042814",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "*B A523 PALM BEACH, INT *A FLT/VES#: *GA 909JE GENERAL AVIATION *C DOCTYP*: P #*: 469911707 CTRY*: US UNITED STATES ST: M/F: M DNAME (LAST) : EPSTEIN FRST: JEFFREY EDWARD DOB: 012053 RFRD BY: *D -CBP OFFCR-C DTE: 06092010 TME: 2125 REASON: (b)(7)(E) CCD:*E SNAME (LAST) : FRST: NO FIN NUMBER NATIONALITY: US UNITED STATES DOB: DISP: USC U.S. CITIZEN RCPT#: AUDATE: CHARGE (CODED) : DFRD TO: FIN#: SEC OFCR: *F -CBP OFFCR-C 06/09/2010 21:42 IOEM#: REFR CDE: COMMENTS: VIOLS: (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "WHTI CMPLNT? ADDL COMTS: (b)(7)(E) *G (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) *H *I",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(6) (b)(7)(C) *E - (b)(7)(E) *F - (b)(6) (b)(7)(C) *G - (b)(7)(E) *H - (b)(7)(E) *I - (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028677",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "GENERAL AVIATION",
+      "CBP"
+    ],
+    "locations": [
+      "PALM BEACH",
+      "UNITED STATES"
+    ],
+    "dates": [
+      "06/09/2010",
+      "01/20/53"
+    ],
+    "reference_numbers": [
+      "469911707",
+      "GA 909JE",
+      "A523",
+      "DOJ-OGR-00028677"
+    ]
+  },
+  "additional_notes": "The document contains multiple redactions, indicated by (b)(7)(E) and other codes, suggesting sensitive information has been withheld."
+}

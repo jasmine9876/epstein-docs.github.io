@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "1184",
+    "document_number": "DOJ-OGR-00025389",
+    "date": "07/09/2019",
+    "document_type": "Medical Care Review Form",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Description of course of illness (past and present) and cause of the death in sufficient detail to indicate circumstances of death, including treatment, medications, diagnostic testing, etc. Give findings of diagnostic exams. Insert pages in this section as required. Intake Screening History and Physical present? Yes No NA Date of most recent History and Physical 07/09/2019 Timeliness of Diagnostic and Treatment regimes? Yes No NA Discharge summary from Attending M.D. on chart Institution Yes No NA Community Hospital Yes No NA Autopsy Yes No NA Toxicology Yes No NA Death Certificate Available Yes No NA INSTITUTION MEDICAL CARE REVIEW: Severity of illness at time of admission to hospital / Health Services Unit Critical Stable Unknown Prognosis on admission to hospital / health Services Unit Poor Good NA Were diagnostic procedures appropriate and timely Yes No Was treatment appropriate to diagnosis and instituted timely Yes No Prognosis with treatment Poor Good Unknown Any complications adversely affecting outcome: Describe briefly Asphyxiation Secondary to Hanging. Yes No Was treatment appropriate to complication Surgical Procedures (list) Yes No NA Appropriate pre-operative evaluation completed, including lab, physical exam, updated history Yes No NA Complications related to surgical procedures (describe) Yes No NA Prognosis following surgical procedure Poor Good Unknown Patient compliant with treatment / medications Yes No NA",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Description of course of illness (past and present) and cause of the death in sufficient detail to indicate circumstances of death, including treatment, medications, diagnostic testing, etc. Give findings of diagnostic exams. Insert pages in this section as required.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Intake Screening History and Physical present?",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Yes",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Date of most recent History and Physical",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "07/09/2019",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "INSTITUTION MEDICAL CARE REVIEW:",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Asphyxiation Secondary to Hanging.",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Community Hospital"
+    ],
+    "locations": [],
+    "dates": [
+      "07/09/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00025389",
+      "P6013"
+    ]
+  },
+  "additional_notes": "The document appears to be a medical care review form filled out for a patient who died from asphyxiation secondary to hanging. The form includes various sections assessing the quality of care provided, including timeliness of diagnostic and treatment regimes, appropriateness of diagnostic procedures, and treatment outcomes. The document is generally legible, with some handwritten entries."
+}

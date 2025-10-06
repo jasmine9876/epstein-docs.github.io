@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "3253",
+    "document_number": "DOJ-OGR-00026842",
+    "date": "7/9/19",
+    "document_type": "Inmate Observation Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 3253\n7/9/19\nCont. EPSTEIN 76318-054\n11:45PM Inmate Epstein is sitting up talking to cellmate\n12:00PM Inmate Epstein was taken out by officer\n12:15PM Inmate Epstein is still out\n12:30PM Inmate Epstein is still out\n12:45PM Inmate Epstein is still out\n1:00PM Inmate Epstein is still out\nEnd of shift 5115ft 867000521\n1:00PM INC\nASSUMES RESPONSIBILITY\nFOR INMATE EPSTEIN #76318-054 cells & day\nPSYCH/OBS WATCH\n3:00PM INMATE EPSTEIN IS OUT\n3:15PM INMATE EPSTEIN IS OUT\n3:30PM INMATE EPSTEIN IS OUT\n3:45PM INMATE EPSTEIN IS OUT\n4:00PM INMATE EPSTEIN IS OUT\n4:15PM INMATE EPSTEIN IS OUT\n4:30PM INMATE EPSTEIN IS OUT\n4:45PM INMATE EPSTEIN IS OUT\n5:00PM INMATE EPSTEIN IS OUT\n5:15PM INMATE EPSTEIN IS OUT\n5:30PM Lt Rounds\n5:30PM INMATE EPSTEIN IS OUT\n5:40PM INMATE EPSTEIN IS OUT",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "7/9/19\nCont. EPSTEIN 76318-054\n11:45PM Inmate Epstein is sitting up talking to cellmate\n12:00PM Inmate Epstein was taken out by officer\n12:15PM Inmate Epstein is still out\n12:30PM Inmate Epstein is still out\n12:45PM Inmate Epstein is still out\n1:00PM Inmate Epstein is still out\nEnd of shift 5115ft 867000521",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "1:00PM INC\nASSUMES RESPONSIBILITY\nFOR INMATE EPSTEIN #76318-054 cells & day\nPSYCH/OBS WATCH",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "3:00PM INMATE EPSTEIN IS OUT\n3:15PM INMATE EPSTEIN IS OUT\n3:30PM INMATE EPSTEIN IS OUT\n3:45PM INMATE EPSTEIN IS OUT\n4:00PM INMATE EPSTEIN IS OUT\n4:15PM INMATE EPSTEIN IS OUT\n4:30PM INMATE EPSTEIN IS OUT\n4:45PM INMATE EPSTEIN IS OUT\n5:00PM INMATE EPSTEIN IS OUT\n5:15PM INMATE EPSTEIN IS OUT\n5:30PM Lt Rounds\n5:30PM INMATE EPSTEIN IS OUT\n5:40PM INMATE EPSTEIN IS OUT",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/9/19"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "867000521",
+      "DOJ-OGR-00026842"
+    ]
+  },
+  "additional_notes": "The document appears to be a handwritten log of observations of inmate Epstein. There are several redactions throughout the document."
+}

@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": "8",
+    "document_number": "DOJ-OGR-00027029",
+    "date": "August 09, 2019",
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 3440 Friday August 09, 2019 Page 8 Non Correctional Svcs. Staff: b(7)(P) Overtime Occurrences: 28 Comptime Occurrences: 0 Ops Lt. Evening Watch Signature: Captain's Signature: 3/10/2019 7:19:02 PM DOJ-OGR-00027029",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3440",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Friday August 09, 2019 Page 8",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Non Correctional Svcs. Staff: b(7)(P)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Overtime Occurrences: 28 Comptime Occurrences: 0",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Ops Lt. Evening Watch Signature: Captain's Signature:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "3/10/2019 7:19:02 PM",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027029",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "August 09, 2019",
+      "3/10/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00027029"
+    ]
+  },
+  "additional_notes": "The document appears to be a report or log from a correctional facility, with some redacted information (b(7)(P)). The page is mostly blank, with some printed text and a few lines for signatures."
+}

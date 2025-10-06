@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": "2146",
+    "document_number": "DOJ-OGR-00025986",
+    "date": "August 14, 2019 - August 15, 2019",
+    "document_type": "Log or Record",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2146\n\nWednesday August 14, 2019\n11:30 am: FBI Agents arrive to work in communication room advised they will work through the night until next morning. NYM Facilities staff working in room also.\n\nThursday August 15, 2019\n5:24 am: FBI agent departs communication room and secured the door with evidence tape.\n8:30 am: NER Regional Director arrives to the institution.\n9:30 am: ODAG arrives to the institution.\n9:40 am: AUSA/FBI/OIG arrives to the institution.\n11:30 am: FBI arrives to work in communication room.\n12:00 am: AUSA/FBI/OIG departed the institution.\n12:30 am: ODAG departs the institution.\n4:52 pm: FBI Agents departs with all computer software from communication room new system running.\n5:37 pm: Gave Facilities Manager receipt from FBI for computer system.\n\nDOJ-OGR-00025986",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 2146",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Wednesday August 14, 2019\n11:30 am: FBI Agents arrive to work in communication room advised they will work through the night until next morning. NYM Facilities staff working in room also.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Thursday August 15, 2019\n5:24 am: FBI agent departs communication room and secured the door with evidence tape.\n8:30 am: NER Regional Director arrives to the institution.\n9:30 am: ODAG arrives to the institution.\n9:40 am: AUSA/FBI/OIG arrives to the institution.\n11:30 am: FBI arrives to work in communication room.\n12:00 am: AUSA/FBI/OIG departed the institution.\n12:30 am: ODAG departs the institution.\n4:52 pm: FBI Agents departs with all computer software from communication room new system running.\n5:37 pm: Gave Facilities Manager receipt from FBI for computer system.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025986",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "FBI Agents",
+      "FBI agent",
+      "NER Regional Director",
+      "ODAG",
+      "AUSA",
+      "OIG",
+      "Facilities Manager"
+    ],
+    "organizations": [
+      "FBI",
+      "NER",
+      "ODAG",
+      "AUSA",
+      "OIG",
+      "NYM"
+    ],
+    "locations": [
+      "communication room",
+      "institution"
+    ],
+    "dates": [
+      "August 14, 2019",
+      "August 15, 2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00025986"
+    ]
+  },
+  "additional_notes": "The document appears to be a log or record of events related to an FBI investigation or operation. The text is typed and there are no visible redactions or damage."
+}

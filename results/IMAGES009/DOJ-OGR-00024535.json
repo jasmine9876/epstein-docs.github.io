@@ -1,0 +1,59 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024535",
+    "date": null,
+    "document_type": "Daily Lieutenant's Log",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "UNITED STATES DEPARTMENT OF JUSTICE METROPOLITAN CORRECTIONAL CENTER, NEW YORK, NY DAILY LIEUTENANT'S LOG D/W Daily Sensitive Information: (b)(6), (b)(7)(C) 8:00 AM I/M Epstein on Psych obs. w/inmate companion Lieutenant (b)(6), (b)(7)(E), (b)(7)(F) assumes duties as the Day Watch Operations Lieutenant (b)(6), (b)(7)(F) 8:00 AM (b)(7)(F) 8:15 AM 8:30 AM AM Census count 9:30 AM (b)(7)(F) 9:31 AM -1 L-HOSP: I/M (b)(6), (b)(7)(C) 10:10 AM -1 Court: (b)(6), (b)(7)(C) 11:02 AM -1 Court: (b)(7)(F) AM Clear count announced. 11:00 AM Mainline feeding in progress. (b)(6), (b)(7)(C) 11:17 PM -3 HLD REMOVE: (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) 11:20 AM -5 PRE REMOVE: (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) 12:05 PM +1 L-HOSP RET: I/M (b)(6), (b)(7)(C) 12:13 PM -1 GCT REL: (b)(6), (b)(7)(C) 12:21 PM I/M Epstein #76318-054 released from HA to ZA 12:30 PM PM Census count 1:56 PM +1 court return: (b)(6), (b)(7)(C) 3:45 PM Institutional lockdown for count. 4:00 PM Continuation of duties by Lt. (b)(6), (b)(7)(C) as E/W Operations Lieutenant (b)(6), (b)(7)(C) Visitation: 11 SOUTH EVEN Inmates Adults Children Total 13 16 02 31 ION SCANNING TESTED HITS: 0 (b)(7)(E), (b)(7)(F) The following Inmate(s) were placed in Administrative Detention: 0 Name Reg Number Reason Unit TIME A/D Order Ops Lt (b)(6), (b)(7)(C) Ending Count (b)(7)(E) ; SHU: (b)(7)(E) 10-South: (b)(7)(E) SHU OBS: (b)(7)(E) Act Lt Local Hosp: (b)(7)(E) H/A OBS: B/A OBS: (b)(7)(E) Dry Cell: (b)(7)(E)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "UNITED STATES DEPARTMENT OF JUSTICE METROPOLITAN CORRECTIONAL CENTER, NEW YORK, NY DAILY LIEUTENANT'S LOG",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "D/W Daily Sensitive Information:",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "8:00 AM I/M Epstein on Psych obs. w/inmate companion",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Visitation: 11 SOUTH EVEN",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "The following Inmate(s) were placed in Administrative Detention: 0",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein",
+      "Lieutenant"
+    ],
+    "organizations": [
+      "UNITED STATES DEPARTMENT OF JUSTICE",
+      "METROPOLITAN CORRECTIONAL CENTER"
+    ],
+    "locations": [
+      "NEW YORK",
+      "NY",
+      "11 SOUTH EVEN"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024535"
+    ]
+  },
+  "additional_notes": "The document contains multiple redactions, indicated by (b)(6), (b)(7)(C), (b)(7)(E), and (b)(7)(F). The document appears to be a log of daily activities and events at the Metropolitan Correctional Center in New York."
+}

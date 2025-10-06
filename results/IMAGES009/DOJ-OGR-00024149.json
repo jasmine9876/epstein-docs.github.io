@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "DOJ-OGR-00024149",
+    "date": "05/11/2020",
+    "document_type": "Inmate Medical Record",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Begin Date: 07/06/2019 Reg #: 76318-054 End Date: 05/11/2020 Inmate Name: EPSTEIN, JEFFREY EDWARD Date Time Value(%) Air Provider 07/24/2019 13:12 NYM 96 Room Air (b)(6) (b)(7)(C) MLP Orig Entered: 07/28/2019 06:58 EST 07/23/2019 06:30 NYM 96 Room Air (b)(6) (b)(7)(C) MLP Orig Entered: 07/24/2019 13:14 EST 07/09/2019 12:49 NYM 97 Room Air (b)(6) (b)(7)(C) MLP Orig Entered: 07/09/2019 12:51 EST 07/06/2019 21:43 NYM 95 Room Air (b)(6) (b)(7)(C) PA-C Orig Entered: 07/06/2019 21:48 EST Height: Date Time Inches Cm Provider 07/09/2019 12:49 NYM 70.0 177.8 (b)(6) (b)(7)(C) MLP Orig Entered: 07/09/2019 12:51 EST 07/06/2019 21:43 NYM 72.0 182.9 (b)(6) (b)(7)(C) PA-C Orig Entered: 07/06/2019 21:48 EST Weight: Date Time Lbs Kg Waist Circum. Provider 07/30/2019 09:30 NYM 194.2 88.1 (b)(6) (b)(7)(C) MD Orig Entered: 07/30/2019 12:59 EST 07/09/2019 12:49 NYM 194.4 88.2 (b)(6) (b)(7)(C) MLP Orig Entered: 07/09/2019 12:51 EST 07/06/2019 21:43 NYM 200.0 90.7 (b)(6) (b)(7)(C) PA-C Orig Entered: 07/06/2019 21:48 EST Generated 05/11/2020 09:57 by (b)(6) (b)(7)(C) GC Bureau of Prisons - DAN Page 3 of 3 DOJ-OGR-00024149",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Begin Date: 07/06/2019 Reg #: 76318-054 End Date: 05/11/2020 Inmate Name: EPSTEIN, JEFFREY EDWARD",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Date Time Value(%) Air Provider",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Height: Date Time Inches Cm Provider",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Weight: Date Time Lbs Kg Waist Circum. Provider",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 05/11/2020 09:57 by (b)(6) (b)(7)(C) GC Bureau of Prisons - DAN Page 3 of 3 DOJ-OGR-00024149",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [],
+    "dates": [
+      "07/06/2019",
+      "07/09/2019",
+      "07/23/2019",
+      "07/24/2019",
+      "07/28/2019",
+      "07/30/2019",
+      "05/11/2020"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024149"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as (b)(6) (b)(7)(C), indicating potentially sensitive personal information."
+}

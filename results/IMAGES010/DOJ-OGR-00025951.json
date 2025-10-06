@@ -1,0 +1,42 @@
+{
+  "document_metadata": {
+    "page_number": "2111",
+    "document_number": "DOJ-OGR-00025951",
+    "date": "7/25/19",
+    "document_type": "Inmate Observation Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "EPSTEIN # 76318-054 (Cont'd) assumes responsibility for the psych observation of inmate EPSTEIN #76318-054 in cell #4 on 7/25/19 at 10:55 pm. (b)(6); (b)(7)(C) 11:00 PM Inmate EPSTEIN is laying down quiet (b)(6); (b)(7)(C) 11:05 PM Inmate EPSTEIN is sleeping 11:30 PM Inmate EPSTEIN is sleeping 11:45 PM Inmate EPSTEIN is sleeping 12:00 AM Inmate EPSTEIN is sleeping 12:09 AM Staff rounds 12:15 AM Inmate EPSTEIN is sleeping 12:30 AM Inmate EPSTEIN is sleeping 12:45 AM Inmate EPSTEIN is sleeping 1:00 AM Inmate EPSTEIN is sleeping 1:15 AM Inmate EPSTEIN is sleeping (b)(6); (b)(7)(C) 1:27 AM LT Rounds 1:30 AM Inmate EPSTEIN is sleeping 1:45 AM Inmate EPSTEIN is sleeping 2:00 AM Inmate EPSTEIN is sleeping 2:15 AM Inmate EPSTEIN is sleeping 2:30 AM Inmate EPSTEIN is sleeping 2:45 AM Inmate EPSTEIN is sleeping 2:56 AM End of Shift",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "EPSTEIN # 76318-054 (Cont'd) assumes responsibility for the psych observation of inmate EPSTEIN #76318-054 in cell #4 on 7/25/19 at 10:55 pm.",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "11:00 PM Inmate EPSTEIN is laying down quiet\n11:05 PM Inmate EPSTEIN is sleeping\n11:30 PM Inmate EPSTEIN is sleeping\n11:45 PM Inmate EPSTEIN is sleeping\n12:00 AM Inmate EPSTEIN is sleeping\n12:09 AM Staff rounds\n12:15 AM Inmate EPSTEIN is sleeping\n12:30 AM Inmate EPSTEIN is sleeping\n12:45 AM Inmate EPSTEIN is sleeping\n1:00 AM Inmate EPSTEIN is sleeping\n1:15 AM Inmate EPSTEIN is sleeping\n1:27 AM LT Rounds\n1:30 AM Inmate EPSTEIN is sleeping\n1:45 AM Inmate EPSTEIN is sleeping\n2:00 AM Inmate EPSTEIN is sleeping\n2:15 AM Inmate EPSTEIN is sleeping\n2:30 AM Inmate EPSTEIN is sleeping\n2:45 AM Inmate EPSTEIN is sleeping\n2:56 AM End of Shift",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025951",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/25/19"
+    ],
+    "reference_numbers": [
+      "76318-054"
+    ]
+  },
+  "additional_notes": "The document appears to be a handwritten log of observations of inmate Jeffrey Epstein. The log includes timestamps and notes on Epstein's status, including whether he was sleeping or quiet. There are redactions in the document, indicated by (b)(6); (b)(7)(C)."
+}

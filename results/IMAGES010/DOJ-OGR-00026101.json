@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "2425",
+    "document_number": "DOJ-OGR-00026101",
+    "date": "07/28/2019",
+    "document_type": "Clinical Encounter",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2425 Bureau of Prisons Health Services Clinical Encounter Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Encounter Date: 07/28/2019 06:51 Sex: M Race: WHITE Reg #: 76318-054 Provider: (b)(6); (b)(7)(C) Facility: NYM Unit: H01 RN Nursing - Triage Note encounter performed at Health Services. SUBJECTIVE: COMPLAINT 1 Provider (b)(6); (b)(7)(C) RN Chief Complaint: Neuropathy - Tingling/Numbness of Extremity(ies) Subjective: \"I woke up and I had no control over my Right arm for a few minutes it was just doing what it wanted to do\" Pain: No OBJECTIVE: Pulse: Date Time Rate Per Minute Location Rhythm Provider 07/28/2019 06:57 82 (b)(6); (b)(7)(C) RN Respirations: Date Time Rate Per Minute Provider 07/28/2019 06:57 NYM 14 (b)(6); (b)(7)(C) RN Blood Pressure: Date Time Value Location Position Cuff Size Provider 07/28/2019 06:57 NYM 138/80 (b)(6); (b)(7)(C) RN SaO2: Date Time Value(%) Air Provider 07/28/2019 06:57 NYM 98 (b)(6); (b)(7)(C) RN Exam: General Affect Yes: Cooperative Appearance Yes: Appears Well, Alert and Oriented x 3 Skin General Yes: Within Normal Limits, Dry, Skin Intact Head General Yes: Symmetry of Motor Function, Atraumatic/Normocephalic No: Facial Asymmetry, Battle's Sign, Raccoon Eyes, Deformity Eyes General Yes: PERRLA, Extraocular Movements Intact Face General Yes: Symmetric Generated 07/28/2019 07:22 by (b)(6); (b)(7)(C) RN Bureau of Prisons - NYM Page 1 of 3",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Bureau of Prisons Health Services Clinical Encounter",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Encounter Date: 07/28/2019 06:51 Sex: M Race: WHITE Reg #: 76318-054 Provider: (b)(6); (b)(7)(C) Facility: NYM Unit: H01 RN",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Nursing - Triage Note encounter performed at Health Services. SUBJECTIVE: COMPLAINT 1 Provider (b)(6); (b)(7)(C) RN Chief Complaint: Neuropathy - Tingling/Numbness of Extremity(ies) Subjective: \"I woke up and I had no control over my Right arm for a few minutes it was just doing what it wanted to do\" Pain: No",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "OBJECTIVE: Pulse: Date Time Rate Per Minute Location Rhythm Provider 07/28/2019 06:57 82 (b)(6); (b)(7)(C) RN Respirations: Date Time Rate Per Minute Provider 07/28/2019 06:57 NYM 14 (b)(6); (b)(7)(C) RN Blood Pressure: Date Time Value Location Position Cuff Size Provider 07/28/2019 06:57 NYM 138/80 (b)(6); (b)(7)(C) RN SaO2: Date Time Value(%) Air Provider 07/28/2019 06:57 NYM 98 (b)(6); (b)(7)(C) RN",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Exam: General Affect Yes: Cooperative Appearance Yes: Appears Well, Alert and Oriented x 3 Skin General Yes: Within Normal Limits, Dry, Skin Intact Head General Yes: Symmetry of Motor Function, Atraumatic/Normocephalic No: Facial Asymmetry, Battle's Sign, Raccoon Eyes, Deformity Eyes General Yes: PERRLA, Extraocular Movements Intact Face General Yes: Symmetric",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/28/2019 07:22 by (b)(6); (b)(7)(C) RN Bureau of Prisons - NYM Page 1 of 3",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/28/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026101"
+    ]
+  },
+  "additional_notes": "The document appears to be a clinical encounter report from the Bureau of Prisons Health Services. It contains personal and medical information about the inmate Jeffrey Edward Epstein. Some personal identifiers are redacted."
+}

@@ -1,0 +1,40 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "DOJ-OGR-00023491",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "### 3 DOJ-OGR-00023491",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "###",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "3",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00023491",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00023491"
+    ]
+  },
+  "additional_notes": "The document appears to be a page from a larger report or document, with a page number and a reference number. The content is minimal, with only a few symbols and a page number."
+}

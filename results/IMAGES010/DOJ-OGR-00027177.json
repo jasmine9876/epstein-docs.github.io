@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": "100",
+    "document_number": "DOJ-OGR-00027177",
+    "date": "7/24/2019",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "MCC New York\n150 Park Row\nNew York, New York 10007\nOffice: 646-836-(b)(6); (b)(7)(C)\nBlack Berry: 646-423-(b)(6); (b)(7)(C)\n(b)(6); (b)(7)(C)@bop.gov\n\n>>> Ray Ormond 7/24/2019 8:45 AM >>>\nShirley - Please provide me with a daily update on this inmate, including his status and any changes/activities I should be aware of. Thanks!\n\nJ. Ray Ormond\nRegional Director\nNortheast Region\n215-521-(b)(6); (b)(7)(C)\n\nPage 100\nDOJ-OGR-00027177",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "MCC New York\n150 Park Row\nNew York, New York 10007\nOffice: 646-836-(b)(6); (b)(7)(C)\nBlack Berry: 646-423-(b)(6); (b)(7)(C)\n(b)(6); (b)(7)(C)@bop.gov",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": ">>> Ray Ormond 7/24/2019 8:45 AM >>>\nShirley - Please provide me with a daily update on this inmate, including his status and any changes/activities I should be aware of. Thanks!",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "J. Ray Ormond\nRegional Director\nNortheast Region\n215-521-(b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 100\nDOJ-OGR-00027177",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ray Ormond",
+      "Shirley",
+      "J. Ray Ormond"
+    ],
+    "organizations": [
+      "MCC New York",
+      "BOP"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "7/24/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00027177",
+      "646-836-(b)(6); (b)(7)(C)",
+      "646-423-(b)(6); (b)(7)(C)",
+      "215-521-(b)(6); (b)(7)(C)"
+    ]
+  },
+  "additional_notes": "The document appears to be an email chain with redactions on phone numbers and email addresses."
+}

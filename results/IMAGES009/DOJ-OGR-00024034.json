@@ -1,0 +1,82 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024034",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "7726 Sadin 2438-057 12/02/2019 7726 Calvento 7658-057 12/02/2019 7727 Miller 7638-057 12/02/2019 7724 G.Tali 7638-057 10/21/2019",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "7726 Sadin",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "2438-057 12/02/2019",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "7726 Calvento",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7658-057 12/02/2019",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7727 Miller",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7638-057 12/02/2019",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7724 G.Tali",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "7638-057 10/21/2019",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024034",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Sadin",
+      "Calvento",
+      "Miller",
+      "G.Tali"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "12/02/2019",
+      "10/21/2019"
+    ],
+    "reference_numbers": [
+      "7726",
+      "2438-057",
+      "7658-057",
+      "7727",
+      "7638-057",
+      "7724",
+      "DOJ-OGR-00024034"
+    ]
+  },
+  "additional_notes": "The document appears to be a table with handwritten entries, with some information redacted."
+}

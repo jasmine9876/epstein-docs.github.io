@@ -1,0 +1,48 @@
+{
+  "document_metadata": {
+    "page_number": "2913",
+    "document_number": "DOJ-OGR-00026569",
+    "date": "12/8/2019",
+    "document_type": "Official Count Slip",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2913 Metropolitan Correctional Center Official Count Slip Unit: Count: Print Name: Signature: Print Name: Signature: Date: 08/12/19 Time: Metropolitan Correctional Center Official Count Slip Unit: Count: Print Name: Signature: Print Name: Signature: Date: 8.12.19 Time: 7:01am DOJ-OGR-00026569",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "08/12/19 2000",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "8.12.19 7:01am",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026569",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [],
+    "dates": [
+      "08/12/19",
+      "8.12.19"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026569"
+    ]
+  },
+  "additional_notes": "The document contains two Official Count Slips from the Metropolitan Correctional Center, both dated 12 August 2019. The top slip has a time of 2000 (presumably 8:00 PM), while the bottom slip has a time of 7:01 AM. Some information is redacted."
+}

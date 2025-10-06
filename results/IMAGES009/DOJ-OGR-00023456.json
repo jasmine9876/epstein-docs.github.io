@@ -1,0 +1,51 @@
+{
+  "document_metadata": {
+    "page_number": "89",
+    "document_number": "DOJ-OGR-00023456",
+    "date": null,
+    "document_type": "Report or Inspection Document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Figure 6.4\nPartial View of L Tier Stairway, from the SHU Camera at 10th Floor-South Entrance\nSource: DOJ OIG and the BOP",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Figure 6.4",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Partial View of L Tier Stairway, from the SHU Camera at 10th Floor-South Entrance",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Source: DOJ OIG and the BOP",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "89",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00023456",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ OIG",
+      "BOP"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00023456"
+    ]
+  },
+  "additional_notes": "The document appears to be a page from a report or inspection document related to a correctional facility, given the context of 'L Tier Stairway' and 'SHU Camera'. The image is of a stairway captured by a surveillance camera. The overall quality of the document is clear and legible."
+}

@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": "1296",
+    "document_number": "DOJ-OGR-00025486",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "p.m. Epstein returned to cell with no cellmate even though Epstein was on PSYCH Alert as well as a requirement that he have a cellmate. No cellmate was assigned to his cell on August 9th.\n\nOn August 10th at about 12:00 a.m., while in his cell, Epstein acknowledged a Correction Officer performing a routine check. After midnight, it appears that not all of the checks required to be performed were actually done.\n\nOn August 10th at approximately 6:33 a.m., Staff serving breakfast meal found Epstein unresponsive in his cell. Staff called for assistance and began CPR. When EMS arrived at the institution, he was transported to hospital where he was pronounced dead at 7:36am.",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "p.m. Epstein returned to cell with no cellmate even though Epstein was on PSYCH Alert as well as a requirement that he have a cellmate. No cellmate was assigned to his cell on August 9th.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "On August 10th at about 12:00 a.m., while in his cell, Epstein acknowledged a Correction Officer performing a routine check. After midnight, it appears that not all of the checks required to be performed were actually done.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "On August 10th at approximately 6:33 a.m., Staff serving breakfast meal found Epstein unresponsive in his cell. Staff called for assistance and began CPR. When EMS arrived at the institution, he was transported to hospital where he was pronounced dead at 7:36am.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 4112",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025486",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [
+      "EMS"
+    ],
+    "locations": [
+      "hospital"
+    ],
+    "dates": [
+      "August 9th",
+      "August 10th"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00025486"
+    ]
+  },
+  "additional_notes": "The document appears to be a report or incident summary related to Jeffrey Epstein's death in custody. The text is printed and there are no visible stamps or handwritten annotations. The document quality is clear and legible."
+}

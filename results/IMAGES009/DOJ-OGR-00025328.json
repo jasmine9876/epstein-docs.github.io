@@ -1,0 +1,51 @@
+{
+  "document_metadata": {
+    "page_number": "1106",
+    "document_number": "DOJ-OGR-00025328",
+    "date": null,
+    "document_type": "Mail Attachment",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 1106\nMail Attachment\nEpstein, Jeffrey Edward, Reg. No. 73618-054_1_1.docx\nPage 2797\nDOJ-OGR-00025328",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 1106",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Mail Attachment",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Epstein, Jeffrey Edward, Reg. No. 73618-054_1_1.docx",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Page 2797",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025328",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Edward Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "73618-054",
+      "DOJ-OGR-00025328"
+    ]
+  },
+  "additional_notes": "The document appears to be a page from a larger document or report, with a header and footer indicating page numbers and a document identifier. The content is mostly metadata about an attachment related to Jeffrey Epstein."
+}

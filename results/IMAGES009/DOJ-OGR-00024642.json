@@ -1,0 +1,48 @@
+{
+  "document_metadata": {
+    "page_number": "001",
+    "document_number": "NYMDK 530*07",
+    "date": "08-06-2019",
+    "document_type": "POPULATION MONITORING CENSUS/ROSTER GENERALIZED RETRIEVAL",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "NYMDK 530*07 * POPULATION MONITORING CENSUS/ROSTER * 08-06-2019 PAGE 001 * GENERALIZED RETRIEVAL * 01:40:42 FUNCTION: R-P SELECTION CATEGORY: QTR EQ ALL ZERO/NBR: NO ORGANIZATION: FACL EQ NYM OPTION: TYPE OF FACILITY: TOF EQ T DUP SUPR: YES FACILITY MANAGED BY: FMB EQ AP COLUMNS 1: REG 2: LN 3: LN2 4: FN 5: ARSD 6: ARS 7: 8: SEQ: 234 NP: JUDG: C SORT COL: C CL SEQ: CONDITIONS (GRP 1) OR CONDITIONS (GRP 2) OR CONDITIONS (GRP 3) OR CONDITIONS (GRP 4) CMCI NE G CMCI NE F",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "NYMDK 530*07 * POPULATION MONITORING CENSUS/ROSTER * 08-06-2019 PAGE 001 * GENERALIZED RETRIEVAL * 01:40:42",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "FUNCTION: R-P SELECTION CATEGORY: QTR EQ ALL ZERO/NBR: NO ORGANIZATION: FACL EQ NYM OPTION: TYPE OF FACILITY: TOF EQ T DUP SUPR: YES FACILITY MANAGED BY: FMB EQ AP COLUMNS 1: REG 2: LN 3: LN2 4: FN 5: ARSD 6: ARS 7: 8: SEQ: 234 NP: JUDG: C SORT COL: C CL SEQ: CONDITIONS (GRP 1) OR CONDITIONS (GRP 2) OR CONDITIONS (GRP 3) OR CONDITIONS (GRP 4) CMCI NE G CMCI NE F",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "squiggly line",
+      "position": "right margin"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024642",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "08-06-2019"
+    ],
+    "reference_numbers": [
+      "NYMDK 530*07",
+      "DOJ-OGR-00024642"
+    ]
+  },
+  "additional_notes": "The document contains a large green rectangle covering most of the page, obscuring some text. The handwritten squiggly line is present in the right margin."
+}

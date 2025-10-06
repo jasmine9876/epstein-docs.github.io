@@ -1,0 +1,51 @@
+{
+  "document_metadata": {
+    "page_number": "2944",
+    "document_number": "NYMBH 530*05",
+    "date": "08-11-2019",
+    "document_type": "Inmate Roster",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2944\n* NYMBH 530*05 * INMATE ROSTER * 08-11-2019\nPAGE 001 OF 001 09:38:26\nCATEGORY: OCT GROUP CODE:\nASSIGNMENT: ATTY FACILITY: NYM\nOPER CATG ASSIGNMENT OPER CATG ASSIGNMENT\nNUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK\n0001 ATTY (b)(6); (b)(7)(C) 08-11-2019 205-124LAD UNASSG\n\nG0000 TRANSACTION SUCCESSFULLY COMPLETED\nDOJ-OGR-00026600",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 2944",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "* NYMBH 530*05 * INMATE ROSTER * 08-11-2019\nPAGE 001 OF 001 09:38:26\nCATEGORY: OCT GROUP CODE:\nASSIGNMENT: ATTY FACILITY: NYM\nOPER CATG ASSIGNMENT OPER CATG ASSIGNMENT\nNUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK\n0001 ATTY (b)(6); (b)(7)(C) 08-11-2019 205-124LAD UNASSG",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "G0000 TRANSACTION SUCCESSFULLY COMPLETED",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026600",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "08-11-2019"
+    ],
+    "reference_numbers": [
+      "NYMBH 530*05",
+      "DOJ-OGR-00026600",
+      "205-124LAD"
+    ]
+  },
+  "additional_notes": "The document appears to be a printed inmate roster with some redacted information."
+}

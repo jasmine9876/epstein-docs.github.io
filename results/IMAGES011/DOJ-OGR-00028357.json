@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028357",
+    "date": "042814",
+    "document_type": "PQH API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 *B PQH API/HIT DATA 042814 *A *C NAME DOB DATE TIME AGN RSLT LNE TERM/ EPSTEIN, JEFFREY 012053 123006 1611 CUS *D AIR JK05 N A511-CBP-CYRIL E KING, INTL TECS RECORD ID : CARRIER CODE : AA AMERICAN AIRLINES FLT/VES NUMBER : 1 (b) (7) (E) (b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6) , (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) DOJ-OGR-00028357",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07 *B PQH API/HIT DATA 042814 *A *C",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB DATE TIME AGN RSLT LNE TERM/ EPSTEIN, JEFFREY 012053 123006 1611 CUS *D AIR JK05 N A511-CBP-CYRIL E KING, INTL",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TECS RECORD ID : CARRIER CODE : AA AMERICAN AIRLINES FLT/VES NUMBER : 1",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "(b) (7) (E)",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b) (7) (E) *B - (b) (6) , (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028357",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "AMERICAN AIRLINES",
+      "CBP"
+    ],
+    "locations": [
+      "CYRIL E KING"
+    ],
+    "dates": [
+      "012053",
+      "123006",
+      "042814"
+    ],
+    "reference_numbers": [
+      "A511-CBP-CYRIL E KING",
+      "DOJ-OGR-00028357"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b) (6), (b) (7) (C), and (b) (7) (E)."
+}

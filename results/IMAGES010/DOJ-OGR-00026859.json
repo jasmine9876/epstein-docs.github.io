@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "3270",
+    "document_number": "DOJ-OGR-00026859",
+    "date": null,
+    "document_type": "Observation Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "EPSTEIN # 76318-054\n00:15 Jim EPSTEIN appears to be sleeping\n00:30 C/O Rumors\n00:45 Jim EPSTEIN appears to be sleeping\n01:00 Jim EPSTEIN appears to be sleeping\n01:15 Jim EPSTEIN appears to be sleeping\n01:30 Jim EPSTEIN appears to be sleeping\n01:45 Jim EPSTEIN appears to be sleeping\n02:00 Jim EPSTEIN appears to be sleeping\n02:15 Jim EPSTEIN gets up to wash face - He talks about not wanting to go to SHU\nLieut B.F. Cong to a unit. Inquires about the conditions of various units\n02:30 Jim EPSTEIN inquires about the atmosphere of various units in MCC\n02:45 Jim EPSTEIN appears to be sleeping\nX END SUIFT I/C\n3:00AM IC assuming responsibility of epstein #76318-054\nBegin shift\n3:00 am Jim epstein is sleeping\n3:15am Jim epstein is sleeping\n3:30 am Jim epstein is sleeping",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "EPSTEIN # 76318-054",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "00:15 Jim EPSTEIN appears to be sleeping\n00:30 C/O Rumors\n00:45 Jim EPSTEIN appears to be sleeping\n01:00 Jim EPSTEIN appears to be sleeping\n01:15 Jim EPSTEIN appears to be sleeping\n01:30 Jim EPSTEIN appears to be sleeping\n01:45 Jim EPSTEIN appears to be sleeping\n02:00 Jim EPSTEIN appears to be sleeping\n02:15 Jim EPSTEIN gets up to wash face - He talks about not wanting to go to SHU\nLieut B.F. Cong to a unit. Inquires about the conditions of various units\n02:30 Jim EPSTEIN inquires about the atmosphere of various units in MCC\n02:45 Jim EPSTEIN appears to be sleeping\nX END SUIFT I/C",
+      "position": "main"
+    },
+    {
+      "type": "handwritten",
+      "content": "3:00AM IC assuming responsibility of epstein #76318-054\nBegin shift\n3:00 am Jim epstein is sleeping\n3:15am Jim epstein is sleeping\n3:30 am Jim epstein is sleeping",
+      "position": "main"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jim Epstein",
+      "Lieut B.F. Cong"
+    ],
+    "organizations": [],
+    "locations": [
+      "SHU",
+      "MCC"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "76318-054"
+    ]
+  },
+  "additional_notes": "The document appears to be a handwritten log of observations of Jeffrey Epstein (#76318-054) over a period of time. The log includes details about Epstein's activities and interactions. Some parts of the document are redacted."
+}

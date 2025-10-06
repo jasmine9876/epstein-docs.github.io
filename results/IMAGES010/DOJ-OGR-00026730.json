@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": "3090",
+    "document_number": "NYMD4 1530.03",
+    "date": "08-09-2019",
+    "document_type": "BUREAU OF PRISONS COUNT SHEET",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 3090\nNYMD4 1530.03 * BUREAU OF PRISONS COUNT SHEET * 08-09-2019\nPAGE 001 NEW YORK MCC * 03:04:44\nQTRG EQ **** OCTG EQ ****\nOUTCOUNT SECTION\nA F F U T C O\nT N N S O H M S & R S TR V OC UO TU\nY J Y S D N W S D I V I T N VERIFY COUNT\nCOUNT AREA CENSUS\nB-A [b(7)(F)] B-A\nC-A C-A\nE-N . . . . . . . . E-N\nE-S . . . . . . . . E-S\nG-N . . . . . . . . G-N\nG-S . . . . . . . . G-S\nH-A H-A\nI-N I-N\nK-N . . 1 . . . . 1 K-N\nK-S . . 1 . . . . 1 K-S\nR-A R-A\nZ-A Z-A\nZ-B Z-B\nTOTAL . . 2 . . . . 2\nCOUNT VERIFY\nOFFICIAL PREPARING COUNT\nOFFICIAL TAKING COUNT\nCOUNT CLEARED TIME\nGood verbal!\n[b(6); b(7)(C)]\nDOJ-OGR-00026730",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3090\nNYMD4 1530.03 * BUREAU OF PRISONS COUNT SHEET * 08-09-2019\nPAGE 001 NEW YORK MCC * 03:04:44\nQTRG EQ **** OCTG EQ ****\nOUTCOUNT SECTION\nA F F U T C O\nT N N S O H M S & R S TR V OC UO TU\nY J Y S D N W S D I V I T N VERIFY COUNT\nCOUNT AREA CENSUS",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "B-A\nC-A\nE-N . . . . . . . .\nE-S . . . . . . . .\nG-N . . . . . . . .\nG-S . . . . . . . .\nH-A\nI-N\nK-N . . 1 . . . . 1\nK-S . . 1 . . . . 1\nR-A\nZ-A\nZ-B\nTOTAL . . 2 . . . . 2",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "COUNT VERIFY\nOFFICIAL PREPARING COUNT\nOFFICIAL TAKING COUNT\nCOUNT CLEARED TIME",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Good verbal!",
+      "position": "middle"
+    },
+    {
+      "type": "other",
+      "content": "[b(7)(F)]\n[b(6); b(7)(C)]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026730",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "BUREAU OF PRISONS",
+      "NEW YORK MCC"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "08-09-2019"
+    ],
+    "reference_numbers": [
+      "NYMD4 1530.03",
+      "DOJ-OGR-00026730"
+    ]
+  },
+  "additional_notes": "The document appears to be a count sheet from the Bureau of Prisons, with some redacted information. The count was cleared on August 9, 2019, at 03:04:44. There is a handwritten note indicating 'Good verbal!'."
+}

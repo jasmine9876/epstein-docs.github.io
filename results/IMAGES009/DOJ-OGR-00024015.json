@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024015",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "7/15 G. Tali An Epstein 76318-054 6:30 7/16 Calicos We Epstein 76318-054 6:20 7:55 7/16 Sacks My Epstein 76318-054 6:30 7/17 Sacks go Epstein 76318-054 8:00 PM",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "7/15 G. Tali An Epstein 76318-054 6:30",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/16 Calicos We Epstein 76318-054 6:20 7:55",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/16 Sacks My Epstein 76318-054 6:30",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/17 Sacks go Epstein 76318-054 8:00 PM",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024015",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "G. Tali",
+      "Calicos",
+      "Sacks",
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/15",
+      "7/16",
+      "7/17"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024015"
+    ]
+  },
+  "additional_notes": "The document appears to be a log or record of some sort, with handwritten entries detailing interactions or events involving individuals named G. Tali, Calicos, Sacks, and Epstein. The entries include dates and times, as well as a reference number (76318-054). The document has been redacted in some areas, with certain information obscured."
+}

@@ -1,0 +1,91 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00027090",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "#22 (b)(6), (b)(7)(C) J. Epstein 763/804 (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) #63 (b)(6), (b)(7)(C) J. Epstein 763/804 8:16 (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) DOJ-OGR-00027090",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "#22",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "J. Epstein",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "763/804",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "#63",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "J. Epstein",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "763/804 8:16",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027090",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "J. Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "763/804",
+      "DOJ-OGR-00027090"
+    ]
+  },
+  "additional_notes": "The document appears to be heavily redacted, with most of the content obscured by green highlights. The visible text is primarily handwritten and appears to be related to a person named J. Epstein and a reference number 763/804."
+}

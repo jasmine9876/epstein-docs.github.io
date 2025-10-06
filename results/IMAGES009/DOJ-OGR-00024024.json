@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024024",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Saella Hansgn Epstein 76518-054 10-21 2:33 76318-054 1635 1:00 76318 0571 10:29 11 The Mike Phelps Epstein 76318054 225 610 76318054 225 10",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "Saella Hansgn Epstein 76518-054 10-21 2:33",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318-054 1635 1:00 76318 0571 10:29 11",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "The Mike Phelps Epstein 76318054 225 610",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318054 225 10",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024024",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Saella Hansgn",
+      "Epstein",
+      "Mike Phelps"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "10-21"
+    ],
+    "reference_numbers": [
+      "76518-054",
+      "76318-054",
+      "76318 0571",
+      "76318054"
+    ]
+  },
+  "additional_notes": "The document appears to be a table with handwritten entries, containing names and reference numbers. Some parts of the document are redacted."
+}

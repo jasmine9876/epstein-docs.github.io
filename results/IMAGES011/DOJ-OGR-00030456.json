@@ -1,0 +1,73 @@
+{
+  "document_metadata": {
+    "page_number": "103",
+    "document_number": "17-295",
+    "date": "January 2008",
+    "document_type": "Letter",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Lanna Belohlavek, State Attorney's Office, 401 North Dixie Highway, West Palm Beach, Florida 33401, this  day of January, 2008. ATTERBURY, GOLDBERGER & WEISS, P.A. 250 Australian Avenue South, Suite 1400 West Palm Beach, Florida 33401 (561)659-8300 JACK A. GOLDBERGER, ESQ. Florida Bar No.: 262013 07/26/17 Page 103 of 114 Public Records Request No.: 17-295 DOJ-OGR-00030456",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Lanna Belohlavek, State Attorney's Office, 401 North Dixie Highway, West Palm Beach, Florida 33401, this",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "2nd",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "day of January, 2008. ATTERBURY, GOLDBERGER & WEISS, P.A. 250 Australian Avenue South, Suite 1400 West Palm Beach, Florida 33401 (561)659-8300",
+      "position": "top"
+    },
+    {
+      "type": "signature",
+      "content": "JACK A. GOLDBERGER, ESQ.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Florida Bar No.: 262013",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 103 of 114 Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00030456",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Lanna Belohlavek",
+      "Jack A. Goldberger"
+    ],
+    "organizations": [
+      "State Attorney's Office",
+      "ATTERBURY, GOLDBERGER & WEISS, P.A.",
+      "Florida Bar"
+    ],
+    "locations": [
+      "West Palm Beach",
+      "Florida"
+    ],
+    "dates": [
+      "January 2008",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "262013",
+      "DOJ-OGR-00030456"
+    ]
+  },
+  "additional_notes": "The document appears to be a letter from a law firm to the State Attorney's Office. The date is partially handwritten. The document has been stamped with a page number and a public records request number."
+}

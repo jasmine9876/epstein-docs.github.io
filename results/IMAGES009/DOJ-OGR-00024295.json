@@ -1,0 +1,53 @@
+{
+  "document_metadata": {
+    "page_number": "7695",
+    "document_number": "DOJ-OGR-00024295",
+    "date": "2019/11/06",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Meeting From [redacted] To [redacted] Date 2019/11/06 12:18 Subject: Meeting Attachments: TEXT.htm Is the Epstein meeting today or tomorrow? [redacted] Forensic Psychologist LCDR United States Public Health Service Metropolitan Correctional Center 150 Park Row New York, New York 10007 646-836-[redacted] Fax- 646-836-7712 email-[redacted]@bop.gov Page 7695 DOJ-OGR-00024295",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Meeting From [redacted] To [redacted] Date 2019/11/06 12:18 Subject: Meeting Attachments: TEXT.htm",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Is the Epstein meeting today or tomorrow?",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "[redacted] Forensic Psychologist LCDR United States Public Health Service Metropolitan Correctional Center 150 Park Row New York, New York 10007 646-836-[redacted] Fax- 646-836-7712 email-[redacted]@bop.gov",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 7695 DOJ-OGR-00024295",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [
+      "United States Public Health Service",
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "2019/11/06"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00024295",
+      "646-836-7712"
+    ]
+  },
+  "additional_notes": "The document contains redactions, likely for privacy or security reasons."
+}

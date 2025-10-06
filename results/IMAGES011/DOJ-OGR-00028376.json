@@ -1,0 +1,84 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028376",
+    "date": "101604",
+    "document_type": "PQH API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 *B PQH API/HIT DATA 042814 *A *C NAME DOB ----- QUERY ----- LNE TERM/ EPSTEIN, JEFFREY 012053 DATE TIME AGN RSLT TYP REF LANE API A523-PALM BEACH, INTERNATION 101604 2016 CUS *D AIR :$01 N TECS RECORD ID : CARRIER CODE : *UU U.S. CARRIER UNKNOWN FLT/VES NUMBER : 908JE (b) (7) (E) (b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6) , (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) DOJ-OGR-00028376",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07 *B PQH API/HIT DATA 042814 *A *C",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB ----- QUERY ----- LNE TERM/",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY 012053 DATE TIME AGN RSLT TYP REF LANE API",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "A523-PALM BEACH, INTERNATION 101604 2016 CUS *D AIR :$01 N",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "TECS RECORD ID :",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CARRIER CODE : *UU U.S. CARRIER UNKNOWN",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FLT/VES NUMBER : 908JE",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b) (7) (E) (b) (7) (E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b) (7) (E) *B - (b) (6) , (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028376",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "PALM BEACH"
+    ],
+    "dates": [
+      "101604",
+      "012053",
+      "2016"
+    ],
+    "reference_numbers": [
+      "A523",
+      "042814",
+      "908JE",
+      "DOJ-OGR-00028376"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b) (6)', '(b) (7) (C)', and '(b) (7) (E)'."
+}

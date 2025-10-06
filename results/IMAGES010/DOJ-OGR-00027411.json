@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "DOJ-OGR-00027411",
+    "date": "9/4/2020",
+    "document_type": "Managed Query Results",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Managed Query APIS - All Passengers Results Conf. Name DOB Gender Document Conveyance Departure Date Arrival Date PNR Hit Types Attributes Status Event IDs (b)(6)&(b)(7)(C) REDACTED M 123456789/FTHCL *GAN499GM (XXX - FXX) 04/27/2012 15:30 04/27/2012 15:58 Crew (b)(6)&(b)(7)(C) *GAN499GM (IST - XXX) 04/06/2012 20:30 04/06/2012 23:12 Crew *GAN499GM (XXX - IST) 03/30/2012 09:00 03/30/2012 04:46 Crew EPSTEIN, Jeffrey Edward 01/20/1953 M *GAN499GM (FXX - XXX) 03/29/2012 08:30 03/29/2012 09:08 Crew EPSTEIN, Jeffrey Edward 01/20/1953 M *GAN499GM (IST - XXX) 02/15/2012 12:45 02/15/2012 14:21 Crew EPSTEIN, Jeffrey Edward 01/20/1953 M *GAN499GM (XXX - IST) 02/13/2012 08:30 02/13/2012 17:22 Crew EPSTEIN, Jeffrey Edward 01/20/1953 M *GAN499GM (IST - XXX) 04/04/2012 04:30 04/04/2012 10:49 Passenger EPSTEIN, Jeffrey Edward 01/20/1953 M *GAN499GM (IST - XXX) 01/01/2012 03:30 01/01/2012 11:32 Passenger (b)(6)&(b)(7)(C) F *GAN499GM (IST - XXX) 04/04/2012 04:30 04/04/2012 10:49 Passenger (b)(6)&(b)(7)(C) F *GAN499GM (IST - XXX) 01/01/2012 03:30 01/01/2012 11:32 Crew (b)(6)&(b)(7)(C) M *GAN499GM (IST - XXX) 01/01/2012 15:00 01/01/2012 14:45 Crew (Coodjet) (b)(6)&(b)(7)(C) M *GAN499GM (XXX - IST) 06/13/2011 14:00 06/13/2011 08:54 Crew (b)(6)&(b)(7)(C) M *GAN499GM (MIA - XXX) 06/14/2011 14:00 06/14/2011 16:59 Crew (b)(6)&(b)(7)(C) M *GAN499GM (XXX - FXX) 04/27/2012 15:30 04/27/2012 15:58 Crew (Coodjet) (b)(6)&(b)(7)(C) M *GAN499GM (IST - XXX) 04/06/2012 20:30 04/06/2012 23:12 Crew (Coodjet) (b)(6)&(b)(7)(C) M *GAN499GM (XXX - IST) 03/30/2012 09:00 03/30/2012 04:46 Crew (Coodjet) (b)(6)&(b)(7)(C) M *GAN499GM (FXX - XXX) 03/29/2012 08:30 03/29/2012 09:08 Crew (Coodjet) (b)(6)&(b)(7)(C) M *GAN499GM (XXX - FXX) 02/15/2012 12:45 02/15/2012 14:21 Crew (Coodjet) (b)(6)&(b)(7)(C) M *GAN499GM (IST - XXX) 02/13/2012 08:30 02/13/2012 17:22 Crew (Coodjet) (b)(6)&(b)(7)(C) M *GAN499GM (IST - XXX) 01/01/2012 03:30 01/01/2012 11:32 Crew (Coodjet) (b)(6)&(b)(7)(C) M *GAN499GM (XXX - IST) 06/13/2011 14:00 06/13/2011 08:54 Crew (Coodjet) (b)(6)&(b)(7)(C) M *GAN499GM (MIA - XXX) 06/14/2011 14:00 06/14/2011 16:59 Crew (Coodjet) Page 1 of 1 9/4/2020 DOJ-OGR-00027411",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Managed Query",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "APIS - All Passengers Results",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Page 1 of 1",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "9/4/2020 DOJ-OGR-00027411",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Edward EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "IST",
+      "FXX",
+      "MIA",
+      "XXX"
+    ],
+    "dates": [
+      "01/20/1953",
+      "04/27/2012",
+      "04/06/2012",
+      "03/30/2012",
+      "03/29/2012",
+      "02/15/2012",
+      "02/13/2012",
+      "04/04/2012",
+      "01/01/2012",
+      "06/13/2011",
+      "06/14/2011",
+      "9/4/2020"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00027411",
+      "123456789/FTHCL"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted table of flight information for various individuals, including Jeffrey Epstein. The redactions are extensive, with many names and some dates obscured."
+}

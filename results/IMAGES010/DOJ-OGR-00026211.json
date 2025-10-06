@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "DOJ-OGR-00026211",
+    "date": "07/28/2019",
+    "document_type": "Inmate Medical Record",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2551 Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Encounter Date: 07/28/2019 06:51 Sex: M Race: WHITE Reg #: 76318-054 Provider: [b)(6); (b)(7)(C) RN Facility: NYM Unit: H01 Date Initiated Format Handout/Topic Provider Outcome Copay Required:No Cosign Required: Yes Telephone/Verbal Order: No Completed by [b)(6); (b)(7)(C) RN on 07/28/2019 07:22 Requested to be cosigned by [b)(6); (b)(7)(C) MD. Cosign documentation will be displayed on the following page. Generated 07/28/2019 07:22 by [b)(6); (b)(7)(C) RN Bureau of Prisons - NYM Page 3 of 3 DOJ-OGR-00026211",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 2551",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Encounter Date: 07/28/2019 06:51 Sex: M Race: WHITE Reg #: 76318-054 Provider: [b)(6); (b)(7)(C) RN Facility: NYM Unit: H01",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Date Initiated Format Handout/Topic Provider Outcome",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Copay Required:No Cosign Required: Yes Telephone/Verbal Order: No Completed by [b)(6); (b)(7)(C) RN on 07/28/2019 07:22 Requested to be cosigned by [b)(6); (b)(7)(C) MD. Cosign documentation will be displayed on the following page.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/28/2019 07:22 by [b)(6); (b)(7)(C) RN Bureau of Prisons - NYM Page 3 of 3 DOJ-OGR-00026211",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/28/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026211"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as [b)(6); (b)(7)(C)]."
+}

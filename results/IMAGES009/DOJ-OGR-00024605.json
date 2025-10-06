@@ -1,0 +1,50 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024605",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Name Dept FF Contriband Other (b)(6) (b)(7)(C) (b)(6) (b)(7)(C) 7-13-14 Estin 76318-054 N/A Ma (b)(6) (b)(7)(C) July 30 2014 Epstein 76318-054 NA (b)(6) (b)(7)(C) DOJ-OGR-00024605",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "Date Name Dept FF Contriband Other",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "7-13-14 Estin 76318-054 N/A Ma",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "July 30 2014 Epstein 76318-054 NA",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024605",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Estin",
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7-13-14",
+      "July 30 2014"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024605"
+    ]
+  },
+  "additional_notes": "The document contains handwritten text and redactions. The content is mostly obscured by green blocks, suggesting sensitive information has been redacted."
+}

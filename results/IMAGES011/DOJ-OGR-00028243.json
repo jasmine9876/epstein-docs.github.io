@@ -1,0 +1,97 @@
+{
+  "document_metadata": {
+    "page_number": "0049",
+    "document_number": "DOJ-OGR-00028243",
+    "date": "04282014",
+    "document_type": "TECSII - PRIMARY QUERY HISTORY",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 TECSII - PRIMARY QUERY HISTORY 04282014 *A *B *C PASSENGER ACTIVITY PAGE NO. 0049 NAME DOB QUERY DATE TIME AGN RSLT LNE TYP REF LANE TERM/ API DIM EPSTEIN, JEFFREY EDWARD 012053 060911 1251 CUS *D API INS :%24 C N A103-NEWARK, INTL AIRPORT T DOC: 469911707 US P INSP: *E EPSTEIN, JEFFREY EDWARD 012053 050711 0000 *F API 01 R N PARIS, ORLY DOC: 469911707 US P INSP: APIS QRY EPSTEIN, JEFFREY EDWARD 012053 052011 0910 CUS *G AIR CUS JK06 N N A511-CBP-CYRIL E KING, INTL DOC: 469911707 US P INSP: *H EPSTEIN, JEFFREY EDWARD 012053 052811 0000 *I API 01 R N PARIS, ORLY DOC: 469911707 US P INSP: APIS QRY EPSTEIN, JEFFREY EDWARD 012053 041111 1328 CUS *J API INS :%19 C N A103-NEWARK, INTL AIRPORT T DOC: 469911707 US P INSP: *K EPSTEIN, JEFFREY EDWARD 012053 020911 2316 CUS *L AIR INS :W01 N N A461-TETERBORO, AIRPORT HANG DOC: 469911707 US P INSP: *M (b)(7)(E) <...MORE...> (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(6), (b)(7)(C) *F - (b)(7)(E) *G - (b)(7)(E) *H - (b)(6), (b)(7)(C) *I - (b)(7)(E) *J - (b)(7)(E) *K - (b)(6), (b)(7)(C) *L - (b)(7)(E) *M - (b)(6), (b)(7)(C) DOJ-OGR-00028243",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07 TECSII - PRIMARY QUERY HISTORY 04282014 *A *B *C PASSENGER ACTIVITY PAGE NO. 0049",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB QUERY DATE TIME AGN RSLT LNE TYP REF LANE TERM/ API DIM",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY EDWARD 012053 060911 1251 CUS *D API INS :%24 C N A103-NEWARK, INTL AIRPORT T DOC: 469911707 US P INSP: *E",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY EDWARD 012053 050711 0000 *F API 01 R N PARIS, ORLY DOC: 469911707 US P INSP: APIS QRY",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY EDWARD 012053 052011 0910 CUS *G AIR CUS JK06 N N A511-CBP-CYRIL E KING, INTL DOC: 469911707 US P INSP: *H",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY EDWARD 012053 052811 0000 *I API 01 R N PARIS, ORLY DOC: 469911707 US P INSP: APIS QRY",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY EDWARD 012053 041111 1328 CUS *J API INS :%19 C N A103-NEWARK, INTL AIRPORT T DOC: 469911707 US P INSP: *K",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY EDWARD 012053 020911 2316 CUS *L AIR INS :W01 N N A461-TETERBORO, AIRPORT HANG DOC: 469911707 US P INSP: *M",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E) <...MORE...> (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(6), (b)(7)(C) *F - (b)(7)(E) *G - (b)(7)(E) *H - (b)(6), (b)(7)(C) *I - (b)(7)(E) *J - (b)(7)(E) *K - (b)(6), (b)(7)(C) *L - (b)(7)(E) *M - (b)(6), (b)(7)(C)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028243",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "CBP"
+    ],
+    "locations": [
+      "NEWARK",
+      "PARIS",
+      "ORLY",
+      "CYRIL E KING",
+      "TETERBORO"
+    ],
+    "dates": [
+      "04282014",
+      "060911",
+      "050711",
+      "052011",
+      "052811",
+      "041111",
+      "020911"
+    ],
+    "reference_numbers": [
+      "469911707",
+      "DOJ-OGR-00028243"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted version of a TECSII Primary Query History report, with multiple instances of (b)(7)(E) and (b)(6), (b)(7)(C) redactions."
+}

@@ -1,0 +1,81 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024275",
+    "date": null,
+    "document_type": "Inmate Visit Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE NAME SIGNATURE INMATE Reg# Time IN Time OUT 8/7/19 (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) 76318-054 8:45am 9:00 8/8 (b)(6), (b)(7)(C) J. Epstein J. Epstein J. Epstein 76318-054 76318-054 76318-054 8:40 8:40 8:40 10:50 11:34 10:30",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE NAME SIGNATURE INMATE Reg# Time IN Time OUT",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/7/19",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8:45am",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "9:00",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/8",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "J. Epstein J. Epstein J. Epstein",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318-054 76318-054 76318-054",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8:40 8:40 8:40",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "10:50 11:34 10:30",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024275",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "J. Epstein",
+      "J. Epstein",
+      "J. Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "8/7/19",
+      "8/8"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024275"
+    ]
+  },
+  "additional_notes": "The document appears to be an inmate visit log with some redacted information. The handwriting is mostly legible, but some parts are obscured by green blocks."
+}

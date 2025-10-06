@@ -1,0 +1,79 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00027094",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "7/24 J. Eakin 76318-054 8:25 PM b6(b)(7)(C) b6(b)(7)(C) 7/24 b6(b)(7)(C) 7/24 Epstein 76318-054 10:40 b6(b)(7)(C) 74' Epstein 76318-054 10:40 1159 Epstein 76318-054 11:57 12:20",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "7/24",
+      "position": "left"
+    },
+    {
+      "type": "handwritten",
+      "content": "J. Eakin 76318-054 8:25 PM",
+      "position": "left"
+    },
+    {
+      "type": "handwritten",
+      "content": "b6(b)(7)(C)",
+      "position": "left"
+    },
+    {
+      "type": "handwritten",
+      "content": "b6(b)(7)(C)",
+      "position": "left"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/24",
+      "position": "left"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein 76318-054 10:40",
+      "position": "left"
+    },
+    {
+      "type": "handwritten",
+      "content": "b6(b)(7)(C)",
+      "position": "left"
+    },
+    {
+      "type": "handwritten",
+      "content": "74'",
+      "position": "left"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein 76318-054 10:40 1159",
+      "position": "left"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein 76318-054 11:57 12:20",
+      "position": "left"
+    }
+  ],
+  "entities": {
+    "people": [
+      "J. Eakin",
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/24"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00027094"
+    ]
+  },
+  "additional_notes": "The document appears to be a heavily redacted table with handwritten notes. The redactions are marked as 'b6(b)(7)(C)'. The visible text includes names, phone numbers, and timestamps."
+}

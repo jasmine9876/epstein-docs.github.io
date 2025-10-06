@@ -1,0 +1,89 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": "02/16/2010",
+    "document_type": "I095 Inspection Results",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:08:00 I095 Inspection Results 042814 *A *B A512 CBP-ST THOMAS, *C FLT/VES#: 999 N909J SAGGAS INTERNATIONAL DOCTYP*: P #: 207320604 CTY*: US UNITED STATES ST: M/F: DNAME (LAST) : EPSTEIN FRST: JEFFREY DOB: 012053 RFRD BY: (b) (6) (b) (7) (C)-CBP OFFCR-C DTE: 02162010 TME: 1529 REASON: (b)(7)(E) CCD:*D SNAME (LAST) : FRST: NO FIN NUMBER NATIONALITY: US UNITED STATES DOB: DISP: USC U.S. CITIZEN RCPT#: AUDATE: CHARGE (CODED) : DFRD TO: FIN#: SEC OFCR: *E -CBP OFFCR-C 02/16/2010 15:49 IOEM#: REFR CDE: COMMENTS: VIOLS: (b)(7)(E) ST THOMAS USVI FOR 24HRS OR LESS. SUBJECT WAS IN THE HIS TRAVEL SCBP(b)(6)&(b)(7)(C) NOTIFIED. WHTI CMPLNT? ADDL COMMTS: (b) (7) (E) *F (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) *G *H Key: *A - (b) (7) (E) *B - (b) (6) , (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) *E - (b) (6) (b) (7) (C) *F - (b) (7) (E) *G - (b) (7) (E) *H - (b) (7) (E) DOJ-OGR-00028657",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:08:00 I095 Inspection Results 042814",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "*B A512 CBP-ST THOMAS, *C FLT/VES#: 999 N909J SAGGAS INTERNATIONAL DOCTYP*: P #: 207320604 CTY*: US UNITED STATES ST: M/F:",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "DNAME (LAST) : EPSTEIN FRST: JEFFREY DOB: 012053 RFRD BY: (b) (6) (b) (7) (C)-CBP OFFCR-C DTE: 02162010 TME: 1529 REASON: (b)(7)(E) CCD:*D",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "SNAME (LAST) : FRST: NO FIN NUMBER NATIONALITY: US UNITED STATES DOB: DISP: USC U.S. CITIZEN RCPT#: AUDATE:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CHARGE (CODED) : DFRD TO: FIN#: SEC OFCR: *E -CBP OFFCR-C 02/16/2010 15:49 IOEM#: REFR CDE: COMMENTS: VIOLS: (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "ST THOMAS USVI FOR 24HRS OR LESS. SUBJECT WAS IN THE HIS TRAVEL SCBP(b)(6)&(b)(7)(C) NOTIFIED.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "WHTI CMPLNT? ADDL COMMTS: (b) (7) (E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "*F (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) *G *H",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b) (7) (E) *B - (b) (6) , (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) *E - (b) (6) (b) (7) (C) *F - (b) (7) (E) *G - (b) (7) (E) *H - (b) (7) (E)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028657",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "CBP",
+      "SCBP"
+    ],
+    "locations": [
+      "US",
+      "UNITED STATES",
+      "ST THOMAS",
+      "USVI"
+    ],
+    "dates": [
+      "02/16/2010",
+      "012053",
+      "02162010"
+    ],
+    "reference_numbers": [
+      "207320604",
+      "999 N909J",
+      "DOJ-OGR-00028657"
+    ]
+  },
+  "additional_notes": "The document contains multiple redactions, indicated by (b)(6), (b)(7)(C), and (b)(7)(E)."
+}

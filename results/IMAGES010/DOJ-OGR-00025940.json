@@ -1,0 +1,50 @@
+{
+  "document_metadata": {
+    "page_number": "2100",
+    "document_number": "DOJ-OGR-00025940",
+    "date": "7/9/19",
+    "document_type": "Log or observation record",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "9:30 Ilan Epstein is talking about celebs he knows\n9:45 Lt (b)(6); (b)(7)(C)\nIlan Epstein is asking for his meds\n10:00 Ilan Epstein just received his meds\n10:15 Ilan Epstein is asking about kitchen food\n10:30 Ilan Epstein is going to sleep\n10:45 Ilan Epstein sleeping soundly\n11:00 Ilan Epstein out for the night. Chaplain said good night\n11:07 The Mersey ELD SHIFT\n11:12 Inmate assumes responsibility for the psych observation of Inmate EPSTEIN #76318-054 in cell #4 on 7/9/19 at 11:12pm\n11:15 AM Inmate EPSTEIN is sleeping\n11:30 AM Inmate EPSTEIN is awake pacing\n11:45 AM Inmate EPSTEIN is using bathroom\n12:00 AM Inmate EPSTEIN is pacing\n12:03 Staff sounds\n12:15 AM Inmate EPSTEIN is pacing\n12:30 AM Inmate EPSTEIN is pacing\n12:45 AM Inmate EPSTEIN is pacing",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "9:30 Ilan Epstein is talking about celebs he knows\n9:45 Lt (b)(6); (b)(7)(C)\nIlan Epstein is asking for his meds\n10:00 Ilan Epstein just received his meds\n10:15 Ilan Epstein is asking about kitchen food\n10:30 Ilan Epstein is going to sleep\n10:45 Ilan Epstein sleeping soundly\n11:00 Ilan Epstein out for the night. Chaplain said good night\n11:07 The Mersey ELD SHIFT\n11:12 Inmate assumes responsibility for the psych observation of Inmate EPSTEIN #76318-054 in cell #4 on 7/9/19 at 11:12pm\n11:15 AM Inmate EPSTEIN is sleeping\n11:30 AM Inmate EPSTEIN is awake pacing\n11:45 AM Inmate EPSTEIN is using bathroom\n12:00 AM Inmate EPSTEIN is pacing\n12:03 Staff sounds\n12:15 AM Inmate EPSTEIN is pacing\n12:30 AM Inmate EPSTEIN is pacing\n12:45 AM Inmate EPSTEIN is pacing",
+      "position": "main content"
+    },
+    {
+      "type": "other",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "margin"
+    },
+    {
+      "type": "other",
+      "content": "Page 2100",
+      "position": "header"
+    },
+    {
+      "type": "other",
+      "content": "DOJ-OGR-00025940",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ilan Epstein",
+      "Chaplain",
+      "The Mersey"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/9/19"
+    ],
+    "reference_numbers": [
+      "#76318-054",
+      "#4"
+    ]
+  },
+  "additional_notes": "The document appears to be a log or observation record of Inmate Ilan Epstein's activities and status. The handwriting is mostly legible, but some parts are difficult to read due to the image quality. There are redactions marked as '(b)(6); (b)(7)(C)' in several places."
+}

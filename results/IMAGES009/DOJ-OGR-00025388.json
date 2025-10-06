@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "1183",
+    "document_number": null,
+    "date": null,
+    "document_type": "Medical Record",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 1183\nName: Epstein, Jeffrey Reg. #: 76318-054 DOB: 01/20/1953\nAdmitting diagnosis:(continue)\nPast diagnosis: (Continue)\nPDF Prescribed by P6013 DOJ-OGR-00025388",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 1183",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Name: Epstein, Jeffrey Reg. #: 76318-054 DOB: 01/20/1953",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Admitting diagnosis:(continue)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Past diagnosis: (Continue)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PDF Prescribed by P6013 DOJ-OGR-00025388",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "01/20/1953"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "P6013",
+      "DOJ-OGR-00025388"
+    ]
+  },
+  "additional_notes": "The document appears to be a medical record page for Jeffrey Epstein, with sections for admitting and past diagnoses. The page is mostly blank, suggesting that it was not fully completed."
+}

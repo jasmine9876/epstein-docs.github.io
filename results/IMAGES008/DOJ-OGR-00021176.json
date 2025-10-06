@@ -1,0 +1,53 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "77",
+    "date": "06/29/2023",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 22-1426, Document 77, 06/29/2023, 3536038, Page4 of 258 SA-2 Case 1:20-cr-00330-AJN Document 204-3 Filed 04/16/21 Page 2 of 348 DOJ-OGR-00021176",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 22-1426, Document 77, 06/29/2023, 3536038, Page4 of 258",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "SA-2",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-AJN Document 204-3 Filed 04/16/21 Page 2 of 348",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00021176",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "06/29/2023",
+      "04/16/21"
+    ],
+    "reference_numbers": [
+      "22-1426",
+      "1:20-cr-00330-AJN",
+      "77",
+      "204-3",
+      "3536038",
+      "DOJ-OGR-00021176"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with multiple case numbers and document identifiers. The page is mostly blank with header and footer text."
+}

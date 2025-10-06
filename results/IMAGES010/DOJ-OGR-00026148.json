@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "2472",
+    "document_number": "DOJ-OGR-00026148",
+    "date": "08/10/2019",
+    "document_type": "Inmate Record",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2472 Begin Date: 07/07/2019 End Date: 08/10/2019 Reg #: 76318-054 Inmate Name: EPSTEIN, JEFFREY EDWARD Date Time Inches Cm Provider 07/09/2019 12:49 NYM 70.0 177.8 [b(6); (b)(7)(C)] MLP Orig Entered: 07/09/2019 12:51 EST [b(6); (b)(7)(C)] MLP Weight: Date Time Lbs Kg Waist Circum. Provider 07/30/2019 09:30 NYM 194.2 88.1 [b(6); (b)(7)(C)] MD 07/09/2019 12:49 NYM 194.4 88.2 [b(6); (b)(7)(C)] MLP Orig Entered: 07/09/2019 12:51 EST [b(6); (b)(7)(C)] MLP Generated 08/10/2019 11:02 by [b(6); (b)(7)(C)] Bureau of Prisons - NYM Page 3 of 3",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 2472",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Begin Date: 07/07/2019 End Date: 08/10/2019 Reg #: 76318-054 Inmate Name: EPSTEIN, JEFFREY EDWARD",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Date Time Inches Cm Provider 07/09/2019 12:49 NYM 70.0 177.8 [b(6); (b)(7)(C)] MLP Orig Entered: 07/09/2019 12:51 EST [b(6); (b)(7)(C)] MLP",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Weight: Date Time Lbs Kg Waist Circum. Provider 07/30/2019 09:30 NYM 194.2 88.1 [b(6); (b)(7)(C)] MD 07/09/2019 12:49 NYM 194.4 88.2 [b(6); (b)(7)(C)] MLP Orig Entered: 07/09/2019 12:51 EST [b(6); (b)(7)(C)] MLP",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 08/10/2019 11:02 by [b(6); (b)(7)(C)] Bureau of Prisons - NYM Page 3 of 3",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "07/07/2019",
+      "08/10/2019",
+      "07/09/2019",
+      "07/30/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026148"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as [b(6); (b)(7)(C)]."
+}

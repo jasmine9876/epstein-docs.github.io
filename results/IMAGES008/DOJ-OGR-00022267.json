@@ -1,0 +1,93 @@
+{
+  "document_metadata": {
+    "page_number": "95",
+    "document_number": "DOJ-OGR-00022267",
+    "date": "2002",
+    "document_type": "Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... 2002 Jul 13 B-727-311 N908JG LFMN GMTJ 120 3E,GM,SK,AP,CINDY LOPEZ 2 1 2002 Jul 13 \" \" GMTT GMMG 121 JG,GM,SK,CL,AP 7 2002 Jul 13 \" \" GMMG LPAZ 122 JG,SK,AP,CL, PRESIDENT CLINTON DOCTR ANA, MIKE & SECRET SERVICE 2 4 2002 Jul 13 \" \" LPAZ JFK 123 JG,SK,AP,CL, PRESIDENT CLINTON, DOCTR ANA, MIKE & SECRET SERVICE 5 8 2002 Jul 18 \" \" JFK PBI 124 JG, SHELLEY LEWIS, 2 FEMALES 2 2 2002 Jul 19 \" \" PBI JAX 125 KRISTY RODGERS, GREG HOLUBERT, ALYSSA HOLUBERT - C CHECK 1 0 2002 Aug 4 G-1159B N909JG PBI MVY 1583 JG, 1 FEMALE 2 0 2002 Aug 4 \" \" MVY BED 1584 JG, 1 FEMALE 7 2002 Aug 4 \" \" BED TEB 1585 JG, 1 FEMALE 9 2002 Aug 5 \" \" TEB SAF 1586 JG,SK, 2 FEMALES 1/1 39 2002 Aug 6 C-172XP N739SP ACG ACG 112 CHECK OUT 3/3 2002 Aug 6 206-13 N4197W LARKO ACG 2002 Aug 15 B-727-311 N908JG JAX JAX 126 C-CHECK FLIGHT TEST 1/1 2002 Aug 16 \" \" JAX PBI 127 RETURN FROM C CHECK 11 2002 Aug 17 G-1159-B N909JG SAF TEB 1589 JG,GM,SK,CINDY LOPEZ, VARECIA ROBERTS, RAMON GONZALEZ, RUBEN MARTINEZ, MIKE SEMONS 3 1 2002 Aug 18 \" \" TEB PBI 1590 JG, VARECIA ROBERTS, 1 FEMALE 2 4 2002 Aug 21 B-727-311 N908JG PBI TEST 128 JG, 5 HELLEY LEWIS 2 3 2002 Aug 25 \" \" PISS JFK 129 JG,SK 1/1 3 6 2002 Aug 28 \" \" JFK LFPB 130 JG,SK,CINDY LOPEZ, 1 FEMALE 6 4 I certify that the statements made by me on this form are true. Pilot's Signature DAVID RODRIGUEZ Page Total 6 1 44 0 Amount Forward 6547 6194 8740 1 33 112 6 Total to Date 6553 6208 8784 1 33 113 1",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "2002 Jul 13 B-727-311 N908JG LFMN GMTJ 120 3E,GM,SK,AP,CINDY LOPEZ 2 1",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "DAVID RODRIGUEZ",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "CINDY LOPEZ",
+      "KRISTY RODGERS",
+      "GREG HOLUBERT",
+      "ALYSSA HOLUBERT",
+      "SHELLEY LEWIS",
+      "VARECIA ROBERTS",
+      "RAMON GONZALEZ",
+      "RUBEN MARTINEZ",
+      "MIKE SEMONS",
+      "DAVID RODRIGUEZ",
+      "HELLEY LEWIS"
+    ],
+    "organizations": [
+      "SECRET SERVICE"
+    ],
+    "locations": [
+      "LFMN",
+      "GMTJ",
+      "GMTT",
+      "GMMG",
+      "LPAZ",
+      "JFK",
+      "PBI",
+      "JAX",
+      "MVY",
+      "BED",
+      "TEB",
+      "SAF",
+      "ACG",
+      "LARKO",
+      "PISS",
+      "LFPB"
+    ],
+    "dates": [
+      "2002 Jul 13",
+      "2002 Jul 18",
+      "2002 Jul 19",
+      "2002 Aug 4",
+      "2002 Aug 5",
+      "2002 Aug 6",
+      "2002 Aug 15",
+      "2002 Aug 16",
+      "2002 Aug 17",
+      "2002 Aug 18",
+      "2002 Aug 21",
+      "2002 Aug 25",
+      "2002 Aug 28"
+    ],
+    "reference_numbers": [
+      "N908JG",
+      "N909JG",
+      "N739SP",
+      "N4197W",
+      "1583",
+      "1584",
+      "1585",
+      "1586",
+      "1589",
+      "1590",
+      "DOJ-OGR-00022267"
+    ]
+  },
+  "additional_notes": "The document is a flight log with handwritten entries. It contains information about flights, including dates, aircraft details, departure and arrival points, miles flown, flight numbers, remarks, and the number of landings. The log is signed by the pilot, DAVID RODRIGUEZ."
+}

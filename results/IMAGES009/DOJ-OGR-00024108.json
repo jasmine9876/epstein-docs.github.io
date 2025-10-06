@@ -1,0 +1,53 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "DOJ-OGR-00024108",
+    "date": "07/28/2019",
+    "document_type": "Medical Record",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Encounter Date: 07/28/2019 06:51 Sex: M Race: WHITE Reg #: 76318-054 Provider: [redacted] RN Facility: NYM Unit: H01 Date Initiated Format Handout/Topic Provider Outcome Copay Required:No Cosign Required: Yes Telephone/Verbal Order: No Completed by [redacted] RN on 07/28/2019 07:22 Requested to be cosigned by [redacted] MD. Cosign documentation will be displayed on the following page. Generated 07/28/2019 07:22 by [redacted] RN Bureau of Prisons - NYM Page 3 of 3 DOJ-OGR-00024108",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Encounter Date: 07/28/2019 06:51 Sex: M Race: WHITE Reg #: 76318-054 Provider: [redacted] RN Facility: NYM Unit: H01",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Date Initiated Format Handout/Topic Provider Outcome",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Copay Required:No Cosign Required: Yes Telephone/Verbal Order: No Completed by [redacted] RN on 07/28/2019 07:22 Requested to be cosigned by [redacted] MD. Cosign documentation will be displayed on the following page.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/28/2019 07:22 by [redacted] RN Bureau of Prisons - NYM Page 3 of 3 DOJ-OGR-00024108",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/28/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024108"
+    ]
+  },
+  "additional_notes": "The document contains redactions, likely for privacy or security reasons."
+}

@@ -1,0 +1,51 @@
+{
+  "document_metadata": {
+    "page_number": "1322",
+    "document_number": "DOJ-OGR-00025505",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 1322\nThanks! (b)(6); (b)(7)(C)\n(b)(6); (b)(7)(C) Psy.D.\nChief Psychologist\nU.S. Department of Justice/Federal Bureau of Prisons\nMetropolitan Correctional Center\n150 Park Row\nNew York, New York 10007\nOffice: (646) 836-(b)(6); (b)(7)(C)\nFax: (646) 836-7712\nE-mail: (b)(6); (b)(7)(C)@bop.gov\nPage 4981\nDOJ-OGR-00025505",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 1322",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Thanks!",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6); (b)(7)(C)\n(b)(6); (b)(7)(C) Psy.D.\nChief Psychologist\nU.S. Department of Justice/Federal Bureau of Prisons\nMetropolitan Correctional Center\n150 Park Row\nNew York, New York 10007\nOffice: (646) 836-(b)(6); (b)(7)(C)\nFax: (646) 836-7712\nE-mail: (b)(6); (b)(7)(C)@bop.gov",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 4981\nDOJ-OGR-00025505",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "U.S. Department of Justice",
+      "Federal Bureau of Prisons",
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00025505",
+      "(646) 836-(b)(6); (b)(7)(C)",
+      "(646) 836-7712"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6); (b)(7)(C), indicating potentially sensitive information has been removed."
+}

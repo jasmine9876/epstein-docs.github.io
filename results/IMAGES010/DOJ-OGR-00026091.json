@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "2415",
+    "document_number": "76318-054",
+    "date": "07/30/2019",
+    "document_type": "Medical Examination Report",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "Page 2415 Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Sex: M Race: WHITE Reg #: 76318-054 Encounter Date: 07/30/2019 11:12 Provider: [redacted] MD Facility: NYM Unit: Z01 Date Time Lbs Kg Waist Circum. Provider 07/30/2019 09:30 NYM 194.2 88.1 [redacted] MD EXAM: General Affect Yes: Cooperative Appearance Yes: Appears Well, Alert and Oriented x 3 No: Appears Distressed, Dyspneic, Appears in Pain, Writhing in Pain, Pale, Pallor, Cyanotic, Diaphoretic, Disheveled, Unkempt Acutely Ill Nutrition No: Appears Obese Pulmonary Auscultation Yes: Clear to Auscultation Cardiovascular Auscultation Yes: Regular Rate and Rhythm (RRR), Normal S1 and S2 No: M/R/G Musculoskeletal Tibia / Fibula No: Edema Neurologic Cranial Nerves (CN) Yes: Within Normal Limits Motor System-General Yes: Normal Exam Motor System-Strength Yes: Normal Muscular Strength ASSESSMENT: Body mass index (BMI) 27.0-27.9, adult, Z6827 - Current Constipation, unspecified, K5900 - Current Essential (primary) hypertension, I10 - Current - BY HX. Hyperlipidemia, unspecified, E785 - Current Low back pain, M545 - Current Neuralgia and neuritis, unspecified, M792 - Current Prediabetes, R7303 - Current Sleep apnea, G4730 - Current PLAN: New Medication Orders: Rx# Medication Order Date Prescriber Order Generated 07/30/2019 14:05 by [redacted] MD Bureau of Prisons - NYM Page 2 of 3 DOJ-OGR-00026091",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Sex: M Race: WHITE Reg #: 76318-054 Encounter Date: 07/30/2019 11:12 Provider: [redacted] MD Facility: NYM Unit: Z01",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Date Time Lbs Kg Waist Circum. Provider 07/30/2019 09:30 NYM 194.2 88.1 [redacted] MD",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "EXAM: General Affect Yes: Cooperative Appearance Yes: Appears Well, Alert and Oriented x 3 No: Appears Distressed, Dyspneic, Appears in Pain, Writhing in Pain, Pale, Pallor, Cyanotic, Diaphoretic, Disheveled, Unkempt Acutely Ill Nutrition No: Appears Obese Pulmonary Auscultation Yes: Clear to Auscultation Cardiovascular Auscultation Yes: Regular Rate and Rhythm (RRR), Normal S1 and S2 No: M/R/G Musculoskeletal Tibia / Fibula No: Edema Neurologic Cranial Nerves (CN) Yes: Within Normal Limits Motor System-General Yes: Normal Exam Motor System-Strength Yes: Normal Muscular Strength",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "ASSESSMENT: Body mass index (BMI) 27.0-27.9, adult, Z6827 - Current Constipation, unspecified, K5900 - Current Essential (primary) hypertension, I10 - Current - BY HX. Hyperlipidemia, unspecified, E785 - Current Low back pain, M545 - Current Neuralgia and neuritis, unspecified, M792 - Current Prediabetes, R7303 - Current Sleep apnea, G4730 - Current",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PLAN: New Medication Orders: Rx# Medication Order Date Prescriber Order",
+      "position": "bottom"
+    },
+    {
+      "type": "stamp",
+      "content": "See Amendment",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/30/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026091"
+    ]
+  },
+  "additional_notes": "The document is a medical examination report for Jeffrey Epstein, containing his personal and medical information. The report includes sections for examination, assessment, and plan. Some information is redacted."
+}

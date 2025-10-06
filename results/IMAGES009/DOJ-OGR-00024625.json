@@ -1,0 +1,51 @@
+{
+  "document_metadata": {
+    "page_number": "C06",
+    "document_number": "NYMBE 530*07",
+    "date": "07-28-2019",
+    "document_type": "ROSTER",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "NYMBE 530*07 * PAGE C06 ROSTER * 07-28-2019 05:17:01 GRP. SPECIFIC.. REG..... LN.................. FN....... ARSD....... ARS..... H01A H01-001L 76318-054 EPSTEIN JEFFREY 07-08-2019 A-PRE DOJ-OGR-00024625",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "NYMBE 530*07 * PAGE C06 ROSTER * 07-28-2019 05:17:01",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "GRP. SPECIFIC.. REG..... LN.................. FN....... ARSD....... ARS.....",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "H01A H01-001L 76318-054 EPSTEIN JEFFREY 07-08-2019 A-PRE",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024625",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "07-28-2019",
+      "07-08-2019"
+    ],
+    "reference_numbers": [
+      "NYMBE 530*07",
+      "H01A H01-001L",
+      "76318-054",
+      "DOJ-OGR-00024625"
+    ]
+  },
+  "additional_notes": "The document appears to be a roster with a large green block covering most of the content. The visible text suggests it is related to Jeffrey Epstein."
+}

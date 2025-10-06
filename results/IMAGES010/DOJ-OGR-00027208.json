@@ -1,0 +1,99 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "BP-S288.052",
+    "date": "MAY 94",
+    "document_type": "Investigation Form",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "Part III - Investigation\n22. Date And Time Investigation Began\n23. Inmate Advised Of Right To Remain Silent: You are advised of your right to remain silent at all stages of the discipline process. Your silence may be used to draw an adverse inference against you at any stage of the discipline process. Your silence alone may not be used to support a finding that you have committed a prohibited act.\nThe Inmate Was Advised Of The Above Right By _______________________ At (Date/time) _______________________\n24. Inmate statement and attitude\n____________________________________________________________________\n____________________________________________________________________\n____________________________________________________________________\n____________________________________________________________________\n____________________________________________________________________\n____________________________________________________________________\n____________________________________________________________________\n25. Other facts about the incident, statements of those persons present at scene, disposition of evidence, etc.\n____________________________________________________________________\n____________________________________________________________________\n____________________________________________________________________\n____________________________________________________________________\n____________________________________________________________________\n____________________________________________________________________\n____________________________________________________________________\n____________________________________________________________________\n26. Investigator's comments and conclusions\n____________________________________________________________________\n____________________________________________________________________\n____________________________________________________________________\n____________________________________________________________________\n____________________________________________________________________\n____________________________________________________________________\n____________________________________________________________________\n____________________________________________________________________\n27. Action taken\n____________________________________________________________________\n____________________________________________________________________\n____________________________________________________________________\n____________________________________________________________________\nDate and Time Investigation Completed _______________________\nPrinted Name/Signature Of Investigator _______________________ Title _______________________\nPrescribed by P5270 Replaces BP-S288.052 Of MAY 94\nPDF DOJ-OGR-00027208",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Part III - Investigation",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "22. Date And Time Investigation Began",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "23. Inmate Advised Of Right To Remain Silent: You are advised of your right to remain silent at all stages of the discipline process. Your silence may be used to draw an adverse inference against you at any stage of the discipline process. Your silence alone may not be used to support a finding that you have committed a prohibited act.",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "The Inmate Was Advised Of The Above Right By _______________________ At (Date/time) _______________________",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "24. Inmate statement and attitude",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "25. Other facts about the incident, statements of those persons present at scene, disposition of evidence, etc.",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "26. Investigator's comments and conclusions",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "27. Action taken",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Date and Time Investigation Completed _______________________",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Printed Name/Signature Of Investigator _______________________ Title _______________________",
+      "position": "footer"
+    },
+    {
+      "type": "stamp",
+      "content": "COPY",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "b(6) b(7)(C)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Prescribed by P5270 Replaces BP-S288.052 Of MAY 94",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "PDF DOJ-OGR-00027208",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "MAY 94"
+    ],
+    "reference_numbers": [
+      "BP-S288.052",
+      "P5270",
+      "DOJ-OGR-00027208"
+    ]
+  },
+  "additional_notes": "The document is a partially filled investigation form with a 'COPY' stamp and some redactions."
+}

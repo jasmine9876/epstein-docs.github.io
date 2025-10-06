@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "TEC S II - PERSON SUBJECT DISPLAY",
+    "date": "042814",
+    "document_type": "Person Subject Display",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:08 TEC S II - PERSON SUBJECT DISPLAY (1 OF 4) 042814 *B TEC S RECORD ID (b) (7) (E) ENTRY *D UPDATE *E NAME- LAST EPSTEIN PHYSICAL IDENTIFIERS FIRST JEFFREY MID ALIAS NICKNAME HISPANIC RACE SEX M HAIR EYES IMAGE HT WT ENGLISH S/M/T MORE CTZN US MORE PERSONAL- DOB 01201953 POB- CNTRY ST CITY SSN 090334483 MORE AFN MORE RES PPN 013705700 TYPE P CNTRY US ISSDT EXPDT 07061998 ADDRESS- DATE 020492 STREET 265 E. 66TH ST. APT 45F CITY NEW YORK STATE NY CNTRY US ZIP 10021 TYPE MORE CONTACT- (b) (6), (b) (7) (C), (b) (7) (E) OWNER PHONE *G PRIMARY (b) (7) (E) CASE NBR STATUS (b) (7) (E) START (b) (3), (b) (7) (E) STOP QRY NTFY *I REMARKS- DATE 020492 MORE PAX ON PVT A/C OPERATED BY THE LIMITED, INC PRIVATE AIRCRAFT ENFORCEMENT SYSTEM NO SUB-RECORDS (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) *E - (b) (7) (E) *F - (b) (7) (E) *G - (b) (6), (b) (7) (C) *H - (b) (6), (b) (7) (C), (b) (7) (E) *I - (b) (7) (E) DOJ-OGR-00028872",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "TEC S II - PERSON SUBJECT DISPLAY (1 OF 4)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME- LAST EPSTEIN FIRST JEFFREY",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PAX ON PVT A/C OPERATED BY THE LIMITED, INC PRIVATE AIRCRAFT ENFORCEMENT SYSTEM",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key:",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "THE LIMITED, INC"
+    ],
+    "locations": [
+      "NEW YORK"
+    ],
+    "dates": [
+      "01201953",
+      "020492",
+      "07061998"
+    ],
+    "reference_numbers": [
+      "TEC S RECORD ID",
+      "SSN 090334483",
+      "PPN 013705700",
+      "CASE NBR"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked with (b) (6), (b) (7) (C), and (b) (7) (E)."
+}

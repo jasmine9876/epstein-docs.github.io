@@ -1,0 +1,42 @@
+{
+  "document_metadata": {
+    "page_number": "2443",
+    "document_number": "DOJ-OGR-00026119",
+    "date": null,
+    "document_type": "Mail Attachment",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2443\nMail Attachment\nEpstein BEMR pt 3.pdf\nPage 14891\nDOJ-OGR-00026119",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 2443",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Mail Attachment\nEpstein BEMR pt 3.pdf",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 14891\nDOJ-OGR-00026119",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00026119"
+    ]
+  },
+  "additional_notes": "The document appears to be a page from a larger document or report, with a header and footer indicating page numbers and a document ID. The content is mostly blank, with a title indicating it is a mail attachment related to Epstein BEMR part 3."
+}

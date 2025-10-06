@@ -1,0 +1,53 @@
+{
+  "document_metadata": {
+    "page_number": "908",
+    "document_number": "DOJ-OGR-00025185",
+    "date": null,
+    "document_type": "Mail Attachment",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 908 Mail Attachment Epstein.76318-054.ReconstructionReport.draft3.docx Page 1932 DOJ-OGR-00025185",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 908",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Mail Attachment",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Epstein.76318-054.ReconstructionReport.draft3.docx",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Page 1932",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025185",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00025185"
+    ]
+  },
+  "additional_notes": "The document appears to be a page from a larger report or document, with a header indicating it is a mail attachment and a footer with a page number and document ID."
+}

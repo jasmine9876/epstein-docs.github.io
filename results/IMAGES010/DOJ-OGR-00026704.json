@@ -1,0 +1,55 @@
+{
+  "document_metadata": {
+    "page_number": "3064",
+    "document_number": "BP-A0971",
+    "date": "AUG 11",
+    "document_type": "CHAIN OF CUSTODY LOG CDFRM",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 3064 BP-A0971 AUG 11 CHAIN OF CUSTODY LOG CDFRM U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS ECN # (Enclose with/attach to evidence) ITEM # CASE ID NUMBER: SUSPECT (If known) DESCRIPTION OF ITEM: (1) Green law enforcement BOP staff logbook (2) Green spiral visiting logbook DATE/TIME ITEM FOUND: LOCATION: SIGNATURE OF PERSON RECOVERING EVIDENCE: PRINTED NAME: EVIDENCE PLACED IN OVERNIGHT DROP BOX: DROP-BOX BY: (printed name) Date & Time: Witness: (printed name) EVIDENCE RECOVERED FROM OVERNIGHT DROP BOX BY: (printed name) Date & Time: Witness: (printed name) EVIDENCE PLACED EVIDENCE SAFE BY: (printed name) Date & Time: Witness: (printed name) DISPOSITION: ( ) Hold as evidence ( ) Return to owner ( ) Lab Analysis ( ) Return to finder ( ) Other ( ) Destroy immediately ( ) FBI REMARKS (condition of evidence): ***************************************************** CHAIN OF CUSTODY ***************************************************** EVIDENCE RELEASED BY: DATE/TIME: DESTINATION: EVIDENCE RELEASED TO: SIS 1 (b)(6); (b)(7)(C) 8/21/19 7:56a DOJ-OTG (b)(6); (b)(7)(C) PDF Prescribed by PS510 DOJ-OGR-00026704",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "CHAIN OF CUSTODY LOG CDFRM",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "(1) Green law enforcement BOP staff logbook (2) Green spiral visiting logbook",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "SIS 1 (b)(6); (b)(7)(C) 8/21/19 7:56a DOJ-OTG (b)(6); (b)(7)(C)",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "U.S. DEPARTMENT OF JUSTICE",
+      "FEDERAL BUREAU OF PRISONS",
+      "FBI",
+      "SIS"
+    ],
+    "locations": [
+      "DOJ-OTG"
+    ],
+    "dates": [
+      "AUG 11",
+      "8/21/19"
+    ],
+    "reference_numbers": [
+      "BP-A0971",
+      "PS510",
+      "DOJ-OGR-00026704"
+    ]
+  },
+  "additional_notes": "The document contains handwritten text and redactions."
+}

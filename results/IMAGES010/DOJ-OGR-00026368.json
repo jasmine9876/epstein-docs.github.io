@@ -1,0 +1,52 @@
+{
+  "document_metadata": {
+    "page_number": "2712",
+    "document_number": "DOJ-OGR-00026368",
+    "date": "8/10/19",
+    "document_type": "Official Count Slip",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2712 Metropolitan Correctional Center Official Count Slip Unit: CAb Date: 8/10/19 Count: [b(6); b(7)(C)] Time: 5pm Print Name: Signature: Print Name: Signature: Metropolitan Correctional Center Official Count Slip Unit: HOSP Date: 8/10/19 Count: [b(6); b(7)(C)] Time: 5:00am Print Name: Signature: Print Name: Signature: DOJ-OGR-00026368",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "CAb 8/10/19 5pm HOSP 8/10/19 5:00am",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Unit: Date: Count: Time: Print Name: Signature: Print Name: Signature:",
+      "position": "middle"
+    },
+    {
+      "type": "other",
+      "content": "[b(7)(F)] [b(6); b(7)(C)]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026368",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [],
+    "dates": [
+      "8/10/19"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026368"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as [b(7)(F)] and [b(6); b(7)(C)]. The image quality is clear, with legible handwritten and printed text."
+}

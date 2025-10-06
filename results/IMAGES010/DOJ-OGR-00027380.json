@@ -1,0 +1,43 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00027380",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "AFTER HOURS. (b)(7)(A) (b)(6); (b)(7)(C) DOJ-OGR-00027380",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "AFTER HOURS.",
+      "position": "top"
+    },
+    {
+      "type": "other",
+      "content": "(b)(7)(A)",
+      "position": "top"
+    },
+    {
+      "type": "other",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027380",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00027380"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(7)(A) and (b)(6); (b)(7)(C). The document number is DOJ-OGR-00027380."
+}

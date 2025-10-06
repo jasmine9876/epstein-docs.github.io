@@ -1,0 +1,84 @@
+{
+  "document_metadata": {
+    "page_number": "3063",
+    "document_number": "BP-A0971",
+    "date": "AUG 11",
+    "document_type": "CHAIN OF CUSTODY LOG",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 3063\nBP-A0971\nAUG 11\nCHAIN OF CUSTODY LOG CDFRM\nU.S. DEPARTMENT OF JUSTICE\nFEDERAL BUREAU OF PRISONS\nECN # Nym-19-0182\nITEM # Nym-19-00202 (Enclose with/attach to evidence)\nCASE ID NUMBER:\nSUSPECT (If known)\nDESCRIPTION OF ITEM: (1) Computer FPS# 0214 107384\nDATE/TIME ITEM FOUND: 8/16/19 @ 12:00PM\nLOCATION: 10 South Housing Unit\nSIGNATURE OF PERSON RECOVERING EVIDENCE: (b)(6); (b)(7)(C)\nPRINTED NAME (b)(6); (b)(7)(C)\nEVIDENCE PLACED IN OVERNIGHT DROP BOX:\nDROP-BOX BY: (printed name)\nDate & Time:\nWitness: (printed name)\nEVIDENCE RECOVERED FROM OVERNIGHT DROP BOX BY:\n(printed name)\nDate & Time:\nWitness: (printed name)\nEVIDENCE PLACED EVIDENCE SAFE BY:\n(printed name)\nDate & Time:\nWitness: (printed name)\nDISPOSITION:\n( ) Hold as evidence ( ) Return to owner ( ) Lab Analysis\n( ) Return to finder ( ) Destroy immediately ( ) FBI\n( ) Other\nREMARKS (condition of evidence):\nCHAIN OF CUSTODY\nEVIDENCE RELEASED BY:\nDATE/TIME:\nDESTINATION:\nEVIDENCE RELEASED TO:\n(b)(6); (b)(7)(C)\n9/16/19@12:10N\nSIS office\n(b)(6); (b)(7)(C)\nSIS Lt (b)(6); (b)(7)(C)\n8/16/19@1:32pm\nOIG Other\n(b)(6); (b)(7)(C)\nPDF\nPrescribed by P5510\nDOJ-OGR-00026703",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3063\nBP-A0971\nAUG 11\nCHAIN OF CUSTODY LOG CDFRM\nU.S. DEPARTMENT OF JUSTICE\nFEDERAL BUREAU OF PRISONS",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "ECN # Nym-19-0182\nITEM # Nym-19-00202 (Enclose with/attach to evidence)\nCASE ID NUMBER:\nSUSPECT (If known)\nDESCRIPTION OF ITEM:\nDATE/TIME ITEM FOUND:\nLOCATION:\nSIGNATURE OF PERSON RECOVERING EVIDENCE:\nPRINTED NAME",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "(1) Computer FPS# 0214 107384\n8/16/19 @ 12:00PM\n10 South Housing Unit",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6); (b)(7)(C)\n(b)(6); (b)(7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "EVIDENCE PLACED IN OVERNIGHT DROP BOX:\nDROP-BOX BY: (printed name)\nDate & Time:\nWitness: (printed name)\nEVIDENCE RECOVERED FROM OVERNIGHT DROP BOX BY:\n(printed name)\nDate & Time:\nWitness: (printed name)\nEVIDENCE PLACED EVIDENCE SAFE BY:\n(printed name)\nDate & Time:\nWitness: (printed name)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DISPOSITION:\n( ) Hold as evidence ( ) Return to owner ( ) Lab Analysis\n( ) Return to finder ( ) Destroy immediately ( ) FBI\n( ) Other\nREMARKS (condition of evidence):",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CHAIN OF CUSTODY\nEVIDENCE RELEASED BY:\nDATE/TIME:\nDESTINATION:\nEVIDENCE RELEASED TO:",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6); (b)(7)(C)\n9/16/19@12:10N\nSIS office\n(b)(6); (b)(7)(C)\nSIS Lt (b)(6); (b)(7)(C)\n8/16/19@1:32pm\nOIG Other\n(b)(6); (b)(7)(C)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "PDF\nPrescribed by P5510\nDOJ-OGR-00026703",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "U.S. DEPARTMENT OF JUSTICE",
+      "FEDERAL BUREAU OF PRISONS",
+      "SIS office",
+      "OIG"
+    ],
+    "locations": [
+      "10 South Housing Unit"
+    ],
+    "dates": [
+      "AUG 11",
+      "8/16/19",
+      "9/16/19"
+    ],
+    "reference_numbers": [
+      "BP-A0971",
+      "Nym-19-0182",
+      "Nym-19-00202",
+      "FPS# 0214 107384",
+      "P5510",
+      "DOJ-OGR-00026703"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6); (b)(7)(C). The document is a Chain of Custody Log from the Federal Bureau of Prisons, detailing the handling of a computer as evidence."
+}

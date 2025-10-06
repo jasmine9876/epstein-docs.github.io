@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": "3/6/19",
+    "document_type": "Inmate Visit Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "NAME Signature Inmate Reg# Time IN Time OUT (b)(6), (b)(7)(C) Epstein 76318-054 2:45 2:55 (b)(6), (b)(7)(C) Epstein 76318-054 2:45 6:00 (b)(6), (b)(7)(C) Epstein 76318-054 2:45 (b)(6), (b)(7)(C) J. Epstein 76318-054 6:00pm 7:45 (b)(6), (b)(7)(C) Epstein 76318-054 8:30 12:30",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "NAME Signature Inmate Reg# Time IN Time OUT",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6), (b)(7)(C) Epstein 76318-054 2:45 2:55 (b)(6), (b)(7)(C) Epstein 76318-054 2:45 6:00 (b)(6), (b)(7)(C) Epstein 76318-054 2:45",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6), (b)(7)(C) J. Epstein 76318-054 6:00pm 7:45",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6), (b)(7)(C) Epstein 76318-054 8:30 12:30",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024269",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein",
+      "J. Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "3/6/19"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024269"
+    ]
+  },
+  "additional_notes": "The document appears to be an inmate visit log with redactions. The inmate's name is Epstein, and the registration number is 76318-054. The log records multiple visits on 3/6/19 with varying times in and out."
+}

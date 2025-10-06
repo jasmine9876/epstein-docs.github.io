@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": "001",
+    "document_number": "NYMBH 530*07",
+    "date": "08-01-2019",
+    "document_type": "Population Monitoring Census/Roster Generalized Retrieval",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "NYMBH 530*07 * POPULATION MONITORING CENSUS/ROSTER * 08-01-2019 PAGE 001 * GENERALIZED RETRIEVAL * 02:14:18 FUNCTION: R-P SELECTION CATEGORY: QTR EQ ALL ZERO/NBR: NO ORGANIZATION: FACL EQ NYM OPTION: TYPE OF FACILITY: TOF EQ T DUP SUPR: YES FACILITY MANAGED BY: FMB EQ AP COLLNNS 1: REG 2: LN 3: LN2 4: FN 5: ARSD 6: ARS 7: 8: JUDG: C SORT COL: COL SEQ: SEQ: 234 NP: CONDITIONS (GRP 1) OR CONDITIONS (GRP 2) OR CONDITIONS (GRP 3) OR CONDITIONS (GRP 4) CMCI NE G CMCI NE P (b)(6), (b)(7)(C) CONTROL Center 4499 DOJ-OGR-00024632",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "NYMBH 530*07 * POPULATION MONITORING CENSUS/ROSTER * 08-01-2019 PAGE 001 * GENERALIZED RETRIEVAL * 02:14:18",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "FUNCTION: R-P SELECTION CATEGORY: QTR EQ ALL ZERO/NBR: NO ORGANIZATION: FACL EQ NYM OPTION: TYPE OF FACILITY: TOF EQ T DUP SUPR: YES FACILITY MANAGED BY: FMB EQ AP COLLNNS 1: REG 2: LN 3: LN2 4: FN 5: ARSD 6: ARS 7: 8: JUDG: C SORT COL: COL SEQ: SEQ: 234 NP: CONDITIONS (GRP 1) OR CONDITIONS (GRP 2) OR CONDITIONS (GRP 3) OR CONDITIONS (GRP 4) CMCI NE G CMCI NE P",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "CONTROL Center",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "4499",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024632",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "CONTROL Center"
+    ],
+    "locations": [],
+    "dates": [
+      "08-01-2019"
+    ],
+    "reference_numbers": [
+      "NYMBH 530*07",
+      "DOJ-OGR-00024632"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b)(6), (b)(7)(C)'. There are handwritten notes and annotations on the page."
+}

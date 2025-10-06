@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": "17",
+    "document_number": "DOJ-OGR-00022302",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Cohen Peter Colle Jeffrey Cooke, Clive Cotterell, Harry Coleman, Jo Collins Phil & Oriane Conrad, Henrietta Cordle, Ms Rachel Courcel Martine De Coleridge, Nicholas & Georgia Constantine, Susannah Sten Ber Cordle, Rupert & Camilla Cowdray, Marina Cordova Hohenlohe, Fernando de Cowie, Colin",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Cohen Peter\nColle Jeffrey\nCooke, Clive\nCotterell, Harry\nColeman, Jo\nCollins Phil & Oriane\nConrad, Henrietta\nCordle, Ms Rachel\nCourcel Martine De\nColeridge, Nicholas & Georgia\nConstantine, Susannah Sten Ber\nCordle, Rupert & Camilla\nCowdray, Marina\nCordova Hohenlohe, Fernando de\nCowie, Colin",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "17",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022302",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Cohen Peter",
+      "Colle Jeffrey",
+      "Cooke Clive",
+      "Cotterell Harry",
+      "Coleman Jo",
+      "Collins Phil",
+      "Oriane Collins",
+      "Henrietta Conrad",
+      "Ms Rachel Cordle",
+      "Martine De Courcel",
+      "Nicholas Coleridge",
+      "Georgia Coleridge",
+      "Susannah Sten Ber Constantine",
+      "Rupert Cordle",
+      "Camilla Cordle",
+      "Marina Cowdray",
+      "Fernando de Cordova Hohenlohe",
+      "Colin Cowie"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022302"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 17, and the document number is DOJ-OGR-00022302."
+}

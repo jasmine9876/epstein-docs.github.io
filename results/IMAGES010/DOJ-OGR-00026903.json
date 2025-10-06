@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": "3314",
+    "document_number": "DOJ-OGR-00026903",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "On July 31, 2019, Mr. Epstein was seen for a psychology observation follow up. He stated he was doing as well as can be expected given his circumstances and reported he was going to court for a status hearing. He also reported he slept well. Mr. Epstein was seen for another suicide risk assessment on August 1, 2019, at approximately 1pm, as he returned from court with a note from the court indicating \"suicidal tendencies.\" Mr. Epstein denied he was suicidal. (b)(7)(A) He complained about the noise in SHU. Mr. Epstein's protective factors outweighed his risk factors and he was not placed on suicide watch. He denied suicidal ideation, reported fighting his case, stated he has emotional support, and stated suicide is against his religion.\n\nOn August 8, 2019, Mr. Epstein was seen for a follow up session. He stated he was feeling ok and his sleep was fair. He again requested to go to general population. He denied any mental health symptoms. He denied any suicide ideation, intention or plan. He had a cellmate. He spends his days with his attorney. It was noted he would continue to be seen for weekly rounds.",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "On July 31, 2019, Mr. Epstein was seen for a psychology observation follow up. He stated he was doing as well as can be expected given his circumstances and reported he was going to court for a status hearing. He also reported he slept well. Mr. Epstein was seen for another suicide risk assessment on August 1, 2019, at approximately 1pm, as he returned from court with a note from the court indicating \"suicidal tendencies.\" Mr. Epstein denied he was suicidal.",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(7)(A)",
+      "position": "inline"
+    },
+    {
+      "type": "printed",
+      "content": "He complained about the noise in SHU. Mr. Epstein's protective factors outweighed his risk factors and he was not placed on suicide watch. He denied suicidal ideation, reported fighting his case, stated he has emotional support, and stated suicide is against his religion.",
+      "position": "inline"
+    },
+    {
+      "type": "printed",
+      "content": "On August 8, 2019, Mr. Epstein was seen for a follow up session. He stated he was feeling ok and his sleep was fair. He again requested to go to general population. He denied any mental health symptoms. He denied any suicide ideation, intention or plan. He had a cellmate. He spends his days with his attorney. It was noted he would continue to be seen for weekly rounds.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026903",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Mr. Epstein"
+    ],
+    "organizations": [],
+    "locations": [
+      "SHU"
+    ],
+    "dates": [
+      "July 31, 2019",
+      "August 1, 2019",
+      "August 8, 2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026903",
+      "(b)(7)(A)"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted report regarding Mr. Epstein's mental health assessments while in custody. The text is mostly printed, with one instance of handwritten text that has been redacted."
+}

@@ -1,0 +1,46 @@
+{
+  "document_metadata": {
+    "page_number": "438",
+    "document_number": "DOJ-OGR-00024915",
+    "date": null,
+    "document_type": "Mail Attachment",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 438 Mail Attachment Governor's letter to FDLE.pdf Page 1218 DOJ-OGR-00024915",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 438",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Mail Attachment Governor's letter to FDLE.pdf",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Page 1218",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024915",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "FDLE",
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00024915"
+    ]
+  },
+  "additional_notes": "The document appears to be a placeholder or index page for a PDF attachment, likely part of a larger report or document collection."
+}

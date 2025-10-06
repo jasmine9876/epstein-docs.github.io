@@ -1,0 +1,59 @@
+{
+  "document_metadata": {
+    "page_number": "3039",
+    "document_number": "DOJ-OGR-00026679",
+    "date": "8-10-19",
+    "document_type": "Official Count Slip",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 3039 Metropolitan Correctional Center New York, New York Official Count Slip Unit: 2-3 Date: 8-10-19 Count: _________ Time: 9:00 pm 1. Print Name: _________ 1. Signature: _________ 2. Print Name: _________ 2. Signature: _________ Metropolitan Correctional Center Official Count Slip Unit: 2-5 Date: 8-10-19 Count: _________ Time: 10:00 pm Print Name: _________ Signature: _________ Print Name: _________ Signature: _________ DOJ-OGR-00026679",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center New York, New York Official Count Slip",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "2-3 8-10-19",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Unit: _________ Date: _________ Count: _________ Time: _________ 1. Print Name: _________ 1. Signature: _________ 2. Print Name: _________ 2. Signature: _________",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "2-5 8-10-19 10:00 pm",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip Unit: _________ Date: _________ Count: _________ Time: _________ Print Name: _________ Signature: _________ Print Name: _________ Signature: _________",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026679",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "8-10-19"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026679"
+    ]
+  },
+  "additional_notes": "The document contains redactions and handwritten information. The image quality is clear, but some text is obscured by redactions."
+}

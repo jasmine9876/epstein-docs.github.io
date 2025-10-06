@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "2875",
+    "document_number": "NYMBB 530*05",
+    "date": "08-12-2019",
+    "document_type": "INMATE ROSTER",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2875 NYMBB 530*05 * INMATE ROSTER * 08-12-2019 PAGE 001 OF 001 04:56:51 CATEGORY : OCT GROUP CODE: ASSIGNMENT: TNWDVR FACILITY: NYM OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK 0001 TNWDVR (b)(6); (b)(7)(C) 08-12-2019 E08-561L TWN DRIVER G0000 TRANSACTION SUCCESSFULLY COMPLETED DOJ-OGR-00026531",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "NYMBB 530*05 * INMATE ROSTER * 08-12-2019 PAGE 001 OF 001 04:56:51",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CATEGORY : OCT GROUP CODE: ASSIGNMENT: TNWDVR FACILITY: NYM",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "0001 TNWDVR (b)(6); (b)(7)(C) 08-12-2019 E08-561L TWN DRIVER",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "G0000 TRANSACTION SUCCESSFULLY COMPLETED",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026531",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "08-12-2019"
+    ],
+    "reference_numbers": [
+      "NYMBB 530*05",
+      "DOJ-OGR-00026531"
+    ]
+  },
+  "additional_notes": "The document appears to be a printed inmate roster with some redacted information."
+}

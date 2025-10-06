@@ -1,0 +1,59 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024070",
+    "date": null,
+    "document_type": "Inmate Visit Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE NAME Signature Inmate Doc # Time IN Time OUT 7-12 LICHTMAN Epstein 76318-054 1031 1230 7/12 11 Stella Harrigan MTF Epstein 76318-054 76318-054 1035 1:00 1:04 1 The 7/03 1000 Michael Weiner Epstein 76318-054 225 610 22-6 610",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE NAME Signature Inmate Doc # Time IN Time OUT",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "7-12 LICHTMAN Epstein 76318-054 1031 1230",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/12 11 Stella Harrigan MTF Epstein 76318-054 76318-054 1035 1:00 1:04 1",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "The 7/03 1000 Michael Weiner Epstein 76318-054 225 610 22-6 610",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024070",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "LICHTMAN",
+      "Stella Harrigan",
+      "Michael Weiner"
+    ],
+    "organizations": [
+      "MTF"
+    ],
+    "locations": [],
+    "dates": [
+      "7-12",
+      "7/12",
+      "7/03"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024070"
+    ]
+  },
+  "additional_notes": "The document appears to be an inmate visit log with handwritten entries. Some information is redacted."
+}

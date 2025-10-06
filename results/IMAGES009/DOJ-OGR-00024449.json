@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": "001",
+    "document_number": "606.00",
+    "date": "04-29-2020",
+    "document_type": "MALE CUSTODY CLASSIFICATION FORM",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "PPG6 NCRBM 606.00 * MALE CUSTODY CLASSIFICATION FORM * 04-29-2020 PAGE 001 OF 001 09:25:54 (A) IDENTIFYING DATA REG NO.: 76318-054 FORM DATE: NAME.....: EPSTEIN, JEFFREY EDWARD ORG: PUB SFTY: MGTV: CR HX PT: MVED: (B) BASE SCORING DETAINER: SEVERITY........: MOS REL.: CRIM HIST SCORE: ESCAPES.: VIOLENCE........: VOL SURR: AGE CATEGORY...: EDUC LEV: DRUG/ALC ABUSE.: (C) CUSTODY SCORING TIME SERVED......: PROG PARTICIPAT: LIVING SKILLS....: TYPE DISCIP RPT: FREQ DISCIP RPT.: FAMILY/COMMUN...: --- LEVEL AND CUSTODY SUMMARY --- BASE CUST VARIANCE SEC TOTAL SCORED LEV MGMT SEC LEVEL CUSTODY CONSIDER P5154 CUSTODY CLASSIFICATION RECORD DOES NOT EXIST FOR THIS INMT https://bop.foj.doj.gov:9049/SENTRY/J1PPG60.doc[4/29/2020 9:26:06 AM] DOJ-OGR-00024449",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PPG6 NCRBM 606.00 * MALE CUSTODY CLASSIFICATION FORM * 04-29-2020 PAGE 001 OF 001 09:25:54",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "(A) IDENTIFYING DATA REG NO.: 76318-054 FORM DATE: NAME.....: EPSTEIN, JEFFREY EDWARD ORG: PUB SFTY: MGTV: CR HX PT: MVED:",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "(B) BASE SCORING DETAINER: SEVERITY........: MOS REL.: CRIM HIST SCORE: ESCAPES.: VIOLENCE........: VOL SURR: AGE CATEGORY...: EDUC LEV: DRUG/ALC ABUSE.:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(C) CUSTODY SCORING TIME SERVED......: PROG PARTICIPAT: LIVING SKILLS....: TYPE DISCIP RPT: FREQ DISCIP RPT.: FAMILY/COMMUN...: --- LEVEL AND CUSTODY SUMMARY --- BASE CUST VARIANCE SEC TOTAL SCORED LEV MGMT SEC LEVEL CUSTODY CONSIDER",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "P5154 CUSTODY CLASSIFICATION RECORD DOES NOT EXIST FOR THIS INMT",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "https://bop.foj.doj.gov:9049/SENTRY/J1PPG60.doc[4/29/2020 9:26:06 AM] DOJ-OGR-00024449",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "04-29-2020"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "606.00",
+      "P5154",
+      "DOJ-OGR-00024449"
+    ]
+  },
+  "additional_notes": "The document appears to be a custody classification form for Jeffrey Edward Epstein, with various sections for identifying data, base scoring, and custody scoring. The form indicates that a custody classification record does not exist for this inmate."
+}

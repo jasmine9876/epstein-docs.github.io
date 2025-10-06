@@ -1,0 +1,41 @@
+{
+  "document_metadata": {
+    "page_number": "2123",
+    "document_number": "76318-054",
+    "date": "07/28/19",
+    "document_type": "Log Entry",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Epstein # 76318-054 on legal visit 1:45pm Inmate Epstein is on legal visit 1:50pm Inmate Epstein is on legal visit 1:55pm Inmate Epstein is on legal visit 2:30pm Inmate Epstein is on legal visit ERROR E END OF SHIFT 2:45 PM INMATE COMPANION ASSUMES RESPONSIBILITY FOR INMATE EPSTEIN 76318-054 ON PSYCH WATCH IN CELL #4 07/28/19 2:45 PM INMATE EPSTEIN IS OUT ON LEGAL VISIT 3:00 PM INMATE EPSTEIN IS OUT ON LEGAL VISIT 3:15 PM INMATE EPSTEIN IS OUT ON LEGAL VISIT 3:30 PM INMATE EPSTEIN IS OUT ON LEGAL VISIT 3:45 PM INMATE EPSTEIN IS OUT ON LEGAL VISIT 4:00 PM INMATE EPSTEIN IS OUT ON LEGAL VISIT 4:15 PM INMATE EPSTEIN IS OUT ON LEGAL VISIT 4:30 PM INMATE EPSTEIN IS OUT ON LEGAL VISIT 4:45 PM INMATE EPSTEIN IS OUT ON LEGAL VISIT 5:00 PM INMATE EPSTEIN IS OUT ON LEGAL VISIT 5:15 PM INMATE EPSTEIN IS OUT ON LEGAL VISIT",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "Epstein # 76318-054 on legal visit 1:45pm Inmate Epstein is on legal visit 1:50pm Inmate Epstein is on legal visit 1:55pm Inmate Epstein is on legal visit 2:30pm Inmate Epstein is on legal visit ERROR E",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "END OF SHIFT 2:45 PM INMATE COMPANION ASSUMES RESPONSIBILITY FOR INMATE EPSTEIN 76318-054 ON PSYCH WATCH IN CELL #4 07/28/19 2:45 PM INMATE EPSTEIN IS OUT ON LEGAL VISIT 3:00 PM INMATE EPSTEIN IS OUT ON LEGAL VISIT 3:15 PM INMATE EPSTEIN IS OUT ON LEGAL VISIT 3:30 PM INMATE EPSTEIN IS OUT ON LEGAL VISIT 3:45 PM INMATE EPSTEIN IS OUT ON LEGAL VISIT 4:00 PM INMATE EPSTEIN IS OUT ON LEGAL VISIT 4:15 PM INMATE EPSTEIN IS OUT ON LEGAL VISIT 4:30 PM INMATE EPSTEIN IS OUT ON LEGAL VISIT 4:45 PM INMATE EPSTEIN IS OUT ON LEGAL VISIT 5:00 PM INMATE EPSTEIN IS OUT ON LEGAL VISIT 5:15 PM INMATE EPSTEIN IS OUT ON LEGAL VISIT",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein",
+      "Inmate Epstein"
+    ],
+    "organizations": [],
+    "locations": [
+      "Cell #4"
+    ],
+    "dates": [
+      "07/28/19"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00025963"
+    ]
+  },
+  "additional_notes": "The document appears to be a log entry for Inmate Epstein, detailing his activities and status throughout the day. The log includes handwritten and printed sections, with some redactions."
+}

@@ -1,0 +1,81 @@
+{
+  "document_metadata": {
+    "page_number": "944",
+    "document_number": "DOJ-OGR-00025209",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 944 >>> [b(6); [b(7)(C) >>> [redacted email address] >>> Hi, [b(7)(A) We are seeking any information and comment you can offer on this subject. My number is 202 617 [b(6); [b](7)(C) Thanks, [b(6); [b](7)(C) Washington Post Page 2104 DOJ-OGR-00025209",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 944",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": ">>> [b(6); [b(7)(C) >>> [redacted email address] >>>",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Hi,",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "[b(7)(A)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "We are seeking any information and comment you can offer on this subject. My number is 202 617",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "[b(6); [b](7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Thanks,",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "[b(6); [b](7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Washington Post",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 2104",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025209",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Washington Post"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "202 617",
+      "DOJ-OGR-00025209"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as [b(6); [b](7)(C) and [b(7)(A). The email address is redacted."
+}

@@ -1,0 +1,48 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": "01NOV10",
+    "document_type": "Flight Information",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "SEAT: 004 01NOV10 1 D3 #3 RECLOC EC H1C5QK 13NOV10 NM: [redacted] NM: EPSTEIN,JEFFREY FL: 19 EC 001 16NOV10 ORY EWR 10:45 13:10 FL: 20 EC 001 16NOV10 ORY EWR 10:45 13:10 PHONE: 1 PHONE: 1 EMAIL: [redacted] PHONE: [redacted] PASSENGER: [redacted] ADDRESS: ,,, SEATING FLT DATE BOARDING PASS SEAT NUMBER SEAT: 001 16NOV10 50 C1 SEAT: 001 16NOV10 50 C1 PASSENGER: EPSTEIN,JEFFREY ADDRESS: ,,, SEATING FLT DATE BOARDING PASS SEAT NUMBER SEAT: 001 16NOV10 51 A1 SEAT: 001 16NOV10 51 A1 DOJ-OGR-00027519",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "SEAT: 004 01NOV10 1 D3",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "#3 RECLOC EC H1C5QK 13NOV10 NM: [redacted] NM: EPSTEIN,JEFFREY FL: 19 EC 001 16NOV10 ORY EWR 10:45 13:10 FL: 20 EC 001 16NOV10 ORY EWR 10:45 13:10 PHONE: 1 PHONE: 1 EMAIL: [redacted] PHONE: [redacted] PASSENGER: [redacted] ADDRESS: ,,, SEATING FLT DATE BOARDING PASS SEAT NUMBER SEAT: 001 16NOV10 50 C1 SEAT: 001 16NOV10 50 C1 PASSENGER: EPSTEIN,JEFFREY ADDRESS: ,,, SEATING FLT DATE BOARDING PASS SEAT NUMBER SEAT: 001 16NOV10 51 A1 SEAT: 001 16NOV10 51 A1",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027519",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "ORY",
+      "EWR"
+    ],
+    "dates": [
+      "01NOV10",
+      "13NOV10",
+      "16NOV10"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00027519",
+      "EC H1C5QK"
+    ]
+  },
+  "additional_notes": "The document contains redacted personal information and appears to be a flight itinerary or boarding pass information for Jeffrey Epstein."
+}

@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024253",
+    "date": "7/26/19",
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "(b)(6) (b)(7)(C) (b)(6) (b)(7)(C) 6sten 763Rdy 1830 100 7/26/19 (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) Epsten 763Rdy 1830 100 (b)(6) (b)(7)(C)",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "(b)(6) (b)(7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6) (b)(7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "6sten 763Rdy 1830 100",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/26/19",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epsten 763Rdy 1830 100 (b)(6) (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024253",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/26/19"
+    ],
+    "reference_numbers": [
+      "763Rdy 1830 100",
+      "DOJ-OGR-00024253"
+    ]
+  },
+  "additional_notes": "The document is heavily redacted, with most of the content obscured by green blocks. The visible text is primarily handwritten and appears to be a date and some numbers/identifiers."
+}

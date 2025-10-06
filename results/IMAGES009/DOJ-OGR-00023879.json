@@ -1,0 +1,106 @@
+{
+  "document_metadata": {
+    "page_number": "6",
+    "document_number": "DOJ-OGR-00023879",
+    "date": "2/01/08",
+    "document_type": "Questionnaire",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "8. Have you ever been charged with a criminal offense? If yes, please briefly summarize circumstances and legal disposition of the case.\nNo\n\n9. A Have you ever been denied permission to visit or correspond with an inmate by an institution within the Federal Bureau of Prisons (social or legal)?\nNo\nB. If so, state the institution(s), inmate(s) and date(s) of denial.\n\n10. Are you a citizen of the United States? A. Yes\nIf not, give the name of the country of which you are a citizen or subject: B.___________\nAlien Registration Number: C._____________\n11. Are you a relative of or have a social relationship with the inmate(s) you are seeking to visit with at the MDC/ MCC? If yes, explain relationship.\nNo\n\n12. Are you currently on, or seeking to be placed on the social visiting list of any inmate(s) housed at a federal institution?\nNo\n\nPage 6 of 10\nRevised 2/01/08\nDOJ-OGR-00023879",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "8. Have you ever been charged with a criminal offense? If yes, please briefly summarize circumstances and legal disposition of the case.",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "No",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "9. A Have you ever been denied permission to visit or correspond with an inmate by an institution within the Federal Bureau of Prisons (social or legal)?",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "No",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "B. If so, state the institution(s), inmate(s) and date(s) of denial.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "10. Are you a citizen of the United States? A.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Yes",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "If not, give the name of the country of which you are a citizen or subject: B.___________\nAlien Registration Number: C._____________",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "11. Are you a relative of or have a social relationship with the inmate(s) you are seeking to visit with at the MDC/ MCC? If yes, explain relationship.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "No",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "12. Are you currently on, or seeking to be placed on the social visiting list of any inmate(s) housed at a federal institution?",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "No",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 6 of 10",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Revised 2/01/08",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00023879",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [
+      "United States",
+      "MDC",
+      "MCC"
+    ],
+    "dates": [
+      "2/01/08"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00023879"
+    ]
+  },
+  "additional_notes": "The document is a questionnaire with handwritten answers. The questions are related to an individual's background and their relationship with inmates in federal institutions."
+}

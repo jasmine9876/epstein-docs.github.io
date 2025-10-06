@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "19",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Court Case Record",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Banner - [Custom Easy View Inquiry (CWIEZVU 5.3.0) (JISPROD)] Action Record Window Help Search by Case ID Name / Case ID Citation Name / Citation Booking Go Docket Parties Hearings/Events Sent/Assmnt Charge Status Arrest/Bonds Related Cases Palm No. Desc Case ID UCN Case Filed Court Type Speedy Trial Dates Case Type Demand Status Deadline ROSA, MARK A. 2008CF006047AXXX 502008CF008047AXXXMB 01-JUN-2008 CF FELONY Waived CF FELONY 22-NOV-2008 Event Description Date Start Time Location Room Status Coment AI ARRAIGNMENT ON INDICTMENT 25-JUL-2008 08:45:00 MAIN BRANCH 11F STCK STATUS CHECK 17-JUL-2008 08:30:00 MAIN BRANCH 11H EVCAN FAP FIRST APPEARANCE 30-JUN-2008 13:30:00 GUN CLUB BRANCH 1 EVCAN Date Filter Present/Future Past Past/Present/Future You are currently in CASE search mode... Exit Print Record: 1/3 07/26/17 Page 19 of 114 Public Records Request No.: 17-295 DOJ-OGR-00030372",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Banner - [Custom Easy View Inquiry (CWIEZVU 5.3.0) (JISPROD)]",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "ROSA, MARK A. 2008CF006047AXXX 502008CF008047AXXXMB 01-JUN-2008 CF FELONY Waived CF FELONY 22-NOV-2008",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Event Description Date Start Time Location Room Status Coment AI ARRAIGNMENT ON INDICTMENT 25-JUL-2008 08:45:00 MAIN BRANCH 11F STCK STATUS CHECK 17-JUL-2008 08:30:00 MAIN BRANCH 11H EVCAN FAP FIRST APPEARANCE 30-JUN-2008 13:30:00 GUN CLUB BRANCH 1 EVCAN",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "You are currently in CASE search mode...",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 19 of 114 Public Records Request No.: 17-295 DOJ-OGR-00030372",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "MARK A. ROSA"
+    ],
+    "organizations": [],
+    "locations": [
+      "MAIN BRANCH",
+      "GUN CLUB BRANCH"
+    ],
+    "dates": [
+      "01-JUN-2008",
+      "25-JUL-2008",
+      "17-JUL-2008",
+      "30-JUN-2008",
+      "22-NOV-2008",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "2008CF006047AXXX",
+      "502008CF008047AXXXMB",
+      "17-295",
+      "DOJ-OGR-00030372"
+    ]
+  },
+  "additional_notes": "The document appears to be a court case record screenshot from a database system. It contains details about a case involving MARK A. ROSA, including case ID, court type, and event history. The document is page 19 of 114 and is associated with a public records request number 17-295."
+}

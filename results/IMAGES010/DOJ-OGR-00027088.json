@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "(b)(6), (b)(7)(C) Epstein Epstein 26518-054 76518-054 10-21 2:33 1635 1:00 (b)(6), (b)(7)(C) 7b2 (b)(6), (b)(7)(C) Epstein 76318054 225 610 (b)(6), (b)(7)(C) DOJ-OGR-00027088",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "Epstein Epstein",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "26518-054 76518-054",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "10-21 2:33",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "1635 1:00",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318054",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "225 610",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027088",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "10-21"
+    ],
+    "reference_numbers": [
+      "26518-054",
+      "76518-054",
+      "76318054",
+      "DOJ-OGR-00027088"
+    ]
+  },
+  "additional_notes": "The document contains heavily redacted sections with (b)(6), (b)(7)(C) markings, indicating potential privacy or security redactions. The visible handwritten text appears to be names and numbers."
+}

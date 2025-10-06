@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": "6600",
+    "document_number": "DOJ-OGR-00023909",
+    "date": "2019/08/16",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Re: Matthews 91753-054\nFrom Lee Plourde\nTo [b)(6) (b)(7)(C)\nDate 2019/08/16 08:49\nSubject: Re: Matthews 91753-054\nAttachments: TEXT.htm\n\nYes I saw thanks..\n\n>>> [b)(6) (b)(7)(C) 8/16/2019 8:32 AM >>>\nhttp://www.nydailynews.com/new-york/ny-inmate-at-mcc-mistakenly-released-after-jeffrey-epstein-suicide-20190815-h2r76qnxnfcodp225goyte6y7a-story.html\n\nPage 6600\nDOJ-OGR-00023909",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Re: Matthews 91753-054\nFrom Lee Plourde\nTo [b)(6) (b)(7)(C)\nDate 2019/08/16 08:49\nSubject: Re: Matthews 91753-054\nAttachments: TEXT.htm",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Yes I saw thanks..",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": ">>> [b)(6) (b)(7)(C) 8/16/2019 8:32 AM >>>\nhttp://www.nydailynews.com/new-york/ny-inmate-at-mcc-mistakenly-released-after-jeffrey-epstein-suicide-20190815-h2r76qnxnfcodp225goyte6y7a-story.html",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 6600\nDOJ-OGR-00023909",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Lee Plourde",
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "NY Daily News",
+      "DOJ"
+    ],
+    "locations": [
+      "New York",
+      "MCC"
+    ],
+    "dates": [
+      "2019/08/16",
+      "8/16/2019",
+      "20190815"
+    ],
+    "reference_numbers": [
+      "91753-054",
+      "DOJ-OGR-00023909"
+    ]
+  },
+  "additional_notes": "The document appears to be an email with a redacted recipient. The content includes a link to a news article and a brief response from Lee Plourde."
+}

@@ -1,0 +1,68 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": "10/20/2011",
+    "document_type": "I095 Inspection Results",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:08:00 I095 Inspection Results 042814 *A *B A512 CBP-ST THOMAS, *C FLT/VES#: GA N909J P.T. GARUDA INDONESIA DOCTYP*: P #*: 469911707 CTRY*: US UNITED STATES ST: M/F: M DNAME (LAST) : EPSTEIN FRST: JEFFREY DOB: 012053 RFRD BY: *D -CBP OFFCR-C DTE: 10192011 TME: 1636 REASON: (b)(7)(E) CCD:*E SNAME (LAST) : FRST: NO FIN NUMBER NATIONALITY: US UNITED STATES DOB: DISP: USC U.S. CITIZEN RCPT#: CHARGE (CODED) : AUDATE: DFRD TO: FIN#: SEC OFCR: *F -CBP OFFCR-C 10/20/2011 15:06 IOEM#: REFR CDE: COMMENTS: VIOLS: (b)(7)(E) ALLOWED TO CONTINUE TRAVEL WITHOUT FURTHER INCIDENT. AT THIS TIME. SUBJ WHTI CMPLNT? ADDL COMMTS: (b)(7)(E) *G (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) *H *I Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(6) (b)(7)(C) *E - (b)(7)(E) *F - (b)(6) (b)(7)(C) *G - (b)(7)(E) *H - (b)(7)(E) *I - (b)(7)(E) DOJ-OGR-00028665",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:08:00 I095 Inspection Results 042814",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "*B A512 CBP-ST THOMAS, *C FLT/VES#: GA N909J P.T. GARUDA INDONESIA DOCTYP*: P #*: 469911707 CTRY*: US UNITED STATES ST: M/F: M DNAME (LAST) : EPSTEIN FRST: JEFFREY DOB: 012053 RFRD BY: *D -CBP OFFCR-C DTE: 10192011 TME: 1636 REASON: (b)(7)(E) CCD:*E",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SNAME (LAST) : FRST: NO FIN NUMBER NATIONALITY: US UNITED STATES DOB: DISP: USC U.S. CITIZEN RCPT#: CHARGE (CODED) : AUDATE: DFRD TO: FIN#: SEC OFCR: *F -CBP OFFCR-C 10/20/2011 15:06 IOEM#: REFR CDE: COMMENTS: VIOLS: (b)(7)(E) ALLOWED TO CONTINUE TRAVEL WITHOUT FURTHER INCIDENT. AT THIS TIME. SUBJ",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "WHTI CMPLNT? ADDL COMMTS: (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "*G (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) *H *I Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(6) (b)(7)(C) *E - (b)(7)(E) *F - (b)(6) (b)(7)(C) *G - (b)(7)(E) *H - (b)(7)(E) *I - (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028665",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN",
+      "THOMAS"
+    ],
+    "organizations": [
+      "P.T. GARUDA INDONESIA",
+      "CBP"
+    ],
+    "locations": [
+      "UNITED STATES",
+      "INDONESIA"
+    ],
+    "dates": [
+      "10/20/2011",
+      "01/20/1953"
+    ],
+    "reference_numbers": [
+      "A512",
+      "N909J",
+      "469911707",
+      "DOJ-OGR-00028665"
+    ]
+  },
+  "additional_notes": "The document contains multiple redactions marked as (b)(7)(E) and (b)(6), indicating sensitive information has been withheld."
+}

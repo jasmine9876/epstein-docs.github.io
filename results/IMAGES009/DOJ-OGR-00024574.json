@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": "538",
+    "document_number": "DOJ-OGR-00024574",
+    "date": "08/19/2019",
+    "document_type": "Log Entries By Event Date",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Date: 08/19/2019 Time: 10:15 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count 7/23/2019 4:54 PM NYM Housing Units Housing Units, General Population ES 7/23/2019 4:53 PM Evening Search (Areas) - Summary Text: Common Area: KITCHEN AREA, area searched conducted no contraband found in these areas. 7/23/2019 4:54 PM NYM Housing Units Housing Units, General Population ES 7/23/2019 4:53 PM Evening Search (Areas) - Summary Text: Common Area: LAUNDRY AREA, area searched conducted no contraband found in these areas. 7/23/2019 4:54 PM NYM Housing Units Housing Units, General Population KN 7/23/2019 4:54 PM Evening Rounds (Lieutenant) - Summary Text: Common Area: VISIT STRIP ROOM, area searched conducted no contraband found in these areas. 7/23/2019 4:54 PM NYM Housing Units Housing Units, General Population KS 7/23/2019 4:54 PM Evening Rounds (Lieutenant) - Summary Text: Completed - PREA. 7/23/2019 4:54 PM NYM Housing Units Housing Units, General Population KS 7/23/2019 4:54 PM Evening Rounds (Lieutenant) - Summary Text: Completed - PREA. 7/23/2019 4:56 PM NYM Housing Units Housing Units, General Population GN 7/23/2019 4:56 PM Evening Fire and Security Check - Summary Text: Completed. 7/23/2019 4:57 PM NYM Housing Units Housing Units, General Population GN 7/23/2019 4:56 PM Evening  - Summary Text: Radio Number 7/23/2019 4:57 PM NYM Housing Units Housing Units, General Population GN 7/23/2019 4:56 PM Evening Fire Alarm Panel Check - Summary Text: Completed. 7/23/2019 4:57 PM NYM Housing Units Housing Units, General Population GN 7/23/2019 4:56 PM Evening Inventory Sheet Verified - Summary Text: Completed. 7/23/2019 4:57 PM NYM Housing Units Housing Units, General Population GN 7/23/2019 4:56 PM Evening Key Check - Summary Text: Ring Number By Count 7/23/2019 4:57 PM NYM Housing Units Housing Units, General GN 7/23/2019 4:56 PM Evening Key Check User ID: Page 538 of 1155 DOJ-OGR-00024574",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date: 08/19/2019 Time: 10:15 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "7/23/2019 4:54 PM NYM Housing Units Housing Units, General Population ES 7/23/2019 4:53 PM Evening Search (Areas) - Summary Text: Common Area: KITCHEN AREA, area searched conducted no contraband found in these areas.",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "User ID:",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "",
+      "position": "body"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [
+      "KITCHEN AREA",
+      "LAUNDRY AREA",
+      "VISIT STRIP ROOM"
+    ],
+    "dates": [
+      "08/19/2019",
+      "7/23/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00024574"
+    ]
+  },
+  "additional_notes": "The document appears to be a log entry report from the Federal Bureau of Prisons, detailing various events and activities that occurred on July 23, 2019. The report includes information on searches, rounds, and other security-related activities. The document is labeled as 'Sensitive But Unclassified'."
+}

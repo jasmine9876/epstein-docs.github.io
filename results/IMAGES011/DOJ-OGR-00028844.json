@@ -1,0 +1,79 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "DOJ-OGR-00028844",
+    "date": "042814",
+    "document_type": "TECS II - PERSON SUBJECT DISPLAY",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:08 TECS II - PERSON SUBJECT DISPLAY (1 OF 4) 042814 *B TECS RECORD ID (b) (7) (E) NAME- LAST EPSTEIN FIRST JEFFREY IMAGE MID ALIAS NICKNAME HISPANIC STC RACE SEX HAIR EYES HT WT ENGLISH S/M/T MORE CTZN US MORE PERSONAL- DOB 01201953 POB- CNTRY ST CITY MORE AFN RES *F SSN MORE TYPE CNTRY ISSDT EXPDT PPN ADDRESS- DATE STREET CITY STATE CNTRY ZIP APT TYPE MORE CONTACT- (b) (6), (b) (7) (C), (b) (7) (E) PHONE *G OWNER *H PRIMARY (b) (7) (E) CASE NBR START STATUS (b) (7) (E) STOP (b) (3), (b) (7) (E) MORE QRY NTFY *I REMARKS- DATE 061492 MORE PRIVATE AIRCRAFT ENFORCEMENT SYSTEM SUB-REC 2. (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) *E - (b) (7) (E) *F - (b) (7) (E) *G - (b) (6), (b) (7) (C) *H - (b) (6), (b) (7) (C), (b) (7) (E) *I - (b) (7) (E) DOJ-OGR-00028844",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "TECS II - PERSON SUBJECT DISPLAY (1 OF 4) 042814",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "TECS RECORD ID (b) (7) (E) NAME- LAST EPSTEIN FIRST JEFFREY",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "PERSONAL- DOB 01201953 POB- CNTRY ST CITY MORE AFN RES *F SSN MORE TYPE CNTRY ISSDT EXPDT PPN",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "ADDRESS- DATE STREET CITY STATE CNTRY ZIP APT TYPE MORE",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CONTACT- (b) (6), (b) (7) (C), (b) (7) (E) PHONE *G OWNER *H PRIMARY (b) (7) (E) CASE NBR START STATUS (b) (7) (E) STOP (b) (3), (b) (7) (E) MORE QRY NTFY *I",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "REMARKS- DATE 061492 MORE PRIVATE AIRCRAFT ENFORCEMENT SYSTEM",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SUB-REC 2. (b) (7) (E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) *E - (b) (7) (E) *F - (b) (7) (E) *G - (b) (6), (b) (7) (C) *H - (b) (6), (b) (7) (C), (b) (7) (E) *I - (b) (7) (E)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028844",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "PRIVATE AIRCRAFT ENFORCEMENT SYSTEM"
+    ],
+    "locations": [],
+    "dates": [
+      "01201953",
+      "042814",
+      "061492"
+    ],
+    "reference_numbers": [
+      "(b) (7) (E)",
+      "(b) (6), (b) (7) (C)",
+      "(b) (3)",
+      "DOJ-OGR-00028844"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted TECS II record for Jeffrey Epstein, with various fields and information obscured or blacked out."
+}

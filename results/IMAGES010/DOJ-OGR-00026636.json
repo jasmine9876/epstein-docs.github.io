@@ -1,0 +1,72 @@
+{
+  "document_metadata": {
+    "page_number": "2980",
+    "document_number": "NYMAQ 530*05",
+    "date": "08-11-2019",
+    "document_type": "INMATE ROSTER",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2980 NYMAQ 530*05 * INMATE ROSTER 08-11-2019 15:34:27 PAGE 001 OF 001 CATEGORY: OCT GROUP CODE: ASSIGNMENT: ATTY FACILITY: NYM OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK 0001 ATTY [b)(6); (b)(7)(C) 08-11-2019 E05-539L SUICIDE OR UNASSG G0000 TRANSACTION SUCCESSFULLY COMPLETED DOJ-OGR-00026636",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 2980",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NYMAQ 530*05 * INMATE ROSTER 08-11-2019 15:34:27",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE 001 OF 001 CATEGORY: OCT GROUP CODE: ASSIGNMENT: ATTY FACILITY: NYM",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "0001 ATTY [b)(6); (b)(7)(C) 08-11-2019 E05-539L SUICIDE OR UNASSG",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "G0000 TRANSACTION SUCCESSFULLY COMPLETED",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026636",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "[b)(6); (b)(7)(C)"
+    ],
+    "organizations": [
+      "NYM",
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "08-11-2019"
+    ],
+    "reference_numbers": [
+      "NYMAQ 530*05",
+      "DOJ-OGR-00026636",
+      "E05-539L"
+    ]
+  },
+  "additional_notes": "The document appears to be a roster of inmates, with one entry redacted. The document is a printout from a computer system, as indicated by the 'TRANSACTION SUCCESSFULLY COMPLETED' message."
+}

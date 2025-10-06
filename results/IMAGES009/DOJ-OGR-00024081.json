@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Inmate Visit Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE NAME Signature Inmate Deg# Time In Time Out 8/2/19 M. Colon Epstein 76318-054 11:00 8/2/19 G. Tali Epstein 76318-054 2:00pm 6:35 8/2/19 G. Tali Epstein 8/3/19 W. Colon Epstein 763805 11:40 1:30",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE NAME Signature Inmate Deg# Time In Time Out",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/2/19 M. Colon Epstein 76318-054 11:00",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/2/19 G. Tali Epstein 76318-054 2:00pm 6:35",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/2/19 G. Tali Epstein",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/3/19 W. Colon Epstein 763805 11:40 1:30",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "M. Colon",
+      "G. Tali",
+      "W. Colon",
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "8/2/19",
+      "8/3/19"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "763805"
+    ]
+  },
+  "additional_notes": "The document appears to be a log of visits to an inmate, Jeffrey Epstein. Some information is redacted."
+}

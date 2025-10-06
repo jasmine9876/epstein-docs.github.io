@@ -1,0 +1,72 @@
+{
+  "document_metadata": {
+    "page_number": "2707",
+    "document_number": "DOJ-OGR-00026363",
+    "date": null,
+    "document_type": "Official Count Slip",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2707 Metropolitan Correctional Center Official Count Slip Unit: ZA Date: 8-10-2019 Count: (b)(7)(F) Time: 3AM Print Name: (b)(6); (b)(7)(C) Signature: Print Name: Signature: Metropolitan Correctional Center Official Count Slip Unit: Z-3 Date: 8-10-2019 Count: (b)(7)(F) (b)(6); (b)(7)(C) Time: 3AM Signature: Print Name: Signature: DOJ-OGR-00026363",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "ZA 8-10-2019 3AM",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Unit: Date: Time: Count: Print Name: Signature: Print Name: Signature:",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(7)(F) (b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Z-3 8-10-2019 3AM",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Unit: Date: Time: Count: Signature: Print Name: Signature:",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(7)(F) (b)(6); (b)(7)(C)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026363",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [],
+    "dates": [
+      "8-10-2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026363"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6); (b)(7)(C) and (b)(7)(F). The image quality is clear, and the text is legible."
+}

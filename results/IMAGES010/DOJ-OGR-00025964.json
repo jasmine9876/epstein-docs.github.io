@@ -1,0 +1,52 @@
+{
+  "document_metadata": {
+    "page_number": "2124",
+    "document_number": "DOJ-OGR-00025964",
+    "date": "07/28/19",
+    "document_type": "Inmate Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "EPSTEIN 76318-054 07/28/19\n5:30PM INMATE EPSTEIN IS OUT ON LEGAL VISIT\n540 Lt RDS\n5:45PM INMATE EPSTEIN IS OUT ON LEGAL VISIT\n6:00PM INMATE EPSTEIN IS OUT ON LEGAL VISIT\n6:15PM INMATE EPSTEIN IS OUT ON LEGAL VISIT\n6:30PM INMATE EPSTEIN IS OUT ON LEGAL VISIT\n6:45PM INMATE EPSTEIN IS OUT ON LEGAL VISIT\n7:00PM INMATE EPSTEIN IS OUT ON LEGAL VISIT END OF SHIFT\n7:00 I/C contacted to notify of wrong book\n7:00 responsibility for archiving Epstein's WRONG BOOK\n7:00 I/C assumes responsibility for Inmate Epstein-76318-054\n8:00 Inmate Epstein is back from his legal visit\n8:15 Inmate Epstein wants to know who has the book on 11 North\n8:30 Inmate Epstein is talking about investing\n8:45 Inmate Epstein and Jane talking about drawing a tarp in N-1 We both\n9:00 Inmate Epstein lying down",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "EPSTEIN 76318-054 07/28/19",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "5:30PM INMATE EPSTEIN IS OUT ON LEGAL VISIT\n540 Lt RDS\n5:45PM INMATE EPSTEIN IS OUT ON LEGAL VISIT\n6:00PM INMATE EPSTEIN IS OUT ON LEGAL VISIT\n6:15PM INMATE EPSTEIN IS OUT ON LEGAL VISIT\n6:30PM INMATE EPSTEIN IS OUT ON LEGAL VISIT\n6:45PM INMATE EPSTEIN IS OUT ON LEGAL VISIT\n7:00PM INMATE EPSTEIN IS OUT ON LEGAL VISIT END OF SHIFT",
+      "position": "main"
+    },
+    {
+      "type": "handwritten",
+      "content": "7:00 I/C contacted to notify of wrong book\n7:00 responsibility for archiving Epstein's WRONG BOOK\n7:00 I/C assumes responsibility for Inmate Epstein-76318-054",
+      "position": "main"
+    },
+    {
+      "type": "handwritten",
+      "content": "8:00 Inmate Epstein is back from his legal visit\n8:15 Inmate Epstein wants to know who has the book on 11 North\n8:30 Inmate Epstein is talking about investing\n8:45 Inmate Epstein and Jane talking about drawing a tarp in N-1 We both\n9:00 Inmate Epstein lying down",
+      "position": "main"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein",
+      "Jane",
+      "Lt RDS"
+    ],
+    "organizations": [],
+    "locations": [
+      "11 North",
+      "N-1"
+    ],
+    "dates": [
+      "07/28/19"
+    ],
+    "reference_numbers": [
+      "76318-054"
+    ]
+  },
+  "additional_notes": "The document appears to be a handwritten log of inmate Jeffrey Epstein's activities on July 28, 2019. The log includes details about his legal visits and interactions with other individuals. There are several redactions throughout the document, marked as '(b)(6); (b)(7)(C)'."
+}

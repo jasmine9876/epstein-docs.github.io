@@ -1,0 +1,111 @@
+{
+  "document_metadata": {
+    "page_number": "11",
+    "document_number": "638",
+    "date": "03/09/22",
+    "document_type": "Juror Questionnaire",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 22-1426, Document 58, 02/28/2023, 3475901, Page 99 of 221\nA-299\nCase 1:20-cr-00330-AJN Document 638 Filed 03/09/22 Page 11 of 29\nJuror ID: 50\n24. Have you, or has any relative or close friend, ever been the subject of any investigation or accusation by any grand jury, state or federal, or any other investigation?\nYes (self) Yes (friend or family member) X No\n24a. If yes, is there anything about that experience that would prevent you from acting as a fair and impartial juror in this case?\nYes No\n24b. If yes to 24a, please explain:\n25. Have you, or any of your relatives or close friends, ever been a victim of a crime?\nYes (self) Yes (friend or family member) X No\n25a. If yes, is there anything about that experience that would prevent you from acting as a fair and impartial juror in this case?\nYes No\n25b. If yes to 25a, please explain:\n26. Have you, or has any member of your family or any of your close friends - either as individuals or in the course of their business affairs - ever been a party to a legal action or dispute with the United States, or with any of the officers, departments, agencies, or employees of the United States, including the United States Attorney's Office, the FBI, or the NYPD?\nYes (self) Yes (friend or family member) X No\n-13-\nDOJ-OGR-00020925",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 22-1426, Document 58, 02/28/2023, 3475901, Page 99 of 221",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-AJN Document 638 Filed 03/09/22 Page 11 of 29",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Juror ID: 50",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "24. Have you, or has any relative or close friend, ever been the subject of any investigation or accusation by any grand jury, state or federal, or any other investigation?",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "X No",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "24a. If yes, is there anything about that experience that would prevent you from acting as a fair and impartial juror in this case?",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "24b. If yes to 24a, please explain:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "25. Have you, or any of your relatives or close friends, ever been a victim of a crime?",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "X No",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "25a. If yes, is there anything about that experience that would prevent you from acting as a fair and impartial juror in this case?",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "25b. If yes to 25a, please explain:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "26. Have you, or has any member of your family or any of your close friends - either as individuals or in the course of their business affairs - ever been a party to a legal action or dispute with the United States, or with any of the officers, departments, agencies, or employees of the United States, including the United States Attorney's Office, the FBI, or the NYPD?",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "X No",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "-13-",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00020925",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "FBI",
+      "NYPD",
+      "United States Attorney's Office"
+    ],
+    "locations": [
+      "United States"
+    ],
+    "dates": [
+      "02/28/2023",
+      "03/09/22"
+    ],
+    "reference_numbers": [
+      "Case 22-1426",
+      "Document 58",
+      "Case 1:20-cr-00330-AJN",
+      "Document 638",
+      "DOJ-OGR-00020925"
+    ]
+  },
+  "additional_notes": "The document is a juror questionnaire with handwritten answers. The juror has answered 'No' to questions 24, 25, and 26."
+}

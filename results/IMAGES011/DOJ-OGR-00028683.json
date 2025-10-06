@@ -1,0 +1,55 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "IO95",
+    "date": "11/16/2010",
+    "document_type": "Inspection Results",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:08:02 IO95 Inspection Results 042814 *B A103 NEWARK, INTL AI *A FLT/VES#: EC 1 OPEN SKIES DOCTYP*: P #: 469911707 CTRY*: US UNITED STATES ST: M/F: M DNAME (LAST) : EPSTEIN FRST: JEFFREY EDWARD DOB: 012053 RFRD BY: *D -CBP OFFCR-C DTE: 11162010 TME: 1341 REASON: (b)(7)(E) CCD: SNAME (LAST) : FRST: NO FIN NUMBER NATIONALITY: US UNITED STATES DOB: DISP: USC U.S. CITIZEN RCPT#: AUDATE: D/S CHARGE (CODED) : DFRD TO: FIN#: SEC OFCR: *E -CBP OFFCR-C 11/16/2010 13:53 IOEM#: REFR CDE: COMMENTS: VIOLS: NEW COMMENTS: (b)(7)(E) USC AND REFERRED TO BAGGAGE AS PER CTR OFFICER (b)(7)(E) . ADMITTED Nov 16 13:49:59 EST 2010 ENTERED BY: (b)(7)(E) COMMENTS HISTORY: TUE (b)(7)(E) ADMITTED USC AND REFERRED TO BAGGAGE AS PER (b)(7)(E) WHTI CMPLNT? ADDL COMTMTS: (b)(7)(E) *F (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) *G *H Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(6) (b)(7)(C) *E - (b)(6) (b)(7)(C) *F - (b)(7)(E) *G - (b)(7)(E) *H - (b)(7)(E) DOJ-OGR-00028683",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:08:02 IO95 Inspection Results 042814",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "*B A103 NEWARK, INTL AI *A FLT/VES#: EC 1 OPEN SKIES DOCTYP*: P #: 469911707 CTRY*: US UNITED STATES ST: M/F: M DNAME (LAST) : EPSTEIN FRST: JEFFREY EDWARD DOB: 012053 RFRD BY: *D -CBP OFFCR-C DTE: 11162010 TME: 1341 REASON: (b)(7)(E) CCD: SNAME (LAST) : FRST: NO FIN NUMBER NATIONALITY: US UNITED STATES DOB: DISP: USC U.S. CITIZEN RCPT#: AUDATE: D/S CHARGE (CODED) : DFRD TO: FIN#: SEC OFCR: *E -CBP OFFCR-C 11/16/2010 13:53 IOEM#: REFR CDE: COMMENTS: VIOLS: NEW COMMENTS: (b)(7)(E) USC AND REFERRED TO BAGGAGE AS PER CTR OFFICER (b)(7)(E) . ADMITTED Nov 16 13:49:59 EST 2010 ENTERED BY: (b)(7)(E) COMMENTS HISTORY: TUE (b)(7)(E) ADMITTED USC AND REFERRED TO BAGGAGE AS PER (b)(7)(E) WHTI CMPLNT? ADDL COMTMTS: (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "*F (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) *G *H Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(6) (b)(7)(C) *E - (b)(6) (b)(7)(C) *F - (b)(7)(E) *G - (b)(7)(E) *H - (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028683",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "CBP"
+    ],
+    "locations": [
+      "NEWARK",
+      "UNITED STATES"
+    ],
+    "dates": [
+      "11/16/2010",
+      "Nov 16 13:49:59 EST 2010"
+    ],
+    "reference_numbers": [
+      "IO95",
+      "469911707",
+      "DOJ-OGR-00028683"
+    ]
+  },
+  "additional_notes": "The document contains multiple redactions, indicated by (b)(7)(E) and other codes, suggesting sensitive information has been withheld."
+}

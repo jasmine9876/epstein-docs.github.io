@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "5594",
+    "document_number": "DOJ-OGR-00024403",
+    "date": "2019/11/01 14:43",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Former inmate's property From [Redacted] To [Redacted] Date 2019/11/01 14:43 Subject: Former inmate's property Attachments: TEXT.htm Hey guys, I received a phone call from a [Redacted] who claims to be Jeffrey Epstein's brother. He was asking the status of Mr. Epstein's property and if or when it would be released to him. I explained to him that normally we mail it to the last know address on record. He left his number just in case anyone wanted to reach out. [Redacted] Case Manager Coordinator Federal Bureau of Prisons Metropolitan Correctional Center 150 Park Row New York, NY 10007 Tel: (646)836-6300 Fax: (646)836-7683 [Redacted] @bop.gov Page 5594 DOJ-OGR-00024403",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Former inmate's property From [Redacted] To [Redacted] Date 2019/11/01 14:43 Subject: Former inmate's property Attachments: TEXT.htm",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Hey guys, I received a phone call from a [Redacted] who claims to be Jeffrey Epstein's brother. He was asking the status of Mr. Epstein's property and if or when it would be released to him. I explained to him that normally we mail it to the last know address on record. He left his number just in case anyone wanted to reach out.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "[Redacted] Case Manager Coordinator Federal Bureau of Prisons Metropolitan Correctional Center 150 Park Row New York, NY 10007 Tel: (646)836-6300 Fax: (646)836-7683 [Redacted] @bop.gov",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 5594 DOJ-OGR-00024403",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "Federal Bureau of Prisons",
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "2019/11/01 14:43"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00024403",
+      "(646)836-6300",
+      "(646)836-7683"
+    ]
+  },
+  "additional_notes": "The document contains redactions, likely for privacy or security reasons."
+}

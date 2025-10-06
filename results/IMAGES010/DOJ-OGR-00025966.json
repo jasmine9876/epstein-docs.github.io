@@ -1,0 +1,39 @@
+{
+  "document_metadata": {
+    "page_number": "2126",
+    "document_number": "DOJ-OGR-00025966",
+    "date": "7-29-2019",
+    "document_type": "Log or Record",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "EPSTEIN#76318-054 7-29-2019\n1:15 AM Inmate EPSTEIN is sleeping\n1:30 AM Inmate EPSTEIN is sleeping\n1:45 AM Inmate EPSTEIN is sleeping\n2:00 AM Inmate EPSTEIN is sleeping\n2:15 AM Inmate EPSTEIN is sleeping\n2:30 AM Inmate EPSTEIN is sleeping\n2:45 AM Inmate EPSTEIN is sleeping ERROR\n2:52 AM End of Shift\n2:52 AM Count\n2:58 AM End of Shift\n3:00 AM Start of Shift\n3:00 AM Inmate EPSTEIN appears to be sleeping\n3:15 AM Inmate EPSTEIN appears to be sleeping\n3:25 AM Inmate EPSTEIN went to the bathroom and ask about time\n3:30 AM Inmate EPSTEIN went back to sleep\n3:35 AM Inmate EPSTEIN appears to be sleeping\n4:00 AM Inmate EPSTEIN appears to be sleeping\n4:15 AM Inmate EPSTEIN appears to be sleeping\n4:30 AM Inmate EPSTEIN appears to be sleeping\n4:45 AM Inmate EPSTEIN appears to be sleeping\n5:00 AM Inmate EPSTEIN appears to be sleeping\n5:15 AM Inmate EPSTEIN appears to be sleeping",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "EPSTEIN#76318-054 7-29-2019\n1:15 AM Inmate EPSTEIN is sleeping\n1:30 AM Inmate EPSTEIN is sleeping\n1:45 AM Inmate EPSTEIN is sleeping\n2:00 AM Inmate EPSTEIN is sleeping\n2:15 AM Inmate EPSTEIN is sleeping\n2:30 AM Inmate EPSTEIN is sleeping\n2:45 AM Inmate EPSTEIN is sleeping ERROR\n2:52 AM End of Shift\n2:52 AM Count\n2:58 AM End of Shift\n3:00 AM Start of Shift\n3:00 AM Inmate EPSTEIN appears to be sleeping\n3:15 AM Inmate EPSTEIN appears to be sleeping\n3:25 AM Inmate EPSTEIN went to the bathroom and ask about time\n3:30 AM Inmate EPSTEIN went back to sleep\n3:35 AM Inmate EPSTEIN appears to be sleeping\n4:00 AM Inmate EPSTEIN appears to be sleeping\n4:15 AM Inmate EPSTEIN appears to be sleeping\n4:30 AM Inmate EPSTEIN appears to be sleeping\n4:45 AM Inmate EPSTEIN appears to be sleeping\n5:00 AM Inmate EPSTEIN appears to be sleeping\n5:15 AM Inmate EPSTEIN appears to be sleeping",
+      "position": "main content"
+    },
+    {
+      "type": "stamp/annotation",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "margin"
+    }
+  ],
+  "entities": {
+    "people": [
+      "EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "bathroom"
+    ],
+    "dates": [
+      "7-29-2019"
+    ],
+    "reference_numbers": [
+      "76318-054"
+    ]
+  },
+  "additional_notes": "The document appears to be a log or record of inmate Jeffrey Epstein's activities on July 29, 2019. The handwriting is mostly legible, but some parts are highlighted or annotated with '(b)(6); (b)(7)(C)', indicating potential redactions for privacy or security reasons."
+}

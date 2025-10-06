@@ -1,0 +1,36 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024458",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "7:30:19 Epstein, Jeffrey 76318.054 5:15pm X",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "7:30:19 Epstein, Jeffrey 76318.054 5:15pm X",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024458",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "76318.054",
+      "DOJ-OGR-00024458"
+    ]
+  },
+  "additional_notes": "The document appears to be a log or record with handwritten entries. The majority of the content is redacted or obscured, leaving only a few visible details at the bottom."
+}

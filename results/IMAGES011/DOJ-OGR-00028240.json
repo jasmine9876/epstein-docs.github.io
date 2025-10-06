@@ -1,0 +1,100 @@
+{
+  "document_metadata": {
+    "page_number": "0046",
+    "document_number": "DOJ-OGR-00028240",
+    "date": "04282014",
+    "document_type": "TECSII - PRIMARY QUERY HISTORY PASSENGER ACTIVITY",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 TECSI - PRIMARY QUERY HISTORY 04282014 *A *B PASSENGER ACTIVITY *C PAGE NO. 0046 NAME DOB QUERY DATE TIME AGN RSLT LNE TYP REF LANE TERM/ API DIM EPSTEIN, JEFFREY EDWARD 012053 051213 1109 CUS *D AIR CUS :S02 N N A523-PALM BEACH, INTERNATION DOC: 469911707 US P INSP: *E EPSTEIN, JEFFREY EDWARD 012053 041413 1747 CUS *F AIR JK07 N N A511-CBP-CYRIL E KING, INTL DOC: 469911707 US P INSP: *G EPSTEIN, JEFFREY EDWARD 012053 010413 1716 CUS *H AIR JK06 N N A511-CBP-CYRIL E KING, INTL DOC: 469911707 US P INSP: *I EPSTEIN, JEFFREY EDWARD 012053 111912 0000 *J API 01 R N PARIS, ORLY DOC: 469911707 US P INSP: APIS QRY EPSTEIN, JEFFREY EDWARD 012053 112512 0000 *K API 01 R N PARIS, ORLY DOC: 469911707 US P INSP: APIS QRY EPSTEIN, JEFFREY EDWARD 012053 112712 0000 *L API 01 R N PARIS, CH. DE GAULLE DOC: 469911707 US P INSP: APIS QRY (b)(7)(E) <...MORE...> (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(6), (b)(7)(C) *F - (b)(7)(E) *G - (b)(6), (b)(7)(C) *H - (b)(7)(E) *I - (b)(6), (b)(7)(C) *J - (b)(7)(E) *K - (b)(7)(E) *L - (b)(7)(E) DOJ-OGR-00028240",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "TECSII - PRIMARY QUERY HISTORY PASSENGER ACTIVITY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE NO. 0046",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB QUERY DATE TIME AGN RSLT LNE TYP REF LANE TERM/ API DIM",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY EDWARD 012053 051213 1109 CUS *D AIR CUS :S02 N N A523-PALM BEACH, INTERNATION DOC: 469911707 US P INSP: *E",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY EDWARD 012053 041413 1747 CUS *F AIR JK07 N N A511-CBP-CYRIL E KING, INTL DOC: 469911707 US P INSP: *G",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY EDWARD 012053 010413 1716 CUS *H AIR JK06 N N A511-CBP-CYRIL E KING, INTL DOC: 469911707 US P INSP: *I",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY EDWARD 012053 111912 0000 *J API 01 R N PARIS, ORLY DOC: 469911707 US P INSP: APIS QRY",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY EDWARD 012053 112512 0000 *K API 01 R N PARIS, ORLY DOC: 469911707 US P INSP: APIS QRY",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY EDWARD 012053 112712 0000 *L API 01 R N PARIS, CH. DE GAULLE DOC: 469911707 US P INSP: APIS QRY",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E) <...MORE...>",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(6), (b)(7)(C) *F - (b)(7)(E) *G - (b)(6), (b)(7)(C) *H - (b)(7)(E) *I - (b)(6), (b)(7)(C) *J - (b)(7)(E) *K - (b)(7)(E) *L - (b)(7)(E)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028240",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "PALM BEACH",
+      "CYRIL E KING",
+      "PARIS",
+      "ORLY",
+      "CH. DE GAULLE"
+    ],
+    "dates": [
+      "04282014",
+      "051213",
+      "041413",
+      "010413",
+      "111912",
+      "112512",
+      "112712"
+    ],
+    "reference_numbers": [
+      "469911707",
+      "DOJ-OGR-00028240"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted version of a TECSII primary query history passenger activity report. The redactions are indicated by (b)(7)(E) and other similar notations."
+}

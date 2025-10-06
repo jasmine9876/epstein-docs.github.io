@@ -1,0 +1,50 @@
+{
+  "document_metadata": {
+    "page_number": "001",
+    "document_number": "NYMES 530*07",
+    "date": "07-24-2019",
+    "document_type": "Population Monitoring Census/Roster Generalized Retrieval",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "NYMES 530*07 * POPULATION MONITORING CENSUS/ROSTER * 07-24-2019 PAGE 001 * GENERALIZED RETRIEVAL * 02:47:39 FUNCTION: R-P SELECTION CATEGORY: QTR EQ ALL ZERO/NBR: NO SE ORG ANIZATION: FACI EQ NYM OPTION: TYPE OF FACILITY: TOF EQ T DUP SUPR: YES FACILITY MANAGED BY: FMB EQ AP COLUMNS 1: REG 2: LN 3: LN2 4: FN 5: ARSD 6: ARS 7: 8: JUDG: C SORT COL: C COL SEQ: SEQ: 234 NP: CONDITIONS (GRP 1) OR CONDITIONS (GRP 2) OR CONDITIONS (GRP 3) OR CONDITIONS (GRP 4) CMCI NE G CMCI NE P Control Center 2442 G TOT G0002 MORE PAGES TO FOLLOW... DOJ-OGR-00024618",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "NYMES 530*07 * POPULATION MONITORING CENSUS/ROSTER * 07-24-2019 PAGE 001 * GENERALIZED RETRIEVAL * 02:47:39 FUNCTION: R-P SELECTION CATEGORY: QTR EQ ALL ZERO/NBR: NO SE ORG ANIZATION: FACI EQ NYM OPTION: TYPE OF FACILITY: TOF EQ T DUP SUPR: YES FACILITY MANAGED BY: FMB EQ AP COLUMNS 1: REG 2: LN 3: LN2 4: FN 5: ARSD 6: ARS 7: 8: JUDG: C SORT COL: C COL SEQ: SEQ: 234 NP: CONDITIONS (GRP 1) OR CONDITIONS (GRP 2) OR CONDITIONS (GRP 3) OR CONDITIONS (GRP 4) CMCI NE G CMCI NE P",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Control Center 2442",
+      "position": "right"
+    },
+    {
+      "type": "printed",
+      "content": "G TOT G0002 MORE PAGES TO FOLLOW...",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024618",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "NYM",
+      "FMB",
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "07-24-2019"
+    ],
+    "reference_numbers": [
+      "NYMES 530*07",
+      "DOJ-OGR-00024618"
+    ]
+  },
+  "additional_notes": "The document contains redacted sections highlighted in green. The handwritten text 'Control Center 2442' is located in the top-right corner."
+}

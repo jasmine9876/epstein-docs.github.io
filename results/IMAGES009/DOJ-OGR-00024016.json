@@ -1,0 +1,55 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024016",
+    "date": null,
+    "document_type": "Inmate Record or Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE | NAME | Signature | INMATE | REG # | TIME | Tlx\n(b)(6) (b)(7)(C)\n7-17 Calidulin (b)(6) (b)(7)(C) Eastell 76318-054 12:31 2:30\nDOJ-OGR-00024016",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "DATE | NAME | Signature | INMATE | REG # | TIME | Tlx",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6) (b)(7)(C)",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "7-17 Calidulin Eastell 76318-054 12:31 2:30",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6) (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024016",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Calidulin"
+    ],
+    "organizations": [],
+    "locations": [
+      "Eastell"
+    ],
+    "dates": [
+      "7-17"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024016"
+    ]
+  },
+  "additional_notes": "The document appears to be a log or record related to an inmate, with some redacted information marked as '(b)(6) (b)(7)(C)'. The handwriting is mostly legible, but some parts may be difficult to decipher due to the image quality or redaction."
+}

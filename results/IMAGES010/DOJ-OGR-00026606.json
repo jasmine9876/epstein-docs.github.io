@@ -1,0 +1,53 @@
+{
+  "document_metadata": {
+    "page_number": "2950",
+    "document_number": "DOJ-OGR-00026606",
+    "date": null,
+    "document_type": "Official Count Slips",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2950 Metropolitan Correctional Center Official Count Slip Unit: Date Count: Time: Print Name: Signature: Print Name: Signature Unit: Date Count: Time: Print Name: Signature: Print Name: Signature DOJ-OGR-00026606",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(7)(F) 9/11/14 1404",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(7)(F) 8/11/14 1204",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Unit: Date Count: Time: Print Name: Signature: Print Name: Signature",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026606",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [],
+    "dates": [
+      "9/11/14",
+      "8/11/14"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026606"
+    ]
+  },
+  "additional_notes": "The document contains two 'Official Count Slips' with some handwritten information. The names and signatures are redacted as '(b)(6); (b)(7)(C)' and '(b)(7)(F)'. The document is likely a scanned or photocopied version of the original, with some minor damage and speckles visible."
+}

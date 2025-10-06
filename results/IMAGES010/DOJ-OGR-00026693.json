@@ -1,0 +1,92 @@
+{
+  "document_metadata": {
+    "page_number": "3053",
+    "document_number": "BP-A0971",
+    "date": "AUG 11",
+    "document_type": "CHAIN OF CUSTODY LOG CDFRM",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 3053\nBP-A0971\nAUG 11\nCHAIN OF CUSTODY LOG CDFRM\nU.S. DEPARTMENT OF JUSTICE\nFEDERAL BUREAU OF PRISONS\nECN #\nITEM #\nCASE ID NUMBER:\nSUSPECT (If known)\nDESCRIPTION OF ITEM: Trview Documents (money received) to include Epstein# 76318-054 Reyes,Epstein# 85993-054 (b(6); (b)(7)(C)\nFor Epstein# 76318-054 , Lieutenant Logs 7/11/19 = 8/1/19\nDATE/TIME ITEM FOUND :\nLOCATION:\nSIGNATURE OF PERSON RECOVERING EVIDENCE:\nPRINTED NAME:\nEVIDENCE PLACED IN OVERNIGHT DROP BOX:\nDROP-BOX BY:(printed name)\nDate & Time:\nWitness:(printed name)\nEVIDENCE RECOVERED FROM OVERNIGHT DROP BOX BY:\n(printed name)\nDate & Time:\nWitness:(printed name)\nEVIDENCE PLACED EVIDENCE SAFE BY:\n(printed name)\nDate & Time:\nWitness:(printed name)\nDISPOSITION:\n( ) Hold as evidence\n( ) Return to owner\n( ) Lab Analysis\n( ) Return to finder\n( ) Destroy immediately\n( ) FBI\n( ) Other\nREMARKS (condition of evidence):\nCHAIN OF CUSTODY\nEVIDENCE RELEASED BY:\nDATE/TIME:\nDESTINATION:\nEVIDENCE RELEASED TO:\nSIS (b)(6); (b)(7)(C)\n8/1/19 1700\nDDT-056\n(b)(6); (b)(7)(C)\nPDF\nPrescribed by P5510\nDOJ-OGR-00026693",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3053\nBP-A0971\nAUG 11\nCHAIN OF CUSTODY LOG CDFRM\nU.S. DEPARTMENT OF JUSTICE\nFEDERAL BUREAU OF PRISONS",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "ECN #\nITEM #\nCASE ID NUMBER:\nSUSPECT (If known)",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Trview Documents (money received) to include Epstein# 76318-054 Reyes,Epstein# 85993-054 (b(6); (b)(7)(C)\nFor Epstein# 76318-054 , Lieutenant Logs 7/11/19 = 8/1/19",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DATE/TIME ITEM FOUND :\nLOCATION:\nSIGNATURE OF PERSON RECOVERING EVIDENCE:\nPRINTED NAME:\nEVIDENCE PLACED IN OVERNIGHT DROP BOX:\nDROP-BOX BY:(printed name)\nDate & Time:\nWitness:(printed name)\nEVIDENCE RECOVERED FROM OVERNIGHT DROP BOX BY:\n(printed name)\nDate & Time:\nWitness:(printed name)\nEVIDENCE PLACED EVIDENCE SAFE BY:\n(printed name)\nDate & Time:\nWitness:(printed name)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DISPOSITION:\n( ) Hold as evidence\n( ) Return to owner\n( ) Lab Analysis\n( ) Return to finder\n( ) Destroy immediately\n( ) FBI\n( ) Other",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "REMARKS (condition of evidence):",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CHAIN OF CUSTODY",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "SIS (b)(6); (b)(7)(C)\n8/1/19 1700\nDDT-056\n(b)(6); (b)(7)(C)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "EVIDENCE RELEASED BY:\nDATE/TIME:\nDESTINATION:\nEVIDENCE RELEASED TO:",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "PDF\nPrescribed by P5510\nDOJ-OGR-00026693",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein",
+      "Reyes",
+      "Lieutenant Logs",
+      "SIS"
+    ],
+    "organizations": [
+      "U.S. DEPARTMENT OF JUSTICE",
+      "FEDERAL BUREAU OF PRISONS",
+      "FBI"
+    ],
+    "locations": [],
+    "dates": [
+      "AUG 11",
+      "7/11/19",
+      "8/1/19",
+      "8/1/19 1700"
+    ],
+    "reference_numbers": [
+      "BP-A0971",
+      "76318-054",
+      "85993-054",
+      "DDT-056",
+      "P5510",
+      "DOJ-OGR-00026693"
+    ]
+  },
+  "additional_notes": "The document appears to be a Chain of Custody Log from the Federal Bureau of Prisons, detailing the handling of evidence related to Epstein and Reyes. The document contains handwritten notes and redactions."
+}

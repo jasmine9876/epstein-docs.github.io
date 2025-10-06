@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "3110",
+    "date": "08/15/2019",
+    "document_type": "Log Entries By Location",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 3110 Date: 08/15/2019 Time: 05:59 PM Federal Bureau of Prisons TRUINTEL Log Entries By Location Sensitive But Unclassified Event Date Entered Date Shift User Event Base Count 8/9/2019 8:40 PM 8/9/2019 8:41 PM Evening (b)(6); (b)(7)(C) Change to Base Count Out (b)(7)(F) 8/9/2019 8:41 PM 8/9/2019 8:42 PM Evening Visual Search 8/9/2019 8:41 PM 8/9/2019 8:42 PM Evening Change to Base Count In 8/9/2019 8:42 PM 8/9/2019 8:42 PM Evening Base Count Verified 8/9/2019 8:42 PM 8/9/2019 8:42 PM Evening Bed Book Check 8/9/2019 8:43 PM 8/9/2019 8:43 PM Evening Search (Areas) 8/9/2019 8:43 PM 8/9/2019 8:43 PM Evening Search (Areas) 8/9/2019 8:43 PM 8/9/2019 8:43 PM Evening Search (Areas) 8/9/2019 8:43 PM 8/9/2019 8:43 PM Evening Search (Areas) 8/10/2019 6:30 PM 8/10/2019 6:56 PM Evening Rounds (Lieutenant) 8/10/2019 4:00 PM 8/10/2019 6:59 PM Evening Begin Shift 8/10/2019 4:00 PM 8/10/2019 7:00 PM Evening Rounds (Officer) 8/10/2019 4:00 PM 8/10/2019 7:01 PM Evening Official Count 8/10/2019 4:00 PM 8/10/2019 7:55 PM Evening Activities Return of Specific Inmate(s) 8/10/2019 4:00 PM 8/10/2019 4:00 PM Evening End Shift 8/10/2019 4:00 PM 8/10/2019 4:00 PM Evening End Shift 8/10/2019 4:15 PM 8/10/2019 7:04 PM Evening Fire and Security Check 8/10/2019 4:50 PM 8/10/2019 7:04 PM Evening Daily Activity - Feeding Started 8/10/2019 5:50 PM 8/10/2019 7:05 PM Evening Daily Activity - Feeding Completed 8/10/2019 6:00 PM 8/10/2019 7:10 PM Evening Watch Call 8/10/2019 6:30 PM 8/10/2019 7:57 PM Evening Activities Return of Specific Inmate(s) 8/10/2019 6:30 PM 8/10/2019 7:57 PM Evening Activities Return of Specific Inmate(s) 8/10/2019 8:00 PM 8/10/2019 11:58 PM Evening (b)(7)(E) 8/10/2019 8:00 PM 8/10/2019 11:58 PM Evening Fire Alarm Panel Check 8/10/2019 8:00 PM 8/10/2019 11:58 PM Evening Inventory Sheet Verified 8/10/2019 8:00 PM 8/10/2019 11:58 PM Evening Key Check 8/10/2019 8:00 PM 8/10/2019 11:58 PM Evening OC Spray Check 8/10/2019 8:00 PM 8/10/2019 11:58 PM Evening Radio Check 8/10/2019 8:00 PM 8/10/2019 11:58 PM Evening Radio Check User ID: (b)(6); (b)(7)(C) Page 2 of 3 DOJ-OGR-00026750",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3110 Date: 08/15/2019 Time: 05:59 PM Federal Bureau of Prisons TRUINTEL Log Entries By Location Sensitive But Unclassified",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Event Date Entered Date Shift User Event Base Count",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "8/9/2019 8:40 PM 8/9/2019 8:41 PM Evening (b)(6); (b)(7)(C) Change to Base Count Out (b)(7)(F)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "8/10/2019 8:00 PM 8/10/2019 11:58 PM Evening (b)(7)(E)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "User ID: (b)(6); (b)(7)(C)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 2 of 3 DOJ-OGR-00026750",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [],
+    "dates": [
+      "08/15/2019",
+      "8/9/2019",
+      "8/10/2019"
+    ],
+    "reference_numbers": [
+      "3110",
+      "DOJ-OGR-00026750"
+    ]
+  },
+  "additional_notes": "The document appears to be a log entry report from the Federal Bureau of Prisons, with some redacted information."
+}

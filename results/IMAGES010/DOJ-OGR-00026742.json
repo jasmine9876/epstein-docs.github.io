@@ -1,0 +1,94 @@
+{
+  "document_metadata": {
+    "page_number": "5",
+    "document_number": "BP-A0973",
+    "date": "FEB 12",
+    "document_type": "EVIDENCE RECOVERY LOG",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "BP-A0973 FEB 12 EVIDENCE RECOVERY LOG CDFrm U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS Page 5 of 5 GENERAL INFORMATION PRINT LEGIBLY DATE 8-12-19 CASE ID LOCATION 9-South 206-220 PREPARER/ASSISTANTS SIS Tech PERSONNEL (Include Initials) TENT CARD# EC# DESCRIPTION WHERE FOUND RECOVERED BY PACKAGING METHOD COMMENTS (If needed) NYM-19-0177 1-receipt 206-220 SIS Tech Paper Bag NYM-19-0178 1-Small bible book 206-220 SIS Tech Paper Bag NYM-19-0178 1-Letter (Mail) 206-220 SIS Tech Paper Bag NYM-19-0178 1-AED envelope 206-220 SIS Tech Paper Bag NYM-19-0178 1-orange material 206-220 SIS Tech Paper Bag DOJ-OGR-00026742",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "BP-A0973 FEB 12 EVIDENCE RECOVERY LOG CDFrm U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS Page 5 of 5",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "GENERAL INFORMATION PRINT LEGIBLY",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "DATE 8-12-19",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "LOCATION 9-South 206-220",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "PREPARER/ASSISTANTS SIS Tech",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "TENT CARD# EC# DESCRIPTION WHERE FOUND RECOVERED BY PACKAGING METHOD COMMENTS (If needed)",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "NYM-19-0177 1-receipt 206-220 SIS Tech Paper Bag",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "NYM-19-0178 1-Small bible book 206-220 SIS Tech Paper Bag",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "NYM-19-0178 1-Letter (Mail) 206-220 SIS Tech Paper Bag",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "NYM-19-0178 1-AED envelope 206-220 SIS Tech Paper Bag",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "NYM-19-0178 1-orange material 206-220 SIS Tech Paper Bag",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026742",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "U.S. DEPARTMENT OF JUSTICE",
+      "FEDERAL BUREAU OF PRISONS"
+    ],
+    "locations": [
+      "9-South 206-220"
+    ],
+    "dates": [
+      "8-12-19",
+      "FEB 12"
+    ],
+    "reference_numbers": [
+      "BP-A0973",
+      "NYM-19-0177",
+      "NYM-19-0178",
+      "DOJ-OGR-00026742"
+    ]
+  },
+  "additional_notes": "The document is a scanned image of an evidence recovery log form used by the Federal Bureau of Prisons. The form is filled out by hand with details about the evidence recovered, including descriptions, locations, and packaging methods. The document is legible with some minor handwritten notes."
+}

@@ -1,0 +1,68 @@
+{
+  "document_metadata": {
+    "page_number": "360",
+    "document_number": "DOJ-OGR-00027224",
+    "date": "07/23/2019",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": ">>> \"Lamine N'Diaye\" <bop.gov> 07/23/2019 11:12 >>> Sent from my Verizon, Samsung Galaxy smartphone. From: \"Shirley V. Skipper-Scott\" <bop.gov> Date: 7/23/ Subject: Fwd: Epstein Page 360 DOJ-OGR-00027224",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": ">>> \"Lamine N'Diaye\" <bop.gov> 07/23/2019 11:12 >>>",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Sent from my Verizon, Samsung Galaxy smartphone.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "From: \"Shirley V. Skipper-Scott\" <bop.gov>",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Date: 7/23/",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Subject: Fwd: Epstein",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Page 360",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027224",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Lamine N'Diaye",
+      "Shirley V. Skipper-Scott",
+      "Epstein"
+    ],
+    "organizations": [
+      "Verizon",
+      "Samsung",
+      "BOP"
+    ],
+    "locations": [],
+    "dates": [
+      "07/23/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00027224"
+    ]
+  },
+  "additional_notes": "The document appears to be an email forwarded from Shirley V. Skipper-Scott to Lamine N'Diaye regarding the subject 'Epstein'. The email was sent on 07/23/2019."
+}

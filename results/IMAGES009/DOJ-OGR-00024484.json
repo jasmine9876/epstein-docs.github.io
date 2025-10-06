@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024484",
+    "date": "07-06-2019",
+    "document_type": "Transaction Record",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "NEW YORK MCC HOUSE R/RANGE 01/BED 001L 07-06-2019 2124 07-06-2019 RELIGION RESPONSIBILITY OF: NEW YORK MCC - - - - -ASSIGNMENTS - - - - STAR. DATE/TIME STOP DATE RELIGION UNKNOWN 07-06-2019 2124 CURRENT SECOND RSP RESPONSIBILITY OF: - - - - -ASSIGNMENTS - - - - START DATE/TIME STOP DATE SECUR THRT RESPONSIBILITY OF: NEW YORK MCC - - - - -ASSIGNMENTS - - - - START DATE/TIME STOP DATE HISTORY OF COMMITTING RAPE 07-10-2019 1455 CURRENT UNIT RESPONSIBILITY OF: NEW YORK MCC - - - - -ASSIGNMENTS - - - - START DATE/TIME STOP DATE UNT MGR. UNIT EXT 07-22-2019 1806 08-10-2019 NEW YORK MCC UNIT MANAGER X 07-08-2019 1749 07-22-2019 NEW YORK MCC UNIT MANAGER X 07-06-2019 2124 07-08-2019 WRK DETAIL RESPONSIBILITY OF: NEW YORK MCC - - - - -ASSIGNMENTS - - - - START DATE/TIME STOP DATE UNASSIGNED WORK DETAIL 07-08-2019 1749 08-10-2019 NEW YORK MCC UNASSIGNED WORK DETAIL 07-06-2019 2124 07-08-2019 G0000 TRANSACTION SUCCESSFULLY COMPLETED DOJ-OGR-00024484",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "NEW YORK MCC HOUSE R/RANGE 01/BED 001L 07-06-2019 2124 07-06-2019",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "RELIGION RESPONSIBILITY OF: NEW YORK MCC - - - - -ASSIGNMENTS - - - - STAR. DATE/TIME STOP DATE RELIGION UNKNOWN 07-06-2019 2124 CURRENT",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "SECOND RSP RESPONSIBILITY OF: - - - - -ASSIGNMENTS - - - - START DATE/TIME STOP DATE",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "SECUR THRT RESPONSIBILITY OF: NEW YORK MCC - - - - -ASSIGNMENTS - - - - START DATE/TIME STOP DATE HISTORY OF COMMITTING RAPE 07-10-2019 1455 CURRENT",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "UNIT RESPONSIBILITY OF: NEW YORK MCC - - - - -ASSIGNMENTS - - - - START DATE/TIME STOP DATE UNT MGR. UNIT EXT 07-22-2019 1806 08-10-2019 NEW YORK MCC UNIT MANAGER X 07-08-2019 1749 07-22-2019 NEW YORK MCC UNIT MANAGER X 07-06-2019 2124 07-08-2019",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "WRK DETAIL RESPONSIBILITY OF: NEW YORK MCC - - - - -ASSIGNMENTS - - - - START DATE/TIME STOP DATE UNASSIGNED WORK DETAIL 07-08-2019 1749 08-10-2019 NEW YORK MCC UNASSIGNED WORK DETAIL 07-06-2019 2124 07-08-2019",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "G0000 TRANSACTION SUCCESSFULLY COMPLETED",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024484",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "NEW YORK MCC"
+    ],
+    "locations": [
+      "NEW YORK"
+    ],
+    "dates": [
+      "07-06-2019",
+      "07-08-2019",
+      "07-10-2019",
+      "07-22-2019",
+      "08-10-2019"
+    ],
+    "reference_numbers": [
+      "G0000",
+      "DOJ-OGR-00024484"
+    ]
+  },
+  "additional_notes": "The document appears to be a transaction record from the New York MCC, detailing various assignments and responsibilities. The transaction was successfully completed as indicated by the code G0000."
+}

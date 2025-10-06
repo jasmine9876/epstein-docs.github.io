@@ -1,0 +1,59 @@
+{
+  "document_metadata": {
+    "page_number": "2962",
+    "document_number": "DOJ-OGR-00026618",
+    "date": "8/11/19",
+    "document_type": "Official Count Slip",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2962 Unit: H6SP Date 8/11.19 Count: (b)(7)(F) Time: 1000 Print Name: (b)(6), (b)(7)(C) Signature: Print Name: Signature: Metropolitan Correctional Center Official Count Slip Unit: Date 8.11.19 Count: (b)(7)(F) Print Name: (b)(6), (b)(7)(C) Signature: Print Name: Signature: Metropolitan Correctional Center Official Count Slip Unit: Date 8.11.19 Count: (b)(7)(F) Time: 1000 Print Name: (b)(6), (b)(7)(C) Signature: Jaramillo Print Name: (b)(6), (b)(7)(C) Signature: DOJ-OGR-00026618",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Unit: Date Count: Time: Print Name: Signature: Print Name: Signature:",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "H6SP 8/11.19 (b)(7)(F) 1000",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8.11.19 (b)(7)(F) 1000 Jaramillo",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "8.11.19 (b)(7)(F) 1000 Jaramillo",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jaramillo"
+    ],
+    "organizations": [
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [],
+    "dates": [
+      "8/11/19"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026618"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6), (b)(7)(C), and (b)(7)(F). The image quality is clear, but some handwritten text is difficult to read due to the redaction boxes."
+}

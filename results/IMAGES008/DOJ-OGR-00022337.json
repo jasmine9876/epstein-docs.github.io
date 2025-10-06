@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": "52",
+    "document_number": "DOJ-OGR-00022337",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Ready, Bill Rolfe, Gail Ronson, Lisa Ronson, Mr & Mrs Gerald Rose Charlie & Burder, Amanda Rosen, Andrew Rosen, Denis & Sylvia Rosencrantz, Ms Claudia Rosenfeld Donald Rose Wendy & Jo Rosenstein, Rob Rosenthal, Jane Roth, Peter Thomas & Noreen Rothchild Jessica Rothchild, Hannah Rothenburg, Rich Rotherwick, Tania & Robin",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Ready, Bill Rolfe, Gail Ronson, Lisa Ronson, Mr & Mrs Gerald Rose Charlie & Burder, Amanda Rosen, Andrew Rosen, Denis & Sylvia Rosencrantz, Ms Claudia Rosenfeld Donald Rose Wendy & Jo Rosenstein, Rob Rosenthal, Jane Roth, Peter Thomas & Noreen Rothchild Jessica Rothchild, Hannah Rothenburg, Rich Rotherwick, Tania & Robin",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "52",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022337",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ready, Bill",
+      "Rolfe, Gail",
+      "Ronson, Lisa",
+      "Ronson, Mr & Mrs Gerald",
+      "Rose Charlie & Burder, Amanda",
+      "Rosen, Andrew",
+      "Rosen, Denis & Sylvia",
+      "Rosencrantz, Ms Claudia",
+      "Rosenfeld Donald",
+      "Rose Wendy & Jo",
+      "Rosenstein, Rob",
+      "Rosenthal, Jane",
+      "Roth, Peter Thomas & Noreen",
+      "Rothchild Jessica",
+      "Rothchild, Hannah",
+      "Rothenburg, Rich",
+      "Rotherwick, Tania & Robin"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022337"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 52, and the document number is DOJ-OGR-00022337."
+}

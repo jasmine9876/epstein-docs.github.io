@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": "2897",
+    "document_number": "DOJ-OGR-00026553",
+    "date": "8/12/19",
+    "document_type": "Official Count Slip",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2897 Metropolitan Correctional Center Official Count Slip Unit: 14A Date 8/12/19 Count: b(7)(F) Time: 4:00 am Print Name: b(6); b(7)(C) Signature: Print Name: Signature Metropolitan Correctional Center Official Count Slip Unit: b(7)(F) Date 8/12/19 Count: Time: 4:00 am Print Name: b(6); b(7)(C) Signature: Print Name: Signature Metropolitan Correctional Center Official Count Slip Unit: 14A Date 8/12/19 Count: Time: 4:22 am Print Name: b(6); b(7)(C) Signature: Print Name: Signature DOJ-OGR-00026553",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "14A 8/12/19 b(7)(F) 4:00 am b(6); b(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Unit: Date Count: Time: Print Name: Signature: Print Name: Signature",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "b(7)(F) 8/12/19 4:00 am b(6); b(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "14A 8/12/19 4:22 am b(6); b(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026553",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [],
+    "dates": [
+      "8/12/19"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026553"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as b(6); b(7)(C) and b(7)(F). The image quality is clear, but some handwritten text is partially obscured by the redactions."
+}

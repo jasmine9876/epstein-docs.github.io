@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "2892",
+    "document_number": "NYMAQ 530*05",
+    "date": "08-12-2019",
+    "document_type": "Inmate Roster",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2892 NYMAQ 530*05 * INMATE ROSTER * 08-12-2019 PAGE 001 OF 001 16:07:26 CATEGORY : OCT ASSIGNMENT : HOSP OPER CATG ASSIGNMENT GROUP CODE : FACILITY : NYM OPER CATG ASSIGNMENT NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK 0001 HOSP [b)(6), (b)(7)(C) 08-12-2019 K12-064L SUICIDE OR UNASSG G0000 TRANSACTION SUCCESSFULLY COMPLETED DOJ-OGR-00026548",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "NYMAQ 530*05 * INMATE ROSTER * 08-12-2019 PAGE 001 OF 001 16:07:26",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CATEGORY : OCT ASSIGNMENT : HOSP OPER CATG ASSIGNMENT GROUP CODE : FACILITY : NYM OPER CATG ASSIGNMENT",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK 0001 HOSP [b)(6), (b)(7)(C) 08-12-2019 K12-064L SUICIDE OR UNASSG",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "G0000 TRANSACTION SUCCESSFULLY COMPLETED",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026548",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "NYM"
+    ],
+    "locations": [],
+    "dates": [
+      "08-12-2019"
+    ],
+    "reference_numbers": [
+      "NYMAQ 530*05",
+      "K12-064L",
+      "DOJ-OGR-00026548"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as [b)(6), (b)(7)(C)]."
+}

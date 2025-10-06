@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": "3154",
+    "document_number": "DOJ-OGR-00026791",
+    "date": "8/10/2019",
+    "document_type": "Photo Sheet",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "Page 3154\n\n\n\nLieutenant's Office\n\nMetropolitan Correctional Center New York, N.Y.\nPhoto Sheet\nSpecial Investigative Section\n\nType of Incident N/A\nDate and Time of Incident 8/10/2019 @ 6:33 AM\nInmate Name(s) / Reg. No. Jeffrey Epstein #76318-054\nLocation of Incident photographs taken at outside hospital\nPhotograph(s) by (b)(6); (b)(7)(C) CMC\n\n(b)(6); (b)(7)(C)\n\nDOJ-OGR-00026791",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3154",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Lieutenant's Office",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center New York, N.Y.\nPhoto Sheet\nSpecial Investigative Section",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Type of Incident N/A\nDate and Time of Incident 8/10/2019 @ 6:33 AM\nInmate Name(s) / Reg. No. Jeffrey Epstein #76318-054\nLocation of Incident photographs taken at outside hospital\nPhotograph(s) by (b)(6); (b)(7)(C) CMC",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026791",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "Metropolitan Correctional Center",
+      "Bureau of Prisons",
+      "Department of Justice"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "8/10/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026791"
+    ]
+  },
+  "additional_notes": "The document contains redactions and is a photocopy of an official record from the Metropolitan Correctional Center in New York."
+}

@@ -1,0 +1,134 @@
+{
+  "document_metadata": {
+    "page_number": "2894",
+    "document_number": "NYMH4 530*05",
+    "date": "08-12-2019",
+    "document_type": "Inmate Roster",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2894 NYMH4 530*05 * INMATE ROSTER * 08-12-2019 PAGE 001 OF 001 CATEGORY: OCT GROUP CODE: ASSIGNMENT: FS OPER CATG ASSIGNMENT FACILITY: NYM OPER CATG ASSIGNMENT 15:34:07 NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK 0001 FS [b(6);b(7)(C) 08-12-2019 K12-062U FS PM 0002 08-12-2019 K07-002U FS AM 0003 08-12-2019 E12-593U FS PM 0004 08-12-2019 K08-018L FS WAREHOU 0005 08-12-2019 K09-025U FS PM 0006 08-12-2019 K07-007L FS PM 0007 08-12-2019 K11-053U FS PM 0008 08-12-2019 E07-556U FS PM 0009 08-12-2019 K09-027U FS PM 0010 08-12-2019 E12-592U FS PM 0011 08-12-2019 K12-078U FS PM 0012 08-12-2019 K10-045U FS PM 0013 08-12-2019 K10-044L FS PM 0014 08-12-2019 K11-053L FS WAREHOU SUICIDE OR SUICIDE OR SUICIDE OR G0000 TRANSACTION SUCCESSFULLY COMPLETED DOJ-OGR-00026550",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 2894",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NYMH4 530*05 * INMATE ROSTER * 08-12-2019 PAGE 001 OF 001",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CATEGORY: OCT GROUP CODE: ASSIGNMENT: FS OPER CATG ASSIGNMENT FACILITY: NYM OPER CATG ASSIGNMENT 15:34:07",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "0001 FS [b(6);b(7)(C) 08-12-2019 K12-062U FS PM",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0002 08-12-2019 K07-002U FS AM",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0003 08-12-2019 E12-593U FS PM",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0004 08-12-2019 K08-018L FS WAREHOU",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0005 08-12-2019 K09-025U FS PM",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0006 08-12-2019 K07-007L FS PM",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0007 08-12-2019 K11-053U FS PM",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0008 08-12-2019 E07-556U FS PM",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0009 08-12-2019 K09-027U FS PM",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0010 08-12-2019 E12-592U FS PM",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0011 08-12-2019 K12-078U FS PM",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0012 08-12-2019 K10-045U FS PM",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0013 08-12-2019 K10-044L FS PM",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0014 08-12-2019 K11-053L FS WAREHOU",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "SUICIDE OR SUICIDE OR SUICIDE OR",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "G0000 TRANSACTION SUCCESSFULLY COMPLETED",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026550",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "NYM",
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "08-12-2019"
+    ],
+    "reference_numbers": [
+      "NYMH4 530*05",
+      "DOJ-OGR-00026550"
+    ]
+  },
+  "additional_notes": "The document appears to be a roster of inmates, with some redacted information. The transaction was successfully completed."
+}

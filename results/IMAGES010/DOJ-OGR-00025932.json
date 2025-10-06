@@ -1,0 +1,89 @@
+{
+  "document_metadata": {
+    "page_number": "2092",
+    "document_number": "DOJ-OGR-00025932",
+    "date": null,
+    "document_type": "Eating/Shower Chart",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2092\nName of Inmate On Suicide Watch or Psych Observation: Epstein\nRegistration #: 76318-054\nEATING/SHOWER CHART\nDATE\tBREAKFAST\tLUNCH\tDINNER\tLIQUIDS\tOFFERED SHOWER\tRECEIVED SHOWER\n7-9-19\t√\t√\t√\t√\t\n7/10/19\t\t\t\t√\t\t√\n\nPlease check the appropriate box if the person on Suicide Watch/Psych Observation actually eats his meal. Do not check the box if he just received it, but did not eat it.\nPlace a check in the \"Liquids\" box each time the person drinks.\nThank you.",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Name of Inmate On Suicide Watch or Psych Observation:",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Registration #: ",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318-054",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EATING/SHOWER CHART",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DATE\tBREAKFAST\tLUNCH\tDINNER\tLIQUIDS\tOFFERED SHOWER\tRECEIVED SHOWER",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7-9-19\t√\t√\t√\t√",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/10/19\t\t\t\t√\t\t√",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Please check the appropriate box if the person on Suicide Watch/Psych Observation actually eats his meal. Do not check the box if he just received it, but did not eat it.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Place a check in the \"Liquids\" box each time the person drinks.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Thank you.",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025932",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7-9-19",
+      "7/10/19"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00025932"
+    ]
+  },
+  "additional_notes": "The document appears to be a photocopy or scan of an original form, with some handwritten entries and checkmarks. The overall quality is good, but there are some minor speckles and marks on the page."
+}

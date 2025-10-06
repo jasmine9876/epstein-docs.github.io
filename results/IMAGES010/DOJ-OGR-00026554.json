@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "2898",
+    "document_number": "DOJ-OGR-00026554",
+    "date": "8/12/19",
+    "document_type": "Official Count Slips",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2898 Metropolitan Correctional Center Official Count Slip Unit: 1 N Date 8/12/19 Count: Time: 400 pm Print Name: Signature: Print Name: Signature Metropolitan Correctional Center New York, New York Official Count Slip Unit: 2 B Date: 8.12.19 Count: Time: 400 1. Print Name: 1. Signature: 2. Print Name: 2. Signature: Metropolitan Correctional Center Official Count Slip Unit: 5 S Date 8/12/19 Count: Time: 3:30pm Print Name Signature: Print Name Signature DOJ-OGR-00026554",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "1 N 8/12/19 400 pm",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center New York, New York Official Count Slip",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "2 B 8.12.19 400",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "5 S 8/12/19 3:30pm",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "8/12/19",
+      "8.12.19"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026554"
+    ]
+  },
+  "additional_notes": "The document contains three 'Official Count Slips' from the Metropolitan Correctional Center, dated 8/12/19. The slips have handwritten entries for unit, date, time, and some signature blocks. The document is likely related to official counts or headcounts within the correctional facility."
+}

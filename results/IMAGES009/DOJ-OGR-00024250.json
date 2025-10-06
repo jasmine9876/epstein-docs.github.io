@@ -1,0 +1,51 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024250",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE NAME SIGNATURE Inmate Reg# Time in DATE NAME SIGNATURE Inmate Reg# Time in (b)(6), (b)(7)(C) Dpostar 2438-07 12:15 (b)(6), (b)(7)(C) DATE NAME SIGNATURE Inmate Reg# Time in (b)(6), (b)(7)(C) Gopl 76509 8:30 (b)(6), (b)(7)(C) DATE NAME SIGNATURE Inmate Reg# Time in (b)(6), (b)(7)(C) Gps/m 76515 8:20 (b)(6), (b)(7)(C) DOJ-OGR-00024250",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "DATE NAME SIGNATURE Inmate Reg# Time in",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6), (b)(7)(C) Dpostar 2438-07 12:15",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6), (b)(7)(C) Gopl 76509 8:30",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6), (b)(7)(C) Gps/m 76515 8:20",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024250",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "2438-07",
+      "76509",
+      "76515",
+      "DOJ-OGR-00024250"
+    ]
+  },
+  "additional_notes": "The document contains heavily redacted information with most of the content obscured. The visible text is primarily handwritten and appears to be a log or record of some sort, possibly related to inmates or individuals in a correctional facility."
+}

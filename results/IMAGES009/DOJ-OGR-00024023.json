@@ -1,0 +1,52 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024023",
+    "date": null,
+    "document_type": "Inmate Log or Record",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE NAME Signature Inmate Reg # Time Time 7-22 LICHERMAN EPSTEIN 76318-054 1621 2327 7/24 ScARLA HARRIGAN AMF EPSTEIN EPSTEIN 76318-054 76318-054 1635 1:00 76318 054( 102611 DOJ-OGR-00024023",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE NAME Signature Inmate Reg # Time Time",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "7-22 LICHERMAN EPSTEIN 76318-054 1621 2327",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/24 ScARLA HARRIGAN AMF EPSTEIN EPSTEIN 76318-054 76318-054 1635 1:00 76318 054( 102611",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024023",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "LICHERMAN",
+      "ScARLA HARRIGAN",
+      "AMF",
+      "EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7-22",
+      "7/24"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024023"
+    ]
+  },
+  "additional_notes": "The document appears to be a log or record of inmate interactions or visits. Some information is redacted with green blocks, suggesting sensitive or personal data. The handwriting is mostly legible, but some parts could be clearer."
+}

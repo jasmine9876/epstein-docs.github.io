@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "DOJ-OGR-00024465",
+    "date": "08/19/2019",
+    "document_type": "Outside Person Center Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Date: 08/19/2019 Time: 01:41 PM Location: DC Federal Bureau of Prisons TRUView Outside Person Center Report Sensitive But Unclassified Money Sent Transaction Date Loc Trans Type Amount Reg # Inmate Nm Address City St Zip Phone 7/8/2019 10:04 AM NYM Western Union $200.00 76318054 EPSTEIN, JEFFREY [REDACTED] User ID: TF14688 Page 2 of 2 DOJ-OGR-00024465",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date: 08/19/2019 Time: 01:41 PM",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Federal Bureau of Prisons TRUView Outside Person Center Report Sensitive But Unclassified",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Money Sent Transaction Date Loc Trans Type Amount Reg # Inmate Nm Address City St Zip Phone",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "7/8/2019 10:04 AM NYM Western Union $200.00 76318054 EPSTEIN, JEFFREY [REDACTED]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "User ID: TF14688 Page 2 of 2 DOJ-OGR-00024465",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM",
+      "DC"
+    ],
+    "dates": [
+      "08/19/2019",
+      "7/8/2019"
+    ],
+    "reference_numbers": [
+      "76318054",
+      "TF14688",
+      "DOJ-OGR-00024465"
+    ]
+  },
+  "additional_notes": "The document contains redacted information, likely for privacy or security reasons."
+}

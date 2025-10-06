@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00026621",
+    "date": null,
+    "document_type": "Official Count Slip",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Metropolitan Correctional Center Official Count Slip Unit: 7LA Date: 7-11-19 Count: 61128 Time: 6:40 PM Print Name: Signature: Print Name: Signature: Metropolitan Correctional Center New York, New York Official Count Slip Unit: 7LB Date: 8/1/19 Count: 61128 Time: 8:10pm 1. Print Name: 1. Signature: 2. Print Name: 2. Signature: Page 2956 DOJ-OGR-00026621",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "7LA 7-11-19 61128 6:40 PM",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center New York, New York Official Count Slip",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "7LB 8/1/19 61128 8:10pm",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 2956 DOJ-OGR-00026621",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [
+      "New York, New York"
+    ],
+    "dates": [
+      "7-11-19",
+      "8/1/19"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026621",
+      "61128"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned copy of two Official Count Slips from the Metropolitan Correctional Center. The slips contain handwritten information, including dates, times, and counts. The document is in good condition, with no visible redactions or damage."
+}

@@ -1,0 +1,50 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Inmate Visit Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Depth Time IN Time OUT DATE NAME Signature Inmate Reg# Time IN Time OUT 76318-054 2-45 76318-054 6-28 2:55 1-17 Caliandro VJt Epstein 76318-054 12:30 2:30 8:30 12:00 7/7/18 ME B3 35 76318 054",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "Depth Time IN Time OUT DATE NAME Signature Inmate Reg# Time IN Time OUT",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318-054 2-45",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318-054 6-28 2:55 1-17 Caliandro VJt Epstein 76318-054 12:30 2:30",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8:30 12:00 7/7/18 ME B3 35 76318 054",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Caliandro",
+      "ME"
+    ],
+    "organizations": [
+      "Epstein"
+    ],
+    "locations": [],
+    "dates": [
+      "7/7/18"
+    ],
+    "reference_numbers": [
+      "76318-054"
+    ]
+  },
+  "additional_notes": "The document appears to be a log of inmate visits, with handwritten entries. Some parts of the image are obscured by a green overlay."
+}

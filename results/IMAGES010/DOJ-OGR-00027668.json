@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Telecommunications or Coded Message",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "028/029 C/OP OPC PHX1A8AES-15FEB:1800/1C8/AF CANCELLATION DUE TO NO TICKET/1285673791058/ATL/13FEB - 0017Z/AF 022 F 20FEB CDGJFK 029 A/OP OPW PHX1A8AEZ-14FEB:1800/1C7/AF REQUIRES TICKET ON OR BEFORE 15FEB:1800/AF 022 F 20FEB CDGJFK 029 A/OP OPC PHX1A8AED-15FEB:1800/1C8/AF CANCELLATION DUE TO NO TICKET/1285673791058/ATL/13FEB - 0022Z/AF 022 F 20FEB CDGJFK 029 A/F FHE 057-7380953561/EPSTEIN/JEFFREY EDWARD 029 A/F FHE 057-7380953566/(b)(6) 029 Z/ HDQRM1S 130022 DKBB8BADC1044B 0909703D00FB05 CR-HDQ RM 1S 13FEB0022Z 030 Z/ 1AINV RM AF 130022 CR-1AINV RM AF 0000 13FEB0022Z 029/031 C/OP OPW PHX1A8AEZ-14FEB:1800/1C7/AF REQUIRES TICKET ON OR BEFORE 15FEB:1800/AF 022 F 20FEB CDGJFK 029/031 C/OP OPC PHX1A8AED-15FEB:1800/1C8/AF CANCELLATION DUE TO NO TICKET/1285673791058/ATL/13FEB - 0022Z/AF 022 F 20FEB CDGJFK 031 Z/ HDQRM1S 131730 CR-HDQ RM 1S 13FEB1730Z 032 Z/ HDQRM1S 131733 CR-HDQ RM 1S 13FEB1733Z 033 A/SS AF 008 F 19FEB 3 CDGJFK LK2 1910 2120/LK 1A/E /1S/US/C/I/CAB P//0//// /Y 4408/B11.07///EY 4396/PARNYC//F 033 A/OP OPW PHX1A8AES-14FEB:1400/1C7/AF REQUIRES TICKET ON OR BEFORE 16FEB:1400/AF 008 F 19FEB CDGJFK 033 A/OP OPC PHX1A8AET-16FEB:1400/1C8/AF CANCELLATION DUE TO NO TICKET/1285677414284/ATL/15FEB - 2049Z/AF 008 F 19FEB CDGJFK 033 Z/ HDQRM1S 152049 DKEB36B3C156D5 095BB0390006A1 CR-HDQ RM 1S 15FEB2049Z 034 P/ QE/PHX1A8AES/1C0 034 Z/ OPW AUTO WARNING CR-MUC1A0SYS AW 0000AW 15FEB2049Z 035 Z/ 1AINV RM AF 152049 CR-1AINV RM AF 0000 15FEB2049Z 028/036 C/SS AF 022 F 20FEB 3 CDGJFK HK2 0820 1030/LK 1A/E /1S/US/C/I/CAB P//0//// /Y 4408/B13.75///EY 4394/PARNYC//F 033/036 C/OP OPW PHX1A8AES-14FEB:1400/1C7/AF REQUIRES TICKET ON OR BEFORE 16FEB:1400/AF 008 F 19FEB CDGJFK 033/036 C/OP OPC PHX1A8AET-16FEB:1400/1C8/AF CANCELLATION DUE TO NO TICKET/1285677414284/ATL/15FEB - 2049Z/AF 008 F 19FEB CDGJFK DOJ-OGR-00027668",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "The entire document is a series of coded telecommunications messages.",
+      "position": "top"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "HDQRM1S",
+      "1AINV RM AF",
+      "OPW",
+      "OPC",
+      "AF"
+    ],
+    "locations": [
+      "PHX1A8AES",
+      "ATL",
+      "CDGJFK",
+      "PARNYC",
+      "MUC1A0SYS"
+    ],
+    "dates": [
+      "15FEB",
+      "14FEB",
+      "13FEB",
+      "20FEB",
+      "16FEB",
+      "19FEB"
+    ],
+    "reference_numbers": [
+      "057-7380953561",
+      "057-7380953566",
+      "1285673791058",
+      "1285677414284",
+      "130022",
+      "131730",
+      "131733",
+      "152049",
+      "0000",
+      "0017Z",
+      "0022Z",
+      "1400",
+      "1800",
+      "2049Z",
+      "2120",
+      "0820",
+      "1030",
+      "4408",
+      "4396",
+      "4394",
+      "B11.07",
+      "B13.75",
+      "DKBB8BADC1044B",
+      "0909703D00FB05",
+      "DKEB36B3C156D5",
+      "095BB0390006A1"
+    ]
+  },
+  "additional_notes": "The document appears to be a series of coded telecommunications or messages related to flight or travel arrangements, including cancellations and requirements for tickets. It includes references to specific individuals, locations, and codes. The document is entirely in a formal or coded language, suggesting it is from an official or professional context, possibly related to aviation or government."
+}

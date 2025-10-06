@@ -1,0 +1,94 @@
+{
+  "document_metadata": {
+    "page_number": "0052",
+    "document_number": "DOJ-OGR-00028246",
+    "date": "04282014",
+    "document_type": "TECSII - PRIMARY QUERY HISTORY PASSENGER ACTIVITY",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 TECSII - PRIMARY QUERY HISTORY 04282014 *A *B PASSENGER ACTIVITY *C PAGE NO. 0052 NAME DOB QUERY DATE TIME AGN RSLT LNE TYP REF LANE TERM/ API DIM EPSTEIN, JEFFREY EDWARD 012053 060910 2125 CUS *D AIR INS :$01 N N A523-PALM BEACH, INTERNATION DOC: 469911707 US P INSP: *E EPSTEIN, JEFFREY EDWARD 012053 062410 2140 CUS *F AIR CUS :$02 N N A523-PALM BEACH, INTERNATION DOC: 469911707 US P INSP: *G EPSTEIN, JEFFREY EDWARD 012053 053110 1938 CUS *H AIR CUS :$02 N N A523-PALM BEACH, INTERNATION DOC: 469911707 US P INSP: *I EPSTEIN, JEFFREY EDWARD E 012053 101413 0000 *J API R N JOHN F KENNEDY INTL DOC: 469911707 US P INSP: APIS QRY EPSTEIN, JEFFREYE 012053 031302 0856 INS *K API W/19 C N 4701- DOC: 110708878 US P INSP: *L (b) (7) (E) END OF DATA (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) *E - (b) (6), (b) (7) (C) *F - (b) (7) (E) *G - (b) (6), (b) (7) (C) *H - (b) (7) (E) *I - (b) (6), (b) (7) (C) *J - (b) (7) (E) *K - (b) (7) (E) *L - (b) (6), (b) (7) (C) DOJ-OGR-00028246",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "TECSII - PRIMARY QUERY HISTORY PASSENGER ACTIVITY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE NO. 0052",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB QUERY DATE TIME AGN RSLT LNE TYP REF LANE TERM/ API DIM",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY EDWARD 012053 060910 2125 CUS *D AIR INS :$01 N N A523-PALM BEACH, INTERNATION DOC: 469911707 US P INSP: *E",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY EDWARD 012053 062410 2140 CUS *F AIR CUS :$02 N N A523-PALM BEACH, INTERNATION DOC: 469911707 US P INSP: *G",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY EDWARD 012053 053110 1938 CUS *H AIR CUS :$02 N N A523-PALM BEACH, INTERNATION DOC: 469911707 US P INSP: *I",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY EDWARD E 012053 101413 0000 *J API R N JOHN F KENNEDY INTL DOC: 469911707 US P INSP: APIS QRY",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREYE 012053 031302 0856 INS *K API W/19 C N 4701- DOC: 110708878 US P INSP: *L",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "(b) (7) (E) END OF DATA",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) *E - (b) (6), (b) (7) (C) *F - (b) (7) (E) *G - (b) (6), (b) (7) (C) *H - (b) (7) (E) *I - (b) (6), (b) (7) (C) *J - (b) (7) (E) *K - (b) (7) (E) *L - (b) (6), (b) (7) (C)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028246",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN",
+      "JEFFREY EDWARD E EPSTEIN",
+      "JEFFREYE EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "PALM BEACH",
+      "JOHN F KENNEDY INTL"
+    ],
+    "dates": [
+      "04282014",
+      "060910",
+      "062410",
+      "053110",
+      "101413",
+      "031302"
+    ],
+    "reference_numbers": [
+      "469911707",
+      "110708878",
+      "DOJ-OGR-00028246"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted version of a TECSII query history report. The redactions are indicated by (b) (7) (E) and other similar notations."
+}

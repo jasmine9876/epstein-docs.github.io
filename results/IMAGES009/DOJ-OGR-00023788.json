@@ -1,0 +1,68 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "DOJ-OGR-00023788",
+    "date": "July 30, 2019",
+    "document_type": "letter",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Mr. Jeffrey Edward Epstein\nRegister Number: 76318-054\nAge 66, White Male\nMCC New York\nMetropolitan Correctional Center\nEmail: NYM/ExecAssistant@bop.gov\nPhone: 646-836-6300\nFax: 646-836-7751\n150 Park Row\nNew York City, NY 10007\n\nJuly 30, 2019\n\nDear Mr. Epstein,\nYou called me circa August 2017 and you and I had a Skype call with my Ph.D. student, [b(6), (b)(7)(C)] , in December 2017.\n\n[Image of a woman with a caption \"I can help you. I am now throwing you a lifesaver. You can donate to my university, the historically black college, Morgan State University. Our accepting your $5 million will show the world you are not a pariah and may help you avoid a conviction like Bill Cosby. The donation can ...\"]\n\n1\nDOJ-OGR-00023788",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Mr. Jeffrey Edward Epstein\nRegister Number: 76318-054\nAge 66, White Male\nMCC New York\nMetropolitan Correctional Center\nEmail: NYM/ExecAssistant@bop.gov\nPhone: 646-836-6300\nFax: 646-836-7751\n150 Park Row\nNew York City, NY 10007",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "July 30, 2019",
+      "position": "top-right"
+    },
+    {
+      "type": "printed",
+      "content": "Dear Mr. Epstein,\nYou called me circa August 2017 and you and I had a Skype call with my Ph.D. student, [b(6), (b)(7)(C)] , in December 2017.",
+      "position": "middle"
+    },
+    {
+      "type": "image-caption",
+      "content": "I can help you. I am now throwing you a lifesaver. You can donate to my university, the historically black college, Morgan State University. Our accepting your $5 million will show the world you are not a pariah and may help you avoid a conviction like Bill Cosby. The donation can ...",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "1",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00023788",
+      "position": "bottom-right"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Edward Epstein",
+      "Bill Cosby"
+    ],
+    "organizations": [
+      "MCC New York",
+      "Metropolitan Correctional Center",
+      "Morgan State University"
+    ],
+    "locations": [
+      "New York City",
+      "NY"
+    ],
+    "dates": [
+      "July 30, 2019",
+      "August 2017",
+      "December 2017"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00023788"
+    ]
+  },
+  "additional_notes": "The document appears to be a letter to Jeffrey Epstein with a suspicious offer of help in exchange for a donation to Morgan State University. The image contains a redacted name and a reference number."
+}

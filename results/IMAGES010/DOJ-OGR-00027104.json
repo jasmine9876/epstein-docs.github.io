@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00027104",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Epstein 75618-054 17:47 5:00 8/1/19 Epstein 46318-054 2:00 3:00 3/1/19 8/1/19 Epstein 4631884 20:37 8/1",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "Epstein 75618-054 17:47 5:00",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/1/19",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein 46318-054 2:00 3:00",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "3/1/19 8/1/19",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein 4631884 20:37",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/1",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "3/1/19",
+      "8/1/19",
+      "8/1"
+    ],
+    "reference_numbers": [
+      "75618-054",
+      "46318-054",
+      "4631884"
+    ]
+  },
+  "additional_notes": "The document appears to be a log or record of some sort, with handwritten entries. The majority of the content is redacted, leaving only a few visible handwritten notes. The visible text includes names, dates, times, and reference numbers."
+}

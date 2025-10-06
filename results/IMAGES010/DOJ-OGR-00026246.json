@@ -1,0 +1,49 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "DOJ-OGR-00026246",
+    "date": "07/09/2019",
+    "document_type": "Inmate Medical Record",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2586 Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Encounter Date: 07/09/2019 12:35 Sex: M Race: WHITE Reg #: 76318-054 Provider: (b)(6); (b)(7)(C) MLP Facility: NYM Unit: H01 Observations: Draining Skin Lesions: No Signs of Lice: No Signs of Scabies: No Signs of Recent Trauma: No Recent Tattoos: No Needle Marks: No Signs of Rash: No Open Sores: No Wounds: No Body Deformities: No Tremors: No Sweating: No Comments: Generated 07/09/2019 13:03 by (b)(6); (b)(7)(C) MLP Bureau of Prisons - NYM Page 4 of 13 DOJ-OGR-00026246",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Encounter Date: 07/09/2019 12:35 Sex: M Race: WHITE Reg #: 76318-054 Provider: (b)(6); (b)(7)(C) MLP Facility: NYM Unit: H01",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Observations: Draining Skin Lesions: No Signs of Lice: No Signs of Scabies: No Signs of Recent Trauma: No Recent Tattoos: No Needle Marks: No Signs of Rash: No Open Sores: No Wounds: No Body Deformities: No Tremors: No Sweating: No Comments:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/09/2019 13:03 by (b)(6); (b)(7)(C) MLP Bureau of Prisons - NYM Page 4 of 13 DOJ-OGR-00026246",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons",
+      "MLP"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/09/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026246"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b)(6); (b)(7)(C)'. The document is a medical record of inmate Jeffrey Epstein."
+}

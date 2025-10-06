@@ -1,0 +1,67 @@
+{
+  "document_metadata": {
+    "page_number": "453",
+    "document_number": "DOJ-OGR-00024928",
+    "date": "Sunday, August 11, 2019",
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 453\n\nSunday, August 11, 2019\n\n12:15 am Computer Services Manager departs the institution.\n10:40 am OIG [b(6); (b(7)(C)] arrives at institution.\n11:15 am OIG [b(6); (b(7)(C)] departs institution with two computers FPS 021407270 and FPS 0214207268.\n2:00 pm OIG [b(6); (b(7)(C)] the institution.\n\nDOJ-OGR-00024928",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 453",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Sunday, August 11, 2019",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "12:15 am Computer Services Manager departs the institution.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "10:40 am OIG [b(6); (b(7)(C)] arrives at institution.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "11:15 am OIG [b(6); (b(7)(C)] departs institution with two computers FPS 021407270 and FPS 0214207268.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "2:00 pm OIG [b(6); (b(7)(C)] the institution.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024928",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "OIG",
+      "FPS"
+    ],
+    "locations": [
+      "institution"
+    ],
+    "dates": [
+      "Sunday, August 11, 2019"
+    ],
+    "reference_numbers": [
+      "021407270",
+      "0214207268",
+      "DOJ-OGR-00024928"
+    ]
+  },
+  "additional_notes": "The document appears to be a log or report of events at an institution on August 11, 2019. Some names and potentially sensitive information have been redacted with [b(6); (b(7)(C)]."
+}

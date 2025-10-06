@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024039",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE NAME Signature Inmate Deg-H Time Time IN OUT (b)(6), (b)(7)(C) 8/1 Chris (b)(6), (b)(7)(C) Epstein 76318-054 1500 - 8/1/19 Sch-n (b)(6), (b)(7)(C) Epstn 75818-054 17:47 5:40 DUAL AUTHORIZATION 3/1/19 TREMONTIE (b)(6), (b)(7)(C) EPSTEIN 46318-0)4 2:14 3:04 3/1/19 Shern (b)(6), (b)(7)(C) EPSTEIN 46318-0)4 2:10 3:04 DOJ-OGR-00024039",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "DATE NAME Signature Inmate Deg-H Time Time IN OUT",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/1 Chris (b)(6), (b)(7)(C) Epstein 76318-054 1500 -",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/1/19 Sch-n (b)(6), (b)(7)(C) Epstn 75818-054 17:47 5:40",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "DUAL AUTHORIZATION",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "3/1/19 TREMONTIE (b)(6), (b)(7)(C) EPSTEIN 46318-0)4 2:14 3:04 3/1/19 Shern (b)(6), (b)(7)(C) EPSTEIN 46318-0)4 2:10 3:04",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024039",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Chris",
+      "Sch-n",
+      "TREMONTIE",
+      "Shern"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "8/1",
+      "8/1/19",
+      "3/1/19"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "75818-054",
+      "46318-0)4",
+      "DOJ-OGR-00024039"
+    ]
+  },
+  "additional_notes": "The document contains handwritten text and redactions. The redactions are indicated by (b)(6), (b)(7)(C)."
+}

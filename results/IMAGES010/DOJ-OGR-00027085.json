@@ -1,0 +1,46 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00027085",
+    "date": null,
+    "document_type": "Inmate Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE NAME Signature Inmate Reg # TIME IN TIME OUT 7/21 (b)(6), (b)(7)(C) Epstein Epstein 76318-054 76318-054 02:15 3:30 12:00 6:00 7-21 (b)(6), (b)(7)(C) Epstein 76318-054 1:50 7-21 (b)(6), (b)(7)(C) Epstein 76318-054 5:05 5:54 (b)(6), (b)(7)(C) 7/21 (b)(6), (b)(7)(C) Epstein 76318-054 5:50 7/22 (b)(6), (b)(7)(C) (b)(6) J. Epstein 76318-054 8:47 10:21",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE NAME Signature Inmate Reg # TIME IN TIME OUT",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/21 (b)(6), (b)(7)(C) Epstein Epstein 76318-054 76318-054 02:15 3:30 12:00 6:00 7-21 (b)(6), (b)(7)(C) Epstein 76318-054 1:50 7-21 (b)(6), (b)(7)(C) Epstein 76318-054 5:05 5:54 (b)(6), (b)(7)(C) 7/21 (b)(6), (b)(7)(C) Epstein 76318-054 5:50 7/22 (b)(6), (b)(7)(C) (b)(6) J. Epstein 76318-054 8:47 10:21",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027085",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein",
+      "J. Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/21",
+      "7-21",
+      "7/21",
+      "7/22"
+    ],
+    "reference_numbers": [
+      "76318-054"
+    ]
+  },
+  "additional_notes": "The document appears to be a log of inmate activities, with multiple entries for Jeffrey Epstein on July 21 and July 22. The document has been redacted to remove personal identifying information."
+}

@@ -1,0 +1,48 @@
+{
+  "document_metadata": {
+    "page_number": "3279",
+    "document_number": "DOJ-OGR-00026868",
+    "date": "7/28/19",
+    "document_type": "Observation Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Epstein #76718-054 7/28/19\n9:15 Ilm Epstein asleep [redacted]\n9:20 Ilm Epstein asleep\n9:45 Ilm Epstein lying still apparently out for the night [redacted]\n10:00 Ilm Epstein lying silently on his bed\n10:15 Ilm Epstein motionless and asleep\n10:30 Ilm Epstein stays asleep\n10:45 Ilm Epstein still silent\n11:00 END SHIFT\n11:00 PM [redacted] assumes responsibility for the psych observation of inmate EPSTEIN #76718-054 [redacted] at 1108 PM on 7/28/19\n11:00 PM Inmate EPSTEIN is sleeping [redacted]\n11:15 PM Inmate EPSTEIN is sleeping\n11:30 PM Inmate EPSTEIN is sleeping\n11:45 PM Inmate EPSTEIN is sleeping\n12:00 AM Inmate EPSTEIN is sleeping\n12:15 AM Inmate EPSTEIN is sleeping\n12:30 AM Inmate EPSTEIN is sleeping\n12:45 AM Inmate EPSTEIN is sleeping\n12:53 AM Staff sounds\n1:00 AM Inmate EPSTEIN is sleeping [redacted]",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "Epstein #76718-054 7/28/19",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "9:15 Ilm Epstein asleep [redacted]\n9:20 Ilm Epstein asleep\n9:45 Ilm Epstein lying still apparently out for the night [redacted]\n10:00 Ilm Epstein lying silently on his bed\n10:15 Ilm Epstein motionless and asleep\n10:30 Ilm Epstein stays asleep\n10:45 Ilm Epstein still silent\n11:00 END SHIFT",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "11:00 PM [redacted] assumes responsibility for the psych observation of inmate EPSTEIN #76718-054 [redacted] at 1108 PM on 7/28/19",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "11:00 PM Inmate EPSTEIN is sleeping [redacted]\n11:15 PM Inmate EPSTEIN is sleeping\n11:30 PM Inmate EPSTEIN is sleeping\n11:45 PM Inmate EPSTEIN is sleeping\n12:00 AM Inmate EPSTEIN is sleeping\n12:15 AM Inmate EPSTEIN is sleeping\n12:30 AM Inmate EPSTEIN is sleeping\n12:45 AM Inmate EPSTEIN is sleeping\n12:53 AM Staff sounds\n1:00 AM Inmate EPSTEIN is sleeping [redacted]",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/28/19"
+    ],
+    "reference_numbers": [
+      "#76718-054",
+      "DOJ-OGR-00026868"
+    ]
+  },
+  "additional_notes": "The document appears to be a handwritten log of observations of inmate Epstein. There are several redactions throughout the document, indicated by [redacted] or (b)(6); (b)(7)(C)."
+}

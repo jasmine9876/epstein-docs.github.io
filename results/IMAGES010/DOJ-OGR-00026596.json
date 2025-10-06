@@ -1,0 +1,95 @@
+{
+  "document_metadata": {
+    "page_number": "2940",
+    "document_number": "DOJ-OGR-00026596",
+    "date": "8/11/2019",
+    "document_type": "Official Count Slip",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2940 Metropolitan Correctional Center Official Count Slip Unit: YN Date: 8/11/2019 Time: 5:00 AM Count: (b)(7)(F) Print Name: (b)(6); (b)(7)(C) Signature: (b)(6); (b)(7)(C) Print Name: Signature: Metropolitan Correctional Center Official Count Slip Unit: 7A Date: 8/11/2019 Time: 5:00 AM Count: (b)(7)(F) Print Name: (b)(6); (b)(7)(C) Signature: Print Name: Signature: Metropolitan Correctional Center New York, New York Official Count Slip Unit: 7B Date: 8/11/19 Time: 5:00 AM Count: (b)(7)(F) 1. Print Name: (b)(6); (b)(7)(C) 1. Signature: 2. Print Name: 2. Signature: DOJ-OGR-00026596",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "YN 8/11/2019 5:00 AM",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Unit: Date: Time: Count: Print Name: Signature: Print Name: Signature:",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(7)(F) (b)(6); (b)(7)(C) (b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7A 8/11/2019 5:00 AM",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Unit: Date: Time: Count: Print Name: Signature: Print Name: Signature:",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(7)(F) (b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center New York, New York Official Count Slip",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7B 8/11/19 5:00 AM",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Unit: Date: Time: Count: 1. Print Name: 1. Signature: 2. Print Name: 2. Signature:",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(7)(F) (b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026596",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "8/11/2019",
+      "8/11/19"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026596"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6); (b)(7)(C) and (b)(7)(F). The document appears to be a scan of a printed form with handwritten entries."
+}

@@ -1,0 +1,77 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "9/9/19 (b)(6), (b)(7)(C) Epstein 7/18/2014 0:30 1:30 39 (b)(6), (b)(7)(C) Epstein J.Epstein 7/18/2014 11:00 10:35 8/9 (b)(6), (b)(7)(C) 8/7 8/7 Epstein Epstein 7/31/2014 2:22 6:45 7/31/2014 2:20 6:45 (b)(6), (b)(7)(C) Epstein 7/31/2014 2:20 6:45 DOJ-OGR-00027124",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "9/9/19",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein 7/18/2014 0:30 1:30",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "39 8/9",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein J.Epstein 7/18/2014 11:00 10:35",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/7 8/7",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein Epstein 7/31/2014 2:22 6:45 7/31/2014 2:20 6:45",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein 7/31/2014 2:20 6:45",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027124",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein",
+      "J.Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "9/9/19",
+      "7/18/2014",
+      "8/9",
+      "8/7",
+      "7/31/2014"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00027124"
+    ]
+  },
+  "additional_notes": "The document appears to be a log or record of some sort, with multiple entries for 'Epstein' on different dates. The majority of the content is redacted."
+}

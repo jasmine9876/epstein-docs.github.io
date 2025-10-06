@@ -1,0 +1,40 @@
+{
+  "document_metadata": {
+    "page_number": "2130",
+    "document_number": "DOJ-OGR-00025970",
+    "date": null,
+    "document_type": "log or report",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2130\n12:45 AM Inmate EPSTEIN is sleeping\n1:00 AM Inmate EPSTEIN is sleeping\n1:15 AM Inmate EPSTEIN is sleeping\n1:28 AM rounds #2\n1:30 AM Inmate EPSTEIN is sleeping\n1:45 AM Inmate EPSTEIN is sleeping\n2:00 AM Inmate EPSTEIN is sleeping\n2:15 AM Inmate EPSTEIN is sleeping\n2:30 AM Inmate EPSTEIN is sleeping\n2:45 AM Inmate EPSTEIN is sleeping\n3:00 AM Inmate EPSTEIN is sleeping\n3:02 AM End Shift\n3:00 AM\nresponsibility for ph# 76318-054 in cell #4\n3:15 AM Inmate EPSTEIN is sleeping\n3:20 AM Inmate EPSTEIN is awake drinking water and back to sleep after that\n3:30 AM Inmate EPSTEIN is sleeping\n3:45 AM Inmate EPSTEIN is sleeping\n4:00 AM Inmate EPSTEIN is sleeping\n4:15 AM Inmate EPSTEIN is sleeping\n4:30 AM Inmate EPSTEIN is sleeping\n4:45 AM Inmate EPSTEIN is sleeping",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 2130",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "12:45 AM Inmate EPSTEIN is sleeping\n1:00 AM Inmate EPSTEIN is sleeping\n1:15 AM Inmate EPSTEIN is sleeping\n1:28 AM rounds #2\n1:30 AM Inmate EPSTEIN is sleeping\n1:45 AM Inmate EPSTEIN is sleeping\n2:00 AM Inmate EPSTEIN is sleeping\n2:15 AM Inmate EPSTEIN is sleeping\n2:30 AM Inmate EPSTEIN is sleeping\n2:45 AM Inmate EPSTEIN is sleeping\n3:00 AM Inmate EPSTEIN is sleeping\n3:02 AM End Shift\n3:00 AM\nresponsibility for ph# 76318-054 in cell #4 assumes\n3:15 AM Inmate EPSTEIN is sleeping\n3:20 AM Inmate EPSTEIN is awake drinking water and back to sleep after that\n3:30 AM Inmate EPSTEIN is sleeping\n3:45 AM Inmate EPSTEIN is sleeping\n4:00 AM Inmate EPSTEIN is sleeping\n4:15 AM Inmate EPSTEIN is sleeping\n4:30 AM Inmate EPSTEIN is sleeping\n4:45 AM Inmate EPSTEIN is sleeping",
+      "position": "main content"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025970",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "76318-054"
+    ]
+  },
+  "additional_notes": "The document appears to be a log or report detailing the status of Inmate EPSTEIN over a period of time. The handwriting is generally legible, but there are some redactions marked as '(b)(6); (b)(7)(C)' which suggest that the document has been processed for release with certain information withheld for privacy or security reasons."
+}

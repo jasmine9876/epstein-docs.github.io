@@ -1,0 +1,97 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "NYM 5267.06F",
+    "date": "July 17, 2009",
+    "document_type": "Daily Atty. Room / Visiting Room Inventory",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Visiting NYM 5267.06F July 17, 2009 Attachment C Metropolitan Correctional Center - New York Daily Atty. Room / Visiting Room Inventory Date: 7/20/09 Inmate Name Number Unit Officer Time In Time Out Property 1 Epstein 7631854ZA 810 Filder (b)(6) (b)(7)(C) (b)(6) (b)(7)(C) 14 9 15 Anthey clear from Brown 81131053 16 17 18 Perez clear from Perez 90898053 19 9120w53 20 The only authorized items allowed in the attorney / visiting room are a plain wedding band (without any type of stone), a religious medal (not to exceed a value of $100.00), and legal papers when necessary. i.e. co-defendant meeting. This form will be turned in daily to the Lieutenants Office upon the closing of the attorney / visiting room. After review, the Operations Lieutenant will forward to the Captain's secretary to retain on file for 30 days. Date: Time: ENW Operations Signature: Sensitive But Unclassified DOJ-OGR-00027135",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Visiting NYM 5267.06F July 17, 2009",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Attachment C Metropolitan Correctional Center - New York Daily Atty. Room / Visiting Room Inventory",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/20/09",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Inmate Name Number Unit Officer Time In Time Out Property",
+      "position": "table header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein 7631854ZA 810 Filder",
+      "position": "table row"
+    },
+    {
+      "type": "handwritten",
+      "content": "Anthey clear from Brown 81131053",
+      "position": "table row"
+    },
+    {
+      "type": "handwritten",
+      "content": "Perez clear from Perez 90898053",
+      "position": "table row"
+    },
+    {
+      "type": "handwritten",
+      "content": "9120w53",
+      "position": "table row"
+    },
+    {
+      "type": "printed",
+      "content": "The only authorized items allowed in the attorney / visiting room are a plain wedding band (without any type of stone), a religious medal (not to exceed a value of $100.00), and legal papers when necessary. i.e. co-defendant meeting. This form will be turned in daily to the Lieutenants Office upon the closing of the attorney / visiting room. After review, the Operations Lieutenant will forward to the Captain's secretary to retain on file for 30 days.",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Date: Time: ENW Operations Signature:",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Sensitive But Unclassified DOJ-OGR-00027135",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein",
+      "Anthey",
+      "Brown",
+      "Perez"
+    ],
+    "organizations": [
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "July 17, 2009",
+      "7/20/09",
+      "81131053",
+      "90898053"
+    ],
+    "reference_numbers": [
+      "NYM 5267.06F",
+      "7631854ZA",
+      "81131053",
+      "90898053",
+      "9120w53",
+      "DOJ-OGR-00027135"
+    ]
+  },
+  "additional_notes": "The document contains handwritten entries and redactions. The redactions are marked as (b)(6) (b)(7)(C)."
+}

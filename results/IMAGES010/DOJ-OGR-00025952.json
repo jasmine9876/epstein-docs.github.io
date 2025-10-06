@@ -1,0 +1,36 @@
+{
+  "document_metadata": {
+    "page_number": "2112",
+    "document_number": "76318-050",
+    "date": null,
+    "document_type": "Inmate Observation Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "EPSTEIN #76318-050\n3:00 am for psych cell #4 I'm Epstein 27758-050\n3:00 am inmate Epstein is sleeping\n3:05 am inmate Epstein is awake using the bath\n3:15 am inmate Epstein is awake still sleeping\n3:30 am inmate Epstein is sleeping\n3:45 am inmate Epstein is sleeping\n4:00 am inmate Epstein is sleeping\n4:15 am inmate Epstein is sleeping\n4:30 am inmate Epstein is sleeping\n4:45 am inmate Epstein is sleeping\n5:00 am inmate Epstein wake up to use bath and back to sleep\n5:15 am inmate Epstein is sleeping\n5:30 am inmate Epstein is sleeping\n5:45 am inmate Epstein is sleeping\n6:00 am inmate Epstein is sleeping\n6:15 am inmate Epstein is sleeping\n6:30 am inmate Epstein is sleeping\n6:45 am inmate Epstein is sleeping\n7:00 am inmate Epstein is sleeping\n7:15 am inmate Epstein is sleeping\n7:30 am inmate Epstein is sleeping\n7:37 am Staff rounds",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "EPSTEIN #76318-050",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "3:00 am for psych cell #4 I'm Epstein 27758-050\n3:00 am inmate Epstein is sleeping\n3:05 am inmate Epstein is awake using the bath\n3:15 am inmate Epstein is awake still sleeping\n3:30 am inmate Epstein is sleeping\n3:45 am inmate Epstein is sleeping\n4:00 am inmate Epstein is sleeping\n4:15 am inmate Epstein is sleeping\n4:30 am inmate Epstein is sleeping\n4:45 am inmate Epstein is sleeping\n5:00 am inmate Epstein wake up to use bath and back to sleep\n5:15 am inmate Epstein is sleeping\n5:30 am inmate Epstein is sleeping\n5:45 am inmate Epstein is sleeping\n6:00 am inmate Epstein is sleeping\n6:15 am inmate Epstein is sleeping\n6:30 am inmate Epstein is sleeping\n6:45 am inmate Epstein is sleeping\n7:00 am inmate Epstein is sleeping\n7:15 am inmate Epstein is sleeping\n7:30 am inmate Epstein is sleeping\n7:37 am Staff rounds",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "#76318-050",
+      "27758-050"
+    ]
+  },
+  "additional_notes": "The document appears to be a handwritten log of observations of inmate Epstein. The log records the inmate's status at various times, primarily indicating that he is sleeping. There are redactions in two areas at the top of the page."
+}

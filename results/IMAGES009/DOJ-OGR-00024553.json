@@ -1,0 +1,55 @@
+{
+  "document_metadata": {
+    "page_number": "537",
+    "document_number": "DOJ-OGR-00024553",
+    "date": "08/19/2019",
+    "document_type": "Log Entries By Event Date",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date: 08/19/2019 Time: 10:15 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count Population 7/22/2019 8:59 AM NYM Housing Units Housing Units, General Population ES 7/22/2019 8:58 AM Day User ID Key Check - Summary Text: Ring Number Count accounted 7/22/2019 8:59 AM NYM Housing Units Housing Units, General Population ES 7/22/2019 8:58 AM Day OC Spray Check - Summary Text: Ring Number Count accounted 7/22/2019 8:59 AM NYM Housing Units Housing Units, General Population ES 7/22/2019 8:58 AM Day Radio Check - Summary Text: Completed. Serviceable. 7/22/2019 9:02 AM NYM Housing Units Housing Units, General Population ES 7/22/2019 9:02 AM Day Rounds (Lieutenant) - Summary Text: Radio Number test good. 7/22/2019 9:04 AM NYM Housing Units Housing Units, General Population EN 7/22/2019 9:04 AM Day Rounds (Lieutenant) - Summary Text: Completed - PREA 7/22/2019 9:15 AM NYM Housing Units Housing Units, General Population GN 7/22/2019 9:15 AM Day Rounds (Lieutenant) - Summary Text: Completed - PREA NOTE: THE UNIT OFFICER DOES NOT HAVE A PIV CARD. 7/22/2019 9:29 AM NYM Housing Units Housing Units, General Population JN 7/22/2019 9:29 AM Day Rounds (Lieutenant) - Summary Text: Completed - PREA 7/22/2019 9:37 AM NYM Housing Units Housing Units, General Population KN 7/22/2019 9:36 AM Day Rounds (Lieutenant) - Summary Text: Completed - PREA 7/22/2019 9:37 AM NYM Housing Units Housing Units, General Population KS 7/22/2019 9:36 AM Day Rounds (Lieutenant) - Summary Text: Completed - PREA 7/22/2019 9:44 AM NYM Housing Units Housing Units, General Population BA 7/22/2019 9:44 AM Day Rounds (Lieutenant) User ID: Page 537 of 1155 DOJ-OGR-00024553",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date: 08/19/2019 Time: 10:15 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "7/22/2019 8:59 AM NYM Housing Units Housing Units, General Population ES 7/22/2019 8:58 AM Day User ID Key Check",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "User ID",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Page 537 of 1155 DOJ-OGR-00024553",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Lieutenant"
+    ],
+    "organizations": [
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [],
+    "dates": [
+      "08/19/2019",
+      "7/22/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00024553"
+    ]
+  },
+  "additional_notes": "The document appears to be a log entry report from the Federal Bureau of Prisons. It contains a table with various columns such as Entered Date, Alpha Code, Level 1 Location, Level 2 Location, Level 3 Location, Event Date, Shift, User, Event, and Base Count. The report includes handwritten text in some areas, indicating that it may have been annotated or updated manually. The document is labeled as 'Sensitive But Unclassified'."
+}

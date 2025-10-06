@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": "90",
+    "document_number": "DOJ-OGR-00022381",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Epstein, Jeffrey Epstein, Jeffrey Healy, Shannon Keliv, John Kernev, Gary King, Bruce King, Rhonda Richardson, Bill Santa Fe Institute Singleton, Dr. & Mrs. Massage - New Mexico BM Ahoff Shelley Cowley, Dick Domb, Sam",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein, Jeffrey Epstein, Jeffrey Healy, Shannon Keliv, John Kernev, Gary King, Bruce King, Rhonda Richardson, Bill Santa Fe Institute Singleton, Dr. & Mrs. Massage - New Mexico BM Ahoff Shelley Cowley, Dick Domb, Sam",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "90",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022381",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Shannon Healy",
+      "John Keliv",
+      "Gary Kernev",
+      "Bruce King",
+      "Rhonda King",
+      "Bill Richardson",
+      "Dr. Singleton",
+      "Mrs. Singleton",
+      "Shelley Ahoff",
+      "Dick Cowley",
+      "Sam Domb"
+    ],
+    "organizations": [
+      "Santa Fe Institute",
+      "Massage - New Mexico"
+    ],
+    "locations": [
+      "New Mexico"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022381"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 90, and the document number is DOJ-OGR-00022381."
+}

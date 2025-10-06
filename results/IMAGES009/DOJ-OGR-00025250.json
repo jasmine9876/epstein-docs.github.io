@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": "1024",
+    "document_number": "76316-054",
+    "date": "2019/08/01",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Epstein, Jeffrey Edward, Reg. No. 76316-054\nFrom Charisma Edge\nTo Lamine N'Diaye\nDate 2019/08/01 16:20\nSubject: Epstein, Jeffrey Edward, Reg. No. 76316-054\nAttachments: TEXT.htm, 2019_08_01_16_18_51.pdf, Charisma Edge.vcf\nJust in case you need a synopsis of his activity......\nWed 7/31/19\nRec 6:30 - 7:30 a.m.\nCourt 9:30 - 11:30 am\nThursday 8/1/19\nAtty conference beginning 9:00 am - present\nTaken off psych ops on Tues 7/30/19. Seen by psych next day as a standard practice. Suicide Risk Assessment (SRA) conducted today by [redacted]. Findings indicate he is psychologically stable. [redacted]...SRA was initiated because Epstein returned from court w a note indicating suicidal tendencies. see attachment\nCharisma Edge\nAssociate Warden (O)\nFCI Estill\n100 Prison Road\nEstill, SC 29918\n803-625 [redacted]\n[redacted]@bop.gov\nEST/AW-Operations~@bop.gov",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Epstein, Jeffrey Edward, Reg. No. 76316-054\nFrom Charisma Edge\nTo Lamine N'Diaye\nDate 2019/08/01 16:20\nSubject: Epstein, Jeffrey Edward, Reg. No. 76316-054\nAttachments: TEXT.htm, 2019_08_01_16_18_51.pdf, Charisma Edge.vcf",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Just in case you need a synopsis of his activity......\nWed 7/31/19\nRec 6:30 - 7:30 a.m.\nCourt 9:30 - 11:30 am\nThursday 8/1/19\nAtty conference beginning 9:00 am - present",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Taken off psych ops on Tues 7/30/19. Seen by psych next day as a standard practice. Suicide Risk Assessment (SRA) conducted today by [redacted]. Findings indicate he is psychologically stable. [redacted]...SRA was initiated because Epstein returned from court w a note indicating suicidal tendencies. see attachment",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Charisma Edge\nAssociate Warden (O)\nFCI Estill\n100 Prison Road\nEstill, SC 29918\n803-625 [redacted]\n[redacted]@bop.gov\nEST/AW-Operations~@bop.gov",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Edward Epstein",
+      "Charisma Edge",
+      "Lamine N'Diaye"
+    ],
+    "organizations": [
+      "FCI Estill",
+      "BOP"
+    ],
+    "locations": [
+      "Estill, SC"
+    ],
+    "dates": [
+      "2019/08/01",
+      "7/31/19",
+      "8/1/19",
+      "7/30/19"
+    ],
+    "reference_numbers": [
+      "76316-054",
+      "DOJ-OGR-00025250"
+    ]
+  },
+  "additional_notes": "The document contains redactions, likely for privacy or security reasons."
+}

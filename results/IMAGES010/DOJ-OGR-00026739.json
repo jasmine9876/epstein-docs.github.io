@@ -1,0 +1,50 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "BP-A0973",
+    "date": "FEB 12",
+    "document_type": "EVIDENCE RECOVERY LOG CDFRM",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "BP-A0973 FEB 12 EVIDENCE RECOVERY LOG CDFRM U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS Page 2 of 3 GENERAL INFORMATION PRINT LEGIBLY DATE 8-12-19 CASE ID LOCATION 9-South 206-220 PREPARER/ASSISTANTS SIS Tech PERSONNEL (Include Initials) TENT CARDS ECNI DESCRIPTION WHERE FOUND RECOVERED BY PACKAGING METHOD COMMENTS (If needed) Nym-19-017 1-Tolafate Cream 206-220 SIS Tech Paper Bag Nym-19-017 1-Advancee Ultra Plus 206-220 SIS Tech Paper Bag Nym-19-018 1 Bottle Docusate Sodium 206-220 SIS Tech Paper Bag Nym-19-076 2-Bottles Omega 3 206-220 SIS Tech Paper Bag Nym-19-076 1-CPAP 206-220 SIS Tech Plastic Bag DOJ-OGR-00026739",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "BP-A0973 FEB 12 EVIDENCE RECOVERY LOG CDFRM U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS Page 2 of 3 GENERAL INFORMATION PRINT LEGIBLY PERSONNEL (Include Initials) TENT CARDS ECNI DESCRIPTION WHERE FOUND RECOVERED BY PACKAGING METHOD COMMENTS (If needed)",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "DATE 8-12-19 CASE ID LOCATION 9-South 206-220 PREPARER/ASSISTANTS SIS Tech Nym-19-017 1-Tolafate Cream 206-220 SIS Tech Paper Bag Nym-19-017 1-Advancee Ultra Plus 206-220 SIS Tech Paper Bag Nym-19-018 1 Bottle Docusate Sodium 206-220 SIS Tech Paper Bag Nym-19-076 2-Bottles Omega 3 206-220 SIS Tech Paper Bag Nym-19-076 1-CPAP 206-220 SIS Tech Plastic Bag",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026739",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "U.S. DEPARTMENT OF JUSTICE",
+      "FEDERAL BUREAU OF PRISONS"
+    ],
+    "locations": [
+      "9-South 206-220"
+    ],
+    "dates": [
+      "8-12-19",
+      "FEB 12"
+    ],
+    "reference_numbers": [
+      "BP-A0973",
+      "Nym-19-017",
+      "Nym-19-018",
+      "Nym-19-076",
+      "DOJ-OGR-00026739"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned evidence recovery log form used by the Federal Bureau of Prisons. It contains handwritten entries detailing the recovery of various items, including medications and medical equipment, from a specific location. The document is part of a multi-page document, as indicated by 'Page 2 of 3'."
+}

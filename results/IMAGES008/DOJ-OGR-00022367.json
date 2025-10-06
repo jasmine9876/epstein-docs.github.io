@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": "82",
+    "document_number": "DOJ-OGR-00022367",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information New Albany Country Club Newcombe, Timothy W. (Tim) Nowak, Martin Oatman, Bob Querlani, Selma Ovitz, Michael Packer, Mark Pagano, Joe Perlman, Itzhak Pete Pilot Phillips, Lisa PILOT INFORMATION 82 DOJ-OGR-00022367",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "New Albany Country Club Newcombe, Timothy W. (Tim) Newman, Larry Esq. Nowak, Martin Oatman, Bob Querlani, Selma",
+      "position": "left"
+    },
+    {
+      "type": "printed",
+      "content": "Ovitz, Michael Packer, Mark Pagano, Joe Perlman, Itzhak Pete Pilot Phillips, Lisa PILOT INFORMATION",
+      "position": "right"
+    },
+    {
+      "type": "printed",
+      "content": "82",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022367",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Timothy W. (Tim) Newcombe",
+      "Martin Nowak",
+      "Bob Oatman",
+      "Selma Querlani",
+      "Michael Ovitz",
+      "Mark Packer",
+      "Joe Pagano",
+      "Itzhak Perlman",
+      "Lisa Phillips",
+      "Larry Newman"
+    ],
+    "organizations": [
+      "New Albany Country Club"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022367"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 82, and the document number is DOJ-OGR-00022367."
+}

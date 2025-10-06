@@ -1,0 +1,45 @@
+{
+  "document_metadata": {
+    "page_number": "505",
+    "document_number": "DOJ-OGR-00024962",
+    "date": null,
+    "document_type": "Mail Attachment",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 505 Mail Attachment EPphotos.pdf Page 1376 DOJ-OGR-00024962",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 505",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Mail Attachment EPphotos.pdf",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 1376",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024962",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00024962"
+    ]
+  },
+  "additional_notes": "The document appears to be a placeholder or index page for an attachment named 'EPphotos.pdf'. The content is minimal and mostly consists of page numbers and a reference number."
+}

@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028463",
+    "date": "042814",
+    "document_type": "PQH API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 *B PQH API/HIT DATA 042814 *A *C NAME EPSTEIN, JEFFREY E ATATURK DOB 012053 QUERY DATE TIME AGN RSLT 011812 0000 *D LNE TYP REF API TERM/ LANE API 01 R API DATA ---- INDICATOR : R CARRIER CODE : *GA FLT/VES NUMBER : N909JE ARRIVAL LOCATION : IST DEPARTURE LOCATION : XXX TRANSMITTED BY : APGA9786 INBOUND/OUTBOUND : INBOUND REPORTED GENERAL AVIATION ATATURK UNKNOWN AIRPORT (USED ON GENERAL AVIATION (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) DOJ-OGR-00028463",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07 *B PQH API/HIT DATA 042814 *A *C",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME EPSTEIN, JEFFREY E ATATURK DOB 012053 QUERY DATE TIME AGN RSLT 011812 0000 *D LNE TYP REF API TERM/ LANE API 01 R",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "API DATA ---- INDICATOR : R CARRIER CODE : *GA FLT/VES NUMBER : N909JE ARRIVAL LOCATION : IST DEPARTURE LOCATION : XXX TRANSMITTED BY : APGA9786 INBOUND/OUTBOUND : INBOUND REPORTED GENERAL AVIATION ATATURK UNKNOWN AIRPORT (USED ON GENERAL AVIATION",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028463",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY E EPSTEIN"
+    ],
+    "organizations": [
+      "GENERAL AVIATION"
+    ],
+    "locations": [
+      "ATATURK",
+      "IST",
+      "XXX"
+    ],
+    "dates": [
+      "011812",
+      "042814"
+    ],
+    "reference_numbers": [
+      "N909JE",
+      "APGA9786",
+      "DOJ-OGR-00028463"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted API/HIT data report related to Jeffrey Epstein's travel. Several fields are redacted with codes such as (b)(7)(E) and (b)(6), (b)(7)(C)."
+}

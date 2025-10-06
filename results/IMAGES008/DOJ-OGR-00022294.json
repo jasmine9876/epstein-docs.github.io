@@ -1,0 +1,55 @@
+{
+  "document_metadata": {
+    "page_number": "6",
+    "document_number": "DOJ-OGR-00022294",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Balazs, Andro Bamford Sir Anthony and Lady C Bands, Doug Baldwin Ale Balliol College, Oxford Bamford George/alice Bannister, Clive Banon, Javier Barham, Nicholas & Gretal Barnes, Peter Barnett, Craig Bastone, Hillary Batstone Hillary",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Balazs, Andro Bamford Sir Anthony and Lady C Bands, Doug Baldwin Ale Balliol College, Oxford Bamford George/alice Bannister, Clive Banon, Javier Barham, Nicholas & Gretal Barnes, Peter Barnett, Craig Bastone, Hillary Batstone Hillary",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022294",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Balazs, Andro",
+      "Bamford Sir Anthony and Lady C",
+      "Bands, Doug",
+      "Baldwin Ale",
+      "Bamford George/alice",
+      "Bannister, Clive",
+      "Banon, Javier",
+      "Barham, Nicholas & Gretal",
+      "Barnes, Peter",
+      "Barnett, Craig",
+      "Bastone, Hillary",
+      "Batstone Hillary"
+    ],
+    "organizations": [
+      "Balliol College, Oxford"
+    ],
+    "locations": [
+      "Oxford"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022294"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 6 and the document number is DOJ-OGR-00022294."
+}

@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "DOJ-OGR-00025045",
+    "date": "5/19/2020",
+    "document_type": "Log",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 592 Log Date/Time User Action Alias Post Shift date Watch Assignment Type Mndtry 08/10/19 13:05 list exausted OT Assigned (b)(6); (b)(7)(C) 11 SOUTH 08/10/19 E/W List Exempt 08/10/19 13:05 mandated Last MNDTRY OT Date Set N/A LAST MANDATORY OT ASSIGNMENT SET TO: 08/10/19 11:05 N/A N/A 08/10/19 13:04 list exausted OT Assigned 08/10/19 13:00 mandated Last MNDTRY OT Date Set N/A LAST MANDATORY OT ASSIGNMENT SET TO: 08/10/19 10:30 N/A N/A 08/10/19 13:00 list exausted OT Assigned 08/10/19 12:51 OT Assigned 08/10/19 12:22 mandated Last MNDTRY OT Date Set N/A LAST MANDATORY OT ASSIGNMENT SET TO: 08/09/19 12:10 N/A N/A 08/10/19 12:20 list exausted OT Assigned 5 SOUTH 08/10/19 E/W List Exempt 08/10/19 10:40 CPD ADJUST OT Removed - Mgmt Cancelle VISIT #3 08/10/19 D/W Signup List -LAST OT DATE SET TO 7/24/2019 8:38:13 AM - REMOVED FROM [Sick / Annual] 08/10/19 10:40 CPD ADJUST OT Removed - Mgmt Cancelle VISIT #2 08/10/19 D/W Signup List -LAST OT DATE SET TO 7/11/2019 2:29:23 PM - REMOVED FROM [Sick / Annual] 08/10/19 10:39 CPD ADJUST OT Assigned UNIT 3 08/10/19 D/W List Exempt 08/10/19 10:39 CPD ADJUST OT Removed - Mgmt Cancelle UNIT 3 08/10/19 D/W List Exempt - REMOVED FROM [Sick / Annual] 08/10/19 10:38 CPD ADJUST OT Removed - Mgmt Cancelle SHU #1 08/10/19 D/W List Exempt - REMOVED FROM [Sick / Annual] 08/10/19 10:38 CPD ADJUST OT Assigned 10 SOUTH #2 08/10/19 A/M List Exempt 08/10/19 10:37 CPD ADJUST OT Assigned INTERNAL 08/10/19 D/W List Exempt 08/10/19 10:35 STAFF CANC OT Removed - Staff Cancelled INTERNAL 08/10/19 D/W Signup List - REMOVED FROM [Sick / Annual] 08/10/19 10:34 CPD ADJUST OT Removed - Mgmt Cancelle LOBBY 08/10/19 A/M List Exempt - REMOVED FROM [Sick / Annual] 08/10/19 10:34 CPD ADJUST OT Assigned CONTROL #2 08/10/19 A/M List Exempt 08/10/19 10:34 CPD ADJUST OT Assigned SHU #4 08/10/19 D/W List Exempt 08/10/19 10:33 CPD ADJUST OT Removed - Mgmt Cancelle SHU #2 08/10/19 D/W Signup List -LAST OT DATE SET TO 8/7/2019 10:05:45 AM - REMOVED FROM [Sick / Annual] 08/10/19 10:32 CPD ADJUST OT Assigned SHU #3 08/10/19 A/M List Exempt 08/10/19 10:31 CPD ADJUST OT Assigned ESCORT #2 08/10/19 D/W List Exempt 08/10/19 10:31 CPD ADJUST OT Assigned ESCORT #1 08/10/19 D/W List Exempt 08/10/19 10:29 cpd adjustment OT Removed - Mgmt Cancelle UNIT 2 08/10/19 D/W List Exempt - REMOVED FROM [Sick / Annual] 08/10/19 10:28 cpd adjustment OT Assigned 7 NORTH 08/10/19 D/W List Exempt 08/10/19 6:44 cpd adjustment OT Removed - Mgmt Cancelle ACT LT 08/10/19 P/M List Exempt - REMOVED FROM [Sick / Annual] 08/10/19 6:27 cpd adjustment OT Assigned UNIT 3 08/10/19 D/W List Exempt 08/10/19 6:20 cpd adjustment OT Removed - Mgmt Cancelle 5 NORTH 08/10/19 D/W List Exempt - REMOVED FROM [Sick / Annual] 08/10/19 6:20 cpd adjustment OT Assigned UNIT 2 08/10/19 D/W List Exempt 5/19/2020 10:37:33 AM DOJ-OGR-00025045",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 592 Log",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Date/Time User Action Alias Post Shift date Watch Assignment Type Mndtry",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "08/10/19 13:05 list exausted OT Assigned (b)(6); (b)(7)(C) 11 SOUTH 08/10/19 E/W List Exempt",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "5/19/2020 10:37:33 AM",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025045",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [
+      "11 SOUTH",
+      "5 SOUTH",
+      "10 SOUTH #2",
+      "7 NORTH",
+      "5 NORTH"
+    ],
+    "dates": [
+      "08/10/19",
+      "7/24/2019",
+      "7/11/2019",
+      "8/7/2019",
+      "08/09/19",
+      "5/19/2020"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00025045"
+    ]
+  },
+  "additional_notes": "The document appears to be a log of overtime assignments and adjustments. The log includes dates, times, user actions, and post assignments. Some information is redacted, indicated by (b)(6); (b)(7)(C)."
+}

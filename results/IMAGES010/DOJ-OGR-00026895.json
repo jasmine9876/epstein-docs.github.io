@@ -1,0 +1,77 @@
+{
+  "document_metadata": {
+    "page_number": "3306",
+    "document_number": "DOJ-OGR-00026895",
+    "date": "Friday, August 9, 2019",
+    "document_type": "DAILY LIEUTENANT'S LOG",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "UNITED STATES DEPARTMENT OF JUSTICE\nMETROPOLITAN CORRECTIONAL CENTER, NEW YORK, NY\nDAILY LIEUTENANT'S LOG\n\nSHIFT-DAY-DATE: E/W - Friday, August 9, 2019\nBeginning Count: [b(7)(F)]\nSHU [b(7)(F)]\n\nDaily Sensitive Information.\nI/M [b(6); (b)(7)(C)] on Psych Obs w/inmate companion.\nI/M [b(6); (b)(7)(C)] on PSYCH OBS. W/inmate companion.\nI/M [b(6); (b)(7)(C)] on Suicide watch w/inmate companion.\nI/M [b(6); (b)(7)(C)] on suicide watch w/ inmate companion.\nI/M [b(6); (b)(7)(C)] on Dry cell w/staff watch in R&D\n\nTIME\nCHRONOLOGICAL EVENTS\nB/C\nSHU\n\nLieutenant [b(6); (b)(7)(C)] assumes duties as the Evening Watch Operations Lieutenant. Unable to conduct PREA announcement over the Institution Public Address System, due to system malfunction.\nRestraint Equipment Cage inventory conducted. All equipment accounted for. Metal Detector checks conducted. All operative w/the exception of Rear Gate. Roof Check completed. All secure.\nTemporary Chit Inventory: [b(7)(F)]\n4:00 PM\nInstitution count in progress.\n4:01 PM\nNYPD Phone Check #2624\n4:08 PM\n[b(7)(E)] testing in progress.\n4:37 PM\ntesting completed\n[b(7)(F)] PM Good verbal count\nPM Clear institutional count.\n6:00 PM\n[b(7)(E)] in progress\n6:34 PM\nI/M [b(6); (b)(7)(C)] from ZA to ES\n6:39 PM\n+1 I/M [b(6); (b)(7)(C)] from BAIBOND to RA\n6:47 PM\nI/M [b(6); (b)(7)(C)] from ZA to GS\n7:45 PM\nTrash run in progress\n8:12 PM\n+1 I/M [b(6); (b)(7)(C)] from BAILBOND to RA\n8:21 PM\nI/M [b(6); (b)(7)(C)] and I/M [b(6); (b)(7)(C)] from ZA to Suicide watch\n8:28 PM\nI/M [b(6); (b)(7)(C)] from KN to ZA Introduction of tobacco\n8:36 PM\n+1 I/M [b(6); (b)(7)(C)] from REL to RA\n8:42 PM\nTrash run complete\n10:00 PM\nInstitutional count in progress.\n[b(7)(F)] PM Good verbal count announced.\nPM Clear institutional count announced.\n12:00 AM\nRelieved of duties by [b(6); (b)(7)(C)] as the M/W Lieutenant.\n\nVISITING: KN\n\nINMATES\nADULTS\nCHILDREN\nTOTAL\n32\n32\n7\n71\n\n[b(7)(E); (b)(7)(F)] phone calls monitored:\n[b(7)(E); (b)(7)(F)] inquiry(s) was/were received during my tour of duty: 0\nThe following Inmate(s) were placed in Administrative Detention: 0\n\nNAME\nREG NUMBER\nREASON\nUNIT\nTIME\nA/D ORDER\n[b(6); (b)(7)(C)]\n331\nKN\n8:28 PM\nYES",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "UNITED STATES DEPARTMENT OF JUSTICE\nMETROPOLITAN CORRECTIONAL CENTER, NEW YORK, NY\nDAILY LIEUTENANT'S LOG",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "SHIFT-DAY-DATE: E/W - Friday, August 9, 2019\nBeginning Count: [b(7)(F)]\nSHU [b(7)(F)]",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Daily Sensitive Information.",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "TIME\nCHRONOLOGICAL EVENTS\nB/C\nSHU",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "VISITING: KN",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "INMATES\nADULTS\nCHILDREN\nTOTAL",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "NAME\nREG NUMBER\nREASON\nUNIT\nTIME\nA/D ORDER",
+      "position": "body"
+    }
+  ],
+  "entities": {
+    "people": [
+      "KN"
+    ],
+    "organizations": [
+      "UNITED STATES DEPARTMENT OF JUSTICE",
+      "METROPOLITAN CORRECTIONAL CENTER",
+      "NYPD"
+    ],
+    "locations": [
+      "NEW YORK, NY",
+      "ZA",
+      "ES",
+      "BAIBOND",
+      "RA",
+      "GS",
+      "KN",
+      "REL"
+    ],
+    "dates": [
+      "Friday, August 9, 2019"
+    ],
+    "reference_numbers": [
+      "#2624",
+      "331",
+      "DOJ-OGR-00026895"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as [b(6); (b)(7)(C)], [b(7)(E)], and [b(7)(F)]. The document appears to be a log of events at the Metropolitan Correctional Center in New York, NY, on August 9, 2019."
+}

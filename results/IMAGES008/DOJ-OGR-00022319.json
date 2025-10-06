@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": "34",
+    "document_number": "DOJ-OGR-00022319",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information\nJagger, Hatti\nJarecki, Nancy & Andrew\nJeffries, Tim\nJameel, Mohammad\nJarecki, Niki-\nJohnson Richard & Nadine\nJohnson, Lucy\nJones Ann & Mick\nJosephson, Barry & Jackie (Barry w)\nKarelia, Kalliopi & Michael Rena\nKastner, Ron\nKatz, Anton & Robin Plant",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Jagger, Hatti\nJarecki, Nancy & Andrew\nJeffries, Tim\nJameel, Mohammad\nJarecki, Niki-\nJohnson Richard & Nadine\nJohnson, Lucy\nJones Ann & Mick\nJosephson, Barry & Jackie (Barry w)\nKarelia, Kalliopi & Michael Rena\nKastner, Ron\nKatz, Anton & Robin Plant",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "34",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022319",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jagger, Hatti",
+      "Jarecki, Nancy",
+      "Andrew",
+      "Jeffries, Tim",
+      "Jameel, Mohammad",
+      "Jarecki, Niki-",
+      "Johnson Richard",
+      "Nadine",
+      "Johnson, Lucy",
+      "Jones Ann",
+      "Mick",
+      "Josephson, Barry",
+      "Jackie",
+      "Karelia, Kalliopi",
+      "Michael Rena",
+      "Kastner, Ron",
+      "Katz, Anton",
+      "Robin Plant"
+    ],
+    "organizations": [],
+    "locations": [
+      "Canada"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022319"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 34, and the document number is DOJ-OGR-00022319."
+}

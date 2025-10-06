@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": "2710",
+    "document_number": "NYMFC 530*05",
+    "date": "08-10-2019",
+    "document_type": "INMATE ROSTER",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2710 NYMFC 530*05 * INMATE ROSTER * 08-10-2019 PAGE 001 OF 001 01:21:34 CATEGORY: OCT ASSIGNMENT: HOSP OPER CATG ASSIGNMENT GROUP CODE: FACILITY: NYM OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK 0001 HOSP (b)(6); (b)(7)(C) 08-10-2019 E05-535L SUICIDE OR UNASSG 0002 08-10-2019 K09-028U SUICIDE OR 0003 08-10-2019 E06-546L UNASSG 0004 08-10-2019 K11-053L FS WAREHOUSUICIDE OR G0000 TRANSACTION SUCCESSFULLY COMPLETED DOJ-OGR-00026366",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "NYMFC 530*05 * INMATE ROSTER * 08-10-2019 PAGE 001 OF 001 01:21:34",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CATEGORY: OCT ASSIGNMENT: HOSP OPER CATG ASSIGNMENT GROUP CODE: FACILITY: NYM OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK 0001 HOSP (b)(6); (b)(7)(C) 08-10-2019 E05-535L SUICIDE OR UNASSG 0002 08-10-2019 K09-028U SUICIDE OR 0003 08-10-2019 E06-546L UNASSG 0004 08-10-2019 K11-053L FS WAREHOUSUICIDE OR",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "G0000 TRANSACTION SUCCESSFULLY COMPLETED",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026366",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "NYMFC",
+      "DOJ"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "08-10-2019"
+    ],
+    "reference_numbers": [
+      "NYMFC 530*05",
+      "DOJ-OGR-00026366",
+      "(b)(6); (b)(7)(C)",
+      "E05-535L",
+      "K09-028U",
+      "E06-546L",
+      "K11-053L"
+    ]
+  },
+  "additional_notes": "The document appears to be a roster of inmates, with some redacted information. The transaction was successfully completed."
+}

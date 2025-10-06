@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": "2404",
+    "document_number": null,
+    "date": null,
+    "document_type": "Bureau of Prisons Health Services Cosign/Review",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2404 Bureau of Prisons Health Services Cosign/Review Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Encounter Date: 07/10/2019 16:58 Sex: M Provider: Lab Result Receive Reg #: 76318-054 Race: WHITE Facility: NYM Cosigned by [redacted] MD on 07/14/2019 18:12. Bureau of Prisons - NYM DOJ-OGR-00026080",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Bureau of Prisons Health Services Cosign/Review",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Encounter Date: 07/10/2019 16:58 Sex: M Provider: Lab Result Receive Reg #: 76318-054 Race: WHITE Facility: NYM",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Cosigned by",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "[redacted]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "MD on 07/14/2019 18:12.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Bureau of Prisons - NYM DOJ-OGR-00026080",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/10/2019",
+      "07/14/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026080"
+    ]
+  },
+  "additional_notes": "The document contains a redacted name of the cosigner."
+}

@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": "2546",
+    "document_number": "DOJ-OGR-00026206",
+    "date": "07/28/2019",
+    "document_type": "Clinical Encounter",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2546 Bureau of Prisons Health Services Clinical Encounter Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Encounter Date: 07/28/2019 20:25 Sex: M Race: WHITE Reg #: 76318-054 Provider: [redacted] RN Facility: NYM Unit: H01 Nursing - Follow up encounter performed at Health Services. SUBJECTIVE: COMPLAINT 1 Provider: [redacted] RN Chief Complaint: Neuropathy - Tingling/Numbness of Extremity(ies) Subjective: Inmate seen for F/U after returning from attorney conference offers no new complaints or worsening S/S stats \"My R hand still has pins and needles sometimes\" No change in appearance from previous exam. Pain: No OBJECTIVE: Pulse: Date Time Rate Per Minute Location Rhythm Provider 07/28/2019 20:28 81 [redacted] RN Respirations: Date Time Rate Per Minute Provider 07/28/2019 20:28 NYM 14 [redacted] RN Blood Pressure: Date Time Value Location Position Cuff Size Provider 07/28/2019 20:28 NYM 157/91 [redacted] RN SaO2: Date Time Value(%) Air Provider 07/28/2019 20:28 NYM 98 [redacted] RN EXAM: General Affect Yes: Cooperative Appearance Yes: Appears Well, Alert and Oriented x 3 Nutrition Yes: Within Normal Limits Skin General Yes: Within Normal Limits, Dry, Skin Intact ASSESSMENT: No Significant Findings/No Apparent Distress PLAN: Disposition: To be Evaluated by Provider Generated 07/28/2019 20:30 by [redacted] RN Bureau of Prisons - NYM Page 1 of 2",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Bureau of Prisons Health Services Clinical Encounter",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Encounter Date: 07/28/2019 20:25 Sex: M Race: WHITE Reg #: 76318-054 Provider: [redacted] RN Facility: NYM Unit: H01",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Nursing - Follow up encounter performed at Health Services. SUBJECTIVE: COMPLAINT 1 Provider: [redacted] RN Chief Complaint: Neuropathy - Tingling/Numbness of Extremity(ies) Subjective: Inmate seen for F/U after returning from attorney conference offers no new complaints or worsening S/S stats \"My R hand still has pins and needles sometimes\" No change in appearance from previous exam. Pain: No",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "OBJECTIVE: Pulse: Date Time Rate Per Minute Location Rhythm Provider 07/28/2019 20:28 81 [redacted] RN Respirations: Date Time Rate Per Minute Provider 07/28/2019 20:28 NYM 14 [redacted] RN Blood Pressure: Date Time Value Location Position Cuff Size Provider 07/28/2019 20:28 NYM 157/91 [redacted] RN SaO2: Date Time Value(%) Air Provider 07/28/2019 20:28 NYM 98 [redacted] RN",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "EXAM: General Affect Yes: Cooperative Appearance Yes: Appears Well, Alert and Oriented x 3 Nutrition Yes: Within Normal Limits Skin General Yes: Within Normal Limits, Dry, Skin Intact ASSESSMENT: No Significant Findings/No Apparent Distress PLAN: Disposition: To be Evaluated by Provider",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/28/2019 20:30 by [redacted] RN Bureau of Prisons - NYM Page 1 of 2",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons",
+      "NYM"
+    ],
+    "locations": [],
+    "dates": [
+      "01/20/1953",
+      "07/28/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026206"
+    ]
+  },
+  "additional_notes": "The document contains multiple redactions of personal identifying information, marked as [redacted]. The document is a clinical encounter report from the Bureau of Prisons Health Services."
+}

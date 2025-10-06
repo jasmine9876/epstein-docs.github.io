@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "3189",
+    "document_number": "DOJ-OGR-00026809",
+    "date": "FRIDAY AUGUST 9TH, 2019",
+    "document_type": "Special Housing Unit Document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 3189 FRIDAY AUGUST 9TH, 2019 G-TIER Z02 - 03 H-TIER Z01 - 14 J-TIER Z04 - 15 K-TIER Z03 - 15 L-TIER Z06 - 16 M-TIER Z05 - 14 DS/RANGE ONLY REYES #85993-054 EPSTEIN #76318-054 (C/F) TOTAL DOJ-OGR-00026809",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3189",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "FRIDAY AUGUST 9TH, 2019",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "G-TIER Z02 - 03\nH-TIER Z01 - 14\nJ-TIER Z04 - 15\nK-TIER Z03 - 15\nL-TIER Z06 - 16\nM-TIER Z05 - 14 DS/RANGE ONLY",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "REYES #85993-054\nEPSTEIN #76318-054 (C/F)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TOTAL",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026809",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "REYES",
+      "EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "FRIDAY AUGUST 9TH, 2019"
+    ],
+    "reference_numbers": [
+      "#85993-054",
+      "#76318-054",
+      "DOJ-OGR-00026809"
+    ]
+  },
+  "additional_notes": "The document contains multiple redacted sections marked as '(b)(6); (b)(7)(C)' and '(b)(7)(F)'. The document appears to be a housing unit document with various tier information and inmate details."
+}

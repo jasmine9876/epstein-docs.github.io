@@ -1,0 +1,72 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00027502",
+    "date": "05/17/2016",
+    "document_type": "Admissibility Secondary Inspection",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "UNCLASSIFIED // FOR OFFICIAL USE ONLY EPSTEIN JEFFREY (b)(7)(E) 05/17/2016 21:29:00 Admissibility Secondary Inspection (b)(7)(E) (b)(7)(E) Crossing Information Site: CBP- TETERBORO, JET AVIATION (b)(7)(E) Disposition: U. S. Citizen (USC) Port Crossing Date: 05/17/2016 21:29:00 Referred Date: 05/17/2016 21:29:06 Airline: GENERAL AVIATION (*GA) Comment: (b)(7)(E) Subject Passenger Document Last Name: EPSTEIN Document Type: PASSPORT (b)(7)(E) First Name: JEFFREY Document Issue Country: United States (US/USA) Middle Name: EDWARD Document Number: (b)(6);(b)(7)(C) Date Of Birth: 01/20/1953 Gender: Male (b)(7)(E) Referral/Vehicle Information Miscellaneous Info Referral Reason: (b)(7)(E) Type Association: Document Type Remarks (b)(7)(E) UNCLASSIFIED // FOR OFFICIAL USE ONLY DOJ-OGR-00027502",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "UNCLASSIFIED // FOR OFFICIAL USE ONLY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN JEFFREY (b)(7)(E) 05/17/2016 21:29:00 Admissibility Secondary Inspection (b)(7)(E)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E)",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "Crossing Information Site: CBP- TETERBORO, JET AVIATION (b)(7)(E) Disposition: U. S. Citizen (USC) Port Crossing Date: 05/17/2016 21:29:00 Referred Date: 05/17/2016 21:29:06 Airline: GENERAL AVIATION (*GA) Comment: (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Subject Last Name: EPSTEIN First Name: JEFFREY Middle Name: EDWARD Date Of Birth: 01/20/1953 Gender: Male (b)(7)(E) Passenger Document Document Type: PASSPORT (b)(7)(E) Document Issue Country: United States (US/USA) Document Number: (b)(6);(b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Referral/Vehicle Information Referral Reason: (b)(7)(E) Miscellaneous Info Type Association: Document Type Remarks (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "UNCLASSIFIED // FOR OFFICIAL USE ONLY DOJ-OGR-00027502",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "CBP",
+      "GENERAL AVIATION",
+      "JET AVIATION",
+      "DOJ"
+    ],
+    "locations": [
+      "TETERBORO",
+      "United States"
+    ],
+    "dates": [
+      "05/17/2016",
+      "01/20/1953"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00027502",
+      "(b)(6);(b)(7)(C)"
+    ]
+  },
+  "additional_notes": "The document contains multiple redactions marked as (b)(7)(E) and (b)(6);(b)(7)(C). The document is an Admissibility Secondary Inspection report for JEFFREY EDWARD EPSTEIN."
+}

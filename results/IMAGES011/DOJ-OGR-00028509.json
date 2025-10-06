@@ -1,0 +1,71 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028509",
+    "date": "111613",
+    "document_type": "PQH API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 *B PQH API/HIT DATA 042814 *A *C NAME DOB DATE TIME AGN RSLT LNE TYP REF TERM/ LANE API EPSTEIN, JEFFREY EDWARD 012053 111613 0000 *D API PARIS, CH. DE GAULLE API DATA ---- INDICATOR : R CARRIER CODE : AF FLT/VES NUMBER : 7 ARRIVAL LOCATION : CDG DEPARTURE LOCATION : JFK TRANSMITTED BY : ALTEA+CM INBOUND/OUTBOUND : OUTBOUND REPORTED AIR FRANCE PARIS, CH. DE GAULLE JOHN F KENNEDY INTL AMADEUS DCS ALTEA CM (b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) (b) (7) (E) DOJ-OGR-00028509",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07 *B PQH API/HIT DATA 042814 *A *C",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB DATE TIME AGN RSLT LNE TYP REF TERM/ LANE API",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY EDWARD 012053 111613 0000 *D API PARIS, CH. DE GAULLE",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "API DATA ---- INDICATOR : R CARRIER CODE : AF FLT/VES NUMBER : 7 ARRIVAL LOCATION : CDG DEPARTURE LOCATION : JFK TRANSMITTED BY : ALTEA+CM INBOUND/OUTBOUND : OUTBOUND",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "REPORTED AIR FRANCE PARIS, CH. DE GAULLE JOHN F KENNEDY INTL AMADEUS DCS ALTEA CM",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "(b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) (b) (7) (E)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028509",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "AIR FRANCE",
+      "AMADEUS DCS ALTEA CM",
+      "ALTEA+CM"
+    ],
+    "locations": [
+      "PARIS, CH. DE GAULLE",
+      "JOHN F KENNEDY INTL"
+    ],
+    "dates": [
+      "111613"
+    ],
+    "reference_numbers": [
+      "012053",
+      "DOJ-OGR-00028509",
+      "7"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted API/HIT data report related to Jeffrey Epstein's travel. The redactions are marked with (b) (6), (b) (7) (C), and (b) (7) (E), indicating potential privacy or security concerns."
+}

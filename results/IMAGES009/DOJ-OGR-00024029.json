@@ -1,0 +1,50 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024029",
+    "date": null,
+    "document_type": "Inmate Visit Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE NAME Signature Inmate Reg# Time in Time out DATE NAME Signature Inmate Reg# Time in Time out 7/24 8:04 (b)(6); (b)(7)(C) 200d J. Epstein 96 318-05 8:34 Calient Calient 7/24 7:50 (b)(6); (b)(7)(C) Epstein 96 318-05 1:50 3:25 7/24 (b)(6); (b)(7)(C) Esteban Savella (b)(6); (b)(7)(C) Epstein 96 318-04 2:33 8:25",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE NAME Signature Inmate Reg# Time in Time out DATE NAME Signature Inmate Reg# Time in Time out",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/24 8:04 (b)(6); (b)(7)(C) 200d J. Epstein 96 318-05 8:34 Calient Calient",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/24 7:50 (b)(6); (b)(7)(C) Epstein 96 318-05 1:50 3:25",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/24 (b)(6); (b)(7)(C) Esteban Savella (b)(6); (b)(7)(C) Epstein 96 318-04 2:33 8:25",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [
+      "J. Epstein",
+      "Esteban Savella",
+      "Calient"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/24"
+    ],
+    "reference_numbers": [
+      "96 318-05",
+      "96 318-04"
+    ]
+  },
+  "additional_notes": "The document appears to be an inmate visit log with some redacted information. The handwriting is mostly legible, but some parts are obscured by green rectangles."
+}

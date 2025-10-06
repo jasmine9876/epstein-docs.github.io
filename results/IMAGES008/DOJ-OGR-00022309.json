@@ -1,0 +1,59 @@
+{
+  "document_metadata": {
+    "page_number": "24",
+    "document_number": "DOJ-OGR-00022309",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Feldman, Andrew Feltix, Helena Fell, David & Anne Ferragamo, Leonardo & Beatrice Ferranti, Hugo Ferry Brian Fiennes, Martin Fiennes, Ralph Fiennes, Suzzana Fifer, Chuck Figg, Christopher & Charlotte Finch Charles Finkelstein, Howard Firyal Princess Fisher, Dan",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Feldman, Andrew\nFeltix, Helena\nFell, David & Anne\nFerragamo, Leonardo & Beatrice\nFerranti, Hugo\nFerry Brian\nFiennes, Martin\nFiennes, Ralph\nFiennes, Suzzana\nFifer, Chuck\nFigg, Christopher & Charlotte\nFinch Charles\nFinkelstein, Howard\nFiryal Princess\nFisher, Dan",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "24",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022309",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Andrew Feldman",
+      "Helena Feltix",
+      "David & Anne Fell",
+      "Leonardo & Beatrice Ferragamo",
+      "Hugo Ferranti",
+      "Brian Ferry",
+      "Martin Fiennes",
+      "Ralph Fiennes",
+      "Suzzana Fiennes",
+      "Chuck Fifer",
+      "Christopher & Charlotte Figg",
+      "Charles Finch",
+      "Howard Finkelstein",
+      "Princess Firyal",
+      "Dan Fisher"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022309"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 24, and the document number is DOJ-OGR-00022309."
+}

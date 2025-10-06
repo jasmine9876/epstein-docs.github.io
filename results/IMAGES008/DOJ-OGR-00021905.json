@@ -1,0 +1,77 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "122",
+    "date": "01/28/2025",
+    "document_type": "Notification List",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 22-1426, Document 122, 01/28/2025, 3639977, Page2 of 3\n\nSupreme Court of the United States\nOffice of the Clerk\nWashington, DC 20543-0001\n\nScott S. Harris\nClerk of the Court\n(202) 479-3011\n\nNOTIFICATION LIST\n\nMr. David Oscar Markus\nMarkus/Moss\n40 NW 3rd Street\nPH1\nMiami, FL 33128\n\nMrs. Elizabeth B. Prelogar\nSolicitor General\nUnited States Department of Justice\n950 Pennsylvania Avenue, NW\nWashington, DC 20530-0001\n\nClerk\nUnited States Court of Appeals for the Second Circuit\nThurgood Marshall United States Courthouse\n40 Foley Square\nNew York, NY 10007\n\nDOJ-OGR-00021905",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Supreme Court of the United States\nOffice of the Clerk\nWashington, DC 20543-0001",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Scott S. Harris\nClerk of the Court\n(202) 479-3011",
+      "position": "right margin"
+    },
+    {
+      "type": "printed",
+      "content": "NOTIFICATION LIST",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Mr. David Oscar Markus\nMarkus/Moss\n40 NW 3rd Street\nPH1\nMiami, FL 33128",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Mrs. Elizabeth B. Prelogar\nSolicitor General\nUnited States Department of Justice\n950 Pennsylvania Avenue, NW\nWashington, DC 20530-0001",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Clerk\nUnited States Court of Appeals for the Second Circuit\nThurgood Marshall United States Courthouse\n40 Foley Square\nNew York, NY 10007",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00021905",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Oscar Markus",
+      "Elizabeth B. Prelogar",
+      "Scott S. Harris",
+      "Thurgood Marshall"
+    ],
+    "organizations": [
+      "Supreme Court of the United States",
+      "United States Department of Justice",
+      "United States Court of Appeals for the Second Circuit",
+      "Markus/Moss"
+    ],
+    "locations": [
+      "Washington, DC",
+      "Miami, FL",
+      "New York, NY"
+    ],
+    "dates": [
+      "01/28/2025"
+    ],
+    "reference_numbers": [
+      "22-1426",
+      "122",
+      "3639977",
+      "DOJ-OGR-00021905"
+    ]
+  },
+  "additional_notes": "The document appears to be a notification list from the Supreme Court of the United States. It contains a list of individuals and organizations to be notified, along with their addresses. The document is printed and does not contain any handwritten text or stamps."
+}

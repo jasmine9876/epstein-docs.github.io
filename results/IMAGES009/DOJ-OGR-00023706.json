@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "2298",
+    "document_number": "DOJ-OGR-00023706",
+    "date": "2019/08/06",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Client Jeffrey Epstein\nFrom [redacted]\nTo [redacted]@gmail.com [redacted]\nDate 2019/08/06 15:21\nSubject: Client Jeffrey Epstein\nAttachments: TEXT.htm, Mime.822\n\nGood afternoon Mr. [redacted],\n\nOur client, Jeffrey Epstein, has informed us that he has no toilet paper in his cell. His CPap machine was not plugged in last night, so he was unable to use it.\n\nAlso, since his arrival at MCC, he has only been able to make two fifteen minute phone calls. Both times, the calls were on speaker phone, with officers present.\n\nThank you in advance for your help.\n\nBest,\n[redacted]\n\nNOTICE: This message may contain information that is privileged or confidential. If you receive this transmission in error, please notify the sender by reply e-mail and delete the message and any attachments.",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Client Jeffrey Epstein\nFrom [redacted]\nTo [redacted]@gmail.com [redacted]\nDate 2019/08/06 15:21\nSubject: Client Jeffrey Epstein\nAttachments: TEXT.htm, Mime.822",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Good afternoon Mr. [redacted],\n\nOur client, Jeffrey Epstein, has informed us that he has no toilet paper in his cell. His CPap machine was not plugged in last night, so he was unable to use it.\n\nAlso, since his arrival at MCC, he has only been able to make two fifteen minute phone calls. Both times, the calls were on speaker phone, with officers present.\n\nThank you in advance for your help.\n\nBest,\n[redacted]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "NOTICE: This message may contain information that is privileged or confidential. If you receive this transmission in error, please notify the sender by reply e-mail and delete the message and any attachments.",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "MCC"
+    ],
+    "locations": [],
+    "dates": [
+      "2019/08/06"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00023706"
+    ]
+  },
+  "additional_notes": "The document contains redactions of personal information and email addresses. The email discusses the conditions and restrictions faced by Jeffrey Epstein while at MCC."
+}

@@ -1,0 +1,68 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028310",
+    "date": "092610",
+    "document_type": "PQH API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 *B PQH API/HIT DATA 042814 *A *C NAME DOB QUERY DATE TIME AGN RSLT LNE TYP REF TERM/ LANE API EPSTEIN, JEFFREY 012053 092610 0000 *D API LONDON / HEATHROW INTL 01 R API DATA ---- INDICATOR : R REPORTED CARRIER CODE : VS VIRGIN ATLANTIC AIRWAYS FLT/VES NUMBER : 4 ARRIVAL LOCATION : LHR LONDON / HEATHROW INTL DEPARTURE LOCATION : JFK JOHN F KENNEDY INTL TRANSMITTED BY : SHARES CONTINENTAL AIRLINES INBOUND/OUTBOUND : OUTBOUND (b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6) , (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) (b) (7) (E) DOJ-OGR-00028310",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07 *B PQH API/HIT DATA 042814 *A *C",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB QUERY DATE TIME AGN RSLT LNE TYP REF TERM/ LANE API",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY 012053 092610 0000 *D API LONDON / HEATHROW INTL 01 R",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "API DATA ---- INDICATOR : R REPORTED CARRIER CODE : VS VIRGIN ATLANTIC AIRWAYS FLT/VES NUMBER : 4 ARRIVAL LOCATION : LHR LONDON / HEATHROW INTL DEPARTURE LOCATION : JFK JOHN F KENNEDY INTL TRANSMITTED BY : SHARES CONTINENTAL AIRLINES INBOUND/OUTBOUND : OUTBOUND",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "(b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6) , (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) (b) (7) (E)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028310",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "VIRGIN ATLANTIC AIRWAYS",
+      "CONTINENTAL AIRLINES"
+    ],
+    "locations": [
+      "LONDON",
+      "HEATHROW INTL",
+      "JFK",
+      "JOHN F KENNEDY INTL"
+    ],
+    "dates": [
+      "092610"
+    ],
+    "reference_numbers": [
+      "012053",
+      "0000",
+      "042814",
+      "DOJ-OGR-00028310"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b) (7) (E)' and '(b) (6) , (b) (7) (C)'. The document appears to be a flight data record for Jeffrey Epstein's travel."
+}

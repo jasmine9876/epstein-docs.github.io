@@ -1,0 +1,38 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Visitor Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Deg # Time IN Time OUT DATE NAME Signature Inmate Reg # Time IN Time OUT 76318-054 6/28/22 2:55 7:17 76318-054 6/28/23 12:30 2:30 Epstein",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "Deg # Time IN Time OUT DATE NAME Signature Inmate Reg # Time IN Time OUT",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318-054 6/28/22 2:55 7:17 76318-054 6/28/23 12:30 2:30 Epstein",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "6/28/22",
+      "6/28/23"
+    ],
+    "reference_numbers": [
+      "76318-054"
+    ]
+  },
+  "additional_notes": "The document appears to be a visitor log with handwritten entries. The image has been partially redacted with a green overlay, obscuring most of the content except for one entry."
+}

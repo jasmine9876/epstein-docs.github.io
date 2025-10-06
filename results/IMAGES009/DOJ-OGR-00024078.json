@@ -1,0 +1,53 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Inmate Visit Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE | NAME | Signature | Inmate | Reg# | Time IN | Time OUT (b)(6), (b)(7)(C) 7/24/19 Sample are Epstein 785-0511 1:40 5:30 HHHH Epstein 765884 5:55 (b)(6), (b)(7)(C) 5:20 Epstein 763804 830 100 7/28/19 Svella Epstein 763804 5:46 8:nd (b)(6), (b)(7)(C) DOJ-OGR-00024078",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE | NAME | Signature | Inmate | Reg# | Time IN | Time OUT",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/24/19 Sample are Epstein 785-0511 1:40 5:30 HHHH Epstein 765884 5:55 5:20 Epstein 763804 830 100",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/28/19 Svella Epstein 763804 5:46 8:nd",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024078",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Sample",
+      "Svella",
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/24/19",
+      "7/28/19"
+    ],
+    "reference_numbers": [
+      "785-0511",
+      "765884",
+      "763804",
+      "DOJ-OGR-00024078"
+    ]
+  },
+  "additional_notes": "The document appears to be an inmate visit log with handwritten entries. Some parts of the document are redacted with green blocks, likely to protect sensitive information."
+}

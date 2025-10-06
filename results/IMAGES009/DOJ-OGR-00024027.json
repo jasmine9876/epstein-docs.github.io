@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024027",
+    "date": "7/23/03",
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE NAME SIGNATURE INMATE REG # TIME IN TIME OUT 7/23/03 G. Tali Colon J. Epstein 76318-054 12:17 12:00 7/23/03 J. Epstein 76318-054 7/23/03 G. Tali G. Tali J. Epstein J. Epstein 76318-054 2:08 8:20 76318-054 5:20 11:00 76318054 6:30 DOJ-OGR-00024027",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE NAME SIGNATURE INMATE REG # TIME IN TIME OUT",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/23/03 G. Tali Colon J. Epstein 76318-054 12:17 12:00",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/23/03 J. Epstein 76318-054",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/23/03 G. Tali G. Tali J. Epstein J. Epstein 76318-054 2:08 8:20 76318-054 5:20 11:00 76318054 6:30",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024027",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "G. Tali Colon",
+      "J. Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/23/03"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024027"
+    ]
+  },
+  "additional_notes": "The document appears to be a log or record of some kind, with handwritten entries. Some of the text is obscured or redacted."
+}

@@ -1,0 +1,59 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028797",
+    "date": "042814",
+    "document_type": "PQH API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:08 PQH API/HIT DATA 042814 *B *A *C NAME EPSTEIN, JEFFREY E PBI -WEST PALM BEACH DOB 012053 DATE 072513 TIME 0000 AGN *D RSLT API TERM/ REF LANE API DOC: 46991107 US P INSP: APIS QRY API DATA ---- INDICATOR : R CARRIER CODE : *GA FLT/VES NUMBER : N909JE ARRIVAL LOCATION : PBI DEPARTURE LOCATION : XXX TRANSMITTED BY : APGA888J INBOUND/OUTBOUND : INBOUND REPORTED GENERAL AVIATION WEST PALM BEACH UNKNOWN AIRPORT (USED ON GENERAL AVIATION (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) DOJ-OGR-00028797",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:08 PQH API/HIT DATA 042814",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME EPSTEIN, JEFFREY E PBI -WEST PALM BEACH DOB 012053 DATE 072513 TIME 0000 AGN *D RSLT API TERM/ REF LANE API DOC: 46991107 US P INSP: APIS QRY",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "API DATA ---- INDICATOR : R CARRIER CODE : *GA FLT/VES NUMBER : N909JE ARRIVAL LOCATION : PBI DEPARTURE LOCATION : XXX TRANSMITTED BY : APGA888J INBOUND/OUTBOUND : INBOUND REPORTED GENERAL AVIATION WEST PALM BEACH UNKNOWN AIRPORT (USED ON GENERAL AVIATION",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028797",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY E EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "WEST PALM BEACH",
+      "PBI"
+    ],
+    "dates": [
+      "072513",
+      "042814"
+    ],
+    "reference_numbers": [
+      "46991107",
+      "N909JE",
+      "APGA888J",
+      "DOJ-OGR-00028797"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as (b)(7)(E) and (b)(6), (b)(7)(C)."
+}

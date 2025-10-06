@@ -1,0 +1,113 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "8/9/19 (b)(6), (b)(7)(C) Epstein 76318-054 11:30 1:30 (b)(6), (b)(7)(C) 3/9 8/9 (b)(6), (b)(7)(C) Epstein J. Epstein 76318-054 76318-054 11:00 11:35 (b)(6), (b)(7)(C) 8/7 8/9 (b)(6), (b)(7)(C) Epstein Epstein 76318-054 76318-054 2:22 2:20 6:25 6:5 (b)(6), (b)(7)(C) 8/9 (b)(6), (b)(7)(C) Epstein 76318-054 2:20 649 DOJ-OGR-00024280",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "8/9/19",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein 76318-054 11:30 1:30",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "margin"
+    },
+    {
+      "type": "handwritten",
+      "content": "3/9 8/9",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "margin"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein J. Epstein 76318-054 76318-054 11:00 11:35",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "margin"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/7 8/9",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "margin"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein Epstein 76318-054 76318-054 2:22 2:20 6:25 6:5",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "margin"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/9",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein 76318-054 2:20 649",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024280",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein",
+      "J. Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "8/9/19",
+      "3/9",
+      "8/9",
+      "8/7",
+      "8/9"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024280"
+    ]
+  },
+  "additional_notes": "The document appears to be a heavily redacted log or record of some sort, with multiple instances of handwritten text and redactions marked as '(b)(6), (b)(7)(C)'. The content is likely related to Jeffrey Epstein, given the repeated mention of 'Epstein' and 'J. Epstein'. The document quality is poor due to extensive redactions."
+}

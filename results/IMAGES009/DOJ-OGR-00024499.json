@@ -1,0 +1,47 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024499",
+    "date": null,
+    "document_type": "Inmate Visit Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE | NAME | Signature | Inmate | Doc# | Time IN | Time OUT 7/24/19 Epstein 736-0514 1:40 5:30 7/24/19 Gabin 765804 5:55 5:20 7/24/19 Epstein 763804 8:30 10:00 7/28/19 Epstein 736-0514 5:16 8:20",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE | NAME | Signature | Inmate | Doc# | Time IN | Time OUT",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/24/19 Epstein 736-0514 1:40 5:30 7/24/19 Gabin 765804 5:55 5:20 7/24/19 Epstein 763804 8:30 10:00 7/28/19 Epstein 736-0514 5:16 8:20",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024499",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein",
+      "Gabin"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/24/19",
+      "7/28/19"
+    ],
+    "reference_numbers": [
+      "736-0514",
+      "765804",
+      "763804",
+      "DOJ-OGR-00024499"
+    ]
+  },
+  "additional_notes": "The document appears to be an inmate visit log with handwritten entries. Some information is redacted with green blocks."
+}

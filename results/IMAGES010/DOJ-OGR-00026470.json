@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": "2814",
+    "document_number": "DOJ-OGR-00026470",
+    "date": "08/04/2019",
+    "document_type": "30 MINUTE CHECK SHEET",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2814 MCC NEW YORK SPECIAL HOUSING UNIT MCC NEW YORK SPECIAL HOUSING UNIT 30 MINUTE CHECK SHEET ZA TIER M DATE: 08/04/2019 TIME FRAME TIME START TIME END SIGNATURE TIME FRAME TIME START TIME END SIGNATURE TIME FRAME TIME START TIME END SIGNATURE 12:00-12:30 AM 1203 1204 (b)(6); (b)(7)(C) 8:00-8:30 AM 803 805 (b)(6); (b)(7)(C) 4:00-4:30 PM 403 404 (b)(6); (b)(7)(C) 12:30 - 1:00 AM 1234 1235 8:30- 9:00 AM 834 836 4:30-5:00 PM 434 435 1:00-1:30 AM 104 105 9:00-9:30 AM 903 905 5:00 -5:30 PM 504 505 1:30-2:00 AM 132 133 9:30-10:00 AM 934 936 5:30-6:00 PM 534 536 2:00-2:30 AM 202 203 10:00-10:30 AM 1003 1005 6:00-6:30 PM 602 603 2:30-3:00 AM 233 234 10:30-11:00 AM 1035 1037 6:30-7:00 PM 1033 1034 3:00-3:30 AM 302 303 11:00-11:30 AM 1103 1105 7:00-7:30 PM 702 703 3:30-4:00 AM 332 333 11:30-12:00 AM 1135 1137 7:30-8:00 PM 732 733 4:00-4:30 AM 403 404 12:00-12:30 PM 1203 1205 8:00-8:30 PM 803 804 4:30-5:00 AM 434 435 12:30- 1:00 PM 1234 1236 8:30- 9:00 PM 834 835 5:00 -5:30 AM 502 503 1:00-1:30 PM 903 905 9:00-9:30 PM 902 903 5:30-6:00 AM 534 535 1:30-2:00 PM 134 136 9:30-10:00 PM 934 936 6:00-6:30 AM 603 604 2:00-2:30 PM 203 205 10:00-10:30 PM 1005 1007 6:30-7:00 AM 634 635 2:30-3:00 PM 234 236 10:30-11:00 PM 1034 1036 7:00-7:30 AM 706 707 3:00-3:30 PM 303 305 11:00-11:30 PM 1105 1107 7:30-8:00 AM 732 733 3:30-4:00 PM 334 336 11:30-12:00 PM 1133 1134 MORNING WATCH OPERATIONS LIEUTENANT (b)(6); (b)(7)(C) DAY WATCH OPERATIONS LIEUTENANT (b)(6); (b)(7)(C) EVENING WATCH OPERATIONS LIEUTENANT (b)(6); (b)(7)(C) A staff member must observe all inmates confined in a continuous locked down status, such as administrative detention or disciplinary segregation, at least once in the first 30 minute period of the hour (example, 12:00 am - 12:30 a.m.) followed by another round in the second 30 minutes period of the same hour (example, 12:30 am - 1:00 a.m.), thus ensuring an inmate is observed at least twice per hour. These rounds are to be conducted on an irregular schedule and no more than 40 minutes apart. All observations must be documented. REVIEWED BY MORNING WATCH LIEUTENANT CAPTAIN DOJ-OGR-00026470",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "MCC NEW YORK SPECIAL HOUSING UNIT 30 MINUTE CHECK SHEET ZA TIER M DATE: 08/04/2019",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Various times and signatures throughout the table",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "A staff member must observe all inmates confined in a continuous locked down status, such as administrative detention or disciplinary segregation, at least once in the first 30 minute period of the hour (example, 12:00 am - 12:30 a.m.) followed by another round in the second 30 minutes period of the same hour (example, 12:30 am - 1:00 a.m.), thus ensuring an inmate is observed at least twice per hour. These rounds are to be conducted on an irregular schedule and no more than 40 minutes apart. All observations must be documented.",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "REVIEWED BY MORNING WATCH LIEUTENANT CAPTAIN",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "MORNING WATCH OPERATIONS LIEUTENANT",
+      "DAY WATCH OPERATIONS LIEUTENANT",
+      "EVENING WATCH OPERATIONS LIEUTENANT",
+      "MORNING WATCH LIEUTENANT CAPTAIN"
+    ],
+    "organizations": [
+      "MCC NEW YORK",
+      "SPECIAL HOUSING UNIT",
+      "DOJ"
+    ],
+    "locations": [
+      "NEW YORK"
+    ],
+    "dates": [
+      "08/04/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026470"
+    ]
+  },
+  "additional_notes": "The document contains handwritten times and signatures in the table. The document is a 30-minute check sheet for inmates in a special housing unit."
+}

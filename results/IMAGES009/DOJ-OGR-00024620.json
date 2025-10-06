@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": "001",
+    "document_number": "NYMD9: 530*07",
+    "date": "07-25-2019",
+    "document_type": "Population Monitoring Census/Roster - Generalized Retrieval",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "NYMD9: 530*07 * POPULATION MONITORING CENSUS/ROSTER * 07-25-2019 PAGE 001 * GENERALIZED RETRIEVAL * 00:50:04 FUNCTION: R-P SELECTION CATEGORY: QTR EQ ALL ZERO/NBR: NO ORGANIZATION: FACL EQ NYM TYPE OF FACILITY: TOF EQ T DUP SUPR: YES FACILITY MANAGED BY: FMB EQ AP COLUMNS 1: REG 2: LN 3: LN2 4: FN 5: ARSD 6: ARS 7: 8: JUDG: C SORT COL: COL SEQ: SEQ: 234 NP: CONDITIONS (GRP 1) OR CONDITIONS (GRP 2) OR CONDITIONS (GRP 3) OR CONDITIONS (GRP 4) CMCI NE G CYCLE NE P Control 10007 G TOT G0002 DOJ-OGR-00024620",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "NYMD9: 530*07 * POPULATION MONITORING CENSUS/ROSTER * 07-25-2019 PAGE 001 * GENERALIZED RETRIEVAL * 00:50:04",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "FUNCTION: R-P SELECTION CATEGORY: QTR EQ ALL ZERO/NBR: NO ORGANIZATION: FACL EQ NYM TYPE OF FACILITY: TOF EQ T DUP SUPR: YES FACILITY MANAGED BY: FMB EQ AP COLUMNS 1: REG 2: LN 3: LN2 4: FN 5: ARSD 6: ARS 7: 8: JUDG: C SORT COL: COL SEQ: SEQ: 234 NP:",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "CONDITIONS (GRP 1) OR CONDITIONS (GRP 2) OR CONDITIONS (GRP 3) OR CONDITIONS (GRP 4) CMCI NE G CYCLE NE P",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Control",
+      "position": "top-right"
+    },
+    {
+      "type": "handwritten",
+      "content": "10007",
+      "position": "left"
+    },
+    {
+      "type": "printed",
+      "content": "G TOT G0002",
+      "position": "bottom-left"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024620",
+      "position": "bottom-right"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "FMB",
+      "NYM"
+    ],
+    "locations": [],
+    "dates": [
+      "07-25-2019"
+    ],
+    "reference_numbers": [
+      "NYMD9: 530*07",
+      "DOJ-OGR-00024620",
+      "10007",
+      "G0002"
+    ]
+  },
+  "additional_notes": "The document contains two green rectangles that obscure some of the content. The document appears to be a census or roster retrieval document with various conditions and filters applied."
+}

@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": "340",
+    "document_number": "DOJ-OGR-00024862",
+    "date": "2019/08/10",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 340\nEpstein, Jeffrey, Register No. 76318-054\nFrom Shirley V. Skipper-Scott\nTo Ray Ormond\nDate 2019/08/10 09:48\nSubject: Epstein, Jeffrey, Register No. 76318-054\nAttachments: TEXT.htm\nOn August 10, 2019, at approximately 6:33 a.m., while attempting to serve inmate Epstein, Jeffrey, Register No. 76318-054, the breakfast meal, he was found unresponsive in his cell. Staff called for assistance and began life saving measures. He was escorted to Health Services and subsequently to the local hospital where he was pronounced dead at 7:36 am. He was escorted to Health Services at approximately 6:45 a.m., and EMS arrived at 6:59 a.m. He was transported to the local hospital at approximately 7:23 a.m. Institution medical staff stated he had circumfrical bruising around the neck. An orange make shift noose was found in his cell.\nShirley Skipper-Scott\nAssociate Warden\nMCC New York\n150 Park Row\nNew York, New York 10007\nOffice: 646-836(b)(6); (b)(7)(C)\nBlack Berry: 646-423(b)(6); (b)(7)(C)@bop.gov\nPage 888\nDOJ-OGR-00024862",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Epstein, Jeffrey, Register No. 76318-054\nFrom Shirley V. Skipper-Scott\nTo Ray Ormond\nDate 2019/08/10 09:48\nSubject: Epstein, Jeffrey, Register No. 76318-054\nAttachments: TEXT.htm",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "On August 10, 2019, at approximately 6:33 a.m., while attempting to serve inmate Epstein, Jeffrey, Register No. 76318-054, the breakfast meal, he was found unresponsive in his cell. Staff called for assistance and began life saving measures. He was escorted to Health Services and subsequently to the local hospital where he was pronounced dead at 7:36 am. He was escorted to Health Services at approximately 6:45 a.m., and EMS arrived at 6:59 a.m. He was transported to the local hospital at approximately 7:23 a.m. Institution medical staff stated he had circumfrical bruising around the neck. An orange make shift noose was found in his cell.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Shirley Skipper-Scott\nAssociate Warden\nMCC New York\n150 Park Row\nNew York, New York 10007\nOffice: 646-836(b)(6); (b)(7)(C)\nBlack Berry: 646-423(b)(6); (b)(7)(C)@bop.gov",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 340",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Page 888\nDOJ-OGR-00024862",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Shirley V. Skipper-Scott",
+      "Ray Ormond"
+    ],
+    "organizations": [
+      "MCC New York",
+      "Health Services",
+      "EMS",
+      "BOP"
+    ],
+    "locations": [
+      "New York",
+      "local hospital"
+    ],
+    "dates": [
+      "August 10, 2019",
+      "2019/08/10"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024862"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted email regarding the death of Jeffrey Epstein. Some phone numbers and email addresses have been redacted."
+}

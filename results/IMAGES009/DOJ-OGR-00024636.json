@@ -1,0 +1,42 @@
+{
+  "document_metadata": {
+    "page_number": "001",
+    "document_number": "NYMGK 530*07",
+    "date": "08-03-2019",
+    "document_type": "POPULATION MONITORING CENSUS/ROSTER GENERALIZED RETRIEVAL",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "NYMGK 530*07 PAGE 001 POPULATION MONITORING CENSUS/ROSTER GENERALIZED RETRIEVAL 08-03-2019 00:57:27 FUNCTION: R-P SELECTION CATEGORY: QTR EQ ALL ZERC/NBR: NO ORGANIZATION: FACL EQ NYM OPTION: TYPE OF FACILITY: TOF EQ T DUP SUPR: YES FACILITY MANAGED BY: FMB EQ AP COLUMNS 1: REG 2: LN 3: LN2 4: FN 5: ARSD 6: ARS 7: 8: SEQ: 234 NP: JUDG: C SORT COL: COL SEQ: CONDITIONS (GRP 1) OR CONDITIONS (GRP 2) OR CONDITIONS (GRP 3) OR CONDITIONS (GRP 4) CMCI NE G CMCI NE F Control Cater 132 5/7/2019 WITHRE(100/NIL) G0002 MORE PAGES TO FOLLOW ... DOJ-OGR-00024636",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "NYMGK 530*07 PAGE 001 POPULATION MONITORING CENSUS/ROSTER GENERALIZED RETRIEVAL 08-03-2019 00:57:27 FUNCTION: R-P SELECTION CATEGORY: QTR EQ ALL ZERC/NBR: NO ORGANIZATION: FACL EQ NYM OPTION: TYPE OF FACILITY: TOF EQ T DUP SUPR: YES FACILITY MANAGED BY: FMB EQ AP COLUMNS 1: REG 2: LN 3: LN2 4: FN 5: ARSD 6: ARS 7: 8: SEQ: 234 NP: JUDG: C SORT COL: COL SEQ: CONDITIONS (GRP 1) OR CONDITIONS (GRP 2) OR CONDITIONS (GRP 3) OR CONDITIONS (GRP 4) CMCI NE G CMCI NE F",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Control Cater 132 5/7/2019",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "WITHRE(100/NIL) G0002 MORE PAGES TO FOLLOW ... DOJ-OGR-00024636",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "08-03-2019",
+      "5/7/2019"
+    ],
+    "reference_numbers": [
+      "NYMGK 530*07",
+      "DOJ-OGR-00024636"
+    ]
+  },
+  "additional_notes": "The document appears to be a computer-generated report with some handwritten annotations. The handwritten text reads 'Control Cater' and '132 5/7/2019'. The document indicates that there are more pages to follow."
+}

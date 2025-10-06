@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "PQH API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 *B PQH API/HIT DATA 042814 *A *C NAME DOB ----- QUERY ----- LNE TERM/ EPSTEIN, JEFFREY 012053 DATE TIME AGN RSLT TYP REF LANE API A512-CBP-ST THOMAS, VI PRECL 100612 1516 CUS *D AIR EY06 N TECS RECORD ID : CARRIER CODE : *GA GENERAL AVIATION FLT/VES NUMBER : N909J (b) (7) (E) (b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6) , (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) DOJ-OGR-00028264",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07 *B PQH API/HIT DATA 042814 *A *C",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB ----- QUERY ----- LNE TERM/",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY 012053 DATE TIME AGN RSLT TYP REF LANE API A512-CBP-ST THOMAS, VI PRECL 100612 1516 CUS *D AIR EY06 N",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TECS RECORD ID : CARRIER CODE : *GA GENERAL AVIATION FLT/VES NUMBER : N909J",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b) (7) (E) (b) (7) (E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b) (7) (E) *B - (b) (6) , (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028264",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "ST THOMAS, VI"
+    ],
+    "dates": [
+      "100612"
+    ],
+    "reference_numbers": [
+      "A512-CBP-ST",
+      "N909J",
+      "DOJ-OGR-00028264"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b) (7) (E)' and '(b) (6) , (b) (7) (C)'. The document appears to be a record of a query related to an individual, JEFFREY EPSTEIN, and contains information about a flight or vessel."
+}

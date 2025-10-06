@@ -1,0 +1,48 @@
+{
+  "document_metadata": {
+    "page_number": "2581",
+    "document_number": "DOJ-OGR-00026241",
+    "date": "07/06/2019",
+    "document_type": "Inmate Record",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2581 Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Encounter Date: 07/06/2019 21:38 Sex: M Reg #: 76318-054 Provider: [redacted] PA-C Race: WHITE Facility: NYM Completed by [redacted] PA-C on 07/06/2019 21:56 Requested to be cosigned by [redacted] MD. Cosign documentation will be displayed on the following page. Generated 07/06/2019 21:56 by [redacted] PA-C Bureau of Prisons - NYM Page 6 of 6 DOJ-OGR-00026241",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Encounter Date: 07/06/2019 21:38 Sex: M Reg #: 76318-054 Provider: [redacted] PA-C Race: WHITE Facility: NYM",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Completed by [redacted] PA-C on 07/06/2019 21:56 Requested to be cosigned by [redacted] MD. Cosign documentation will be displayed on the following page.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/06/2019 21:56 by [redacted] PA-C Bureau of Prisons - NYM Page 6 of 6 DOJ-OGR-00026241",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/06/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026241"
+    ]
+  },
+  "additional_notes": "The document contains redacted information, likely for privacy or security reasons."
+}

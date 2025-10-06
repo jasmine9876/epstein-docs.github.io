@@ -1,0 +1,50 @@
+{
+  "document_metadata": {
+    "page_number": "001",
+    "document_number": "530*07",
+    "date": "08-02-2019",
+    "document_type": "POPULATION MONITORING CENSUS/ROSTER",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "XYMES: 530*07 PAGE 001 POPULATION MONITORING CENSUS/ROSTER GENERALIZED RETRIEVAL 08-02-2019 01:22:48 FUNCTION: R-P SELECTION CATEGORY: QTR EQ ALL ZERO/NBR: NO ORGANIZATION: FACL EQ NYM OPTION: TYPE OF FACILITY: TOF EQ T DJP SUPR: YES FACILITY MANAGED BY: FMB EQ AP COLUMNS 1: REG 2: LN 3: LN2 4: FN 5: ARSD 6: ARS 7: 8: SEQ: 234 NP: JUDG: C SORT COL: CC: SEQ: CONDITIONS (GRP 1) OR CONDITIONS (GRP 2) OR CONDITIONS (GRP 3) OR CONDITIONS (GRP 4) CMCI NE G CMCI NE P DOJ-OGR-00024634",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "XYMES: 530*07 PAGE 001 POPULATION MONITORING CENSUS/ROSTER GENERALIZED RETRIEVAL 08-02-2019 01:22:48",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "FUNCTION: R-P SELECTION CATEGORY: QTR EQ ALL ZERO/NBR: NO ORGANIZATION: FACL EQ NYM OPTION: TYPE OF FACILITY: TOF EQ T DJP SUPR: YES FACILITY MANAGED BY: FMB EQ AP COLUMNS 1: REG 2: LN 3: LN2 4: FN 5: ARSD 6: ARS 7: 8: SEQ: 234 NP: JUDG: C SORT COL: CC: SEQ:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CONDITIONS (GRP 1) OR CONDITIONS (GRP 2) OR CONDITIONS (GRP 3) OR CONDITIONS (GRP 4) CMCI NE G CMCI NE P",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024634",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "08-02-2019"
+    ],
+    "reference_numbers": [
+      "530*07",
+      "DOJ-OGR-00024634"
+    ]
+  },
+  "additional_notes": "The document appears to be a technical report or data retrieval output with specific conditions and filters applied. Two large green rectangles obscure parts of the document, suggesting potential redactions or sensitive information."
+}

@@ -1,0 +1,51 @@
+{
+  "document_metadata": {
+    "page_number": "3256",
+    "document_number": "DOJ-OGR-00026845",
+    "date": "7/10/19",
+    "document_type": "Psych Observation Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 3256\n1:00 AM Inmate EPSTEIN is pacing\n1:00 AM Inmate EPSTEIN is laying down quiet\n1:12 AM Lt ROWNDS\n(b)(6); (b)(7)(C)\n1:15 AM Inmate EPSTEIN is laying down\n1:30 AM Inmate EPSTEIN is sleeping\n1:45 AM Inmate EPSTEIN is sleeping\n2:00 AM Inmate EPSTEIN is sleeping\n2:13 AM Inmate EPSTEIN is using bathroom, then laying down\n2:30 AM Inmate EPSTEIN is pacing\n2:45 AM Inmate EPSTEIN is pacing\n3:00 AM Inmate EPSTEIN is pacing\n3:01 AM End of shift\n3:02 AM 1/C\n(b)(6); (b)(7)(C) ASSUMED RESPONSIBILITY FOR\nTHE PSYCH OBSERVATION OF INMATE EPSTEIN (76318-054)\nCELL #4 on 7/10/19\n3:04 Inmate EPSTEIN is laying down tranquil\n3:05 Inmate EPSTEIN is laying down\n3:10 Inmate EPSTEIN is laying down\n3:35 Inmate EPSTEIN is walking around\n3:36 ASICS IF IT'S OKAY FOR HIM TO WALK AROUND. HE'S ALSO\n(b)(6); (b)(7)(C)\nTAKING A DEEP BREATH",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3256",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "1:00 AM Inmate EPSTEIN is pacing\n1:00 AM Inmate EPSTEIN is laying down quiet\n1:12 AM Lt ROWNDS\n1:15 AM Inmate EPSTEIN is laying down\n1:30 AM Inmate EPSTEIN is sleeping\n1:45 AM Inmate EPSTEIN is sleeping\n2:00 AM Inmate EPSTEIN is sleeping\n2:13 AM Inmate EPSTEIN is using bathroom, then laying down\n2:30 AM Inmate EPSTEIN is pacing\n2:45 AM Inmate EPSTEIN is pacing\n3:00 AM Inmate EPSTEIN is pacing\n3:01 AM End of shift\n3:02 AM 1/C\nTHE PSYCH OBSERVATION OF INMATE EPSTEIN (76318-054)\nCELL #4 on 7/10/19\n3:04 Inmate EPSTEIN is laying down tranquil\n3:05 Inmate EPSTEIN is laying down\n3:10 Inmate EPSTEIN is laying down\n3:35 Inmate EPSTEIN is walking around\n3:36 ASICS IF IT'S OKAY FOR HIM TO WALK AROUND. HE'S ALSO\nTAKING A DEEP BREATH",
+      "position": "main"
+    },
+    {
+      "type": "other",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026845",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "EPSTEIN",
+      "ROWNDS"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "7/10/19"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026845"
+    ]
+  },
+  "additional_notes": "The document appears to be a handwritten log of observations of Inmate Epstein's activities. The log includes timestamps and descriptions of Epstein's actions. Some names and identifiers are redacted."
+}

@@ -1,0 +1,73 @@
+{
+  "document_metadata": {
+    "page_number": "3361",
+    "document_number": "DOJ-OGR-00026950",
+    "date": "8/2/19",
+    "document_type": "OFFICIAL OUT COUNT",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 3361 METROPOLITAN CORRECTIONAL CENTER NEW YORK, NY OFFICIAL OUT COUNT DATE: 8/2/19 COUNT TIME: 4:00 pm FROM: (Staff Member Preparing Out Count) LOCATION: Atty Conf APPROVED: (Operations Lieutenant) REG # NAME UNIT REG # NAME UNIT 1. 76318-054 Epstein ZA 13. 2. (b)(6), (b)(7)(C) IN 14. 3. ZA 15. 4. IN 16. 5. 17. 6. 18. 7. 19. 8. 20. 9. 21. 10. 22. 11. 23. 12. 24. OUT-COUNT BY UNIT B-A C-A E-N E-S G-N G-S H-A I-N 2 K-N K-S R-A Z-A Z-B Total Out-Counted: 4 This form must be submitted to the Counts and Assignments Officer FORTY-FIVE MINUTES PRIOR to the affected count. Prepare this form in ink. Group the inmates according to their respective housing units. This form is to be used only as an Out-Count. No other form will be accepted in lieu of the Out-Count Form. DOJ-OGR-00026950",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "METROPOLITAN CORRECTIONAL CENTER NEW YORK, NY OFFICIAL OUT COUNT",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/2/19",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "4:00 pm",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Atty Conf",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318-054 Epstein ZA",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "2",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "4",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "This form must be submitted to the Counts and Assignments Officer FORTY-FIVE MINUTES PRIOR to the affected count. Prepare this form in ink. Group the inmates according to their respective housing units. This form is to be used only as an Out-Count. No other form will be accepted in lieu of the Out-Count Form.",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [
+      "METROPOLITAN CORRECTIONAL CENTER"
+    ],
+    "locations": [
+      "NEW YORK, NY",
+      "Atty Conf"
+    ],
+    "dates": [
+      "8/2/19"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026950"
+    ]
+  },
+  "additional_notes": "The document contains handwritten and printed text. Some information is redacted, marked as (b)(6), (b)(7)(C)."
+}

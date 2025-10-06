@@ -1,0 +1,51 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "3432",
+    "date": "Tuesday July 23, 2019",
+    "document_type": "Schedule or Roster",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 3432 Tuesday July 23, 2019 Page 2 REC OFFICER #1 (b)(6); (b)(7)(C); (b)(7)(F) REC OFFICER #2 (b)(6); (b)(7)(C); (b)(7)(F) 11 NORTH (b)(6); (b)(7)(C); (b)(7)(F) 11 SOUTH (b)(6); (b)(7)(C); (b)(7)(F) 11 SOUTH #2 (b)(6); (b)(7)(C); (b)(7)(F) REAR GATE (b)(6); (b)(7)(C); (b)(7)(F) OSP #1 (b)(6); (b)(7)(C); (b)(7)(F) SANITATION OFF (b)(6); (b)(7)(C); (b)(7)(F) VISIT #1 (b)(6); (b)(7)(C); (b)(7)(F) VISIT #2 (b)(6); (b)(7)(C); (b)(7)(F) VISIT #3 (b)(6); (b)(7)(C); (b)(7)(F) ****Special Assignments**** EPO OFFICE (b)(7)(F) (b)(7)(F) (b)(6); (b)(7)(C); (b)(7)(F) ESCORT OFF #1 (b)(6); (b)(7)(C); (b)(7)(F) ESCORT OFF #2 (b)(6); (b)(7)(C); (b)(7)(F) LOBBY #2 (b)(7)(F) PHONE RM (b)(7)(F) TOWN DRIVER ****Back Page Categories**** DAY OFF (b)(6); (b)(7)(C) AVE DOJ-OGR-00027021",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3432",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Tuesday July 23, 2019 Page 2",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "REC OFFICER #1 REC OFFICER #2 11 NORTH 11 SOUTH 11 SOUTH #2 REAR GATE OSP #1 SANITATION OFF VISIT #1 VISIT #2 VISIT #3 ****Special Assignments**** EPO OFFICE ESCORT OFF #1 ESCORT OFF #2 LOBBY #2 PHONE RM TOWN DRIVER ****Back Page Categories**** DAY OFF AVE",
+      "position": "main content"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6); (b)(7)(C); (b)(7)(F)",
+      "position": "main content"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027021",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "July 23, 2019"
+    ],
+    "reference_numbers": [
+      "3432",
+      "DOJ-OGR-00027021"
+    ]
+  },
+  "additional_notes": "The document appears to be a schedule or roster with redacted names and information. The redactions are indicated by (b)(6); (b)(7)(C); (b)(7)(F)."
+}

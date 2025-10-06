@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "7606",
+    "document_number": "DOJ-OGR-00023910",
+    "date": "2019/07/24",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "hi and a question\nFrom (b)(6), (b)(7)(C)\nTo Lee Plourde\nDate 2019/07/24 22:47\nSubject: hi and a question\nAttachments: TEXT.htm, Mime.822\nhi Lee,\nhope you are well. We saw an article tonight on someting called Radaronline reporting that Jeffrey Epstein attempted to commit suicide at the MCC (unsuccessfully.)\nAre you in a position to help me on that with some sort of confirmation or information. (Or to dispel its veracity?) thanks, (b)(6), (b)(7)(C)\n--\n(b)(6), (b)(7)(C)\nReporter, The New York Times\nOffice: 212-556 (b)(6), (b)(7)(C)\nMobile: 914-67 (b)(6), (b)(7)(C)\nEmail (b)(6), (b)(7)(C) @nytimes.com (b)(6), (b)(7)(C)\nPage 7606\nDOJ-OGR-00023910",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "hi and a question\nFrom (b)(6), (b)(7)(C)\nTo Lee Plourde\nDate 2019/07/24 22:47\nSubject: hi and a question\nAttachments: TEXT.htm, Mime.822",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "hi Lee,\nhope you are well. We saw an article tonight on someting called Radaronline reporting that Jeffrey Epstein attempted to commit suicide at the MCC (unsuccessfully.)\nAre you in a position to help me on that with some sort of confirmation or information. (Or to dispel its veracity?) thanks, (b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "--\n(b)(6), (b)(7)(C)\nReporter, The New York Times\nOffice: 212-556 (b)(6), (b)(7)(C)\nMobile: 914-67 (b)(6), (b)(7)(C)\nEmail (b)(6), (b)(7)(C) @nytimes.com (b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 7606\nDOJ-OGR-00023910",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Lee Plourde",
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "The New York Times",
+      "Radaronline",
+      "MCC"
+    ],
+    "locations": [],
+    "dates": [
+      "2019/07/24"
+    ],
+    "reference_numbers": [
+      "212-556",
+      "914-67",
+      "DOJ-OGR-00023910"
+    ]
+  },
+  "additional_notes": "The document is an email with redactions on personal contact information and names. The email discusses an article on Radaronline about Jeffrey Epstein's attempted suicide at MCC."
+}

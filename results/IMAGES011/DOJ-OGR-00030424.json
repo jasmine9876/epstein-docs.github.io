@@ -1,0 +1,59 @@
+{
+  "document_metadata": {
+    "page_number": "71 of 114",
+    "document_number": "DOJ-OGR-00030424",
+    "date": "07/26/17",
+    "document_type": "Check Register",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE 2/05 PAY TO Jarome Pierre FOR Petrol/Salary for Janury 05 AMOUNT 1600.00 BALANCE TAX DEDUCTIBLE 2564 JEFFREY E. EPSTEIN HOUSEHOLD ACCOUNT 358 EL BRILLO WAY PALM BEACH, FL 33480 Pay to the Order of $ Dollars COLONIAL BANK, N.A. Palm Beach, Florida 24 Hr Colonial Connection 1-877-502-2265 For TAX DEDUCTIBLE 2565 JEFFREY E. EPSTEIN HOUSEHOLD ACCOUNT 358 EL BRILLO WAY PALM BEACH, FL 33480 Pay to the Order of $ Dollars COLONIAL BANK, N.A. Palm Beach, Florida 24 Hr Colonial Connection 1-877-502-2265 TAX DEDUCTIBLE 07/26/17 Page 71 of 114 Public Records Request No.: 17-295 DOJ-OGR-00030424",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "2/05 Jarome Pierre Petrol/Salary for Janury 05 1600.00 Alfredo Rodriguez",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "2564 JEFFREY E. EPSTEIN HOUSEHOLD ACCOUNT 358 EL BRILLO WAY PALM BEACH, FL 33480 Pay to the Order of $ Dollars COLONIAL BANK, N.A. Palm Beach, Florida 24 Hr Colonial Connection 1-877-502-2265 For",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "2565 JEFFREY E. EPSTEIN HOUSEHOLD ACCOUNT 358 EL BRILLO WAY PALM BEACH, FL 33480 Pay to the Order of $ Dollars COLONIAL BANK, N.A. Palm Beach, Florida 24 Hr Colonial Connection 1-877-502-2265",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 71 of 114 Public Records Request No.: 17-295 DOJ-OGR-00030424",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jarome Pierre",
+      "Alfredo Rodriguez",
+      "Jeffrey E. Epstein"
+    ],
+    "organizations": [
+      "Colonial Bank, N.A."
+    ],
+    "locations": [
+      "Palm Beach",
+      "Florida",
+      "El Brillo Way"
+    ],
+    "dates": [
+      "2/05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "2564",
+      "2565",
+      "17-295",
+      "DOJ-OGR-00030424"
+    ]
+  },
+  "additional_notes": "The document appears to be a check register with handwritten notes and printed check stubs. The checks are from Jeffrey E. Epstein's household account."
+}

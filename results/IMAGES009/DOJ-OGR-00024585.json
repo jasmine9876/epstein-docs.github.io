@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "153",
+    "document_number": "DOJ-OGR-00024585",
+    "date": "08/19/2019",
+    "document_type": "Log Entries By Event Date",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Date: 08/19/2019 Time: 10:27 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count 7/22/2019 8:20 AM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 7/22/2019 8:19 AM Day KORIR 1071KCI Radio Check - Summary Text: Radio Number: 1071KCI 7/22/2019 10:53 AM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 7/22/2019 10:53 AM Day Census (AM) - Summary Text: Unauthorized Inmates Present: 0, Unauthorized Inmates Absent: 0. 7/22/2019 11:28 AM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 7/22/2019 11:28 AM Day Fire and Security Check 7/22/2019 11:28 AM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 7/22/2019 11:28 AM Day Rounds (Officer) - Summary Text: Completed. 7/22/2019 11:28 AM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 7/22/2019 1:07 PM Day Visual Search - Summary Text: Completed. ROUNDS CONDUCTED WHILE SHOWER 7/22/2019 1:07 PM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 7/22/2019 1:07 PM Day Change to Base Count In - Summary Text: Inmate: 0108 (NYKG) 7/22/2019 1:07 PM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 7/22/2019 1:07 PM Day 0108 (NYKG) 7/22/2019 1:09 PM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 7/22/2019 1:09 PM Day Search (Areas) - Summary Text: Common Area: LAUNDRY ROOM. 7/22/2019 1:09 PM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 7/22/2019 1:09 PM Day Search (Areas) - Summary Text: Common Area: LAW LIBRARY. 7/22/2019 1:09 PM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 7/22/2019 1:09 PM Day Search (Areas) - Summary Text: Common Area: RECREATION AREA. 7/22/2019 1:09 PM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 7/22/2019 1:09 PM Day Search (Areas) - Summary Text: Common Area: STAFF BATHROOM. 7/22/2019 1:09 PM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 7/22/2019 1:09 PM Day Search (Areas) User ID: 0108 1071KCI Page 153 of 395 DOJ-OGR-00024585",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date: 08/19/2019 Time: 10:27 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "7/22/2019 8:20 AM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 7/22/2019 8:19 AM Day KORIR 1071KCI Radio Check - Summary Text: Radio Number: 1071KCI",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "User ID: 0108 1071KCI",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 153 of 395 DOJ-OGR-00024585",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "KORIR"
+    ],
+    "organizations": [
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [
+      "Housing Unit, Special (SHU)",
+      "9 SOUTH SHU"
+    ],
+    "dates": [
+      "08/19/2019",
+      "7/22/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00024585",
+      "1071KCI",
+      "0108"
+    ]
+  },
+  "additional_notes": "The document appears to be a log entry report from the Federal Bureau of Prisons, detailing various events and activities at a correctional facility on July 22, 2019. The report includes information on the date, time, location, and personnel involved in each event."
+}

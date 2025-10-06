@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "1061",
+    "document_number": "PD15",
+    "date": "07-30-2019",
+    "document_type": "Inmate Discipline Data Pending Reports",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 1061\nPD15\nPage 1 of 1\nNYMDH * INMATE DISCIPLINE DATA * 07-30-2019\nPAGE 001 OF 001 * PENDING REPORTS * 17:50:18\nREGISTER NO: 76318-054 NAME.: EPSTEIN, JEFFREY EDWARD\nFUNCTION...: DIS FORMAT: PENDING LIMIT TO MOS PRIOR TO 07-30-2019\nRSP OF: NYM-NEW YORK MCC\nREPORT DT STATUS REPORT# UPDATED BY FCL CHARGE\n------------------------------------------------------------\n07-30-2019 PEND DHO 3282555 PROTO NYM 228 TATTOOING OR SELF-MUTILATION\nI/R REFERRED TO THE DHO BASED ON THE SEVERITY OF THE OFFENSE.\nG0005 TRANSACTION SUCCESSFULLY COMPLETED - CONTINUE PROCESSING IF DESIRED\nhttps://bop.tcp.doj.gov:9049/SENTRY/J1PPD50.do 7/30/2019 DOJ-OGR-00025284",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 1061\nPD15\nPage 1 of 1",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NYMDH * INMATE DISCIPLINE DATA * 07-30-2019\nPAGE 001 OF 001 * PENDING REPORTS * 17:50:18",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "REGISTER NO: 76318-054 NAME.: EPSTEIN, JEFFREY EDWARD\nFUNCTION...: DIS FORMAT: PENDING LIMIT TO MOS PRIOR TO 07-30-2019\nRSP OF: NYM-NEW YORK MCC",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "REPORT DT STATUS REPORT# UPDATED BY FCL CHARGE\n------------------------------------------------------------\n07-30-2019 PEND DHO 3282555 PROTO NYM 228 TATTOOING OR SELF-MUTILATION\nI/R REFERRED TO THE DHO BASED ON THE SEVERITY OF THE OFFENSE.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "G0005 TRANSACTION SUCCESSFULLY COMPLETED - CONTINUE PROCESSING IF DESIRED",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "https://bop.tcp.doj.gov:9049/SENTRY/J1PPD50.do 7/30/2019 DOJ-OGR-00025284",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "NYM-NEW YORK MCC",
+      "DOJ"
+    ],
+    "locations": [
+      "NEW YORK"
+    ],
+    "dates": [
+      "07-30-2019",
+      "7/30/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "3282555",
+      "DOJ-OGR-00025284"
+    ]
+  },
+  "additional_notes": "The document appears to be a prison disciplinary report for Jeffrey Epstein, detailing a pending charge for tattooing or self-mutilation."
+}

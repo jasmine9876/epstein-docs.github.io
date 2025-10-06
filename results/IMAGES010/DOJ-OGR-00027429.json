@@ -1,0 +1,96 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": null,
+    "date": "9/4/2020",
+    "document_type": "Managed Query Results",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Managed Query APIS - All Passengers Results Page 1 of 3 Conf. Name DOB Gender Document Conveyance Departure Date Arrival Date PNR Hit Types Attributes Status Event IDs (b)(6)&(b)(7)(C) M (b)(6)&(b)(7)(C) GA N909JE (OFF - XXX) 06/09/2014 19:35 06/09/2014 22:35 Crew (Cockpit) (b)(6)&(b)(7)(C) M GA N909JE (OFF - XXX) 05/20/2014 10:00 05/20/2014 12:45 Crew (b)(6)&(b)(7)(C) M GA N909JE (XXX - FLL) 04/15/2014 19:00 04/15/2014 22:00 Crew (b)(6)&(b)(7)(C) M GA N909JE (FLL - XXX) 03/04/2014 13:00 03/04/2014 12:30 Crew (Cockpit) (b)(6)&(b)(7)(C) M GA N909JE (XXX - FLL) 03/02/2014 13:00 03/02/2014 16:00 Crew (Cockpit) (b)(6)&(b)(7)(C) M GA N909JE (FXE - XXX) 02/13/2014 20:00 02/14/2014 23:30 Crew (Cockpit) (b)(6)&(b)(7)(C) M GA N909JE (XXX - FLL) 02/07/2014 10:00 02/07/2014 13:00 Crew (Cockpit) (b)(6)&(b)(7)(C) M GA N909JE (XXX - FLL) 02/07/2014 09:30 02/08/2014 12:00 Crew (Cockpit) (b)(6)&(b)(7)(C) M GA N909JE (FLL - XXX) 01/07/2014 07:00 01/07/2014 10:30 Crew (b)(6)&(b)(7)(C) M GA N909JE (XXX - OPF) 11/14/2014 18:00 11/14/2014 21:30 Crew (Cockpit) (b)(6)&(b)(7)(C) M GA N909JE (XXX - OPF) 09/19/2014 14:00 09/19/2014 17:00 Crew (Cockpit) (b)(6)&(b)(7)(C) M GA N909JE (XXX - OPF) 07/10/2014 08:00 07/10/2014 11:00 Passenger (b)(6)&(b)(7)(C) F GA N909JE (XXX - TEB) 09/04/2013 08:00 09/04/2013 11:26 Passenger (b)(6)&(b)(7)(C) F GA N909JE (XXX - IST) 06/15/2013 08:25 06/15/2013 03:05 Passenger (b)(6)&(b)(7)(C) F GA N909JE (ISP - XXX) 06/06/2013 22:00 06/07/2013 10:58 Passenger (b)(6)&(b)(7)(C) F GA N909JE (XXX - ISP) 05/22/2013 08:30 05/22/2013 11:32 Passenger (b)(6)&(b)(7)(C) F GA N909JE (XXX - BGR) 03/31/2013 16:00 03/31/2013 16:35 Passenger (b)(6)&(b)(7)(C) F GA N909JE (XXX - TEB) 02/14/2013 08:25 02/14/2013 11:04 Passenger (b)(6)&(b)(7)(C) F GA N909JE (XXX - IST) 10/28/2012 07:30 10/28/2012 04:02 Passenger (b)(6)&(b)(7)(C) F GA N909JE (IST - XXX) 10/06/2012 07:45 10/06/2012 18:18 Passenger (b)(6)&(b)(7)(C) F GA N909JE (ISP - XXX) 09/06/2012 08:15 09/06/2012 18:48 Passenger (b)(6)&(b)(7)(C) F GA N909JE (IST - XXX) 02/09/2011 13:00 02/09/2011 22:40 Passenger (b)(6)&(b)(7)(C) F GA N909JE (IST - XXX) 02/10/2011 01:00 02/10/2011 10:40 Passenger (b)(6)&(b)(7)(C) F GA N909JE (XXX - IST) 02/06/2011 16:30 02/06/2011 13:50 Passenger (b)(6)&(b)(7)(C) F GA N909JE (XXX - ABQ) 08/13/2010 16:45 08/13/2010 22:00 Passenger (b)(6)&(b)(7)(C) F GA N909JE (IST - XXX) 08/13/2010 09:45 08/13/2010 20:00 Passenger (b)(6)&(b)(7)(C) F GA N909JE (TEB - XXX) 03/23/2010 21:00 03/23/2010 08:40 Passenger (b)(6)&(b)(7)(C) F GA N909JE (XXX - ISP) 05/22/2013 08:30 05/22/2013 11:32 Passenger (b)(6)&(b)(7)(C) F GA N909JE (IST - XXX) 03/19/2010 02:00 03/19/2010 11:53 Passenger (b)(6)&(b)(7)(C) F GA N909JE (XXX - FLL) 02/07/2014 10:00 02/07/2014 13:00 Passenger 9/4/2020 DOJ-OGR-00027429",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Managed Query",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "APIS - All Passengers Results",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Page 1 of 3",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Conf. Name DOB Gender Document Conveyance Departure Date Arrival Date PNR Hit Types Attributes Status Event IDs",
+      "position": "table header"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6)&(b)(7)(C) M (b)(6)&(b)(7)(C) GA N909JE (OFF - XXX) 06/09/2014 19:35 06/09/2014 22:35 Crew (Cockpit)",
+      "position": "table row"
+    },
+    {
+      "type": "printed",
+      "content": "9/4/2020 DOJ-OGR-00027429",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "(b)(6)&(b)(7)(C)"
+    ],
+    "organizations": [
+      "GA",
+      "DOJ"
+    ],
+    "locations": [
+      "XXX",
+      "FLL",
+      "FXE",
+      "OPF",
+      "TEB",
+      "IST",
+      "ISP",
+      "BGR",
+      "ABQ"
+    ],
+    "dates": [
+      "06/09/2014",
+      "05/20/2014",
+      "04/15/2014",
+      "03/04/2014",
+      "03/02/2014",
+      "02/13/2014",
+      "02/07/2014",
+      "01/07/2014",
+      "11/14/2014",
+      "09/19/2014",
+      "07/10/2014",
+      "09/04/2013",
+      "06/15/2013",
+      "06/06/2013",
+      "05/22/2013",
+      "03/31/2013",
+      "02/14/2013",
+      "10/28/2012",
+      "10/06/2012",
+      "09/06/2012",
+      "02/09/2011",
+      "02/10/2011",
+      "02/06/2011",
+      "08/13/2010",
+      "03/23/2010",
+      "03/19/2010",
+      "9/4/2020"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00027429"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted table of flight passenger and crew information. The names and some other identifying details are redacted."
+}

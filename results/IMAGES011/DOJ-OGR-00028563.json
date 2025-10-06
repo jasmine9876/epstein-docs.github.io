@@ -1,0 +1,80 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028563",
+    "date": "09/12/2010",
+    "document_type": "SECONDARY INSPECTION",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07:53 04/28/2014 *A *B ENTRY: 09/12/2010 UPDATE: 09/16/2010 *C INSPECTION DTE: 09/12/2010 PORT/SITE: 0481/A044 BEDFORD, L G HANSCOM FIELD LAST NAME:* EPSTEIN FIRST:* JEFFREY DOB:* 01201953 RCPT#: DOC TYPE: P #: 469911707 ISSUING CNTRY: US ID-ST: GENDER:* M RACE:* U UNKNOWN HISPANIC:* N (Y/N) CARRIER:* 99 FLT/VES #:* N909JE FLT/VES CREW:* N (Y/N) IN/OUT:* I DEPART/DESTIN:* STT EMBARK:* STT REFERRING OFFICER CODE:(b)(7)(E) REASON FOR REFERRAL:(b)(7)(E) BAG EXAM:* Y (Y/N) # BAGS X-RAYED: PRSNL SRCH:* N (Y/N) # PAX ON DEC:* 2 POS/NEG INSP:* N (P/N/U) REFERRAL TIME:* 10 : 40 COMPLETION TIME:* 10 : 50 IOM:* (Y/N) IOM#: CCD USED:*D (Y/N) CAT 1 OR 2: VIOL CDS: INCIDENT #: REMARKS: (b)(7)(E) INSP COMPLETE:* Y (Y/N) ** SECONDARY INSPECTION COMPLETE ** (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(7)(E)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07:53 04/28/2014 *A *B ENTRY: 09/12/2010 UPDATE: 09/16/2010 *C INSPECTION DTE: 09/12/2010 PORT/SITE: 0481/A044 BEDFORD, L G HANSCOM FIELD",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "LAST NAME:* EPSTEIN FIRST:* JEFFREY DOB:* 01201953 RCPT#: DOC TYPE: P #: 469911707 ISSUING CNTRY: US ID-ST:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "GENDER:* M RACE:* U UNKNOWN HISPANIC:* N (Y/N) CARRIER:* 99 FLT/VES #:* N909JE FLT/VES CREW:* N (Y/N) IN/OUT:* I DEPART/DESTIN:* STT EMBARK:* STT",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "REFERRING OFFICER CODE:(b)(7)(E) REASON FOR REFERRAL:(b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "BAG EXAM:* Y (Y/N) # BAGS X-RAYED: PRSNL SRCH:* N (Y/N) # PAX ON DEC:* 2 POS/NEG INSP:* N (P/N/U) REFERRAL TIME:* 10 : 40 COMPLETION TIME:* 10 : 50 IOM:* (Y/N) IOM#: CCD USED:*D (Y/N)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CAT 1 OR 2: VIOL CDS: INCIDENT #: REMARKS: (b)(7)(E) INSP COMPLETE:* Y (Y/N) ** SECONDARY INSPECTION COMPLETE **",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(7)(E)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028563",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "BEDFORD",
+      "L G HANSCOM FIELD"
+    ],
+    "dates": [
+      "09/12/2010",
+      "09/16/2010",
+      "04/28/2014"
+    ],
+    "reference_numbers": [
+      "0481/A044",
+      "469911707",
+      "N909JE",
+      "DOJ-OGR-00028563"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b)(7)(E)' and '(b)(6), (b)(7)(C)'. The document appears to be a secondary inspection report for an individual, JEFFREY EPSTEIN, at Bedford, L G Hanscom Field on 09/12/2010."
+}

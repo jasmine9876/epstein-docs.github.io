@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": "80",
+    "document_number": "DOJ-OGR-00022365",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Kravls, Henry Lang, Adam Perry Leach, Robin Lease, Nick Lopez, (Buklarewicz) Cindy Lindberg, Marc Luftz, Melinda Mast Industries Box, John Welsh Mast Industries - Milan Erdalko, Karen McMillen, C. Thomas McMillen, Thomas C. DOJ-OGR-00022365",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Kravls, Henry Lang, Adam Perry Leach, Robin Lease, Nick Lopez, (Buklarewicz) Cindy Lindberg, Marc Luftz, Melinda Mast Industries Box, John Welsh Mast Industries - Milan Erdalko, Karen McMillen, C. Thomas McMillen, Thomas C.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022365",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Henry Kravls",
+      "Adam Perry Lang",
+      "Robin Leach",
+      "Nick Lease",
+      "Cindy Lopez (Buklarewicz)",
+      "Marc Lindberg",
+      "Melinda Luftz",
+      "John Welsh Box",
+      "Karen Erdalko",
+      "C. Thomas McMillen",
+      "Thomas C. McMillen"
+    ],
+    "organizations": [
+      "Mast Industries",
+      "Mast Industries - Milan",
+      "DOJ"
+    ],
+    "locations": [
+      "Milan"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022365"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number '80' is visible at the bottom left corner."
+}

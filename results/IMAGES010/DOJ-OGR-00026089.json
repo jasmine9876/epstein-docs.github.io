@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": "2413",
+    "document_number": "DOJ-OGR-00026089",
+    "date": "07/30/2019",
+    "document_type": "Medical Record",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2413\nInmate Name: EPSTEIN, JEFFREY EDWARD\nDate of Birth: 01/20/1953 Sex: M Race: WHITE Reg #: 76318-054\nEncounter Date: 07/30/2019 15:58 Provider: (b)(6); (b)(7)(C) MD Facility: NYM Unit: Z01\nExam:\nCranial Nerves (CN) Yes: Within Normal Limits\nMotor System-General Yes: Normal Exam\nMotor System-Strength Yes: Normal Muscular Strength\nASSESSMENT:\nBody mass index (BMI) 27.0-27.9, adult, Z6827 - Current\nConstipation, unspecified, K5900 - Current\nEssential (primary) hypertension, I10 - Current - BY HX.\nHyperlipidemia, unspecified, E785 - Current\nLow back pain, M545 - Current\nNeuralgia and neuritis, unspecified, M792 - Current\nPrediabetes, R7303 - Current\nSleep apnea, G4730 - Current\nPLAN:\nNew Medication Orders:\nRx# Medication Order Date Prescriber Order\nINsulin REG - Human 07/30/2019 15:58 SLIDING SCALE Subcutaneously each morning x 7 day(s) Pill Line Only\nIndication: Prediabetes\nDiscontinued Medication Orders:\nRx# Medication Order Date Prescriber Order\n122148-NYM Insulin Reg (10 ML) 100 UNITS/ML Inj 07/30/2019 15:58 Inject regular insulin subcutaneously per sliding scale: twice daily ***pill line*** for 7 days\nDiscontinue Type: When Pharmacy Processes\nDiscontinue Reason: new order written\nIndication:\nCopay Required: No Cosign Required: No\nTelephone/Verbal Order: No\nCompleted by (b)(6); (b)(7)(C) MD on 07/30/2019 16:12\nGenerated 07/30/2019 16:12 by (b)(6); (b)(7)(C) MD Bureau of Prisons - NYM Page 2 of 2",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 2413",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD\nDate of Birth: 01/20/1953 Sex: M Race: WHITE Reg #: 76318-054\nEncounter Date: 07/30/2019 15:58 Provider: (b)(6); (b)(7)(C) MD Facility: NYM Unit: Z01",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Exam:\nCranial Nerves (CN) Yes: Within Normal Limits\nMotor System-General Yes: Normal Exam\nMotor System-Strength Yes: Normal Muscular Strength",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "ASSESSMENT:\nBody mass index (BMI) 27.0-27.9, adult, Z6827 - Current\nConstipation, unspecified, K5900 - Current\nEssential (primary) hypertension, I10 - Current - BY HX.\nHyperlipidemia, unspecified, E785 - Current\nLow back pain, M545 - Current\nNeuralgia and neuritis, unspecified, M792 - Current\nPrediabetes, R7303 - Current\nSleep apnea, G4730 - Current",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PLAN:\nNew Medication Orders:\nRx# Medication Order Date Prescriber Order\nINsulin REG - Human 07/30/2019 15:58 SLIDING SCALE Subcutaneously each morning x 7 day(s) Pill Line Only\nIndication: Prediabetes",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Discontinued Medication Orders:\nRx# Medication Order Date Prescriber Order\n122148-NYM Insulin Reg (10 ML) 100 UNITS/ML Inj 07/30/2019 15:58 Inject regular insulin subcutaneously per sliding scale: twice daily ***pill line*** for 7 days",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Discontinue Type: When Pharmacy Processes\nDiscontinue Reason: new order written\nIndication:\nCopay Required: No Cosign Required: No\nTelephone/Verbal Order: No\nCompleted by (b)(6); (b)(7)(C) MD on 07/30/2019 16:12",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/30/2019 16:12 by (b)(6); (b)(7)(C) MD Bureau of Prisons - NYM Page 2 of 2",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/30/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "122148-NYM",
+      "DOJ-OGR-00026089"
+    ]
+  },
+  "additional_notes": "The document appears to be a medical record for Jeffrey Epstein, containing his medical assessment and medication orders. Some personal identifiable information is redacted."
+}

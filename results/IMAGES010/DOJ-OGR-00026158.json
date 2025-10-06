@@ -1,0 +1,83 @@
+{
+  "document_metadata": {
+    "page_number": "2482",
+    "document_number": "76318-054",
+    "date": "08/10/2019",
+    "document_type": "Blood Glucose Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2482 Bureau of Prisons Health Services Blood Glucose Begin Date: 07/07/2019 End Date: 08/10/2019 Reg #: 76318-054 Inmate Name: EPSTEIN, JEFFREY EDWARD (Reference Range: Random or Fasting 70 - 100, 2 hour post-prandial 70 - 140) Date Time Value Type Comments 08/04/2019 08:30 NYM 156 Non-Fasting Orig Entered: 08/04/2019 09:08 EST [redacted] RN 08/02/2019 06:30 NYM 97 Non-Fasting Orig Entered: 08/02/2019 08:16 EST [redacted] MLP 08/01/2019 06:30 NYM 103 Non-Fasting Orig Entered: 08/01/2019 09:00 EST [redacted] MLP 07/31/2019 06:15 NYM 108 Non-Fasting Orig Entered: 07/31/2019 08:36 EST [redacted] MLP Total: 4 Generated 08/10/2019 11:02 by [redacted] RN/IOP/IDC Bureau of Prisons - NYM Page 1 of 1 DOJ-OGR-00026158",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Bureau of Prisons Health Services Blood Glucose",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Begin Date: 07/07/2019 End Date: 08/10/2019 Reg #: 76318-054 Inmate Name: EPSTEIN, JEFFREY EDWARD",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "(Reference Range: Random or Fasting 70 - 100, 2 hour post-prandial 70 - 140) Date Time Value Type Comments",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "08/04/2019 08:30 NYM 156 Non-Fasting Orig Entered: 08/04/2019 09:08 EST [redacted] RN",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "08/02/2019 06:30 NYM 97 Non-Fasting Orig Entered: 08/02/2019 08:16 EST [redacted] MLP",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "08/01/2019 06:30 NYM 103 Non-Fasting Orig Entered: 08/01/2019 09:00 EST [redacted] MLP",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "07/31/2019 06:15 NYM 108 Non-Fasting Orig Entered: 07/31/2019 08:36 EST [redacted] MLP",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Total: 4",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 08/10/2019 11:02 by [redacted] RN/IOP/IDC Bureau of Prisons - NYM Page 1 of 1",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "EPSTEIN, JEFFREY EDWARD"
+    ],
+    "organizations": [
+      "Bureau of Prisons",
+      "Health Services"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "07/07/2019",
+      "08/10/2019",
+      "08/04/2019",
+      "08/02/2019",
+      "08/01/2019",
+      "07/31/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026158"
+    ]
+  },
+  "additional_notes": "The document contains redacted information, likely for privacy or security reasons."
+}

@@ -1,0 +1,59 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": "July 23, 2019",
+    "document_type": "Daily Lieutenant's Log",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "UNITED STATES DEPARTMENT OF JUSTICE METROPOLITAN CORRECTIONAL CENTER, NEW YORK, NY DAILY LIEUTENANT'S LOG Shift-Day-Date: M/W Tuesday, July 23, 2019 Beginning Count: SHU: M/W Daily Sensitive Information: TIME CHRONOLOGICAL EVENTS BC SHU 12:00 AM Lieutenant assumes duties as the Morning Watch Operations Lieutenant. Note: 12:00 AM Institution Count in progress 12:00 AM 12:18 AM 12:23 AM Watch Calls/Fire Watch completed 12:30 AM Good Verbal count announced AM Clear Institution count announced 1:27 AM Call for Assistance 9-South 1:35 AM Call for Assistance secured 1:38 AM -1 SHU: Epstein #76318-054 to Suicide Watch w/inst. staff. Medical, Captain notified. Duty Psych (left message) 3:00 AM Institution Count in progress AM Good Verbal count announced AM Clear Institution count announced 5:00 AM Institution Count in progress AM Good Verbal count announced AM Clear Institution count announced 8:00 AM Relieved of duties by Lt. as D/W Operations Lieutenant The following Inmate(s) were placed in Administrative Detention: Name Reg: Number Reason Unit Time AD Order Ending Count: SHU: 10-South: SHU OBS: Local Hosp: H/A OBS: B/A OBS: Dry Cell: Ops Lt.",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "UNITED STATES DEPARTMENT OF JUSTICE METROPOLITAN CORRECTIONAL CENTER, NEW YORK, NY DAILY LIEUTENANT'S LOG",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Shift-Day-Date: M/W Tuesday, July 23, 2019 Beginning Count: SHU: M/W Daily Sensitive Information: TIME CHRONOLOGICAL EVENTS BC SHU",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "12:00 AM Lieutenant assumes duties as the Morning Watch Operations Lieutenant.",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "The following Inmate(s) were placed in Administrative Detention: Name Reg: Number Reason Unit Time AD Order",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Ending Count: SHU: 10-South: SHU OBS: Local Hosp: H/A OBS: B/A OBS: Dry Cell: Ops Lt.",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [
+      "UNITED STATES DEPARTMENT OF JUSTICE",
+      "METROPOLITAN CORRECTIONAL CENTER"
+    ],
+    "locations": [
+      "NEW YORK, NY",
+      "9-South",
+      "10-South"
+    ],
+    "dates": [
+      "July 23, 2019"
+    ],
+    "reference_numbers": [
+      "76318-054"
+    ]
+  },
+  "additional_notes": "The document contains redactions, likely for sensitive information. The log details events at the Metropolitan Correctional Center on July 23, 2019, including inmate counts, calls for assistance, and the placement of an inmate on suicide watch."
+}

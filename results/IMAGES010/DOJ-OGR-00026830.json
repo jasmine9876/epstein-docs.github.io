@@ -1,0 +1,85 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "FT19-03508 M19-019432",
+    "date": "08/22/2019",
+    "document_type": "Toxicology Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "NMS Labs 200 Welsh Road, Horsham, PA 19044-2208 Phone: (215) 657-4900 Fax: (215) 657-2972 e-mail: nms@nmslabs.com CONFIDENTIAL Toxicology Report Report Issued 08/22/2019 17:09 Patient Name FT19-03508 M19-019432 Patient ID NP Chain 19244749 Age Not Given DOB Not Given Gender Not Given Workorder 19244749 To: 10074 New York Office of Chief Medical Examiner Attn: Department of Toxicology 520 First Avenue New York, NY 10016 Page 1 of 2 Positive Findings: None Detected See Detailed Findings section for additional information Testing Requested: Analysis Code Description 9560B Synthetic Cannabinoids Screen (2019 Scope), Blood Specimens Received: ID Tube/Container Volume/ Mass Collection Date/Time Matrix Source Miscellaneous Information 001 Gray Top Tube 4.25 mL Not Given Femoral Blood All sample volumes/weights are approximations. Specimens received on 08/14/2019. NMS v.18.0 DOJ-OGR-00026830",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "NMS Labs 200 Welsh Road, Horsham, PA 19044-2208 Phone: (215) 657-4900 Fax: (215) 657-2972 e-mail: nms@nmslabs.com",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Toxicology Report Report Issued 08/22/2019 17:09",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Patient Name FT19-03508 M19-019432 Patient ID NP Chain 19244749 Age Not Given DOB Not Given Gender Not Given Workorder 19244749",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "To: 10074 New York Office of Chief Medical Examiner Attn: Department of Toxicology 520 First Avenue New York, NY 10016",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Positive Findings: None Detected See Detailed Findings section for additional information",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Testing Requested: Analysis Code Description 9560B Synthetic Cannabinoids Screen (2019 Scope), Blood",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Specimens Received: ID Tube/Container Volume/ Mass Collection Date/Time Matrix Source Miscellaneous Information 001 Gray Top Tube 4.25 mL Not Given Femoral Blood",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "All sample volumes/weights are approximations. Specimens received on 08/14/2019.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "NMS v.18.0 DOJ-OGR-00026830",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "NMS Labs",
+      "New York Office of Chief Medical Examiner"
+    ],
+    "locations": [
+      "Horsham, PA",
+      "New York, NY"
+    ],
+    "dates": [
+      "08/22/2019",
+      "08/14/2019"
+    ],
+    "reference_numbers": [
+      "FT19-03508 M19-019432",
+      "19244749",
+      "10074",
+      "DOJ-OGR-00026830"
+    ]
+  },
+  "additional_notes": "The document is a toxicology report from NMS Labs. It contains confidential patient information and test results. The report indicates that no synthetic cannabinoids were detected in the patient's femoral blood sample."
+}

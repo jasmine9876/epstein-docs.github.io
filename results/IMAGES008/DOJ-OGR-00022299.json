@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "DOJ-OGR-00022299",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information\n\nBusson, Arki\nCadenet de Alain\nButter, Charlie\nCalacanis, Jason\nButton Terri\nByng, Robert\nCaiyo-Platero, Mario/Arladne\nCambell Roddy\nCambell, Alistar\nCamerana, Giancarlo\nCammy\nCampbell, Naomi\nCampo del Brooke & Emilio\nCandole, Andrew de\nCandy, Nicholas A C\nCaledon, Nicky\n14\nDOJ-OGR-00022299",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Busson, Arki\nCadenet de Alain\nButter, Charlie\nCalacanis, Jason\nButton Terri\nByng, Robert\nCaiyo-Platero, Mario/Arladne\nCambell Roddy\nCambell, Alistar\nCamerana, Giancarlo\nCammy\nCampbell, Naomi\nCampo del Brooke & Emilio\nCandole, Andrew de\nCandy, Nicholas A C\nCaledon, Nicky",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "14",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022299",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Arki Busson",
+      "Alain Cadenet de",
+      "Charlie Butter",
+      "Jason Calacanis",
+      "Terri Button",
+      "Robert Byng",
+      "Mario/Arladne Caiyo-Platero",
+      "Roddy Cambell",
+      "Alistar Cambell",
+      "Giancarlo Camerana",
+      "Cammy",
+      "Naomi Campbell",
+      "Brooke & Emilio Campo del",
+      "Andrew de Candole",
+      "Nicholas A C Candy",
+      "Nicky Caledon"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022299"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 1 and the document number is DOJ-OGR-00022299."
+}

@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028506",
+    "date": null,
+    "document_type": "API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 *B PQH API/HIT DATA 042814 *A *C NAME EPSTEIN, JEFFREY E PARIS, CH. DE GAULLE DOB DATE TIME AGN RSLT LNE TERM/ 012053 092613 0000 *D API REF LANE API R API DATA ---- INDICATOR : R CARRIER CODE : AF FLT/VES NUMBER : 11 ARRIVAL LOCATION : CDG DEPARTURE LOCATION : JFK TRANSMITTED BY : ALTEA+CM INBOUND/OUTBOUND : OUTBOUND REPORTED AIR FRANCE PARIS, CH. DE GAULLE JOHN F KENNEDY INTL AMADEUS DCS ALTEA CM (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) (b)(7)(E) DOJ-OGR-00028506",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07 *B PQH API/HIT DATA 042814 *A *C",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME EPSTEIN, JEFFREY E PARIS, CH. DE GAULLE DOB DATE TIME AGN RSLT LNE TERM/ 012053 092613 0000 *D API REF LANE API R",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "API DATA ---- INDICATOR : R CARRIER CODE : AF FLT/VES NUMBER : 11 ARRIVAL LOCATION : CDG DEPARTURE LOCATION : JFK TRANSMITTED BY : ALTEA+CM INBOUND/OUTBOUND : OUTBOUND REPORTED AIR FRANCE PARIS, CH. DE GAULLE JOHN F KENNEDY INTL AMADEUS DCS ALTEA CM",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028506",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY E EPSTEIN"
+    ],
+    "organizations": [
+      "AIR FRANCE",
+      "AMADEUS DCS ALTEA CM",
+      "ALTEA+CM"
+    ],
+    "locations": [
+      "PARIS, CH. DE GAULLE",
+      "JOHN F KENNEDY INTL"
+    ],
+    "dates": [
+      "092613"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00028506",
+      "012053"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b)(7)(E)' and '(b)(6), (b)(7)(C)'. The document appears to be a flight record or API/HIT data for Jeffrey Epstein's travel."
+}

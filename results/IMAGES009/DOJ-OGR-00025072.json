@@ -1,0 +1,53 @@
+{
+  "document_metadata": {
+    "page_number": "8",
+    "document_number": "DOJ-OGR-00025072",
+    "date": "Monday July 22, 2019",
+    "document_type": "Captain's Signature Form",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 619 Monday July 22, 2019 Page 8 Captain's Signature: ________________________ 19/2020 10:38:34 AM DOJ-OGR-00025072",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 619",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Monday July 22, 2019 Page 8",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Captain's Signature:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "19/2020 10:38:34 AM",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025072",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "Monday July 22, 2019",
+      "19/2020"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00025072"
+    ]
+  },
+  "additional_notes": "The document appears to be a signature form for a captain. The page is mostly blank, with a signature line and some metadata at the top and bottom."
+}

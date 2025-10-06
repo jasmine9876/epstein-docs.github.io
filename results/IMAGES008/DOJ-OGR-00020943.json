@@ -1,0 +1,68 @@
+{
+  "document_metadata": {
+    "page_number": "117",
+    "document_number": "58",
+    "date": "02/28/2023",
+    "document_type": "court document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 22-1426, Document 58 02/28/2023, 3475901, Page117 of 221\nA-317\nCase 1:20-cr-00330-AJN Document 638 Filed 03/09/22 Page 29 of 29\nJuror ID: 50\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n-31-\nDOJ-OGR-00020943",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 22-1426, Document 58 02/28/2023, 3475901, Page117 of 221",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "A-317",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-AJN Document 638 Filed 03/09/22 Page 29 of 29",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Juror ID:",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "50",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "-31-",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00020943",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "02/28/2023",
+      "03/09/22"
+    ],
+    "reference_numbers": [
+      "22-1426",
+      "1:20-cr-00330-AJN",
+      "Document 58",
+      "Document 638",
+      "3475901",
+      "DOJ-OGR-00020943"
+    ]
+  },
+  "additional_notes": "The document appears to be a court document related to a juror with ID 50. It has a mix of printed and handwritten text. The document is from a court case with multiple references and filing dates."
+}

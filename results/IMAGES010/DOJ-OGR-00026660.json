@@ -1,0 +1,72 @@
+{
+  "document_metadata": {
+    "page_number": "3020",
+    "document_number": "NYMD4 530*05",
+    "date": "08-09-2019",
+    "document_type": "Inmate Roster",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 3020 NYMD4 530*05 * INMATE ROSTER * 08-09-2019 PAGE 001 OF 001 04:58:00 CATEGORY: OCT GROUP CODE: ASSIGNMENT: HOSP FACILITY: NYM OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK 0001 HOSP (b)(6); (b)(7)(C) 08-09-2019 K05-133U SUICIDE OR UNASSG 0002 08-09-2019 K09-028U SUICIDE OR G0000 TRANSACTION SUCCESSFULLY COMPLETED DOJ-OGR-00026660",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3020",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NYMD4 530*05 * INMATE ROSTER * 08-09-2019 PAGE 001 OF 001 04:58:00",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CATEGORY: OCT GROUP CODE: ASSIGNMENT: HOSP FACILITY: NYM OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "0001 HOSP (b)(6); (b)(7)(C) 08-09-2019 K05-133U SUICIDE OR UNASSG",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0002 08-09-2019 K09-028U SUICIDE OR",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "G0000 TRANSACTION SUCCESSFULLY COMPLETED",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026660",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "08-09-2019"
+    ],
+    "reference_numbers": [
+      "NYMD4 530*05",
+      "K05-133U",
+      "K09-028U",
+      "DOJ-OGR-00026660"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b)(6); (b)(7)(C)'."
+}

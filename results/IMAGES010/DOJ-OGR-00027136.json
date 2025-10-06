@@ -1,0 +1,73 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "DOJ-OGR-00027136",
+    "date": "8/19/2019",
+    "document_type": "TRUVIEW",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "TRUVIEW Page 1 of 1 Last Name (b)(6), (b)(7)(C) First Name Zip Start Date End Date -90 +90 Money Received Money Sent Emailsent Messages VisitorId Viste VCsList Timeline The information listed is based on Last Name, First Name, Zip, Start Date, and End Date. First Name is not considered for Lockbox transactions. Transaction Date Location Code Transaction Type Amount Void Reg # Inmate Last Name Inmate First Name Sender Last Name Sender First Name Sender Address City State Zip 07/31/2019 NYM Western U... $300.00 78318054 EPSTEIN JEFFREY (b)(6), (b)(7)(C) 1 row Inmate Distinct List Address Distinct List Phone Number Distinct List Graph Print https://10.33.3.41/center/OutsidePersonCenter 8/19/2019 DOJ-OGR-00027136",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "TRUVIEW Page 1 of 1",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Last Name (b)(6), (b)(7)(C) First Name Zip Start Date End Date -90 +90",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "The information listed is based on Last Name, First Name, Zip, Start Date, and End Date. First Name is not considered for Lockbox transactions.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Transaction Date Location Code Transaction Type Amount Void Reg # Inmate Last Name Inmate First Name Sender Last Name Sender First Name Sender Address City State Zip",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/31/2019 NYM Western U... $300.00 78318054 EPSTEIN JEFFREY (b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "1 row Inmate Distinct List Address Distinct List Phone Number Distinct List",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Graph Print",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "https://10.33.3.41/center/OutsidePersonCenter 8/19/2019 DOJ-OGR-00027136",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "Western U"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "07/31/2019",
+      "8/19/2019"
+    ],
+    "reference_numbers": [
+      "78318054",
+      "DOJ-OGR-00027136"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as (b)(6), (b)(7)(C). The document appears to be a financial transaction record or report from a system called TRUVIEW."
+}

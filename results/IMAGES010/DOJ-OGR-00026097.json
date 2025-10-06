@@ -1,0 +1,47 @@
+{
+  "document_metadata": {
+    "page_number": "2421",
+    "document_number": "DOJ-OGR-00026097",
+    "date": null,
+    "document_type": "Mail Attachment",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2421\nMail Attachment\nEpstein BEMR pt 2.pdf\nPage 14869\nDOJ-OGR-00026097",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 2421",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Mail Attachment\nEpstein BEMR pt 2.pdf",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 14869",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026097",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00026097"
+    ]
+  },
+  "additional_notes": "The document appears to be a page indicating an attachment was included with a mail, referencing a PDF file related to 'Epstein BEMR pt 2'. The page numbers and a reference number are also present."
+}

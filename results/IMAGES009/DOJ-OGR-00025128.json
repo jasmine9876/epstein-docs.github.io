@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": "779",
+    "document_number": "DOJ-OGR-00025128",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 779\nThe team members are:\nJ. A. Keller, Regional Director, SER\n(b)(6); (b)(7)(C) Correctional Services Administrator, SER\n(b)(6); (b)(7)(C) Health Services Administrator, SER\n(b)(6); (b)(7)(C) Chief Psychologist, FCI Tallahassee\n(b)(6); (b)(7)(C) Correctional Programs Administrator,\nCorrectional Programs Division, Central Office\nAlan Cohen, Associate Warden, FMC Carswell\n(b)(6); (b)(7)(C) Captain, FCI Talladega\nShould you have any questions, please give me a call.\nDOJ-OGR-00025128",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 779",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "The team members are:",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "J. A. Keller, Regional Director, SER\n(b)(6); (b)(7)(C) Correctional Services Administrator, SER\n(b)(6); (b)(7)(C) Health Services Administrator, SER\n(b)(6); (b)(7)(C) Chief Psychologist, FCI Tallahassee\n(b)(6); (b)(7)(C) Correctional Programs Administrator,\nCorrectional Programs Division, Central Office\nAlan Cohen, Associate Warden, FMC Carswell\n(b)(6); (b)(7)(C) Captain, FCI Talladega",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Should you have any questions, please give me a call.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025128",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "J. A. Keller",
+      "Alan Cohen"
+    ],
+    "organizations": [
+      "FCI Tallahassee",
+      "FMC Carswell",
+      "FCI Talladega",
+      "SER"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00025128"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6); (b)(7)(C), indicating potentially sensitive information has been removed."
+}

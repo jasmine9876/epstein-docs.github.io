@@ -1,0 +1,72 @@
+{
+  "document_metadata": {
+    "page_number": "2485",
+    "document_number": "76318-054",
+    "date": "07/09/2019",
+    "document_type": "Vision Screens",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2485 Bureau of Prisons Health Services Vision Screens Reg #: 76318-054 Inmate Name: EPSTEIN, JEFFREY EDWARD Vision Screen on 07/09/2019 12:52 Blindness: Distance Vision: OD: 20/100 OS: 20/70 OU: Near Vision: OD: OS: OU: With Corrective Distance Vision: OD: OS: OU: Near Vision: OD: OS: OU: Present Glasses - Distance Refraction - Distance Sphere Cylinder Axis Add Sphere Cylinder Axis Add R: R: L: L: Color Test: Tonometry: R: L: Comments: Needs evaluation with optometrist. Orig Entered: 07/09/2019 12:54 EST MLP Generated 08/10/2019 11:02 by Bureau of Prisons - NYM Page 1 of 1 DOJ-OGR-00026161",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Bureau of Prisons Health Services Vision Screens",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Reg #: 76318-054 Inmate Name: EPSTEIN, JEFFREY EDWARD",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Vision Screen on 07/09/2019 12:52",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Blindness: Distance Vision: OD: 20/100 OS: 20/70 OU: Near Vision: OD: OS: OU: With Corrective Distance Vision: OD: OS: OU: Near Vision: OD: OS: OU:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Present Glasses - Distance Refraction - Distance Sphere Cylinder Axis Add Sphere Cylinder Axis Add R: R: L: L:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Color Test: Tonometry: R: L: Comments: Needs evaluation with optometrist.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Orig Entered: 07/09/2019 12:54 EST MLP",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 08/10/2019 11:02 by Bureau of Prisons - NYM Page 1 of 1 DOJ-OGR-00026161",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons",
+      "Bureau of Prisons - NYM"
+    ],
+    "locations": [],
+    "dates": [
+      "07/09/2019",
+      "08/10/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026161"
+    ]
+  },
+  "additional_notes": "The document appears to be a medical record from the Bureau of Prisons Health Services, detailing a vision screen for inmate Jeffrey Edward Epstein. The document contains various sections for recording vision test results and comments from medical staff. Some information is redacted, indicated by (b)(6); (b)(7)(C)."
+}

@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "42",
+    "document_number": "17-295",
+    "date": "April 7, 2006",
+    "document_type": "Fax",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "FROM : FAX NO. :5618024121 APR 7 2006 04:02PM P2 Pursuant to this acceptance, I trust you will cancel presenting this matter to the Grand Jury tomorrow. Please contact me as soon as possible so we can continue to work through the filing, processing and plea resolution in this matter. Very truly yours, Guy P. Fronstin, Esq. GPF/mw Enclosures (as noted) 07/26/17 Page 42 of 131 Public Records Request No.: 17-295 DOJ-OGR-00030509",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FROM : FAX NO. :5618024121 APR 7 2006 04:02PM P2",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Pursuant to this acceptance, I trust you will cancel presenting this matter to the Grand Jury tomorrow. Please contact me as soon as possible so we can continue to work through the filing, processing and plea resolution in this matter.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Very truly yours,",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Guy P. Fronstin",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Guy P. Fronstin, Esq. GPF/mw Enclosures (as noted)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 42 of 131 Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00030509",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Guy P. Fronstin"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "April 7, 2006",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00030509",
+      "5618024121"
+    ]
+  },
+  "additional_notes": "The document is a fax cover sheet with a letter attached. The letter is signed by Guy P. Fronstin, Esq. The document has been stamped with a date and page number, indicating it is part of a larger document production."
+}

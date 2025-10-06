@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "7",
+    "document_number": "DOJ-OGR-00027036",
+    "date": "Saturday August 10, 2019",
+    "document_type": "Shift Change Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 3447 Saturday August 10, 2019 Page 7 Post Split Shft Officer Relieved Officer's New Status Relieving Officer Relieving Officer's Previous Status Ret Shft Changed By 10 SOUTH #2 (b)(6); (b)(7)(C); (b)(7)(F) (b)(6); (b)(7)(C) [Sick / Annual] (b)(6) 8/10 10:38 10 SOUTH #2 [Time Change] Shift 10 SOUTH #2 Staff Andrea, S OT/CT Start End 08:00 14:00 (b)(6) 8/10 10:38 SHU #1 [Sick / Annual] (b)(6); (b)(7)(C); (b)(7)(F) 8 VISIT #1 (C) 8/10 10:38 [Sick / Annual] [Removed] 8/10 10:38 SHU #1 (b)(6); (b)(7)(C); (b)(7)(F) 8/10 10:39 UNIT 3 [Sick / Annual] (b)(6); (b)(7)(C) 12 10 SOUTH #1 Y Staff Mason, D Mason, D OT/CT Start End OT (b)(6) 8/10 10:39 [Sick / Annual] [Removed] 8/10 10:39 UNIT 3 (b)(6); (b)(7)(C) 8/10 10:40 VISIT #2 [Sick / Annual] (b)(7)(F) 8/10 10:40 [Sick / Annual] [Removed] 8/10 10:40 VISIT #3 (b)(7)(F) 8/10 10:40 5 SOUTH Sick Leave 8/10 10:41 SHU #1 Sick Leave 8/10 10:41 ****Recapitulation**** Morning Watch AM Watch Day Watch PM Watch Evening Watch **Back Page Categories** Day Off 64 Sick Leave 11 Annual Leave 5 COP 2 Total Correctional Svcs. Staff: (b)(7)(F) Non Correctional Svcs. Staff: Overtime Occurrences: 25 Comptime Occurrences: 0 Ops Lt. Evening Watch Signature: Captain's Signature: 10/2019 10:46:58 AM DOJ-OGR-00027036",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Post Split Shft Officer Relieved Officer's New Status Relieving Officer Relieving Officer's Previous Status Ret Shft Changed By",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "****Recapitulation****",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "**Back Page Categories**",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Ops Lt. Evening Watch Signature: Captain's Signature:",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Andrea, S",
+      "Mason, D"
+    ],
+    "organizations": [],
+    "locations": [
+      "10 SOUTH #2",
+      "SHU #1",
+      "UNIT 3",
+      "VISIT #1",
+      "VISIT #2",
+      "VISIT #3",
+      "5 SOUTH",
+      "10 SOUTH #1"
+    ],
+    "dates": [
+      "Saturday August 10, 2019",
+      "8/10",
+      "10/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00027036",
+      "3447"
+    ]
+  },
+  "additional_notes": "The document appears to be a shift change report from a correctional facility. It contains information about staff movements, overtime, and leave. Some personal identifiable information is redacted."
+}

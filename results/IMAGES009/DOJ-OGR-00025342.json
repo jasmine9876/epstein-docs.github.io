@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": "1120",
+    "document_number": "DOJ-OGR-00025342",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 1120\n07-30-2019 Day shift comments: Health: Voices no medical complaints.\n07-31-2019 Day shift comments: Health: Voices no medical complaints.\n08-01-2019 Day shift comments: Health: Voices no medical complaints.\n08-02-2019 Day shift comments: Health: Voices no medical complaints.\nDOJ-OGR-00025342",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 1120",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "07-30-2019 Day shift comments: Health: Voices no medical complaints.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07-31-2019 Day shift comments: Health: Voices no medical complaints.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "08-01-2019 Day shift comments: Health: Voices no medical complaints.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "08-02-2019 Day shift comments: Health: Voices no medical complaints.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025342",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ",
+      "OGR"
+    ],
+    "locations": [],
+    "dates": [
+      "07-30-2019",
+      "07-31-2019",
+      "08-01-2019",
+      "08-02-2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00025342"
+    ]
+  },
+  "additional_notes": "The document appears to be a log or report of day shift comments, with a focus on health and medical complaints. The text is printed and there are no visible stamps or handwriting."
+}

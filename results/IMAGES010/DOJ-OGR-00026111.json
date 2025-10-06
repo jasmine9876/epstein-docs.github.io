@@ -1,0 +1,118 @@
+{
+  "document_metadata": {
+    "page_number": "2435",
+    "document_number": "76318-054",
+    "date": "07/24/2019",
+    "document_type": "Medical Record",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2435 Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Encounter Date: 07/24/2019 13:08 Follow-up at Sick Call as Needed Patient Education Topics: Date Initiated Format Handout/Topic Provider Outcome 07/24/2019 Counseling Access to Care [redacted] Verbalizes Understanding 07/24/2019 Counseling Preventive Health [redacted] Verbalizes Understanding Copay Required: No Cosign Required: Yes Telephone/Verbal Order: No Completed by [redacted] MLP on 07/24/2019 13:24 Requested to be cosigned by [redacted] MD. Cosign documentation will be displayed on the following page. Generated 07/24/2019 13:24 by [redacted] MLP Bureau of Prisons - NYM Page 2 of 2 DOJ-OGR-00026111",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Date of Birth: 01/20/1953",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Encounter Date: 07/24/2019 13:08",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Follow-up at Sick Call as Needed",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Patient Education Topics:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Date Initiated Format Handout/Topic Provider Outcome",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/24/2019 Counseling Access to Care [redacted] Verbalizes Understanding",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/24/2019 Counseling Preventive Health [redacted] Verbalizes Understanding",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Copay Required: No Cosign Required: Yes",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Telephone/Verbal Order: No",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Completed by [redacted] MLP on 07/24/2019 13:24",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Requested to be cosigned by [redacted] MD.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Cosign documentation will be displayed on the following page.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/24/2019 13:24 by [redacted] MLP",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Bureau of Prisons - NYM",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page 2 of 2",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026111",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/24/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026111"
+    ]
+  },
+  "additional_notes": "The document contains several redacted sections, likely for privacy or security reasons."
+}

@@ -1,0 +1,110 @@
+{
+  "document_metadata": {
+    "page_number": "0050",
+    "document_number": "DOJ-OGR-00028244",
+    "date": "04282014",
+    "document_type": "TECSII - PRIMARY QUERY HISTORY",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 TECSI - PRIMARY QUERY HISTORY 04282014 *A *B PASSENGER ACTIVITY PAGE NO. 0050 NAME DOB QUERY DATE TIME AGN RSLT TYP REF LANE TERM/ API DIM EPSTEIN, JEFFREY EDWARD 012053 022011 2104 CUS *D AIR INS :W02 N N A461-TETERBORO, AIRPORT HANG DOC: 469911707 US P INSP: *E EPSTEIN, JEFFREY EDWARD 012053 010711 0925 CUS *F AIR JK06 N N A511-CBP-CYRIL E KING, INTL DOC: 469911707 US P INSP: *G EPSTEIN, JEFFREY EDWARD 012053 011711 1339 CUS *H AIR CUS :$02 N N A523-PALM BEACH, INTERNATION DOC: 469911707 US P INSP: *I EPSTEIN, JEFFREY EDWARD 012053 012111 0000 API 01 R N PARIS, ORLY DOC: 469911707 US P INSP: APIS QRY EPSTEIN, JEFFREY EDWARD 012053 012911 1624 CUS *K API INS :%44 C N A103-NEWARK, INTL AIRPORT T DOC: 469911707 US P INSP: *L EPSTEIN, JEFFREY EDWARD 012053 122210 1722 CUS *M AIR CUS JK06 N N A511-CBP-CYRIL E KING, INTL DOC: 469911707 US P INSP: *N (b)(7)(E) <...MORE...> (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(6), (b)(7)(C) *F - (b)(7)(E) *G - (b)(6), (b)(7)(C) *H - (b)(7)(E) *I - (b)(6), (b)(7)(C) *J - (b)(7)(E) *K - (b)(7)(E) *L - (b)(6), (b)(7)(C) *M - (b)(7)(E) *N - (b)(6), (b)(7)(C) DOJ-OGR-00028244",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "TECSII - PRIMARY QUERY HISTORY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGER ACTIVITY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE NO. 0050",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB QUERY DATE TIME AGN RSLT TYP REF LANE TERM/ API DIM",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY EDWARD 012053 022011 2104 CUS *D AIR INS :W02 N N A461-TETERBORO, AIRPORT HANG DOC: 469911707 US P INSP: *E",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY EDWARD 012053 010711 0925 CUS *F AIR JK06 N N A511-CBP-CYRIL E KING, INTL DOC: 469911707 US P INSP: *G",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY EDWARD 012053 011711 1339 CUS *H AIR CUS :$02 N N A523-PALM BEACH, INTERNATION DOC: 469911707 US P INSP: *I",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY EDWARD 012053 012111 0000 API 01 R N PARIS, ORLY DOC: 469911707 US P INSP: APIS QRY",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY EDWARD 012053 012911 1624 CUS *K API INS :%44 C N A103-NEWARK, INTL AIRPORT T DOC: 469911707 US P INSP: *L",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY EDWARD 012053 122210 1722 CUS *M AIR CUS JK06 N N A511-CBP-CYRIL E KING, INTL DOC: 469911707 US P INSP: *N",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E) <...MORE...> (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(6), (b)(7)(C) *F - (b)(7)(E) *G - (b)(6), (b)(7)(C) *H - (b)(7)(E) *I - (b)(6), (b)(7)(C) *J - (b)(7)(E) *K - (b)(7)(E) *L - (b)(6), (b)(7)(C) *M - (b)(7)(E) *N - (b)(6), (b)(7)(C)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028244",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "CBP",
+      "US P INSP",
+      "APIS"
+    ],
+    "locations": [
+      "TETERBORO",
+      "CYRIL E KING",
+      "PALM BEACH",
+      "PARIS",
+      "ORLY",
+      "NEWARK"
+    ],
+    "dates": [
+      "022011",
+      "010711",
+      "011711",
+      "012111",
+      "012911",
+      "122210",
+      "04282014"
+    ],
+    "reference_numbers": [
+      "469911707",
+      "DOJ-OGR-00028244"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted version of a TECSII primary query history report. The redactions are indicated by (b)(6), (b)(7)(C), and (b)(7)(E)."
+}

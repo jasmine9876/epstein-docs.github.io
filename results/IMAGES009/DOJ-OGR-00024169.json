@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "DOJ-OGR-00024169",
+    "date": "07/26/2019",
+    "document_type": "Medical Record",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Encounter Date: 07/26/2019 07:54 Sex: M Race: WHITE Reg #: 76318-054 Provider: (b)(6)-(b)(7)(C) DDS Facility: NYM Unit: H01 Cardiac Condition Requiring Prophylaxis: No Prosthetic joint(s): No Radiation history of head or neck: No Excessive bleeding: No Bisphosphonates: No Comments: Medications as of Dental Health History Encounter date: 07/26/2019 07:54 Medications: Docusate Sodium 100 MG Cap Exp: 08/11/2019 SIG: Take one capsule (100 MG) by mouth twice daily for 30 days Omega 3 (Vascepa) 1 GM Capsule Exp: 01/13/2020 SIG: Take two capsules (2 GM) twice daily by mouth with food OTCs: Listing of all known OTCs this inmate is currently taking. Instructed inmate how to obtain medical, dental, and mental health care. Copay Required:No Cosign Required: No Telephone/Verbal Order: No Completed by (b)(6), (b)(7)(C) DDS on 07/26/2019 07:59 Generated 07/26/2019 07:59 by (b)(6), (b)(7)(C) DDS Bureau of Prisons - NYM Page 3 of 3",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Encounter Date: 07/26/2019 07:54 Sex: M Race: WHITE Reg #: 76318-054 Provider: (b)(6)-(b)(7)(C) DDS Facility: NYM Unit: H01",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Cardiac Condition Requiring Prophylaxis: No Prosthetic joint(s): No Radiation history of head or neck: No Excessive bleeding: No Bisphosphonates: No Comments:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Medications as of Dental Health History Encounter date: 07/26/2019 07:54 Medications: Docusate Sodium 100 MG Cap Exp: 08/11/2019 SIG: Take one capsule (100 MG) by mouth twice daily for 30 days Omega 3 (Vascepa) 1 GM Capsule Exp: 01/13/2020 SIG: Take two capsules (2 GM) twice daily by mouth with food",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "OTCs: Listing of all known OTCs this inmate is currently taking. Instructed inmate how to obtain medical, dental, and mental health care. Copay Required:No Cosign Required: No Telephone/Verbal Order: No Completed by (b)(6), (b)(7)(C) DDS on 07/26/2019 07:59",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/26/2019 07:59 by (b)(6), (b)(7)(C) DDS Bureau of Prisons - NYM Page 3 of 3",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/26/2019",
+      "08/11/2019",
+      "01/13/2020"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024169"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b)(6)-(b)(7)(C)'."
+}

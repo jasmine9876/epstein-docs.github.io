@@ -1,0 +1,67 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "76318054",
+    "date": "07/11/2019",
+    "document_type": "SALES INVOICE",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "SALES INVOICE --S.B.U.--\nNEW YORK MCC\nMAIN\nACCOUNT No. 76318054\nEPSTEIN, JEFFREY EDWARD\n07/11/2019 Time 07:52:26\n\nBEGINNING BALANCES:\nAvailable Balance is N/A\nSpending Limit Balance is N/A\nAccount Balance is $200.00\n\nQTY DESCRIPTION PRICE\n1 HALLS 40IC $0.95\n1 SINGLE ENVELOPE $0.63\n# ITEMS SOLD: 2\nCHARGE 76318054 $1.58\n\nENDING BALANCES:\nAvailable Balance is N/A\nSpending Limit Balance is N/A\nAccount Balance is $198.42\n\nSignature",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "SALES INVOICE --S.B.U.--\nNEW YORK MCC\nMAIN\nACCOUNT No. 76318054\nEPSTEIN, JEFFREY EDWARD\n07/11/2019 Time 07:52:26",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "BEGINNING BALANCES:\nAvailable Balance is N/A\nSpending Limit Balance is N/A\nAccount Balance is $200.00",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "QTY DESCRIPTION PRICE\n1 HALLS 40IC $0.95\n1 SINGLE ENVELOPE $0.63\n# ITEMS SOLD: 2\nCHARGE 76318054 $1.58",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "ENDING BALANCES:\nAvailable Balance is N/A\nSpending Limit Balance is N/A\nAccount Balance is $198.42",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Signature",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024469",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "NEW YORK MCC"
+    ],
+    "locations": [
+      "NEW YORK"
+    ],
+    "dates": [
+      "07/11/2019"
+    ],
+    "reference_numbers": [
+      "76318054",
+      "DOJ-OGR-00024469"
+    ]
+  },
+  "additional_notes": "The document appears to be a sales invoice with highlighted sections. The highlighted text is not legible."
+}

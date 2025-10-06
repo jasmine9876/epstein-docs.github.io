@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "533",
+    "document_number": null,
+    "date": "07/27/2019",
+    "document_type": "Bureau of Prisons Health Services",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 533\nBureau of Prisons\nHealth Services\nSee Amendment\nInmate Name: EPSTEIN, JEFFREY EDWARD\nDate of Birth: 01/20/1953\nEncounter Date: 07/27/2019 07:14\nSex: M\nReg #: 76318-054\nRace: WHITE\nFacility: NYM\nAmendment made to this note by (b)(6); (b)(7)(C) PsyD on 07/28/2019 09:19.\nBureau of Prisons - NYM\nDOJ-OGR-00024990",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 533",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Bureau of Prisons\nHealth Services\nSee Amendment",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD\nDate of Birth: 01/20/1953\nEncounter Date: 07/27/2019 07:14\nSex: M\nReg #: 76318-054\nRace: WHITE\nFacility: NYM",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Amendment made to this note by (b)(6); (b)(7)(C) PsyD on 07/28/2019 09:19.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Bureau of Prisons - NYM\nDOJ-OGR-00024990",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons",
+      "Department of Justice"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/27/2019",
+      "07/28/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024990"
+    ]
+  },
+  "additional_notes": "The document appears to be a health services record from the Bureau of Prisons. It contains personal and demographic information about the inmate Jeffrey Epstein, as well as a note about an amendment made to the record."
+}

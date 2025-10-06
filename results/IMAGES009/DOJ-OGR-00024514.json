@@ -1,0 +1,77 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024514",
+    "date": "July 22, 2019",
+    "document_type": "Daily Lieutenant's Log",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "UNITED STATES DEPARTMENT OF JUSTICE METROPOLITAN CORRECTIONAL CENTER, NEW YORK, NY DAILY LIEUTENANT'S LOG SHIFT-DAY-DATE: E/W - day, July 22, 2019 Beginning Count: (b)(7)(F) SHU: (b)(7)(F) E/W Daily Sensitive Information. (b)(6), (b)(7)(C) I/M Epstein #76318-054 on Suicide Watch. w/inmate companion (b)(7)(F) CHRONOLOGICAL EVENTS TIME B/C SHU 4:00 PM Lieutenant (b)(6) assumes duties as the Evening Watch Operations Lieutenant. (b)(7)(NF) 4:00 PM Institution count in progress. 4:03 PM (b)(7)(NF) (b)(7)(NF) testing in progress. testing completed. 5:00 PM (b)(7)(F) (b)(7)(F) (b)(7)(F) Good verbal announced Clear institutional count. 6:00 PM Watch call in progress (b)(7)(NF) 7:06 PM 5 inmates released from ZA to general population 10:00 PM Institutional count in progress. (b)(7)(F) Good verbal count announced. Clear institutional count announced. 12:00 AM Relieved of duties by (b)(6), (b)(7)(C) M/W Lieutenant. VISITING: 11 SOUTH INMATES ADULTS CHILDREN TOTAL 13 18 03 34 (b)(7)(E),(b)(7)(F) The following Inmate(s) were placed in Administrative Detention. NAME REG NUMBER REASON UNIT TIME A/D ORDER Ops. Lt. (b)(6), (b)(7)(C) Ending Count: (b)(7)(F) ; SHU: (b)(7)(F) 10-South: (b)(7)(F) SHU OBS: (b)(7)(F) Act. Lt. Local Hosp: (b)(7)(F) H/A OBS: (b)(6)(F) B/A OBS: (b)(7)(F) Dry Cell: (b)(6)(F) B/A SHU: (b)(7)(F)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "UNITED STATES DEPARTMENT OF JUSTICE METROPOLITAN CORRECTIONAL CENTER, NEW YORK, NY DAILY LIEUTENANT'S LOG",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "SHIFT-DAY-DATE: E/W - day, July 22, 2019 Beginning Count: (b)(7)(F) SHU: (b)(7)(F)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "E/W Daily Sensitive Information. (b)(6), (b)(7)(C) I/M Epstein #76318-054 on Suicide Watch. w/inmate companion (b)(7)(F)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "CHRONOLOGICAL EVENTS TIME B/C SHU",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "VISITING: 11 SOUTH INMATES ADULTS CHILDREN TOTAL 13 18 03 34",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "The following Inmate(s) were placed in Administrative Detention. NAME REG NUMBER REASON UNIT TIME A/D ORDER",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Ops. Lt. (b)(6), (b)(7)(C) Ending Count: (b)(7)(F) ; SHU: (b)(7)(F) 10-South: (b)(7)(F) SHU OBS: (b)(7)(F) Act. Lt. Local Hosp: (b)(7)(F) H/A OBS: (b)(6)(F) B/A OBS: (b)(7)(F) Dry Cell: (b)(6)(F) B/A SHU: (b)(7)(F)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024514",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [
+      "UNITED STATES DEPARTMENT OF JUSTICE",
+      "METROPOLITAN CORRECTIONAL CENTER"
+    ],
+    "locations": [
+      "NEW YORK",
+      "NY",
+      "11 SOUTH",
+      "ZA",
+      "10-South"
+    ],
+    "dates": [
+      "July 22, 2019"
+    ],
+    "reference_numbers": [
+      "#76318-054",
+      "DOJ-OGR-00024514"
+    ]
+  },
+  "additional_notes": "The document contains redactions, likely for privacy and security reasons. The redactions are indicated by (b)(6), (b)(7)(C), (b)(7)(F), (b)(7)(E), and (b)(7)(NF)."
+}

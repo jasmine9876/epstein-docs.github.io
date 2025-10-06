@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": "2978",
+    "document_number": "NYMAQ 530*05",
+    "date": "08-11-2019",
+    "document_type": "Inmate Roster",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2978 NYMAQ 530*05 INMATE ROSTER 08-11-2019 15:33:43 PAGE 001 OF 001 CATEGORY : OCT ASSIGNMENT: HOSP OPER CATG ASSIGNMENT GROUP CODE: FACILITY: NYM OPER CATG ASSIGNMENT NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK 0001 HOSP 08-11-2019 E10-573L EDUCATION 0002 08-11-2019 K11-054L FS AM SUICIDE OR G0000 TRANSACTION SUCCESSFULLY COMPLETED DOJ-OGR-00026634",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 2978",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NYMAQ 530*05 INMATE ROSTER 08-11-2019 15:33:43",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE 001 OF 001 CATEGORY : OCT ASSIGNMENT: HOSP OPER CATG ASSIGNMENT GROUP CODE: FACILITY: NYM OPER CATG ASSIGNMENT",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "0001 HOSP 08-11-2019 E10-573L EDUCATION",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0002 08-11-2019 K11-054L FS AM SUICIDE OR",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "G0000 TRANSACTION SUCCESSFULLY COMPLETED",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026634",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "08-11-2019"
+    ],
+    "reference_numbers": [
+      "NYMAQ 530*05",
+      "DOJ-OGR-00026634",
+      "0001",
+      "0002",
+      "E10-573L",
+      "K11-054L"
+    ]
+  },
+  "additional_notes": "The document appears to be a computer-generated report with no handwritten text or stamps. The content is related to inmate assignments and roster information."
+}

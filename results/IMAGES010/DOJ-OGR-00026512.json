@@ -1,0 +1,59 @@
+{
+  "document_metadata": {
+    "page_number": "2856",
+    "document_number": "DOJ-OGR-00026512",
+    "date": "08/10/2019",
+    "document_type": "30 MINUTE CHECK SHEET",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "Page 2856 MCC NEW YORK SPECIAL HOUSING UNIT MCC NEW YORK SPECIAL HOUSING UNIT 30 MINUTE CHECK SHEET ZA TIER-H DATE: 08/10/2019 TIME FRAME TIME START TIME END SIGNATURE TIME FRAME TIME START TIME END SIGNATURE TIME FRAME TIME START TIME END SIGNATURE 12:00-12:30 AM 8:00-8:30 AM 816 818 (b)(6); (b)(7)(C) 4:00-4:30 PM 417 412 (b)(6); (b)(7)(C) 12:30- 1:00 AM 8:30- 9:00 AM 841 843 4:30-5:00 PM 4410 4415 1:00-1:30 AM 9:00-9:30 AM 919 921 5:00 -5:30 PM 502 502 1:30-2:00 AM 9:30-10:00 AM 957 958 5:30-6:00 PM 535 535 2:00-2:30 AM 10:00-10:30 AM 1011 1013 6:00-6:30 PM 636 636 2:30-3:00 AM 10:30-11:00 AM 1052 1058 6:30-7:00 PM 644 641 3:00-3:30 AM 11:00-11:30 AM 1117 1119 7:00-7:30 PM 715 715 3:30-4:00 AM 11:30-12:00 AM 1142 1144 7:30-8:00 PM 733 733 4:00-4:30 AM 12:00-12:30 PM 1216 1217 8:00-8:30 PM 808 808 4:30-5:00 AM 12:30- 1:00 PM 1242 1204 8:30- 9:00 PM 833 833 5:00 -5:30 AM 1:00-1:30 PM 112 114 9:00-9:30 PM 903 903 5:30-6:00 AM 1:30-2:00 PM 137 139 9:30-10:00 PM 933 933 6:00-6:30 AM 2:00-2:30 PM 220 221 10:00-10:30 PM 1007 1007 6:30-7:00 AM 2:30-3:00 PM 2047 2048 10:30-11:00 PM 1041 1041 7:00-7:30 AM 3:00-3:30 PM 325 326 11:00-11:30 PM 1115 1115 7:30-8:00 AM 3:30-4:00 PM 317 318 11:30-12:00 PM 1146 1146 MORNING WATCH OPERATIONS LIEUTENANT DAY WATCH OPERATIONS LIEUTENANT EVENING WATCH OPERATIONS LIEUTENANT A staff member must observe all inmates confined in a continuous locked down status, such as administrative detention or disciplinary segregation, at least once in the first 30 minute period of the hour (example, 12:00 a.m. - 12:30 a.m.) followed by another round in the second 30 minutes period of the same hour (example, 12:30 am - 1:00 a.m.), thus ensuring an inmate is observed at least twice per hour. These rounds are to be conducted on an irregular schedule and no more than 40 minutes apart. All observations must be documented. REVIEWED BY MORNING WATCH LIEUTENANT CAPTAIN DOJ-OGR-00026512",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "MCC NEW YORK SPECIAL HOUSING UNIT 30 MINUTE CHECK SHEET ZA TIER-H DATE: 08/10/2019",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "TIME FRAME TIME START TIME END SIGNATURE TIME FRAME TIME START TIME END SIGNATURE TIME FRAME TIME START TIME END SIGNATURE",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "816 818 841 843 919 921 957 958 1011 1013 1052 1058 1117 1119 1142 1144 1216 1217 1242 1204 112 114 137 139 220 221 2047 2048 325 326 317 318 417 412 4410 4415 502 502 535 535 636 636 644 641 715 715 733 733 808 808 833 833 903 903 933 933 1007 1007 1041 1041 1115 1115 1146 1146",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "A staff member must observe all inmates confined in a continuous locked down status, such as administrative detention or disciplinary segregation, at least once in the first 30 minute period of the hour (example, 12:00 a.m. - 12:30 a.m.) followed by another round in the second 30 minutes period of the same hour (example, 12:30 am - 1:00 a.m.), thus ensuring an inmate is observed at least twice per hour. These rounds are to be conducted on an irregular schedule and no more than 40 minutes apart. All observations must be documented.",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "REVIEWED BY MORNING WATCH LIEUTENANT CAPTAIN",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "MORNING WATCH LIEUTENANT",
+      "CAPTAIN"
+    ],
+    "organizations": [
+      "MCC NEW YORK",
+      "SPECIAL HOUSING UNIT",
+      "DOJ"
+    ],
+    "locations": [
+      "NEW YORK"
+    ],
+    "dates": [
+      "08/10/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026512"
+    ]
+  },
+  "additional_notes": "The document contains handwritten entries in the table and appears to be a scanned copy. The stamps are present in the top left and right corners."
+}

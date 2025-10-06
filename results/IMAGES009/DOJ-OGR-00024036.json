@@ -1,0 +1,40 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024036",
+    "date": "7/26/19",
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "(b)(6), (b)(7)(C) (b)(6), (b)(7)(C) 7/26/19 (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) DOJ-OGR-00024036",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "(b)(6), (b)(7)(C) (b)(6), (b)(7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/26/19 (b)(6), (b)(7)(C) (b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024036",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/26/19"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00024036"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as '(b)(6), (b)(7)(C)'. The majority of the content is obscured by a green highlight."
+}

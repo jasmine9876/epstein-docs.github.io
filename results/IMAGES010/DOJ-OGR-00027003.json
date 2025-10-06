@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": "3414",
+    "document_number": "DOJ-OGR-00027003",
+    "date": "08/13/2019",
+    "document_type": "Federal Bureau of Prisons TRUINTEL Log Entries",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 3414 Date: 08/13/2019 Time: 12:39 PM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified Start Date: 08/10/2019 End Date: 08/10/2019 Alpha Code: NYM Level 1: SHU Level 2: Housing Unit, Special (SHU) Level 3: All Shift: Morning User: All Reg #: All Events: Count Events Only Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count No data found. **No information was found for the given criteria.** User ID: [b(6); (b)(7)(C)] Page 1 of 1 DOJ-OGR-00027003",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3414",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Date: 08/13/2019 Time: 12:39 PM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Start Date: 08/10/2019 End Date: 08/10/2019 Alpha Code: NYM Level 1: SHU Level 2: Housing Unit, Special (SHU) Level 3: All Shift: Morning User: All Reg #: All Events: Count Events Only",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count No data found. **No information was found for the given criteria.**",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "[b(6); (b)(7)(C)]",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "User ID: [b(6); (b)(7)(C)] Page 1 of 1 DOJ-OGR-00027003",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [],
+    "dates": [
+      "08/13/2019",
+      "08/10/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00027003"
+    ]
+  },
+  "additional_notes": "The document appears to be a log entry report from the Federal Bureau of Prisons TRUINTEL system. The report is dated 08/13/2019 and covers the date range 08/10/2019 to 08/10/2019. The report indicates that no data was found for the given criteria. A user ID is redacted as [b(6); (b)(7)(C)]."
+}

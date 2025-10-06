@@ -1,0 +1,67 @@
+{
+  "document_metadata": {
+    "page_number": "33",
+    "document_number": "DOJ-OGR-00022318",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information\nHurst, Anne\nHurst, Robert J.\nHussain Ayla\nHussey Simon\nHutley, Henry\nHutley, Lulu & Edward\nHutley, Mr & Mrs\nHutton, Lauren\nHymas Ivan\nInca\nInd, Charlie\nInzerillo, Gerard J.\nIreland, George\nIrvine, Eddie\nIsamel Abdullahi\nIsham, Chris\nJackson, Michael\nJacobson, Julian\nJagger Mick",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Hurst, Anne\nHurst, Robert J.\nHussain Ayla\nHussey Simon\nHutley, Henry\nHutley, Lulu & Edward\nHutley, Mr & Mrs\nHutton, Lauren\nHymas Ivan\nInca",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Ind, Charlie\nInzerillo, Gerard J.\nIreland, George\nIrvine, Eddie\nIsamel Abdullahi\nIsham, Chris\nJackson, Michael\nJacobson, Julian\nJagger Mick",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "33",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022318",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Hurst, Anne",
+      "Hurst, Robert J.",
+      "Hussain Ayla",
+      "Hussey Simon",
+      "Hutley, Henry",
+      "Hutley, Lulu & Edward",
+      "Hutley, Mr & Mrs",
+      "Hutton, Lauren",
+      "Hymas Ivan",
+      "Ind, Charlie",
+      "Inzerillo, Gerard J.",
+      "Ireland, George",
+      "Irvine, Eddie",
+      "Isamel Abdullahi",
+      "Isham, Chris",
+      "Jackson, Michael",
+      "Jacobson, Julian",
+      "Jagger Mick"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022318"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 33, and the document number is DOJ-OGR-00022318."
+}

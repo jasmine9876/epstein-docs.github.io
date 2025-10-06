@@ -1,0 +1,38 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00027134",
+    "date": "July 30, 2019",
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "July 30 2019 Postein 76318-054 NA DOJ-OGR-00027134",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "July 30 2019 Postein 76318-054 NA",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027134",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [
+      "Postein"
+    ],
+    "dates": [
+      "July 30, 2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00027134"
+    ]
+  },
+  "additional_notes": "The document has been heavily redacted, with most of the content obscured by green highlighting. The visible text is limited to a handwritten address and a printed document number."
+}

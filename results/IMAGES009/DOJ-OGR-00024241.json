@@ -1,0 +1,131 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024241",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE NAME Signature Inmate Reg # Time IN Time OUT (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) 7/22 Epstein 76318-054 5:07 7:51 (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) 7/22 Epstein 76318-054 13 17 (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) 7/23 J.Epstein 76318-054 12 12 DOJ-OGR-00024241",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE NAME Signature Inmate Reg # Time IN Time OUT",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/22",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318-054",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "5:07 7:51",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/22",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318-054",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "13 17",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/23",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "J.Epstein",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318-054",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "12 12",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024241",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein",
+      "J.Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/22",
+      "7/22",
+      "7/23"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024241"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6), (b)(7)(C). The handwriting is mostly legible, but some parts are obscured by green blocks."
+}

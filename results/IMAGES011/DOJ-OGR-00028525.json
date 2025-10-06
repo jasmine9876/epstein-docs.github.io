@@ -1,0 +1,69 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028525",
+    "date": "102012",
+    "document_type": "PQH API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 *B PQH API/HIT DATA 042814 *A *C NAME DOB DATE TIME AGN RSLT LNE TYP REF TERM/ LANE API EPSTEIN, JEFFREY EDWARD 012053 102012 1331 CUS *D API :%22 C A103-NEWARK, INTL AIRPORT T API DATA ---- INDICATOR : C CONFIRMED CARRIER CODE : EC OPEN SKIES FLT/VES NUMBER : 1 ARRIVAL LOCATION : EWR NEWARK INTERNATIONAL DEPARTURE LOCATION : ORY PARIS, ORLY TRANSMITTED BY : ALTEA+CM AMADEUS DCS ALTEA CM INBOUND/OUTBOUND : INBOUND (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) (b)(7)(E) DOJ-OGR-00028525",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07 *B PQH API/HIT DATA 042814 *A *C",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB DATE TIME AGN RSLT LNE TYP REF TERM/ LANE API",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY EDWARD 012053 102012 1331 CUS *D API :%22 C A103-NEWARK, INTL AIRPORT T",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "API DATA ---- INDICATOR : C CONFIRMED CARRIER CODE : EC OPEN SKIES FLT/VES NUMBER : 1 ARRIVAL LOCATION : EWR NEWARK INTERNATIONAL DEPARTURE LOCATION : ORY PARIS, ORLY TRANSMITTED BY : ALTEA+CM AMADEUS DCS ALTEA CM INBOUND/OUTBOUND : INBOUND",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) (b)(7)(E)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028525",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "OPEN SKIES",
+      "AMADEUS DCS ALTEA CM",
+      "ALTEA+CM"
+    ],
+    "locations": [
+      "NEWARK INTERNATIONAL",
+      "PARIS, ORLY",
+      "NEWARK",
+      "ORY",
+      "EWR"
+    ],
+    "dates": [
+      "102012",
+      "012053"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00028525",
+      "A103"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b)(7)(E)' and '(b)(6), (b)(7)(C)'. The document appears to be a travel record or API (Advance Passenger Information) data related to Jeffrey Epstein's flight."
+}

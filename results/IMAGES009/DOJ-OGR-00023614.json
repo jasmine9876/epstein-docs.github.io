@@ -1,0 +1,47 @@
+{
+  "document_metadata": {
+    "page_number": "1505",
+    "document_number": "DOJ-OGR-00023614",
+    "date": "7/24/2019",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": ">>> Ray Ormond 7/24/2019 8:45 AM >>>\nShirley - Please provide me with a daily update on this inmate, including his status and any changes/activities I should be aware of. Thanks!\n\nJ. Ray Ormond\nRegional Director\nNortheast Region\n215-521-(b)(6)\n\nPage 1505\nDOJ-OGR-00023614",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": ">>> Ray Ormond 7/24/2019 8:45 AM >>>\nShirley - Please provide me with a daily update on this inmate, including his status and any changes/activities I should be aware of. Thanks!",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "J. Ray Ormond\nRegional Director\nNortheast Region\n215-521-(b)(6)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 1505\nDOJ-OGR-00023614",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ray Ormond",
+      "Shirley",
+      "J. Ray Ormond"
+    ],
+    "organizations": [],
+    "locations": [
+      "Northeast Region"
+    ],
+    "dates": [
+      "7/24/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00023614",
+      "215-521-(b)(6)"
+    ]
+  },
+  "additional_notes": "The document appears to be an email requesting daily updates on an inmate. The phone number is redacted."
+}

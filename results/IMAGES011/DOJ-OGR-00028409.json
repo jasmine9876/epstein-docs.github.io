@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028409",
+    "date": "042814",
+    "document_type": "PQH API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 *B PQH API/HIT DATA 042814 *A *C NAME EPSTEIN, JEFFREY E WEST PALM BEACH DOB 012053 ----- QUERY ----- DATE TIME AGN RSLT LNE TERM/ 110313 0000 *D API REF LANE API R API DATA ---- INDICATOR : R REPORTED CARRIER CODE : *GA GENERAL AVIATION FLT/VES NUMBER : N212JE ARRIVAL LOCATION : PBI WEST PALM BEACH DEPARTURE LOCATION : XXX UNKNOWN AIRPORT (USED ON TRANSMITTED BY : APGA928N GENERAL AVIATION INBOUND/OUTBOUND : INBOUND (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) DOJ-OGR-00028409",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07 *B PQH API/HIT DATA 042814 *A *C",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME EPSTEIN, JEFFREY E WEST PALM BEACH DOB 012053 ----- QUERY ----- DATE TIME AGN RSLT LNE TERM/ 110313 0000 *D API REF LANE API R",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "API DATA ---- INDICATOR : R REPORTED CARRIER CODE : *GA GENERAL AVIATION FLT/VES NUMBER : N212JE ARRIVAL LOCATION : PBI WEST PALM BEACH DEPARTURE LOCATION : XXX UNKNOWN AIRPORT (USED ON TRANSMITTED BY : APGA928N GENERAL AVIATION INBOUND/OUTBOUND : INBOUND",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(7)(E) (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028409",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY E EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "WEST PALM BEACH"
+    ],
+    "dates": [
+      "110313",
+      "042814"
+    ],
+    "reference_numbers": [
+      "N212JE",
+      "APGA928N",
+      "DOJ-OGR-00028409"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b)(7)(E)' and '(b)(6), (b)(7)(C)'. The document appears to be a flight data record related to Jeffrey Epstein's travel."
+}

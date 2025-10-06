@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "53",
+    "document_number": "DOJ-OGR-00022338",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Rothschild, Edouard de Rudnick, Della Rothschild, Evelyn de Russel, Michelle Rust, Marina & Ian Roumugere Caroline Royle, Hon Lucinda Rucellial Natalie Rustov, Tim Rutalnd Duke and Duch-ess Rutterberg, Eric & Perri Ryder, Mr Nicholas Sacco Amy Sachs, Jeffrey Saffra, Edmund Safro Wayne Said, Wafic Sainsbury, Mr Jamie Salama, Eric",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Rothschild, Edouard de\nRothschild, Evelyn de\nRoumugere Caroline\nRoyle, Hon Lucinda\nRucellial Natalie\nRudnick, Della\nRussel, Michelle\nRust, Marina & Ian\nRustov, Tim\nRutalnd Duke and Duch-ess\nRuttenberg, Eric & Perri\nRyder, Mr Nicholas\nSacco Amy\nSachs, Jeffrey\nSaffra, Edmund\nSafro Wayne\nSaid, Wafic\nSainsbury, Mr Jamie\nSalama, Eric",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "53",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022338",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Edouard de Rothschild",
+      "Evelyn de Rothschild",
+      "Caroline Roumugere",
+      "Hon Lucinda Royle",
+      "Natalie Rucellial",
+      "Della Rudnick",
+      "Michelle Russel",
+      "Marina & Ian Rust",
+      "Tim Rustov",
+      "Rutalnd Duke and Duch-ess",
+      "Eric & Perri Ruttenberg",
+      "Mr Nicholas Ryder",
+      "Amy Sacco",
+      "Jeffrey Sachs",
+      "Edmund Saffra",
+      "Wayne Safro",
+      "Wafic Said",
+      "Mr Jamie Sainsbury",
+      "Eric Salama"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022338"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 53, and the document number is DOJ-OGR-00022338."
+}

@@ -1,0 +1,82 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": "04/20/2014",
+    "document_type": "I095 Inspection Results",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:08:04 I095 Inspection Results 042814 *A *B A102 WESTCHESTER, CO FLT/VES#: *GA 21JE GENERAL AVIATION DOCTYP*: P #*: 469911707 CTRY*: US UNITED STATES ST: M/F: M DNAME (LAST) : EPSTEIN FRST: JEFFREY EDWARD DOB: 012053 RFRD BY: *D -CBP OFFCR-C DTE: 04202014 TME: 1043 REASON: (b)(7)(E) CCD:*E (b)(7)(E) SNAME (LAST) : FRST: DOB: NATIONALITY: US UNITED STATES DISP: USC U.S. CITIZEN RCPT#: AUDATE: CHARGE (CODED) : DFRD TO: FIN#: SEC OFCR: *F -CBP OFFCR-C 04/20/2014 10:49 IOEM#: REFR CDE: COMMENTS: VIOLS: (b)(7)(E) (b)(7)(E) ADMITTED AS USC WHTI CMPLNT? ADDL COMMTS: (b)(7)(E) *G (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) *H *I Key: *A - (b)(7)(E) *B - (b)(6),(b)(7)(C) *C - (b)(7)(E) *D - (b)(6)(b)(7)(C) *E - (b)(7)(E) *F - (b)(6)(b)(7)(C) *G - (b)(7)(E) *H - (b)(7)(E) *I - (b)(7)(E) DOJ-OGR-00028711",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:08:04 I095 Inspection Results 042814",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "*B A102 WESTCHESTER, CO FLT/VES#: *GA 21JE GENERAL AVIATION DOCTYP*: P #*: 469911707 CTRY*: US UNITED STATES ST: M/F: M",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "DNAME (LAST) : EPSTEIN FRST: JEFFREY EDWARD DOB: 012053 RFRD BY: *D -CBP OFFCR-C DTE: 04202014 TME: 1043 REASON: (b)(7)(E) CCD:*E (b)(7)(E)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "SNAME (LAST) : FRST: DOB: NATIONALITY: US UNITED STATES DISP: USC U.S. CITIZEN RCPT#: AUDATE: CHARGE (CODED) : DFRD TO: FIN#:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SEC OFCR: *F -CBP OFFCR-C 04/20/2014 10:49 IOEM#: REFR CDE: COMMENTS: VIOLS: (b)(7)(E) (b)(7)(E) ADMITTED AS USC",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "WHTI CMPLNT? ADDL COMMTS: (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "*G (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) *H *I",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6),(b)(7)(C) *C - (b)(7)(E) *D - (b)(6)(b)(7)(C) *E - (b)(7)(E) *F - (b)(6)(b)(7)(C) *G - (b)(7)(E) *H - (b)(7)(E) *I - (b)(7)(E)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028711",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "CBP",
+      "USC"
+    ],
+    "locations": [
+      "WESTCHESTER, CO",
+      "UNITED STATES"
+    ],
+    "dates": [
+      "04/20/2014",
+      "04202014",
+      "012053"
+    ],
+    "reference_numbers": [
+      "469911707",
+      "GA 21JE",
+      "DOJ-OGR-00028711"
+    ]
+  },
+  "additional_notes": "The document contains multiple redactions, indicated by (b)(7)(E) and other codes, suggesting sensitive information has been withheld."
+}

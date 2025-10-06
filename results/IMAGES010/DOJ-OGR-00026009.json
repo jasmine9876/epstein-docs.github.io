@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "2236",
+    "document_number": "DOJ-OGR-00026009",
+    "date": "2019/08/12",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Re: Epstein, Jeffrey Edward, Reg. No. 73618-054\nFrom\nTo\nDate\nSubject:\nAttachments:\nThank you!\n>>> Charisma Edge 8/12/2019 4:02 PM >>>\nFYI.....S/W and Psych Ops docs\nCharisma Edge\nAssociate Warden\nMCC New York\n150 Park Row\nNew York, NY 10007\n646-836-6300 ext.\nNYM/AW-Programs-~@bop.gov\nPage 12680",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Re: Epstein, Jeffrey Edward, Reg. No. 73618-054\nFrom\nTo\nDate\nSubject:\nAttachments:",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Thank you!",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": ">>> Charisma Edge 8/12/2019 4:02 PM >>>\nFYI.....S/W and Psych Ops docs",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Charisma Edge\nAssociate Warden\nMCC New York\n150 Park Row\nNew York, NY 10007\n646-836-6300 ext.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "NYM/AW-Programs-~@bop.gov",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 12680\nDOJ-OGR-00026009",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Edward Epstein"
+    ],
+    "organizations": [
+      "MCC New York",
+      "BOP"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "2019/08/12"
+    ],
+    "reference_numbers": [
+      "73618-054",
+      "DOJ-OGR-00026009"
+    ]
+  },
+  "additional_notes": "The document is an email with redactions in the 'From' and 'ext.' fields. The email discusses Jeffrey Edward Epstein and includes contact information for Charisma Edge."
+}

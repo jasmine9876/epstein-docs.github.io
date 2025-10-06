@@ -1,0 +1,73 @@
+{
+  "document_metadata": {
+    "page_number": "26",
+    "document_number": "DOJ-OGR-00023393",
+    "date": null,
+    "document_type": "Schematic drawings",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Figure 4.3 Tiered Structure of SHU (2-Dimensional) Upper Tiers Lower Tiers J Tier G Tier Common Area 10th Floor South L Tier K Tier H Tier Common Area M Tier 9th Floor South Source: DOJ OIG schematic drawings depicting the MCC New York SHU 26 DOJ-OGR-00023393",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Figure 4.3",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Tiered Structure of SHU (2-Dimensional)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Upper Tiers",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Lower Tiers",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "J Tier G Tier Common Area 10th Floor South",
+      "position": "left"
+    },
+    {
+      "type": "printed",
+      "content": "L Tier K Tier H Tier Common Area M Tier 9th Floor South",
+      "position": "right"
+    },
+    {
+      "type": "printed",
+      "content": "Source: DOJ OIG schematic drawings depicting the MCC New York SHU",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "26",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00023393",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ OIG",
+      "MCC"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00023393"
+    ]
+  },
+  "additional_notes": "The document is a schematic drawing of the MCC New York SHU, showing the tiered structure. The image is clear and well-structured, with no visible damage or redactions."
+}

@@ -1,0 +1,72 @@
+{
+  "document_metadata": {
+    "page_number": "3332",
+    "document_number": "DOJ-OGR-00026921",
+    "date": "7-23-19",
+    "document_type": "OFFICIAL OUT COUNT",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "METROPOLITAN CORRECTIONAL CENTER NEW YORK, NY OFFICIAL OUT COUNT DATE: 7-23-19 COUNT TIME: 400pm FROM: [redacted] (Staff Member Preparing Out Count) LOCATION: Allg APPROVED: [redacted] (Operations Lieutenant) REG # NAME UNIT REG # NAME UNIT 1. 76312-054 Epstein H2 13. 2. 14. 3. 15. 4. 16. 5. 17. 6. 18. 7. 19. 8. 20. 9. 21. 10. 22. 11. 23. 12. 24. OUT-COUNT BY UNIT B-A C-A E-N E-S G-N G-S H-A I-N K-N K-S R-A Z-A Z-B Total Out-Counted: 1 This form must be submitted to the Counts and Assignments Officer FORTY-FIVE MINUTES PRIOR to the affected count. Prepare this form in ink. Group the inmates according to their respective housing units. This form is to be used only as an Out-Count. No other form will be accepted in lieu of the Out-Count Form. DOJ-OGR-00026921",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "METROPOLITAN CORRECTIONAL CENTER NEW YORK, NY OFFICIAL OUT COUNT",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "7-23-19",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DATE: COUNT TIME: FROM: APPROVED: REG # NAME UNIT REG # NAME UNIT",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "400pm Allg [redacted] [redacted]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "OUT-COUNT BY UNIT B-A C-A E-N E-S G-N G-S H-A I-N K-N K-S R-A Z-A Z-B Total Out-Counted:",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1 1",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "This form must be submitted to the Counts and Assignments Officer FORTY-FIVE MINUTES PRIOR to the affected count. Prepare this form in ink. Group the inmates according to their respective housing units. This form is to be used only as an Out-Count. No other form will be accepted in lieu of the Out-Count Form.",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026921",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [
+      "METROPOLITAN CORRECTIONAL CENTER"
+    ],
+    "locations": [
+      "NEW YORK, NY"
+    ],
+    "dates": [
+      "7-23-19"
+    ],
+    "reference_numbers": [
+      "76312-054",
+      "DOJ-OGR-00026921"
+    ]
+  },
+  "additional_notes": "The document contains redactions, likely for privacy or security reasons."
+}

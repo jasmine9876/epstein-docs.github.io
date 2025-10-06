@@ -1,0 +1,72 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024183",
+    "date": null,
+    "document_type": "Letter",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "MCC New York will provide an update to the Court as soon as the autopsy is completed and the official cause of death is determined. If you have any questions or concerns, please feel free to call me at (646)836-7700. Thank you for your time and attention to this matter.\n\nSincerely,\nLamine N'Diaye\nWarden\nMCC New York\n\ncc: Michael Greco, U.S. Marshal, and John Csakany, Chief Deputy U.S. Marshal\nMichael J. Fitzpatrick, Chief U.S. Probation Officer\n[b)(6), (b)(7)(C)] Assistant U.S. Attorneys\n[b)(6), (b)(7)(C)] Counsel for Mr. Epstein",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "MCC New York will provide an update to the Court as soon as the autopsy is completed and the official cause of death is determined. If you have any questions or concerns, please feel free to call me at (646)836-7700. Thank you for your time and attention to this matter.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Sincerely,",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Lamine N'Diaye",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Warden\nMCC New York",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "cc: Michael Greco, U.S. Marshal, and John Csakany, Chief Deputy U.S. Marshal\nMichael J. Fitzpatrick, Chief U.S. Probation Officer",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "[b)(6), (b)(7)(C)] Assistant U.S. Attorneys\n[b)(6), (b)(7)(C)] Counsel for Mr. Epstein",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024183",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Lamine N'Diaye",
+      "Michael Greco",
+      "John Csakany",
+      "Michael J. Fitzpatrick",
+      "Mr. Epstein"
+    ],
+    "organizations": [
+      "MCC New York",
+      "U.S. Marshal",
+      "U.S. Probation Officer",
+      "Assistant U.S. Attorneys"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "(646)836-7700",
+      "DOJ-OGR-00024183"
+    ]
+  },
+  "additional_notes": "The document contains redactions in the cc section, indicating sensitive information has been withheld."
+}

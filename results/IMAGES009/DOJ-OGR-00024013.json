@@ -1,0 +1,49 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024013",
+    "date": null,
+    "document_type": "Inmate Visit Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE | NAME | Signature | Inmate | Doc # | Time IN | Time OUT (b)(6) (b)(7)(C) 7/4 MF ANDREW NEIMAN SE J EASTER 76218054 9 76218054 9 (b)(6) (b)(7)(C) DOJ-OGR-00024013",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "DATE | NAME | Signature | Inmate | Doc # | Time IN | Time OUT",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/4 MF ANDREW NEIMAN SE J EASTER 76218054 9 76218054 9",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6) (b)(7)(C)",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024013",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "ANDREW NEIMAN",
+      "J EASTER"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/4"
+    ],
+    "reference_numbers": [
+      "76218054",
+      "DOJ-OGR-00024013"
+    ]
+  },
+  "additional_notes": "The document appears to be a log of inmate visits, with handwritten entries. Some personal information is redacted with '(b)(6) (b)(7)(C)'. The image has a large green overlay covering most of the content."
+}

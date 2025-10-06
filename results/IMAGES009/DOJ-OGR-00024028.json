@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024028",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "7/23 G.Tali J. Epstein 76318-054 12:00 7/23 Colon J. Epstein 76318-054 12:00 7/23 Juddke J. Epstein 76318-054 2:30 7/23 Sadn Epstein 906-22 28 7/23 G.Tali Goter J. Epstein 76318-054 5:20 11:00 7/23 Carahal Goter 76318-054 630",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "7/23 G.Tali J. Epstein 76318-054 12:00",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/23 Colon J. Epstein 76318-054 12:00",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/23 Juddke J. Epstein 76318-054 2:30",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/23 Sadn Epstein 906-22 28",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/23 G.Tali Goter J. Epstein 76318-054 5:20 11:00",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/23 Carahal Goter 76318-054 630",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "J. Epstein",
+      "G.Tali",
+      "Colon",
+      "Juddke",
+      "Sadn",
+      "Goter",
+      "Carahal"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/23"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "906-22",
+      "DOJ-OGR-00024028"
+    ]
+  },
+  "additional_notes": "The document appears to be a log or record of some sort, with handwritten entries. The text is mostly legible, but some parts are difficult to read due to the handwriting. The document has been partially redacted with green highlights."
+}

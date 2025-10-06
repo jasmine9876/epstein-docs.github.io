@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "DOJ-OGR-00027412",
+    "date": "9/4/2020",
+    "document_type": "Managed Query Results",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Managed Query APIS - All Passengers Results Conf. Name DOB Gender Document Conveyance Departure Date Arrival Date PNR Hit Types Attributes Status Event IDs (b)(6)&(b)(7)(C) [REDACTED] M (b)(6)&(b)(7)(C) *GA N722JE (XXX - IST) 01/07/2011 09:30 01/07/2011 02:59 Passenger EPSTEIN, Jeffrey Edward 01/20/1993 M *GA N722JE (XXX - IST) 08/06/2010 15:45 08/06/2010 20:30 Passenger EPSTEIN, Jeffrey Edward 01/20/1993 M *GA N722JE (PBI - XXX) 08/06/2010 08:00 08/06/2010 14:00 Passenger EPSTEIN, Jeffrey Edward 01/20/1993 M *GA N722JE (XXX - IST) 01/07/2011 09:30 01/07/2011 02:59 Passenger EPSTEIN, Jeffrey Edward 01/20/1993 M *GA N722JE (IST - XXX) 01/07/2011 00:45 01/07/2011 08:13 Passenger EPSTEIN, Jeffrey Edward 01/20/1993 M *GA N722JE (XXX - IST) 12/22/2010 17:30 12/22/2010 11:33 Passenger EPSTEIN, Jeffrey Edward 01/20/1993 M *GA N722JE (IST - XXX) 12/22/2010 01:00 12/22/2010 08:54 Passenger EPSTEIN, Jeffrey Edward 01/20/1993 M *GA N722JE (XXX - IST) 12/21/2010 17:30 12/21/2010 11:33 Passenger EPSTEIN, Jeffrey Edward 01/20/1993 M *GA N722JE (IST - XXX) 12/21/2010 01:00 12/21/2010 08:54 Passenger (b)(6)&(b)(7)(C) F *GA N722JE (XXX - IST) 01/07/2011 09:30 01/07/2011 02:59 Passenger (b)(6)&(b)(7)(C) F *GA N722JE (IST - XXX) 01/07/2011 00:45 01/07/2011 08:13 Passenger (b)(6)&(b)(7)(C) F *GA N722JE (XXX - IST) 12/22/2010 17:30 12/22/2010 11:33 Passenger (b)(6)&(b)(7)(C) F *GA N722JE (IST - XXX) 12/22/2010 01:00 12/22/2010 08:54 Passenger (b)(6)&(b)(7)(C) F *GA N722JE (XXX - IST) 12/21/2010 17:30 12/21/2010 11:33 Passenger (b)(6)&(b)(7)(C) F *GA N722JE (IST - XXX) 12/21/2010 01:00 12/21/2010 08:54 Passenger (b)(6)&(b)(7)(C) F *GA N722JE (XXX - IST) 01/07/2011 09:30 01/07/2011 02:59 Passenger (b)(6)&(b)(7)(C) F *GA N722JE (IST - XXX) 01/07/2011 00:45 01/07/2011 08:13 Passenger (b)(6)&(b)(7)(C) F *GA N722JE (XXX - IST) 12/22/2010 17:30 12/22/2010 11:33 Passenger (b)(6)&(b)(7)(C) F *GA N722JE (IST - XXX) 12/22/2010 01:00 12/22/2010 08:54 Passenger (b)(6)&(b)(7)(C) F *GA N722JE (XXX - IST) 12/21/2010 17:30 12/21/2010 11:33 Passenger (b)(6)&(b)(7)(C) F *GA N722JE (IST - XXX) 12/21/2010 01:00 12/21/2010 08:54 Passenger M *GA N722JE (XXX - IST) 01/07/2011 09:30 01/07/2011 02:59 Passenger M *GA N722JE (XXX - IST) 08/06/2010 15:45 08/06/2010 20:30 Crew (Cookpit) M *GA N722JE (PBI - XXX) 08/06/2010 08:00 08/06/2010 14:00 Crew (Cookpit) M *GA N722JE (XXX - PBI) 03/23/2011 12:00 03/23/2011 14:12 Crew Page 1 of 2 9/4/2020 DOJ-OGR-00027412",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Managed Query",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "APIS - All Passengers Results",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Conf. Name DOB Gender Document Conveyance Departure Date Arrival Date PNR Hit Types Attributes Status Event IDs",
+      "position": "table header"
+    },
+    {
+      "type": "printed",
+      "content": "Page 1 of 2",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "9/4/2020",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027412",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Edward EPSTEIN",
+      "(b)(6)&(b)(7)(C)"
+    ],
+    "organizations": [
+      "*GA N722JE"
+    ],
+    "locations": [
+      "IST",
+      "PBI",
+      "XXX"
+    ],
+    "dates": [
+      "01/20/1993",
+      "01/07/2011",
+      "08/06/2010",
+      "12/22/2010",
+      "12/21/2010",
+      "03/23/2011",
+      "9/4/2020"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00027412"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted table of passenger and crew information for a specific flight. Many fields are redacted, indicated by '(b)(6)&(b)(7)(C)'."
+}

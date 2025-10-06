@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "2588",
+    "document_number": "DOJ-OGR-00026248",
+    "date": "07/09/2019",
+    "document_type": "Medical Record",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2588 Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Sex: M Race: WHITE Reg #: 76318-054 Encounter Date: 07/09/2019 12:35 Provider: (b)(6); (b)(7)(C) MLP Facility: NYM Unit: H01 Immunization Date: Provider: (b)(6); (b)(7)(C) MLP Location: Drug Mfg: Lot Number: Dosage: Route: Exp Dt: Comments: Varicella Series Administration: History Unknown, Not Administered Documented Date: 07/09/2019 12:51 EST Immunization Date: Provider: (b)(6); (b)(7)(C) MLP Location: Drug Mfg: Lot Number: Dosage: Route: Exp Dt: Comments: Temperature: Date Time Fahrenheit Celsius Location Provider 07/09/2019 12:49 NYM 97.3 36.3 Oral (b)(6); (b)(7)(C) MLP Pulse: Date Time Rate Per Minute Location Rhythm Provider 07/09/2019 12:49 82 Via Machine Regular (b)(6); (b)(7)(C) MLP Respirations: Date Time Rate Per Minute Provider 07/09/2019 12:49 NYM 16 (b)(6); (b)(7)(C) MLP Blood Pressure: Date Time Value Location Position Cuff Size Provider 07/09/2019 12:49 NYM 117/66 Right Arm Sitting Adult-regular (b)(6); (b)(7)(C) MLP SaO2: Date Time Value(%) Air Provider 07/09/2019 12:49 NYM 97 Room Air (b)(6); (b)(7)(C) MLP Height: Date Time Inches Cm Provider 07/09/2019 12:49 NYM 70.0 177.8 (b)(6); (b)(7)(C) MLP Generated 07/09/2019 13:03 by (b)(6); (b)(7)(C) MLP Bureau of Prisons - NYM Page 6 of 13",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 2588",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Sex: M Race: WHITE Reg #: 76318-054 Encounter Date: 07/09/2019 12:35 Provider: (b)(6); (b)(7)(C) MLP Facility: NYM Unit: H01",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Immunization Date: Provider: (b)(6); (b)(7)(C) MLP Location: Drug Mfg: Lot Number: Dosage: Route: Exp Dt: Comments: Varicella Series Administration: History Unknown, Not Administered Documented Date: 07/09/2019 12:51 EST",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Temperature: Date Time Fahrenheit Celsius Location Provider 07/09/2019 12:49 NYM 97.3 36.3 Oral (b)(6); (b)(7)(C) MLP Pulse: Date Time Rate Per Minute Location Rhythm Provider 07/09/2019 12:49 82 Via Machine Regular (b)(6); (b)(7)(C) MLP Respirations: Date Time Rate Per Minute Provider 07/09/2019 12:49 NYM 16 (b)(6); (b)(7)(C) MLP Blood Pressure: Date Time Value Location Position Cuff Size Provider 07/09/2019 12:49 NYM 117/66 Right Arm Sitting Adult-regular (b)(6); (b)(7)(C) MLP SaO2: Date Time Value(%) Air Provider 07/09/2019 12:49 NYM 97 Room Air (b)(6); (b)(7)(C) MLP Height: Date Time Inches Cm Provider 07/09/2019 12:49 NYM 70.0 177.8 (b)(6); (b)(7)(C) MLP",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/09/2019 13:03 by (b)(6); (b)(7)(C) MLP Bureau of Prisons - NYM Page 6 of 13",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026248",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/09/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026248"
+    ]
+  },
+  "additional_notes": "The document appears to be a medical record for Jeffrey Epstein, containing various medical information and vital signs. The document has been redacted in several areas, obscuring names and identifiers."
+}

@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "48",
+    "document_number": "DOJ-OGR-00022369",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information\n\nChunk\nSchantz, Jeffrey\nSchoettle, Douglas A\nShadow, Monty\nShaeffer David\nSnyder, Richard & Laura Yorke\nSolomon, Melissa\nSowell, Dottie\nSpecter, Warren\nStaley, Jes\nStark, Caroline\nSteel, Kim\nStein, Andrew\nStock, Ann\nStone, Linda\nStroll, Lawrence S.\nDOJ-OGR-00022369",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Chunk",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Schantz, Jeffrey\nSchoettle, Douglas A\nShadow, Monty\nShaeffer David\nSnyder, Richard & Laura Yorke\nSolomon, Melissa\nSowell, Dottie\nSpecter, Warren\nStaley, Jes\nStark, Caroline\nSteel, Kim\nStein, Andrew\nStock, Ann\nStone, Linda\nStroll, Lawrence S.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022369",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "48",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Schantz",
+      "Douglas A Schoettle",
+      "Monty Shadow",
+      "David Shaeffer",
+      "Richard Snyder",
+      "Laura Yorke",
+      "Melissa Solomon",
+      "Dottie Sowell",
+      "Warren Specter",
+      "Jes Staley",
+      "Caroline Stark",
+      "Kim Steel",
+      "Andrew Stein",
+      "Ann Stock",
+      "Linda Stone",
+      "Lawrence S. Stroll"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022369"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 48, and the document number is DOJ-OGR-00022369."
+}

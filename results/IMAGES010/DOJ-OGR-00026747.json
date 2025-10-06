@@ -1,0 +1,53 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "DOJ-OGR-00026747",
+    "date": "08/15/2019",
+    "document_type": "Log Entries By Location",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 3107 Date: 08/15/2019 Time: 05:59 PM Federal Bureau of Prisons TRUINTEL Log Entries By Location Sensitive But Unclassified Event Date Entered Date Shift User Event Base Count 8/10/2019 10:18 AM 8/10/2019 7:19 PM Day b(6); b(7)(C) Rounds (Lieutenant) 8/10/2019 9:15 AM 8/10/2019 9:35 AM Day Begin Shift 8/10/2019 9:17 AM 8/10/2019 9:35 AM Day Rounds (Officer) 8/10/2019 9:35 AM 8/10/2019 9:36 AM Day b(7)(E) 8/10/2019 9:35 AM 8/10/2019 9:36 AM Day Fire Alarm Panel Check 8/10/2019 9:35 AM 8/10/2019 9:36 AM Day Inventory Sheet Verified 8/10/2019 9:35 AM 8/10/2019 9:36 AM Day Key Check 8/10/2019 9:35 AM 8/10/2019 9:36 AM Day Key Check 8/10/2019 9:35 AM 8/10/2019 9:36 AM Day Key Check 8/10/2019 9:35 AM 8/10/2019 9:36 AM Day Key Check 8/10/2019 9:35 AM 8/10/2019 9:36 AM Day OC Spray Check 8/10/2019 9:35 AM 8/10/2019 9:36 AM Day Radio Check 8/10/2019 9:36 AM 8/10/2019 9:36 AM Day Fire and Security Check 8/10/2019 9:39 AM 8/10/2019 10:29 AM Day Rounds (Officer) 8/10/2019 10:11 AM 8/10/2019 10:29 AM Day Rounds (Officer) 8/10/2019 10:30 AM 8/10/2019 10:31 AM Day Official Count 8/10/2019 10:37 AM 8/10/2019 11:16 AM Day Rounds (Officer) 8/10/2019 10:40 AM 8/10/2019 11:18 AM Day Daily Activity 8/10/2019 11:07 AM 8/10/2019 11:18 AM Day Rounds (Officer) b(7)(F) 8/10/2019 11:19 AM 8/10/2019 11:20 AM Day Base Count Verified 8/10/2019 11:20 AM 8/10/2019 11:20 AM Day Daily Activity - Feeding Started 8/10/2019 b(7)(F) 8/10/2019 b(7)(F) Day Daily Activity - Good Verbal Count 8/10/2019 11:24 AM 8/10/2019 12:10 PM Day Daily Activity 8/10/2019 11:25 AM 8/10/2019 12:11 PM Day Rounds (Officer) 8/10/2019 11:41 AM 8/10/2019 12:12 PM Day Rounds (Officer) 8/10/2019 12:21 PM 8/10/2019 12:28 PM Day Rounds (Officer) 8/10/2019 12:26 PM 8/10/2019 12:26 PM Day Daily Activity 8/10/2019 12:27 PM 8/10/2019 12:28 PM Day Daily Activity 8/10/2019 12:38 PM 8/10/2019 12:38 PM Day Daily Activity 8/10/2019 12:47 PM 8/10/2019 1:55 PM Day Rounds (Officer) 8/10/2019 1:44 PM 8/10/2019 1:57 PM Day Rounds (Officer) 8/10/2019 1:55 PM 8/10/2019 1:56 PM Day Daily Activity User ID: b(6); b(7)(C) Page 2 of 3 DOJ-OGR-00026747",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3107 Date: 08/15/2019 Time: 05:59 PM Federal Bureau of Prisons TRUINTEL Log Entries By Location Sensitive But Unclassified",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Event Date Entered Date Shift User Event Base Count",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "8/10/2019 10:18 AM 8/10/2019 7:19 PM Day b(6); b(7)(C) Rounds (Lieutenant)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "User ID: b(6); b(7)(C)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 2 of 3 DOJ-OGR-00026747",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [],
+    "dates": [
+      "08/15/2019",
+      "8/10/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026747"
+    ]
+  },
+  "additional_notes": "The document appears to be a log entry report from the Federal Bureau of Prisons, with various events and activities recorded on August 10, 2019. Some information is redacted, indicated by 'b(6); b(7)(C)' and 'b(7)(E)' and 'b(7)(F)'."
+}

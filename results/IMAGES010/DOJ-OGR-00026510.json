@@ -1,0 +1,59 @@
+{
+  "document_metadata": {
+    "page_number": "2854",
+    "document_number": "DOJ-OGR-00026510",
+    "date": "08/10/2019",
+    "document_type": "30 MINUTE CHECK SHEET",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "Page 2854 MCC NEW YORK SPECIAL HOUSING UNIT MCC NEW YORK SPECIAL HOUSING UNIT 30 MINUTE CHECK SHEET ZA TIER-K DATE: 08/10/2019 TIME FRAME TIME START TIME END SIGNATURE TIME FRAME TIME START TIME END SIGNATURE TIME FRAME TIME START TIME END SIGNATURE 12:00-12:30 AM 8:00-8:30 AM 824 825 (b)(6); (b)(7)(C) 00-4:30 PM 410 410 (b)(6); (b)(7)(C) 12:30- 1:00 AM 8:30- 9:00 AM 850 852 00-5:00 PM 458 438 1:00-1:30 AM 9:00-9:30 AM 922 923 00 -5:30 PM 782 783 1:30-2:00 AM 9:30-10:00 AM 943 945 00-6:00 PM 531 531 2:00-2:30 AM 10:00-10:30 AM 1006 1010 00-6:30 PM 607 607 2:30-3:00 AM 10:30-11:00 AM 1049 1051 00-7:00 PM 632 624 3:00-3:30 AM 11:00-11:30 AM 1113 1115 00-7:30 PM 712 712 3:30-4:00 AM 11:30-12:00 AM 1147 1150 00-8:00 PM 735 735 4:00-4:30 AM 12:00-12:30 PM 1235 1226 00-8:30 PM 806 806 4:30-5:00 AM 12:30- 1:00 PM 1235 1237 00- 9:00 PM 855 875 5:00 -5:30 AM 1:00-1:30 PM 106 108 00-9:30 PM 704 706 5:30-6:00 AM 1:30-2:00 PM 130 131 00-10:00 PM 735 735 6:00-6:30 AM 2:00-2:30 PM 212 213 00-10:30 PM 1005 1006 6:30-7:00 AM 2:30-3:00 PM 238 239 00-11:00 PM 1039 1055 7:00-7:30 AM 3:00-3:30 PM 319 320 00-11:30 PM 1115 1115 7:30-8:00 AM 3:30-4:00 PM 336 331 00-12:00 PM 1145 1145 MORNING WATCH OPERATIONS LIEUTENANT DAY WATCH OPERATIONS LIEUTENANT EVENING WATCH OPERATIONS LIEUTENANT A staff member must observe all inmates confined in a continuous locked down status, such as administrative detention or disciplinary segregation, at least once in the first 30 minute period of the hour (example, 12:00 a.m. - 12:30 a.m.) followed by another round in the second 30 minutes period of the same hour (example, 12:30 am - 1:00 a.m.), thus ensuring an inmate is observed at least twice per hour. These rounds are to be conducted on an irregular schedule and no more than 40 minutes apart. All observations must be documented. REVIEWED BY MORNING WATCH LIEUTENANT CAPTAIN DOJ-OGR-00026510",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "MCC NEW YORK SPECIAL HOUSING UNIT 30 MINUTE CHECK SHEET ZA TIER-K DATE: 08/10/2019",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "TIME FRAME TIME START TIME END SIGNATURE TIME FRAME TIME START TIME END SIGNATURE TIME FRAME TIME START TIME END SIGNATURE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "824 825 850 852 922 923 943 945 1006 1010 1049 1051 1113 1115 1147 1150 1235 1226 1235 1237 106 108 130 131 212 213 238 239 319 320 336 331 410 410 458 438 782 783 531 531 607 607 632 624 712 712 735 735 806 806 855 875 704 706 735 735 1005 1006 1039 1055 1115 1115 1145 1145",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "MORNING WATCH OPERATIONS LIEUTENANT DAY WATCH OPERATIONS LIEUTENANT EVENING WATCH OPERATIONS LIEUTENANT",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "A staff member must observe all inmates confined in a continuous locked down status, such as administrative detention or disciplinary segregation, at least once in the first 30 minute period of the hour (example, 12:00 a.m. - 12:30 a.m.) followed by another round in the second 30 minutes period of the same hour (example, 12:30 am - 1:00 a.m.), thus ensuring an inmate is observed at least twice per hour. These rounds are to be conducted on an irregular schedule and no more than 40 minutes apart. All observations must be documented.",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "REVIEWED BY MORNING WATCH LIEUTENANT CAPTAIN",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "MCC NEW YORK"
+    ],
+    "locations": [
+      "NEW YORK"
+    ],
+    "dates": [
+      "08/10/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026510"
+    ]
+  },
+  "additional_notes": "The document contains handwritten entries in the table and appears to be a record of checks performed on inmates. The document is stamped with 'MCC NEW YORK SPECIAL HOUSING UNIT' on both sides of the header."
+}

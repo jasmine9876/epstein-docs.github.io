@@ -1,0 +1,100 @@
+{
+  "document_metadata": {
+    "page_number": "3059",
+    "document_number": "BP-A0971",
+    "date": "AUG 11",
+    "document_type": "CHAIN OF CUSTODY LOG CDFRM",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 3059\nBP-A0971\nAUG 11\nCHAIN OF CUSTODY LOG CDFRM\nU.S. DEPARTMENT OF JUSTICE\nFEDERAL BUREAU OF PRISONS\nCHAIN OF CUSTODY LOG\n(Enclose with/attach to evidence)\nECN #:\nITEM #:\nCASE ID NUMBER:\nSUSPECT (If Known):\nEpstein, Jeffrey Reg. No.\n76318-054\nDESCRIPTION OF ITEM:\nSpecial Housing Unit 30 Minute Rounds Sheets for 8/9/19\nDATE/TIME ITEM FOUND:\n8/10/19 8:10 am\nLOCATION:\nMCC Special Housing Unit\nSIGNATURE OF PERSON RECOVERING EVIDENCE:\nPRINTED NAME:\nEVIDENCE PLACED IN OVERNIGHT DROP-BOX BY: (printed name)\nDate & Time:\nWitness: (printed name)\nEVIDENCE RECOVERED FROM OVERNIGHT DROP BOX BY: (printed name)\nDate & Time:\nWitness: (printed name)\nEVIDENCE PLACED IN SAFE FROM DROP BOX BY: (printed name)\nDate & Time:\nWitness: (printed name)\nEVIDENCE PLACED DIRECTLY IN EVIDENCE SAFE BY: (printed name)\nDate & Time:\nWitness: (printed name)\nDISPOSITION:\n/ X /\nHold as evidence\n/ /\nReturn to finder\n/ /\nReturn to owner\n/ /\nLab Analysis\n/ /\nOther\nFBI\nREMARKS (condition of evidence)\n*************************************\nCHAIN OF CUSTODY\n*************************************\nEVIDENCE RELEASED BY\nDATE/TIME\nDESTINATION\nEVIDENCE RELEASED TO\n8/10/19 8:10am\nSIS\n8/13/19 4:31pm\nDOJ-OTR\nATTACH TO EVIDENCE\nDOJ-OGR-00026699",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3059\nBP-A0971\nAUG 11\nCHAIN OF CUSTODY LOG CDFRM",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "U.S. DEPARTMENT OF JUSTICE\nFEDERAL BUREAU OF PRISONS\nCHAIN OF CUSTODY LOG\n(Enclose with/attach to evidence)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "ECN #:\nITEM #:\nCASE ID NUMBER:\nSUSPECT (If Known):\nEpstein, Jeffrey Reg. No.\n76318-054\nDESCRIPTION OF ITEM:\nSpecial Housing Unit 30 Minute Rounds Sheets for 8/9/19\nDATE/TIME ITEM FOUND:\n8/10/19 8:10 am\nLOCATION:\nMCC Special Housing Unit",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/10/19 8:10 am\nMCC Special Housing Unit",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "SIGNATURE OF PERSON RECOVERING EVIDENCE:\nPRINTED NAME:\nEVIDENCE PLACED IN OVERNIGHT DROP-BOX BY: (printed name)\nDate & Time:\nWitness: (printed name)\nEVIDENCE RECOVERED FROM OVERNIGHT DROP BOX BY: (printed name)\nDate & Time:\nWitness: (printed name)\nEVIDENCE PLACED IN SAFE FROM DROP BOX BY: (printed name)\nDate & Time:\nWitness: (printed name)\nEVIDENCE PLACED DIRECTLY IN EVIDENCE SAFE BY: (printed name)\nDate & Time:\nWitness: (printed name)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "DISPOSITION:\n/ X /\nHold as evidence\n/ /\nReturn to finder\n/ /\nReturn to owner\n/ /\nLab Analysis\n/ /\nOther\nFBI",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "X",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "REMARKS (condition of evidence)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "*************************************\nCHAIN OF CUSTODY\n*************************************",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "EVIDENCE RELEASED BY\nDATE/TIME\nDESTINATION\nEVIDENCE RELEASED TO",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/10/19 8:10am\nSIS\n8/13/19 4:31pm\nDOJ-OTR",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "ATTACH TO EVIDENCE\nDOJ-OGR-00026699",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "U.S. DEPARTMENT OF JUSTICE",
+      "FEDERAL BUREAU OF PRISONS",
+      "FBI"
+    ],
+    "locations": [
+      "MCC Special Housing Unit",
+      "SIS",
+      "DOJ-OTR"
+    ],
+    "dates": [
+      "8/10/19",
+      "8/9/19",
+      "8/13/19",
+      "AUG 11"
+    ],
+    "reference_numbers": [
+      "BP-A0971",
+      "76318-054",
+      "DOJ-OGR-00026699"
+    ]
+  },
+  "additional_notes": "The document contains redactions and handwritten entries. The chain of custody log is partially filled out."
+}

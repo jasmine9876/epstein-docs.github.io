@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "0038",
+    "document_number": "DOJ-OGR-00028232",
+    "date": "04282014",
+    "document_type": "TECSII - PRIMARY QUERY HISTORY",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 TECSII - PRIMARY QUERY HISTORY 04282014 *A *B PASSENGER ACTIVITY *C PAGE NO. 0038 NAME DOB QUERY DATE TIME AGN RSLT TYP REF LANE TERM/ API DIM EPSTEIN, JEFFREY E 012053 100711 2130 CUS *D API INS /G28 C N A477-NEW YORK, JFK AIRPORT, DOC: 469911707 US P INSP: *E EPSTEIN, JEFFREY E 012053 101911 0000 *F API 01 R N UNKNOWN AIRPORT (USED ONLY W DOC: 469911707 US P INSP: APIS QRY EPSTEIN, JEFFREY E 012053 090411 0000 *G API 01 R N ATATURK DOC: 469911707 US P INSP: APIS QRY EPSTEIN, JEFFREY E 012053 090911 0000 *H API 01 R N UNKNOWN AIRPORT (USED ONLY W DOC: 469911707 US P INSP: APIS QRY EPSTEIN, JEFFREY E 012053 091711 0000 *I API 01 R N UNKNOWN AIRPORT (USED ONLY W DOC: 469911707 US P INSP: APIS QRY EPSTEIN, JEFFREY E 012053 072011 0000 *J API 01 R N UNKNOWN AIRPORT (USED ONLY W DOC: 469911707 US P INSP: APIS QRY (b)(7)(E) <...MORE...> (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(6), (b)(7)(C) *F - (b)(7)(E) *G - (b)(7)(E) *H - (b)(7)(E) *I - (b)(7)(E) *J - (b)(7)(E) DOJ-OGR-00028232",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "TECSII - PRIMARY QUERY HISTORY PASSENGER ACTIVITY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE NO. 0038",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB QUERY DATE TIME AGN RSLT TYP REF LANE TERM/ API DIM",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY E 012053 100711 2130 CUS *D API INS /G28 C N A477-NEW YORK, JFK AIRPORT, DOC: 469911707 US P INSP: *E",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(6), (b)(7)(C) *F - (b)(7)(E) *G - (b)(7)(E) *H - (b)(7)(E) *I - (b)(7)(E) *J - (b)(7)(E)",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY E EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "NEW YORK",
+      "JFK AIRPORT",
+      "ATATURK"
+    ],
+    "dates": [
+      "100711",
+      "101911",
+      "090411",
+      "090911",
+      "091711",
+      "072011",
+      "04282014"
+    ],
+    "reference_numbers": [
+      "469911707",
+      "DOJ-OGR-00028232"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted TECSII query history report. Multiple sections are redacted with '(b)(7)(E)'."
+}

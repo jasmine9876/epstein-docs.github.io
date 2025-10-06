@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": "69",
+    "document_number": "DOJ-OGR-00022354",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Colonial Bank Nat West Rob Bourne Sharon Hubyak Natwest Bank PB National Dottie Wilson FRANCE (FR) Alala, Azzedine ATT Acess Bristol Hotel Cab Blue Cabaret (night club) Car rental Chateau de la Messardier Chez Denise Chez L'Ami Louis Enstein, Jeffrey Enstein, Jeffrey (G)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Colonial Bank Nat West Rob Bourne Sharon Hubyak Natwest Bank PB National Dottie Wilson FRANCE (FR) Alala, Azzedine ATT Acess Bristol Hotel Cab Blue Cabaret (night club) Car rental Chateau de la Messardier Chez Denise Chez L'Ami Louis Enstein, Jeffrey Enstein, Jeffrey (G)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "69",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022354",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Rob Bourne",
+      "Sharon Hubyak",
+      "Dottie Wilson",
+      "Alala, Azzedine",
+      "Enstein, Jeffrey"
+    ],
+    "organizations": [
+      "Colonial Bank",
+      "Nat West",
+      "Natwest Bank",
+      "PB National",
+      "ATT Acess",
+      "Bristol Hotel",
+      "Cab Blue",
+      "Cabaret",
+      "Car rental",
+      "Chateau de la Messardier",
+      "Chez Denise",
+      "Chez L'Ami Louis"
+    ],
+    "locations": [
+      "FRANCE"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022354"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 69 and the document number is DOJ-OGR-00022354."
+}

@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": "1706",
+    "document_number": "DOJ-OGR-00025749",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 1706 this probably should be some time after that interview. [b](5)[b](5) Hugh Sent from my Verizon, Samsung Galaxy smartphone Page 8774 DOJ-OGR-00025749",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 1706",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "this probably should be some time after that interview.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "[b](5)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Hugh Sent from my Verizon, Samsung Galaxy smartphone",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 8774",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025749",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Hugh"
+    ],
+    "organizations": [
+      "Verizon",
+      "Samsung"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00025749"
+    ]
+  },
+  "additional_notes": "The document appears to be a page from a larger report or document, with a redacted section marked [b](5). The text is mostly printed, with no visible handwriting or stamps. The page numbers and document ID suggest that it is part of a larger collection or database."
+}

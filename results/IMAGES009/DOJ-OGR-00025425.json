@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": "1220",
+    "document_number": "DOJ-OGR-00025425",
+    "date": null,
+    "document_type": "Mail Attachment",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 1220 Mail Attachment Epstein (b)(6); (b)(7)(C) 76318-054_SRO_20190710-20190723.pdf Page 3349 DOJ-OGR-00025425",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 1220",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Mail Attachment",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Epstein",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "76318-054_SRO_20190710-20190723.pdf",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 3349",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025425",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "20190710",
+      "20190723"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00025425"
+    ]
+  },
+  "additional_notes": "The document appears to be a page from a larger document, with a header and footer indicating page numbers and a document number. The main content is a reference to an attachment related to Epstein, with some redacted information."
+}

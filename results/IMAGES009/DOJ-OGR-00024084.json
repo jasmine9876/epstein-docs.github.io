@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "log or visitation record",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE NAME Signature Inmate Deg # Time IN Time OUT (b)(6),(b)(7)(C) 8/16 8/6 Indykte Sowattie Epstein Epstein 7673007 7031607 1:20 12:00 1:45 1:45 (b)(6),(b)(7)(C) (b)(6)",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "DATE NAME Signature Inmate Deg # Time IN Time OUT",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/16 8/6 Indykte Sowattie",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein Epstein",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7673007 7031607 1:20 12:00 1:45 1:45",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6),(b)(7)(C)",
+      "position": "header and footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6)",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Indykte",
+      "Sowattie",
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "8/16",
+      "8/6"
+    ],
+    "reference_numbers": [
+      "7673007",
+      "7031607"
+    ]
+  },
+  "additional_notes": "The document appears to be a log or visitation record with handwritten entries. Some information is redacted with green highlights, and there are multiple redactions in the format '(b)(6),(b)(7)(C)' and '(b)(6)'."
+}

@@ -1,0 +1,42 @@
+{
+  "document_metadata": {
+    "page_number": "90",
+    "document_number": "DOJ-OGR-00023508",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Facebook, Twitter, Instagram: @(b)(7)(C) Page 90 DOJ-OGR-00023508",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Facebook, Twitter, Instagram: @(b)(7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Page 90",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00023508",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Facebook",
+      "Twitter",
+      "Instagram"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00023508"
+    ]
+  },
+  "additional_notes": "The document appears to be a page from a larger report or document, with a page number and reference number at the bottom. The top section contains social media handles with a redacted username."
+}

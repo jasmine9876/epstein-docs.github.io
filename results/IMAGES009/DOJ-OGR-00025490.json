@@ -1,0 +1,42 @@
+{
+  "document_metadata": {
+    "page_number": "1300",
+    "document_number": "DOJ-OGR-00025490",
+    "date": "2019/08/11 19:04",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 1300 Re: timeline From Hugh Hurwitz To [b](6); [b](7)(C) Date 2019/08/11 19:04 Subject: Re: timeline Attachments: TEXT.htm Page 4254 DOJ-OGR-00025490",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Re: timeline From Hugh Hurwitz To [b](6); [b](7)(C) Date 2019/08/11 19:04 Subject: Re: timeline Attachments: TEXT.htm",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Page 1300",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Page 4254 DOJ-OGR-00025490",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Hugh Hurwitz"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "2019/08/11 19:04"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00025490"
+    ]
+  },
+  "additional_notes": "The document appears to be an email with redacted recipient information."
+}

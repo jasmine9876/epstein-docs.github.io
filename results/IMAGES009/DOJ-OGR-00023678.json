@@ -1,0 +1,72 @@
+{
+  "document_metadata": {
+    "page_number": "1839",
+    "document_number": "DOJ-OGR-00023678",
+    "date": "July 26, 2019",
+    "document_type": "email chain",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "You can bring it to the lobby and as for Mr [redacted] our Assistant Health Services Administrator.\n\n>> > [redacted] @gmail.com> 7/26/2019 12:02 PM >>>\nYes, I will have the machine delivered on Monday. Please give me a name and a place for the delivery. Thanks again for your help.\n\nFrom: [redacted] @bop.gov\nSent: July 26, 2019 11:46 AM\nTo: [redacted] @gmail.com\nSubject: Re: Jeffrey Epstein, 76318-054\n\nGood morning Mr. [redacted]\nWith apologies for the delay, medical staff can accept his CPAP machine. Would you or one of your associates be able to bring it in next week? It must be provided to medical staff rather than directly to your client.\nThank you,\n[redacted]\n\n>> > [redacted] @gmail.com> 7/26/2019 9:50 AM >>>\nMr. [redacted]\nIs Mr. Epstein approved to receive a CPAP machine? If so, should we send it directly to him through the inmate mail system? Please confirm.\nThank you.\n\nPage 1839\nDOJ-OGR-00023678",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "You can bring it to the lobby and as for Mr [redacted] our Assistant Health Services Administrator.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": ">> > [redacted] @gmail.com> 7/26/2019 12:02 PM >>>\nYes, I will have the machine delivered on Monday. Please give me a name and a place for the delivery. Thanks again for your help.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "From: [redacted] @bop.gov\nSent: July 26, 2019 11:46 AM\nTo: [redacted] @gmail.com\nSubject: Re: Jeffrey Epstein, 76318-054",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Good morning Mr. [redacted]\nWith apologies for the delay, medical staff can accept his CPAP machine. Would you or one of your associates be able to bring it in next week? It must be provided to medical staff rather than directly to your client.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Thank you,\n[redacted]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": ">> > [redacted] @gmail.com> 7/26/2019 9:50 AM >>>\nMr. [redacted]\nIs Mr. Epstein approved to receive a CPAP machine? If so, should we send it directly to him through the inmate mail system? Please confirm.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Thank you.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 1839\nDOJ-OGR-00023678",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Mr. Epstein"
+    ],
+    "organizations": [
+      "BOP"
+    ],
+    "locations": [],
+    "dates": [
+      "July 26, 2019",
+      "Monday"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00023678"
+    ]
+  },
+  "additional_notes": "The document appears to be an email chain discussing the delivery of a CPAP machine to Jeffrey Epstein. Several names and email addresses have been redacted."
+}

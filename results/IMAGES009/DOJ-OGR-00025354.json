@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "1132",
+    "document_number": "DOJ-OGR-00025354",
+    "date": null,
+    "document_type": "Mail Attachment",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 1132\nMail Attachment\nEpstein 76318-054 IR328255.pdf\nPage 2880\nDOJ-OGR-00025354",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 1132",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Mail Attachment",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Epstein 76318-054 IR328255.pdf",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Page 2880",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025354",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "76318-054",
+      "IR328255",
+      "DOJ-OGR-00025354"
+    ]
+  },
+  "additional_notes": "The document appears to be a page from a larger document or report, with a header and footer indicating page numbers and a document identifier. The content is mostly related to a mail attachment referencing Epstein and various reference numbers."
+}

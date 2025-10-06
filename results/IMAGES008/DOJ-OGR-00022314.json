@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": "29",
+    "document_number": "DOJ-OGR-00022314",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Grossman Lloyd Gubelmann, Marjorie Guccioni, Tony Gudefin, Christian Guedroit, Solina & Nicolas Guerini Maraldi, Alessandro Guest, Cornelia Guggenheim, Barbara & Bert Fle Guiness, Sabrina Guinness, Mr Hugo Guissalni, Luca Gumberg, Ira Guttfreund Susan &John Hahn, Dr & Mrs Hall, Pippa Halpern Jen Hambro, Clementine Hamilton, George",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Grossman Lloyd Gubelmann, Marjorie Guccioni, Tony Gudefin, Christian Guedroit, Solina & Nicolas Guerini Maraldi, Alessandro Guest, Cornelia Guggenheim, Barbara & Bert Fle Guiness, Sabrina Guinness, Mr Hugo Guissalni, Luca Gumberg, Ira Guttfreund Susan &John Hahn, Dr & Mrs Hall, Pippa Halpern Jen Hambro, Clementine Hamilton, George",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "29",
+      "position": "left margin"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022314",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Lloyd Grossman",
+      "Marjorie Gubelmann",
+      "Tony Guccioni",
+      "Christian Gudefin",
+      "Solina Guedroit",
+      "Nicolas Guedroit",
+      "Alessandro Guerini Maraldi",
+      "Cornelia Guest",
+      "Barbara Guggenheim",
+      "Bert Fle",
+      "Sabrina Guiness",
+      "Mr Hugo Guinness",
+      "Luca Guissalni",
+      "Ira Gumberg",
+      "Susan Guttfreund",
+      "John Guttfreund",
+      "Dr Hahn",
+      "Mrs Hahn",
+      "Pippa Hall",
+      "Jen Halpern",
+      "Clementine Hambro",
+      "George Hamilton"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022314"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 29, and the document number is DOJ-OGR-00022314."
+}

@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "DOJ-OGR-00027353",
+    "date": "7/23/19",
+    "document_type": "Suicide Watch Observation Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Epstein Suicide Watch Observation Log Name of Inmate on watch: Epstein Reg #: 76318-054 Date: 7/23/19 Time Observations: Briefly note your observations. Initial all entries. Initials 1:40 AM Inmate brought down to suicide cell #4 b(6); b(7)(C) 1:45 AM Inmate lying on bed 2:00 AM Inmate sitting on bed talking b(7)(A) 2:15 AM 2:30 AM Inmate sitting on bed trying to remember what happened 2:45 AM Inmate sitting on bed 3:00 AM Inmate sitting on bed 3:15 AM Lt. takes pictures of inmate b(6); b(7)(C) 3:30 AM Inmate sitting on bed 3:45 AM Inmate sitting on bed 4:00 AM Inmate sitting on bed 4:15 AM Inmate sitting on bed 4:30 AM Inmate standing at door talking 4:45 AM Inmate standing at door talking 5:00 AM Inmate sitting on bed 5:15 AM Inmate standing at door 5:30 AM Inmate standing at door 5:45 AM Inmate standing at door 6:00 AM Inmate standing at door 6:15 AM Inmate standing at door 6:30 AM Inmate standing at door 6:45 AM Inmate standing at door 7:00 AM Inmate standing at door Note to all observers: Legibly print and sign your name at the beginning of your shift. 1 DOJ-OGR-00027353",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Suicide Watch Observation Log",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Name of Inmate on watch: Reg #: Date:",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318-054 7/23/19",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Time Observations: Briefly note your observations. Initial all entries. Initials",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1:40 AM Inmate brought down to suicide cell #4 b(6); b(7)(C) 1:45 AM Inmate lying on bed 2:00 AM Inmate sitting on bed talking b(7)(A) 2:15 AM 2:30 AM Inmate sitting on bed trying to remember what happened 2:45 AM Inmate sitting on bed 3:00 AM Inmate sitting on bed 3:15 AM Lt. takes pictures of inmate b(6); b(7)(C) 3:30 AM Inmate sitting on bed 3:45 AM Inmate sitting on bed 4:00 AM Inmate sitting on bed 4:15 AM Inmate sitting on bed 4:30 AM Inmate standing at door talking 4:45 AM Inmate standing at door talking 5:00 AM Inmate sitting on bed 5:15 AM Inmate standing at door 5:30 AM Inmate standing at door 5:45 AM Inmate standing at door 6:00 AM Inmate standing at door 6:15 AM Inmate standing at door 6:30 AM Inmate standing at door 6:45 AM Inmate standing at door 7:00 AM Inmate standing at door",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Note to all observers: Legibly print and sign your name at the beginning of your shift.",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/23/19"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00027353"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned copy of a handwritten log. The handwriting is generally legible, but some entries are incomplete or lack initials. The document has been redacted in some areas, with 'b(6); b(7)(C)' and 'b(7)(A)' indicating redactions."
+}

@@ -1,0 +1,52 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024038",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "7/31/19 Jawed 12:15 7/31/19 Call into Epstein 76318.054 5:30 8/1/19 G. Tali J. Epstein 76318.059 9:00am",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "7/31/19 Jawed 12:15",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/31/19 Call into Epstein 76318.054 5:30",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/1/19 G. Tali J. Epstein 76318.059 9:00am",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024038",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jawed",
+      "Epstein",
+      "G. Tali",
+      "J. Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/31/19",
+      "8/1/19"
+    ],
+    "reference_numbers": [
+      "76318.054",
+      "76318.059"
+    ]
+  },
+  "additional_notes": "The document appears to be a log or record of some sort, with handwritten entries detailing dates, names, and phone numbers or reference numbers. The text is mostly legible, but some parts may be difficult to read due to the handwriting."
+}

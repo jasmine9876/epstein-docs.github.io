@@ -1,0 +1,51 @@
+{
+  "document_metadata": {
+    "page_number": "894",
+    "document_number": "76318-054",
+    "date": null,
+    "document_type": "Mail Attachment",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 894 Mail Attachment Epstein Reconstruction 76318-054 draft5.docx Page 1913 DOJ-OGR-00025183",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 894",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Mail Attachment",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Epstein Reconstruction 76318-054 draft5.docx",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Page 1913",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025183",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00025183"
+    ]
+  },
+  "additional_notes": "The document appears to be a page from a larger report or attachment related to the Epstein Reconstruction, with a reference number and a DOJ identifier."
+}

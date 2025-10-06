@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00027101",
+    "date": null,
+    "document_type": "Sign-in sheet",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE NAME SIGNATURE INMATE Reg# TIME IN TIME OUT 7/31/19 Epstein 7/31/19 12:45 5:15 7/31/19 Bastela 7/31/19 4:54 5:30 8/1/19 J. Epstein 76318-054 9:00am 11",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE NAME SIGNATURE INMATE Reg# TIME IN TIME OUT",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/31/19 Epstein 7/31/19 12:45 5:15",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/31/19 Bastela 7/31/19 4:54 5:30",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/1/19 J. Epstein 76318-054 9:00am 11",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027101",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein",
+      "Bastela",
+      "J. Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/31/19",
+      "8/1/19"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00027101"
+    ]
+  },
+  "additional_notes": "The document appears to be a sign-in sheet with some information redacted. The redactions are marked with (b)(6) (b)(7)(C)."
+}

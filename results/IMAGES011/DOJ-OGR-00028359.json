@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028359",
+    "date": null,
+    "document_type": "PQH API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 *B PQH API/HIT DATA 042814 *A *C NAME DOB ----- QUERY ----- LNE TIME AGN RSLT TYP REF TERM/ EPSTEIN, JEFFREY 012053 060906 1733 CUS *D AIR JK06 N A511-CBP-CYRIL E KING, INTL TECs RECORD ID : CARRIER CODE : ZZ UNKOWN AIRLINE CODE FLT/VES NUMBER : 1 (b) (7) (E) (b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6) , (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) DOJ-OGR-00028359",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07 *B PQH API/HIT DATA 042814 *A *C",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB ----- QUERY ----- LNE TIME AGN RSLT TYP REF TERM/",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY 012053 060906 1733 CUS *D AIR JK06 N A511-CBP-CYRIL E KING, INTL",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "TECS RECORD ID :",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CARRIER CODE : ZZ UNKOWN AIRLINE CODE FLT/VES NUMBER : 1",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b) (7) (E) (b) (7) (E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b) (7) (E) *B - (b) (6) , (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028359",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "CYRIL E KING"
+    ],
+    "dates": [
+      "060906"
+    ],
+    "reference_numbers": [
+      "A511-CBP-CYRIL E KING",
+      "DOJ-OGR-00028359"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b) (6), (b) (7) (C), and (b) (7) (E)."
+}

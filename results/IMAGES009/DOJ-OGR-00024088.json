@@ -1,0 +1,69 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024088",
+    "date": null,
+    "document_type": "Inmate Visit Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE | NAME | Signature | Inmate | Reg# | Time in | Time out (b)(6), (b)(7)(C) V/6 Sadler DA Epstein 788711 815 1130 (b)(6), (b)(7)(C) 2/7/18 T. Till M. melendez (b)(6), (b)(7)(C) ns 76318-004 1170 11 1:30 8/7/18 (b)(6), (b)(7)(C) 8/7/18 Sadler DA Epstein 76318-004 315 0:50 (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) Cappelletti (b)(6), (b)(7)(C) Epstein 76318-004 535 KUP 9:30 (b)(6), (b)(7)(C) 8/7/19 M (b)(6), (b)(7)(C) Epstein 76318-004 11 533 533 (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) DOJ-OGR-00024088",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE | NAME | Signature | Inmate | Reg# | Time in | Time out",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "V/6 Sadler DA Epstein 788711 815 1130",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "2/7/18 T. Till M. melendez (b)(6), (b)(7)(C) ns 76318-004 1170 11 1:30",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/7/18 Sadler DA Epstein 76318-004 315 0:50",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6), (b)(7)(C) (b)(6), (b)(7)(C) Cappelletti (b)(6), (b)(7)(C) Epstein 76318-004 535 KUP 9:30",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/7/19 M (b)(6), (b)(7)(C) Epstein 76318-004 11 533 533",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024088",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Sadler",
+      "T. Till",
+      "M. melendez",
+      "Cappelletti"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "V/6",
+      "2/7/18",
+      "8/7/18",
+      "8/7/19"
+    ],
+    "reference_numbers": [
+      "788711",
+      "76318-004"
+    ]
+  },
+  "additional_notes": "The document appears to be an inmate visit log with handwritten entries. Some names and information are redacted with '(b)(6), (b)(7)(C)'."
+}

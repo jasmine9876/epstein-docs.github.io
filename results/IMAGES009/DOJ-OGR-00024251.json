@@ -1,0 +1,103 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024251",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "(b)(6), (b)(7)(C) 7726 (b)(6), (b)(7)(C) Epoch 2436-057 12.biv (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) 77 (b)(6), (b)(7)(C) Epoch 7658-058 (b)(6), (b)(7)(C) 7726 (b)(6), (b)(7)(C) Epoch 7651r-051 5 '20 (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) 77 (b)(6), (b)(7)(C) Epoch 76580 85 (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) 7724 (b)(6), (b)(7)(C) Epoch 2621-054 10/24/24 (b)(6), (b)(7)(C) DOJ-OGR-00024251",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "7726",
+      "position": "margin"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epoch 2436-057 12.biv",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "77",
+      "position": "margin"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epoch 7658-058",
+      "position": "margin"
+    },
+    {
+      "type": "handwritten",
+      "content": "7726",
+      "position": "margin"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epoch 7651r-051 5 '20",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "77",
+      "position": "margin"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epoch 76580 85",
+      "position": "margin"
+    },
+    {
+      "type": "handwritten",
+      "content": "7724",
+      "position": "margin"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epoch 2621-054 10/24/24",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024251",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "10/24/24",
+      "5 '20"
+    ],
+    "reference_numbers": [
+      "7726",
+      "2436-057",
+      "7658-058",
+      "7651r-051",
+      "76580",
+      "7724",
+      "2621-054",
+      "DOJ-OGR-00024251"
+    ]
+  },
+  "additional_notes": "The document appears to be heavily redacted, with most of the content obscured by green blocks. The visible text is primarily handwritten and appears to be a list or table with various numbers and dates."
+}

@@ -1,0 +1,55 @@
+{
+  "document_metadata": {
+    "page_number": "15524",
+    "document_number": "DOJ-OGR-00024009",
+    "date": "2019/08/05",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Jeffrey Epstein, 76318-054 From [redacted] To [redacted] Date 2019/08/05 08:48 Subject: Jeffrey Epstein, 76318-054 Attachments: TEXT.htm, Mime.822 Mr. [redacted] I understand that Mr. Epstein has not yet had the opportunity to establish a telephone account. Unit Mgr. [redacted] began the process last week, but did not have a chance to finish it. If you could arrange for someone to help Mr. Epstein set up the account, we'd really appreciate it. Thank you for all your help. [redacted] Page 15524 DOJ-OGR-00024009",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Jeffrey Epstein, 76318-054",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "From [redacted] To [redacted] Date 2019/08/05 08:48 Subject: Jeffrey Epstein, 76318-054 Attachments: TEXT.htm, Mime.822",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Mr. [redacted] I understand that Mr. Epstein has not yet had the opportunity to establish a telephone account. Unit Mgr. [redacted] began the process last week, but did not have a chance to finish it. If you could arrange for someone to help Mr. Epstein set up the account, we'd really appreciate it. Thank you for all your help. [redacted]",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Page 15524",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024009",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "2019/08/05"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024009"
+    ]
+  },
+  "additional_notes": "The document contains redactions, likely for privacy or security reasons."
+}

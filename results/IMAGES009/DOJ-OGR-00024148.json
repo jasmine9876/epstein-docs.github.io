@@ -1,0 +1,71 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "DOJ-OGR-00024148",
+    "date": "05/11/2020",
+    "document_type": "Medical Record",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Begin Date: 07/06/2019 End Date: 05/11/2020 Reg #: 76318-054 Inmate Name: EPSTEIN, JEFFREY EDWARD Date Time Rate Per Minute Provider Orig Entered: 07/09/2019 12:51 EST (b)(6), (b)(7)(C) MLP 07/06/2019 21:43 NYM 15 (b)(6), (b)(7)(C) PA-C Orig Entered: 07/06/2019 21:48 EST (b)(6), (b)(7)(C) PA-C Blood Pressure: Date Time Value Location Position Cuff Size Provider 07/30/2019 13:02 NYM 114/84 Left Arm Standing (b)(6), (b)(7)(C) MD Orig Entered: 07/30/2019 13:04 EST (b)(6), (b)(7)(C) MD 07/30/2019 09:40 NYM 125/60 Right Arm Standing (b)(6), (b)(7)(C) MD Orig Entered: 07/30/2019 13:04 EST (b)(6), (b)(7)(C) MD 07/30/2019 09:30 NYM 108/86 Left Arm Sitting (b)(6), (b)(7)(C) MD Orig Entered: 07/30/2019 12:59 EST (b)(6), (b)(7)(C) MD 07/28/2019 20:28 NYM 157/91 (b)(6), (b)(7)(C) RN Orig Entered: 07/28/2019 20:29 EST (b)(6), (b)(7)(C) RN 07/28/2019 06:57 NYM 138/80 (b)(6), (b)(7)(C) RN Orig Entered: 07/28/2019 06:58 EST (b)(6), (b)(7)(C) RN 07/24/2019 13:12 NYM 132/89 Right Arm Sitting Adult-regular (b)(6), (b)(7)(C) MLP Orig Entered: 07/24/2019 13:14 EST (b)(6), (b)(7)(C) MLP 07/23/2019 06:30 NYM 140/85 Right Arm Sitting Adult-regular (b)(6), (b)(7)(C) MLP Orig Entered: 07/23/2019 08:33 EST (b)(6), (b)(7)(C) MLP 07/09/2019 12:49 NYM 117/66 Right Arm Sitting Adult-regular (b)(6), (b)(7)(C) MLP Orig Entered: 07/09/2019 12:51 EST (b)(6), (b)(7)(C) MLP 07/06/2019 21:45 NYM 164/90 Right Arm Sitting Adult-regular (b)(6), (b)(7)(C) PA-C Orig Entered: 07/06/2019 21:48 EST (b)(6), (b)(7)(C) PA-C 07/06/2019 21:43 NYM 155/83 Left Arm Sitting Adult-regular (b)(6), (b)(7)(C) PA-C Orig Entered: 07/06/2019 21:48 EST (b)(6), (b)(7)(C) PA-C Blood Glucose: Date Time Value (mg/dl) Type Regular Insulin Provider 08/04/2019 08:30 156 Non-Fasting (b)(6), (b)(7)(C) RN Orig Entered: 08/04/2019 09:08 EST (b)(6), (b)(7)(C) RN 08/02/2019 06:30 97 Non-Fasting (b)(6), (b)(7)(C) MLP Orig Entered: 08/02/2019 08:16 EST (b)(6), (b)(7)(C) MLP 08/01/2019 06:30 103 Non-Fasting (b)(6), (b)(7)(C) MLP Orig Entered: 08/01/2019 09:00 EST (b)(6), (b)(7)(C) MLP 07/31/2019 06:15 108 Non-Fasting (b)(6), (b)(7)(C) MLP Orig Entered: 07/31/2019 08:36 EST (b)(6), (b)(7)(C) MLP SaO2: Date Time Value(%) Air Provider 07/30/2019 09:30 NYM 98 Room Air (b)(6), (b)(7)(C) MD Orig Entered: 07/30/2019 12:59 EST (b)(6), (b)(7)(C) MD 07/28/2019 20:28 NYM 98 (b)(6), (b)(7)(C) RN Orig Entered: 07/28/2019 20:29 EST (b)(6), (b)(7)(C) RN 07/28/2019 06:57 NYM 98 (b)(6), (b)(7)(C) RN Orig Entered: 07/28/2019 06:58 EST (b)(6), (b)(7)(C) RN Generated 05/11/2020 09:57 by (b)(6), (b)(7)(C) DGC Bureau of Prisons - DAN Page 2 of 3 DOJ-OGR-00024148",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Begin Date: 07/06/2019 End Date: 05/11/2020 Reg #: 76318-054 Inmate Name: EPSTEIN, JEFFREY EDWARD",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Date Time Rate Per Minute Provider",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Blood Pressure: Date Time Value Location Position Cuff Size Provider",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Blood Glucose: Date Time Value (mg/dl) Type Regular Insulin Provider",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SaO2: Date Time Value(%) Air Provider",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 05/11/2020 09:57 by (b)(6), (b)(7)(C) DGC Bureau of Prisons - DAN Page 2 of 3 DOJ-OGR-00024148",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [],
+    "dates": [
+      "07/06/2019",
+      "05/11/2020",
+      "07/09/2019",
+      "07/30/2019",
+      "07/28/2019",
+      "07/24/2019",
+      "07/23/2019",
+      "07/06/2019",
+      "08/04/2019",
+      "08/02/2019",
+      "08/01/2019",
+      "07/31/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024148"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b)(6), (b)(7)(C)'. The document is a medical record for Jeffrey Edward Epstein."
+}

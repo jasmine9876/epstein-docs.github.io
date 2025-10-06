@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": "2939",
+    "document_number": "DOJ-OGR-00026595",
+    "date": null,
+    "document_type": "Official Count Slip",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2939 Metropolitan Correctional Center Official Count Slip Unit: G S Count: (b)(7)(F) Date: 8/1/1G Time: Fudam Print Name: (b)(6), (b)(7)(C) Signature: Print Name: (b)(6), (b)(7)(C) Signature: Metropolitan Correctional Center Official Count Slip Unit: EN Count: (b)(7)(F) Date: 8/11/19 Time: 5:50 Print Name: (b)(6), (b)(7)(C) Signature: Print Name: Signature: DOJ-OGR-00026595",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "G S 8/1/1G Fudam",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "EN 8/11/19 5:50",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(F) (b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026595",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [],
+    "dates": [
+      "8/1/1G",
+      "8/11/19"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026595"
+    ]
+  },
+  "additional_notes": "The document contains handwritten and printed text. Some information is redacted with (b)(6), (b)(7)(C), and (b)(7)(F)."
+}

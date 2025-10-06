@@ -1,0 +1,102 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "662-RR",
+    "date": null,
+    "document_type": "Government Exhibit",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "*Publicly released in U.S. v. Maxwell GOVERNMENT EXHIBIT 662-RR S2 20 Cr. 330 (AJN) DATE AIRCRAFT MAKE AND MODEL AIRCRAFT IDENTIFICATION MARK POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FLY NO. REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS AIRCRAFT CATEGORY NO LDG. ARRIVAL COMPLEX TURE 1991 APR 25 H4125-400F N1251G PSP - CLG 135 7.5 WESTL MR. MARTIN 4 2 4 2 2 L 30 \" 11 CMH PSP 135 7.0 NEL COLEMAN 1 5 1 5 1 S 1 \" \" PSP - MDW - BKL-CMH 135 7.0 NEL COLEMAN 2 4 5 4 5 L 2 \" \" CMH - PDS - CCR-CMH 135 7.0 PAUL LEVY 3 5 1 5 1 S 6 \" \" CMH CPS 160 10 MARSTONMOLC; OCCUPY THE FUEL FARM 1 1 3 13 ) 21 \" \" CPS CMH 8.0 1 10 10 1 30 \" \" CMH - RDV - CMH 135 9.5 1 2 0 2 0 2 JUN 17 \" \" CMH-BKL- CMH 8.0 HARD - SHOW PLANE TO BOBA MCINTYRE 2 0 9 0 9 22 \" \" CMH - MDW - CMH 7.5 T. HUSMANN + SEVEN ACCIDENT 2 1 7 1 7 1 25 \" \" CMH - LG4 - CMH 4.0 BANK TO AIRWEST FOR PREPULES 2 1 2 1 4 1 JUL 22 H4125-100 N404CH ATW ATW 2 2 2 2 2 23 \" \" ATW ATW 1 8 0 8 0 24 \" \" ATW ISP 1 1 8 1 8 1 25 \" \" ISP - ISP - ILG 1 6 1 6 1 26 \" \" ILG TEB 150 1 FUELLED TO THIS ACFT CREW IN PLANE 1 5 5 5 26 \" \" TEB TEB 2 2 5 2 5 2 28 \" \" TEB TEB 3 2 6 2 6 2 29 \" \" TEB CMH 1 1 3 1 3 1 I certify that the statements made by me on this form are true. PAGE TOTAL AMT. FORWARD TOTAL TO DATE PILOT'S SIGNATURE Samuel Perkaus 1 53380 3709 0 1700 3573 5 3749 5 741 DOJ-OGR-00022173",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Publicly released in U.S. v. Maxwell",
+      "position": "header"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 662-RR S2 20 Cr. 330 (AJN)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DATE AIRCRAFT MAKE AND MODEL AIRCRAFT IDENTIFICATION MARK POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FLY NO. REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS AIRCRAFT CATEGORY NO LDG. ARRIVAL COMPLEX TURE",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "1991 APR 25 H4125-400F N1251G PSP - CLG 135 7.5 WESTL MR. MARTIN 4 2 4 2 2 L 30 \" 11 CMH PSP 135 7.0 NEL COLEMAN 1 5 1 5 1 S 1 \" \" PSP - MDW - BKL-CMH 135 7.0 NEL COLEMAN 2 4 5 4 5 L 2 \" \" CMH - PDS - CCR-CMH 135 7.0 PAUL LEVY 3 5 1 5 1 S 6 \" \" CMH CPS 160 10 MARSTONMOLC; OCCUPY THE FUEL FARM 1 1 3 13 ) 21 \" \" CPS CMH 8.0 1 10 10 1 30 \" \" CMH - RDV - CMH 135 9.5 1 2 0 2 0 2 JUN 17 \" \" CMH-BKL- CMH 8.0 HARD - SHOW PLANE TO BOBA MCINTYRE 2 0 9 0 9 22 \" \" CMH - MDW - CMH 7.5 T. HUSMANN + SEVEN ACCIDENT 2 1 7 1 7 1 25 \" \" CMH - LG4 - CMH 4.0 BANK TO AIRWEST FOR PREPULES 2 1 2 1 4 1 JUL 22 H4125-100 N404CH ATW ATW 2 2 2 2 2 23 \" \" ATW ATW 1 8 0 8 0 24 \" \" ATW ISP 1 1 8 1 8 1 25 \" \" ISP - ISP - ILG 1 6 1 6 1 26 \" \" ILG TEB 150 1 FUELLED TO THIS ACFT CREW IN PLANE 1 5 5 5 26 \" \" TEB TEB 2 2 5 2 5 2 28 \" \" TEB TEB 3 2 6 2 6 2 29 \" \" TEB CMH 1 1 3 1 3 1",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "I certify that the statements made by me on this form are true. PAGE TOTAL AMT. FORWARD TOTAL TO DATE PILOT'S SIGNATURE",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "Samuel Perkaus",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022173",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "MR. MARTIN",
+      "NEL COLEMAN",
+      "PAUL LEVY",
+      "T. HUSMANN",
+      "BOBA MCINTYRE",
+      "Samuel Perkaus"
+    ],
+    "organizations": [],
+    "locations": [
+      "PSP",
+      "CLG",
+      "CMH",
+      "MDW",
+      "BKL",
+      "PDS",
+      "CCR",
+      "CPS",
+      "RDV",
+      "LG4",
+      "ATW",
+      "ISP",
+      "ILG",
+      "TEB"
+    ],
+    "dates": [
+      "1991 APR 25",
+      "30",
+      "1",
+      "2",
+      "6",
+      "21",
+      "30",
+      "JUN 17",
+      "22",
+      "25",
+      "JUL 22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "28",
+      "29"
+    ],
+    "reference_numbers": [
+      "662-RR",
+      "S2 20 Cr. 330 (AJN)",
+      "N1251G",
+      "N404CH",
+      "DOJ-OGR-00022173"
+    ]
+  },
+  "additional_notes": "The document appears to be a flight log or record, with handwritten entries detailing various flights, including dates, aircraft information, departure and arrival points, and remarks. The document is stamped as a 'GOVERNMENT EXHIBIT' and is related to the case 'U.S. v. Maxwell'."
+}

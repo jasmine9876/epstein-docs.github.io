@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "IO25",
+    "date": "04/28/2014",
+    "document_type": "Inspection Remarks",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07:55 IO25 INSPECTION REMARKS 04/28/2014 *B *A *C +----------------------------------------------------------- I N S P E C T I O N R E M A R K S -----------------------------------------------------------+ PAGE 1 (b)(7)(E) (b)(7)(E) . SUBJ ALLOWED TO RESUME TRVL. SCBPO (b)(7)(E) NOTIFIED. +----------------------------------------------------------- -----------------------------------------------------------+ Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) DOJ-OGR-00028588",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07:55 IO25 INSPECTION REMARKS 04/28/2014",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "+----------------------------------------------------------- I N S P E C T I O N R E M A R K S -----------------------------------------------------------+ PAGE 1",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E) (b)(7)(E) . SUBJ ALLOWED TO RESUME TRVL. SCBPO (b)(7)(E) NOTIFIED.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "+----------------------------------------------------------- -----------------------------------------------------------+",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028588",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "04/28/2014"
+    ],
+    "reference_numbers": [
+      "IO25",
+      "DOJ-OGR-00028588"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(7)(E), (b)(6), and (b)(7)(C). The document appears to be a formal inspection report with a specific format and structure."
+}

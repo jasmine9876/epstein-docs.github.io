@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "545",
+    "document_number": "DOJ-OGR-00024561",
+    "date": "08/19/2019",
+    "document_type": "Log Entries By Event Date",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date: 08/19/2019 Time: 10:15 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count 7/23/2019 12:44 AM NYM Housing Units Housing Units, General Population ES 7/23/2019 12:07 AM Morning USERID REDACTED Fire Alarm Panel Check - Summary Text: Radio Number CHECKED 7/23/2019 12:44 AM NYM Housing Units Housing Units, General Population ES 7/23/2019 12:07 AM Morning USERID REDACTED Inventory Sheet Verified - Summary Text: Completed. 7/23/2019 12:44 AM NYM Housing Units Housing Units, General Population ES 7/23/2019 12:07 AM Morning USERID REDACTED Key Check 7/23/2019 12:44 AM NYM Housing Units Housing Units, General Population ES 7/23/2019 12:07 AM Morning USERID REDACTED Key Check - Summary Text: Ring Number COUNTED 7/23/2019 12:44 AM NYM Housing Units Housing Units, General Population ES 7/23/2019 12:07 AM Morning USERID REDACTED OC Spray Check - Summary Text: Ring Number COUNTED 7/23/2019 12:44 AM NYM Housing Units Housing Units, General Population ES 7/23/2019 12:07 AM Morning USERID REDACTED Radio Check - Summary Text: Completed. Serviceable. 7/23/2019 12:07 AM NYM Housing Units Housing Units, General Population GS 7/23/2019 12:07 AM Morning USERID REDACTED Watch Call - Summary Text: Radio Number CHECKED 7/23/2019 12:07 AM NYM Housing Units Housing Units, General Population GS 7/23/2019 12:07 AM Morning USERID REDACTED Fire and Security Check - Summary Text: Completed. 7/23/2019 12:07 AM NYM Housing Units Housing Units, General Population GS 7/23/2019 12:07 AM Morning USERID REDACTED COUNTED 7/23/2019 12:08 AM NYM Housing Units Housing Units, General Population GS 7/23/2019 12:07 AM Morning USERID REDACTED COUNTED User ID: USERID REDACTED Page 545 of 1155 DOJ-OGR-00024561",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date: 08/19/2019 Time: 10:15 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "7/23/2019 12:44 AM NYM Housing Units Housing Units, General Population ES 7/23/2019 12:07 AM Morning USERID REDACTED Fire Alarm Panel Check - Summary Text: Radio Number CHECKED",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "USERID REDACTED",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Page 545 of 1155",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024561",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [
+      "Housing Units",
+      "Housing Units, General Population",
+      "ES",
+      "GS"
+    ],
+    "dates": [
+      "08/19/2019",
+      "7/23/2019 12:44 AM",
+      "7/23/2019 12:07 AM",
+      "7/23/2019 12:08 AM"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00024561"
+    ]
+  },
+  "additional_notes": "The document contains redacted user IDs and appears to be a log of events related to housing units within a prison facility. The document is page 545 of 1155."
+}

@@ -1,0 +1,117 @@
+{
+  "document_metadata": {
+    "page_number": "544",
+    "document_number": "DOJ-OGR-00024560",
+    "date": "08/19/2019",
+    "document_type": "Log Entries By Event Date",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Date: 08/19/2019 Time: 10:15 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count 7/22/2019 9:30 PM NYM Housing Units Housing Units, General Population BA 7/22/2019 9:30 PM Evening pmurri01101 Watch Call 7/22/2019 10:00 PM NYM Housing Units Housing Units, General Population BA 7/22/2019 10:00 PM Evening pmurri01101 Watch Call 7/22/2019 10:21 PM NYM Housing Units Housing Units, General Population BA 7/22/2019 10:20 PM Evening Daily Activity 7/22/2019 10:33 PM NYM Housing Units Housing Units, General Population BA 7/22/2019 10:33 PM Evening pmurri01101 Watch Call 7/22/2019 11:08 PM NYM Housing Units Housing Units, General Population BA 7/22/2019 11:08 PM Evening pmurri01101 Watch Call 7/22/2019 11:30 PM NYM Housing Units Housing Units, General Population BA 7/22/2019 11:30 PM Evening pmurri01101 Watch Call 7/23/2019 12:43 AM NYM Housing Units Housing Units, General Population ES 7/23/2019 12:00 AM Morning Begin Shift 7/23/2019 12:06 AM NYM Housing Units Housing Units, General Population GS 7/23/2019 12:06 AM Morning Begin Shift 7/23/2019 12:06 AM NYM Housing Units Housing Units, General Population GS 7/23/2019 12:06 AM Morning Bed Book Check 7/23/2019 12:06 AM NYM Housing Units Housing Units, General Population GS 7/23/2019 12:06 AM Morning Rounds (Officer) 7/23/2019 12:44 AM NYM Housing Units Housing Units, General Population ES 7/23/2019 12:07 AM Morning User ID: pmurri01101 Page 544 of 1155",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date: 08/19/2019 Time: 10:15 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "7/22/2019 9:30 PM NYM Housing Units Housing Units, General Population BA 7/22/2019 9:30 PM Evening pmurri01101 Watch Call",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "7/22/2019 10:00 PM NYM Housing Units Housing Units, General Population BA 7/22/2019 10:00 PM Evening pmurri01101 Watch Call",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "7/22/2019 10:21 PM NYM Housing Units Housing Units, General Population BA 7/22/2019 10:20 PM Evening Daily Activity",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "7/22/2019 10:33 PM NYM Housing Units Housing Units, General Population BA 7/22/2019 10:33 PM Evening pmurri01101 Watch Call",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "7/22/2019 11:08 PM NYM Housing Units Housing Units, General Population BA 7/22/2019 11:08 PM Evening pmurri01101 Watch Call",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "7/22/2019 11:30 PM NYM Housing Units Housing Units, General Population BA 7/22/2019 11:30 PM Evening pmurri01101 Watch Call",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "7/23/2019 12:43 AM NYM Housing Units Housing Units, General Population ES 7/23/2019 12:00 AM Morning Begin Shift",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "7/23/2019 12:06 AM NYM Housing Units Housing Units, General Population GS 7/23/2019 12:06 AM Morning Begin Shift",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "7/23/2019 12:06 AM NYM Housing Units Housing Units, General Population GS 7/23/2019 12:06 AM Morning Bed Book Check",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "7/23/2019 12:06 AM NYM Housing Units Housing Units, General Population GS 7/23/2019 12:06 AM Morning Rounds (Officer)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "7/23/2019 12:44 AM NYM Housing Units Housing Units, General Population ES 7/23/2019 12:07 AM Morning",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "count back up by S/O HOUARDS",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "User ID: pmurri01101 Page 544 of 1155",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024560",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "HOUARDS",
+      "pmurri01101"
+    ],
+    "organizations": [
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM",
+      "BA",
+      "ES",
+      "GS"
+    ],
+    "dates": [
+      "08/19/2019",
+      "7/22/2019",
+      "7/23/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00024560"
+    ]
+  },
+  "additional_notes": "The document appears to be a log entry report from the Federal Bureau of Prisons, detailing various events and activities that occurred on July 22 and 23, 2019. The report includes information such as the date, time, location, and user ID associated with each event."
+}

@@ -1,0 +1,68 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024265",
+    "date": null,
+    "document_type": "Inmate Visit Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE | NAME | Signature | Inmate | Deg# | Time IN | Time OUT 7/5 J. Epstein 76318-054 12:40 6:55 7/5 Epstein 76318-054 3:00 6:20 7/5 Epstein 76318-054 3:00 6:20 8/5 Epstein 7651809 8/5 I. Epstein 170618.1048 3:32 2:55 DOJ-OGR-00024265",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE | NAME | Signature | Inmate | Deg# | Time IN | Time OUT",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/5 J. Epstein 76318-054 12:40 6:55",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/5 Epstein 76318-054 3:00 6:20",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/5 Epstein 76318-054 3:00 6:20",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/5 Epstein 7651809",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/5 I. Epstein 170618.1048 3:32 2:55",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024265",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "J. Epstein",
+      "Epstein",
+      "I. Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/5",
+      "8/5",
+      "170618"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "7651809",
+      "170618.1048"
+    ]
+  },
+  "additional_notes": "The document appears to be an inmate visit log with several redacted fields. The names 'J. Epstein' and 'Epstein' are likely referring to Jeffrey Epstein, a known inmate. The document contains handwritten entries with dates, times, and inmate numbers."
+}

@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "IO95",
+    "date": "04/28/2014",
+    "document_type": "Inspection Comments",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:08:03 IO95 INSPECTION COMMENTS 04/28/2014 *B *A *C +-------------------------------- INSPECTION COMMENTS --------------------------------+ PAGE 1 NEW COMMENTS: (b)(7)(E) TRAVELING WITH RUSSIAN WOMEN. ALL L PAX WERE OVER 18 YEARS OLD. NO WARRANTS NO ACTION NEEDED. COMMENTS HISTORY: +----------------------------------------------------------------------------------------+ (b)(7)(E) (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6),(b)(7)(C) *C - (b)(7)(E) DOJ-OGR-00028690",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:08:03 IO95 INSPECTION COMMENTS 04/28/2014",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "+-------------------------------- INSPECTION COMMENTS --------------------------------+ PAGE 1",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NEW COMMENTS: (b)(7)(E) TRAVELING WITH RUSSIAN WOMEN. ALL L PAX WERE OVER 18 YEARS OLD. NO WARRANTS NO ACTION NEEDED. COMMENTS HISTORY:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "+----------------------------------------------------------------------------------------+",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E) (b)(7)(E) (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6),(b)(7)(C) *C - (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028690",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [
+      "Russian"
+    ],
+    "dates": [
+      "04/28/2014"
+    ],
+    "reference_numbers": [
+      "IO95",
+      "DOJ-OGR-00028690"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(7)(E), (b)(6), and (b)(7)(C). The document appears to be a report or inspection comments related to travelers, specifically mentioning Russian women and individuals over 18 years old."
+}

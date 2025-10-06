@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": "42",
+    "document_number": "DOJ-OGR-00022327",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Maxwell, Marcella Mayhew, Mr John Mazandi, Yassi Mazzoti, Mateo MC & Allanor McAlpine Alistair & Romilly McDonald, John McFarland, Anthony McKenzie, Raymond Mclancy, Cas Mclane, Shannon McLeod Jock & Pru Meister, Todd Menzies, Kate Merison, Guy & Caroline Merivale-Austen, Bruce Mendoza, Neil",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Maxwell, Marcella Mayhew, Mr John Mazandi, Yassi Mazzoti, Mateo MC & Allanor McAlpine Alistair & Romilly McDonald, John McFarland, Anthony McKenzie, Raymond Mclancy, Cas Mclane, Shannon McLeod Jock & Pru Meister, Todd Menzies, Kate Merison, Guy & Caroline Merivale-Austen, Bruce Mendoza, Neil",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "42",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022327",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Maxwell, Marcella",
+      "Mayhew, Mr John",
+      "Mazandi, Yassi",
+      "Mazzoti, Mateo",
+      "MC & Allanor",
+      "McAlpine Alistair & Romilly",
+      "McDonald, John",
+      "McFarland, Anthony",
+      "McKenzie, Raymond",
+      "Mclancy, Cas",
+      "Mclane, Shannon",
+      "McLeod Jock & Pru",
+      "Meister, Todd",
+      "Menzies, Kate",
+      "Merison, Guy & Caroline",
+      "Merivale-Austen, Bruce",
+      "Mendoza, Neil"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022327"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 42 and the document number is DOJ-OGR-00022327."
+}

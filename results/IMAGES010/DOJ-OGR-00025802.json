@@ -1,0 +1,53 @@
+{
+  "document_metadata": {
+    "page_number": "1785",
+    "document_number": "DOJ-OGR-00025802",
+    "date": "2019/07/27",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Re: Suicide Watch/Psych Observation Update\nFrom: Shirley V. Skipper-Scott\nTo: [redacted]\nDate: 2019/07/27 09:41\nSubject: Re: Suicide Watch/Psych Observation Update\nAttachments: TEXT.htm\n\nGood morning,\nYou assessed inmate Epstein today?\n\nSent from my Verizon, Samsung Galaxy smartphone\n\n------- Original message -------\nFrom: [redacted] @bop.gov\nDate: 7/27/19 6:08 AM (GMT-05:00)\nTo: [redacted] @bop.gov\nSubject: Suicide Watch/Psych Observation Update\n\nPage 9517",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Re: Suicide Watch/Psych Observation Update\nFrom: Shirley V. Skipper-Scott\nTo: [redacted]\nDate: 2019/07/27 09:41\nSubject: Re: Suicide Watch/Psych Observation Update\nAttachments: TEXT.htm",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Good morning,\nYou assessed inmate Epstein today?\n\nSent from my Verizon, Samsung Galaxy smartphone",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "------- Original message -------\nFrom: [redacted] @bop.gov\nDate: 7/27/19 6:08 AM (GMT-05:00)\nTo: [redacted] @bop.gov\nSubject: Suicide Watch/Psych Observation Update",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 9517\nDOJ-OGR-00025802",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Shirley V. Skipper-Scott",
+      "Epstein"
+    ],
+    "organizations": [
+      "Verizon",
+      "Samsung",
+      "BOP"
+    ],
+    "locations": [],
+    "dates": [
+      "2019/07/27",
+      "7/27/19"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00025802"
+    ]
+  },
+  "additional_notes": "The document is an email with redacted recipient and sender information. The email discusses an assessment of inmate Epstein."
+}

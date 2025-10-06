@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": "78",
+    "document_number": "DOJ-OGR-00022363",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Glick, Howard Gold, Bob Goodman, Bob Gray, Vicki Grixnove, Svetlana Guggenheim, Eileen Harold Mollin Hashemi, Jalila Hedberg, Gregory & Margaret Heil, Paula Hunter, Joey Indyke, Darren K.",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Glick, Howard Gold, Bob Goodman, Bob Gray, Vicki Grixnove, Svetlana Guggenheim, Eileen Harold Mollin Hashemi, Jalila Hedberg, Gregory & Margaret Heil, Paula Hunter, Joey Indyke, Darren K.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "78",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022363",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Glick, Howard",
+      "Gold, Bob",
+      "Goodman, Bob",
+      "Gray, Vicki",
+      "Grixnove, Svetlana",
+      "Guggenheim, Eileen",
+      "Harold Mollin",
+      "Hashemi, Jalila",
+      "Hedberg, Gregory & Margaret",
+      "Heil, Paula",
+      "Hunter, Joey",
+      "Indyke, Darren K."
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022363"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 78, and the document number is DOJ-OGR-00022363."
+}

@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": "7",
+    "document_number": "DOJ-OGR-00023880",
+    "date": "July 22, 2019",
+    "document_type": "Statement of Applicant",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "STATEMENT OF APPLICANT\nI certify that I am authorized to act as the legal representative of [REDACTED].\nI request that I be allowed to interview and correspond with Jeffrey Epstein, Federal Register Number 76318-054, who is confined at the MDC/MCC.\nI am aware of my responsibility as a representative of the above-named attorney and certify that I am able to meet this responsibility. I am also aware of the Bureau of Prisons' Policy on Inmate Legal Activities and certify that I am able to and will adhere to the requirements of this policy. I pledge to abide by Bureau of Prisons regulations and institution guidelines.\nI hereby certify that all of the information contained in this questionnaire is true and correct to the best of my knowledge. Furthermore, I understand that all information contained in this questionnaire may be investigated and verified through the use of federal, state and local authorities.\nApplicant's printed name: [REDACTED]\nApplicant's signature: [REDACTED]\nDate Completed: July 22, 2019\nPrivate Investigators must submit a copy of their Private Investigators Certificate and Private Investigator's photo identification.\nPage 7 of 10\nRevised 2/01/08",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "STATEMENT OF APPLICANT",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "I certify that I am authorized to act as the legal representative of [REDACTED].\nI request that I be allowed to interview and correspond with Jeffrey Epstein, Federal Register Number 76318-054, who is confined at the MDC/MCC.\nI am aware of my responsibility as a representative of the above-named attorney and certify that I am able to meet this responsibility. I am also aware of the Bureau of Prisons' Policy on Inmate Legal Activities and certify that I am able to and will adhere to the requirements of this policy. I pledge to abide by Bureau of Prisons regulations and institution guidelines.\nI hereby certify that all of the information contained in this questionnaire is true and correct to the best of my knowledge. Furthermore, I understand that all information contained in this questionnaire may be investigated and verified through the use of federal, state and local authorities.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "New York\nJeffrey Epstein\n76318-054\nJuly 22, 2019",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Applicant's printed name: [REDACTED]\nApplicant's signature: [REDACTED]\nDate Completed: July 22, 2019",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Private Investigators must submit a copy of their Private Investigators Certificate and Private Investigator's photo identification.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 7 of 10\nRevised 2/01/08",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "New York",
+      "MDC/MCC"
+    ],
+    "dates": [
+      "July 22, 2019",
+      "2/01/08"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00023880"
+    ]
+  },
+  "additional_notes": "The document contains redactions in the applicant's name and signature fields. The document is a statement of applicant form, likely used for requesting access to interview and correspond with a prisoner."
+}

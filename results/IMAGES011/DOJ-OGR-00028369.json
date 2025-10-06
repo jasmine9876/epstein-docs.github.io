@@ -1,0 +1,68 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028369",
+    "date": "042814",
+    "document_type": "PQH API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 *B PQH API/HIT DATA 042814 *A *C NAME DOB ----- QUERY ----- LNE TERM/ DATE TIME AGN RSLT TYP REF LANE API EPSTEIN, JEFFREY 012053 031105 1718 CUS *D AIR R%06 N A511-CBP-CYRIL E KING, INTL TECS RECORD ID : CARRIER CODE : FLT/VES NUMBER : GAA (b) (7) (E) (b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) DOJ-OGR-00028369",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07 *B PQH API/HIT DATA 042814 *A *C",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB ----- QUERY ----- LNE TERM/ DATE TIME AGN RSLT TYP REF LANE API",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY 012053 031105 1718 CUS *D AIR R%06 N A511-CBP-CYRIL E KING, INTL",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "TECS RECORD ID : CARRIER CODE : FLT/VES NUMBER : GAA",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b) (7) (E) (b) (7) (E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028369",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "CBP"
+    ],
+    "locations": [
+      "CYRIL E KING"
+    ],
+    "dates": [
+      "031105",
+      "042814"
+    ],
+    "reference_numbers": [
+      "A511-CBP-CYRIL E KING, INTL",
+      "DOJ-OGR-00028369"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b) (7) (E)' and '(b) (6), (b) (7) (C)'. The document appears to be a data query result related to an individual, JEFFREY EPSTEIN, with various details such as date of birth, query date, and flight information."
+}

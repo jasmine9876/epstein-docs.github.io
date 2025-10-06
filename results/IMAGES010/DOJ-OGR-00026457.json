@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": "2801",
+    "document_number": "DOJ-OGR-00026457",
+    "date": "08/02/2019",
+    "document_type": "30 MINUTE CHECK SHEET",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "Page 2801 MCC NEW YORK MCC NEW YORK SPECIAL HOUSING UNIT SPECIAL HOUSING UNIT MCC NEW YORK SPECIAL HOUSING UNIT 30 MINUTE CHECK SHEET ZA TIER-J DATE: 08/02/2019 TIME FRAME TIME START TIME END SIGNATURE TIME FRAME TIME START TIME END SIGNATURE TIME FRAME TIME START TIME END SIGNATURE 12:00-12:30 AM 1202 1203 (b)(6); (b)(7)(C) 8:00-8:30 AM 803 804 (b)(6); (b)(7)(C) 4:00-4:30 PM 406 407 (b)(6); (b)(7)(C) 12:30- 1:00 AM 1235 1234 8:30- 9:00 AM 848 901 4:30-5:00 PM 434 435 1:00-1:30 AM 102 103 9:00-9:30 AM 911 912 5:00 -5:30 PM 714 715 1:30-2:00 AM 135 136 9:30-10:00 AM 940 941 5:30-6:00 PM 535 536 2:00-2:30 AM 203 203 10:00-10:30 AM 908 909 6:00-6:30 PM 608 609 2:30-3:00 AM 235 235 10:30-11:00 AM 940 941 6:30-7:00 PM 641 642 3:00-3:30 AM 302 302 11:00-11:30 AM 916 11:30-12:00 AM 940 940 12:00-12:30 PM 950 951 7:00-7:30 PM 712 713 3:30-4:00 AM 334 335 11:30-12:00 PM 920 12:30- 1:00 PM 950 105 7:30-8:00 PM 740 741 4:00-4:30 AM 403 404 1:00-1:30 PM 908 909 8:00-8:30 PM 815 816 4:30-5:00 AM 423 433 1:30-2:00 PM 939 940 8:30- 9:00 PM 835 836 5:00 -5:30 AM 503 504 2:00-2:30 PM 911 912 9:00-9:30 PM 914 915 5:30-6:00 AM 533 533 2:30-3:00 PM 938 939 9:30-10:00 PM 935 936 6:00-6:30 AM 603 604 3:00-3:30 PM 931 932 10:00-10:30 PM 1011 1012 6:30-7:00 AM 634 635 3:30-4:00 PM 10:30-11:00 PM 1012 1013 7:00-7:30 AM 704 705 11:00-11:30 PM 1106 1107 7:30-8:00 AM 733 734 11:30-12:00 PM 1134 1135 (b)(6); (b)(7)(C) (b)(6); (b)(7)(C) (b)(6); (b)(7)(C) MORNING WATCH OPERATIONS LIEUTENANT DAY WATCH OPERATIONS LIEUTENANT EVENING WATCH OPERATIONS LIEUTENANT A staff member must observe all inmates confined in a continuous locked down status, such as administrative detention or disciplinary segregation, at least once in the first 30 minute period of the hour (example, 12:00 a.m. - 12:30 a.m.) followed by another round in the second 30 minutes period of the same hour (example, 12:30 am - 1:00 a.m.), thus ensuring an inmate is observed at least twice per hour. These rounds are to be conducted on an irregular schedule and no more than 40 minutes apart. All observations must be documented. REVIEWED BY MORNING WATCH LIEUTENANT CAPTAIN (b)(6); (b)(7)(C) DOJ-OGR-00026457",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "MCC NEW YORK SPECIAL HOUSING UNIT 30 MINUTE CHECK SHEET ZA TIER-J DATE: 08/02/2019",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "TIME FRAME TIME START TIME END SIGNATURE TIME FRAME TIME START TIME END SIGNATURE TIME FRAME TIME START TIME END SIGNATURE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "1202 1203 (b)(6); (b)(7)(C) 803 804 (b)(6); (b)(7)(C) 406 407 (b)(6); (b)(7)(C)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "A staff member must observe all inmates confined in a continuous locked down status, such as administrative detention or disciplinary segregation, at least once in the first 30 minute period of the hour (example, 12:00 a.m. - 12:30 a.m.) followed by another round in the second 30 minutes period of the same hour (example, 12:30 am - 1:00 a.m.), thus ensuring an inmate is observed at least twice per hour. These rounds are to be conducted on an irregular schedule and no more than 40 minutes apart. All observations must be documented.",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "REVIEWED BY MORNING WATCH LIEUTENANT CAPTAIN",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "MORNING WATCH LIEUTENANT",
+      "DAY WATCH OPERATIONS LIEUTENANT",
+      "EVENING WATCH OPERATIONS LIEUTENANT",
+      "CAPTAIN"
+    ],
+    "organizations": [
+      "MCC NEW YORK",
+      "SPECIAL HOUSING UNIT",
+      "DOJ"
+    ],
+    "locations": [
+      "NEW YORK"
+    ],
+    "dates": [
+      "08/02/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026457"
+    ]
+  },
+  "additional_notes": "The document contains handwritten entries in a table format, with some information redacted using (b)(6); (b)(7)(C). The document is a 30-minute check sheet for inmates in administrative detention or disciplinary segregation."
+}

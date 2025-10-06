@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "407",
+    "document_number": "DOJ-OGR-00024902",
+    "date": "7/28/2019",
+    "document_type": "Inmate Status Update",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 407\n> [b(6); (b)(7)(C)] 7/28/2019 7:36 AM >>>\nInmate [b(6); (b)(7)(C)] is being taken off of Psych Observation.\n\nSuicide Watch\nNone\n\nPsych Observation\n1. Epstein #76318-054\n\nPending Bedspace for SHU\n[b(6); (b)(7)(C)]\n\nThank you,\n[b(6); (b)(7)(C)]\n\nPage 1130\nDOJ-OGR-00024902",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 407",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "> [b(6); (b)(7)(C)] 7/28/2019 7:36 AM >>>\nInmate [b(6); (b)(7)(C)] is being taken off of Psych Observation.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Suicide Watch\nNone",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Psych Observation\n1. Epstein #76318-054",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Pending Bedspace for SHU\n[b(6); (b)(7)(C)]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Thank you,\n[b(6); (b)(7)(C)]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 1130\nDOJ-OGR-00024902",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "7/28/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024902"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as [b(6); (b)(7)(C)]. The document appears to be a status update regarding an inmate's psychological observation status."
+}

@@ -1,0 +1,59 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "DOJ-OGR-00024167",
+    "date": "07/26/2019",
+    "document_type": "Dental Health History Screen",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Bureau of Prisons Health Services Dental Health History Screen Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Encounter Date: 07/26/2019 07:54 Sex: M Race: WHITE Reg #: 76318-054 Provider: [REDACTED] DDS Facility: NYM Unit: H01 ASSESSMENTS: Health Problems as of Dental Health History Encounter date: 07/26/2019 07:54 Health Problems Status Hyperlipidemia, unspecified Current HYPERTRIGLYCERIDEMIA Current Sleep apnea Current Constipation, unspecified Current Low back pain Current Neuralgia and neuritis, unspecified Current No Diagnosis Current [REDACTED] Medical History as of Dental Health History Encounter date: 07/26/2019 07:54 Medical History: Allergies: Denied Seizures: Denied Diabetes: Denied Cardiovascular: Denied CVA: Denied Hypertension: Denied Respiratory: Denied Sickle Cell Anemia: Denied Carcinoma/Lymphoma: Denied HIV History: When Tested: 2019 Test Result: Negative When Diagnosed AIDS: Last CD4: Comments: Hepatitis: Denied Generated 07/26/2019 07:59 by [REDACTED] DDS Bureau of Prisons - NYM Page 1 of 3 DOJ-OGR-00024167",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Bureau of Prisons Health Services Dental Health History Screen",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Encounter Date: 07/26/2019 07:54 Sex: M Race: WHITE Reg #: 76318-054 Provider: [REDACTED] DDS Facility: NYM Unit: H01",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "ASSESSMENTS: Health Problems as of Dental Health History Encounter date: 07/26/2019 07:54 Health Problems Status Hyperlipidemia, unspecified Current HYPERTRIGLYCERIDEMIA Current Sleep apnea Current Constipation, unspecified Current Low back pain Current Neuralgia and neuritis, unspecified Current No Diagnosis Current [REDACTED]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Medical History as of Dental Health History Encounter date: 07/26/2019 07:54 Medical History: Allergies: Denied Seizures: Denied Diabetes: Denied Cardiovascular: Denied CVA: Denied Hypertension: Denied Respiratory: Denied Sickle Cell Anemia: Denied Carcinoma/Lymphoma: Denied HIV History: When Tested: 2019 Test Result: Negative When Diagnosed AIDS: Last CD4: Comments: Hepatitis: Denied",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/26/2019 07:59 by [REDACTED] DDS Bureau of Prisons - NYM Page 1 of 3 DOJ-OGR-00024167",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/26/2019",
+      "2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024167"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as [REDACTED]. The document is a Dental Health History Screen from the Bureau of Prisons."
+}

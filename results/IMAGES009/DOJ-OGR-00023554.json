@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": "753",
+    "document_number": "DOJ-OGR-00023554",
+    "date": null,
+    "document_type": "letter",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Enclosed please find official notification from Warden N'Diaye regarding Mr. Epstein's passing. As the investigation is ongoing, we have no further details at this time. We will continue to keep you updated as more information is available.\n\nThank you,\n[b(6), (b)(7)(C) redacted]\nSupervisory Staff Attorney\nCLC New York\nMetropolitan Correctional Center\n150 Park Row\nNew York, New York 10007\np: (646)836-[redacted]\nf: (646)836-7665\n\nPage 753\nDOJ-OGR-00023554",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Enclosed please find official notification from Warden N'Diaye regarding Mr. Epstein's passing. As the investigation is ongoing, we have no further details at this time. We will continue to keep you updated as more information is available.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Thank you,",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "[redacted]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Supervisory Staff Attorney\nCLC New York\nMetropolitan Correctional Center\n150 Park Row\nNew York, New York 10007\np: (646)836-[redacted]\nf: (646)836-7665",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 753\nDOJ-OGR-00023554",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Warden N'Diaye",
+      "Mr. Epstein"
+    ],
+    "organizations": [
+      "CLC New York",
+      "Metropolitan Correctional Center",
+      "DOJ"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00023554",
+      "(646)836-7665"
+    ]
+  },
+  "additional_notes": "The document contains redactions in the name and phone number fields."
+}

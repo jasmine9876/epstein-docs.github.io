@@ -1,0 +1,53 @@
+{
+  "document_metadata": {
+    "page_number": "972",
+    "document_number": "DOJ-OGR-00025216",
+    "date": null,
+    "document_type": "Mail Attachment",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 972\nMail Attachment\nPsych Reconst - Epstein #76318-054.pdf\nPage 2197\nDOJ-OGR-00025216",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 972",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Mail Attachment",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Psych Reconst - Epstein #76318-054.pdf",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Page 2197",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025216",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00025216"
+    ]
+  },
+  "additional_notes": "The document appears to be a page from a larger report or document set, indicating a mail attachment related to a psychological reconstruction of Epstein. The page is mostly blank, with text at the top and bottom."
+}

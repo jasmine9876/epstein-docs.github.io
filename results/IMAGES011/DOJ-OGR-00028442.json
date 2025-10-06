@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028442",
+    "date": "120712",
+    "document_type": "API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 *B PQH API/HIT DATA 042814 *A *C NAME EPSTEIN, JEFFREY E AB52-INS-JFK AIRPORT DOB 012053 QUERY DATE TIME AGN RSLT 120712 0000 *D LNE TYP REF API TERM/ LANE API 01 R API DATA ---- INDICATOR : R CARRIER CODE : AF FLT/VES NUMBER : 6 ARRIVAL LOCATION : JFK DEPARTURE LOCATION : CDG TRANSMITTED BY : ALTEA+CM INBOUND/OUTBOUND : INBOUND REPORTED AIR FRANCE JOHN F KENNEDY INTL PARIS, CH. DE GAULLE AMADEUS DCS ALTEA CM (b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) DOJ-OGR-00028442",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07 *B PQH API/HIT DATA 042814 *A *C",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME EPSTEIN, JEFFREY E AB52-INS-JFK AIRPORT DOB 012053 QUERY DATE TIME AGN RSLT 120712 0000 *D LNE TYP REF API TERM/ LANE API 01 R",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "API DATA ---- INDICATOR : R CARRIER CODE : AF FLT/VES NUMBER : 6 ARRIVAL LOCATION : JFK DEPARTURE LOCATION : CDG TRANSMITTED BY : ALTEA+CM INBOUND/OUTBOUND : INBOUND REPORTED AIR FRANCE JOHN F KENNEDY INTL PARIS, CH. DE GAULLE AMADEUS DCS ALTEA CM",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028442",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY E EPSTEIN"
+    ],
+    "organizations": [
+      "AIR FRANCE",
+      "AMADEUS DCS ALTEA CM",
+      "ALTEA+CM"
+    ],
+    "locations": [
+      "JFK",
+      "JOHN F KENNEDY INTL",
+      "CDG",
+      "PARIS, CH. DE GAULLE"
+    ],
+    "dates": [
+      "120712",
+      "012053"
+    ],
+    "reference_numbers": [
+      "AB52-INS-JFK AIRPORT",
+      "DOJ-OGR-00028442"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b) (6)', '(b) (7) (C)', and '(b) (7) (E)'."
+}

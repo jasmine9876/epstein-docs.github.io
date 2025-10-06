@@ -1,0 +1,109 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00027343",
+    "date": null,
+    "document_type": "Medical Review Form",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "DNR order ___Yes Date ___No ___Yes Date ___No Advance Directive / Living Will REVIEW OF EMERGENCY MEDICAL CARE: Was death related to a medical emergency ___Yes ___No Response to medical emergency notification timely ___Yes ___No ___NA Physician ___Yes ___No ___NA Physician Assistant ___Yes ___No ___NA Nurse Practitioner ___Yes ___No ___NA Nurse(s) ___Yes ___No ___NA Emergency Medical Techs ___Yes ___No ___NA Others ___Yes CPR ___Yes ___No ___NA ACLS List protocol (s) used (if appropriate) By EMS. ___Yes ___No ___NA Problems encountered during medical emergency, e.g., equipment, communications, transportation. Describe briefly: ___Yes ___No ___NA Providers responding maintain current certification / credentials in BCLS, ACLS (if required) ___Yes ___No ___NA SUMMARY REVIEW: [redacted] [redacted] PDF Prescribed by P6013 DOJ-OGR-00027343",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DNR order",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Advance Directive / Living Will",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "REVIEW OF EMERGENCY MEDICAL CARE:",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Was death related to a medical emergency",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Response to medical emergency notification timely",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Physician",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Physician Assistant",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Nurse Practitioner",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Nurse(s)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Emergency Medical Techs",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Others",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CPR",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "ACLS List protocol (s) used (if appropriate) By EMS.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Problems encountered during medical emergency, e.g., equipment, communications, transportation. Describe briefly:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Providers responding maintain current certification / credentials in BCLS, ACLS (if required)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SUMMARY REVIEW:",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00027343",
+      "P6013"
+    ]
+  },
+  "additional_notes": "The form appears to be a review of emergency medical care, with various sections for assessing the response to a medical emergency. Some sections have been checked 'Yes' or 'No', while others have been left blank. The 'SUMMARY REVIEW' section has been redacted."
+}

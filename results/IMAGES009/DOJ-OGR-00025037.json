@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "584",
+    "document_number": "DOJ-OGR-00025037",
+    "date": "5/19/2020",
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 584 Log Date/Time User Action Alias Post Shift date Watch Assignment Type Mndtry 07/22/19 11:01 n/a OT By-passed (b)(6); (b)(7)(C) 10 SOUTH #1 07/25/19 D/W Signup List 07/22/19 10:53 EXHAUST OT Assigned (b)(6); (b)(7)(C) 7 NORTH 07/22/19 E/W List Exempt 07/22/19 10:51 agreed OT Assigned 5 SOUTH List Selected: [All] 07/27/19 M/W Signup List 07/22/19 10:51 n/a OT By-passed (b)(6); (b)(7)(C) 5 SOUTH List Selected: [All] 07/27/19 M/W Signup List 07/22/19 10:51 n/a OT By-passed (b)(6); (b)(7)(C) 5 SOUTH List Selected: [All] 07/27/19 M/W Signup List ... 5/19/2020 10:35:51 AM DOJ-OGR-00025037",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 584 Log Date/Time User Action Alias Post Shift date Watch Assignment Type Mndtry",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "07/22/19 11:01 n/a OT By-passed (b)(6); (b)(7)(C) 10 SOUTH #1 07/25/19 D/W Signup List",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "5/19/2020 10:35:51 AM",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025037",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [
+      "10 SOUTH #1",
+      "7 NORTH",
+      "5 SOUTH",
+      "SIS LT",
+      "LOBBY #2",
+      "SHU #4",
+      "ATTY CONF"
+    ],
+    "dates": [
+      "07/22/19",
+      "07/25/19",
+      "07/27/19",
+      "07/22/19",
+      "07/19/19",
+      "07/23/19",
+      "07/16/2019",
+      "07/19/19",
+      "07/19/19",
+      "07/22/19",
+      "07/22/19",
+      "07/24/19",
+      "5/19/2020"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00025037"
+    ]
+  },
+  "additional_notes": "The document appears to be a log of OT assignments and actions taken on various dates. The majority of the text is printed, with some redacted information marked as (b)(6); (b)(7)(C). The document has a clear header and footer with page numbers and a document ID."
+}

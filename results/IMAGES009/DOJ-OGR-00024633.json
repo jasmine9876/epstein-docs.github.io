@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": "006",
+    "document_number": "NYMBH 530*07",
+    "date": "08-01-2019",
+    "document_type": "Roster",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "NYMBH 530*07 * PAGE 006 ROSTER * 08-01-2019 02:14:15 Z04A Z04-206LAD 76318-C54 EPSTEIN JEFFREY 07-08-2019 A-PRE DOJ-OGR-00024633",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "NYMBH 530*07 * PAGE 006",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "ROSTER",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "* 08-01-2019 02:14:15",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Z04A Z04-206LAD 76318-C54 EPSTEIN JEFFREY 07-08-2019 A-PRE",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024633",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "08-01-2019",
+      "07-08-2019"
+    ],
+    "reference_numbers": [
+      "NYMBH 530*07",
+      "Z04-206LAD",
+      "76318-C54",
+      "DOJ-OGR-00024633"
+    ]
+  },
+  "additional_notes": "The majority of the document content is redacted and appears as a large green block. The visible text is limited to header, footer, and a single line of data."
+}

@@ -1,0 +1,90 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "DOJ-OGR-00027421",
+    "date": "9/4/2020",
+    "document_type": "Managed Query",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Managed Query Page 2 of 3 (b)(6)&(b)(7)(C) (b)(6)&(b)(7)(C) (b)(7)(E) (b)(7)(E) *GA N909JE (FLL · XXX) 12/03/2013 10:00 12/03/2013 13:00 Passenger *GA N909JE (XXX · OPF) 10/28/2014 11:30 10/28/2014 15:00 Passenger *GA N909JE (XXX · FLL) 02/06/2014 13:00 02/02/2014 16:00 Passenger *GA N909JE (OPF · XXX) 11/22/2014 10:00 11/22/2014 13:00 Passenger *GA N909JE (XXX · OPF) 07/27/2014 11:00 07/27/2014 14:00 Passenger *GA N909JE (XXX · OPF) 11/14/2014 18:00 11/14/2014 21:30 Passenger *GA N909JE (OPF · XXX) 07/25/2014 09:00 07/25/2014 12:00 Passenger *GA N909JE (OPF · XXX) 07/21/2014 11:00 07/21/2014 14:00 Passenger *GA N909JE (XXX · OPF) 07/10/2014 08:00 07/10/2014 11:00 Passenger *GA N909JE (XXX · OPF) 08/19/2014 13:30 08/19/2014 16:30 Passenger *GA N909JE (XXX · OPF) 08/19/2014 13:30 08/19/2014 16:30 Passenger *GA N909JE (XXX · OPF) 08/19/2014 14:00 08/19/2014 17:00 Passenger *GA N909JE (XXX · FLL) 02/07/2014 10:00 02/07/2014 13:00 Passenger *GA N909JE (XXX · FLL) 02/07/2014 09:30 02/08/2014 12:00 Passenger *GA N909JE (XXX · ARB) 08/12/2010 16:15 08/13/2010 22:00 Passenger *GA N909JE (IST · XXX) 08/12/2010 09:35 08/13/2010 20:00 Passenger *GA N909JE (XXX · ARB) 08/12/2010 16:15 08/13/2010 22:00 Passenger *GA N909JE (IST · XXX) 08/12/2010 09:35 08/13/2010 20:00 Passenger *GA N909JE (XXX · OPF) 08/19/2014 13:30 08/19/2014 16:30 Passenger *GA N909JE (XXX · OPF) 08/19/2014 14:00 08/19/2014 17:00 Passenger *GA N909JE (XXX · OPF) 08/19/2014 13:30 08/19/2014 16:30 Passenger *GA N909JE (XXX · OPF) 08/19/2014 14:00 08/19/2014 17:00 Passenger *GA N909JE (XXX · IST) 10/28/2012 07:30 10/28/2012 04:02 Passenger *GA N909JE (XXX · IST) 05/03/2012 10:00 05/03/2012 18:29 Passenger *GA N909JE (XXX · IST) 01/18/2012 10:10 01/18/2012 06:40 Passenger *GA N909JE (IST · XXX) 12/11/2011 08:00 12/11/2011 17:32 Passenger *GA N909JE (XXX · IST) 06/26/2011 01:15 06/26/2011 11:53 Passenger *GA N909JE (XXX · IST) 05/22/2011 05:00 05/22/2011 15:53 Passenger *GA N909JE (IST · XXX) 04/30/2011 08:00 04/30/2011 18:37 Passenger *GA N909JE (IST · XXX) 02/20/2011 10:20 02/20/2011 20:27 Passenger *GA N909JE (IST · XXX) 01/17/2011 03:00 01/17/2011 11:32 Passenger *GA N909JE (XXX · IST) 01/14/2011 13:00 01/14/2011 22:45 Passenger *GA N909JE (IST · XXX) 12/30/2010 08:30 12/30/2010 18:25 Passenger *GA N909JE (IST · XXX) 10/28/2010 21:45 10/29/2010 08:30 Passenger *GA N909JE (XXX · TEB) 08/18/2010 08:13 08/18/2010 09:13 Passenger 9/4/2020 DOJ-OGR-00027421",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Managed Query",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Page 2 of 3",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6)&(b)(7)(C) (b)(6)&(b)(7)(C) (b)(7)(E) (b)(7)(E)",
+      "position": "table header"
+    },
+    {
+      "type": "printed",
+      "content": "*GA N909JE (FLL · XXX) 12/03/2013 10:00 12/03/2013 13:00 Passenger",
+      "position": "table row"
+    },
+    {
+      "type": "printed",
+      "content": "*GA N909JE (XXX · OPF) 10/28/2014 11:30 10/28/2014 15:00 Passenger",
+      "position": "table row"
+    },
+    {
+      "type": "printed",
+      "content": "9/4/2020 DOJ-OGR-00027421",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "GA"
+    ],
+    "locations": [
+      "FLL",
+      "XXX",
+      "OPF",
+      "ARB",
+      "IST",
+      "TEB"
+    ],
+    "dates": [
+      "12/03/2013",
+      "10/28/2014",
+      "02/06/2014",
+      "11/22/2014",
+      "07/27/2014",
+      "11/14/2014",
+      "07/25/2014",
+      "07/21/2014",
+      "07/10/2014",
+      "08/19/2014",
+      "02/07/2014",
+      "08/12/2010",
+      "10/28/2012",
+      "05/03/2012",
+      "01/18/2012",
+      "12/11/2011",
+      "06/26/2011",
+      "05/22/2011",
+      "04/30/2011",
+      "02/20/2011",
+      "01/17/2011",
+      "01/14/2011",
+      "12/30/2010",
+      "10/28/2010",
+      "08/18/2010",
+      "9/4/2020"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00027421",
+      "N909JE"
+    ]
+  },
+  "additional_notes": "The document appears to be a table of managed queries with redacted information. The table contains information about flights, including dates, times, and passenger information. The document has been redacted to remove sensitive information."
+}

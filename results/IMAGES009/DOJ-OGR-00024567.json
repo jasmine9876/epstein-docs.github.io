@@ -1,0 +1,68 @@
+{
+  "document_metadata": {
+    "page_number": "551",
+    "document_number": "DOJ-OGR-00024567",
+    "date": "08/19/2019",
+    "document_type": "Log Entries By Event Date",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Date: 08/19/2019 Time: 10:15 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count 7/23/2019 1:05 PM NYM Housing Units Housing Units, General Population BA 7/23/2019 8:15 AM Day (bkm) (bkm)(C) Inventory Sheet Verified 7/23/2019 1:05 PM NYM Housing Units Housing Units, General Population BA 7/23/2019 8:15 AM Day Key Check 7/23/2019 1:05 PM NYM Housing Units Housing Units, General Population BA 7/23/2019 8:15 AM Day Key Check 7/23/2019 1:05 PM NYM Housing Units Housing Units, General Population BA 7/23/2019 8:15 AM Day OC Spray Check 7/23/2019 1:05 PM NYM Housing Units Housing Units, General Population BA 7/23/2019 8:15 AM Day Radio Check 7/23/2019 1:06 PM NYM Housing Units Housing Units, General Population BA 7/23/2019 8:30 AM Day Census (AM) 7/23/2019 9:09 AM NYM Housing Units Housing Units, General Population KN 7/23/2019 9:07 AM Day Begin Shift 7/23/2019 9:17 AM NYM Housing Units Housing Units, General Population KN 7/23/2019 9:16 AM Day Rounds (Officer) 7/23/2019 9:39 AM NYM Housing Units Housing Units, General Population GS 7/23/2019 9:21 AM Day Fire and Security Check 7/23/2019 9:28 AM NYM Housing Units Housing Units, General Population KN 7/23/2019 9:23 AM Day Fire and Security Check User ID: (bkm) (bkm)(C) Page 551 of 1155 DOJ-OGR-00024567",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date: 08/19/2019 Time: 10:15 AM",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "7/23/2019 1:05 PM NYM Housing Units Housing Units, General Population BA 7/23/2019 8:15 AM Day (bkm) (bkm)(C) Inventory Sheet Verified",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "User ID: (bkm) (bkm)(C)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 551 of 1155",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024567",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM",
+      "BA",
+      "KN",
+      "GS"
+    ],
+    "dates": [
+      "08/19/2019",
+      "7/23/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00024567"
+    ]
+  },
+  "additional_notes": "The document appears to be a log entry report from the Federal Bureau of Prisons, detailing various events and checks performed on July 23, 2019. The report includes information on the date, time, location, and personnel involved in each event. The document is marked as 'Sensitive But Unclassified'."
+}

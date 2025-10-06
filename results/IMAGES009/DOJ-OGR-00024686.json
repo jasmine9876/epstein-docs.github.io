@@ -1,0 +1,41 @@
+{
+  "document_metadata": {
+    "page_number": "43",
+    "document_number": "DOJ-OGR-00024686",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 43\n\nb(6); (b)(7)(C)\nSenior Editor, writer\nThe Daily Beast\nM: 267-257(b)(6);\n(b)(7)(C)\nFacebook, Twitter, Instagram: (b)(6); (b)(7)(C)\n\nDOJ-OGR-00024686",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 43",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "b(6); (b)(7)(C)\nSenior Editor, writer\nThe Daily Beast\nM: 267-257(b)(6);\n(b)(7)(C)\nFacebook, Twitter, Instagram: (b)(6); (b)(7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024686",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "The Daily Beast"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "267-257",
+      "DOJ-OGR-00024686"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as 'b(6); (b)(7)(C)'. The content appears to be a contact information section for a Senior Editor and writer at The Daily Beast."
+}

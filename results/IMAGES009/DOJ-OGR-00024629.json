@@ -1,0 +1,46 @@
+{
+  "document_metadata": {
+    "page_number": "006",
+    "document_number": "NYMDK 530*07",
+    "date": "07-30-2019",
+    "document_type": "ROSTER",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "NYMDK 530*07 * ROSTER * 07-30-2019 PAGE 006 01:04:27 (b)(6) (b)(7)(C) H01A H01-001L 7631B-054 EPSTEIN JEFFREY 07-08-2019 A-PRE (b)(6) (b)(7)(C) DOJ-OGR-00024629",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "NYMDK 530*07 * ROSTER * 07-30-2019 PAGE 006 01:04:27",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6) (b)(7)(C) H01A H01-001L 7631B-054 EPSTEIN JEFFREY 07-08-2019 A-PRE (b)(6) (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024629",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "07-30-2019",
+      "07-08-2019"
+    ],
+    "reference_numbers": [
+      "NYMDK 530*07",
+      "H01-001L",
+      "7631B-054",
+      "DOJ-OGR-00024629"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as '(b)(6) (b)(7)(C)'. The main content is a roster entry for JEFFREY EPSTEIN."
+}

@@ -1,0 +1,47 @@
+{
+  "document_metadata": {
+    "page_number": "4600",
+    "document_number": "DOJ-OGR-00023895",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "(b)(5), (b)(6), (b)(7)(A), (b)(7)(C), (b)(7)(E), (b)(7)(F) Jeffrey Epstein is currently housed at MCC New York and not in a local hospital as has been reported. As with all inmates, for privacy and security reasons, we do not share information on an inmate's medical status or their conditions of confinement. Page 4600 DOJ-OGR-00023895",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "(b)(5), (b)(6), (b)(7)(A), (b)(7)(C), (b)(7)(E), (b)(7)(F)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Jeffrey Epstein is currently housed at MCC New York and not in a local hospital as has been reported. As with all inmates, for privacy and security reasons, we do not share information on an inmate's medical status or their conditions of confinement.",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page 4600",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00023895",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein"
+    ],
+    "organizations": [],
+    "locations": [
+      "MCC New York"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00023895"
+    ]
+  },
+  "additional_notes": "The document contains redactions and a reference number."
+}

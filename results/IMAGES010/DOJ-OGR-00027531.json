@@ -1,0 +1,75 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "37 SSR SSR DOCSECHK1 ///US/20JAN53/M//EPSTEIN/JEFFREY/EPSTEIN/JEFFREY MR(ADT\n38 SSR SSR DOCSECHK1 ///(b) (6) ADT\n39 SSR SSR RQST EC HN1 ORYEWR/02A/EC 001 D 31JAN ORYEWR/EPSTEIN/JEFFREY MR(ADT\n40 SSR SSR RQST EC HN1 ORYEWR/02C/EC 001 D 31JAN ORYEWR/(b) (6) ADT\n41 SSR SSR RQST EC KK1 ORYEWR/02AN/EC 001 D 31JAN ORYEWR/EPSTEIN/JEFFREY MR(ADT\n42 SSR SSR RQST EC KK1 ORYEWR/02CN/EC 001 D 31JAN ORYEWR/(b) (6) ADT\n43 SSR SSR RQST EC KK1 ORYEWR/02AN/EC 001 D 31JAN ORYEWR/EPSTEIN/JEFFREY MR(ADT\n44 SSR SSR RQST EC KK1 ORYEWR/02CN/EC 001 D 31JAN ORYEWR/(b) (6) ADT\n45 SSR SSR RQST EC HN2 ORYEWR/01D/01F/EC 003 D 29JAN ORYEWR/EPSTEIN/JEFFREY MR(ADT\n(b) (6) ADT\n46 SSR SSR RQST EC HN2 ORYEWR/01D/01F/EC 003 D 29JAN ORYEWR/EPSTEIN/JEFFREY MR(ADT\n(b) (6) ADT\n47 SSR SSR RQST EC KK2 ORYEWR/01DN/01FN/EC 003 D 29JAN ORYEWR\n48 SSR SSR DOCSECHK1 P/USA/469911707/USA/20JAN53/M/26MAY20/EPSTEIN/JEFFREY EDWARD//EPSTEIN/JEFFREY MR(ADT\n49 SSR SSR DOCSECHK1 P/USA/469911707/USA/20JAN53/M/26MAY20/EPSTEIN/JEFFREY EDWARD//EC 003 D 29JAN ORYEWR/EPSTEIN/JEFFREY MR(ADT\n50 SSR SSR DOCSECHK1 P(b) (6) ADT\n51 SSR SSR DOCSECHK1 P(b) (6) ADT\n---HISTORY---\nRP/PAREC08AA/PAREC08AA JM/GS 29JAN11/1217Z 62FMU4\n000 O/NM EPSTEIN/JEFFREY MR(ADT (b) (6)\n000 O/SS EC 001 D 31JAN 1 ORYEWR LK2 1045 1310/NN 1A/E /EC/FR/C/I/CAB J//0////\n000 Z/ AMADEUS INTERNET BOOKING CR-PAREC08AA 20999996 SU 0001AA/DS-9CBCD1AF 27JAN1145Z\n000/001 C/5 AP AMADEUS-H\n000/001 C/27 TKXL 27JAN/1455/PAREC08AA\n001 A/5 A(b) (6)\n001 A/5 A",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "37 SSR SSR DOCSECHK1 ///US/20JAN53/M//EPSTEIN/JEFFREY/EPSTEIN/JEFFREY MR(ADT",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "38 SSR SSR DOCSECHK1 ///(b) (6) ADT",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "---HISTORY---",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "RP/PAREC08AA/PAREC08AA JM/GS 29JAN11/1217Z 62FMU4",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "000 O/NM EPSTEIN/JEFFREY MR(ADT (b) (6)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "001 A/5 A(b) (6)",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN",
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "AMADEUS INTERNET BOOKING",
+      "AMADEUS-H",
+      "62FMU4"
+    ],
+    "locations": [
+      "USA"
+    ],
+    "dates": [
+      "20JAN53",
+      "26MAY20",
+      "29JAN11",
+      "31JAN",
+      "27JAN",
+      "29JAN"
+    ],
+    "reference_numbers": [
+      "469911707",
+      "20JAN53",
+      "20999996",
+      "0001AA",
+      "DS-9CBCD1AF",
+      "PAREC08AA",
+      "DOJ-OGR-00027531"
+    ]
+  },
+  "additional_notes": "The document contains multiple redacted sections marked as '(b) (6)'. The content appears to be related to travel records or bookings, mentioning 'JEFFREY EPSTEIN' and 'JEFFREY EDWARD EPSTEIN'. The document includes a history section with various codes and timestamps."
+}

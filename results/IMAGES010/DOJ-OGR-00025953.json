@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "2113",
+    "document_number": "DOJ-OGR-00025953",
+    "date": "7-26-19",
+    "document_type": "Inmate activity log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "EPSTEIN # 76318-054\n7:39 am Inmate Epstein Recived breakfast\n(b)(6); (b)(7)(C) 7-26-19\n7:41 am Inmate went to medical (dentist)\n7:43 am Inmate still in dentist\nEnd of shift\n7:53 am I/M Epstein is in the shower\n(b)(6); (b)(7)(C) Assumes\nResponsibility for Epstein 76318-054 in\nCECC#4 on Psych observations on 7-25-19\n8:00 am I/M Epstein is still currently in the shower\n(b)(6); (b)(7)(C)\n8:15 am I/M Epstein is drying off from his shower\n(b)(6); (b)(7)(C)\n8:31 am Psych visit to (b)(6); (b)(7)(C) by (b)(6); (b)(7)(C)\n9:00 am I/M Epstein's sitting on bed waiting on a legal visit\n(b)(6); (b)(7)(C)\n9:15 am I/M Epstein is brushing his teeth\n9:30 am I/M Epstein is sitting on bed\n9:45 am I/M Epstein is leaving for legal visit\n(b)(6); (b)(7)(C)\n(EW) OIC Shift\n(b)(6); (b)(7)(C) Assumes Responsibility\nBEGAN SHIFT FOR PSYCH-OBS OF I/M EPSTEIN #76318-054\nON 7/26/19 IN CELL # (b)(6); (b)(7)(C)",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "EPSTEIN # 76318-054",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "7:39 am Inmate Epstein Recived breakfast\n(b)(6); (b)(7)(C) 7-26-19\n7:41 am Inmate went to medical (dentist)\n7:43 am Inmate still in dentist\nEnd of shift",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7:53 am I/M Epstein is in the shower\n(b)(6); (b)(7)(C) Assumes\nResponsibility for Epstein 76318-054 in\nCECC#4 on Psych observations on 7-25-19",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8:00 am I/M Epstein is still currently in the shower\n(b)(6); (b)(7)(C)\n8:15 am I/M Epstein is drying off from his shower\n(b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8:31 am Psych visit to (b)(6); (b)(7)(C) by (b)(6); (b)(7)(C)\n9:00 am I/M Epstein's sitting on bed waiting on a legal visit\n(b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "9:15 am I/M Epstein is brushing his teeth\n9:30 am I/M Epstein is sitting on bed\n9:45 am I/M Epstein is leaving for legal visit\n(b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(EW) OIC Shift\n(b)(6); (b)(7)(C) Assumes Responsibility\nBEGAN SHIFT FOR PSYCH-OBS OF I/M EPSTEIN #76318-054\nON 7/26/19 IN CELL # (b)(6); (b)(7)(C)",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7-25-19",
+      "7-26-19"
+    ],
+    "reference_numbers": [
+      "76318-054"
+    ]
+  },
+  "additional_notes": "The document appears to be a handwritten log of inmate Epstein's activities. There are several redactions throughout the document, marked as '(b)(6); (b)(7)(C)'."
+}

@@ -1,0 +1,97 @@
+{
+  "document_metadata": {
+    "page_number": "98",
+    "document_number": "DOJ-OGR-00022371",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Wallaert, Alexia Wang, (Becker) Vera Wasche, Cristalle Wexner - Abigail Plantation Wexner - Flight Dent Wexner, Les Wexner, Les Wexner, Les White House Whitehead, Jim Wolman, Herb",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Wallaert, Alexia",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Wang, (Becker) Vera",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Wasche, Cristalle",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Wexner - Abigail Plantation",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Wexner - Flight Dent",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Wexner, Les",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Wexner, Les",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Wexner, Les",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "White House",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Whitehead, Jim",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Wolman, Herb",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022371",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Alexia Wallaert",
+      "Vera Wang",
+      "Cristalle Wasche",
+      "Les Wexner",
+      "Jim Whitehead",
+      "Herb Wolman"
+    ],
+    "organizations": [
+      "White House"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022371"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 98."
+}

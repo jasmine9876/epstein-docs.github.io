@@ -1,0 +1,46 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "16",
+    "date": "12/16/19",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:19-cr-00830-AT Document 16 Filed 12/16/19 Page 4 of 5 to specifically describe in a public filing, the defendant making the filing must either (i) file the discovery material under seal, or (ii) provide reasonable notice to the Government to permit the parties to confer on the proper treatment of the discovery material. If the parties are unable to reach agreement as to whether redactions to the public filings are warranted, or to the extent of such redactions, the parties will seek Court resolution before the document is publicly filed or specifically described in a public filing. DOJ-OGR-00021975",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:19-cr-00830-AT Document 16 Filed 12/16/19 Page 4 of 5",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "to specifically describe in a public filing, the defendant making the filing must either (i) file the discovery material under seal, or (ii) provide reasonable notice to the Government to permit the parties to confer on the proper treatment of the discovery material. If the parties are unable to reach agreement as to whether redactions to the public filings are warranted, or to the extent of such redactions, the parties will seek Court resolution before the document is publicly filed or specifically described in a public filing.",
+      "position": "main body"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00021975",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Government",
+      "Court",
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "12/16/19"
+    ],
+    "reference_numbers": [
+      "1:19-cr-00830-AT",
+      "16",
+      "DOJ-OGR-00021975"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing related to a criminal case. The text is typed, and there are no visible redactions or handwritten notes. The document is labeled as 'Page 4 of 5', indicating it is part of a multi-page document."
+}

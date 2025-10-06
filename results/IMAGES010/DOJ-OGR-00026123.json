@@ -1,0 +1,73 @@
+{
+  "document_metadata": {
+    "page_number": "2447",
+    "document_number": "DOJ-OGR-00026123",
+    "date": "07/12/2019",
+    "document_type": "Clinical Encounter",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2447\n\nBureau of Prisons\nHealth Services\nClinical Encounter\n\nInmate Name: EPSTEIN, JEFFREY EDWARD\nDate of Birth: 01/20/1953\nEncounter Date: 07/12/2019 13:10\nSex: M\nRace: WHITE\nReg #: 76318-054\nProvider: [redacted] MD\nFacility: NYM\nUnit: Z05\n\nChronic Care - 14 Day Physician Eval encounter performed at Health Services.\n\nSUBJECTIVE:\n\nCOMPLAINT 1 Provider: [redacted] MD\nChief Complaint: ENDO/LIPID\nSubjective: 66 YR OLD WHITE MALE WITH HX OF HYPERTRIGLYCERIDEMIA X 5 YEARS ON VASCEPA FOR 1 YEAR. STATES TRIGL WAS 800, NOW 434. STATES HE COULD NOT TOLERATE OTHER ANTI-TRIGLYCERIDE MEDS DUE TO THEIR GI SIDE EFFECTS.\nHX OF OBSTRUCTUVE SLEEP APNEA X 5 YEARS FOR WHICH HE USED A CPAP MACHINE. STATES HE HAD HIS CPAP MACHINE WITH HIM WHEN HE ARRESTED.\nSTATES THE PBL HAS L4 - L5 SEVERE STENOSIS CASUING NUMBNESS AND SHOOTING PAIN IN THE LOWER EXTREMITIES.\nSURGICAL HX: NONE\nMENTAL HEALTH HX: NONE\n\nPain: Yes\nPain Assessment\nDate: 07/12/2019 13:25\nLocation: Back-Middle\nQuality of Pain: Shooting\nPain Scale: 5\nIntervention: MEDROL DOSE PACK\nTrauma Date/Year:\nInjury:\nMechanism:\nOnset: 5+ Years\nDuration: 5+ Years\nExacerbating Factors: NO EXERCISE\nRelieving Factors: MEDROL DOSE PACK\nReason Not Done:\nComments:\n\nSeen for clinic(s): Endocrine/Lipid, Pulmonary/Respiratory, Orthopedic/Rheumatology\nAdded to clinic(s): Endocrine/Lipid, Pulmonary/Respiratory, Orthopedic/Rheumatology\n\nOBJECTIVE:\n\nExam:\nGeneral\nAppearance\nYes: Appears Well, Alert and Oriented x 3\nNo: Appears Distressed, Dyspneic, Appears in Pain, Writhing in Pain, Pale, Pallor, Cyanotic, Diaphoretic, Disheveled, Unkempt, Acutely Ill\nNutrition\nNo: Appears Obese\n\nGenerated 07/12/2019 14:20 by [redacted] MD Bureau of Prisons - NYM\nPage 1 of 3\n\nDOJ-OGR-00026123",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Bureau of Prisons\nHealth Services\nClinical Encounter",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD\nDate of Birth: 01/20/1953\nEncounter Date: 07/12/2019 13:10\nSex: M\nRace: WHITE\nReg #: 76318-054\nProvider: [redacted] MD\nFacility: NYM\nUnit: Z05",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Chronic Care - 14 Day Physician Eval encounter performed at Health Services.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SUBJECTIVE:\n\nCOMPLAINT 1 Provider: [redacted] MD\nChief Complaint: ENDO/LIPID\nSubjective: ...",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Pain: Yes\nPain Assessment\nDate: 07/12/2019 13:25\nLocation: Back-Middle\nQuality of Pain: Shooting\nPain Scale: 5\nIntervention: MEDROL DOSE PACK",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "OBJECTIVE:\n\nExam:\nGeneral\nAppearance\nYes: Appears Well, Alert and Oriented x 3\nNo: Appears Distressed, Dyspneic, Appears in Pain, Writhing in Pain, Pale, Pallor, Cyanotic, Diaphoretic, Disheveled, Unkempt, Acutely Ill\nNutrition\nNo: Appears Obese",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/12/2019 14:20 by [redacted] MD Bureau of Prisons - NYM\nPage 1 of 3",
+      "position": "footer"
+    },
+    {
+      "type": "stamp",
+      "content": "Amendment",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/12/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026123"
+    ]
+  },
+  "additional_notes": "The document contains redacted information, indicated by '[redacted]'."
+}

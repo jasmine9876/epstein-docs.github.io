@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": "1065",
+    "document_number": "DOJ-OGR-00025288",
+    "date": "07-30-2019",
+    "document_type": "Sentence Monitoring Good Conduct Time Display",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 1065 PSDG Page 1 of 1 NYMDH 541.52 * SENTENCE MONITORING * 07-30-2019 PAGE 001 OF 001 * GOOD CONDUCT TIME DISPLAY * 17:52:22 REG NO..: 76318-054 LAST NAME: EPSTEIN FUNCTION: DIS ARS 1...: NYM A-PRE JWAR NO..: OBLG NO..: COMP NO..: ALL INFR DATE: MM-DD-YYYY GOOD CONDUCT TIME (GCT) ENTRIES AS OF LAST CALC START STOP MAX POSSIBLE TO RECORDED TOTALS VESTED VESTED DATE DATE DIS FFT DIS FFT AMOUNT DATE S5128 NO COMPS EXIST FOR ABOVE OFFENDER https://bop.tcp.doj.gov:9049/SENTRY/J1PSGC0.do 7/30/2019 DOJ-OGR-00025288",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 1065 PSDG",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NYMDH 541.52 * SENTENCE MONITORING * 07-30-2019 PAGE 001 OF 001 * GOOD CONDUCT TIME DISPLAY * 17:52:22",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "REG NO..: 76318-054 LAST NAME: EPSTEIN FUNCTION: DIS ARS 1...: NYM A-PRE JWAR NO..: OBLG NO..: COMP NO..: ALL INFR DATE: MM-DD-YYYY",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "GOOD CONDUCT TIME (GCT) ENTRIES AS OF LAST CALC START STOP MAX POSSIBLE TO RECORDED TOTALS VESTED VESTED DATE DATE DIS FFT DIS FFT AMOUNT DATE",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "S5128 NO COMPS EXIST FOR ABOVE OFFENDER",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "https://bop.tcp.doj.gov:9049/SENTRY/J1PSGC0.do 7/30/2019 DOJ-OGR-00025288",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "EPSTEIN"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "07-30-2019",
+      "7/30/2019",
+      "MM-DD-YYYY"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "541.52",
+      "S5128",
+      "DOJ-OGR-00025288"
+    ]
+  },
+  "additional_notes": "The document appears to be a computer-generated report regarding the sentence monitoring and good conduct time display for Jeffrey Epstein, with registration number 76318-054. The report indicates that no disciplinary actions or infractions were recorded."
+}

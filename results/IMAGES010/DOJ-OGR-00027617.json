@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Flight records or travel documents",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "39 SSR SSR TKNEAFHK1 0577232145399C1/AF 007 F 06JUN JFKCDG/(b) (6)\n40 SSR SSR TKNEAFHK1 0577232145399C2/AF 012 F 21JUN CDGJFK/(b) (6)\n41 SSR SSR TKNMAFHK1 0577232145398/AF 007 F 06JUN JFKCDG/EPSTEIN/JEFFREY E\n42 SSR SSR TKNMAFHK1 0577232145398/AF 012 F 21JUN CDGJFK/EPSTEIN/JEFFREY E\n43 SSR SSR TKNMAFHK1 0577232145399/AF 007 F 06JUN JFKCDG/(b) (6)\n44 SSR SSR TKNMAFHK1 0577232145399/AF 012 F 21JUN CDGJFK/(b) (6)\n---HISTORY---\nRP/HDQ1S /HDQ1SMVFBHJ/Z8B0/0353150 AA/SU 03JUN13/2310Z 7X4IWU\n000 O/NM EPSTEIN/JEFFREY E\n000 O/SS AF 017 F 08JUN 6 JFKCDG LK2 1815 0730 1/LK 1A/E /1S/US/C/I/CAB P//0///// /Y 4562/B8.81///EY 4553/NYCPAR/F\n000 O/SS AF 012 F 23JUN 7 CDGJFK LK2 1035 1235/LK 1A/E /1S/US/C/I/CAB P//0///// /Y 4562/B97.16///EY 4464/PARNYC/F\n000 O/28 OSI AFCTCT PHX(b) (6)\n000 O/28 OSI AFCTCP PH\n000 O/28 OSI AFCTCP (b) (6)\n000 O/28 OSI AFCTCP PHX2F2\n000 O/OP OPW PHX1A8AEI-31MAY/1C7/AF REQUIRES TICKET ON OR BEFORE 31MAY/AF 017 F 08JUN JFKCDG/AF 012 F 23JUN CDGJFK\n000 O/OP OPC PHX1A8AEI-01JUN/1C8/AF CANCELLATION DUE TO NO TICKET/1212498622241/ATL/28MAY - 1621Z/AF 017 F 08JUN JFKCDG/AF 012 F 23JUN CDGJFK\n000 Z/ HDQRM1S 281621 DK7B665EC12F77 0973003C00CD11//HDQ1SMVFBHJ/Z8B0/03531500/PHX/1S/T/US/USD CR-HDQ RM 1S 28MAY1621Z\n001 Z/ HDQRM1S 281622 CR-HDQ RM 1S 28MAY1622Z\n002 Z/ HDQRM1S 281623 DK7B665EC12F78 09EC203500F6F5 CR-HDQ RM 1S 28MAY1623Z\n003 Z/ 1AINV RM AF 281623 CR-1AINV RM AF 0000 28MAY1623Z\n004 A/28 OSI AFAX CMA/AX CMP\n004 Z/ HDQRM1S 281626 CR-HDQ RM 1S 28MAY1626Z\n005 Z/ HDQRM1S 281626 DK7B665EC12F79 091AD03B0112F1 CR-HDQ RM 1S 28MAY1626Z\n006 Z/ 1AINV RM AF 281626 CR-1AINV RM AF 0000 28MAY1626Z\nDOJ-OGR-00027617",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "39 SSR SSR TKNEAFHK1 0577232145399C1/AF 007 F 06JUN JFKCDG/(b) (6)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "---HISTORY---",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027617",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "CELL",
+      "position": "margin"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY E EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "JFK",
+      "CDG",
+      "PHX",
+      "ATL",
+      "NYC"
+    ],
+    "dates": [
+      "06JUN",
+      "21JUN",
+      "08JUN",
+      "23JUN",
+      "31MAY",
+      "28MAY",
+      "03JUN13"
+    ],
+    "reference_numbers": [
+      "0577232145399C1",
+      "0577232145399C2",
+      "0577232145398",
+      "1212498622241",
+      "DOJ-OGR-00027617"
+    ]
+  },
+  "additional_notes": "The document appears to be a flight record or travel document with sensitive information redacted. It contains details about flights, passenger names, and actions taken by various agencies or departments."
+}

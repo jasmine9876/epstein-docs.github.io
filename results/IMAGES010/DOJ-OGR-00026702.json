@@ -1,0 +1,68 @@
+{
+  "document_metadata": {
+    "page_number": "3062",
+    "document_number": "BP-A0971",
+    "date": "AUG 11",
+    "document_type": "CHAIN OF CUSTODY LOG CDFRM",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 3062\nBP-A0971\nCHAIN OF CUSTODY LOG CDFRM\nAUG 11\nU.S. DEPARTMENT OF JUSTICE\nFEDERAL BUREAU OF PRISONS\nECN # NYM-19-0183 (Enclose with/attach to evidence)\nITEM # NYM-19-00203\nCASE ID NUMBER:\nSUSPECT (If known) N/A\nDESCRIPTION OF ITEM: (1) Computer FPS# 0214 207266\nDATE/TIME ITEM FOUND: 8/16/19 @ 12:00 P.M.\nLOCATION: 10-South housing Unit\nSIGNATURE OF PERSON RECOVERING EVIDENCE: (b)(6); (b)(7)(C)\nPRINTED NAME: (b)(6); (b)(7)(C)\nEVIDENCE PLACED IN OVERNIGHT DROP BOX:\nDROP-BOX BY: (printed name)\nDate & Time:\nWitness: (printed name)\nEVIDENCE RECOVERED FROM OVERNIGHT DROP BOX BY:\n(printed name)\nDate & Time:\nWitness: (printed name)\nEVIDENCE PLACED EVIDENCE SAFE BY:\n(printed name)\nDate & Time:\nWitness: (printed name)\nDISPOSITION:\n( ) Hold as evidence ( ) Return to owner ( ) Lab Analysis\n( ) Return to finder ( ) Destroy immediately ( ) FBI\n( ) Other\nREMARKS (condition of evidence):\n************************************ CHAIN OF CUSTODY ************************************\nEVIDENCE RELEASED BY: DATE/TIME: DESTINATION: EVIDENCE RELEASED TO:\n(b)(6); (b)(7)(C) 8/16/19@12:10m SIS Office T-1 (b)(6); (b)(7)(C)\nSIS LT (b)(6); (b)(7)(C) 8/16/19@1:39pm OIG Office (b)(6); (b)(7)(C)\nPDF Prescribed by P5510 DOJ-OGR-00026702",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3062\nBP-A0971\nCHAIN OF CUSTODY LOG CDFRM\nAUG 11\nU.S. DEPARTMENT OF JUSTICE\nFEDERAL BUREAU OF PRISONS",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "ECN # NYM-19-0183 (Enclose with/attach to evidence)\nITEM # NYM-19-00203\nCASE ID NUMBER:\nSUSPECT (If known)\nDESCRIPTION OF ITEM:\nDATE/TIME ITEM FOUND:\nLOCATION:\nSIGNATURE OF PERSON RECOVERING EVIDENCE:\nPRINTED NAME:\nEVIDENCE PLACED IN OVERNIGHT DROP BOX:\nDROP-BOX BY: (printed name)\nDate & Time:\nWitness: (printed name)\nEVIDENCE RECOVERED FROM OVERNIGHT DROP BOX BY:\n(printed name)\nDate & Time:\nWitness: (printed name)\nEVIDENCE PLACED EVIDENCE SAFE BY:\n(printed name)\nDate & Time:\nWitness: (printed name)\nDISPOSITION:\n( ) Hold as evidence ( ) Return to owner ( ) Lab Analysis\n( ) Return to finder ( ) Destroy immediately ( ) FBI\n( ) Other\nREMARKS (condition of evidence):",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "N/A\n(1) Computer FPS# 0214 207266\n8/16/19 @ 12:00 P.M.\n10-South housing Unit\n(b)(6); (b)(7)(C)\n(b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "************************************ CHAIN OF CUSTODY ************************************\nEVIDENCE RELEASED BY: DATE/TIME: DESTINATION: EVIDENCE RELEASED TO:",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6); (b)(7)(C) 8/16/19@12:10m SIS Office T-1 (b)(6); (b)(7)(C)\nSIS LT (b)(6); (b)(7)(C) 8/16/19@1:39pm OIG Office (b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PDF Prescribed by P5510 DOJ-OGR-00026702",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "U.S. DEPARTMENT OF JUSTICE",
+      "FEDERAL BUREAU OF PRISONS",
+      "SIS Office",
+      "OIG Office",
+      "FBI"
+    ],
+    "locations": [
+      "10-South housing Unit"
+    ],
+    "dates": [
+      "8/16/19",
+      "AUG 11"
+    ],
+    "reference_numbers": [
+      "NYM-19-0183",
+      "NYM-19-00203",
+      "FPS# 0214 207266",
+      "BP-A0971",
+      "DOJ-OGR-00026702"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6); (b)(7)(C). The document is a Chain of Custody Log used by the Federal Bureau of Prisons."
+}

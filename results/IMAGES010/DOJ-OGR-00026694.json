@@ -1,0 +1,78 @@
+{
+  "document_metadata": {
+    "page_number": "3054",
+    "document_number": "BP-A0971",
+    "date": "AUG 11",
+    "document_type": "CHAIN OF CUSTODY LOG CDFRM",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 3054\nBP-A0971\nCHAIN OF CUSTODY LOG CDFRM\nAUG 11\nU.S. DEPARTMENT OF JUSTICE\nFEDERAL BUREAU OF PRISONS\nECN #\nITEM #\n(Enclose with/attach to evidence)\nCASE ID NUMBER:\nSUSPECT (If known)\nN/A\nDESCRIPTION OF ITEM: Daily Forms (Correctional Officers Lieutenants 292'5\n7/19- 8/9/19 for patient #76318-054, Control center paperwork for 8/9+8/10\nDATE/TIME ITEM FOUND:\nLOCATION:\nSIGNATURE OF PERSON RECOVERING EVIDENCE:\nPRINTED NAME:\nEVIDENCE PLACED IN OVERNIGHT DROP BOX:\nDROP-BOX BY: (printed name)\nDate & Time:\nWitness:(printed name)\nEVIDENCE RECOVERED FROM OVERNIGHT DROP BOX BY:\n(printed name)\nDate & Time:\nWitness:(printed name)\nEVIDENCE PLACED EVIDENCE SAFE BY:\n(printed name)\nDate & Time:\nWitness:(printed name)\nDISPOSITION:\n( ) Hold as evidence\n( ) Return to owner\n( ) Lab Analysis\n( ) Return to finder\n( ) Destroy immediately\n( ) FBI\n( ) Other\nREMARKS (condition of evidence):\n************************************ CHAIN OF CUSTODY ************************************\nEVIDENCE RELEASED BY:\nDATE/TIME:\nDESTINATION:\nEVIDENCE RELEASED TO:\nSIS 11\n(b)(6); (b)(7)(C)\n8/20/19 1700\nDOJ-OIG\n(b)(6); (b)(7)(C)\nPDF\nPrescribed by P5510\nDOJ-OGR-00026694",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3054\nBP-A0971\nCHAIN OF CUSTODY LOG CDFRM\nAUG 11\nU.S. DEPARTMENT OF JUSTICE\nFEDERAL BUREAU OF PRISONS",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "ECN #\nITEM #\n(Enclose with/attach to evidence)\nCASE ID NUMBER:\nSUSPECT (If known)",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "N/A\nDaily Forms (Correctional Officers Lieutenants 292'5\n7/19- 8/9/19 for patient #76318-054, Control center paperwork for 8/9+8/10",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "DATE/TIME ITEM FOUND:\nLOCATION:\nSIGNATURE OF PERSON RECOVERING EVIDENCE:\nPRINTED NAME:\nEVIDENCE PLACED IN OVERNIGHT DROP BOX:\nDROP-BOX BY: (printed name)\nDate & Time:\nWitness:(printed name)\nEVIDENCE RECOVERED FROM OVERNIGHT DROP BOX BY:\n(printed name)\nDate & Time:\nWitness:(printed name)\nEVIDENCE PLACED EVIDENCE SAFE BY:\n(printed name)\nDate & Time:\nWitness:(printed name)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DISPOSITION:\n( ) Hold as evidence\n( ) Return to owner\n( ) Lab Analysis\n( ) Return to finder\n( ) Destroy immediately\n( ) FBI\n( ) Other\nREMARKS (condition of evidence):",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "************************************ CHAIN OF CUSTODY ************************************\nEVIDENCE RELEASED BY:\nDATE/TIME:\nDESTINATION:\nEVIDENCE RELEASED TO:",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "SIS 11\n(b)(6); (b)(7)(C)\n8/20/19 1700\nDOJ-OIG\n(b)(6); (b)(7)(C)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "PDF\nPrescribed by P5510\nDOJ-OGR-00026694",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "U.S. DEPARTMENT OF JUSTICE",
+      "FEDERAL BUREAU OF PRISONS",
+      "DOJ-OIG",
+      "FBI"
+    ],
+    "locations": [],
+    "dates": [
+      "AUG 11",
+      "7/19",
+      "8/9/19",
+      "8/10",
+      "8/20/19"
+    ],
+    "reference_numbers": [
+      "BP-A0971",
+      "#76318-054",
+      "292'5",
+      "P5510",
+      "DOJ-OGR-00026694"
+    ]
+  },
+  "additional_notes": "The document contains handwritten entries and redactions."
+}

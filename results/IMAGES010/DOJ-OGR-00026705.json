@@ -1,0 +1,84 @@
+{
+  "document_metadata": {
+    "page_number": "3065",
+    "document_number": "BP-A0971",
+    "date": "AUG 11",
+    "document_type": "CHAIN OF CUSTODY LOG CDFRM",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 3065\nBP-A0971\nAUG 11\nCHAIN OF CUSTODY LOG CDFRM\nU.S. DEPARTMENT OF JUSTICE\nFEDERAL BUREAU OF PRISONS\nECN #\nITEM # NYM-19-00182\nCASE ID NUMBER:\nDESCRIPTION OF ITEM: Clothing Epstein was transported to outside hospital with.\nDATE/TIME ITEM FOUND: August 10, 2019 10:15 AM\nLOCATION: New York Presbyterian Hospital\nSIGNATURE OF PERSON RECOVERING EVIDENCE\nPRINTED NAME\nEVIDENCE PLACED IN OVERNIGHT DROP BOX:\nDROP-BOX BY: (printed name)\nDate & Time:\nWitness: (printed name)\nEVIDENCE RECOVERED FROM OVERNIGHT DROP BOX BY:\n(printed name)\nDate & Time:\nWitness: (printed name)\nEVIDENCE PLACED EVIDENCE SAFE BY:\n(printed name)\nDate & Time:\nWitness: (printed name)\nDISPOSITION:\n( ) Hold as evidence\n( ) Return to owner\n( ) Lab Analysis\n( ) Return to finder\n( ) Destroy immediately\n( ) FBI\n( ) Other\nREMARKS (condition of evidence):\nCHAIN OF CUSTODY\nEVIDENCE RELEASED BY:\nDATE/TIME:\nDESTINATION:\nEVIDENCE RELEASED TO:\nb(6); b(7)(C)\n8/10/19 10:32AM\nSIS Office\nSIS Lt.\nb(6); b(7)(C)\nb(6); b(7)(C)\n8/10/19 4:26PM\nFBI Office\nSpecial Agent\nb(6); b(7)(C)\nPDF\nPrescribed by P5510\nDOJ-OGR-00026705",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3065\nBP-A0971\nAUG 11\nCHAIN OF CUSTODY LOG CDFRM\nU.S. DEPARTMENT OF JUSTICE\nFEDERAL BUREAU OF PRISONS",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "ECN #\nITEM # NYM-19-00182\nCASE ID NUMBER:\nSUSPECT (If known) Jeffrey, Epstein#76318-154\nDESCRIPTION OF ITEM: Clothing Epstein was transported to outside hospital with.\nDATE/TIME ITEM FOUND: August 10, 2019 10:15 AM\nLOCATION: New York Presbyterian Hospital",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "b(6); b(7)(C)\nb(6); b(7)(C)",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "SIGNATURE OF PERSON RECOVERING EVIDENCE\nPRINTED NAME\nEVIDENCE PLACED IN OVERNIGHT DROP BOX:\nDROP-BOX BY: (printed name)\nDate & Time:\nWitness: (printed name)\nEVIDENCE RECOVERED FROM OVERNIGHT DROP BOX BY:\n(printed name)\nDate & Time:\nWitness: (printed name)\nEVIDENCE PLACED EVIDENCE SAFE BY:\n(printed name)\nDate & Time:\nWitness: (printed name)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DISPOSITION:\n( ) Hold as evidence\n( ) Return to owner\n( ) Lab Analysis\n( ) Return to finder\n( ) Destroy immediately\n( ) FBI\n( ) Other\nREMARKS (condition of evidence):",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CHAIN OF CUSTODY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EVIDENCE RELEASED BY:\nDATE/TIME:\nDESTINATION:\nEVIDENCE RELEASED TO:",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "b(6); b(7)(C)\n8/10/19 10:32AM\nSIS Office\nSIS Lt.\nb(6); b(7)(C)\nb(6); b(7)(C)\n8/10/19 4:26PM\nFBI Office\nSpecial Agent\nb(6); b(7)(C)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "PDF\nPrescribed by P5510\nDOJ-OGR-00026705",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "U.S. Department of Justice",
+      "Federal Bureau of Prisons",
+      "New York Presbyterian Hospital",
+      "SIS Office",
+      "FBI Office"
+    ],
+    "locations": [
+      "New York Presbyterian Hospital"
+    ],
+    "dates": [
+      "August 10, 2019",
+      "8/10/19"
+    ],
+    "reference_numbers": [
+      "BP-A0971",
+      "NYM-19-00182",
+      "#76318-154",
+      "DOJ-OGR-00026705"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as 'b(6); b(7)(C)'. The document is a Chain of Custody Log for evidence related to Jeffrey Epstein."
+}

@@ -1,0 +1,82 @@
+{
+  "document_metadata": {
+    "page_number": "3091",
+    "document_number": "DOJ-OGR-00026731",
+    "date": "8/19/19",
+    "document_type": "Official Count Slip",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 3091 Metropolitan Correctional Center Official Count Slip Unit: B4 Date: 8/19/19 Count: (b)(7)(F) Time: 3:00 AM Print Name: (b)(6); (b)(7)(C) Signature: Print Name: Signature: Metropolitan Correctional Center Official Count Slip Unit: A Date: 8/19/19 Count: (b)(7)(F) Time: Print Name: Signature: Print Name: Signature: DOJ-OGR-00026731",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "B4",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Unit:",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/19/19",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "3:00 AM",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(7)(F)",
+      "position": "middle"
+    },
+    {
+      "type": "redacted",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "A",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/19/19",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(7)(F)",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [],
+    "dates": [
+      "8/19/19"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026731"
+    ]
+  },
+  "additional_notes": "The document contains handwritten and printed text. Some information is redacted, marked as (b)(6); (b)(7)(C) and (b)(7)(F)."
+}

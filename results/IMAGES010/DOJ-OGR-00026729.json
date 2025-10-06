@@ -1,0 +1,55 @@
+{
+  "document_metadata": {
+    "page_number": "3089",
+    "document_number": "DOJ-OGR-00026729",
+    "date": "8/9/1999",
+    "document_type": "Official Count Slip",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 3089 Metropolitan Correctional Center New York, New York Official Count Slip 95 + 1 Unit: h(7)D Date: 8/9/299 Time: 10.60pm Count: b(7)(F) 1. Print Name: b(6); b(7)(C) Signature: 1. 2. Print Name: 2. Signature: Metropolitan Correctional Center Official Count Slip Unit: ZA Date: 8.9.19 Time: 10 Count: b(7)(F) Print Name b(6); b(7)(C) Signature: Print Name Signature: DOJ-OGR-00026729",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center New York, New York Official Count Slip",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "95 + 1 h(7)D 8/9/299 10.60pm b(7)(F) b(6); b(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "ZA 8.9.19 10 b(7)(F) b(6); b(7)(C)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026729",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "8/9/1999",
+      "8.9.19"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026729"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned copy of two 'Official Count Slip' forms from the Metropolitan Correctional Center in New York. The forms contain handwritten entries and redactions."
+}

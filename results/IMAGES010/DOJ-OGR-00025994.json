@@ -1,0 +1,48 @@
+{
+  "document_metadata": {
+    "page_number": "2186",
+    "document_number": "DOJ-OGR-00025994",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2186\n(b)(5)\nHugh\nSent from my Verizon, Samsung Galaxy smartphone\nDOJ-OGR-00025994",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 2186",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(5)",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "Hugh\nSent from my Verizon, Samsung Galaxy smartphone",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025994",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Hugh"
+    ],
+    "organizations": [
+      "Verizon",
+      "Samsung"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00025994"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted page with a header, footer, and a message from Hugh sent from a Samsung Galaxy smartphone via Verizon. The content within the pink rectangle is redacted."
+}

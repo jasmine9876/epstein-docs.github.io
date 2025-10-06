@@ -1,0 +1,166 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Communication Log",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "025/029 C/OP OPC PHX1A8AEZ-27APR:1300/1C8/AF CANCELLATION DUE TO NO TICKET/1285677414284/ATL/26APR - 1941Z/AF 009 F 28APR JFKCDG/AF 012 F 08MAY CDGJFK\n029 A/OP OPW PHX1A8AER-25APR:1300/1C7/AF REQUIRES TICKET ON OR BEFORE 27APR:1300/AF 009 F 28APR JFKCDG/AF 012 F 08MAY CDGJFK\n029 A/OP OPC PHX1A8AE3-27APR:1300/1C8/AF CANCELLATION DUE TO NO TICKET/1285677414284/ATL/26APR - 2001Z/AF 009 F 28APR JFKCDG/AF 012 F 08MAY CDGJFK\n029 A/F FHE 057-7446544187/EPSTEIN/JEFFREY E\n029 A/F FHE 057-7446544188\n030 P/ QE/PHX1A8AER/1C0\n030 Z/ OPW AUTO WARNING CR-MUC1A0SYS AW 0000AW 26APR2001Z\n031 A/SK SK SKYP AF HK2/AF 012 F 08MAY CDGJFK/EPSTEIN/JEFFREY E\n031 A/SK SK SKYP AF HK2/AF 009 F 28APR JFKCDG/EPSTEIN/JEFFREY E\n031 Z/ ASTA BLUELINE CR-NCEAF010U 00000000 SU 9876PI/DS-9CBBD417 26APR2033Z\n032 Z/ /DCS-SYNCUS CR-LON1A0955 00000000 SU 0001AA/DS-9CBAB9F7 26APR2104Z\n029/033 C/OP OPW PHX1A8AER-25APR:1300/1C7/AF REQUIRES TICKET ON OR BEFORE 27APR:1300/AF 009 F 28APR JFKCDG/AF 012 F 08MAY CDGJFK\n029/033 C/OP OPC PHX1A8AE3-27APR:1300/1C8/AF CANCELLATION DUE TO NO TICKET/1285677414284/ATL/26APR - 2001Z/AF 009 F 28APR JFKCDG/AF 012 F 08MAY CDGJFK\n033 Z/ HDQRM1S 262104 CR-HDQ RM 1S 26APR2104Z\n034 Z/ /DCS-SYNCUS CR-LON1A0955 00000000 SU 0001AA/DS-9CBAB98D 26APR2106Z\n035 Z/ HDQRM1S 262107 CR-HDQ RM 1S 26APR2107Z\n031/036 C/SK SK SKYP AF HK2/AF 012 F 08MAY CDGJFK/EPSTEIN/JEFFREY E\n031/036 C/SK SK SKYP AF HK2/AF 009 F 28APR JFKCDG/EPSTEIN/JEFFREY E\n036 A/SK SK SKYP AF HK2/AF 012 F 08MAY CDGJFK/EPSTEIN/JEFFREY E\n036 A/SK SK SKYP AF HK2/AF 009 F 28APR JFKCDG/EPSTEIN/JEFFREY E\n036 Z/ ASTA BLUELINE CR-NCEAF010U 00000000 SU 9876PI/DS-9CBBD41B 26APR2153Z\n037 Z/ HDQRM1S 280117 DKA05FE4C1CA7D 09EAA034012928//HDQ1SMZJFF/UH72/03531500/PHX/1S/T/US/USD CR-HDQ RM 1S 28APR0117Z\n038 Z/ 1AINV RM AF 280117 CR-1AINV RM AF 0000 28APR0117Z\n039 Z/ HDQRM1S 280119 DKA05FE4C1CA7E 09253036012845 CR-HDQ RM 1S 28APR0119Z\nDOJ-OGR-00027679",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "025/029 C/OP OPC PHX1A8AEZ-27APR:1300/1C8/AF CANCELLATION DUE TO NO TICKET/1285677414284/ATL/26APR - 1941Z/AF 009 F 28APR JFKCDG/AF 012 F 08MAY CDGJFK",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "029 A/OP OPW PHX1A8AER-25APR:1300/1C7/AF REQUIRES TICKET ON OR BEFORE 27APR:1300/AF 009 F 28APR JFKCDG/AF 012 F 08MAY CDGJFK",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "029 A/OP OPC PHX1A8AE3-27APR:1300/1C8/AF CANCELLATION DUE TO NO TICKET/1285677414284/ATL/26APR - 2001Z/AF 009 F 28APR JFKCDG/AF 012 F 08MAY CDGJFK",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "029 A/F FHE 057-7446544187/EPSTEIN/JEFFREY E",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "029 A/F FHE 057-7446544188",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "030 P/ QE/PHX1A8AER/1C0",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "030 Z/ OPW AUTO WARNING CR-MUC1A0SYS AW 0000AW 26APR2001Z",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "031 A/SK SK SKYP AF HK2/AF 012 F 08MAY CDGJFK/EPSTEIN/JEFFREY E",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "031 A/SK SK SKYP AF HK2/AF 009 F 28APR JFKCDG/EPSTEIN/JEFFREY E",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "031 Z/ ASTA BLUELINE CR-NCEAF010U 00000000 SU 9876PI/DS-9CBBD417 26APR2033Z",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "032 Z/ /DCS-SYNCUS CR-LON1A0955 00000000 SU 0001AA/DS-9CBAB9F7 26APR2104Z",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "029/033 C/OP OPW PHX1A8AER-25APR:1300/1C7/AF REQUIRES TICKET ON OR BEFORE 27APR:1300/AF 009 F 28APR JFKCDG/AF 012 F 08MAY CDGJFK",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "029/033 C/OP OPC PHX1A8AE3-27APR:1300/1C8/AF CANCELLATION DUE TO NO TICKET/1285677414284/ATL/26APR - 2001Z/AF 009 F 28APR JFKCDG/AF 012 F 08MAY CDGJFK",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "033 Z/ HDQRM1S 262104 CR-HDQ RM 1S 26APR2104Z",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "034 Z/ /DCS-SYNCUS CR-LON1A0955 00000000 SU 0001AA/DS-9CBAB98D 26APR2106Z",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "035 Z/ HDQRM1S 262107 CR-HDQ RM 1S 26APR2107Z",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "031/036 C/SK SK SKYP AF HK2/AF 012 F 08MAY CDGJFK/EPSTEIN/JEFFREY E",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "031/036 C/SK SK SKYP AF HK2/AF 009 F 28APR JFKCDG/EPSTEIN/JEFFREY E",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "036 A/SK SK SKYP AF HK2/AF 012 F 08MAY CDGJFK/EPSTEIN/JEFFREY E",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "036 A/SK SK SKYP AF HK2/AF 009 F 28APR JFKCDG/EPSTEIN/JEFFREY E",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "036 Z/ ASTA BLUELINE CR-NCEAF010U 00000000 SU 9876PI/DS-9CBBD41B 26APR2153Z",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "037 Z/ HDQRM1S 280117 DKA05FE4C1CA7D 09EAA034012928//HDQ1SMZJFF/UH72/03531500/PHX/1S/T/US/USD CR-HDQ RM 1S 28APR0117Z",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "038 Z/ 1AINV RM AF 280117 CR-1AINV RM AF 0000 28APR0117Z",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "039 Z/ HDQRM1S 280119 DKA05FE4C1CA7E 09253036012845 CR-HDQ RM 1S 28APR0119Z",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027679",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY E EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "PHX",
+      "ATL",
+      "JFK",
+      "CDG",
+      "MUC",
+      "LON"
+    ],
+    "dates": [
+      "27APR",
+      "25APR",
+      "26APR",
+      "28APR",
+      "08MAY"
+    ],
+    "reference_numbers": [
+      "057-7446544187",
+      "057-7446544188",
+      "1285677414284",
+      "DOJ-OGR-00027679"
+    ]
+  },
+  "additional_notes": "The document appears to be a communication log related to flight operations and cancellations. It contains multiple entries with codes and references to specific flights, dates, and individuals. Some parts of the document are redacted."
+}

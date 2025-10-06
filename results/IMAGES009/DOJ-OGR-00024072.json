@@ -1,0 +1,78 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Visitor Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE NAME Signature INM ATP Reg # Time IN Time OUT (b)(6); (b)(7)(C) 7/23 G. Tali Colon 7/03 J. Epstein J. Epstein 76318-054 76318-054 12:17 12:00 7/23 Hudge John Cappelle Ringy 7/23 Epstein Epstein Dicz 76318 054 763887545 740853 2:2 2:5 5:20 15 620",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "DATE NAME Signature INM ATP Reg # Time IN Time OUT",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/23 G. Tali Colon 7/03",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "J. Epstein J. Epstein",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318-054 76318-054",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "12:17 12:00",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/23 Hudge John 7/23 Cappelle Ringy 7/23",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein Epstein Dicz",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318 054 763887545 740853",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "2:2 2:5 5:20 15 620",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [
+      "G. Tali Colon",
+      "J. Epstein",
+      "Hudge John",
+      "Cappelle Ringy"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/23",
+      "7/03"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "763887545",
+      "740853"
+    ]
+  },
+  "additional_notes": "The document appears to be a visitor log with handwritten entries. Some information is redacted with green blocks."
+}

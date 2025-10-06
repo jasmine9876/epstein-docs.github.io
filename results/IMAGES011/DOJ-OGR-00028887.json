@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "Z5243731",
+    "date": "10/26/2019",
+    "document_type": "U.S. Customs and Border Protection Document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "U.S. Customs and Border Protection 12:32 PM 10/26/2019 Document ID Last Name First Name Middle Name Crossing Date/Time Date of Birth (DoB) Inbound/Outbound Site Document Country Document Type Z5243731 EPSTEIN JEFFREY  4/1/1988 1/26/1953 Inbound NEW YORK, JFK AIRPORT,  PASSPORT NUMBER DOJ-OGR-00028887",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "U.S. Customs and Border Protection",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "12:32 PM 10/26/2019",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Document ID Last Name First Name Middle Name Crossing Date/Time Date of Birth (DoB) Inbound/Outbound Site Document Country Document Type",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Z5243731 EPSTEIN JEFFREY  4/1/1988 1/26/1953 Inbound NEW YORK, JFK AIRPORT,  PASSPORT NUMBER",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028887",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "U.S. Customs and Border Protection"
+    ],
+    "locations": [
+      "NEW YORK",
+      "JFK AIRPORT"
+    ],
+    "dates": [
+      "4/1/1988",
+      "1/26/1953",
+      "10/26/2019"
+    ],
+    "reference_numbers": [
+      "Z5243731",
+      "DOJ-OGR-00028887"
+    ]
+  },
+  "additional_notes": "The document appears to be a U.S. Customs and Border Protection record, likely related to an individual's travel history. The document is well-structured and printed, with no visible handwriting or stamps."
+}

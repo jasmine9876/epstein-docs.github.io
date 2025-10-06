@@ -1,0 +1,92 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "IO25",
+    "date": "04/28/2014",
+    "document_type": "Inspection Remarks",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07:59 IO25 INSPECTION REMARKS 04/28/2014 *B *A *C +--------------------------------------- I N S P E C T I O N R E M A R K S ---------------------------------------+ PAGE 1 CITY OF BIRTH:NEW YORK COUNTRY OF BIRTH:USA NEW COMMENTS: ALTERNATE ADDRESS PHONE CONTACT FOR NEW YORK ADDED COMMENTS HISTORY: SAT OCT 20 14:10:00 EDT 2012 ENTERED BY: (b)(6)&(b)(7)(C) (b)(7)(E) . 1 SMALL CARRY ON BAG ONLY. PAX HAS AN IPAD, BUT NO OTHER ELECTRONIC STORAGE MEDIA. PRESENT ADDRESS REMAINS THE SAME: 6100 RED HOOK QUARTER ST THOMAS STA/VI ZIP/00802 PHONE: 340-775-2525. NEW YORK ADDRESS: 1 OR 2 DAYS A MONTH 9 EAST 71ST STREET NEW YORK, NY 10021 PHONE: 212-533-3739 FINANCIAL TRUST COMPANY: PRESIDENT OWNER ST. THOMAS, VI. PAX ADMITTED USC WITH NO FURTHER INCIDENT. +-----------------------------------------------------------------------------------------------------------------------------------------------------+ (b)(7)(E) (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6),(b)(7)(C) *C - (b)(7)(E) DOJ-OGR-00028639",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IO25 INSPECTION REMARKS",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "04/28/2014",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE 1",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "I N S P E C T I O N R E M A R K S",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CITY OF BIRTH:NEW YORK COUNTRY OF BIRTH:USA",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "NEW COMMENTS: ALTERNATE ADDRESS PHONE CONTACT FOR NEW YORK ADDED",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "COMMENTS HISTORY: SAT OCT 20 14:10:00 EDT 2012 ENTERED BY: (b)(6)&(b)(7)(C)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E) . 1 SMALL CARRY ON BAG ONLY. PAX HAS AN IPAD, BUT NO OTHER ELECTRONIC STORAGE MEDIA. PRESENT ADDRESS REMAINS THE SAME: 6100 RED HOOK QUARTER ST THOMAS STA/VI ZIP/00802 PHONE: 340-775-2525. NEW YORK ADDRESS: 1 OR 2 DAYS A MONTH 9 EAST 71ST STREET NEW YORK, NY 10021 PHONE: 212-533-3739 FINANCIAL TRUST COMPANY: PRESIDENT OWNER ST. THOMAS, VI. PAX ADMITTED USC WITH NO FURTHER INCIDENT.",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6),(b)(7)(C) *C - (b)(7)(E)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028639",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "FINANCIAL TRUST COMPANY",
+      "USC"
+    ],
+    "locations": [
+      "NEW YORK",
+      "ST THOMAS",
+      "USA",
+      "NEW YORK",
+      "ST. THOMAS, VI",
+      "EAST 71ST STREET NEW YORK, NY 10021",
+      "RED HOOK QUARTER ST THOMAS STA/VI"
+    ],
+    "dates": [
+      "04/28/2014",
+      "OCT 20 14:10:00 EDT 2012"
+    ],
+    "reference_numbers": [
+      "IO25",
+      "DOJ-OGR-00028639",
+      "00802",
+      "10021",
+      "340-775-2525",
+      "212-533-3739"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted inspection report with various sections blacked out. The content includes details about an individual's travel and personal information."
+}

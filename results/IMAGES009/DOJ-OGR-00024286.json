@@ -1,0 +1,50 @@
+{
+  "document_metadata": {
+    "page_number": "7245",
+    "document_number": "DOJ-OGR-00024286",
+    "date": "2019/07/12",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "inmate From [b](6). (b)(7)(C) To Plourde [b](6). (b)(7)(C) Lee Date 2019/07/12 10:51 Subject: inmate Attachments: TEXT.htm Good morning. Please provide inmate EPSTEIN, JEFFREY EDWARD, 76318-054 (9S) a Certified Diet meal. He is not on the roster yet. However Chaplain [b](6) is not in today. Once he re the institution the Chaplain will add him to the roster. Thank you [b](6). (b)(7)(C) 01-20-1953",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "inmate From [b](6). (b)(7)(C) To Plourde [b](6). (b)(7)(C) Lee Date 2019/07/12 10:51 Subject: inmate Attachments: TEXT.htm",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Good morning. Please provide inmate EPSTEIN, JEFFREY EDWARD, 76318-054 (9S) a Certified Diet meal. He is not on the roster yet. However Chaplain [b](6) is not in today. Once he re the institution the Chaplain will add him to the roster. Thank you [b](6). (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "01-20-1953",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 7245 DOJ-OGR-00024286",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN",
+      "Plourde Lee"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "2019/07/12",
+      "01-20-1953"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024286"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted email regarding providing a certified diet meal to inmate Jeffrey Epstein. Several names and identifiers are redacted."
+}

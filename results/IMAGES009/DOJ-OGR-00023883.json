@@ -1,0 +1,45 @@
+{
+  "document_metadata": {
+    "page_number": "3961",
+    "document_number": "DOJ-OGR-00023883",
+    "date": null,
+    "document_type": "Mail Attachment",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Mail Attachment (b)(6); (b)(7)(C) Admission Info.pdf Page 3961 DOJ-OGR-00023883",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Mail Attachment",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6); (b)(7)(C) Admission Info.pdf",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Page 3961",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00023883",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00023883"
+    ]
+  },
+  "additional_notes": "The document appears to be a page from a larger document, with a redacted section containing the text '(b)(6); (b)(7)(C)'. The document is likely a government or official document due to the presence of the 'DOJ' organization and the format of the reference number."
+}

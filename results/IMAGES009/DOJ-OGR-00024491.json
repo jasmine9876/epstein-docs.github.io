@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024491",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE NAME Signature Inmate Doc # Time IN Time OUT (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) 7-22 (b)(6), (b)(7)(C) Epstein 76316-054 1037 1037 (b)(6), (b)(7)(C) 7/24 (b)(6), (b)(7)(C) Epstein Epstein 76318-054 1635 1:00 (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) 7/2 7/23 (b)(6), (b)(7)(C) Epstein Epstein 76318054 225 610 226 610 DOJ-OGR-00024491",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE NAME Signature Inmate Doc # Time IN Time OUT",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "7-22 Epstein 76316-054 1037 1037",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/24 Epstein Epstein 76318-054 1635 1:00",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/2 7/23 Epstein Epstein 76318054 225 610 226 610",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024491",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7-22",
+      "7/24",
+      "7/2",
+      "7/23"
+    ],
+    "reference_numbers": [
+      "76316-054",
+      "76318-054",
+      "76318054",
+      "DOJ-OGR-00024491"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6), (b)(7)(C). The image appears to be a log or record of visits to an inmate named Epstein."
+}

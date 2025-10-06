@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "2700",
+    "document_number": "NYMFC 530*05",
+    "date": "08-10-2019",
+    "document_type": "Inmate Roster",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2700\nNYMFC 530*05 * INMATE ROSTER * 08-10-2019 01:21:34\nPAGE 001 OF 001 CATEGORY: OCT GROUP CODE: \nASSIGNMENT: HOSP FACILITY: NYM OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT\nOPER CATG ASSIGNMENT\nNUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK 0001 HOSP (b)(6): (b)(7)(C) 08-10-2019 E05-535L SUICIDE OR UNASSG 0002 08-10-2019 K09-028U SUICIDE OR 0003 08-10-2019 E06-546L SUICIDE OR UNASSG 0004 08-10-2019 K11-053L FS WAREHOU SUICIDE OR\nG0000 TRANSACTION SUCCESSFULLY COMPLETED\nDOJ-OGR-00026356",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 2700",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NYMFC 530*05 * INMATE ROSTER * 08-10-2019 01:21:34",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE 001 OF 001 CATEGORY: OCT GROUP CODE: \nASSIGNMENT: HOSP FACILITY: NYM OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK 0001 HOSP (b)(6): (b)(7)(C) 08-10-2019 E05-535L SUICIDE OR UNASSG 0002 08-10-2019 K09-028U SUICIDE OR 0003 08-10-2019 E06-546L SUICIDE OR UNASSG 0004 08-10-2019 K11-053L FS WAREHOU SUICIDE OR",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "G0000 TRANSACTION SUCCESSFULLY COMPLETED",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026356",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ",
+      "OGR"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "08-10-2019"
+    ],
+    "reference_numbers": [
+      "NYMFC 530*05",
+      "DOJ-OGR-00026356",
+      "(b)(6)",
+      "(b)(7)(C)"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned inmate roster with some redacted information."
+}

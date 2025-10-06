@@ -1,0 +1,114 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024249",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "(b)(6), (b)(7)(C) (b)(6), (b)(7)(C) Flynn Eptan 7/15/2016 6:8 Box (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) 7/16 (b)(6), (b)(7)(C) J. Epitan 7638-0818 08 12130 (b)(6), (b)(7)(C) J. Epitan 7638-0818 08 12130",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Flynn",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Eptan",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/15/2016",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "6:8",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Box",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/16",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "J. Epitan",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7638-0818 08 12130",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "J. Epitan",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7638-0818 08 12130",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024249",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Flynn",
+      "J. Epitan",
+      "J. Epitan"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/15/2016",
+      "7/16"
+    ],
+    "reference_numbers": [
+      "7638-0818",
+      "7638-0818",
+      "12130",
+      "12130",
+      "DOJ-OGR-00024249"
+    ]
+  },
+  "additional_notes": "The document appears to be heavily redacted, with most of the content obscured by green blocks. The visible text is mostly handwritten and appears to be names, dates, and reference numbers."
+}

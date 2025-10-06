@@ -1,0 +1,48 @@
+{
+  "document_metadata": {
+    "page_number": "2009",
+    "document_number": "DOJ-OGR-00025939",
+    "date": "7/9/19",
+    "document_type": "Log Entry",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "7/9/19 EPSTEIN 76318-054\n6:00PM INMATE EPSTEIN IS OUT\n6:15PM INMATE EPSTEIN IS OUT\n6:30PM INMATE EPSTEIN IS OUT\n6:45PM INMATE EPSTEIN IS OUT\n7:00PM INMATE EPSTEIN IS OUT END OF SHIFT\n7:00 assuming responsibility for IIN EPSTEIN #76318-054\n7:15 INN EPSTEIN is out\n7:30 INN EPSTEIN is out\n7:45 INN EPSTEIN is out\n7:55 INN EPSTEIN has returned from his legal visit\n8:00 INN EPSTEIN and I are talking about the escorts/escort issues\n8:15 INN EPSTEIN and I are continuing the discussion\n8:30 INN EPSTEIN has paused to brush his teeth\n8:45 INN EPSTEIN and I are talking about how to handle prisoners\n9:00 INN EPSTEIN and I are talking about arbitration\n9:15 INN EPSTEIN is asking questions about CO's",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "7/9/19 EPSTEIN 76318-054\n6:00PM INMATE EPSTEIN IS OUT\n6:15PM INMATE EPSTEIN IS OUT\n6:30PM INMATE EPSTEIN IS OUT\n6:45PM INMATE EPSTEIN IS OUT\n7:00PM INMATE EPSTEIN IS OUT END OF SHIFT",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "7:00 assuming responsibility for IIN EPSTEIN #76318-054\n7:15 INN EPSTEIN is out\n7:30 INN EPSTEIN is out\n7:45 INN EPSTEIN is out\n7:55 INN EPSTEIN has returned from his legal visit\n8:00 INN EPSTEIN and I are talking about the escorts/escort issues\n8:15 INN EPSTEIN and I are continuing the discussion\n8:30 INN EPSTEIN has paused to brush his teeth\n8:45 INN EPSTEIN and I are talking about how to handle prisoners\n9:00 INN EPSTEIN and I are talking about arbitration\n9:15 INN EPSTEIN is asking questions about CO's",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025939",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "margin"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/9/19"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00025939"
+    ]
+  },
+  "additional_notes": "The document appears to be a handwritten log entry regarding the activities of inmate Epstein (#76318-054) on 7/9/19. The log details Epstein's movements and interactions with the author of the log. There are redactions in the margin, marked as '(b)(6); (b)(7)(C)', indicating potentially sensitive information has been withheld."
+}

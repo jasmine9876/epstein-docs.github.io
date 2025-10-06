@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "562",
+    "document_number": "DOJ-OGR-00024578",
+    "date": "08/19/2019",
+    "document_type": "Log Entries By Event Date",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Date: 08/19/2019 Time: 10:15 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count 7/23/2019 5:41 PM NYM Housing Units Housing Units, General Population BA 7/23/2019 5:40 PM Evening RADIO WENCKI Radio Check - Summary Text: Radio Number: 7/23/2019 5:41 PM NYM Housing Units Housing Units, General Population BA 7/23/2019 5:41 PM Evening DINZKEI - Summary Text: Completed. 7/23/2019 5:42 PM NYM Housing Units Housing Units, General Population BA 7/23/2019 5:42 PM Evening Search (Areas) - Summary Text: Common Area: KITCHEN AREA. 7/23/2019 5:42 PM NYM Housing Units Housing Units, General Population BA 7/23/2019 5:42 PM Evening Search (Areas) - Summary Text: Common Area: LAUNDRY ROOM. 7/23/2019 5:42 PM NYM Housing Units Housing Units, General Population BA 7/23/2019 5:42 PM Evening Search (Areas) - Summary Text: Common Area: SHOWER AREAS. 7/23/2019 5:42 PM NYM Housing Units Housing Units, General Population BA 7/23/2019 5:42 PM Evening Rounds (Officer) - Summary Text: Completed. 7/23/2019 5:42 PM NYM Housing Units Housing Units, General Population BA 7/23/2019 5:42 PM Evening Sensitive Information - Summary Text: Nothing To Report. 7/23/2019 5:49 PM NYM Housing Units Housing Units, General Population ES 7/23/2019 5:49 PM Evening Daily Activity - Mail Call - Summary Text: mail call completed 7/23/2019 5:49 PM NYM Housing Units Housing Units, General Population ES 7/23/2019 5:49 PM Evening Daily Activity - Feeding Completed - Summary Text: feeding completed food cart off the unit. 7/23/2019 5:50 PM NYM Housing Units Housing Units, General Population ES 7/23/2019 5:50 PM Evening Bed Book Check - Summary Text: Completed. bed book check conducted with discrepancies. 7/23/2019 5:50 PM NYM Housing Units Housing Units, General Population ES 7/23/2019 5:50 PM Evening Bar Taps (Cells) User ID: RADIO WENCKI Page 562 of 1155 DOJ-OGR-00024578",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date: 08/19/2019 Time: 10:15 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "7/23/2019 5:41 PM NYM Housing Units Housing Units, General Population BA 7/23/2019 5:40 PM Evening RADIO WENCKI Radio Check - Summary Text: Radio Number:",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "RADIO WENCKI",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Page 562 of 1155 DOJ-OGR-00024578",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "RADIO WENCKI",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "WENCKI"
+    ],
+    "organizations": [
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [
+      "Housing Units",
+      "Kitchen Area",
+      "Laundry Room",
+      "Shower Areas"
+    ],
+    "dates": [
+      "08/19/2019",
+      "7/23/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00024578"
+    ]
+  },
+  "additional_notes": "The document appears to be a log entry report from the Federal Bureau of Prisons, detailing various events and activities that occurred on July 23, 2019. The report includes information on radio checks, searches, mail call, feeding, and bed book checks. The document is marked as 'Sensitive But Unclassified'."
+}

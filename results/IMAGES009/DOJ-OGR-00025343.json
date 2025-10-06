@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": "1121",
+    "document_number": "DOJ-OGR-00025343",
+    "date": null,
+    "document_type": "Mail Attachment",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 1121 Mail Attachment Epstein- b(6): b(7)(C) 76318-054_20190721-20190728.pdf Page 2853 DOJ-OGR-00025343",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 1121",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Mail Attachment",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Epstein- b(6): b(7)(C) 76318-054_20190721-20190728.pdf",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Page 2853",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025343",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "20190721",
+      "20190728"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00025343"
+    ]
+  },
+  "additional_notes": "The document appears to be a page from a larger document or report, with a header and footer indicating page numbers and a document identifier. The main content is a reference to a mail attachment related to Epstein."
+}

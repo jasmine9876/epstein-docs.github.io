@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "3144",
+    "document_number": "DOJ-OGR-00026781",
+    "date": "08/10/2019",
+    "document_type": "Photo Sheet",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "Page 3144\n\n\nLieutenant's Office\n\nMetropolitan Correctional Center New York, N.Y.\nPhoto Sheet\nLieutenant's Office\n\nType of Incident\nINMATE SUICIDE\nDate and Time of Incident\n08/10/2019 6:33 AM\nInmate Name / Reg. No.\nEPSTEIN, JEFFERY REG#76318-054\nLocation of Incident\nZA\nPhotograph(s) by\nLt. [redacted]\nDate and Time of Photo\n08/10/2019 6:49 AM\n[redacted]\n\nCOPY\n8/10\n[redacted]\nDOJ-OGR-00026781",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Lieutenant's Office",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center New York, N.Y.\nPhoto Sheet\nLieutenant's Office",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Type of Incident\nINMATE SUICIDE\nDate and Time of Incident\n08/10/2019 6:33 AM\nInmate Name / Reg. No.\nEPSTEIN, JEFFERY REG#76318-054\nLocation of Incident\nZA\nPhotograph(s) by\nLt. [redacted]\nDate and Time of Photo\n08/10/2019 6:49 AM",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "COPY",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/10",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026781",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFERY EPSTEIN"
+    ],
+    "organizations": [
+      "Metropolitan Correctional Center",
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "08/10/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026781"
+    ]
+  },
+  "additional_notes": "The document contains redactions and a 'COPY' stamp. The image is of a photocopied document."
+}

@@ -1,0 +1,73 @@
+{
+  "document_metadata": {
+    "page_number": "7",
+    "document_number": "DOJ-OGR-00030474",
+    "date": "07/26/17",
+    "document_type": "letter",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "ATTERBURY GOLDBERGER RICHARDSON & WEISS, P.A. 250 Australian Avenue South, One Clearlake Centre ite 1400, West Palm Beach, FL 33401 '06 JUN 23 PM12:09 Barry Krischer, Esquire Office of the State Attorney 401 North Dixie Highway West Palm Beach, FL 33401 33401+4209-01 C021 WEST PALM BEACH FL 33401 $0.390 $0.390 $0.390 $0.390 METER JUN 22 06 3843979 07/26/17 Page 7 of 131 Public Records Request No.: 17-295 DOJ-OGR-00030474",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "ATTERBURY GOLDBERGER RICHARDSON & WEISS, P.A.",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "250 Australian Avenue South, One Clearlake Centre ite 1400, West Palm Beach, FL 33401",
+      "position": "header"
+    },
+    {
+      "type": "stamp",
+      "content": "'06 JUN 23 PM12:09",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "Barry Krischer, Esquire Office of the State Attorney 401 North Dixie Highway West Palm Beach, FL 33401",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "33401+4209-01 C021",
+      "position": "footer"
+    },
+    {
+      "type": "stamp",
+      "content": "WEST PALM BEACH FL 33401 $0.390 $0.390 $0.390 $0.390 METER JUN 22 06 3843979",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 7 of 131 Public Records Request No.: 17-295 DOJ-OGR-00030474",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Barry Krischer"
+    ],
+    "organizations": [
+      "ATTERBURY GOLDBERGER RICHARDSON & WEISS, P.A.",
+      "Office of the State Attorney"
+    ],
+    "locations": [
+      "West Palm Beach",
+      "FL"
+    ],
+    "dates": [
+      "'06 JUN 23",
+      "JUN 22 06",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00030474",
+      "33401",
+      "3843979"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned image of a letter with a postage stamp. The image quality is clear, and there are no visible redactions or damage."
+}

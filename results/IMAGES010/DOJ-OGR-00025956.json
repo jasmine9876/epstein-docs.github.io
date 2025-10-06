@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "2116",
+    "document_number": "DOJ-OGR-00025956",
+    "date": null,
+    "document_type": "Observation Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "EPSTEIN # 76318-054\n00:15 Jim EPSTEIN appears to be sleeping\n00:30 C/O Requests\n00:45 Jim EPSTEIN appears to be sleeping\n01:00 Jim EPSTEIN appears to be sleeping\n01:15 Jim EPSTEIN appears to be sleeping\n01:30 Jim EPSTEIN appears to be sleeping\n01:45 Jim EPSTEIN appears to be sleeping\n02:00 Jim EPSTEIN appears to be sleeping\n02:15 Jim EPSTEIN gets up to wash face - He talks about not wanting to go to SHU\nLieut B.F. comes to a unit. Inquires about the conditions of various units\n02:30 Jim EPSTEIN inquires about the atmosphere of various units in MCC\n02:45 Jim EPSTEIN appears to be sleeping\n3:00 AM 1C assuming responsibility of epstein #76318-054\n3:00 am Jim epstein is sleeping\n3:15 am Jim epstein is sleeping\n3:30 am Jim epstein is sleeping",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "EPSTEIN # 76318-054",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "00:15 Jim EPSTEIN appears to be sleeping\n00:30 C/O Requests\n00:45 Jim EPSTEIN appears to be sleeping\n01:00 Jim EPSTEIN appears to be sleeping\n01:15 Jim EPSTEIN appears to be sleeping\n01:30 Jim EPSTEIN appears to be sleeping\n01:45 Jim EPSTEIN appears to be sleeping\n02:00 Jim EPSTEIN appears to be sleeping\n02:15 Jim EPSTEIN gets up to wash face - He talks about not wanting to go to SHU\nLieut B.F. comes to a unit. Inquires about the conditions of various units\n02:30 Jim EPSTEIN inquires about the atmosphere of various units in MCC\n02:45 Jim EPSTEIN appears to be sleeping",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "3:00 AM 1C assuming responsibility of epstein #76318-054\n3:00 am Jim epstein is sleeping\n3:15 am Jim epstein is sleeping\n3:30 am Jim epstein is sleeping",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jim Epstein",
+      "Lieut B.F."
+    ],
+    "organizations": [],
+    "locations": [
+      "SHU",
+      "MCC"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "76318-054"
+    ]
+  },
+  "additional_notes": "The document appears to be a handwritten log of observations of Jeffrey Epstein (#76318-054). The log details Epstein's activities and status at various times between 00:15 and 3:30 am. Some parts of the document are redacted."
+}

@@ -1,0 +1,53 @@
+{
+  "document_metadata": {
+    "page_number": "940",
+    "document_number": "DOJ-OGR-00025205",
+    "date": "2019/07/23",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 940 Inmate Epstein #76318-054 (Suicide Watch) From (b)(6); (b)(7)(C) To (b)(6); (b)(7)(C) Date 2019/07/23 08:55 Subject: Inmate Epstein #76318-054 (Suicide Watch) Attachments: TEXT.htm The Inmate Companion called and reported that inmate Epstein said his throat is swollen. Thanks, (b)(6); (b)(7)(C) Page 2069 DOJ-OGR-00025205",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Inmate Epstein #76318-054 (Suicide Watch)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "From (b)(6); (b)(7)(C) To (b)(6); (b)(7)(C) Date 2019/07/23 08:55 Subject: Inmate Epstein #76318-054 (Suicide Watch) Attachments: TEXT.htm",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "The Inmate Companion called and reported that inmate Epstein said his throat is swollen.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Thanks, (b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 2069 DOJ-OGR-00025205",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "2019/07/23"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00025205"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted email regarding inmate Epstein's health issue. The names of the sender and recipient are redacted."
+}

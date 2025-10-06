@@ -1,0 +1,42 @@
+{
+  "document_metadata": {
+    "page_number": "1152",
+    "document_number": "DOJ-OGR-00025374",
+    "date": null,
+    "document_type": "Mail Attachment",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 1152\nMail Attachment\nJeffreyEpsteinRequest.pdf\nPage 2980\nDOJ-OGR-00025374",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 1152",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Mail Attachment\nJeffreyEpsteinRequest.pdf",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 2980\nDOJ-OGR-00025374",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00025374"
+    ]
+  },
+  "additional_notes": "The document appears to be a placeholder or index page for a PDF attachment related to Jeffrey Epstein. The content is minimal and mostly metadata."
+}

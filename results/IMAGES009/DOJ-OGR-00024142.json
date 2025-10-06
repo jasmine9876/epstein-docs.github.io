@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": "10",
+    "document_number": "DOJ-OGR-00024142",
+    "date": "07/09/2019",
+    "document_type": "Medical Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Inmate Name: EPSTEIN, JEFFREY EDWARD\nDate of Birth: 01/20/1953\nEncounter Date: 07/09/2019 12:35\nSex: M\nRace: WHITE\nReg #: 76318-054\nProvider: (b)(6)\n(b)(7)(C)\nMLP\nFacility: NYM\nUnit: H01\n\nThorax:\nContour Normal: Yes\nIncreased AP Diameter: No\nAsymmetrical Expansion: No\nLungs Clear: Yes\nWheezes: No\nCrackles: No\nRhonchi: No\nRales: No\nAccessory Muscle Use: No\nComments:\n\nSpine:\nDeformity: No\nFull ROM: Yes\nTenderness: No\nComments:\n\nCardiovascular:\nRRR: Yes\nNormal S1/S2: Yes\nMurmurs: No\nCarotid Bruits: No\nJVD: No\nArteries: Right Left\nRadial:\nFemoral:\nDorsalis Pedis:\nPost. Tibialis:\nComments:\n\nGenerated 07/09/2019 13:03 by (b)(6)\nMLP Bureau of Prisons - NYM\nPage 10 of 13\nDOJ-OGR-00024142",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD\nDate of Birth: 01/20/1953\nEncounter Date: 07/09/2019 12:35\nSex: M\nRace: WHITE\nReg #: 76318-054\nProvider: (b)(6)\n(b)(7)(C)\nMLP\nFacility: NYM\nUnit: H01",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Thorax:\nContour Normal: Yes\nIncreased AP Diameter: No\nAsymmetrical Expansion: No\nLungs Clear: Yes\nWheezes: No\nCrackles: No\nRhonchi: No\nRales: No\nAccessory Muscle Use: No\nComments:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Spine:\nDeformity: No\nFull ROM: Yes\nTenderness: No\nComments:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Cardiovascular:\nRRR: Yes\nNormal S1/S2: Yes\nMurmurs: No\nCarotid Bruits: No\nJVD: No\nArteries: Right Left\nRadial:\nFemoral:\nDorsalis Pedis:\nPost. Tibialis:\nComments:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/09/2019 13:03 by (b)(6)\nMLP Bureau of Prisons - NYM\nPage 10 of 13\nDOJ-OGR-00024142",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/09/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024142"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b)(6)' and '(b)(7)(C)'. The report appears to be a medical examination record for an inmate."
+}

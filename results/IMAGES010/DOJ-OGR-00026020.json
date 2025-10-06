@@ -1,0 +1,50 @@
+{
+  "document_metadata": {
+    "page_number": "2251",
+    "document_number": "DOJ-OGR-00026020",
+    "date": "2019/08/23 09:15",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Epstein #76318-054 Medical/Mental Health Records\nFrom [redacted]\nTo [redacted]@steptoe.com\nDate 2019/08/23 09:15\nSubject: Epstein #76318-054 Medical/Mental Health Records\nAttachments: TEXT.htm, Certification of Identify Form.pdf\nGood morning [redacted]\nI spoke with folks here and confirmed we can proceed under our usual procedure for releasing medical/psych records to defense counsel. Accordingly, please send me a cover letter confirming you're defense counsel of record, the attached certification of identity, and a Rule 17 subpoena (no need to be so-ordered; a clerk's subpoena is fine). Normally we would require a HIPAA release as well, but privacy rights don't survive death in this context. Once I receive the certification, letter, and subpoena,, I will have the USAO's Civil Division authorize the records release as wall counsel pursuant to United States ex rel. Touhy v. Regan, 340 U.S. 462 (1951) and the associated regulations.\nPlease let me know if you have any questions/concerns.\nThank you,\n[redacted]\n[redacted]\nStaff Attorney\nCLC New York\nMetropolitan Correctional Center\n150 Park Row\nNew York, NY 10007\np: 646-83[redacted]\nf: 646-836-7665\nPage 12855",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Epstein #76318-054 Medical/Mental Health Records\nFrom [redacted]\nTo [redacted]@steptoe.com\nDate 2019/08/23 09:15\nSubject: Epstein #76318-054 Medical/Mental Health Records\nAttachments: TEXT.htm, Certification of Identify Form.pdf",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Good morning [redacted]\nI spoke with folks here and confirmed we can proceed under our usual procedure for releasing medical/psych records to defense counsel. Accordingly, please send me a cover letter confirming you're defense counsel of record, the attached certification of identity, and a Rule 17 subpoena (no need to be so-ordered; a clerk's subpoena is fine). Normally we would require a HIPAA release as well, but privacy rights don't survive death in this context. Once I receive the certification, letter, and subpoena,, I will have the USAO's Civil Division authorize the records release as wall counsel pursuant to United States ex rel. Touhy v. Regan, 340 U.S. 462 (1951) and the associated regulations.\nPlease let me know if you have any questions/concerns.\nThank you,\n[redacted]\n[redacted]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Staff Attorney\nCLC New York\nMetropolitan Correctional Center\n150 Park Row\nNew York, NY 10007\np: 646-83[redacted]\nf: 646-836-7665",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Steptoe",
+      "USAO",
+      "CLC New York",
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "2019/08/23 09:15",
+      "1951"
+    ],
+    "reference_numbers": [
+      "#76318-054",
+      "340 U.S. 462",
+      "DOJ-OGR-00026020"
+    ]
+  },
+  "additional_notes": "The document contains redactions of personal information."
+}

@@ -1,0 +1,90 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00027512",
+    "date": "05/27/2012",
+    "document_type": "Admissibility Secondary Inspection",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "UNCLASSIFIED // FOR OFFICIAL USE ONLY\nEPSTEIN JEFFREY (b)(7)(E)\n05/27/2012 16:08:59\nAdmissibility Secondary Inspection (b)(7)(E)\n(b)(7)(E)\nCrossing Information\nSite: NEW YORK, JFK AIRPORT, TERM 1 (b)(7)(E)\nDisposition: U.S. Citizen (USC)\nPort Crossing Date: 05/27/2012 16:08:59\nReferred Date: 05/27/2012 16:08:59\nAirline: AIR FRANCE (AF)\nComment: (b)(7)(E) ADM USC\nSubject\nLast Name: EPSTEIN\nFirst Name: JEFFREY\nDate Of Birth: 01/20/1953\nIns Country: United States (US/USA)\nGender: Male (b)(7)(E)\nRace: White (b)(7)(E)\nPassenger Document\nDocument Type: PASSPORT (b)(7)(E)\nDocument Issue Country: United States (US/USA)\nDocument Number: (b)(6)(b)(7)(C)\nReferral/Vehicle Information\nReferral Reason: (b)(7)(E)\nMiscellaneous Info\nType Association: Document Type\nRemarks\n(b)(7)(E) USC ADM\nUNCLASSIFIED // FOR OFFICIAL USE ONLY\nDOJ-OGR-00027512",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "UNCLASSIFIED // FOR OFFICIAL USE ONLY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN JEFFREY (b)(7)(E)\n05/27/2012 16:08:59\nAdmissibility Secondary Inspection (b)(7)(E)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E)",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "Crossing Information\nSite: NEW YORK, JFK AIRPORT, TERM 1 (b)(7)(E)\nDisposition: U.S. Citizen (USC)\nPort Crossing Date: 05/27/2012 16:08:59\nReferred Date: 05/27/2012 16:08:59\nAirline: AIR FRANCE (AF)\nComment: (b)(7)(E) ADM USC",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Subject\nLast Name: EPSTEIN\nFirst Name: JEFFREY\nDate Of Birth: 01/20/1953\nIns Country: United States (US/USA)\nGender: Male (b)(7)(E)\nRace: White (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Passenger Document\nDocument Type: PASSPORT (b)(7)(E)\nDocument Issue Country: United States (US/USA)\nDocument Number: (b)(6)(b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Referral/Vehicle Information\nReferral Reason: (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Miscellaneous Info\nType Association: Document Type",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Remarks\n(b)(7)(E) USC ADM",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "UNCLASSIFIED // FOR OFFICIAL USE ONLY",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027512",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "AIR FRANCE"
+    ],
+    "locations": [
+      "NEW YORK",
+      "JFK AIRPORT",
+      "United States"
+    ],
+    "dates": [
+      "05/27/2012",
+      "01/20/1953"
+    ],
+    "reference_numbers": [
+      "(b)(6)(b)(7)(C)",
+      "DOJ-OGR-00027512"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(7)(E), (b)(6)(b)(7)(C), and (b)(7)(E). The document is an Admissibility Secondary Inspection report for JEFFREY EPSTEIN."
+}

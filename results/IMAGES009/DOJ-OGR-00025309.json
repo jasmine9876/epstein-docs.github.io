@@ -1,0 +1,72 @@
+{
+  "document_metadata": {
+    "page_number": "1087",
+    "document_number": "DOJ-OGR-00025309",
+    "date": "7-23-09",
+    "document_type": "Suicide Watch Log Book",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 1087\nSTAPLE LOCAL PROCEDURES HERE\nCheck one of the following:\nThis is the initial log book for this suicide watch.\nEnter date and time watch began:\nThis is a continuation log book for this watch.\nEnter date and time this watch book was initiated:\n7-23-09 7:00am\nInstructions to Observer:\nDocument your observations every 15 minutes.\nLegibly print and sign your name at the beginning of your shift.\nDOJ-OGR-00025309",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "STAPLE LOCAL PROCEDURES HERE",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Check one of the following:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "This is the initial log book for this suicide watch.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Enter date and time watch began:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "This is a continuation log book for this watch.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Enter date and time this watch book was initiated:",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7-23-09 7:00am",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Instructions to Observer:\nDocument your observations every 15 minutes.\nLegibly print and sign your name at the beginning of your shift.",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025309",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "7-23-09"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00025309"
+    ]
+  },
+  "additional_notes": "The document appears to be a log book for a suicide watch, with a mix of printed and handwritten text. The handwritten text is legible and appears to be a date and time entry."
+}

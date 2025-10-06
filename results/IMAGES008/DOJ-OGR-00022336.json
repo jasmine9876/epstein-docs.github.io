@@ -1,0 +1,81 @@
+{
+  "document_metadata": {
+    "page_number": "51",
+    "document_number": "DOJ-OGR-00022336",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information\n\nRachline, Nicholas\nRadziwill Carole\nRankin, Mr Gavin\nRappaport Don\nRattazzi Isabel\nRaynes, Patty\nReardan, Kate\nReyna Michael\nReynal, Miguel\nReza, Ali\nRitblat, Nick Rebecca Willis\nRitson Thomas Rupert\nRivers Joan\nMolise Rivers\nRobert, Joseph & Jill\nRoberts Deb\nRobiant, Mr Edmondo di Maya\nRobin\nRobinski Kasia/Pod\nRobinson, Jo & Lisa Shields\nRocksavage David",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Rachline, Nicholas\nRadziwill Carole\nRankin, Mr Gavin\nRappaport Don\nRattazzi Isabel",
+      "position": "left"
+    },
+    {
+      "type": "printed",
+      "content": "Raynes, Patty\nReardan, Kate\nReyna Michael\nReynal, Miguel\nReza, Ali",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Ritblat, Nick Rebecca Willis\nRitson Thomas Rupert\nRivers Joan\nMolise Rivers\nRobert, Joseph & Jill\nRoberts Deb",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Robiant, Mr Edmondo di Maya\nRobin\nRobinski Kasia/Pod\nRobinson, Jo & Lisa Shields\nRocksavage David",
+      "position": "right"
+    },
+    {
+      "type": "printed",
+      "content": "51",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022336",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Rachline, Nicholas",
+      "Radziwill Carole",
+      "Rankin, Mr Gavin",
+      "Rappaport Don",
+      "Rattazzi Isabel",
+      "Raynes, Patty",
+      "Reardan, Kate",
+      "Reyna Michael",
+      "Reynal, Miguel",
+      "Reza, Ali",
+      "Ritblat, Nick Rebecca Willis",
+      "Ritson Thomas Rupert",
+      "Rivers Joan",
+      "Robert, Joseph & Jill",
+      "Roberts Deb",
+      "Robiant, Mr Edmondo di Maya",
+      "Robin",
+      "Robinski Kasia/Pod",
+      "Robinson, Jo & Lisa Shields",
+      "Rocksavage David"
+    ],
+    "organizations": [],
+    "locations": [
+      "Molise Rivers"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022336"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 51, and the document number is DOJ-OGR-00022336."
+}

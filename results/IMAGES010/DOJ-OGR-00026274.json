@@ -1,0 +1,72 @@
+{
+  "document_metadata": {
+    "page_number": "2614",
+    "document_number": "DOJ-OGR-00026274",
+    "date": "07/30/2019",
+    "document_type": "Medical Record",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2614 Complex: NYM--NEW YORK MCC Begin Date: 07/02/2019 End Date: 07/30/2019 Inmate: EPSTEIN, JEFFREY EDWARD Reg #: 76318-054 Quarter: Z04-206LAD Active Prescriptions Omega 3 (Vascepa) 1 GM Capsule Take two capsules (2 GM) twice daily by mouth with food Rx#: 121885-NYM Doctor: [redacted] MD Start: 07/17/19 Exp: 01/13/20 Pharmacy Dispensing: 120 Cap in 14 days Insulin Reg (10 ML) 100 UNITS/ML Inj Inject regular insulin subcutaneously per sliding scale: twice daily ***pill line*** for 7 days ***pill line*** Rx#: 122148-NYM Doctor: [redacted] MD Start: 07/30/19 Exp: 08/06/19 Pharmacy Dispensing: 0 ML in 1 day Generated 07/30/2019 15:33 by [redacted] FOIA Bureau of Prisons - NYM Page 2 of 2",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 2614",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Complex: NYM--NEW YORK MCC Begin Date: 07/02/2019 End Date: 07/30/2019 Inmate: EPSTEIN, JEFFREY EDWARD Reg #: 76318-054 Quarter: Z04-206LAD",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Active Prescriptions",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Omega 3 (Vascepa) 1 GM Capsule Take two capsules (2 GM) twice daily by mouth with food Rx#: 121885-NYM Doctor: [redacted] MD Start: 07/17/19 Exp: 01/13/20 Pharmacy Dispensing: 120 Cap in 14 days",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Insulin Reg (10 ML) 100 UNITS/ML Inj Inject regular insulin subcutaneously per sliding scale: twice daily ***pill line*** for 7 days ***pill line*** Rx#: 122148-NYM Doctor: [redacted] MD Start: 07/30/19 Exp: 08/06/19 Pharmacy Dispensing: 0 ML in 1 day",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/30/2019 15:33 by [redacted] FOIA Bureau of Prisons - NYM Page 2 of 2",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons",
+      "NEW YORK MCC"
+    ],
+    "locations": [
+      "NEW YORK"
+    ],
+    "dates": [
+      "07/02/2019",
+      "07/30/2019",
+      "07/17/19",
+      "01/13/20",
+      "07/30/19",
+      "08/06/19",
+      "07/30/2019 15:33"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "Z04-206LAD",
+      "121885-NYM",
+      "122148-NYM",
+      "DOJ-OGR-00026274"
+    ]
+  },
+  "additional_notes": "The document contains redacted information, likely for privacy or security reasons."
+}

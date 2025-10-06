@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024581",
+    "date": "08/19/2019",
+    "document_type": "Log Entries By Event Date",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date: 08/19/2019 Time: 10:15 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count 8/8/2019 10:15 PM NYM Housing Units Housing Units, General Population EN 8/8/2019 10:14 PM Evening (User ID) Official Count - Summary Text: Clear Count: 79. Good unit count with 79 8/8/2019 10:17 PM NYM Housing Units Housing Units, General Population ES 8/8/2019 10:52 PM Evening Daily Activity - Summary Text: Good verbal count 8/8/2019 10:17 PM NYM Housing Units Housing Units, General Population ES 8/8/2019 10:54 PM Evening Daily Activity - Summary Text: Clear institutional count 8/8/2019 11:32 PM NYM Housing Units Housing Units, General Population ES 8/8/2019 11:32 PM Evening Watch Call - Summary Text: Completed. watch call completed all secured. 8/8/2019 11:33 PM NYM Housing Units Housing Units, General Population ES 8/8/2019 11:32 PM Evening Rounds (Officer) - Summary Text: Completed. Rounds made all secured. 8/8/2019 11:33 PM NYM Housing Units Housing Units, General Population ES 8/8/2019 11:33 PM Evening End Shift - Summary Text: Completed. End of shift.",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date: 08/19/2019 Time: 10:15 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "8/8/2019 10:15 PM NYM Housing Units Housing Units, General Population EN 8/8/2019 10:14 PM Evening (User ID) Official Count",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "(User ID)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "- Summary Text: Clear Count: 79. Good unit count with 79 8/8/2019 10:17 PM NYM Housing Units Housing Units, General Population ES 8/8/2019 10:52 PM Evening Daily Activity - Summary Text: Good verbal count 8/8/2019 10:17 PM NYM Housing Units Housing Units, General Population ES 8/8/2019 10:54 PM Evening Daily Activity - Summary Text: Clear institutional count 8/8/2019 11:32 PM NYM Housing Units Housing Units, General Population ES 8/8/2019 11:32 PM Evening Watch Call - Summary Text: Completed. watch call completed all secured. 8/8/2019 11:33 PM NYM Housing Units Housing Units, General Population ES 8/8/2019 11:32 PM Evening Rounds (Officer) - Summary Text: Completed. Rounds made all secured. 8/8/2019 11:33 PM NYM Housing Units Housing Units, General Population ES 8/8/2019 11:33 PM Evening End Shift - Summary Text: Completed. End of shift.",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024581",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [
+      "Housing Units",
+      "Housing Units, General Population"
+    ],
+    "dates": [
+      "08/19/2019",
+      "8/8/2019 10:14 PM",
+      "8/8/2019 10:52 PM",
+      "8/8/2019 10:54 PM",
+      "8/8/2019 11:32 PM",
+      "8/8/2019 11:33 PM"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00024581"
+    ]
+  },
+  "additional_notes": "The document appears to be a log entry report from the Federal Bureau of Prisons. The report contains a table with various columns such as Entered Date, Alpha Code, Level 1 Location, Level 2 Location, Level 3 Location, Event Date, Shift, User, Event, and Base Count. The table contains several rows with data related to housing units and general population. There is some handwritten text in the User column. The document has a footer with a reference number DOJ-OGR-00024581."
+}

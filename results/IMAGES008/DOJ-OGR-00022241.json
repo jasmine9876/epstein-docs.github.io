@@ -1,0 +1,80 @@
+{
+  "document_metadata": {
+    "page_number": "69",
+    "document_number": null,
+    "date": "1941",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date 1941 Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... Airplane Single Engine Multi Engine From To 5 G-11593 N908JC SAN SAF 1276 JE, SHANNON HGLY 1 1 6 7 G-11593 N908JC SAF TEB 1270 JE CLAIRE, VICTORIA HAZEL, ADAM 1 1 3 5 8 \" \" \" TEB CMH 1278 JE CLAIRE HAZEL 1 1 4 6 \" \" \" CMH TEB 1279 JE, CLAIRE, MARSHALL, IMALE 1 3 9 \" \" \" TEB PBI 1280 JG, ELIZABETH 1 2 5 13 \" \" \" PBI TEB 1281 JE, GM PAUL EPSEN, MANLY, ELIZABETH CLAIRE HAZEL 1 1 2 4 17 \" \" \" TEB PBI 1252 JE, GM PAUL EPSEN, ES, ELIZABETH HAZEL 1 2 4 19 C-172 N238BL LNA LNA 2/2 ALE FLY STAT 100% 7 20 G-11593 N908JC PBI TEB 253 JE, GM, CLAIRE, ES 1 2 5 22 \" \" \" TEB PBI 1254 JE, ET/JB 1 2 6 23 C-172 N238BL LNA FXC GND AMMO CPI RENEWAL 1 1 1 23 \" \" \" FXC LNA GND AMMO CPI RENEWAL 1 1 5 25 G-11593 N908JC PBI TST 255 JE, GM, AP, SHELLY HARRISON 1 1 2 5 26 \" \" \" TST TEB 1256 JE, GM, AP, SHELLY HARRISON 1 1 3 8 27 \" \" \" TEB TST 1257 JE, SHELLY LEWIS 1 1 3 5 29 \" \" \" TST PBI 1256 JE, SHELLY LEWIS 1 2 6 11 \" \" \" PBI SAF 1251 JE 1 1 3 7 12 \" \" \" SAF TEB 1290 JE, SOPHIE BIDDLE 1 1 3 5 14 \" \" \" TEB BED 1291 JE, GM, AP, AUDREY RAMBAULT, JET 1 1 7 I certify that the statements made by me on this form are true. Pilot's Signature: David Rodgers Page Total 16/14 42.8 Amount Forward 655.5 76180 33 74 3 Total to Date 6270.5 76608 33 74 3",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date 1941 Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... Airplane Single Engine Multi Engine From To",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "5 G-11593 N908JC SAN SAF 1276 JE, SHANNON HGLY 1 1 6 7 G-11593 N908JC SAF TEB 1270 JE CLAIRE, VICTORIA HAZEL, ADAM 1 1 3 5 8 \" \" \" TEB CMH 1278 JE CLAIRE HAZEL 1 1 4 6 \" \" \" CMH TEB 1279 JE, CLAIRE, MARSHALL, IMALE 1 3 9 \" \" \" TEB PBI 1280 JG, ELIZABETH 1 2 5 13 \" \" \" PBI TEB 1281 JE, GM PAUL EPSEN, MANLY, ELIZABETH CLAIRE HAZEL 1 1 2 4 17 \" \" \" TEB PBI 1252 JE, GM PAUL EPSEN, ES, ELIZABETH HAZEL 1 2 4 19 C-172 N238BL LNA LNA 2/2 ALE FLY STAT 100% 7 20 G-11593 N908JC PBI TEB 253 JE, GM, CLAIRE, ES 1 2 5 22 \" \" \" TEB PBI 1254 JE, ET/JB 1 2 6 23 C-172 N238BL LNA FXC GND AMMO CPI RENEWAL 1 1 1 23 \" \" \" FXC LNA GND AMMO CPI RENEWAL 1 1 5 25 G-11593 N908JC PBI TST 255 JE, GM, AP, SHELLY HARRISON 1 1 2 5 26 \" \" \" TST TEB 1256 JE, GM, AP, SHELLY HARRISON 1 1 3 8 27 \" \" \" TEB TST 1257 JE, SHELLY LEWIS 1 1 3 5 29 \" \" \" TST PBI 1256 JE, SHELLY LEWIS 1 2 6 11 \" \" \" PBI SAF 1251 JE 1 1 3 7 12 \" \" \" SAF TEB 1290 JE, SOPHIE BIDDLE 1 1 3 5 14 \" \" \" TEB BED 1291 JE, GM, AP, AUDREY RAMBAULT, JET 1 1 7",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature: David Rodgers",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "16/14 42.8 655.5 76180 33 74 3 6270.5 76608 33 74 3",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "SHANNON HGLY",
+      "CLAIRE",
+      "VICTORIA HAZEL",
+      "ADAM",
+      "JE CLAIRE HAZEL",
+      "MARSHALL",
+      "IMALE",
+      "ELIZABETH",
+      "PAUL EPSEN",
+      "MANLY",
+      "PAUL EPSEN",
+      "SHELLY HARRISON",
+      "SHELLY LEWIS",
+      "SOPHIE BIDDLE",
+      "AUDREY RAMBAULT",
+      "David Rodgers"
+    ],
+    "organizations": [],
+    "locations": [
+      "SAN",
+      "SAF",
+      "TEB",
+      "CMH",
+      "PBI",
+      "LNA",
+      "FXC",
+      "TST",
+      "BED"
+    ],
+    "dates": [
+      "1941"
+    ],
+    "reference_numbers": [
+      "G-11593",
+      "N908JC",
+      "C-172",
+      "N238BL"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log from 1941, containing handwritten entries detailing flight information, including dates, aircraft details, flight routes, and remarks. The log is signed by the pilot, David Rodgers."
+}

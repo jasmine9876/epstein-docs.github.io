@@ -1,0 +1,42 @@
+{
+  "document_metadata": {
+    "page_number": "2122",
+    "document_number": "DOJ-OGR-00025962",
+    "date": null,
+    "document_type": "log or record",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2122\n11:00am Inmate Companion assumes responsibility for inmate Epstein on cell #4\n11:15am Inmate Epstein is out on legal visit [b(6); (b)(7)(C)]\n1:30pm Inmate Epstein is out on a legal visit [b(6); (b)(7)(C)]\n11:45am Inmate Epstein is out on a legal visit [b(6); (b)(7)(C)]\n12:00pm Inmate Epstein is out on a legal visit [b(6); (b)(7)(C)]\n1:15pm Inmate Epstein is still out on legal visit [b(6); (b)(7)(C)]\n2:30pm Inmate Epstein is still out on legal visit [b(6); (b)(7)(C)]\n12:45pm Inmate Epstein is still out on legal visit [b(6); (b)(7)(C)]\n1:00pm Inmate Epstein is still out on legal visit\n1:15pm Inmate Epstein is out on legal visit [b(6); (b)(7)(C)]\n1:30pm Inmate Epstein is still out\nDOJ-OGR-00025962",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 2122",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "11:00am Inmate Companion assumes responsibility for inmate Epstein on cell #4\n11:15am Inmate Epstein is out on legal visit [b(6); (b)(7)(C)]\n1:30pm Inmate Epstein is out on a legal visit [b(6); (b)(7)(C)]\n11:45am Inmate Epstein is out on a legal visit [b(6); (b)(7)(C)]\n12:00pm Inmate Epstein is out on a legal visit [b(6); (b)(7)(C)]\n1:15pm Inmate Epstein is still out on legal visit [b(6); (b)(7)(C)]\n2:30pm Inmate Epstein is still out on legal visit [b(6); (b)(7)(C)]\n12:45pm Inmate Epstein is still out on legal visit [b(6); (b)(7)(C)]\n1:00pm Inmate Epstein is still out on legal visit\n1:15pm Inmate Epstein is out on legal visit [b(6); (b)(7)(C)]\n1:30pm Inmate Epstein is still out",
+      "position": "main"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025962",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Inmate Epstein",
+      "Inmate Companion"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "#4",
+      "DOJ-OGR-00025962"
+    ]
+  },
+  "additional_notes": "The document appears to be a log or record of inmate activities, specifically detailing the whereabouts and activities of Inmate Epstein throughout the day. The document contains handwritten entries with timestamps and descriptions of Inmate Epstein's status, including being out on legal visits. Several names or identifiers have been redacted with [b(6); (b)(7)(C)]. The document is labeled 'Page 2122' and has a document number 'DOJ-OGR-00025962' at the bottom."
+}

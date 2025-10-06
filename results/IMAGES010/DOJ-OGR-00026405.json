@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": "2749",
+    "document_number": "DOJ-OGR-00026405",
+    "date": "07/25/2019",
+    "document_type": "30 MINUTE CHECK SHEET",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "MCC NEW YORK SPECIAL HOUSING UNIT 30 MINUTE CHECK SHEET ZA TIER-K DATE: 07/25/2019 TIME FRAME TIME START TIME END SIGNATURE TIME FRAME TIME START TIME END SIGNATURE TIME FRAME TIME START TIME END SIGNATURE 12:00-12:30 AM 1210 1211 (b)(6); (b)(7)(C) 8:00-8:30 AM 818 832 (b)(6); (b)(7)(C) 4:00-4:30 PM 404 405 (b)(6); (b)(7)(C) 12:30- 1:00 AM 1238 1239 8:30- 9:00 AM 839 839 4:30-5:00 PM 434 435 1:00-1:30 AM 115 116 9:00-9:30 AM 915 915 5:00 -5:30 PM 512 513 1:30-2:00 AM 139 140 9:30-10:00 AM 908 908 5:30-6:00 PM 534 535 2:00-2:30 AM 209 210 10:00-10:30 AM 1039 1041 6:00-6:30 PM 672 673 2:30-3:00 AM 238 239 10:30-11:00 AM 1039 1041 6:30-7:00 PM 634 635 3:00-3:30 AM 309 310 11:00-11:30 AM 11:30-12:00 AM 7:00-7:30 PM 706 707 3:30-4:00 AM 338 338 12:00-12:30 PM 7:30-8:00 PM 737 738 4:00-4:30 AM 414 415 12:30- 1:00 PM 8:00-8:30 PM 812 813 4:30-5:00 AM 434 435 1:00-1:30 PM 8:30- 9:00 PM 834 835 5:00 -5:30 AM 515 516 1:30-2:00 PM 9:00-9:30 PM 912 913 5:30-6:00 AM 538 539 2:00-2:30 PM 9:30-10:00 PM 934 931 6:00-6:30 AM 611 612 2:30-3:00 PM 10:00-10:30 PM 1002 1003 6:30-7:00 AM 637 638 3:00-3:30 PM 10:30-11:00 PM 1034 1035 7:00-7:30 AM 714 715 3:30-4:00 PM 11:00-11:30 PM 1117 1117 7:30-8:00 AM 742 743 11:30-12:00 PM 1136 1137 MORNING WATCH OPERATIONS LIEUTENANT (b)(6); (b)(7)(C) DAY WATCH OPERATIONS LIEUTENANT (b)(6); (b)(7)(C) EVENING WATCH OPERATIONS LIEUTENANT (b)(6); (b)(7)(C) A staff member must observe all inmates confined in a continuous locked down status, such as administrative detention or disciplinary segregation, at least once in the first 30 minute period of the hour (example, 12:00 a.m. - 12:30 a.m.) followed by another round in the second 30 minutes period of the same hour (example, 12:30 am - 1:00 a.m.), thus ensuring an inmate is observed at least twice per hour. These rounds are to be conducted on an irregular schedule and no more than 40 minutes apart. All observations must be documented. REVIEWED BY MORNING WATCH LIEUTENANT CAPTAIN DOJ-OGR-00026405",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "MCC NEW YORK SPECIAL HOUSING UNIT 30 MINUTE CHECK SHEET ZA TIER-K DATE: 07/25/2019",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "TIME FRAME TIME START TIME END SIGNATURE TIME FRAME TIME START TIME END SIGNATURE TIME FRAME TIME START TIME END SIGNATURE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "1210 1211 818 832 404 405 1238 1239 839 839 434 435 115 116 915 915 512 513 139 140 908 908 534 535 209 210 1039 1041 672 673 238 239 1039 1041 634 635 309 310 11:30-12:00 AM 706 707 338 338 12:00-12:30 PM 737 738 414 415 12:30- 1:00 PM 812 813 434 435 1:00-1:30 PM 834 835 515 516 1:30-2:00 PM 912 913 538 539 2:00-2:30 PM 934 931 611 612 2:30-3:00 PM 1002 1003 637 638 3:00-3:30 PM 1034 1035 714 715 3:30-4:00 PM 1117 1117 742 743 11:30-12:00 PM 1136 1137",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "MORNING WATCH OPERATIONS LIEUTENANT DAY WATCH OPERATIONS LIEUTENANT EVENING WATCH OPERATIONS LIEUTENANT",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6); (b)(7)(C) (b)(6); (b)(7)(C) (b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "A staff member must observe all inmates confined in a continuous locked down status, such as administrative detention or disciplinary segregation, at least once in the first 30 minute period of the hour (example, 12:00 a.m. - 12:30 a.m.) followed by another round in the second 30 minutes period of the same hour (example, 12:30 am - 1:00 a.m.), thus ensuring an inmate is observed at least twice per hour. These rounds are to be conducted on an irregular schedule and no more than 40 minutes apart. All observations must be documented.",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "REVIEWED BY MORNING WATCH LIEUTENANT CAPTAIN",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "MCC NEW YORK"
+    ],
+    "locations": [
+      "NEW YORK"
+    ],
+    "dates": [
+      "07/25/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026405"
+    ]
+  },
+  "additional_notes": "The document contains handwritten entries and redactions. The document is a 30-minute check sheet for a special housing unit."
+}

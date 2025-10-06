@@ -1,0 +1,53 @@
+{
+  "document_metadata": {
+    "page_number": "280",
+    "document_number": "DOJ-OGR-00024818",
+    "date": null,
+    "document_type": "Mail Attachment",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 280\nMail Attachment\nPsych Reconst - Epstein #76318-054.pdf\nPage 699\nDOJ-OGR-00024818",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 280",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Mail Attachment",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Psych Reconst - Epstein #76318-054.pdf",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Page 699",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024818",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024818"
+    ]
+  },
+  "additional_notes": "The document appears to be a page from a larger report or document, with a header indicating the page number (280) and a footer indicating another page number (699) and a document ID (DOJ-OGR-00024818). The main content is a reference to a mail attachment, specifically a PDF file related to a psychological reconstruction of Epstein."
+}

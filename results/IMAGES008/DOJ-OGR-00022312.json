@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": "27",
+    "document_number": "DOJ-OGR-00022312",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Gertler, Eric Gibson, Caroline Gillifilan, Andrew Gillford, Lord & Lady Gillmour, Andrew & Emma Ginsberg Gary Gittis, Howard Giussani Luca Glanville Mary Glass, Charlie Glentworth, Edmund & Emily Goess, Pilar Goldberg, Ellen Goldsmith, Isabel Golinkin, Sandy Gomez, Thomas Getty, Pia and Chris Gibbs, Emma 27 DOJ-OGR-00022312",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Gertler, Eric Getty, Pia and Chris Gibbs, Emma Gibson, Caroline Gillifilan, Andrew Gillford, Lord & Lady Gillmour, Andrew & Emma Ginsberg Gary Gittis, Howard Giussani Luca Glanville Mary Glass, Charlie Glentworth, Edmund & Emily Goess, Pilar Goldberg, Ellen Goldsmith, Isabel Golinkin, Sandy Gomez, Thomas",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "27",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022312",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Gertler, Eric",
+      "Getty, Pia and Chris",
+      "Gibbs, Emma",
+      "Gibson, Caroline",
+      "Gillifilan, Andrew",
+      "Gillford, Lord & Lady",
+      "Gillmour, Andrew & Emma",
+      "Ginsberg Gary",
+      "Gittis, Howard",
+      "Giussani Luca",
+      "Glanville Mary",
+      "Glass, Charlie",
+      "Glentworth, Edmund & Emily",
+      "Goess, Pilar",
+      "Goldberg, Ellen",
+      "Goldsmith, Isabel",
+      "Golinkin, Sandy",
+      "Gomez, Thomas"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022312"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 27, and the document number is DOJ-OGR-00022312."
+}

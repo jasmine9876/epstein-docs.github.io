@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "17-295",
+    "date": "JAN-19-2005",
+    "document_type": "Public Records Request",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "JAN-19-2005 12:56 P.03 07/26/17 Page 62 of 114 Public Records Request No.: 17-295 DOJ-OGR-00030415",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "JAN-19-2005 12:56",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "P.03",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "messenger fax 206-625-8030 01/19/05 12:56",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 62 of 114",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00030415",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "JAN-19-2005",
+      "01/19/05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00030415"
+    ]
+  },
+  "additional_notes": "The document appears to be a fax transmission with a partially obscured fax header. The page is marked as 'P.03' and is part of a larger document (Page 62 of 114). The document is related to a Public Records Request No.: 17-295."
+}

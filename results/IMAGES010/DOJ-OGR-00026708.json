@@ -1,0 +1,90 @@
+{
+  "document_metadata": {
+    "page_number": "3068",
+    "document_number": "FD-597 (Rev 8-11-94)",
+    "date": "8/10/19",
+    "document_type": "Receipt for Property Received/Returned/Released/Seized",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "UNITED STATES DEPARTMENT OF JUSTICE FEDERAL BUREAU OF INVESTIGATION Receipt for Property Received/Returned/Released/Seized File # On (date) 8/10/19 item(s) listed below were: Received From Returned To Released To Seized (Name) BUREAU OF PRISONS, MDC COLLECTIONS CENTER (Street Address) 150 PARK ROW (City) NEW YORK NY 10009 Description of Item(s): 1. SEAGATE HARD DRIVE S/N: Z376C53A 2. HITACHI HARD DRIVE S/N: JP1572JEF36A12K 3. SEAGATE HARD DRIVE S/N: Z376CF5X 4. SEAGATE HARD DRIVE S/N: 902M5MT7P 5. HITACHI HARD DRIVE S/N: JP15725JEMWAK 6. SEAGATE HARD DRIVE S/N: 9QMSEC75 7. SEAGATE HARD DRIVE S/N: 5TH0072K (R) ZIMIPZPE 8. WESTERN DIGITAL HARD DRIVE S/N: WCAV2911026 9. WESTERN DIGITAL HARD DRIVE S/N: WCC2E3VC34CJ 10. SEAGATE HARD DRIVE S/N: 9QM8MSE2 11. SEAGATE HARD DRIVE S/N: 5T0072J11 (R) ZIMIPX26 12. SEAGATE HARD DRIVE S/N: 5T0070H (R) ZIMIQFX 13. WESTERN DIGITAL HARD DRIVE S/N: WCAV97470016 14. WESTERN DIGITAL HARD DRIVE S/N: WCC228E8374K 15. SEAGATE HARD DRIVE S/N: 9QM6MT6A 16. SEAGATE HARD DRIVE S/N: Z1M1P207 17. SEAGATE HARD DRIVE S/N: Z1M1L0Y6 18. SEAGATE HARD DRIVE S/N: 9QM8MSRR Received By: (Signature) Received From: (b)(6); (b)(7)(C) (b)(6); (b)(7)(C) DOJ-OGR-00026708",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "UNITED STATES DEPARTMENT OF JUSTICE FEDERAL BUREAU OF INVESTIGATION Receipt for Property Received/Returned/Released/Seized",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "File # On (date) item(s) listed below were: Received From Returned To Released To Seized",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/10/19",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "BUREAU OF PRISONS, MDC COLLECTIONS CENTER 150 PARK ROW NEW YORK NY 10009",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1. SEAGATE HARD DRIVE S/N: Z376C53A 2. HITACHI HARD DRIVE S/N: JP1572JEF36A12K 3. SEAGATE HARD DRIVE S/N: Z376CF5X 4. SEAGATE HARD DRIVE S/N: 902M5MT7P 5. HITACHI HARD DRIVE S/N: JP15725JEMWAK 6. SEAGATE HARD DRIVE S/N: 9QMSEC75 7. SEAGATE HARD DRIVE S/N: 5TH0072K (R) ZIMIPZPE 8. WESTERN DIGITAL HARD DRIVE S/N: WCAV2911026 9. WESTERN DIGITAL HARD DRIVE S/N: WCC2E3VC34CJ 10. SEAGATE HARD DRIVE S/N: 9QM8MSE2 11. SEAGATE HARD DRIVE S/N: 5T0072J11 (R) ZIMIPX26 12. SEAGATE HARD DRIVE S/N: 5T0070H (R) ZIMIQFX 13. WESTERN DIGITAL HARD DRIVE S/N: WCAV97470016 14. WESTERN DIGITAL HARD DRIVE S/N: WCC228E8374K 15. SEAGATE HARD DRIVE S/N: 9QM6MT6A 16. SEAGATE HARD DRIVE S/N: Z1M1P207 17. SEAGATE HARD DRIVE S/N: Z1M1L0Y6 18. SEAGATE HARD DRIVE S/N: 9QM8MSRR",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Received By: (Signature) Received From:",
+      "position": "bottom"
+    },
+    {
+      "type": "other",
+      "content": "(b)(6); (b)(7)(C) (b)(6); (b)(7)(C)",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "UNITED STATES DEPARTMENT OF JUSTICE",
+      "FEDERAL BUREAU OF INVESTIGATION",
+      "BUREAU OF PRISONS",
+      "MDC COLLECTIONS CENTER"
+    ],
+    "locations": [
+      "NEW YORK"
+    ],
+    "dates": [
+      "8/10/19",
+      "8-11-94"
+    ],
+    "reference_numbers": [
+      "FD-597",
+      "Z376C53A",
+      "JP1572JEF36A12K",
+      "Z376CF5X",
+      "902M5MT7P",
+      "JP15725JEMWAK",
+      "9QMSEC75",
+      "5TH0072K",
+      "ZIMIPZPE",
+      "WCAV2911026",
+      "WCC2E3VC34CJ",
+      "9QM8MSE2",
+      "5T0072J11",
+      "ZIMIPX26",
+      "5T0070H",
+      "ZIMIQFX",
+      "WCAV97470016",
+      "WCC228E8374K",
+      "9QM6MT6A",
+      "Z1M1P207",
+      "Z1M1L0Y6",
+      "9QM8MSRR",
+      "DOJ-OGR-00026708"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as '(b)(6); (b)(7)(C)' in several places, indicating sensitive information has been withheld."
+}

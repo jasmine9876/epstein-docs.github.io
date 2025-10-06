@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028541",
+    "date": "010711",
+    "document_type": "PQH API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 PQH API/HIT DATA 042814 *B *A *C NAME DOB ----- QUERY ----- LNE TERM/ DATE TIME AGN RSLT TYP REF LANE API EPSTEIN, JEFFREY EDWARD 012053 010711 0925 CUS *D AIR JK06 N A511-CBP-CYRIL E KING, INTL TECS RECORD ID : CARRIER CODE : 99 AIRLINE CODE FOR PRIVATE FLT/VES NUMBER : 722JE (b) (7) (E) (b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6) , (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) DOJ-OGR-00028541",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07 PQH API/HIT DATA 042814",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB ----- QUERY ----- LNE TERM/ DATE TIME AGN RSLT TYP REF LANE API",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY EDWARD 012053 010711 0925 CUS *D AIR JK06 N A511-CBP-CYRIL E KING, INTL",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "TECS RECORD ID :",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CARRIER CODE : 99 AIRLINE CODE FOR PRIVATE FLT/VES NUMBER : 722JE",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "(b) (7) (E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b) (7) (E) *B - (b) (6) , (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028541",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "CBP"
+    ],
+    "locations": [
+      "CYRIL E KING, INTL"
+    ],
+    "dates": [
+      "010711",
+      "012053"
+    ],
+    "reference_numbers": [
+      "A511-CBP-CYRIL E KING, INTL",
+      "722JE",
+      "DOJ-OGR-00028541"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b) (6), (b) (7) (C), and (b) (7) (E)."
+}

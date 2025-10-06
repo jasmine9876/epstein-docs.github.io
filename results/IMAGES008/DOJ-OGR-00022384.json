@@ -1,0 +1,38 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "DOJ-OGR-00022384",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "*Redacted to protect potential victim information A DOJ-OGR-00022384",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redacted to protect potential victim information",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "A",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022384",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022384"
+    ]
+  },
+  "additional_notes": "The document contains redactions and handwritten annotations. The page number '3' is handwritten at the bottom right corner."
+}

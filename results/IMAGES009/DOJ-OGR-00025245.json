@@ -1,0 +1,52 @@
+{
+  "document_metadata": {
+    "page_number": "1001",
+    "document_number": "76318-054",
+    "date": null,
+    "document_type": "Mail Attachment",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 1001 Mail Attachment Epstein Reconstruction 76318-054 draft7 OGC Comments.docx Page 2271 DOJ-OGR-00025245",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 1001",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Mail Attachment",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Epstein Reconstruction 76318-054 draft7 OGC Comments.docx",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Page 2271",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025245",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ",
+      "OGC"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00025245"
+    ]
+  },
+  "additional_notes": "The document appears to be a blank page with header and footer information. The content is likely related to the Epstein Reconstruction project."
+}

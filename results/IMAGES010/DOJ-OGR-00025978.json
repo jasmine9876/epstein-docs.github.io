@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "2138",
+    "document_number": "DOJ-OGR-00025978",
+    "date": "7/23/19",
+    "document_type": "Suicide Watch Observation Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Suicide Watch Observation Log\nName of Inmate on watch: Epstein Reg #: 76316.054 Date: 7/23/19\nTime Observations: Briefly note your observations. Initial all entries. Initials\n1:40 AM I/m Brought Down to Suicide Cell #4 b(6); (b)(7)(C)\n1:45 AM I/m lying on BED\n2:00 AM I/m Sitting on Bed talking\n2:15 AM (b)(7)(A)\n2:30 AM I/m Sitting on bed trying to remember what Happen\n2:45 AM I/m Sitting on BED\n3:00 AM I/m Sitting on BED\n3:15 AM I/m takes pictures of I/m b(6); (b)(7)(C)\n3:30 AM I/m Sitting on BED\n3:45 AM I/m Sitting on Bed\n4:00 AM I/m Sitting on BED\n4:15 AM I/m Sitting on Bed\n4:30 AM I/m Standing at Door talking\n4:45 AM I/m Standing at Door talking\n5:00 AM I/m Sitting on bed\n5:15 AM I/m Standing at Door\n5:30 AM I/m Standing at Door\n5:45 AM I/m Standing at Door\n6:00 AM I/m Standing at Door\n\nNote to all observers: Legibly print and sign your name at the beginning of your shift.",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Suicide Watch Observation Log",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Name of Inmate on watch: Reg #: Date:",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "76316.054 7/23/19",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Time Observations: Briefly note your observations. Initial all entries. Initials",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "1:40 AM I/m Brought Down to Suicide Cell #4 b(6); (b)(7)(C)\n1:45 AM I/m lying on BED\n2:00 AM I/m Sitting on Bed talking\n2:15 AM (b)(7)(A)\n2:30 AM I/m Sitting on bed trying to remember what Happen\n2:45 AM I/m Sitting on BED\n3:00 AM I/m Sitting on BED\n3:15 AM I/m takes pictures of I/m b(6); (b)(7)(C)\n3:30 AM I/m Sitting on BED\n3:45 AM I/m Sitting on Bed\n4:00 AM I/m Sitting on BED\n4:15 AM I/m Sitting on Bed\n4:30 AM I/m Standing at Door talking\n4:45 AM I/m Standing at Door talking\n5:00 AM I/m Sitting on bed\n5:15 AM I/m Standing at Door\n5:30 AM I/m Standing at Door\n5:45 AM I/m Standing at Door\n6:00 AM I/m Standing at Door",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Note to all observers: Legibly print and sign your name at the beginning of your shift.",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/23/19"
+    ],
+    "reference_numbers": [
+      "76316.054",
+      "DOJ-OGR-00025978"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned copy of a handwritten log. The handwriting is mostly legible, but some entries are difficult to read due to the quality of the scan. There are redactions in the initials column."
+}

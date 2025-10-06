@@ -1,0 +1,76 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028358",
+    "date": "101606",
+    "document_type": "PQH API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 PQH API/HIT DATA 042814 *B *A *C NAME DOB ----- QUERY ----- LNE TERM/ DATE TIME AGN RSLT TYP REF LANE API EPSTEIN, JEFFREY 012053 101606 2339 CUS *D AIR :W02 N A461-TETERBORO, AIRPORT HANG TECS RECORD ID : CARRIER CODE : ZZ UNKOWN AIRLINE CODE FLT/VES NUMBER : 909JE (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) DOJ-OGR-00028358",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07 PQH API/HIT DATA 042814",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB ----- QUERY ----- LNE TERM/ DATE TIME AGN RSLT TYP REF LANE API",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY 012053 101606 2339 CUS *D AIR :W02 N A461-TETERBORO, AIRPORT HANG",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TECS RECORD ID :",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CARRIER CODE : ZZ UNKOWN AIRLINE CODE FLT/VES NUMBER : 909JE",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "(b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "(b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028358",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "TETERBORO"
+    ],
+    "dates": [
+      "101606",
+      "012053"
+    ],
+    "reference_numbers": [
+      "909JE",
+      "DOJ-OGR-00028358"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(7)(E), (b)(6), and (b)(7)(C). The document appears to be a record of a query related to an individual, JEFFREY EPSTEIN, and contains information about his flight details."
+}

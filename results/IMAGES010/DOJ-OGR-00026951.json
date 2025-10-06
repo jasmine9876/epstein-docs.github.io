@@ -1,0 +1,86 @@
+{
+  "document_metadata": {
+    "page_number": "3362",
+    "document_number": "NYMAQ 530*05",
+    "date": "08-05-2019",
+    "document_type": "Inmate Roster",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 3362\nNYMAQ 530*05 * INMATE ROSTER * 08-05-2019\nPAGE 001 OF 001 15:20:04\nCATEGORY: OCT GROUP CODE:\nASSIGNMENT: ATTY FACILITY: NYM\nOPER CATG ASSIGNMENT OPER CATG ASSIGNMENT\nNUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK\n0001 ATTY [b](6),(b)(7)(C) 08-05-2019 I04-930U UNASSG\n0002 76318-054 EPSTEIN 08-05-2019 Z04-206T.AD UNASSG\n0003 [b](6),(b)(7)(C) 08-05-2019 I01-904I UNASSG\n0004 [b](6),(b)(7)(C) 08-05-2019 Z03-110T.AD UNASSG\nG0000 TRANSACTION SUCCESSFULLY COMPLETED\nDOJ-OGR-00026951",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3362",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NYMAQ 530*05 * INMATE ROSTER * 08-05-2019",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CATEGORY: OCT GROUP CODE:",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "ASSIGNMENT: ATTY FACILITY: NYM",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0001 ATTY [b](6),(b)(7)(C) 08-05-2019 I04-930U UNASSG",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0002 76318-054 EPSTEIN 08-05-2019 Z04-206T.AD UNASSG",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0003 [b](6),(b)(7)(C) 08-05-2019 I01-904I UNASSG",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0004 [b](6),(b)(7)(C) 08-05-2019 Z03-110T.AD UNASSG",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "G0000 TRANSACTION SUCCESSFULLY COMPLETED",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026951",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "EPSTEIN"
+    ],
+    "organizations": [
+      "NYM"
+    ],
+    "locations": [],
+    "dates": [
+      "08-05-2019"
+    ],
+    "reference_numbers": [
+      "NYMAQ 530*05",
+      "76318-054",
+      "DOJ-OGR-00026951"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as [b](6),(b)(7)(C)."
+}

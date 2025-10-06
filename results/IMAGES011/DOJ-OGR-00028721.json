@@ -1,0 +1,116 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028721",
+    "date": "032714",
+    "document_type": "API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:08 PQH API/HIT DATA 042814 *B *A *C NAME DOB DATE TIME AGN RSLT LNE TYP REF TERM/ LANE API EPSTEIN, JEFFREY E 012053 032714 0000 *D API US P INSP: APIS QRY XXX -UNKNOWN AIRPORT (USED O DOC: 469911707 API DATA ---- INDICATOR : R REPORTED CARRIER CODE : *GA GENERAL AVIATION FLT/VES NUMBER : N212JE ARRIVAL LOCATION : XXX UNKNOWN AIRPORT (USED ON DEPARTURE LOCATION : TEB TETERBORO TRANSMITTED BY : APGA928N GENERAL AVIATION INBOUND/OUTBOUND : OUTBOUND (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) (b)(7)(E) DOJ-OGR-00028721",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:08 PQH API/HIT DATA 042814",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB DATE TIME AGN RSLT LNE TYP REF TERM/ LANE API",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY E 012053 032714 0000 API US P INSP: APIS QRY",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "XXX -UNKNOWN AIRPORT (USED O DOC: 469911707",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "API DATA ----",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "INDICATOR : R REPORTED",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CARRIER CODE : *GA GENERAL AVIATION",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FLT/VES NUMBER : N212JE",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "ARRIVAL LOCATION : XXX UNKNOWN AIRPORT (USED ON",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DEPARTURE LOCATION : TEB TETERBORO",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TRANSMITTED BY : APGA928N GENERAL AVIATION",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "INBOUND/OUTBOUND : OUTBOUND",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028721",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY E EPSTEIN"
+    ],
+    "organizations": [
+      "GENERAL AVIATION"
+    ],
+    "locations": [
+      "UNKNOWN AIRPORT",
+      "PETERBORO"
+    ],
+    "dates": [
+      "032714",
+      "012053"
+    ],
+    "reference_numbers": [
+      "469911707",
+      "N212JE",
+      "APGA928N",
+      "DOJ-OGR-00028721"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted API/HIT DATA report. Several fields are blacked out with redactions marked as (b)(7)(E) and (b)(6), (b)(7)(C)."
+}

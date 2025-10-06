@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "DOJ-OGR-00024094",
+    "date": "07/30/2019",
+    "document_type": "Clinical Encounter",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Bureau of Prisons Health Services Clinical Encounter Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Encounter Date: 07/30/2019 15:58 Sex: M Race: WHITE Reg #: 76318-054 Provider: (b)(6), (b)(7)(C) MD Facility: NYM Unit: Z01 Chronic Care - Chronic Care Clinic encounter performed at Health Services. SUBJECTIVE: COMPLAINT 1 Provider: (b)(6), (b)(7)(C) MD Chief Complaint: Other Problem Subjective: PATIENT WAS REFERRED BY THE WARDEN FOR EVALUATION. PATIENT REPORTS HE HAS BEEN WITHOUT HIS MEDS FOR ABOUT 1 WEEK. HE ALSO REPORTS NUMBNESS IN HIS RIGHT ARM FOR A FEW MINUTES 3 DAYS AGO. STATES THE NUMBNESS WENT AWAY ON ITS OWN, BUT WAS VERY CONCERNING. HE DENIES RIGHT SIDED WEAKNESS, DIPLOPIA, FACIAL DROOP, DIFFICULTY SPEAKING OR SWALLOWING. HE REPORTS NOCTURIA OF ABOUT 5 TIMES., HE DENIES DYSURIA. HE REPORTS H OF KIDNEY STONES, HX OF HTN FOR WHICH HE WAS TAKING TOPROL. HE AHS A HX OF SLEEP APNEA AND STATED HE HAS NOT SLEPT FOR 3 WEEKS ISNCE HE HASB EEN HERE SINCE HE DIE NOT HAVE ACCESST HI CPAP MACHINE. I INFORME DHIM THAT WE RECEIVED HIS CPAP MACHINE AND IT WILL BE GIVEN TO HIM TONIGHT. HE REPORT OTHER NON-MEDICAL ISSUES. STATES HE FEELS OTHERWISE FINE. Pain: Not Applicable Seen for clinic(s): Pulmonary/Respiratory, Orthopedic/Rheumatology, Endocrine/Lipid OBJECTIVE: Exam: General Affect Yes: Cooperative Appearance Yes: Appears Well, Alert and Oriented x 3 No: Appears Distressed, Dyspneic, Appears in Pain, Writhing in Pain, Pale, Pallor, Cyanotic, Diaphoretic, Disheveled, Unkempt, Acutely Ill Nutrition No: Appears Obese Pulmonary Auscultation Yes: Clear to Auscultation Cardiovascular Auscultation Yes: Regular Rate and Rhythm (RRR), Normal S1 and S2 No: M/R/G Musculoskeletal Tibia / Fibula No: Edema Neurologic Generated 07/30/2019 16:12 by (b)(6), (b)(7)(C) MD Bureau of Prisons - NYM Page 1 of 2 DOJ-OGR-00024094",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Bureau of Prisons Health Services Clinical Encounter",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Encounter Date: 07/30/2019 15:58 Sex: M Race: WHITE Reg #: 76318-054 Provider: (b)(6), (b)(7)(C) MD Facility: NYM Unit: Z01",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Chronic Care - Chronic Care Clinic encounter performed at Health Services. SUBJECTIVE: COMPLAINT 1 Provider: (b)(6), (b)(7)(C) MD Chief Complaint: Other Problem",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Subjective: PATIENT WAS REFERRED BY THE WARDEN FOR EVALUATION. PATIENT REPORTS HE HAS BEEN WITHOUT HIS MEDS FOR ABOUT 1 WEEK. HE ALSO REPORTS NUMBNESS IN HIS RIGHT ARM FOR A FEW MINUTES 3 DAYS AGO. STATES THE NUMBNESS WENT AWAY ON ITS OWN, BUT WAS VERY CONCERNING. HE DENIES RIGHT SIDED WEAKNESS, DIPLOPIA, FACIAL DROOP, DIFFICULTY SPEAKING OR SWALLOWING. HE REPORTS NOCTURIA OF ABOUT 5 TIMES., HE DENIES DYSURIA. HE REPORTS H OF KIDNEY STONES, HX OF HTN FOR WHICH HE WAS TAKING TOPROL. HE AHS A HX OF SLEEP APNEA AND STATED HE HAS NOT SLEPT FOR 3 WEEKS ISNCE HE HASB EEN HERE SINCE HE DIE NOT HAVE ACCESST HI CPAP MACHINE. I INFORME DHIM THAT WE RECEIVED HIS CPAP MACHINE AND IT WILL BE GIVEN TO HIM TONIGHT. HE REPORT OTHER NON-MEDICAL ISSUES. STATES HE FEELS OTHERWISE FINE.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Pain: Not Applicable Seen for clinic(s): Pulmonary/Respiratory, Orthopedic/Rheumatology, Endocrine/Lipid OBJECTIVE: Exam: General Affect Yes: Cooperative Appearance Yes: Appears Well, Alert and Oriented x 3 No: Appears Distressed, Dyspneic, Appears in Pain, Writhing in Pain, Pale, Pallor, Cyanotic, Diaphoretic, Disheveled, Unkempt, Acutely Ill Nutrition No: Appears Obese Pulmonary Auscultation Yes: Clear to Auscultation Cardiovascular Auscultation Yes: Regular Rate and Rhythm (RRR), Normal S1 and S2 No: M/R/G Musculoskeletal Tibia / Fibula No: Edema Neurologic",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/30/2019 16:12 by (b)(6), (b)(7)(C) MD Bureau of Prisons - NYM Page 1 of 2 DOJ-OGR-00024094",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN",
+      "(b)(6), (b)(7)(C)"
+    ],
+    "organizations": [
+      "Bureau of Prisons",
+      "NYM"
+    ],
+    "locations": [],
+    "dates": [
+      "01/20/1953",
+      "07/30/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024094"
+    ]
+  },
+  "additional_notes": "The document appears to be a clinical encounter report for Jeffrey Epstein, an inmate at NYM facility. The report details his medical complaints, examination results, and treatment plans. Some personal identifiable information is redacted."
+}

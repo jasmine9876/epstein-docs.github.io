@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "7",
+    "document_number": "DOJ-OGR-00023495",
+    "date": "07-29-2019",
+    "document_type": "Inmate Record",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "QTR Assig. Inmate Name Reg. No Unit IA Date Status PRFDS DST Admitting Officer Z04-206LAD EPSTEIN, JEFFREY EDWARD 76318-054 5 07-29-2019 AD (b)(6); (b)(7)(C) Reason: PENDING DHO FOR CODE 228 SELF-MUTILATION Psychology Services Comments: Health Services Comments: Unit Team Comments: Correctional Services Comments: PENDING DHO FOR CODE 228 SELF-MUTILATION/ INMATE SUICIDE ATTEMPT ON 7-23-2019 Page 7 of 27 DOJ-OGR-00023495",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "QTR Assig. Inmate Name Reg. No Unit IA Date Status PRFDS DST Admitting Officer",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Z04-206LAD EPSTEIN, JEFFREY EDWARD 76318-054 5 07-29-2019 AD (b)(6); (b)(7)(C)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Reason: PENDING DHO FOR CODE 228 SELF-MUTILATION",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Psychology Services Comments: Health Services Comments: Unit Team Comments: Correctional Services Comments:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PENDING DHO FOR CODE 228 SELF-MUTILATION/ INMATE SUICIDE ATTEMPT ON 7-23-2019",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 7 of 27",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00023495",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "07-29-2019",
+      "7-23-2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "Z04-206LAD",
+      "DOJ-OGR-00023495"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as (b)(6); (b)(7)(C). The document appears to be a record related to an inmate, Jeffrey Edward Epstein, and includes details about his status and comments from various services."
+}

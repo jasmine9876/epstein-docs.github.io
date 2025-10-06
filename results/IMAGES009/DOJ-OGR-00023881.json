@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": "8",
+    "document_number": "DOJ-OGR-00023881",
+    "date": "7/22/2019",
+    "document_type": "STATEMENT OF SPONSORING ATTORNEY",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "STATEMENT OF SPONSORING ATTORNEY\nI hereby certify that I am a licensed member of the bar of the State of New York\nand that I employ or supervise ______________________________.\nI authorize ______________________________ to represent me and request that as my representative she/he be allowed to interview and correspond with Jeffrey Epstein ______________________________,\nFederal Register Number 76318-054 ______________________________,\nwho is currently confined at MDC Brooklyn/ MCC New York, I further certify that ______________________________ is aware of the responsibility of her/his role as my representative and is able to meet this responsibility. I pledge that I will supervise my representative's activities. I accept personal and professional responsibility for all acts of my representative which affect the institution, its inmates or staff.\nAttorney's printed name: ______________________________\nAddress: 810 Seventh Ave., Ste. 620 / New York, NY 10019\nTelephone Number: 646-801-____________________________\nAttorney's Signature ______________________________\nDate Completed 7/22/2019\nPage 8 of 10\nRevised 2/01/08\nDOJ-OGR-00023881",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "STATEMENT OF SPONSORING ATTORNEY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "I hereby certify that I am a licensed member of the bar of the State of New York and that I employ or supervise ______________________________.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "I authorize ______________________________ to represent me and request that as my representative she/he be allowed to interview and correspond with Jeffrey Epstein ______________________________,\nFederal Register Number 76318-054 ______________________________,\nwho is currently confined at MDC Brooklyn/ MCC New York, I further certify that ______________________________ is aware of the responsibility of her/his role as my representative and is able to meet this responsibility. I pledge that I will supervise my representative's activities. I accept personal and professional responsibility for all acts of my representative which affect the institution, its inmates or staff.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Attorney's printed name: ______________________________\nAddress: 810 Seventh Ave., Ste. 620 / New York, NY 10019\nTelephone Number: 646-801-____________________________\nAttorney's Signature ______________________________\nDate Completed",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/22/2019",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 8 of 10",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Revised 2/01/08",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00023881",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein"
+    ],
+    "organizations": [],
+    "locations": [
+      "New York",
+      "MDC Brooklyn",
+      "MCC New York"
+    ],
+    "dates": [
+      "7/22/2019",
+      "2/01/08"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00023881",
+      "646-801"
+    ]
+  },
+  "additional_notes": "The document contains redactions and handwritten date."
+}

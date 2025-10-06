@@ -1,0 +1,43 @@
+{
+  "document_metadata": {
+    "page_number": "442",
+    "document_number": "DOJ-OGR-00024919",
+    "date": null,
+    "document_type": "Mail Attachment",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 442 Mail Attachment Governor's Executive Assignment .pdf Page 1222 DOJ-OGR-00024919",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 442",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Mail Attachment Governor's Executive Assignment .pdf",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Page 1222",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024919",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00024919"
+    ]
+  },
+  "additional_notes": "The document appears to be a page from a larger document or report, with a header and footer indicating page numbers and a reference number. The content is mostly blank, with only a title 'Mail Attachment Governor's Executive Assignment .pdf' present."
+}

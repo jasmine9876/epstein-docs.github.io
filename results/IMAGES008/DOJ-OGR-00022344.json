@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": "59",
+    "document_number": "DOJ-OGR-00022344",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Theodoli Catherine Tholstrup, Moegens Tholstrup, Paola Thompson, Barnaby Tisch, David Tisch, Meryl and Jimmy Tish, Anne & Andrew Titopupolo Sonia Todhunter, Emily Olypitts Toledo Ignacio, Alvarez de Tollman, Bea Tollman, Brett Tollman, Mr. & Mrs. Tollman, Syrie & Gavin Tollman, Wyne Toub, Veronica (Busson) Treacy Philip Trump Blaine & Robert Trump, Ivana Trump, Ivanka DOJ-OGR-00022344",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Theodoli Catherine Tholstrup, Moegens Tholstrup, Paola Thompson, Barnaby Tisch, David Tisch, Meryl and Jimmy Tish, Anne & Andrew Titopupolo Sonia Todhunter, Emily Olypitts Toledo Ignacio, Alvarez de Tollman, Bea Tollman, Brett Tollman, Mr. & Mrs. Tollman, Syrie & Gavin Tollman, Wyne Toub, Veronica (Busson) Treacy Philip Trump Blaine & Robert Trump, Ivana Trump, Ivanka",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022344",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "59",
+      "position": "margin"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Theodoli Catherine",
+      "Tholstrup, Moegens",
+      "Tholstrup, Paola",
+      "Thompson, Barnaby",
+      "Tisch, David",
+      "Tisch, Meryl and Jimmy",
+      "Tish, Anne & Andrew",
+      "Titopupolo Sonia",
+      "Todhunter, Emily Olypitts",
+      "Toledo Ignacio, Alvarez de",
+      "Tollman, Bea",
+      "Tollman, Brett",
+      "Tollman, Mr. & Mrs.",
+      "Tollman, Syrie & Gavin",
+      "Tollman, Wyne",
+      "Toub, Veronica (Busson)",
+      "Treacy Philip",
+      "Trump Blaine & Robert",
+      "Trump, Ivana",
+      "Trump, Ivanka"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022344"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 59, and the document number is DOJ-OGR-00022344."
+}

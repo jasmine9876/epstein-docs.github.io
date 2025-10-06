@@ -1,0 +1,69 @@
+{
+  "document_metadata": {
+    "page_number": "2 of 2",
+    "document_number": "DOJ-OGR-00024095",
+    "date": "07/30/2019",
+    "document_type": "Medical Record",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Encounter Date: 07/30/2019 15:58 Sex: M Race: WHITE Reg #: 76318-054 Provider: [redacted] MD Facility: NYM Unit: Z01 Exam: Cranial Nerves (CN) Yes: Within Normal Limits Motor System-General Yes: Normal Exam Motor System-Strength Yes: Normal Muscular Strength ASSESSMENT: Body mass index (BMI) 27.0-27.9, adult, Z6827 - Current Constipation, unspecified, K5900 - Current Essential (primary) hypertension, I10 - Current - BY HX. Hyperlipidemia, unspecified, E785 - Current Low back pain, M545 - Current Neuralgia and neuritis, unspecified, M792 - Current Prediabetes, R7303 - Current Sleep apnea, G4730 - Current PLAN: New Medication Orders: Rx# Medication Order Date Prescriber Order INsulin REG - Human 07/30/2019 15:58 SLIDING SCALE Subcutaneously each morning x 7 day(s) Pill Line Only Indication: Prediabetes Discontinued Medication Orders: Rx# Medication Order Date Prescriber Order 122148-NYM Insulin Reg (10 ML) 100 UNITS/ML Inj 07/30/2019 15:58 Inject regular insulin subcutaneously per sliding scale: twice daily ***pill line*** for 7 days Discontinue Type: When Pharmacy Processes Discontinue Reason: new order written Indication: Copay Required: No Cosign Required: No Telephone/Verbal Order: No Completed by [redacted] MD on 07/30/2019 16:12 Generated 07/30/2019 16:12 by [redacted] MD Bureau of Prisons - NYM Page 2 of 2 DOJ-OGR-00024095",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Encounter Date: 07/30/2019 15:58 Sex: M Race: WHITE Reg #: 76318-054 Provider: [redacted] MD Facility: NYM Unit: Z01",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Exam: Cranial Nerves (CN) Yes: Within Normal Limits Motor System-General Yes: Normal Exam Motor System-Strength Yes: Normal Muscular Strength",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "ASSESSMENT: Body mass index (BMI) 27.0-27.9, adult, Z6827 - Current Constipation, unspecified, K5900 - Current Essential (primary) hypertension, I10 - Current - BY HX. Hyperlipidemia, unspecified, E785 - Current Low back pain, M545 - Current Neuralgia and neuritis, unspecified, M792 - Current Prediabetes, R7303 - Current Sleep apnea, G4730 - Current",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PLAN: New Medication Orders: Rx# Medication Order Date Prescriber Order INsulin REG - Human 07/30/2019 15:58 SLIDING SCALE Subcutaneously each morning x 7 day(s) Pill Line Only Indication: Prediabetes",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Discontinued Medication Orders: Rx# Medication Order Date Prescriber Order 122148-NYM Insulin Reg (10 ML) 100 UNITS/ML Inj 07/30/2019 15:58 Inject regular insulin subcutaneously per sliding scale: twice daily ***pill line*** for 7 days",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Discontinue Type: When Pharmacy Processes Discontinue Reason: new order written Indication: Copay Required: No Cosign Required: No Telephone/Verbal Order: No Completed by [redacted] MD on 07/30/2019 16:12",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/30/2019 16:12 by [redacted] MD Bureau of Prisons - NYM Page 2 of 2 DOJ-OGR-00024095",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/30/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "122148-NYM",
+      "DOJ-OGR-00024095"
+    ]
+  },
+  "additional_notes": "The document contains redacted information, likely for privacy or security reasons. The document appears to be a medical record from the Bureau of Prisons."
+}

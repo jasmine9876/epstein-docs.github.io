@@ -1,0 +1,75 @@
+{
+  "document_metadata": {
+    "page_number": "2903",
+    "document_number": "NYMBB 530*05",
+    "date": "08-12-2019",
+    "document_type": "Inmate Roster",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2903 NYMBB 530*05 INMATE ROSTER 08-12-2019 02:16:45 PAGE 001 OF 001 CATEGORY: OCT GROUP CODE: ASSIGNMENT: HOSP FACILITY: NYM OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK 0001 HOSP (b)(6),(b)(7)(C) 08-12-2019 E05-535L SUICIDE OR UNASSG 0002 08-12-2019 E03-519L SUICIDE OR UNASSG 0003 08-12-2019 K09-028U SUICIDE OR G0000 TRANSACTION SUCCESSFULLY COMPLETED DOJ-OGR-00026559",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 2903",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NYMBB 530*05 INMATE ROSTER 08-12-2019 02:16:45",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE 001 OF 001 CATEGORY: OCT GROUP CODE: ASSIGNMENT: HOSP FACILITY: NYM OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK",
+      "position": "table_header"
+    },
+    {
+      "type": "printed",
+      "content": "0001 HOSP (b)(6),(b)(7)(C) 08-12-2019 E05-535L SUICIDE OR UNASSG",
+      "position": "table_row"
+    },
+    {
+      "type": "printed",
+      "content": "0002 08-12-2019 E03-519L SUICIDE OR UNASSG",
+      "position": "table_row"
+    },
+    {
+      "type": "printed",
+      "content": "0003 08-12-2019 K09-028U SUICIDE OR",
+      "position": "table_row"
+    },
+    {
+      "type": "printed",
+      "content": "G0000 TRANSACTION SUCCESSFULLY COMPLETED",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026559",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "08-12-2019"
+    ],
+    "reference_numbers": [
+      "NYMBB 530*05",
+      "DOJ-OGR-00026559"
+    ]
+  },
+  "additional_notes": "The document appears to be a roster of inmates, with some information redacted."
+}

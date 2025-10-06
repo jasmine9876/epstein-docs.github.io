@@ -1,0 +1,43 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024459",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "(b)(6); (b)(7)(C) X completed PROTO (b)(6); (b)(7)(C) (friend) DOJ-OGR-00024459",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "X completed PROTO",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "(friend)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024459",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "margin"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00024459"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as '(b)(6); (b)(7)(C)'. The image is heavily obscured with a green overlay, making most of the content unreadable."
+}

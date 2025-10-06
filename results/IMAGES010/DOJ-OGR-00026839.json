@@ -1,0 +1,32 @@
+{
+  "document_metadata": {
+    "page_number": "3250",
+    "document_number": "DOJ-OGR-00026839",
+    "date": null,
+    "document_type": "log or record",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "1:00 AM Inmate EPSTEIN is laying down\n1:05 AM Inmate EPSTEIN is pacing his cell\n1:15 AM Inmate EPSTEIN is pacing his cell\n1:25 AM Staff rounds - TIS\n1:30 AM Inmate EPSTEIN is pacing cell\n1:45 AM Inmate EPSTEIN is talking to me and I'm explaining prison life and etiquette to him\n2:00 AM Still explaining\n2:15 AM Still explaining\n2:30 AM Still explaining about prisons, the basics of what's what, who's who, and how's how\n2:33 AM Glass is over; Inmate EPSTEIN is laying down\n2:45 AM Inmate EPSTEIN is sleeping\n2:47 AM End of Shift\n3:00 AM Started Shift\n3:15 AM Inmate EPSTEIN Appears to be sleep\n3:30 AM Inmate EPSTEIN Appears to be sleep\n3:45 AM Inmate EPSTEIN is using the bathroom\n4:00 AM Inmate EPSTEIN is laying down",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "1:00 AM Inmate EPSTEIN is laying down\n1:05 AM Inmate EPSTEIN is pacing his cell\n1:15 AM Inmate EPSTEIN is pacing his cell\n1:25 AM Staff rounds - TIS\n1:30 AM Inmate EPSTEIN is pacing cell\n1:45 AM Inmate EPSTEIN is talking to me and I'm explaining prison life and etiquette to him\n2:00 AM Still explaining\n2:15 AM Still explaining\n2:30 AM Still explaining about prisons, the basics of what's what, who's who, and how's how\n2:33 AM Glass is over; Inmate EPSTEIN is laying down\n2:45 AM Inmate EPSTEIN is sleeping\n2:47 AM End of Shift\n3:00 AM Started Shift\n3:15 AM Inmate EPSTEIN Appears to be sleep\n3:30 AM Inmate EPSTEIN Appears to be sleep\n3:45 AM Inmate EPSTEIN is using the bathroom\n4:00 AM Inmate EPSTEIN is laying down",
+      "position": "main content"
+    }
+  ],
+  "entities": {
+    "people": [
+      "EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "prison"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00026839"
+    ]
+  },
+  "additional_notes": "The document appears to be a handwritten log or record of observations of Inmate EPSTEIN. The handwriting is mostly legible, but some parts are marked out or redacted. The document is likely related to a law enforcement or correctional context."
+}

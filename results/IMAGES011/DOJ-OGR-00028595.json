@@ -1,0 +1,81 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028595",
+    "date": "04/05/2012",
+    "document_type": "SECONDARY INSPECTION",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07:55 SECONDARY INSPECTION 04/28/2014 *A *B ENTRY: 04/05/2012 UPDATE: 04/05/2012 *C INSPECTION DTE: 04/05/2012 PORT/SITE: 4904/A495 CULEBRA, PORT DIRECTOR LAST NAME:* EPSTEIN FIRST:* JEFFREY DOB:* 01201953 RCPT#: DOC TYPE: P #: 469911707 ISSUING CNTRY: US ID-ST: GENDER:* M RACE:* W WHITE CARRIER:* G1A FLT/VES #: * N491GM HISPANIC:* N (Y/N) IN/OUT:* I DEPART/DESTIN:* STT FLT/VES CREW:* N (Y/N) EMBARK:* STT REFERRING OFFICER CODE: (b) (7) (E) REASON FOR REFERRAL: (b) (7) (E) BAG EXAM:* N (Y/N) # BAGS X-RAYED: PRSNL SRCH:* N (Y/N) # PAX ON DEC:* 1 POS/NEG INSP:* N (P/N/U) REFERRAL TIME:* 11 : 20 COMPLETION TIME:* 13 : 34 IOEM:* (Y/N) IOEM#: CCD USED:* D (Y/N) CAT 1 OR 2: VIOL CDS: INCIDENT #: REMARKS: (b) (7) (E) INSP COMPLETE:* Y (Y/N) ** SECONDARY INSPECTION COMPLETE ** (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) *E - (b) (7) (E)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07:55 SECONDARY INSPECTION 04/28/2014",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "*B ENTRY: 04/05/2012 UPDATE: 04/05/2012 *C INSPECTION DTE: 04/05/2012 PORT/SITE: 4904/A495 CULEBRA, PORT DIRECTOR",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "LAST NAME:* EPSTEIN FIRST:* JEFFREY DOB:* 01201953 RCPT#: DOC TYPE: P #: 469911707 ISSUING CNTRY: US ID-ST:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "GENDER:* M RACE:* W WHITE CARRIER:* G1A FLT/VES #: * N491GM HISPANIC:* N (Y/N) IN/OUT:* I DEPART/DESTIN:* STT FLT/VES CREW:* N (Y/N) EMBARK:* STT",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "REFERRING OFFICER CODE: (b) (7) (E) REASON FOR REFERRAL: (b) (7) (E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "BAG EXAM:* N (Y/N) # BAGS X-RAYED: PRSNL SRCH:* N (Y/N) # PAX ON DEC:* 1 POS/NEG INSP:* N (P/N/U) REFERRAL TIME:* 11 : 20 COMPLETION TIME:* 13 : 34 IOEM:* (Y/N) IOEM#: CCD USED:* D (Y/N)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CAT 1 OR 2: VIOL CDS: INCIDENT #: REMARKS: (b) (7) (E) INSP COMPLETE:* Y (Y/N) ** SECONDARY INSPECTION COMPLETE **",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) *E - (b) (7) (E)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028595",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "CULEBRA, PORT DIRECTOR"
+    ],
+    "locations": [
+      "CULEBRA"
+    ],
+    "dates": [
+      "04/05/2012",
+      "04/28/2014",
+      "01/20/1953"
+    ],
+    "reference_numbers": [
+      "469911707",
+      "N491GM",
+      "4904/A495",
+      "DOJ-OGR-00028595"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b) (7) (E) and other codes. The inspection was completed on 04/05/2012."
+}

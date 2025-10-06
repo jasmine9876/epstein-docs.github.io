@@ -1,0 +1,59 @@
+{
+  "document_metadata": {
+    "page_number": "3060",
+    "document_number": "BP-A0971",
+    "date": "AUG 11",
+    "document_type": "CHAIN OF CUSTODY LOG CDFRM",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 3060\nBP-A0971\nAUG 11\nCHAIN OF CUSTODY LOG CDFRM\nU.S. DEPARTMENT OF JUSTICE\nFEDERAL BUREAU OF PRISONS\nECN #\nITEM #\nCASE ID NUMBER:\nDESCRIPTION OF ITEM:\nDATE/TIME ITEM FOUND:\nLOCATION:\nSIGNATURE OF PERSON RECOVERING EVIDENCE:\nPRINTED NAME:\nEVIDENCE PLACED IN OVERNIGHT DROP BOX:\nDROP-BOX BY: (printed name)\nDate & Time:\nWitness: (printed name)\nEVIDENCE RECOVERED FROM OVERNIGHT DROP BOX BY:\n(printed name)\nDate & Time:\nWitness: (printed name)\nEVIDENCE PLACED EVIDENCE SAFE BY:\n(printed name)\nDate & Time:\nWitness: (printed name)\nDISPOSITION:\n( ) Hold as evidence\n( ) Return to owner\n( ) Lab Analysis\n( ) Return to finder\n( ) Destroy immediately\n( ) FBI\nREMARKS (condition of evidence):\n*************************** CHAIN OF CUSTODY ***************************\nEVIDENCE RELEASED BY:\nDATE/TIME:\nDESTINATION:\nEVIDENCE RELEASED TO:\nPDF\nPrescribed by P5510\nDOJ-OGR-00026700",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "CHAIN OF CUSTODY LOG CDFRM",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "U.S. DEPARTMENT OF JUSTICE\nFEDERAL BUREAU OF PRISONS",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Court Slips 8/10/19. ART Signature Sheets, Locator sheet to include all images",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "released 8/13/19 4:31pm",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "SIS H\n8/13/19 4:31pm DOJ OF 6",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "U.S. DEPARTMENT OF JUSTICE",
+      "FEDERAL BUREAU OF PRISONS",
+      "FBI",
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "AUG 11",
+      "8/10/19",
+      "8/13/19"
+    ],
+    "reference_numbers": [
+      "BP-A0971",
+      "P5510",
+      "DOJ-OGR-00026700"
+    ]
+  },
+  "additional_notes": "The document contains handwritten text and redactions."
+}

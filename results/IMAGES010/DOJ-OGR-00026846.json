@@ -1,0 +1,47 @@
+{
+  "document_metadata": {
+    "page_number": "3257",
+    "document_number": "DOJ-OGR-00026846",
+    "date": null,
+    "document_type": "Inmate Observation Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 3257\n\nEPSTIEw 76318-054\n\n385 Inmate Epstein is Pacing Back & Forth [redacted]\nInmate Epstein is sleeping Pacing Back & forth\nInmate Epstein is Pacing Around\n415 Inmate Epstein is walking around cell\n400 Inmate Epstein is pacing around cell\nInmate Epstein is sleeping\n50 Inmate Epstein appears to be sleeping\n550 Inmate appears to be sleeping\n630 Inmate Epstein is sleep\n645 Inmate Epstein is sleep\n680 Inmate Epstein is sleeping\n645 Inmate Epstein is pacing\n620 Inmate Epstein is using bathroom\n630 Inmate Epstein is pacing the cell\n700 Inmate Epstein is up pacing around cell\nInmate Epstein is pacing around his broadcast\nInmate [redacted] Signing Vis\n7:15 I/C assumes responsibility\nfor inmate Epstein #76318-054 in cell #4\n7:30 Inmate Epstein is pacing around the room\n7:45 Inmate Epstein is sitting on the bed\n7:45 Inmate Epstein is talking to the psyche\nPsych not to know of ly [redacted]",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3257",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "EPSTIEw 76318-054",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "385 Inmate Epstein is Pacing Back & Forth [redacted]\nInmate Epstein is sleeping Pacing Back & forth\nInmate Epstein is Pacing Around\n415 Inmate Epstein is walking around cell\n400 Inmate Epstein is pacing around cell\nInmate Epstein is sleeping\n50 Inmate Epstein appears to be sleeping\n550 Inmate appears to be sleeping\n630 Inmate Epstein is sleep\n645 Inmate Epstein is sleep\n680 Inmate Epstein is sleeping\n645 Inmate Epstein is pacing\n620 Inmate Epstein is using bathroom\n630 Inmate Epstein is pacing the cell\n700 Inmate Epstein is up pacing around cell\nInmate Epstein is pacing around his broadcast\nInmate [redacted] Signing Vis\n7:15 I/C assumes responsibility\nfor inmate Epstein #76318-054 in cell #4\n7:30 Inmate Epstein is pacing around the room\n7:45 Inmate Epstein is sitting on the bed\n7:45 Inmate Epstein is talking to the psyche\nPsych not to know of ly [redacted]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026846",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [
+      "cell #4"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "76318-054"
+    ]
+  },
+  "additional_notes": "The document is a handwritten log of observations of inmate Epstein. The handwriting is mostly legible, but some parts are redacted. The document appears to be a photocopy or scan of the original log."
+}

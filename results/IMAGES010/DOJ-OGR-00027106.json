@@ -1,0 +1,76 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "(b)(6); (b)(7)(C) 8/2 (b)(6); (b)(7)(C) Epstein 76318.007 8:00 1:21 (b)(6); (b)(7)(C) 7 8/2 (b)(6); (b)(7)(C) Epstein 76318.007 10th DOJ-OGR-00027106",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/2",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein 76318.007 8:00 1:21",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "7 8/2",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein 76318.007 10th",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027106",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "8/2",
+      "10th"
+    ],
+    "reference_numbers": [
+      "76318.007",
+      "DOJ-OGR-00027106"
+    ]
+  },
+  "additional_notes": "The document has been heavily redacted, with most of the content obscured by green highlighting. The visible text is primarily handwritten and appears to be notes or annotations. The presence of '(b)(6); (b)(7)(C)' suggests that the redactions are related to privacy or law enforcement exemptions under the Freedom of Information Act (FOIA)."
+}

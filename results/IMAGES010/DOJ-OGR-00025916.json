@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "2042",
+    "document_number": "DOJ-OGR-00025916",
+    "date": "2019/08/10",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2042\nEpstein, Jeffrey Edward, Reg. No. 73618-054 information\nFrom Charisma Edge\nTo Lamine N'Diaye\nDate 2019/08/10 16:35\nSubject: Epstein, Jeffrey Edward, Reg. No. 73618-054 information\nAttachments: TEXT.htm, Epstein, Jeffrey Edward, Reg. No. 73618-054 information.docx, Charisma Edge.vcf\nSo far this is the documentation I have in my possession.\nCharisma Edge\nAssociate Warden\nMCC New York\n150 Park Row\nNew York, NY 10007\n646-836-6300 ext. (b)(6); (b)(7)(C)\n(b)(6); (b)(7)(C)@bop.gov\nNYM/AW-Programs-@bop.gov\nPage 11390\nDOJ-OGR-00025916",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Epstein, Jeffrey Edward, Reg. No. 73618-054 information",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "From Charisma Edge\nTo Lamine N'Diaye\nDate 2019/08/10 16:35\nSubject: Epstein, Jeffrey Edward, Reg. No. 73618-054 information\nAttachments: TEXT.htm, Epstein, Jeffrey Edward, Reg. No. 73618-054 information.docx, Charisma Edge.vcf",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "So far this is the documentation I have in my possession.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Charisma Edge\nAssociate Warden\nMCC New York\n150 Park Row\nNew York, NY 10007\n646-836-6300 ext. (b)(6); (b)(7)(C)\n(b)(6); (b)(7)(C)@bop.gov\nNYM/AW-Programs-@bop.gov",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 11390\nDOJ-OGR-00025916",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Edward Epstein",
+      "Charisma Edge",
+      "Lamine N'Diaye"
+    ],
+    "organizations": [
+      "MCC New York",
+      "BOP"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "2019/08/10"
+    ],
+    "reference_numbers": [
+      "73618-054",
+      "DOJ-OGR-00025916"
+    ]
+  },
+  "additional_notes": "The document appears to be an email with attachments related to Jeffrey Epstein. Some parts of the contact information are redacted."
+}

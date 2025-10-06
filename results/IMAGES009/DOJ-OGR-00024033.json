@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Inmate Sign-in Sheet",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE NAME Signature Inmate Reg# Time in (b)(6), (b)(7)(C) 7/26 Sadler Dsoster 243k-09 12/15 (b)(6), (b)(7)(C) 9/2 Guzman UB Gopl 7600/30 (b)(6), (b)(7)(C) 7/26 Caliendo r Dps/m 76515 osis 20 DOJ-OGR-00024033",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE NAME Signature Inmate Reg# Time in",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/26 Sadler Dsoster 243k-09 12/15",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "9/2 Guzman UB Gopl 7600/30",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/26 Caliendo r Dps/m 76515 osis 20",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024033",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Sadler",
+      "Guzman",
+      "Caliendo"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/26",
+      "9/2",
+      "12/15",
+      "7600/30",
+      "76515"
+    ],
+    "reference_numbers": [
+      "243k-09",
+      "7600/30",
+      "76515",
+      "DOJ-OGR-00024033"
+    ]
+  },
+  "additional_notes": "The document appears to be a partially redacted inmate sign-in sheet with handwritten entries. Some information is obscured by green redactions."
+}

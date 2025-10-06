@@ -1,0 +1,93 @@
+{
+  "document_metadata": {
+    "page_number": "8083",
+    "document_number": "DOJ-OGR-00023915",
+    "date": "2019/07/25",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "NYPOST From [REDACTED] To [REDACTED] Date 2019/07/25 07:52 Subject: NYPOST Attachments: TEXT.htm Top story on the website https://nypost.com/2019/07/24/jeffrey-epstein-found-nearly-unconscious-with-injuries-to-his-neck-in-nyc-jail-cell/ Page 8083 DOJ-OGR-00023915",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "NYPOST",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "From",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "[REDACTED]",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "To",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "[REDACTED]",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Date 2019/07/25 07:52",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Subject: NYPOST",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Attachments: TEXT.htm",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Top story on the website",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "https://nypost.com/2019/07/24/jeffrey-epstein-found-nearly-unconscious-with-injuries-to-his-neck-in-nyc-jail-cell/",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 8083",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00023915",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "NYPOST",
+      "DOJ"
+    ],
+    "locations": [
+      "NYC"
+    ],
+    "dates": [
+      "2019/07/25",
+      "2019/07/24"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00023915"
+    ]
+  },
+  "additional_notes": "The document appears to be an email with a redacted sender and recipient. The email contains a link to a news article about Jeffrey Epstein. The document has been paginated and has a reference number."
+}

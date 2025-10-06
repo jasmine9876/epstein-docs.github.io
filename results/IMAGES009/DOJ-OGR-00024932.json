@@ -1,0 +1,51 @@
+{
+  "document_metadata": {
+    "page_number": "457",
+    "document_number": "76318-054",
+    "date": null,
+    "document_type": "Mail Attachment",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 457\nMail Attachment\nEpstein Reconstruction 76318-054 draft7.docx\nPage 1264\nDOJ-OGR-00024932",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 457",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Mail Attachment",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Epstein Reconstruction 76318-054 draft7.docx",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Page 1264",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024932",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024932"
+    ]
+  },
+  "additional_notes": "The document appears to be a page from a larger document, likely a court filing or report. The content is mostly metadata, with page numbers and a reference to a specific document attachment."
+}

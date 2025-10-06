@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": "2085",
+    "document_number": "DOJ-OGR-00025927",
+    "date": "07/24/2019",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": ">>> [b(5)] 07/24/2019 22:47 >>>\nhi [b(5)]\nhope you are well. We saw an article tonight on someting called RadarOnline reporting that Jeffrey Epstein attempted to commit suicide at the MCC (unsuccessfully.)\nAre you in a position to help me on that with some sort of confirmation or information. (Or to dispel its veracity?) thanks, [b(5)]\n---\n[b(5)]\nReporter, The New York Times\nOffice: 212-556-[b(5)]\nMobile: 914-672-[b(6)]\nEmail: [b(5)]@nytimes.com\n@ [b(5)] nyt",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": ">>> [b(5)] 07/24/2019 22:47 >>>\nhi [b(5)]\nhope you are well. We saw an article tonight on someting called RadarOnline reporting that Jeffrey Epstein attempted to commit suicide at the MCC (unsuccessfully.)\nAre you in a position to help me on that with some sort of confirmation or information. (Or to dispel its veracity?) thanks, [b(5)]",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "---",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "[b(5)]\nReporter, The New York Times\nOffice: 212-556-[b(5)]\nMobile: 914-672-[b(6)]\nEmail: [b(5)]@nytimes.com\n@ [b(5)] nyt",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page 11596",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025927",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "The New York Times",
+      "RadarOnline",
+      "MCC"
+    ],
+    "locations": [],
+    "dates": [
+      "07/24/2019"
+    ],
+    "reference_numbers": [
+      "212-556-[b(5)]",
+      "914-672-[b(6)]",
+      "DOJ-OGR-00025927"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted email from a reporter at The New York Times. The redactions are likely due to privacy or security concerns."
+}

@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": "2910",
+    "document_number": "NYMBB 530.03",
+    "date": "08-12-2019",
+    "document_type": "BUREAU OF PRISONS COUNT SHEET",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2910 NYMBB 530.03 * BUREAU OF PRISONS COUNT SHEET * 08-12-2019 PAGE 001 NEW YORK MCC QTRG EQ **** OCTG EQ **** 01:16:49 ATTY COUNT SECTION OUT COUNT IN COUNT VERIFY COUNT COUNT AREA CENSUS B-A (b)(7)(F) B-A C-A (b)(7)(F) C-A E-N . . 1 . . . . 1 E-N E-S . . 1 . . . . 1 E-S G-N . . . . . . . G-N G-S . . . . . . . G-S H-A . . . . . . . H-A I-N . . . . . . . I-N K-N . . 1 . . . 1 K-N K-S . . . . . . . K-S R-A . . . . . . . R-A Z-A . . . . . . . Z-A Z-B . . . . . . . Z-B TOTAL . . 3 . . . 3 COUNT VERIFY X OFFICIAL PREPARING COUNT: (b)(6); (b)(7)(C) OFFICIAL TAKING COUNT: COUNT CLEARED TIME: (b)(7)(F) Good Verbal! DOJ-OGR-00026566",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "NYMBB 530.03 * BUREAU OF PRISONS COUNT SHEET * 08-12-2019 PAGE 001 NEW YORK MCC QTRG EQ **** OCTG EQ **** 01:16:49",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "ATTY COUNT SECTION OUT COUNT IN COUNT VERIFY COUNT COUNT AREA CENSUS",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "B-A C-A E-N E-S G-N G-S H-A I-N K-N K-S R-A Z-A Z-B TOTAL",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "X",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "Good Verbal!",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "OFFICIAL PREPARING COUNT: (b)(6); (b)(7)(C) OFFICIAL TAKING COUNT: COUNT CLEARED TIME: (b)(7)(F)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026566",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "BUREAU OF PRISONS",
+      "DOJ"
+    ],
+    "locations": [
+      "NEW YORK MCC"
+    ],
+    "dates": [
+      "08-12-2019"
+    ],
+    "reference_numbers": [
+      "NYMBB 530.03",
+      "DOJ-OGR-00026566"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6); (b)(7)(C); (b)(7)(F). The count sheet appears to be a record of a count conducted at the New York MCC on August 12, 2019. The document includes a handwritten 'X' and the phrase 'Good Verbal!'."
+}

@@ -1,0 +1,71 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": "042814",
+    "document_type": "PQH API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 *B PQH API/HIT DATA 042814 *A *C ----- QUERY ----- LNE TERM/ NAME DOB DATE TIME AGN RSLT TYP REF LANE API EPSTEIN, JEFFREY 012053 060507 0825 CUS *D AIR JK41 N A512-CBP-ST THOMAS, VI PRECL TECS RECORD ID : CARRIER CODE : FLT/VES NUMBER : UNKN (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) DOJ-OGR-00028352",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07 *B PQH API/HIT DATA 042814 *A *C",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "----- QUERY ----- LNE TERM/ NAME DOB DATE TIME AGN RSLT TYP REF LANE API",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY 012053 060507 0825 CUS *D AIR JK41 N A512-CBP-ST THOMAS, VI PRECL",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "TECS RECORD ID : CARRIER CODE : FLT/VES NUMBER : UNKN",
+      "position": "middle"
+    },
+    {
+      "type": "other",
+      "content": "(b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "other",
+      "content": "(b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028352",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "THOMAS, VI"
+    ],
+    "dates": [
+      "012053",
+      "060507",
+      "042814"
+    ],
+    "reference_numbers": [
+      "A512-CBP-ST"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as (b)(7)(E), (b)(6), and (b)(7)(C). The document appears to be a data query result related to an individual, JEFFREY EPSTEIN."
+}

@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Inmate Visit Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE NAME Signature Inmate Reg # IN OUT 7/21 Indyke Colon Marill Epstein Epstein 76318-054 76318-054 10:15 12:00 3:00 6:00 7-21 Calindo (b)(6); (b)(7)(C) 1 1 Epstein 76318-054 1:50 7/21 Cullender (b)(6); (b)(7)(C) m Epstein 76318-054 5:07 5:54 7/21 Soella (b)(6); (b)(7)(C) go Epstein 76318-054 5:50 7/22 G. Tali (b)(6); (b)(7)(C) Rl... J. Epstein 76318-054 8:47 10:51",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE NAME Signature Inmate Reg # IN OUT",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/21 Indyke Colon Marill Epstein Epstein 76318-054 76318-054 10:15 12:00 3:00 6:00",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "7-21 Calindo (b)(6); (b)(7)(C) 1 1 Epstein 76318-054 1:50",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/21 Cullender (b)(6); (b)(7)(C) m Epstein 76318-054 5:07 5:54",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/21 Soella (b)(6); (b)(7)(C) go Epstein 76318-054 5:50",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/22 G. Tali (b)(6); (b)(7)(C) Rl... J. Epstein 76318-054 8:47 10:51",
+      "position": "body"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Indyke Colon",
+      "Calindo",
+      "Cullender",
+      "Soella",
+      "G. Tali",
+      "J. Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/21",
+      "7-21",
+      "7/21",
+      "7/21",
+      "7/22"
+    ],
+    "reference_numbers": [
+      "76318-054"
+    ]
+  },
+  "additional_notes": "The document appears to be an inmate visit log for Jeffrey Epstein, with various visitors listed on July 21 and July 22. Some names and details are redacted."
+}

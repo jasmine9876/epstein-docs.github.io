@@ -1,0 +1,55 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Inmate Visit Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE | NAME | Signature | Inmate | Legth | Time IN | Time OUT (b)(6), (b)(7)(C) (b)(6) (b)(6) Epstein 76318 054 <:45 (b)(6) (b)(7)(C) 7/15 G. Tali An Epstein 76318 - 054 6:30 un (b)(6), (b)(7)(C) 7/16 Caliroh W Epstein 76318 - 054 6:20 7:5 (b)(6), (b)(7)(C) 7/16 Sade My Epstein 76318. 054 6:30 6:6",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE | NAME | Signature | Inmate | Legth | Time IN | Time OUT",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6), (b)(7)(C) (b)(6) (b)(6) Epstein 76318 054 <:45",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/15 G. Tali An Epstein 76318 - 054 6:30 un",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/16 Caliroh W Epstein 76318 - 054 6:20 7:5",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/16 Sade My Epstein 76318. 054 6:30 6:6",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [
+      "G. Tali",
+      "Caliroh",
+      "Sade"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/15",
+      "7/16"
+    ],
+    "reference_numbers": [
+      "76318-054"
+    ]
+  },
+  "additional_notes": "The document appears to be a log of visits to an inmate named Epstein with ID number 76318-054. Some names and details are redacted."
+}

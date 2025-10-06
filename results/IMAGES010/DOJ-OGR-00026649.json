@@ -1,0 +1,135 @@
+{
+  "document_metadata": {
+    "page_number": "3009",
+    "document_number": "NYMGW 530*05",
+    "date": "08-09-2019",
+    "document_type": "Inmate Roster",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 3009\nNYMGW 530*05 * INMATE ROSTER 08-09-2019 14:50:28\nPAGE 001 OF 001 CATEGORY: OCT GROUP CODE: \nASSIGNMENT: FS FACILITY: NYM\nOPER CATG ASSIGNMENT OPER CATG ASSIGNMENT\nNUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK\n0001 FS (b)(6); (b)(7)(C) 08-09-2019 K12-062U FS PM\n0002 08-09-2019 E12-593U FS PM SUICIDE OR\n0003 08-09-2019 K12-065U FS PM\n0004 08-09-2019 K09-025U FS PM SUICIDE OR\n0005 08-09-2019 K07-007L FS PM\n0006 08-09-2019 K11-053U FS PM\n0007 08-09-2019 E07-556U FS PM\n0008 08-09-2019 K09-027U FS PM\n0009 08-09-2019 K12-061L FS PM\n0010 08-09-2019 E12-592U FS PM SUICIDE OR\n0011 08-09-2019 K12-078U FS PM\n0012 08-09-2019 K10-045U FS PM\n0013 08-09-2019 K08-074U FS PM\nG0000 TRANSACTION SUCCESSFULLY COMPLETED\nDOJ-OGR-00026649",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3009",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NYMGW 530*05 * INMATE ROSTER 08-09-2019 14:50:28",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE 001 OF 001 CATEGORY: OCT GROUP CODE: ",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "ASSIGNMENT: FS FACILITY: NYM",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "0001 FS (b)(6); (b)(7)(C) 08-09-2019 K12-062U FS PM",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0002 08-09-2019 E12-593U FS PM SUICIDE OR",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0003 08-09-2019 K12-065U FS PM",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0004 08-09-2019 K09-025U FS PM SUICIDE OR",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0005 08-09-2019 K07-007L FS PM",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0006 08-09-2019 K11-053U FS PM",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0007 08-09-2019 E07-556U FS PM",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0008 08-09-2019 K09-027U FS PM",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0009 08-09-2019 K12-061L FS PM",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0010 08-09-2019 E12-592U FS PM SUICIDE OR",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0011 08-09-2019 K12-078U FS PM",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0012 08-09-2019 K10-045U FS PM",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0013 08-09-2019 K08-074U FS PM",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "G0000 TRANSACTION SUCCESSFULLY COMPLETED",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026649",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "08-09-2019"
+    ],
+    "reference_numbers": [
+      "NYMGW 530*05",
+      "DOJ-OGR-00026649"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b)(6); (b)(7)(C)'. The document appears to be a roster of inmates, with details about their assignments, quarters, and work details."
+}

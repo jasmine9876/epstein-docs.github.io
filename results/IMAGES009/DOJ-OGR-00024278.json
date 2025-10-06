@@ -1,0 +1,110 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024278",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Epstein 76318-004 10:15 1-2 Sep 54 76318-004 11:20 11 1:30 Epstein 76016-004 3:05 5:05 Epstein 7631804 5:35 5:35",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "Epstein",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318-004",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "10:15",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "1-2 Sep 54",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318-004",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "11:20",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "11",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1:30",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "76016-004",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "3:05",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "5:05",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "7631804",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "5:35",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "5:35",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "1-2 Sep 54"
+    ],
+    "reference_numbers": [
+      "76318-004",
+      "76016-004",
+      "7631804",
+      "DOJ-OGR-00024278"
+    ]
+  },
+  "additional_notes": "The document appears to be a log or record of some sort, with handwritten entries. The text is mostly legible, but some parts are obscured by green rectangles. The document has been redacted in some areas, with '(b)(6), (b)(7)(C)' appearing in several places."
+}

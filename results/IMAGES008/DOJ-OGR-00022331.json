@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": "46",
+    "document_number": "DOJ-OGR-00022331",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information O'Donnell, Mr Carletto Otsen, Camille Oppenheim, Ms Marella Oswald, William & Arabella O'Neill, Louis Omar, Ralph Orchard (Vaughn-Edward), Katie Oates, Simon Ong BS & Christina Otto, Beo & Edvige Oates, Tom Ong Melissa Owen Edmunds, Tom & Kate Ojora, Yinka Oppenheim, Mr Laurie Orlando, Fabrice Osbourne Rachel",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "O'Donnell, Mr Carletto Otsen, Camille Oppenheim, Ms Marella Oswald, William & Arabella O'Neill, Louis Omar, Ralph Orchard (Vaughn-Edward), Katie Oates, Simon Ong BS & Christina Otto, Beo & Edvige Oates, Tom Ong Melissa Owen Edmunds, Tom & Kate Ojora, Yinka Oppenheim, Mr Laurie Orlando, Fabrice Osbourne Rachel",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "46",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022331",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "O'Donnell, Mr Carletto",
+      "Otsen, Camille",
+      "Oppenheim, Ms Marella",
+      "Oswald, William & Arabella",
+      "O'Neill, Louis",
+      "Omar, Ralph",
+      "Orchard (Vaughn-Edward), Katie",
+      "Oates, Simon",
+      "Ong BS & Christina",
+      "Oates, Tom",
+      "Ong Melissa",
+      "Ojora, Yinka",
+      "Oppenheim, Mr Laurie",
+      "Orlando, Fabrice",
+      "Osbourne Rachel",
+      "Otto, Beo & Edvige",
+      "Owen Edmunds, Tom & Kate"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022331"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 46, and the document number is DOJ-OGR-00022331."
+}

@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "3096",
+    "document_number": "DOJ-OGR-00026736",
+    "date": "8/19/19",
+    "document_type": "Official Count Slip",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 3096 Metropolitan Correctional Center Official Count Slip Unit: HA Date: 8+9+19 Count: (b)(7)(F) Time: 3:00AM Print Name: (b)(6); (b)(7)(C) Signature: Print Name: Signature: Metropolitan Correctional Center Official Count Slip Unit: HOSP Date: 81919 Count: (b)(7)(F) Time: 3:00 AM Print Name: (b)(6); (b)(7)(C) Signature: Print Name: Signature: Metropolitan Correctional Center Official Count Slip Unit: SHU Date: 8/9/19 Count: (b)(7)(F) Time: 8:00 Print Name: (b)(6); (b)(7)(C) Signature: Print Name: Signature: DOJ-OGR-00026736",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "HA 8+9+19 3:00AM",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Unit: Date: Count: Time: Print Name: Signature: Print Name: Signature:",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "HOSP 81919 3:00 AM",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "SHU 8/9/19 8:00",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026736",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [],
+    "dates": [
+      "8/19/19",
+      "8/9/19"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026736"
+    ]
+  },
+  "additional_notes": "The document contains three Official Count Slips from the Metropolitan Correctional Center, all dated 8/19/19. The slips are for different units: HA, HOSP, and SHU. Some fields are redacted with (b)(6); (b)(7)(C) and (b)(7)(F)."
+}

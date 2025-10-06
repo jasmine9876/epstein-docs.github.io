@@ -1,0 +1,59 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "DOJ-OGR-00024134",
+    "date": "07/09/2019",
+    "document_type": "Medical Record",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Inmate Name: EPSTEIN, JEFFREY EDWARD\nDate of Birth: 01/20/1953\nEncounter Date: 07/09/2019 12:35\nSex: M\nRace: WHITE\nReg #: 76318-054\nProvider: (b)(6) (b)(7)(C) MLP\nFacility: NYM\nUnit: H01\n\nHIV History:\nWhen Tested: 2019\nTest Result: Negative\nWhen Diagnosed AIDS:\nLast CD4:\nComments:\nHepatitis: Denied\nOther Infectious Diseases:\nSyphilis: No\nSyphilis Last Treatment: N/A\nGenital Warts: No\nChlamydia: Yes\nGonorrhea: No\nHerpes: No\nChicken Pox: Yes\nOther: No\nComments: Chlamydia in 2015, treated\nChicken pox in childhood\nAbuse History: Denied\nPhysical: No\nEmotional: No\nSexual: No\nComments: Denies\n\nGenerated 07/09/2019 13:03 by (b)(6) MLP Bureau of Prisons - NYM Page 2 of 13 DOJ-OGR-00024134",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD\nDate of Birth: 01/20/1953\nEncounter Date: 07/09/2019 12:35\nSex: M\nRace: WHITE\nReg #: 76318-054\nProvider: (b)(6) (b)(7)(C) MLP\nFacility: NYM\nUnit: H01",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "HIV History:\nWhen Tested: 2019\nTest Result: Negative\nWhen Diagnosed AIDS:\nLast CD4:\nComments:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Hepatitis: Denied\nOther Infectious Diseases:\nSyphilis: No\nSyphilis Last Treatment: N/A\nGenital Warts: No\nChlamydia: Yes\nGonorrhea: No\nHerpes: No\nChicken Pox: Yes\nOther: No\nComments: Chlamydia in 2015, treated\nChicken pox in childhood",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Abuse History: Denied\nPhysical: No\nEmotional: No\nSexual: No\nComments: Denies",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/09/2019 13:03 by (b)(6) MLP Bureau of Prisons - NYM Page 2 of 13 DOJ-OGR-00024134",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/09/2019",
+      "2015"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024134"
+    ]
+  },
+  "additional_notes": "The document appears to be a medical record for Jeffrey Epstein, containing information about his medical history, including HIV and other infectious diseases, as well as abuse history. Some personal identifiable information is redacted."
+}

@@ -1,0 +1,73 @@
+{
+  "document_metadata": {
+    "page_number": "2400",
+    "document_number": "BP-A0618",
+    "date": "JUN 16",
+    "document_type": "A&O DENTAL EXAMINATION",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "Page 2400 BP-A0618 JUN 16 A&O DENTAL EXAMINATION (Initial Clinical Dental Findings) U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS Occlusion: Oral Hygiene: Good Fair Poor CPITN: 3 2 3 Head & Neck / Soft Tissue: 3 2 3 D: 0 Classification: CLI M: 1 F: 14 Pain Scale: /10 Dental Prostheses at Intake: Yes No Type: Age: Condition: Intra-oral Photos Taken Yes No Instructed how to obtain urgent and non-urgent dental care: Yes: No: Treatment Priorities: None: Non-urgent: Urgent: Referred to Sick Call: Radiographs authorized: PAs: BWs: Panorex: Prophylaxis authorized: (Approval valid 18 months from examination date) Yes No Comments: advanced periodontitis. Gingival recession observed. Lower anterior crowding observed Radiographs Taken: (Document findings on A&O encounter) Yes No Patient Name: Epstein, Jeffrey E Register Number: 76318-054 Institution: MCC NEW YORK Date: 7-26-19 Dentist Signature: (b)(6); (b)(7)(C) DDS Signature Block/Stamp: (b)(6); (b)(7)(C) DDS. Chief Dental Officer MCC New York PDF Prescribed by P6400 Replaces BP-A0618 of JUN 10 DOJ-OGR-00026076",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "BP-A0618 JUN 16 A&O DENTAL EXAMINATION (Initial Clinical Dental Findings) U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Occlusion: Oral Hygiene: Good Fair Poor CPITN: Head & Neck / Soft Tissue: D: Classification: M: F: Pain Scale:",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Poor 3 2 3 3 2 3 0 CLI 1 14 /10",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Dental Prostheses at Intake: Yes No Type: Age: Condition: Intra-oral Photos Taken Yes No Instructed how to obtain urgent and non-urgent dental care: Yes: No: Treatment Priorities: None: Non-urgent: Urgent: Referred to Sick Call: Radiographs authorized: PAs: BWs: Panorex: Prophylaxis authorized: (Approval valid 18 months from examination date) Yes No",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "No No advanced periodontitis. Gingival recession observed. Lower anterior crowding observed No non-urgent Yes",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Patient Name: Register Number: Institution: Date: Dentist Signature: Signature Block/Stamp:",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein, Jeffrey E 76318-054 MCC NEW YORK 7-26-19 (b)(6); (b)(7)(C) DDS (b)(6); (b)(7)(C) DDS. Chief Dental Officer MCC New York",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey E Epstein"
+    ],
+    "organizations": [
+      "U.S. DEPARTMENT OF JUSTICE",
+      "FEDERAL BUREAU OF PRISONS",
+      "MCC NEW YORK"
+    ],
+    "locations": [
+      "NEW YORK"
+    ],
+    "dates": [
+      "JUN 16",
+      "7-26-19",
+      "JUN 10"
+    ],
+    "reference_numbers": [
+      "BP-A0618",
+      "76318-054",
+      "P6400",
+      "DOJ-OGR-00026076"
+    ]
+  },
+  "additional_notes": "The document is a dental examination form for Jeffrey Epstein, with handwritten notes and markings throughout. The document has been redacted in some areas, with '(b)(6); (b)(7)(C)' indicating sensitive information has been removed."
+}

@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024045",
+    "date": null,
+    "document_type": "Inmate Visit Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE NAME Signature Inmate Reg# Time IN Time OUT (b)(6), (b)(7)(C) 8/3/19 8/3/19 Coppolillo Epstein (b)(6), (b)(7)(C) 8/4/19 Scallall Epstein 76318-054 12:33 6:1 (b)(6), (b)(7)(C) 8/4/19 8/4/19 Colón Friedman Epstein 76318-054 76318-054 8:00 8:52 (b)(6), (b)(7)(C) 8/5/19 G. Tali J. Epstein 76318-054 8:50 11:2",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE NAME Signature Inmate Reg# Time IN Time OUT",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/3/19 Coppolillo Epstein 163188 2005 5:20 2: (b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/4/19 Scallall Epstein 76318-054 12:33 6:1 (b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/4/19 Colón Friedman Epstein 76318-054 76318-054 8:00 8:52 (b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/5/19 G. Tali J. Epstein 76318-054 8:50 11:2 (b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024045",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Coppolillo",
+      "Epstein",
+      "Scallall",
+      "Colón",
+      "Friedman",
+      "G. Tali",
+      "J. Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "8/3/19",
+      "8/4/19",
+      "8/5/19"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "163188"
+    ]
+  },
+  "additional_notes": "The document appears to be an inmate visit log with some redacted information. The handwriting is mostly legible, but some parts are obscured by green highlights."
+}

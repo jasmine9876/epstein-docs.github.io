@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": "19",
+    "document_number": "DOJ-OGR-00022304",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information de Baecque, Patrick De Soto, Fernando Dedieu, Jean & Paulette Derby Earl /Cntess Cass & Ted Dickenson, Debbie de Cabrol, Milly Dickinson, Janice De Cadenat, Alen Dietrich Marc Antoine and Cath Del Bono, Luca Dietrich, Paul & Laura de Clermont-Tonnerre, Hermine Derby, Ros & Jonathan De Georgiou, Anouckle Defl, Adam Di Vita, Charlotte Deluca Dina & Fouard Chartouni Dimelby Johnathan",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "de Baecque, Patrick De Soto, Fernando Dedieu, Jean & Paulette Derby Earl /Cntess Cass & Ted Dickenson, Debbie de Cabrol, Milly Dickinson, Janice De Cadenat, Alen Dietrich Marc Antoine and Cath Del Bono, Luca Dietrich, Paul & Laura de Clermont-Tonnerre, Hermine Derby, Ros & Jonathan De Georgiou, Anouckle Defl, Adam Di Vita, Charlotte Deluca Dina & Fouard Chartouni Dimelby Johnathan",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "19",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022304",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Patrick de Baecque",
+      "Fernando De Soto",
+      "Jean & Paulette Dedieu",
+      "Cass & Ted Derby Earl /Cntess",
+      "Debbie Dickenson",
+      "Milly de Cabrol",
+      "Janice Dickinson",
+      "Alen De Cadenat",
+      "Marc Antoine and Cath Dietrich",
+      "Luca Del Bono",
+      "Paul & Laura Dietrich",
+      "Hermine de Clermont-Tonnerre",
+      "Ros & Jonathan Derby",
+      "Anouckle De Georgiou",
+      "Adam Defl",
+      "Charlotte Di Vita",
+      "Dina & Fouard Chartouni Deluca",
+      "Johnathan Dimelby"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022304"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 19, and the document number is DOJ-OGR-00022304."
+}

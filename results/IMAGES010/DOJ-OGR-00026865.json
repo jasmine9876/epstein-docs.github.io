@@ -1,0 +1,43 @@
+{
+  "document_metadata": {
+    "page_number": "3276",
+    "document_number": "DOJ-OGR-00026865",
+    "date": null,
+    "document_type": "log or record",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 3276\n11:00am Inmate Companies assumes responsibility for inmate Epstein on cell #4\n11:15am Inmate Epstein is out on legal visit\n1:30pm Inmate Epstein is out on a legal visit\n11:45am Inmate Epstein is out on a legal visit\n12:00pm Inmate Epstein is out on a legal visit\n1:15pm Inmate Epstein is still out on legal visit\n2:30pm Inmate Epstein is still out on legal visit\n12:45pm Inmate Epstein is still out on legal visit\n1:00pm Inmate Epstein is still out on legal visit\n1:15pm Inmate Epstein is out on legal visit\n1:30pm Inmate Epstein is still out",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3276",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "11:00am Inmate Companies assumes responsibility for inmate Epstein on cell #4\n11:15am Inmate Epstein is out on legal visit\n1:30pm Inmate Epstein is out on a legal visit\n11:45am Inmate Epstein is out on a legal visit\n12:00pm Inmate Epstein is out on a legal visit\n1:15pm Inmate Epstein is still out on legal visit\n2:30pm Inmate Epstein is still out on legal visit\n12:45pm Inmate Epstein is still out on legal visit\n1:00pm Inmate Epstein is still out on legal visit\n1:15pm Inmate Epstein is out on legal visit\n1:30pm Inmate Epstein is still out",
+      "position": "main content"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026865",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [
+      "Inmate Companies"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "#4",
+      "DOJ-OGR-00026865"
+    ]
+  },
+  "additional_notes": "The document appears to be a handwritten log or record of inmate Epstein's activities and legal visits. The names of the individuals involved in the legal visits are redacted."
+}

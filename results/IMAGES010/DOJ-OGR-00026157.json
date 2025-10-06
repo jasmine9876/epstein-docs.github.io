@@ -1,0 +1,68 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "76318-054",
+    "date": "08/10/2019",
+    "document_type": "Inmate Topics Record",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Reg #: 76318-054 Inmate Name: EPSTEIN, JEFFREY EDWARD Topics Date Initiated Format Handout/Topic Outcome Provider Orig Entered: 07/12/2019 13:33 EST Total: 10 Generated 08/10/2019 11:02 by RN/IOP/IDC Bureau of Prisons - NYM Page 2 of 2 DOJ-OGR-00026157 Page 2481",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Reg #: 76318-054 Inmate Name: EPSTEIN, JEFFREY EDWARD",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Topics Date Initiated Format Handout/Topic Outcome Provider",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Orig Entered: 07/12/2019 13:33 EST Total: 10",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 08/10/2019 11:02 by RN/IOP/IDC Bureau of Prisons - NYM",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 2 of 2",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026157",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 2481",
+      "position": "margin"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "07/12/2019",
+      "08/10/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026157"
+    ]
+  },
+  "additional_notes": "The document appears to be a record of topics related to an inmate, Jeffrey Edward Epstein, with registration number 76318-054. The document is page 2 of 2 and was generated on 08/10/2019. The content is mostly tabular and contains some metadata in the header and footer."
+}

@@ -1,0 +1,69 @@
+{
+  "document_metadata": {
+    "page_number": "3399",
+    "document_number": "DOJ-OGR-00026988",
+    "date": "08/19/2019",
+    "document_type": "Log Entries By Event Date",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 3399 Date: 08/19/2019 Time: 10:15 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count - Summary Text: Completed. Serviceable. 8/10/2019 12:22 AM NYM Housing Units Population Housing Units, General Population ES 8/10/2019 12:21 AM Morning (b)(6); (b)(7)(C) Radio Check - Summary Text: Radio Number: 604. 8/10/2019 3:24 AM NYM Housing Units Population Housing Units, General Population ES 8/10/2019 12:30 AM Morning (b)(7)(E); (b)(7)(F) - Summary Text: Completed. (b)(7)(E); (b)(7)(F) began 8/10/2019 12:34 AM NYM Housing Units Population Housing Units, General Population GN 8/10/2019 12:34 AM Morning Begin Shift - Summary Text: Completed (b)(6); (b)(7)(C) S ON POST FOR MW 8/10/2019 3:24 AM NYM Housing Units Population Housing Units, General Population ES 8/10/2019 12:35 AM Morning Rounds (Officer) - Summary Text: Completed. 30 min irregular rounds began 8/10/2019 12:35 AM NYM Housing Units Population Housing Units, General Population GN 8/10/2019 12:35 AM Morning (b)(7)(E); (b)(7)(F) - Summary Text: Completed. 8/10/2019 12:35 AM NYM Housing Units Population Housing Units, General Population GN 8/10/2019 12:35 AM Morning Rounds (Officer) - Summary Text: Completed. 8/10/2019 12:35 AM NYM Housing Units Population Housing Units, General Population GN 8/10/2019 12:35 AM Morning Official Count - Summary Text: Clear Count: (b)(7)(F) 8/10/2019 12:35 AM NYM Housing Units Population Housing Units, General Population GN 8/10/2019 12:35 AM Morning Search (Areas) - Summary Text: Common Area: BALCONY AREA. 8/10/2019 12:35 AM NYM Housing Units Population Housing Units, General Population GN 8/10/2019 12:35 AM Morning Search (Areas) - Summary Text: Common Area: GYM AREA. 8/10/2019 12:35 AM NYM Housing Units Population Housing Units, General Population GN 8/10/2019 12:35 AM Morning Search (Areas) User ID: (b)(6); (b)(7)(C) Page 927 of 1135",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3399 Date: 08/19/2019 Time: 10:15 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "8/10/2019 12:22 AM NYM Housing Units Population Housing Units, General Population ES 8/10/2019 12:21 AM Morning (b)(6); (b)(7)(C) Radio Check",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "User ID: (b)(6); (b)(7)(C)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 927 of 1135",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026988",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM",
+      "Housing Units",
+      "Housing Units, General Population",
+      "GN",
+      "ES"
+    ],
+    "dates": [
+      "08/19/2019",
+      "8/10/2019 12:22 AM",
+      "8/10/2019 3:24 AM",
+      "8/10/2019 12:34 AM",
+      "8/10/2019 3:24 AM",
+      "8/10/2019 12:35 AM"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026988",
+      "604"
+    ]
+  },
+  "additional_notes": "The document appears to be a log entry report from the Federal Bureau of Prisons, containing various events and activities recorded on August 10, 2019. The report includes information such as the date, time, location, and user ID for each event. Some of the text is redacted, indicated by (b)(6); (b)(7)(C) and (b)(7)(E); (b)(7)(F)."
+}

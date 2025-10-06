@@ -1,0 +1,53 @@
+{
+  "document_metadata": {
+    "page_number": "2963",
+    "document_number": "DOJ-OGR-00026619",
+    "date": "8/11/19",
+    "document_type": "Official Count Slip",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2963 Metropolitan Correctional Center Official Count Slip Unit: EN Date: 8/11/19 Count: (b)(7)(F) Time: (b)(7)(F) Print Name: (b)(6); (b)(7)(C) Signature: (b)(6); (b)(7)(C) Print Name: Signature: Metropolitan Correctional Center Official Count Slip Unit: GA Date: 8/11/19 Count: (b)(7)(F) Time: 400 pm Print Name: (b)(6); (b)(7)(C) Signature: (b)(6); (b)(7)(C) Print Name: Signature: Metropolitan Correctional Center Official Count Slip Unit: E/S Date: 8-11-19 Count: (b)(7)(F) Time: 1250 pm Print Name: (b)(6); (b)(7)(C) Signature: (b)(6); (b)(7)(C) Print Name: Signature: DOJ-OGR-00026619",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "EN 8/11/19 (b)(7)(F) (b)(7)(F) (b)(6); (b)(7)(C) (b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "GA 8/11/19 (b)(7)(F) 400 pm (b)(6); (b)(7)(C) (b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "E/S 8-11-19 (b)(7)(F) 1250 pm (b)(6); (b)(7)(C) (b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026619",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [],
+    "dates": [
+      "8/11/19",
+      "8-11-19"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026619"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6); (b)(7)(C) and (b)(7)(F). The document appears to be a scan of a physical document with some minor damage and smudges."
+}

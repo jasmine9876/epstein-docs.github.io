@@ -1,0 +1,53 @@
+{
+  "document_metadata": {
+    "page_number": "2 of 2",
+    "document_number": "DOJ-OGR-00024104",
+    "date": "07/28/2019",
+    "document_type": "Medical Record",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Encounter Date: 07/28/2019 20:25 Sex: M Race: WHITE Reg #: 76318-054 Provider: (b)(6), (b)(7)(C) RN Facility: NYM Unit: H01 Follow-up in 12-24 Hours Patient Education Topics: Date Initiated Format Handout/Topic Provider Outcome 07/28/2019 Counseling Plan of Care (b)(6), (b)(7)(C) Verbalizes Understanding Copay Required:No Cosign Required: Yes Telephone/Verbal Order: No Completed by (b)(6), (b)(7)(C) RN on 07/28/2019 20:30 Requested to be cosigned by (b)(6), (b)(7)(C) MD. Cosign documentation will be displayed on the following page. Generated 07/28/2019 20:30 by (b)(6), (b)(7)(C) RN Bureau of Prisons - NYM Page 2 of 2 DOJ-OGR-00024104",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Encounter Date: 07/28/2019 20:25 Sex: M Race: WHITE Reg #: 76318-054 Provider: (b)(6), (b)(7)(C) RN Facility: NYM Unit: H01",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Follow-up in 12-24 Hours Patient Education Topics: Date Initiated Format Handout/Topic Provider Outcome 07/28/2019 Counseling Plan of Care (b)(6), (b)(7)(C) Verbalizes Understanding",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Copay Required:No Cosign Required: Yes Telephone/Verbal Order: No Completed by (b)(6), (b)(7)(C) RN on 07/28/2019 20:30 Requested to be cosigned by (b)(6), (b)(7)(C) MD. Cosign documentation will be displayed on the following page.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/28/2019 20:30 by (b)(6), (b)(7)(C) RN Bureau of Prisons - NYM Page 2 of 2 DOJ-OGR-00024104",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/28/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024104"
+    ]
+  },
+  "additional_notes": "The document appears to be a medical record with some redacted information."
+}

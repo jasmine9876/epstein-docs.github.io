@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "2770",
+    "document_number": "DOJ-OGR-00026426",
+    "date": "07/29/2019",
+    "document_type": "30 MINUTE CHECK SHEET",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "Page 2770\nMCC NEW YORK\nSPECIAL HOUSING UNIT\nMCC NEW YORK\nSPECIAL HOUSING UNIT\nMCC NEW YORK SPECIAL HOUSING UNIT 30 MINUTE CHECK SHEET ZA TIER-H DATE: 07/29/2019\nTIME FRAME TIME START TIME END SIGNATURE TIME FRAME TIME START TIME END SIGNATURE TIME FRAME TIME START TIME END SIGNATURE\n12:00-12:30 AM 1211 1211 (b)(6); (b)(7)(C) 8:00-8:30 AM 804 805 (b)(6); (b)(7)(C) 4:00-4:30 PM 96 912 (b)(6); (b)(7)(C)\n12:30- 1:00 AM 1234 1234 8:30- 9:00 AM 836 837 4:30-5:00 PM 741 742\n1:00-1:30 AM 102 163 9:00-9:30 AM 918 919 5:00 -5:30 PM 515 516\n1:30-2:00 AM 134 134 9:30-10:00 AM 949 950 5:30-6:00 PM 545 546\n2:00-2:30 AM 262 262 10:00-10:30 AM 1016 107 6:00-6:30 PM 617 615\n2:30-3:00 AM 237 237 10:30-11:00 AM 1048 1049 6:30-7:00 PM 643 644\n3:00-3:30 AM 303 303 11:00-11:30 AM 110 1111 7:00-7:30 PM 712 712\n3:30-4:00 AM 332 333 11:30-12:00 AM 1141 1142 7:30-8:00 PM 743 744\n4:00-4:30 AM 444 444 12:00-12:30 PM 1207 1208 8:00-8:30 PM 929 810\n4:30-5:00 AM 430 431 12:30- 1:00 PM 1239 1230 8:30- 9:00 PM 845 845\n5:00 -5:30 AM 505 504 1:00-1:30 PM 129 130 9:00-9:30 PM 925 926\n5.30-6:00 AM 538 539 1:30-2:00 PM 144 145 9:30-10:00 PM 932 934\n6:00-6:30 AM 606 607 2:00-2:30 PM 218 219 10:00-10:30 PM 601 602\n6:30-7:00 AM 638 639 2:30-3:00 PM 240 291 10:30-11:00 PM 1031 1032\n7:00-7:30 AM 762 766 3:00-3:30 PM 311 312 11:00-11:30 PM 414 422\n7:30-8:00 AM 731 734 3:30-4:00 PM 338 337 11:30-12:00 PM 1136 1134\nMORNING WATCH OPERATIONS LIEUTENANT (b)(6); (b)(7)(C) DAY WATCH OPERATIONS LIEUTENANT (b)(6); (b)(7)(C) EVENING WATCH OPERATIONS LIEUTENANT (b)(6); (b)(7)(C)\nA staff member must observe all inmates confined in a continuous locked down status, such as administrative detention or disciplinary segregation, at least once in the first 30 minute period of the hour (example, 12:00 a.m. - 12:30 a.m.) followed by another round in the second 30 minutes period of the same hour (example, 12:30 am - 1:00 a.m.), thus ensuring an inmate is observed at least twice per hour. These rounds are to be conducted on an irregular schedule and no more than 40 minutes apart. All observations must be documented.\nREVIEWED BY MORNING WATCH LIEUTENANT _______________________ (b)(6); (b)(7)(C) CAPTAIN _______________________ (b)(6); (b)(7)(C)\nDOJ-OGR-00026426",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "MCC NEW YORK SPECIAL HOUSING UNIT 30 MINUTE CHECK SHEET ZA TIER-H DATE: 07/29/2019",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "TIME FRAME TIME START TIME END SIGNATURE TIME FRAME TIME START TIME END SIGNATURE TIME FRAME TIME START TIME END SIGNATURE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "1211 1211 804 805 96 912",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "A staff member must observe all inmates confined in a continuous locked down status, such as administrative detention or disciplinary segregation, at least once in the first 30 minute period of the hour (example, 12:00 a.m. - 12:30 a.m.) followed by another round in the second 30 minutes period of the same hour (example, 12:30 am - 1:00 a.m.), thus ensuring an inmate is observed at least twice per hour. These rounds are to be conducted on an irregular schedule and no more than 40 minutes apart. All observations must be documented.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "REVIEWED BY MORNING WATCH LIEUTENANT _______________________ CAPTAIN _______________________",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "MCC NEW YORK"
+    ],
+    "locations": [
+      "NEW YORK"
+    ],
+    "dates": [
+      "07/29/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026426"
+    ]
+  },
+  "additional_notes": "The document contains handwritten entries in a table format, with some redacted information marked as '(b)(6); (b)(7)(C)'. The document appears to be a 30-minute check sheet for inmates in a special housing unit."
+}

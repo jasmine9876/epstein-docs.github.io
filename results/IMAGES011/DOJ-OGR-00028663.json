@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028663",
+    "date": "10/07/2011",
+    "document_type": "IO95 Inspection Results",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:08:00 IO95 Inspection Results 042814 *A *B A477 NEW YORK, JFK A *C FLT/VES#: AF 8 AIR FRANCE DOCTYP*: P #*: 469911707 CTRY*: US UNITED STATES ST: M/F: M DNAME (LAST) : EPSTEIN FRST: JEFFREY DOB: 012053 RFRD BY: *D -CBP OFFCR-C DTE: 10072011 TME: 2130 REASON: (b)(7)(E) CCD:*E SNAME (LAST) : FRST: DOB: NATIONALITY: US UNITED STATES DISP: USC U.S. CITIZEN RCPT#: AUDATE: CHARGE (CODED) : DFRD TO: FIN#: SEC OFCR: *F -CBP OFFCR-C 10/07/2011 21:36 IOEM#: REFR CDE: COMMENTS: VIOLS: (b)(7)(E) (b)(7)(E) CHECKS COMPLETED. (b)(7)(E) (b)(7)(E) CURRENTLY RELEASED. NO WANTS OR WARRANTS. ADMITTED USC. WHTI CMPLNT? ADDL COMMTS: (b)(7)(E) *G (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) *H *I Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(6) (b)(7)(C) *E - (b)(7)(E) *F - (b)(6) (b)(7)(C) *G - (b)(7)(E) *H - (b)(7)(E) *I - (b)(7)(E)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:08:00 IO95 Inspection Results 042814",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "*B A477 NEW YORK, JFK A *C FLT/VES#: AF 8 AIR FRANCE DOCTYP*: P #*: 469911707 CTRY*: US UNITED STATES ST: M/F: M DNAME (LAST) : EPSTEIN FRST: JEFFREY DOB: 012053 RFRD BY: *D -CBP OFFCR-C DTE: 10072011 TME: 2130 REASON: (b)(7)(E) CCD:*E SNAME (LAST) : FRST: DOB: NATIONALITY: US UNITED STATES DISP: USC U.S. CITIZEN RCPT#: AUDATE: CHARGE (CODED) : DFRD TO: FIN#: SEC OFCR: *F -CBP OFFCR-C 10/07/2011 21:36 IOEM#: REFR CDE: COMMENTS: VIOLS: (b)(7)(E) (b)(7)(E) CHECKS COMPLETED. (b)(7)(E) (b)(7)(E) CURRENTLY RELEASED. NO WANTS OR WARRANTS. ADMITTED USC. WHTI CMPLNT? ADDL COMMTS: (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "*G (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) *H *I Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(6) (b)(7)(C) *E - (b)(7)(E) *F - (b)(6) (b)(7)(C) *G - (b)(7)(E) *H - (b)(7)(E) *I - (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028663",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "CBP",
+      "U.S. AIR FRANCE",
+      "USC"
+    ],
+    "locations": [
+      "NEW YORK",
+      "JFK",
+      "FRANCE",
+      "UNITED STATES"
+    ],
+    "dates": [
+      "10/07/2011",
+      "10072011",
+      "012053"
+    ],
+    "reference_numbers": [
+      "A477",
+      "AF 8",
+      "469911707"
+    ]
+  },
+  "additional_notes": "The document contains multiple redactions, indicated by (b)(7)(E) and other codes, suggesting sensitive information has been withheld."
+}

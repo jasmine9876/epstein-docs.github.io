@@ -1,0 +1,51 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00027117",
+    "date": null,
+    "document_type": "Inmate Visit Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE NAME Signature INMATE Reg# Time In Time Out (b)(6); (b)(7)(C) 3/7 (b)(6); (b)(7)(C) Exte'm 76310-054 11:00 (b)(6); (b)(7)(C) DOJ-OGR-00027117",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE NAME Signature INMATE Reg# Time In Time Out",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "3/7 (b)(6); (b)(7)(C) Exte'm 76310-054 11:00",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027117",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "3/7"
+    ],
+    "reference_numbers": [
+      "76310-054",
+      "DOJ-OGR-00027117"
+    ]
+  },
+  "additional_notes": "The document appears to be a partially redacted inmate visit log. The majority of the content is obscured by green highlighting, indicating redactions. The visible information includes a date (3/7), a registration number (76310-054), and a time (11:00)."
+}

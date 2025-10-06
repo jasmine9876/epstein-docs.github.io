@@ -1,0 +1,86 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00027503",
+    "date": "09/13/2015",
+    "document_type": "Admissibility Secondary Inspection",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "UNCLASSIFIED // FOR OFFICIAL USE ONLY\n\nEPSTEIN JEFFREY (b)(7)(E)\n09/13/2015 15:13:00\nAdmissibility Secondary Inspection (b)(7)(E)\n\n(b)(7)(E)\n\nCrossing Information\nSite: CBP-TERTERBORO, JET AVIATION (b)(7)(E)\nDisposition: U.S. Citizen (USC)\nPort Crossing Date: 09/13/2015 15:13:00\nReferred Date: 09/13/2015 15:13:04\nAirline: GENERAL AVIATION (*GA)\nComment: (b)(7)(E) ADMITTED USC AND RELEASED.\n\nSubject\nLast Name: EPSTEIN\nFirst Name: JEFFREY\nMiddle Name: EDWARD\nDate Of Birth: 01/20/1953\nGender: Male (b)(7)(E)\n\nPassenger Document\nDocument Type: PASSPORT (b)(7)(E)\nDocument Issue Country: United States (US/USA)\nDocument Number: (b)(6),(b)(7)(C)\n\nReferral/Vehicle Information\nReferral Reason: (b)(7)(E)\n\nMiscellaneous Info\nType Association: Document Type\n\nRemarks\n(b)(7)(E) ADMITTED USC AND RELEASED.\n\nUNCLASSIFIED // FOR OFFICIAL USE ONLY\nDOJ-OGR-00027503",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "UNCLASSIFIED // FOR OFFICIAL USE ONLY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN JEFFREY (b)(7)(E)\n09/13/2015 15:13:00\nAdmissibility Secondary Inspection (b)(7)(E)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E)",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "Crossing Information\nSite: CBP-TERTERBORO, JET AVIATION (b)(7)(E)\nDisposition: U.S. Citizen (USC)\nPort Crossing Date: 09/13/2015 15:13:00\nReferred Date: 09/13/2015 15:13:04\nAirline: GENERAL AVIATION (*GA)\nComment: (b)(7)(E) ADMITTED USC AND RELEASED.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Subject\nLast Name: EPSTEIN\nFirst Name: JEFFREY\nMiddle Name: EDWARD\nDate Of Birth: 01/20/1953\nGender: Male (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Passenger Document\nDocument Type: PASSPORT (b)(7)(E)\nDocument Issue Country: United States (US/USA)\nDocument Number: (b)(6),(b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Referral/Vehicle Information\nReferral Reason: (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Miscellaneous Info\nType Association: Document Type",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Remarks\n(b)(7)(E) ADMITTED USC AND RELEASED.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "UNCLASSIFIED // FOR OFFICIAL USE ONLY\nDOJ-OGR-00027503",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "CBP",
+      "GENERAL AVIATION",
+      "JET AVIATION",
+      "DOJ"
+    ],
+    "locations": [
+      "United States",
+      "Teterboro"
+    ],
+    "dates": [
+      "09/13/2015",
+      "01/20/1953"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00027503"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(7)(E), (b)(6), and (b)(7)(C). The document is an Admissibility Secondary Inspection report for JEFFREY EPSTEIN."
+}

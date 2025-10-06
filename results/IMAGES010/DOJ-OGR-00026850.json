@@ -1,0 +1,46 @@
+{
+  "document_metadata": {
+    "page_number": "3261",
+    "document_number": "DOJ-OGR-00026850",
+    "date": "7-24-2019",
+    "document_type": "Observation Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Epstein #76318-054 7-24-2019\n8:40am I/M Epstein is taking a shower\n845am The Lt. came to check him\n11:00AM Finish Shift\n8:00pm I [redacted] assumes responsibility for Psych Cell #4 Observation for I/M Epstein 76318-054\n7-24-2019\n8:15pm I/M Epstein is talking to Unit 2 officer\n8:30pm I/M Epstein is talking to Unit 2 officer\n8:45pm I/M Epstein is asking me about sail life\n9:00pm I/M Epstein and I are talking about sail\n9:15pm I/M Epstein ask me the time\n9:30pm I/M Epstein ask me about life in the House\n9:45pm I/M Epstein is laying awake on his bed\n10:00pm I/M Epstein appears to be Sleeping\n10:15pm I/M Epstein appears to be Sleeping\n10:30pm I/M Epstein appears to be Sleeping\n10:45pm I/M Epstein is awake and brushing his teeth\n11:00pm I/M Epstein is laying on his bed\n11:00pm End Shift\n[redacted] assumes responsibility for the suicide watch of inmate Epstein #76318-054 in Cell #4 on 7/24/19 at 11:00 PM\n11:15pm Inmate EPSTEIN is sleeping",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "Epstein #76318-054 7-24-2019\n8:40am I/M Epstein is taking a shower\n845am The Lt. came to check him\n11:00AM Finish Shift\n8:00pm I [redacted] assumes responsibility for Psych Cell #4 Observation for I/M Epstein 76318-054\n7-24-2019\n8:15pm I/M Epstein is talking to Unit 2 officer\n8:30pm I/M Epstein is talking to Unit 2 officer\n8:45pm I/M Epstein is asking me about sail life\n9:00pm I/M Epstein and I are talking about sail\n9:15pm I/M Epstein ask me the time\n9:30pm I/M Epstein ask me about life in the House\n9:45pm I/M Epstein is laying awake on his bed\n10:00pm I/M Epstein appears to be Sleeping\n10:15pm I/M Epstein appears to be Sleeping\n10:30pm I/M Epstein appears to be Sleeping\n10:45pm I/M Epstein is awake and brushing his teeth\n11:00pm I/M Epstein is laying on his bed\n11:00pm End Shift\n[redacted] assumes responsibility for the suicide watch of inmate Epstein #76318-054 in Cell #4 on 7/24/19 at 11:00 PM\n11:15pm Inmate EPSTEIN is sleeping",
+      "position": "main body"
+    },
+    {
+      "type": "printed",
+      "content": "Page 3261",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026850",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein",
+      "Lt."
+    ],
+    "organizations": [],
+    "locations": [
+      "Cell #4",
+      "House"
+    ],
+    "dates": [
+      "7-24-2019"
+    ],
+    "reference_numbers": [
+      "#76318-054"
+    ]
+  },
+  "additional_notes": "The document is a handwritten observation log for inmate Epstein (#76318-054) on July 24, 2019. The log details Epstein's activities and status from 8:40 AM to 11:15 PM. Several redactions are present, marked as [redacted] or (b)(6); (b)(7)(C), indicating sensitive or personal information has been removed."
+}

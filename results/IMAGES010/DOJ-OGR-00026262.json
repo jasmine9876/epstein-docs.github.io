@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "2602",
+    "document_number": "76318-054",
+    "date": "07/30/2019",
+    "document_type": "Devices and Equipment",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2602 Bureau of Prisons Health Services Devices and Equipment Start Date: 07/02/2019 Stop Date: 07/30/2019 Reg #: 76318-054 Inmate Name: EPSTEIN, JEFFREY EDWARD Device/Equipment Start Date Stop Date Date Returned Obtained From Comments C-Pap 07/30/2019 14:05 EST [b)(6); (b)(7)(C) MD 07/30/2019 Personal PHILIPS RESPIRONICS SYSTEM ONE CPAP MACHINE. SERIAL #: P11312813B1ED. Total: 1 Generated 07/30/2019 15:33 by [b)(6); (b)(7)(C) OIA Coordinator Bureau of Prisons - NYM Page 1 of 1 DOJ-OGR-00026262",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Bureau of Prisons Health Services Devices and Equipment",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Start Date: 07/02/2019 Stop Date: 07/30/2019 Reg #: 76318-054 Inmate Name: EPSTEIN, JEFFREY EDWARD",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Device/Equipment Start Date Stop Date Date Returned Obtained From Comments",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "C-Pap 07/30/2019 14:05 EST [b)(6); (b)(7)(C) MD 07/30/2019 Personal PHILIPS RESPIRONICS SYSTEM ONE CPAP MACHINE. SERIAL #: P11312813B1ED.",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Total: 1",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/30/2019 15:33 by [b)(6); (b)(7)(C) OIA Coordinator Bureau of Prisons - NYM Page 1 of 1 DOJ-OGR-00026262",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons",
+      "Philips Respironics"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "07/02/2019",
+      "07/30/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "P11312813B1ED",
+      "DOJ-OGR-00026262"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as [b)(6); (b)(7)(C)]. The document is a record of devices and equipment used by Jeffrey Epstein during his incarceration."
+}

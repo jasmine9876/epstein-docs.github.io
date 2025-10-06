@@ -1,0 +1,48 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "BP-A0973",
+    "date": "8-12-19",
+    "document_type": "Evidence Recovery Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 3101 EVIDENCE RECOVERY LOG CDFRM BP-A0973 FEB 12 U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS Page 4 of 5 GENERAL INFORMATION PRINT LEGIBLY DATE 8-12-19 CASE ID LOCATION 9 South 206.220 PREPARER/ASSISTANTS (b)(6); (b)(7)(C) PERSONNEL (Include Initials) TENT CARDS ECN# DESCRIPTION WHERE FOUND RECOVERED BY PACKAGING METHOD COMMENTS (If needed) N4M-19-0177 1-Chap Stick 206.220 SIS Tech (b)(6); (b)(7)(C) Paper Bag N4M-19-0177 1 headphones 206.220 SIS Tech (b)(6); (b)(7)(C) Paper Bag N4M-19-0177 1-Adlsson and orientations pamphlet 206.220 SIS Tech (b)(6); (b)(7)(C) Paper Bag N4M-19-0177 1-piece of Brown Paper bag with SW 42 dinner 206.220 SIS Tech (b)(6); (b)(7)(C) Paper Bag N4M-19-0177 1-Bible 206.220 SIS Tech (b)(6); (b)(7)(C) Paper Bag DOJ-OGR-00026741",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3101 EVIDENCE RECOVERY LOG CDFRM BP-A0973 FEB 12 U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS Page 4 of 5 GENERAL INFORMATION PRINT LEGIBLY PERSONNEL (Include Initials) TENT CARDS ECN# DESCRIPTION WHERE FOUND RECOVERED BY PACKAGING METHOD COMMENTS (If needed)",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "DATE 8-12-19 CASE ID LOCATION 9 South 206.220 PREPARER/ASSISTANTS (b)(6); (b)(7)(C) N4M-19-0177 1-Chap Stick 206.220 SIS Tech (b)(6); (b)(7)(C) Paper Bag N4M-19-0177 1 headphones 206.220 SIS Tech (b)(6); (b)(7)(C) Paper Bag N4M-19-0177 1-Adlsson and orientations pamphlet 206.220 SIS Tech (b)(6); (b)(7)(C) Paper Bag N4M-19-0177 1-piece of Brown Paper bag with SW 42 dinner 206.220 SIS Tech (b)(6); (b)(7)(C) Paper Bag N4M-19-0177 1-Bible 206.220 SIS Tech (b)(6); (b)(7)(C) Paper Bag",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026741",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "U.S. Department of Justice",
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [
+      "9 South 206.220"
+    ],
+    "dates": [
+      "8-12-19",
+      "FEB 12"
+    ],
+    "reference_numbers": [
+      "BP-A0973",
+      "N4M-19-0177",
+      "DOJ-OGR-00026741"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6); (b)(7)(C) in several places."
+}

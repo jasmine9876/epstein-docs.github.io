@@ -1,0 +1,86 @@
+{
+  "document_metadata": {
+    "page_number": "2459",
+    "document_number": "76318-054",
+    "date": "07/09/2019",
+    "document_type": "Inmate Medical Record",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2459 Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Sex: M Race: WHITE Reg #: 76318-054 Encounter Date: 07/09/2019 12:35 Provider: (b)(6); (b)(7)(C) MLP Facility: NYM Unit: H01 Date Time Inches Cm Weight: Date Time Lbs Kg Waist Circum. Provider 07/09/2019 12:49 NYM 194.4 88.2 (b)(6); (b)(7)(C) MLP Prosthetic Devices/Equipment: Denied Tobacco Usage: Denied General Social History: Foreign Travel: Born in USA: Yes Country of Birth: USA Patient Education Assessments: Date Ed Yrs Occupation Learns Best By Primary Language Barriers to Education 07/09/2019 12 Banker Speaking/Listening English None Family History - Father: Age at Death: 74 Cause of Death: Diabetes complications Significant Illnesses: Diabetes Heart Disease Comments: Family History - Mother: Age at Death: 81 Cause of Death: Kidney Failure Significant Illnesses: Heart Disease Comments: Family History - Sibling: Number of Siblings: 1 Significant Illnesses: Comments: Past Hospitalization: Reason Location When Acute Appendicitis Mount Sinai Hospital 1990 Complications: None Comments: Head: Normal: Yes Comments: Generated 07/09/2019 13:03 by (b)(6); (b)(7)(C) MLP Bureau of Prisons - NYM Page 7 of 13 DOJ-OGR-00026135",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Sex: M Race: WHITE Reg #: 76318-054 Encounter Date: 07/09/2019 12:35 Provider: (b)(6); (b)(7)(C) MLP Facility: NYM Unit: H01",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Weight: Date Time Lbs Kg Waist Circum. Provider 07/09/2019 12:49 NYM 194.4 88.2 (b)(6); (b)(7)(C) MLP",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "General Social History: Foreign Travel: Born in USA: Yes Country of Birth: USA",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Patient Education Assessments: Date Ed Yrs Occupation Learns Best By Primary Language Barriers to Education 07/09/2019 12 Banker Speaking/Listening English None",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Family History - Father: Age at Death: 74 Cause of Death: Diabetes complications Significant Illnesses: Diabetes Heart Disease Comments:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Family History - Mother: Age at Death: 81 Cause of Death: Kidney Failure Significant Illnesses: Heart Disease Comments:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Family History - Sibling: Number of Siblings: 1 Significant Illnesses: Comments:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Past Hospitalization: Reason Location When Acute Appendicitis Mount Sinai Hospital 1990 Complications: None Comments:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Head: Normal: Yes Comments:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/09/2019 13:03 by (b)(6); (b)(7)(C) MLP Bureau of Prisons - NYM Page 7 of 13 DOJ-OGR-00026135",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Mount Sinai Hospital",
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "USA",
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/09/2019",
+      "1990"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026135"
+    ]
+  },
+  "additional_notes": "The document appears to be a medical record for Jeffrey Epstein, containing his personal and medical information. Some personal identifiers have been redacted."
+}

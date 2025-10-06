@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00022329",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Monckton, Rosa Money Kryle, Mr Charlie & Kit Montemayor, Cesar Monti Riccardo Moore Deborah Moore, Juliet & Chris Moore, Mr Geoffrey Morris Stephen Morris, Nick & Lucy Mortimer, Glai & Averell Morton, Peter Morton, Robert Mruvka Alan Munro, Donald Murdoch, Rupert Murray Phillipson Kate Murray Philipson, Mr & Mrs Murray Threlpland Tertious/Cla Murray, Jean Pierre DOJ-OGR-00022329",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Monckton, Rosa\nMoney Kryle, Mr Charlie & Kit\nMontemayor, Cesar\nMonti Riccardo\nMoore Deborah\nMoore, Juliet & Chris\nMoore, Mr Geoffrey\nMorris Stephen\nMorris, Nick & Lucy\nMortimer, Glai & Averell\nMorton, Peter\nMorton, Robert\nMruvka Alan\nMunro, Donald\nMurdoch, Rupert\nMurray Phillipson Kate\nMurray Philipson, Mr & Mrs\nMurray Threlpland Tertious/Cla\nMurray, Jean Pierre",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022329",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Rosa Monckton",
+      "Mr Charlie & Kit Money Kryle",
+      "Cesar Montemayor",
+      "Riccardo Monti",
+      "Deborah Moore",
+      "Juliet & Chris Moore",
+      "Mr Geoffrey Moore",
+      "Stephen Morris",
+      "Nick & Lucy Morris",
+      "Giai & Averell Mortimer",
+      "Peter Morton",
+      "Robert Morton",
+      "Alan Mruvka",
+      "Donald Munro",
+      "Rupert Murdoch",
+      "Kate Murray Phillipson",
+      "Mr & Mrs Murray Philipson",
+      "Tertious/Cla Murray Threlpland",
+      "Jean Pierre Murray"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022329"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The list appears to be a collection of names, possibly related to a specific case or investigation."
+}

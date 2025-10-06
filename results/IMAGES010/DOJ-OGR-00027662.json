@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "#36",
+    "document_number": "DOJ-OGR-00027662",
+    "date": "19FEB14",
+    "document_type": "TST RLR",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "#36\n--- TST RLR ---\nRP/HDQ1S /HDQ1SPLERPY/Z8B0/0353150 AF/SU 19FEB14/0719Z 8PUWGO ALTRECLOC PLERPY\n1.EPSTEIN/JEFFREY EDWARD /P1\n2(b)(6) /P2\n3 AF 9 F 09FEB 7 JFKCDG B 2 1 2325 1230 2 AF /8PUWGO\n4 AF 22 F 19FEB 3 CDGJF HK2 2E 0820 1030 AF /8PUWGO\n5 UCI 0008252F11F9E71F /P1\n6 UCI 0008252F11F9E720 /P2\n7 SEA RQST AF HK2 JFKCDG /01EN,01FN /P1/P2/S3\n8 SSR FQTV AF HK DL9209114272 ELITE PLUS/ /P1\n9 SSR TKNE AF HK1 0577379429462C1 /P1/S3\n10 SSR TKNE AF HK1 0577379429463C1 /P2/S3\n11 SSR TKNE AF HK1 0577382934210C1 /P1/S8\n12 SSR TKNE AF HK1 0577382934211C1 /P2/S8\n13 SSR FQTV AF HK DL9206179146 ELITE/ /P2/S8\n14 OSI AF CTC PH (b)(6) A\n15 OSI AF CTCP PH (b)(6) ONTACT FIRST\n16 OSI AF CTCP (b)(6) CELL (b)(6)\n17 OSI AF CTCP (b)(6)\n18 OSI AF CTCP PH (b)(6) XT 57499 B TRNSF JAX TBS 2\n19 OSI AF AX CMA/AX CMP\n20 FHE PAX 057-7379429462 /P1\n21 FHE PAX 057-7379429463 /P2\n22 FHE PAX 057-7380953561 /P1\n23 FHE PAX 057-7380953566 /P2\n24 FHE PAX 057-7381795999 /P1\n25 FHE PAX 057-7381958000 /P2\n26 FHE PAX 057-7382760450 /P1\nDOJ-OGR-00027662",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "#36\n--- TST RLR ---\nRP/HDQ1S /HDQ1SPLERPY/Z8B0/0353150 AF/SU 19FEB14/0719Z 8PUWGO ALTRECLOC PLERPY",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "1.EPSTEIN/JEFFREY EDWARD /P1\n2(b)(6) /P2\n3 AF 9 F 09FEB 7 JFKCDG B 2 1 2325 1230 2 AF /8PUWGO\n4 AF 22 F 19FEB 3 CDGJF HK2 2E 0820 1030 AF /8PUWGO\n5 UCI 0008252F11F9E71F /P1\n6 UCI 0008252F11F9E720 /P2\n7 SEA RQST AF HK2 JFKCDG /01EN,01FN /P1/P2/S3\n8 SSR FQTV AF HK DL9209114272 ELITE PLUS/ /P1\n9 SSR TKNE AF HK1 0577379429462C1 /P1/S3\n10 SSR TKNE AF HK1 0577379429463C1 /P2/S3\n11 SSR TKNE AF HK1 0577382934210C1 /P1/S8\n12 SSR TKNE AF HK1 0577382934211C1 /P2/S8\n13 SSR FQTV AF HK DL9206179146 ELITE/ /P2/S8\n14 OSI AF CTC PH (b)(6) A\n15 OSI AF CTCP PH (b)(6) ONTACT FIRST\n16 OSI AF CTCP (b)(6) CELL (b)(6)\n17 OSI AF CTCP (b)(6)\n18 OSI AF CTCP PH (b)(6) XT 57499 B TRNSF JAX TBS 2\n19 OSI AF AX CMA/AX CMP\n20 FHE PAX 057-7379429462 /P1\n21 FHE PAX 057-7379429463 /P2\n22 FHE PAX 057-7380953561 /P1\n23 FHE PAX 057-7380953566 /P2\n24 FHE PAX 057-7381795999 /P1\n25 FHE PAX 057-7381958000 /P2\n26 FHE PAX 057-7382760450 /P1",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027662",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "AF",
+      "UCI",
+      "SEA",
+      "OSI",
+      "FHE"
+    ],
+    "locations": [
+      "JFK",
+      "CDG",
+      "HK",
+      "JAX"
+    ],
+    "dates": [
+      "09FEB",
+      "19FEB",
+      "19FEB14"
+    ],
+    "reference_numbers": [
+      "0008252F11F9E71F",
+      "0008252F11F9E720",
+      "0577379429462",
+      "0577379429463",
+      "0577382934210",
+      "0577382934211",
+      "DL9209114272",
+      "DL9206179146",
+      "057-7379429462",
+      "057-7379429463",
+      "057-7380953561",
+      "057-7380953566",
+      "057-7381795999",
+      "057-7381958000",
+      "057-7382760450",
+      "57499"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted travel itinerary or record related to Jeffrey Edward Epstein. Multiple redactions are present, marked as '(b)(6)'. The document includes various airline and travel-related codes and identifiers."
+}

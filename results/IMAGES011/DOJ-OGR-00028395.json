@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028395",
+    "date": "123102",
+    "document_type": "PQH API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 *B PQH API/HIT DATA 042814 *A *C NAME DOB DATE TIME AGN RSLT LNE TYP REF TERM/ LANE API EPSTEIN, JEFFREY 012053 123102 0000 INS *D API /%20 R A491-SAN JUAN, PASSENGER BRA API DATA ---- INDICATOR : R CARRIER CODE : W4 FLT/VES NUMBER : 222 ARRIVAL LOCATION : SBH DEPARTURE LOCATION : STT TRANSMITTED BY : APIS_W4 INBOUND/OUTBOUND : (b) (7) (E) REPORTED MN AVIATION, INC. - PUER ST. BARTHELEMY#ARPT,GUAD C.E. KING COMMERCIAL CARRIER (b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) DOJ-OGR-00028395",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07 *B PQH API/HIT DATA 042814 *A *C",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB DATE TIME AGN RSLT LNE TYP REF TERM/ LANE API EPSTEIN, JEFFREY 012053 123102 0000 INS *D API /%20 R A491-SAN JUAN, PASSENGER BRA",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "API DATA ---- INDICATOR : R CARRIER CODE : W4 FLT/VES NUMBER : 222 ARRIVAL LOCATION : SBH DEPARTURE LOCATION : STT TRANSMITTED BY : APIS_W4 INBOUND/OUTBOUND : (b) (7) (E) REPORTED MN AVIATION, INC. - PUER ST. BARTHELEMY#ARPT,GUAD C.E. KING COMMERCIAL CARRIER (b) (7) (E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028395",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN",
+      "C.E. KING"
+    ],
+    "organizations": [
+      "MN AVIATION, INC."
+    ],
+    "locations": [
+      "SAN JUAN",
+      "ST. BARTHELEMY#ARPT",
+      "GUAD",
+      "STT",
+      "SBH"
+    ],
+    "dates": [
+      "123102",
+      "012053"
+    ],
+    "reference_numbers": [
+      "A491",
+      "222",
+      "DOJ-OGR-00028395"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b) (7) (E)' and '(b) (6), (b) (7) (C)'. The document appears to be a data report related to API/HIT data for a passenger named Jeffrey Epstein."
+}

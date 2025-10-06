@@ -1,0 +1,68 @@
+{
+  "document_metadata": {
+    "page_number": "2923",
+    "document_number": null,
+    "date": "8/11/2019",
+    "document_type": "Official Count Slip",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2923 Metropolitan Correctional Center Official Count Slip Unit: GS Date: 8/11/19 Count: (b)(7)(F) Time: 2000 Print Name: (b)(6); (b)(7)(C) Signature: Print Name: Signature: Metropolitan Correctional Center Official Count Slip Unit: 1st Date: 8/11/19 Count: (b)(7)(F) Time: 300 AM Print Name: Signature: (b)(6); (b)(7)(C) Print Name: Signature: Metropolitan Correctional Center Official Count Slip Unit: ZA Date: 8/11/2019 Count: Time: 0300 AM Print Name: (b)(6); (b)(7)(C) Signature: Print Name: Signature: DOJ-OGR-00026579",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "GS 8/11/19 2000",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Unit: Date: Count: Time: Print Name: Signature: Print Name: Signature:",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1st 8/11/19 300 AM (b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "ZA 8/11/2019 0300 AM",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Unit: Date: Count: Time: Print Name: Signature: Print Name: Signature:",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026579",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [],
+    "dates": [
+      "8/11/2019",
+      "8/11/19"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026579"
+    ]
+  },
+  "additional_notes": "The document contains redactions and appears to be a scanned copy of official count slips from the Metropolitan Correctional Center."
+}

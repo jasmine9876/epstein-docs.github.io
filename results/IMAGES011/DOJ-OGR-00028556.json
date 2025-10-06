@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "042814",
+    "date": "031302",
+    "document_type": "PQH API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 *B PQH API/HIT DATA 042814 *A *C NAME EPSTEIN, JEFFREY 4701- DOB 012053 QUERY DATE TIME AGN RSLT 031302 0856 INS *D LNE TYP REF TERM/ LANE API API W/19 C API DATA ---- INDICATOR : C CONFIRMED CARRIER CODE : AF AIR FRANCE FLT/VES NUMBER : 2 ARRIVAL LOCATION : JFK JOHN F KENNEDY INTL DEPARTURE LOCATION : CDG PARIS, CH. DE GAULLE TRANSMITTED BY : AFDCS AIR FRANCE INBOUND/OUTBOUND : INBOUND (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) (b)(7)(E) DOJ-OGR-00028556",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07 *B PQH API/HIT DATA 042814 *A *C",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME EPSTEIN, JEFFREY 4701- DOB 012053 QUERY DATE TIME AGN RSLT 031302 0856 INS *D LNE TYP REF TERM/ LANE API API W/19 C",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "API DATA ---- INDICATOR : C CONFIRMED CARRIER CODE : AF AIR FRANCE FLT/VES NUMBER : 2 ARRIVAL LOCATION : JFK JOHN F KENNEDY INTL DEPARTURE LOCATION : CDG PARIS, CH. DE GAULLE TRANSMITTED BY : AFDCS AIR FRANCE INBOUND/OUTBOUND : INBOUND",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028556",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "AIR FRANCE",
+      "AFDCS"
+    ],
+    "locations": [
+      "JFK",
+      "JOHN F KENNEDY INTL",
+      "CDG",
+      "PARIS, CH. DE GAULLE"
+    ],
+    "dates": [
+      "031302"
+    ],
+    "reference_numbers": [
+      "4701-",
+      "012053",
+      "042814",
+      "DOJ-OGR-00028556"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as (b)(7)(E) and (b)(6), (b)(7)(C)."
+}

@@ -1,0 +1,68 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "IO25",
+    "date": "04/28/2014",
+    "document_type": "Inspection Remarks",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07:59 *B IO25 INSPECTION REMARKS 04/28/2014 *A *C +------------------------------------------------ I N S P E C T I O N   R E M A R K S ------------------------------------------------+ PAGE 1 (b)(7)(E) +-------------------------------------------------------------------------------------------------------+ (b)(7)(E) (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6),(b)(7)(C) *C - (b)(7)(E) DOJ-OGR-00028643",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07:59",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "*B IO25 INSPECTION REMARKS 04/28/2014 *A *C",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "+------------------------------------------------ I N S P E C T I O N   R E M A R K S ------------------------------------------------+",
+      "position": "header"
+    },
+    {
+      "type": "other",
+      "content": "(b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "+-------------------------------------------------------------------------------------------------------+",
+      "position": "middle"
+    },
+    {
+      "type": "other",
+      "content": "(b)(7)(E) (b)(7)(E) (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6),(b)(7)(C) *C - (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028643",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "04/28/2014"
+    ],
+    "reference_numbers": [
+      "IO25",
+      "DOJ-OGR-00028643"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(7)(E), (b)(6), and (b)(7)(C). The document appears to be a page from an inspection report."
+}

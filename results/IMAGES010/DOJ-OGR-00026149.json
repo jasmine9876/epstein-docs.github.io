@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "2473",
+    "document_number": "76318-054",
+    "date": "07/06/2019",
+    "document_type": "PPDs",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2473 Bureau of Prisons Health Services PPDs Reg #: 76318-054 Inmate Name: EPSTEIN, JEFFREY EDWARD Admin: 07/06/2019 21:39 Location Right Forearm Provider (b)(6); (b)(7)(C) PA-C Orig Entered: 07/06/2019 21:43 EST (b)(6); (b)(7)(C) PA-C Total: 1 Reading: 07/09/2019 12:47 Induration 0 mm Provider (b)(6); (b)(7)(C) MLP Orig Entered: 07/09/2019 12:47 EST (b)(6); (b)(7)(C) MLP Generated 08/10/2019 11:02 by (b)(6); (b)(7)(C) RN/IOP/IDC Bureau of Prisons - NYM Page 1 of 1 DOJ-OGR-00026149",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 2473 Bureau of Prisons Health Services PPDs",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Reg #: 76318-054 Inmate Name: EPSTEIN, JEFFREY EDWARD",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Admin: 07/06/2019 21:39 Location Right Forearm Provider (b)(6); (b)(7)(C) PA-C Orig Entered: 07/06/2019 21:43 EST (b)(6); (b)(7)(C) PA-C Total: 1",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Reading: 07/09/2019 12:47 Induration 0 mm Provider (b)(6); (b)(7)(C) MLP Orig Entered: 07/09/2019 12:47 EST (b)(6); (b)(7)(C) MLP",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 08/10/2019 11:02 by (b)(6); (b)(7)(C) RN/IOP/IDC Bureau of Prisons - NYM Page 1 of 1 DOJ-OGR-00026149",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons",
+      "Health Services"
+    ],
+    "locations": [
+      "Right Forearm"
+    ],
+    "dates": [
+      "07/06/2019",
+      "07/09/2019",
+      "08/10/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026149"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as (b)(6); (b)(7)(C)."
+}

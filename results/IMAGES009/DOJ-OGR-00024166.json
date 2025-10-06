@@ -1,0 +1,77 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "DOJ-OGR-00024166",
+    "date": "05/11/2020",
+    "document_type": "Medical Record",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Complex: NYM--NEW YORK MCC Inmate: EPSTEIN, JEFFREY EDWARD Begin Date: 07/06/2019 End Date: 05/11/2020 Reg #: 76318-054 Quarter: ???-???? Active Prescriptions Omega 3 (Vascepa) 1 GM Capsule Take two capsules (2 GM) twice daily by mouth with food Rx#: 121885-NYM Doctor: (b)(6), (b)(7)(C) MD Start: 07/17/19 Exp: 01/13/20 D/C: 08/10/19 Pharmacy Dispensing: 180 Cap in 299 days Insulin Reg (10 ML) 100 UNITS/ML Inj Inject regular insulin subcutaneously per sliding scale: twice daily ***pill line*** for 7 days ***pill line*** Rx#: 122148-NYM Doctor: (b)(6), (b)(7)(C) MD Start: 07/30/19 Exp: 08/06/19 D/C: 07/31/19 Pharmacy Dispensing: 0 ML in 286 days Insulin Reg (10 ML) 100 UNITS/ML Inj Inject regular insulin subcutaneously per sliding scale: each morning for 7 days ***pill line*** ***pill line*** Rx#: 122160-NYM Doctor: (b)(6), (b)(7)(C) MD Start: 07/31/19 Exp: 08/07/19 Pharmacy Dispensing: 0 ML in 285 days Generated 05/11/2020 09:57 by (b)(6), (b)(7)(C)-DGC Bureau of Prisons - DAN Page 2 of 2 DOJ-OGR-00024166",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Complex: NYM--NEW YORK MCC Inmate: EPSTEIN, JEFFREY EDWARD Begin Date: 07/06/2019 End Date: 05/11/2020 Reg #: 76318-054 Quarter: ???-????",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Active Prescriptions",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Omega 3 (Vascepa) 1 GM Capsule Take two capsules (2 GM) twice daily by mouth with food Rx#: 121885-NYM Doctor: (b)(6), (b)(7)(C) MD Start: 07/17/19 Exp: 01/13/20 D/C: 08/10/19 Pharmacy Dispensing: 180 Cap in 299 days",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Insulin Reg (10 ML) 100 UNITS/ML Inj Inject regular insulin subcutaneously per sliding scale: twice daily ***pill line*** for 7 days ***pill line*** Rx#: 122148-NYM Doctor: (b)(6), (b)(7)(C) MD Start: 07/30/19 Exp: 08/06/19 D/C: 07/31/19 Pharmacy Dispensing: 0 ML in 286 days",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Insulin Reg (10 ML) 100 UNITS/ML Inj Inject regular insulin subcutaneously per sliding scale: each morning for 7 days ***pill line*** ***pill line*** Rx#: 122160-NYM Doctor: (b)(6), (b)(7)(C) MD Start: 07/31/19 Exp: 08/07/19 Pharmacy Dispensing: 0 ML in 285 days",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 05/11/2020 09:57 by (b)(6), (b)(7)(C)-DGC Bureau of Prisons - DAN Page 2 of 2 DOJ-OGR-00024166",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN",
+      "(b)(6), (b)(7)(C)"
+    ],
+    "organizations": [
+      "NEW YORK MCC",
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NEW YORK"
+    ],
+    "dates": [
+      "07/06/2019",
+      "05/11/2020",
+      "07/17/19",
+      "01/13/20",
+      "08/10/19",
+      "07/30/19",
+      "08/06/19",
+      "07/31/19",
+      "07/31/19",
+      "08/07/19",
+      "05/11/2020"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "121885-NYM",
+      "122148-NYM",
+      "122160-NYM",
+      "DOJ-OGR-00024166"
+    ]
+  },
+  "additional_notes": "The document appears to be a medical record for Jeffrey Epstein, an inmate at the New York MCC. The document lists active prescriptions and their details. Some personal identifying information is redacted."
+}

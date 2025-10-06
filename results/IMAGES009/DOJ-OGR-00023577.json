@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": "901",
+    "document_number": "DOJ-OGR-00023577",
+    "date": null,
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Thank you in advance for your help.\nSincerely,\n(B)(6); (B)(7)(C)\nNOTICE: This message may contain information that is privileged or confidential. If you receive this transmission in error, please notify the sender by reply e-mail and delete the message and any attachments.\nPage 901\nDOJ-OGR-00023577",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Thank you in advance for your help.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Sincerely,",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "(B)(6); (B)(7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "other",
+      "content": "",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "NOTICE: This message may contain information that is privileged or confidential. If you receive this transmission in error, please notify the sender by reply e-mail and delete the message and any attachments.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 901",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00023577",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00023577"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted email with a green block covering potentially sensitive information. The page number and document number are visible at the bottom."
+}

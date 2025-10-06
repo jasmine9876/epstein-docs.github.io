@@ -1,0 +1,67 @@
+{
+  "document_metadata": {
+    "page_number": "2890",
+    "document_number": "NYMAQ 530*05",
+    "date": "08-12-2019",
+    "document_type": "INMATE ROSTER",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2890 NYMAQ 530*05 * INMATE ROSTER * 08-12-2019 PAGE 001 OF 001 15:55:06 CATEGORY : OCT GROUP CODE: ASSIGNMENT : FNYS OPER CATG ASSIGNMENT FACILITY: NYM OPER CATG ASSIGNMENT NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK 0001 FNYS (b)(6), (b)(7)(C) 08-12-2019 K11-056U UNASSG 0002 08-12-2019 K07-073U UNASSG 0003 08-12-2019 G01-702L UNIT 7N 0004 08-12-2019 G01-001L UNASSG 0005 08-12-2019 K05-136L UNASSG 0006 08-12-2019 K11-051U SUICIDE OR UNASSG 0007 08-12-2019 E05-533U UNASSG G0000 TRANSACTION SUCCESSFULLY COMPLETED DOJ-OGR-00026546",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "NYMAQ 530*05 * INMATE ROSTER * 08-12-2019 PAGE 001 OF 001 15:55:06",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CATEGORY : OCT GROUP CODE: ASSIGNMENT : FNYS OPER CATG ASSIGNMENT FACILITY: NYM OPER CATG ASSIGNMENT",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "0001 FNYS (b)(6), (b)(7)(C) 08-12-2019 K11-056U UNASSG 0002 08-12-2019 K07-073U UNASSG 0003 08-12-2019 G01-702L UNIT 7N 0004 08-12-2019 G01-001L UNASSG 0005 08-12-2019 K05-136L UNASSG 0006 08-12-2019 K11-051U SUICIDE OR UNASSG 0007 08-12-2019 E05-533U UNASSG",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "G0000 TRANSACTION SUCCESSFULLY COMPLETED",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026546",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "FNYS",
+      "NYM",
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "08-12-2019"
+    ],
+    "reference_numbers": [
+      "NYMAQ 530*05",
+      "K11-056U",
+      "K07-073U",
+      "G01-702L",
+      "G01-001L",
+      "K05-136L",
+      "K11-051U",
+      "E05-533U",
+      "DOJ-OGR-00026546"
+    ]
+  },
+  "additional_notes": "The document appears to be a roster of inmates, with some redacted information. The transaction was successfully completed."
+}

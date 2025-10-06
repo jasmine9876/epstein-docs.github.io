@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "75",
+    "document_number": "DOJ-OGR-00022360",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Barrett, Anthony Barrett, Jonathan Beck, Jerry Beramou, Albert Birdle-Hakim, Sophie Blondin, Nadia Black, Leon Brown, Coco Borden, David Boyino, Kelly Buckingham Research Butler Aviation, Newark Campos, Michelle River Soty.",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Barrett, Anthony Barrett, Jonathan Beck, Jerry Beramou, Albert Birdle-Hakim, Sophie Blondin, Nadia Black, Leon Brown, Coco Borden, David Boyino, Kelly Buckingham Research Butler Aviation, Newark Campos, Michelle",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "River Soty.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "75",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022360",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Anthony Barrett",
+      "Jonathan Barrett",
+      "Jerry Beck",
+      "Albert Beramou",
+      "Sophie Birdle-Hakim",
+      "Nadia Blondin",
+      "Leon Black",
+      "Coco Brown",
+      "David Borden",
+      "Kelly Boyino",
+      "Michelle Campos"
+    ],
+    "organizations": [
+      "Buckingham Research",
+      "Butler Aviation, Newark"
+    ],
+    "locations": [
+      "Newark"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022360"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 75, and the document number is DOJ-OGR-00022360."
+}

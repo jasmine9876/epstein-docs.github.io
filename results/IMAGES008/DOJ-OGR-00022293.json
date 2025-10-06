@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": "8",
+    "document_number": "DOJ-OGR-00022293",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information\n\nArellano, Victor\nArion Joaquin Fernandez de\nArion, Fernando\nArmstrong, Arthur & Cathy\nAron, Hervé & Marine\nAsh, Lorinda\nAshley & Allegra Hicks\nAshley, Nick & Ari\nAssaf, Charlotte & Vittorio\nAstaire, Mr Simon\nAstor Viscount, William\nAtkin Helene\nAtkin, Mike & Aml\nAznar Jose\nBaddeley, Jean\nBahrke Peter\nBaker Danny\nBakhtiar, Shariar\n\nDOJ-OGR-00022293",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Arellano, Victor\nArion Joaquin Fernandez de\nArion, Fernando\nArmstrong, Arthur & Cathy\nAron, Hervé & Marine\nAsh, Lorinda\nAshley & Allegra Hicks\nAshley, Nick & Ari\nAssaf, Charlotte & Vittorio\nAstaire, Mr Simon\nAstor Viscount, William\nAtkin Helene\nAtkin, Mike & Aml\nAznar Jose\nBaddeley, Jean\nBahrke Peter\nBaker Danny\nBakhtiar, Shariar",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022293",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Arellano, Victor",
+      "Arion Joaquin Fernandez de",
+      "Arion, Fernando",
+      "Armstrong, Arthur & Cathy",
+      "Aron, Hervé & Marine",
+      "Ash, Lorinda",
+      "Ashley & Allegra Hicks",
+      "Ashley, Nick & Ari",
+      "Assaf, Charlotte & Vittorio",
+      "Astaire, Mr Simon",
+      "Astor Viscount, William",
+      "Atkin Helene",
+      "Atkin, Mike & Aml",
+      "Aznar Jose",
+      "Baddeley, Jean",
+      "Bahrke Peter",
+      "Baker Danny",
+      "Bakhtiar, Shariar"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022293"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 8, and the document number is DOJ-OGR-00022293."
+}

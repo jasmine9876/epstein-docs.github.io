@@ -1,0 +1,67 @@
+{
+  "document_metadata": {
+    "page_number": "2948",
+    "document_number": "NYMBH 530*05",
+    "date": "08-11-2019",
+    "document_type": "INMATE ROSTER",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2948 NYMBH 530*05 * INMATE ROSTER 08-11-2019 PAGE 001 OF 001 09:06:52 CATEGORY : OCT GROUP CODE : ASSIGNMENT : HOSP ASSIGNMENT OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK 0001 HOSP [redacted] 08-11-2019 KI2-062U FS PM SUICIDE OR 0002 08-11-2019 E03-524U SUICIDE OR UNASSG G0000 TRANSACTION SUCCESSFULLY COMPLETED DOJ-OGR-00026604",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "NYMBH 530*05 * INMATE ROSTER 08-11-2019 PAGE 001 OF 001 09:06:52",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CATEGORY : OCT GROUP CODE : ASSIGNMENT : HOSP ASSIGNMENT OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "0001 HOSP [redacted] 08-11-2019 KI2-062U FS PM SUICIDE OR",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0002 08-11-2019 E03-524U SUICIDE OR UNASSG",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "G0000 TRANSACTION SUCCESSFULLY COMPLETED",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026604",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "08-11-2019"
+    ],
+    "reference_numbers": [
+      "NYMBH 530*05",
+      "KI2-062U",
+      "E03-524U",
+      "DOJ-OGR-00026604"
+    ]
+  },
+  "additional_notes": "The document appears to be a printed inmate roster from a correctional facility. One name is redacted."
+}

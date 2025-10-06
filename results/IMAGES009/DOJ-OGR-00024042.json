@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "(b)(6); (b)(7)(C) 8/2 Savella Epskin 76318.007 8:00 1:21 (b)(6); (b)(7)(C) 7 8/2 Mike Millo VA Epskin 76318.007 10th 102402 (b)(6); (b)(7)(C) DOJ-OGR-00024042",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/2 Savella Epskin 76318.007 8:00 1:21",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7 8/2 Mike Millo VA Epskin 76318.007 10th 102402",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024042",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Savella",
+      "Mike Millo"
+    ],
+    "organizations": [],
+    "locations": [
+      "VA"
+    ],
+    "dates": [
+      "8/2",
+      "10th"
+    ],
+    "reference_numbers": [
+      "76318.007",
+      "DOJ-OGR-00024042"
+    ]
+  },
+  "additional_notes": "The document appears to be heavily redacted, with most of the content obscured by green highlighting. The visible text is primarily handwritten and appears to be notes or records of some kind."
+}

@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028784",
+    "date": "042814",
+    "document_type": "PQH API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:08 *B PQH API/HIT DATA 042814 *A *C NAME EPSTEIN, JEFFREY E TEB -TETERBORO DOB 012053 021413 0000 *D API DOC: 46991107 US P INSP: APIS QRY ----- QUERY ----- LNE TERM/ TIME AGN RSLT TYP REF LANE API 0000 *D API ----- API DATA ----- INDICATOR : R REPORTED CARRIER CODE : *GA GENERAL AVIATION FLT/VES NUMBER : N909JE ARRIVAL LOCATION : TEB TETERBORO DEPARTURE LOCATION : XXX UNKNOWN AIRPORT (USED ON TRANSMITTED BY : APGA928N GENERAL AVIATION INBOUND/OUTBOUND : INBOUND (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) (b)(7)(E) DOJ-OGR-00028784",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:08 *B PQH API/HIT DATA 042814 *A *C",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME EPSTEIN, JEFFREY E TEB -TETERBORO DOB 012053 021413 0000 *D API DOC: 46991107 US P INSP: APIS QRY",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "----- QUERY ----- LNE TERM/ TIME AGN RSLT TYP REF LANE API 0000 *D API",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "----- API DATA ----- INDICATOR : R REPORTED CARRIER CODE : *GA GENERAL AVIATION FLT/VES NUMBER : N909JE ARRIVAL LOCATION : TEB TETERBORO DEPARTURE LOCATION : XXX UNKNOWN AIRPORT (USED ON TRANSMITTED BY : APGA928N GENERAL AVIATION INBOUND/OUTBOUND : INBOUND",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028784",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY E EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "TETERBORO",
+      "TEB",
+      "UNKNOWN AIRPORT"
+    ],
+    "dates": [
+      "021413",
+      "042814"
+    ],
+    "reference_numbers": [
+      "46991107",
+      "N909JE",
+      "APGA928N",
+      "DOJ-OGR-00028784"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b)(7)(E)' and '(b)(6), (b)(7)(C)'. The document appears to be related to flight data and API information for Jeffrey Epstein's travel."
+}

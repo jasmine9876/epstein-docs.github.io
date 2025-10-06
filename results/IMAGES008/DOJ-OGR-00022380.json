@@ -1,0 +1,69 @@
+{
+  "document_metadata": {
+    "page_number": "95",
+    "document_number": "DOJ-OGR-00022380",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information TWA US Air USA International Virgin Atlantic Airways United Airlines DOJ-OGR-00022380",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "TWA",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "US Air",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "USA International",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Virgin Atlantic Airways",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "United Airlines",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022380",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "95",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "TWA",
+      "US Air",
+      "USA International",
+      "Virgin Atlantic Airways",
+      "United Airlines"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022380"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 95 and the document number is DOJ-OGR-00022380."
+}

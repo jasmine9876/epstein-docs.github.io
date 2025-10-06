@@ -1,0 +1,59 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "DOJ-OGR-00024111",
+    "date": "07/24/2019",
+    "document_type": "Clinical Encounter - Administrative Note",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Bureau of Prisons Health Services Clinical Encounter - Administrative Note Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Note Date: 07/24/2019 15:10 Sex: M Race: WHITE Reg #: 76318-054 Provider: (b)(6). (b)(7)(C) MD Facility: NYM Unit: H01 Admin Note - General Administrative Note encounter performed at Health Services. Administrative Notes: ADMINISTRATIVE NOTE 1 Provider: (b)(6). (b)(7)(C) MD PATIENT WAS OFFERED TO HAVE AN OPTOMETRIST EVALUATION. HE REFUSED. REFUSAL FORM SIGNED. Copay Required: No Cosign Required: No Telephone/Verbal Order: No Completed by (b)(6). (b)(7)(C) MD on 07/24/2019 15:17 Generated 07/24/2019 15:17 by (b)(6). (b)(7)(C) MD Bureau of Prisons - NYM Page 1 of 1 DOJ-OGR-00024111",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Bureau of Prisons Health Services Clinical Encounter - Administrative Note",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Note Date: 07/24/2019 15:10 Sex: M Race: WHITE Reg #: 76318-054 Provider: (b)(6). (b)(7)(C) MD Facility: NYM Unit: H01",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Admin Note - General Administrative Note encounter performed at Health Services. Administrative Notes: ADMINISTRATIVE NOTE 1 Provider: (b)(6). (b)(7)(C) MD PATIENT WAS OFFERED TO HAVE AN OPTOMETRIST EVALUATION. HE REFUSED. REFUSAL FORM SIGNED.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Copay Required: No Cosign Required: No Telephone/Verbal Order: No Completed by (b)(6). (b)(7)(C) MD on 07/24/2019 15:17",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/24/2019 15:17 by (b)(6). (b)(7)(C) MD Bureau of Prisons - NYM Page 1 of 1 DOJ-OGR-00024111",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons",
+      "Health Services"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/24/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024111"
+    ]
+  },
+  "additional_notes": "The document contains redacted names and has a clear structure for clinical encounters. It appears to be a standard form used by the Bureau of Prisons for administrative notes."
+}

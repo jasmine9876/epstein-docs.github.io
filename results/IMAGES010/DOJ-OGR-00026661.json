@@ -1,0 +1,80 @@
+{
+  "document_metadata": {
+    "page_number": "3021",
+    "document_number": "DOJ-OGR-00026661",
+    "date": "September 9, 2019",
+    "document_type": "Official Out Count Form",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "METROPOLITAN CORRECTIONAL CENTER NEW YORK, NY OFFICIAL OUT COUNT DATE: 9/9/2019 COUNT TIME: 5:00pm FROM: b(6); b(7)(C) (Staff Member Preparing Out Count) LOCATION: 5:00AW APPROVED: (Operations Lieutenant) REG # NAME UNIT REG # NAME UNIT 1. b(6); b(7)(C) ES 13. 2. 14. 3. 15. 4. 16. 5. 17. 6. 18. 7. 19. 8. 20. 9. 21. 10. 22. 11. 23. 12. 24. OUT-COUNT BY UNIT B-A I-N C-A K-N E-N K-S E-S R-A G-N Z-A G-S Z-B H-A Total Out-Counted: 1 This form must be submitted to the Counts and Assignments Officer FORTY-FIVE MINUTES PRIOR to the affected count. Prepare this form in ink. Group the inmates according to their respective housing units. This form is to be used only as an Out-Count. No other form will be accepted in lieu of the Out-Count Form. DOJ-OGR-00026661",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "METROPOLITAN CORRECTIONAL CENTER NEW YORK, NY OFFICIAL OUT COUNT",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "9/9/2019",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "5:00pm",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "b(6); b(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "5:00AW",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "REG # NAME UNIT REG # NAME UNIT",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "b(6); b(7)(C) ES",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "OUT-COUNT BY UNIT",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "This form must be submitted to the Counts and Assignments Officer FORTY-FIVE MINUTES PRIOR to the affected count. Prepare this form in ink. Group the inmates according to their respective housing units. This form is to be used only as an Out-Count. No other form will be accepted in lieu of the Out-Count Form.",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [
+      "New York, NY"
+    ],
+    "dates": [
+      "September 9, 2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026661",
+      "b(6); b(7)(C)"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as 'b(6); b(7)(C)'. The form is partially filled out with handwritten information."
+}

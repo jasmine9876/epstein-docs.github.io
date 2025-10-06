@@ -1,0 +1,51 @@
+{
+  "document_metadata": {
+    "page_number": "948",
+    "document_number": "DOJ-OGR-00025211",
+    "date": null,
+    "document_type": "Mail Attachment",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 948\nMail Attachment\nEpstein Reconstruction 76318-054 draft7.docx\nPage 2128\nDOJ-OGR-00025211",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 948",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Mail Attachment",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Epstein Reconstruction 76318-054 draft7.docx",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Page 2128",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025211",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00025211"
+    ]
+  },
+  "additional_notes": "The document appears to be a blank page with header and footer information. The content is likely related to the Epstein Reconstruction document attached to an email."
+}

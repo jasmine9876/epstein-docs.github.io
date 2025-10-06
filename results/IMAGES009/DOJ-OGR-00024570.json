@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": "554",
+    "document_number": "DOJ-OGR-00024570",
+    "date": "08/19/2019",
+    "document_type": "Log Entries By Event Date",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Date: 08/19/2019 Time: 10:15 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count - Summary Text: Completed - PREA. 7/23/2019 1:06 PM NYM Housing Units Housing Units, General Population BA 7/23/2019 11:06 AM Day (b)(6) (b)(7)(C) Daily Activity - Feeding Started - Summary Text: Completed - PREA. 7/23/2019 11:09 AM NYM Housing Units Housing Units, General Population IN 7/23/2019 11:09 AM Day Rounds (Lieutenant) - Summary Text: Completed - PREA. 7/23/2019 11:10 AM NYM Housing Units Housing Units, General Population ES 7/23/2019 11:10 AM Day Rounds (Lieutenant) - Summary Text: Completed - PREA. 7/23/2019 11:13 AM NYM Housing Units Housing Units, General Population GS 7/23/2019 11:13 AM Day Change to Base Count In (b)(6) (b)(7)(C) - Summary Text: Inmate (b)(6) (b)(7)(C) 7/23/2019 11:13 AM NYM Housing Units Housing Units, General Population GS 7/23/2019 11:13 AM Day Change to Base Count In - Summary Text: Inmate (b)(6) (b)(7)(C) 7/23/2019 11:18 AM NYM Housing Units Housing Units, General Population GS 7/23/2019 11:18 AM Day Rounds (Lieutenant) - Summary Text: Completed - PREA. 7/23/2019 11:18 AM NYM Housing Units Housing Units, General Population GN 7/23/2019 11:18 AM Day Rounds (Lieutenant) - Summary Text: Completed - PREA. 7/23/2019 11:22 AM NYM Housing Units Housing Units, General Population EN 7/23/2019 11:22 AM Day Rounds (Lieutenant) - Summary Text: Completed - PREA. 7/23/2019 11:28 AM NYM Housing Units Housing Units, General Population KN 7/23/2019 11:27 AM Day Daily Activity - Feeding Completed - Summary Text: All appears normal 7/23/2019 1:07 PM NYM Housing Units Housing Units, General Population BA 7/23/2019 12:07 PM Day Daily Activity - Feeding Completed User ID: (b)(6) (b)(7)(C) Page 554 of 1155 DOJ-OGR-00024570",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date: 08/19/2019 Time: 10:15 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Page 554 of 1155",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024570",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [
+      "Housing Units",
+      "Housing Units, General Population",
+      "BA",
+      "IN",
+      "ES",
+      "GS",
+      "GN",
+      "EN",
+      "KN"
+    ],
+    "dates": [
+      "08/19/2019",
+      "7/23/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00024570"
+    ]
+  },
+  "additional_notes": "The document appears to be a log entry report from the Federal Bureau of Prisons, detailing various events and activities that occurred on July 23, 2019. The report includes information such as the date, time, location, and user who performed the event. Some of the text is redacted, indicating sensitive information."
+}

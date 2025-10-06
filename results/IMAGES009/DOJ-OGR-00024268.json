@@ -1,0 +1,52 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024268",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "(b)(6), (b)(7)(C) 816 816 Epstein 76318084 (b)(6), (b)(7)(C) Epstein 76318084 (b)(6), (b)(7)(C) DOJ-OGR-00024268",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "816 816",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein 76318084 (b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein 76318084 (b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024268",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "76318084",
+      "DOJ-OGR-00024268",
+      "816"
+    ]
+  },
+  "additional_notes": "The document appears to be heavily redacted, with most of the content obscured by green highlighting. The visible text is mostly handwritten and appears to be a name and some numbers."
+}

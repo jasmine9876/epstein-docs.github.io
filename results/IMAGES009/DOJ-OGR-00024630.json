@@ -1,0 +1,46 @@
+{
+  "document_metadata": {
+    "page_number": "001",
+    "document_number": "530*07",
+    "date": "07-31-2019",
+    "document_type": "Population Monitoring Census/Roster Generalized Retrieval",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "NYMES 530*07 PAGE 001 FUNCTION: R-P ZERO/NBR: NO OPTION: DUP SUPR: YES COLUMNS 1: REG 2: LN 3: LN2 4: FN 5: ARSD 6: ARS 7: 8: POPULATION MONITORING CENSUS/ROSTER GENERALIZED RETRIEVAL 07-31-2019 02:51:48 SELECTION CATEGORY: QTR EQ ALL ORGANIZATION: FACL EQ NYM TYPE OF FACILITY: TOF EQ T FACILITY MANAGED BY: FMB EQ AP SEQ: 234 NP: JUDG: C SORT COL: COL SEQ: CONDITIONS (GRP 1) OR CONDITIONS (GRP 2) OR CONDITIONS (GRP 3) OR CONDITIONS (GRP 4) CMCI NE G CMCI NE P Control Center G3002 MORE PAGES TO FOLLOW DOJ-OGR-00024630",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "NYMES 530*07 PAGE 001 FUNCTION: R-P ZERO/NBR: NO OPTION: DUP SUPR: YES COLUMNS 1: REG 2: LN 3: LN2 4: FN 5: ARSD 6: ARS 7: 8: POPULATION MONITORING CENSUS/ROSTER GENERALIZED RETRIEVAL 07-31-2019 02:51:48 SELECTION CATEGORY: QTR EQ ALL ORGANIZATION: FACL EQ NYM TYPE OF FACILITY: TOF EQ T FACILITY MANAGED BY: FMB EQ AP SEQ: 234 NP: JUDG: C SORT COL: COL SEQ: CONDITIONS (GRP 1) OR CONDITIONS (GRP 2) OR CONDITIONS (GRP 3) OR CONDITIONS (GRP 4) CMCI NE G CMCI NE P",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Control Center",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "G3002 MORE PAGES TO FOLLOW",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024630",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "07-31-2019"
+    ],
+    "reference_numbers": [
+      "530*07",
+      "DOJ-OGR-00024630"
+    ]
+  },
+  "additional_notes": "The document contains redacted sections marked in green. The handwritten text 'Control Center' is present in the top-right corner."
+}

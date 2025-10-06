@@ -1,0 +1,38 @@
+{
+  "document_metadata": {
+    "page_number": "3443",
+    "document_number": "DOJ-OGR-00023838",
+    "date": null,
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "(b)(6); (b)(7)(C)\nNOTICE: This message may contain information that is privileged or confidential. If you receive this transmission in error, please notify the sender by reply e-mail and delete the message and any attachments.\nPage 3443\nDOJ-OGR-00023838",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "NOTICE: This message may contain information that is privileged or confidential. If you receive this transmission in error, please notify the sender by reply e-mail and delete the message and any attachments.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 3443\nDOJ-OGR-00023838",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00023838"
+    ]
+  },
+  "additional_notes": "The document contains a redacted section at the top with '(b)(6); (b)(7)(C)' and a confidentiality notice. The page number is 3443, and the document reference number is DOJ-OGR-00023838."
+}

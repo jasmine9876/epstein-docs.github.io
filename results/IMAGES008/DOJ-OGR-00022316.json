@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": "31",
+    "document_number": "DOJ-OGR-00022316",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information\n\nHefner III, Bob\nHeiden Lisa\nHelmeken, Mr Freddie\nHelen and Tim Shifter\nHelvin, Marie\nHerbert, Jason\nHermes, Olga & Olaf\nHerrero, Juan & Helen\nHersov, Robert & Kim\nHeseltine, Mr & Mrs\nHeseltine, Mr & Mrs\nHeseltine, Ms Annabel\nHusband: Peter Butler\nHeseltine, Rupert\nHicks India\nDavid Flintwood\nHill, Anthony\nHimmelstein, Howard\nZYZZZ\nHirsch, Jeff\nHissom, Robert & Andrea\nHoffman, Dustin\nHoffman, Hetty\n31\nDOJ-OGR-00022316",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Hefner III, Bob\nHeiden Lisa\nHelmeken, Mr Freddie\nHelen and Tim Shifter\nHelvin, Marie\nHerbert, Jason\nHermes, Olga & Olaf\nHerrero, Juan & Helen\nHersov, Robert & Kim\nHeseltine, Mr & Mrs\nHeseltine, Mr & Mrs\nHeseltine, Ms Annabel\nHusband: Peter Butler\nHeseltine, Rupert\nHicks India\nDavid Flintwood\nHill, Anthony\nHimmelstein, Howard\nZYZZZ\nHirsch, Jeff\nHissom, Robert & Andrea\nHoffman, Dustin\nHoffman, Hetty",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "31",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022316",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Hefner III, Bob",
+      "Heiden Lisa",
+      "Helmeken, Mr Freddie",
+      "Helen and Tim Shifter",
+      "Helvin, Marie",
+      "Herbert, Jason",
+      "Hermes, Olga & Olaf",
+      "Herrero, Juan & Helen",
+      "Hersov, Robert & Kim",
+      "Heseltine, Mr & Mrs",
+      "Heseltine, Ms Annabel",
+      "Peter Butler",
+      "Heseltine, Rupert",
+      "David Flintwood",
+      "Hill, Anthony",
+      "Himmelstein, Howard",
+      "Hirsch, Jeff",
+      "Hissom, Robert & Andrea",
+      "Hoffman, Dustin",
+      "Hoffman, Hetty"
+    ],
+    "organizations": [
+      "Hicks India"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022316"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 31, and the document number is DOJ-OGR-00022316."
+}

@@ -1,0 +1,72 @@
+{
+  "document_metadata": {
+    "page_number": "2968",
+    "document_number": "DOJ-OGR-00026624",
+    "date": "8/9/19",
+    "document_type": "Official Count Slip",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2968 Metropolitan Correctional Center Official Count Slip Unit: 4A Date: 8/9/19 Time: 4:00 am Count: (b)(7)(F) Print Name: (b)(6); (b)(7)(C) Signature: (b)(6); (b)(7)(C) Print Name: Signature: Metropolitan Correctional Center Official Count Slip Unit: BA Date: 8/9/19 Time: 4:002 am Count: (b)(7)(F) Print Name: (b)(6); (b)(7)(C) Signature: (b)(6); (b)(7)(C) Print Name: Signature: DOJ-OGR-00026624",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "4A 8/9/19 4:00 am",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Unit: Date: Time: Count: Print Name: Signature: Print Name: Signature:",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(7)(F) (b)(6); (b)(7)(C) (b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "BA 8/9/19 4:002 am",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Unit: Date: Time: Count: Print Name: Signature: Print Name: Signature:",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(7)(F) (b)(6); (b)(7)(C) (b)(6); (b)(7)(C)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026624",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [],
+    "dates": [
+      "8/9/19"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026624"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6); (b)(7)(C) and (b)(7)(F). The count slips are for units 4A and BA at the Metropolitan Correctional Center, dated 8/9/19."
+}

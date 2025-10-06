@@ -1,0 +1,72 @@
+{
+  "document_metadata": {
+    "page_number": "2916",
+    "document_number": "DOJ-OGR-00026572",
+    "date": "08/12/2019",
+    "document_type": "Official Count Slip",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2916 Metropolitan Correctional Center Official Count Slip Unit: K-3 Date 8/12/19 Count: Time: 12:01 Am Print Name: (b)(6); (b)(7)(C) Signature: Print Name: Signature: Metropolitan Correctional Center Official Count Slip Unit: KN Date 08/12/2019 Count: Time: 12:01 am Print Name: (b)(6); (b)(7)(C) Signature: Print Name: Signature: DOJ-OGR-00026572",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "K-3 8/12/19 12:01 Am",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Unit: Date Count: Time: Print Name: Signature: Print Name: Signature:",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(7)(F)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "KN 08/12/2019 12:01 am",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Unit: Date Count: Time: Print Name: Signature: Print Name: Signature:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026572",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [],
+    "dates": [
+      "08/12/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026572"
+    ]
+  },
+  "additional_notes": "The document contains two Official Count Slips with handwritten entries. Some information is redacted with (b)(6); (b)(7)(C) and (b)(7)(F)."
+}

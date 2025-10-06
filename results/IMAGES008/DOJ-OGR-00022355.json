@@ -1,0 +1,59 @@
+{
+  "document_metadata": {
+    "page_number": "70",
+    "document_number": "DOJ-OGR-00022355",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Hotel Crillon Hotel Raffael Junot, Philippe Experton, Marie Josenh Gerard L'Amilean L'Arc L'Arpege La Merlot La Poste Lagardere, Betty Lawyers Le Telegrapho Le Voltaire Madame Lemercier Maid Massage - Paris",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Hotel Crillon Hotel Raffael Junot, Philippe Experton, Marie Josenh Gerard L'Amilean L'Arc L'Arpege La Merlot La Poste Lagardere, Betty Lawyers Le Telegrapho Le Voltaire Madame Lemercier Maid Massage - Paris",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "70",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022355",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Junot, Philippe",
+      "Experton, Marie Josenh",
+      "Lagardere, Betty",
+      "Madame Lemercier"
+    ],
+    "organizations": [
+      "Hotel Crillon",
+      "Hotel Raffael",
+      "L'Arpege",
+      "La Merlot",
+      "La Poste",
+      "Lawyers",
+      "Le Telegrapho",
+      "Le Voltaire"
+    ],
+    "locations": [
+      "Paris"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022355"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 70 and the document number is DOJ-OGR-00022355."
+}

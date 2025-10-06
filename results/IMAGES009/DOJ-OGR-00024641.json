@@ -1,0 +1,46 @@
+{
+  "document_metadata": {
+    "page_number": "005",
+    "document_number": "NYY:IE 530*07",
+    "date": "08-05-2019",
+    "document_type": "ROSTER",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "NYY:IE 530*07 PAGE 005 ROSTER 08-05-2019 08:42:36 Z04A Z04-206ZAD 76318-054 EPSTEIN JEFFREY 07-08-2019 A-PRE G0002 MORE PAGES TO FOLLOW... DOJ-OGR-00024641",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "NYY:IE 530*07 PAGE 005 ROSTER 08-05-2019 08:42:36",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Z04A Z04-206ZAD 76318-054 EPSTEIN JEFFREY 07-08-2019 A-PRE G0002 MORE PAGES TO FOLLOW...",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024641",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "08-05-2019",
+      "07-08-2019"
+    ],
+    "reference_numbers": [
+      "NYY:IE 530*07",
+      "Z04A Z04-206ZAD 76318-054",
+      "G0002",
+      "DOJ-OGR-00024641"
+    ]
+  },
+  "additional_notes": "The document appears to be a roster with a redacted or obscured main content area, indicated by a large green block. The header and footer contain relevant information, including dates, names, and reference numbers."
+}

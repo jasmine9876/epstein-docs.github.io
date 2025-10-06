@@ -1,0 +1,43 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00027093",
+    "date": null,
+    "document_type": "Inmate Visit Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE NAME Signature Inmate Reg# Time in Time out DATE NAME Signature Inmate Reg# Time in Time out 1 7/24 (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) J. Epstein 96 318-03 8:34 7/24 (b)(6), (b)(7)(C) Epstein 2518-03 1:00 3:25 7/24 (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) J. Epstein 96 318-03 2:33 8:25",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE NAME Signature Inmate Reg# Time in Time out DATE NAME Signature Inmate Reg# Time in Time out",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "1 7/24 (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) J. Epstein 96 318-03 8:34 7/24 (b)(6), (b)(7)(C) Epstein 2518-03 1:00 3:25",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/24 (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) J. Epstein 96 318-03 2:33 8:25",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [
+      "J. Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/24"
+    ],
+    "reference_numbers": [
+      "96 318-03",
+      "2518-03"
+    ]
+  },
+  "additional_notes": "The document appears to be a log of inmate visits, with some information redacted. The redactions are indicated by '(b)(6), (b)(7)(C)'."
+}

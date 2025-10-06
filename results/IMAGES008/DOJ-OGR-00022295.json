@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "10",
+    "document_number": "DOJ-OGR-00022295",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Batstone, Tim Natasha Benson, Steven Berkman, Bill Bismarck, Debbie & Bola Von Baumer, Lorenzo Bentinck, Baron Bernard, Tara Bismarck Vanessa Von Beaumont, Lord & Lady Berggruen, Nicolas Birchall, Martyn Birley, Robin Bisson, Jean Marc Beckwith, Tamara Belzberg, Lisa Bjorlin, Jean Paul",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Batstone, Tim Natasha Benson, Steven Berkman, Bill Bismarck, Debbie & Bola Von Baumer, Lorenzo Bentinck, Baron Bernard, Tara Bismarck Vanessa Von Beaumont, Lord & Lady Berggruen, Nicolas Birchall, Martyn Birley, Robin Bisson, Jean Marc Beckwith, Tamara Belzberg, Lisa Bjorlin, Jean Paul",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "10",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022295",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Tim Batstone",
+      "Natasha Benson",
+      "Steven Benson",
+      "Bill Berkman",
+      "Debbie Bismarck",
+      "Bola Von Bismarck",
+      "Lorenzo Baumer",
+      "Baron Bentinck",
+      "Tara Bernard",
+      "Vanessa Von Bismarck",
+      "Lord Beaumont",
+      "Lady Beaumont",
+      "Nicolas Berggruen",
+      "Martyn Birchall",
+      "Robin Birley",
+      "Jean Marc Bisson",
+      "Tamara Beckwith",
+      "Lisa Belzberg",
+      "Jean Paul Bjorlin"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022295"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 10, and the document number is DOJ-OGR-00022295."
+}

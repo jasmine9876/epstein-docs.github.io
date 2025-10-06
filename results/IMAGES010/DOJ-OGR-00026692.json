@@ -1,0 +1,101 @@
+{
+  "document_metadata": {
+    "page_number": "3052",
+    "document_number": "BP-A0971",
+    "date": "AUG 11",
+    "document_type": "CHAIN OF CUSTODY LOG",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 3052\nBP-A0971\nAUG 11\nCHAIN OF CUSTODY LOG CDFRM\nU.S. DEPARTMENT OF JUSTICE\nFEDERAL BUREAU OF PRISONS\nECN #\nITEM #\nCASE ID NUMBER:\nDESCRIPTION OF ITEM:\nDATE/TIME ITEM FOUND:\nLOCATION:\nSIGNATURE OF PERSON RECOVERING EVIDENCE:\nPRINTED NAME:\nEVIDENCE PLACED IN OVERNIGHT DROP BOX:\nDROP-BOX BY: (printed name)\nDate & Time:\nWitness: (printed name)\nEVIDENCE RECOVERED FROM OVERNIGHT DROP BOX BY:\n(printed name)\nDate & Time:\nWitness: (printed name)\nEVIDENCE PLACED EVIDENCE SAFE BY:\n(printed name)\nDate & Time:\nWitness: (printed name)\nDISPOSITION:\n( ) Hold as evidence\n( ) Return to owner\n( ) Lab Analysis\n( ) Return to finder\n( ) Destroy immediately\n( ) FBI\n( ) Other\nREMARKS (condition of evidence):\nCHAIN OF CUSTODY\nEVIDENCE RELEASED BY:\nDATE/TIME:\nDESTINATION:\nEVIDENCE RELEASED TO:\nSis LT\n8/29/1700\nDOJ-OLG\n(b)(6); (b)(7)(C)\nPDF\nPrescribed by P5510\nDOJ-OGR-00026692",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3052\nBP-A0971\nAUG 11\nCHAIN OF CUSTODY LOG CDFRM\nU.S. DEPARTMENT OF JUSTICE\nFEDERAL BUREAU OF PRISONS",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "ECN #\nITEM #\nCASE ID NUMBER:\nSUSPECT (If known)",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Dershanel files",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "DESCRIPTION OF ITEM:\nDATE/TIME ITEM FOUND:\nLOCATION:\nSIGNATURE OF PERSON RECOVERING EVIDENCE:\nPRINTED NAME:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "EVIDENCE PLACED IN OVERNIGHT DROP BOX:\nDROP-BOX BY: (printed name)\nDate & Time:\nWitness: (printed name)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "EVIDENCE RECOVERED FROM OVERNIGHT DROP BOX BY:\n(printed name)\nDate & Time:\nWitness: (printed name)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "EVIDENCE PLACED EVIDENCE SAFE BY:\n(printed name)\nDate & Time:\nWitness: (printed name)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DISPOSITION:\n( ) Hold as evidence\n( ) Return to owner\n( ) Lab Analysis\n( ) Return to finder\n( ) Destroy immediately\n( ) FBI\n( ) Other",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "REMARKS (condition of evidence):",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CHAIN OF CUSTODY",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Sis LT\n8/29/1700\nDOJ-OLG",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "EVIDENCE RELEASED BY:\nDATE/TIME:\nDESTINATION:\nEVIDENCE RELEASED TO:",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "PDF\nPrescribed by P5510\nDOJ-OGR-00026692",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Sis LT"
+    ],
+    "organizations": [
+      "U.S. DEPARTMENT OF JUSTICE",
+      "FEDERAL BUREAU OF PRISONS",
+      "FBI",
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "AUG 11",
+      "8/29/1700"
+    ],
+    "reference_numbers": [
+      "BP-A0971",
+      "DOJ-OLG",
+      "DOJ-OGR-00026692",
+      "P5510"
+    ]
+  },
+  "additional_notes": "The document appears to be a Chain of Custody Log from the Federal Bureau of Prisons. It contains handwritten entries and redactions. The document is generally legible, but some handwritten text may be difficult to read due to the quality of the image."
+}

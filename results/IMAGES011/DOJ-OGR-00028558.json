@@ -1,0 +1,75 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "IO25",
+    "date": "04/28/2014",
+    "document_type": "Inspection Remarks",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07:52 IO25 INSPECTION REMARKS 04/28/2014 *B *A *C +--------------------------------------- I N S P E C T I O N R E M A R K S ---------------------------------------+ CPX EXAM CONDUCTED ON SUBJECTS BAGS. ALL BAGS SEARCHED NO CONTRABAND OR SUSPICIOUS ITEMS FOUND...NEG RESULTS ...SUBJECT STATED THAT HE IS RETURNING FROM ONE AY TRIP TO ST LUCIA AND WAS TRAVELING WITH FOUR FEMALE PAX. TWO OFFICERS PRESENT DURING EXAM AND SUBJECT RELEASED WITHOUT INCIDENT +---------------------------------------------------------------------------------------------------------------------------------------+ (b)(7)(E) (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) DOJ-OGR-00028558",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IO25 INSPECTION REMARKS",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "04/28/2014",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "I N S P E C T I O N R E M A R K S",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CPX EXAM CONDUCTED ON SUBJECTS BAGS. ALL BAGS SEARCHED NO CONTRABAND OR SUSPICIOUS ITEMS FOUND...NEG RESULTS ...SUBJECT STATED THAT HE IS RETURNING FROM ONE AY TRIP TO ST LUCIA AND WAS TRAVELING WITH FOUR FEMALE PAX. TWO OFFICERS PRESENT DURING EXAM AND SUBJECT RELEASED WITHOUT INCIDENT",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Key:",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "*A - (b)(7)(E)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "*B - (b)(6), (b)(7)(C)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "*C - (b)(7)(E)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028558",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [
+      "ST LUCIA"
+    ],
+    "dates": [
+      "04/28/2014"
+    ],
+    "reference_numbers": [
+      "IO25",
+      "DOJ-OGR-00028558"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6), (b)(7)(C), and (b)(7)(E). The document appears to be a report of an inspection conducted on a subject's bags."
+}

@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": "02/20/2011",
+    "document_type": "IO95 Inspection Results",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:08:03 IO95 Inspection Results 042814 *A *B A461 TETERBORO, AIRP FLT/VES#: *UU 909JE U.S. CARRIER UNKNOWN DOCTYP*: P #*: 469911707 CTRY*: US UNITED STATES ST: M/F: M DNAME (LAST) : EPSTEIN FRST: JEFFREY EDWARD DOB: 012053 RFRD BY: *D -CBP OFFCR-C DTE: 02202011 TME: 2104 REASON: (b)(7)(E) CCD: SNAME (LAST) : FRST: DOB: NATIONALITY: US UNITED STATES DISP: USC U.S. CITIZEN RCPT#: AUDATE: CHARGE (CODED) : DFRD TO: FIN#: SEC OFCR: *E -CBP OFFCR-C 02/20/2011 22:40 IOEM#: REFR CDE: COMMENTS: VIOLS: NEW COMMENTS: (b)(7)(E) PLAIN BAG INSP NEG COMMENTS HISTORY: WHTI CMPLNT? ADDL COMTS: (b)(7)(E) *F (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) *G *H Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(6) (b)(7)(C) *E - (b)(6) (b)(7)(C) *F - (b)(7)(E) *G - (b)(7)(E) *H - (b)(7)(E) DOJ-OGR-00028691",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:08:03 IO95 Inspection Results 042814",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "*B A461 TETERBORO, AIRP FLT/VES#: *UU 909JE U.S. CARRIER UNKNOWN DOCTYP*: P #*: 469911707 CTRY*: US UNITED STATES ST: M/F: M DNAME (LAST) : EPSTEIN FRST: JEFFREY EDWARD DOB: 012053 RFRD BY: *D -CBP OFFCR-C DTE: 02202011 TME: 2104 REASON: (b)(7)(E) CCD:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SNAME (LAST) : FRST: DOB: NATIONALITY: US UNITED STATES DISP: USC U.S. CITIZEN RCPT#: AUDATE: CHARGE (CODED) : DFRD TO: FIN#: SEC OFCR: *E -CBP OFFCR-C 02/20/2011 22:40 IOEM#: REFR CDE: COMMENTS: VIOLS: NEW COMMENTS: (b)(7)(E) PLAIN BAG INSP NEG COMMENTS HISTORY:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "WHTI CMPLNT? ADDL COMTS: (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "*F (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) *G *H",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(6) (b)(7)(C) *E - (b)(6) (b)(7)(C) *F - (b)(7)(E) *G - (b)(7)(E) *H - (b)(7)(E)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028691",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "CBP"
+    ],
+    "locations": [
+      "TETERBORO",
+      "UNITED STATES"
+    ],
+    "dates": [
+      "02/20/2011",
+      "012053"
+    ],
+    "reference_numbers": [
+      "469911707",
+      "UU 909JE",
+      "DOJ-OGR-00028691"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(7)(E) and (b)(6), (b)(7)(C). The document appears to be an inspection result from the U.S. Customs and Border Protection (CBP)."
+}

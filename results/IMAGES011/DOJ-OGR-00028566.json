@@ -1,0 +1,76 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028566",
+    "date": "07/02/2012",
+    "document_type": "Inspection Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07:53 04/28/2014 *A *B ENTRY: 07/02/2012 UPDATE: 07/02/2012 *C INSPECTION DTE: 07/02/2012 PORT/SITE: 4701/A477 NEW YORK, JFK AIRPORT, TERM LAST NAME:* EPSTEIN FIRST:* JEFFREY DOB:* 01201953 RCPT#: DOC TYPE: P #: 469911707 ISSUING CNTRY: US ID-ST: GENDER:* M RACE:* U UNKNOWN CARRIER:* AF FLT/VES #: *6 HISPANIC:* N (Y/N) FLT/VES CREW:* N (Y/N) IN/OUT:* I DEPART/DESTIN:* CDG EMBARK:* CDG REFERRING OFFICER CODE: (b) (7) (E) REASON FOR REFERRAL: (b) (7) (E) BAG EXAM:* N (Y/N) # BAGS X-RAYED: PRSNL SRCH:* N (Y/N) # PAX ON DEC:* 1 POS/NEG INSP:* N (P/N/U) REFERRAL TIME:* 18 : 31 COMPLETION TIME:* 18 : 34 IOM:* (Y/N) IOM#: CCD USED: *D (Y/N) CAT 1 OR 2: VIOL CDS: INCIDENT #: REMARKS: (b) (7) (E) INSP COMPLETE:* Y (Y/N) ** SECONDARY INSPECTION COMPLETE ** (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) *E - (b) (7) (E) DOJ-OGR-00028566",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07:53 04/28/2014 *A *B ENTRY: 07/02/2012 UPDATE: 07/02/2012 *C INSPECTION DTE: 07/02/2012 PORT/SITE: 4701/A477 NEW YORK, JFK AIRPORT, TERM",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "LAST NAME:* EPSTEIN FIRST:* JEFFREY DOB:* 01201953 RCPT#: DOC TYPE: P #: 469911707 ISSUING CNTRY: US ID-ST:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "GENDER:* M RACE:* U UNKNOWN CARRIER:* AF FLT/VES #: *6 HISPANIC:* N (Y/N) FLT/VES CREW:* N (Y/N) IN/OUT:* I DEPART/DESTIN:* CDG EMBARK:* CDG",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "REFERRING OFFICER CODE: (b) (7) (E) REASON FOR REFERRAL: (b) (7) (E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "BAG EXAM:* N (Y/N) # BAGS X-RAYED: PRSNL SRCH:* N (Y/N) # PAX ON DEC:* 1 POS/NEG INSP:* N (P/N/U) REFERRAL TIME:* 18 : 31 COMPLETION TIME:* 18 : 34 IOM:* (Y/N) IOM#: CCD USED: *D (Y/N)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CAT 1 OR 2: VIOL CDS: INCIDENT #: REMARKS: (b) (7) (E) INSP COMPLETE:* Y (Y/N) ** SECONDARY INSPECTION COMPLETE **",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) *E - (b) (7) (E)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028566",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "US"
+    ],
+    "locations": [
+      "NEW YORK",
+      "JFK AIRPORT"
+    ],
+    "dates": [
+      "07/02/2012",
+      "04/28/2014",
+      "01/20/1953"
+    ],
+    "reference_numbers": [
+      "469911707",
+      "4701/A477",
+      "DOJ-OGR-00028566"
+    ]
+  },
+  "additional_notes": "The document appears to be a secondary inspection report for Jeffrey Epstein at JFK Airport on July 2, 2012. The document contains various redacted fields and codes."
+}

@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": "7691",
+    "document_number": "DOJ-OGR-00023912",
+    "date": "2019/07/25",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "NYPOST From To Date 2019/07/25 07:52 Subject: NYPOST Attachments: TEXT.htm Top story on the website https://nypost.com/2019/07/24/jeffrey-epstein-found-nearly-unconscious-with-injuries-to-his-neck-in-nyc-jail-cell/ Page 7691 DOJ-OGR-00023912",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "NYPOST From To Date 2019/07/25 07:52 Subject: NYPOST Attachments: TEXT.htm",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Top story on the website",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "https://nypost.com/2019/07/24/jeffrey-epstein-found-nearly-unconscious-with-injuries-to-his-neck-in-nyc-jail-cell/",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 7691",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00023912",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "NYPOST",
+      "DOJ"
+    ],
+    "locations": [
+      "NYC"
+    ],
+    "dates": [
+      "2019/07/25",
+      "2019/07/24"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00023912"
+    ]
+  },
+  "additional_notes": "The 'From' field is redacted. The document appears to be a printed email with a link to a news article about Jeffrey Epstein."
+}

@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": "1222",
+    "document_number": "DOJ-OGR-00025427",
+    "date": null,
+    "document_type": "Mail Attachment",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 1222 Mail Attachment Epstein b6(b); b7(C) 76318-054_SRO_20190729-20190810.pdf Page 3351 DOJ-OGR-00025427",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 1222",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Mail Attachment",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Epstein",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "b6(b); b7(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "76318-054_SRO_20190729-20190810.pdf",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 3351",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025427",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "20190729",
+      "20190810"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00025427"
+    ]
+  },
+  "additional_notes": "The document appears to be a page from a larger document or report, with a header and footer indicating page numbers and a document identifier. The main content is a reference to a mail attachment with a redacted name 'Epstein' and a file name '76318-054_SRO_20190729-20190810.pdf'. The presence of 'b6(b); b7(C)' suggests that the document has been redacted according to specific exemptions under the Freedom of Information Act (FOIA)."
+}

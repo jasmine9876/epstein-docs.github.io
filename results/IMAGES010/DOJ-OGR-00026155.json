@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": "2479",
+    "document_number": "76318-054",
+    "date": "07/06/2019",
+    "document_type": "Allergies Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2479 Bureau of Prisons Health Services Allergies Reg #: 76318-054 Inmate Name: EPSTEIN, JEFFREY EDWARD Allergy Date Noted Reaction No Known Allergies 07/06/2019 Orig Entered: 07/06/2019 21:40 EST [b(6); (b)(7)(C)] PA-C Total: 1 Generated 08/10/2019 11:02 by [b(6); (b)(7)(C)] Bureau of Prisons - NYM Page 1 of 1 DOJ-OGR-00026155",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Bureau of Prisons Health Services Allergies",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Reg #: 76318-054 Inmate Name: EPSTEIN, JEFFREY EDWARD",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Allergy Date Noted Reaction No Known Allergies 07/06/2019",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Orig Entered: 07/06/2019 21:40 EST [b(6); (b)(7)(C)] PA-C Total: 1",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 08/10/2019 11:02 by [b(6); (b)(7)(C)] Bureau of Prisons - NYM Page 1 of 1 DOJ-OGR-00026155",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons",
+      "Bureau of Prisons - NYM"
+    ],
+    "locations": [],
+    "dates": [
+      "07/06/2019",
+      "07/06/2019 21:40 EST",
+      "08/10/2019 11:02"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026155"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as [b(6); (b)(7)(C)]."
+}

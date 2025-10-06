@@ -1,0 +1,67 @@
+{
+  "document_metadata": {
+    "page_number": "583",
+    "document_number": "DOJ-OGR-00025036",
+    "date": "5/19/2020",
+    "document_type": "Log Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 583 Log Date/Time User Action Alias Post Shift date Watch Assignment Type Mndtry 07/22/19 12:49 (b)(6); (b)(7)(C) OT By-passed (b)(6); (b)(7)(C) SHU #4 07/22/19 E/W Signup List The staff member (b)(6); (b)(7)(C) is already working this watch. 07/22/19 12:24 (b)(6); (b)(7)(C) OT Assigned (b)(6); (b)(7)(C) CONTROL #1 07/27/19 M/W Signup List 07/22/19 12:23 OT Assigned 10 SOUTH #1 07/27/19 M/W Signup List 07/22/19 11:07 AGREED OT Assigned 11 NORTH 07/22/19 E/W Mandtry List 07/22/19 11:07 UNABLE TO WORK OT By-passed 11 NORTH 07/22/19 E/W Mandtry List 07/22/19 11:07 (b)(6); (b)(7)(C) OT By-passed (b)(6); (b)(7)(C) 11 NORTH 07/22/19 E/W Mandtry List ... 5/19/2020 10:35:51 AM DOJ-OGR-00025036",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Log Date/Time User Action Alias Post Shift date Watch Assignment Type Mndtry",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "The staff member (b)(6); (b)(7)(C) is already working this watch.",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "UNABLE TO WORK",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "5/19/2020 10:35:51 AM",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025036",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [
+      "SHU #4",
+      "CONTROL #1",
+      "10 SOUTH #1",
+      "11 NORTH",
+      "5 NORTH",
+      "9 NORTH",
+      "INTERNAL"
+    ],
+    "dates": [
+      "07/22/19",
+      "07/27/19",
+      "07/22/19",
+      "07/23/19",
+      "07/24/19",
+      "07/26/19",
+      "07/25/19",
+      "5/19/2020"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00025036"
+    ]
+  },
+  "additional_notes": "The document appears to be a log report with various entries related to staff assignments and watch schedules. The report includes redactions of personal identifiable information."
+}

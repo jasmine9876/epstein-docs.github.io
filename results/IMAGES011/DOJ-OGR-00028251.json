@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": "042814",
+    "document_type": "PQH API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 PQH API/HIT DATA 042814 *B *A *C ----- QUERY ----- LNE TERM/ NAME DOB DATE TIME AGN RSLT TYP REF LANE API EPSTEIN, JEFFREY 012053 100313 0804 CUS *D AIR EY09 N A512-CBP-ST THOMAS, VI PRECL TECS RECORD ID : CARRIER CODE : *GA GENERAL AVIATION FLT/VES NUMBER : 212JE (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) DOJ-OGR-00028251",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07 PQH API/HIT DATA 042814",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "----- QUERY ----- LNE TERM/ NAME DOB DATE TIME AGN RSLT TYP REF LANE API EPSTEIN, JEFFREY 012053 100313 0804 CUS *D AIR EY09 N A512-CBP-ST THOMAS, VI PRECL",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TECS RECORD ID : CARRIER CODE : *GA GENERAL AVIATION FLT/VES NUMBER : 212JE",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E) (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028251",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "CBP"
+    ],
+    "locations": [
+      "ST THOMAS, VI"
+    ],
+    "dates": [
+      "100313",
+      "042814",
+      "012053"
+    ],
+    "reference_numbers": [
+      "A512-CBP-ST",
+      "212JE",
+      "DOJ-OGR-00028251"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as (b)(7)(E), (b)(6), and (b)(7)(C). The document appears to be a data query result related to an individual, JEFFREY EPSTEIN, with details about his travel."
+}

@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028304",
+    "date": "013011",
+    "document_type": "PQH API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 PQH API/HIT DATA 042814\n*B\n*A\n*C\nNAME DOB QUERY DATE TIME AGN RSLT LNE TYP REF TERM/LANE API\nEPSTEIN, JEFFREY 012053 013011 0000 *D API A103-NEWARK, INTL AIRPORT T 01 R\nAPI DATA ----\nINDICATOR : R REPORTED\nCARRIER CODE : EC OPEN SKIES\nFLT/VES NUMBER : 1\nARRIVAL LOCATION : EWR NEWARK INTERNATIONAL\nDEPARTURE LOCATION : ORY PARIS, ORLY\nTRANSMITTED BY : ALTEA+CM AMADEUS DCS ALTEA CM\nINBOUND/OUTBOUND : INBOUND (b) (7) (E)\nKey:\n*A - (b) (7) (E)\n*B - (b) (6), (b) (7) (C)\n*C - (b) (7) (E)\n*D - (b) (7) (E)\nDOJ-OGR-00028304",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07 PQH API/HIT DATA 042814",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB QUERY DATE TIME AGN RSLT LNE TYP REF TERM/LANE API",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY 012053 013011 0000 *D API A103-NEWARK, INTL AIRPORT T 01 R",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "API DATA ----\nINDICATOR : R REPORTED\nCARRIER CODE : EC OPEN SKIES\nFLT/VES NUMBER : 1\nARRIVAL LOCATION : EWR NEWARK INTERNATIONAL\nDEPARTURE LOCATION : ORY PARIS, ORLY\nTRANSMITTED BY : ALTEA+CM AMADEUS DCS ALTEA CM\nINBOUND/OUTBOUND : INBOUND",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key:\n*A - (b) (7) (E)\n*B - (b) (6), (b) (7) (C)\n*C - (b) (7) (E)\n*D - (b) (7) (E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028304",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "AMADEUS DCS ALTEA CM",
+      "ALTEA+CM"
+    ],
+    "locations": [
+      "NEWARK INTERNATIONAL",
+      "PARIS, ORLY",
+      "NEWARK, INTL AIRPORT"
+    ],
+    "dates": [
+      "013011",
+      "012053"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00028304",
+      "1"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b) (7) (E) and (b) (6), (b) (7) (C)."
+}

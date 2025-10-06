@@ -1,0 +1,67 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024089",
+    "date": "8/9/19",
+    "document_type": "Inmate Visit Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE NAME Signature Inmate Log# Time in Time out 8/9/19 Carvalho 765004 655 655 (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) Lora 783004 234 8/19/19 (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) 8/19 G. Tali An J. Epstein 765804 1100 613 (b)(6), (b)(7)(C) 8/19/19 Savala Wendy (b)(6), (b)(7)(C) Epstein 763804 1220 645 (b)(6), (b)(7)(C) 8/19 M. (b)(6), (b)(7)(C) Epstein 763804 220 645 DOJ-OGR-00024089",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE NAME Signature Inmate Log# Time in Time out",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/9/19 Carvalho 765004 655 655",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/19 G. Tali An J. Epstein 765804 1100 613",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/19/19 Savala Wendy Epstein 763804 1220 645",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/19 M. Epstein 763804 220 645",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024089",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Carvalho",
+      "Lora",
+      "G. Tali",
+      "J. Epstein",
+      "Savala Wendy",
+      "M. Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "8/9/19",
+      "8/19/19"
+    ],
+    "reference_numbers": [
+      "765004",
+      "783004",
+      "765804",
+      "763804",
+      "DOJ-OGR-00024089"
+    ]
+  },
+  "additional_notes": "The document appears to be an inmate visit log with handwritten entries. Some sections are redacted with green blocks, obscuring names and other details."
+}

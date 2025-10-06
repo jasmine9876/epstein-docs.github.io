@@ -1,0 +1,87 @@
+{
+  "document_metadata": {
+    "page_number": "2091",
+    "document_number": "DOJ-OGR-00025931",
+    "date": "7/8/19, 7/10/19",
+    "document_type": "Psych Observation Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2091 PSYCH OBSERVATION LOG NAME: Epstein REGISTRATION#: 76318-054 OBSERVATION STARTED: 7/8/19@ 6PM OBSERVATION ENDED: 7/10/19 9AM PLEASE RETURN LOG TO PSYCHOLOGY AFTER THE OBSERVATION HAS ENDED. THANK YOU. ITEMS ALLOWED: Regular Clothes Safety Toothbrush Newspaper/Magazine Books (softcover only) Safety Pen and Paper Toilet Paper Legal Mail Other SW Blanket & SW Mattress must be used even on Psych Observations. If nothing is checked with a silver marker, only a Suicide Smock and Suicide Blanket are allowed. DOJ-OGR-00025931",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PSYCH OBSERVATION LOG",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "NAME:",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318-054",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "REGISTRATION#:",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/8/19@ 6PM",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "OBSERVATION STARTED:",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/10/19 9AM",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "OBSERVATION ENDED:",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "PLEASE RETURN LOG TO PSYCHOLOGY AFTER THE OBSERVATION HAS ENDED. THANK YOU.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "ITEMS ALLOWED: Regular Clothes Safety Toothbrush Newspaper/Magazine Books (softcover only) Safety Pen and Paper Toilet Paper Legal Mail Other SW Blanket & SW Mattress must be used even on Psych Observations. If nothing is checked with a silver marker, only a Suicide Smock and Suicide Blanket are allowed.",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [
+      "PSYCHOLOGY",
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "7/8/19",
+      "7/10/19"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00025931"
+    ]
+  },
+  "additional_notes": "The document appears to be a photocopy or scan of a printed form with handwritten entries. The image quality is somewhat degraded, but the text is still legible."
+}

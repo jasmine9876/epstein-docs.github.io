@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028659",
+    "date": "05/20/2010",
+    "document_type": "I095 Inspection Results",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:08:00 I095 Inspection Results 042814 *A *B A512 CBP-ST THOMAS, FLT/VES#: ZZ N909J UNKOWN AIRLINE CODE DOCTYP*: P #*: 207320604 CTRY*: US UNITED STATES ST: M/F: DNAME (LAST) : EPSTEIN FRST: JEFFREY DOB: 012053 RFRD BY: *D -CBP OFFCR-C DTE: 05132010 TME: 1622 REASON: (b)(7)(E) CCD:*E SNAME (LAST) : FRST: NO FIN NUMBER NATIONALITY: US UNITED STATES DOB: DISP: USC U.S. CITIZEN RCPT#: AUDATE: CHARGE (CODED) : FIN#: DFRD TO: SEC OFCR: *F -CBP OFFCR-C 05/20/2010 12:32 IOEM#: REFR CDE: COMMENTS: VIOLS: (b)(7)(E) ON THIS DATE. TRAVEL AUTHORIZED. SUBJECT TRAVELING BACK TO FL WHTI CMPLNT? ADDL COMTS: (b)(7)(E) *G (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) *H *I Key: *A - (b)(7)(E) *B - (b)(6),(b)(7)(C) *C - (b)(7)(E) *D - (b)(6)(b)(7)(C) *E - (b)(7)(E) *F - (b)(6)(b)(7)(C) *G - (b)(7)(E) *H - (b)(7)(E) *I - (b)(7)(E)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:08:00 I095 Inspection Results 042814",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "*B A512 CBP-ST THOMAS, FLT/VES#: ZZ N909J UNKOWN AIRLINE CODE DOCTYP*: P #*: 207320604 CTRY*: US UNITED STATES ST: M/F: DNAME (LAST) : EPSTEIN FRST: JEFFREY DOB: 012053 RFRD BY: *D -CBP OFFCR-C DTE: 05132010 TME: 1622 REASON: (b)(7)(E) CCD:*E",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SNAME (LAST) : FRST: NO FIN NUMBER NATIONALITY: US UNITED STATES DOB: DISP: USC U.S. CITIZEN RCPT#: AUDATE: CHARGE (CODED) : FIN#: DFRD TO: SEC OFCR: *F -CBP OFFCR-C 05/20/2010 12:32 IOEM#: REFR CDE: COMMENTS: VIOLS: (b)(7)(E) ON THIS DATE. TRAVEL AUTHORIZED. SUBJECT TRAVELING BACK TO FL",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "WHTI CMPLNT? ADDL COMTS: (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "*G (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) *H *I Key: *A - (b)(7)(E) *B - (b)(6),(b)(7)(C) *C - (b)(7)(E) *D - (b)(6)(b)(7)(C) *E - (b)(7)(E) *F - (b)(6)(b)(7)(C) *G - (b)(7)(E) *H - (b)(7)(E) *I - (b)(7)(E)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028659",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "CBP"
+    ],
+    "locations": [
+      "UNITED STATES",
+      "FL"
+    ],
+    "dates": [
+      "05/20/2010",
+      "05132010",
+      "012053"
+    ],
+    "reference_numbers": [
+      "207320604",
+      "N909J",
+      "DOJ-OGR-00028659"
+    ]
+  },
+  "additional_notes": "The document contains multiple redacted sections with codes such as (b)(7)(E) and (b)(6),(b)(7)(C), indicating sensitive information has been withheld."
+}

@@ -1,0 +1,87 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "3258",
+    "date": "01/18/05",
+    "document_type": "DDA Statement History",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "JE Jan. 18. 2005 11:20AM DDA STATEMENT HISTORY ACCOUNT 000-000-0000 No. 3258 P. 2 PAGE 2 GHISLAINE MAXWELL OR ALFREDO RODRIGUEZ DATE LAST STATEMENT 12/22/04 * HOUSEHOLD ACCOUNT DATE THIS STATEMENT 01/18/05 *****DDA TRANSACTIONS***** BEGINNING CHECKS/OTHER DEBITS DEPOSITS/OTHER CREDITS ENDING BALANCE NBR TOTAL AMOUNT NBR TOTAL AMOUNT BALANCE 5825.46 22 18829.20 2 20000.00 6996.26 DATE CK NBR AMOUNT TP TRANSACTION DESCRIPTION BALANCE 12/14 2526 500.00 CK TELLER CASHED CHECK 1387.32 12/14 2525 1000.00 CK TELLER CASHED CHECK Polly Cash 387.32 12/15 2523 1000.00 CR INCOMING WIRE CREDIT 10387.32 12/15 600.00 DB FORCE PAY DEBIT 9787.32 12/15 630.00 DB NSF CHARGE 9757.32 12/15 510.00 DB INCOMING WIRE FEE 9747.32 12/16 2527 503.50 CK CHECK 9243.82 12/17 2529 113.42 DB TIRES PLUS FT LA EFT 9130.40 12/20 2528 1300.00 CK CHECK 7830.40 12/20 2533 420.00 CK CHECK 7410.40 12/21 2531 260.44 CK CHECK 7149.96 12/21 2530 153.70 CK CHECK 6996.26 PF1 - PAGE FWD PF2 - PAGE BKWD 07/26/17 Page 67 of 114 Public Records Request No.: 17-295 DOJ-OGR-00030420",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "JE Jan. 18. 2005 11:20AM DDA STATEMENT HISTORY ACCOUNT 000-000-0000 No. 3258 P. 2 PAGE 2 GHISLAINE MAXWELL OR ALFREDO RODRIGUEZ DATE LAST STATEMENT 12/22/04 * HOUSEHOLD ACCOUNT DATE THIS STATEMENT 01/18/05 *****DDA TRANSACTIONS*****",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "BEGINNING CHECKS/OTHER DEBITS DEPOSITS/OTHER CREDITS ENDING BALANCE NBR TOTAL AMOUNT NBR TOTAL AMOUNT BALANCE 5825.46 22 18829.20 2 20000.00 6996.26",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DATE CK NBR AMOUNT TP TRANSACTION DESCRIPTION BALANCE",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "12/14 2526 500.00 CK TELLER CASHED CHECK 1387.32 12/14 2525 1000.00 CK TELLER CASHED CHECK Polly Cash 387.32 12/15 2523 1000.00 CR INCOMING WIRE CREDIT 10387.32 12/15 600.00 DB FORCE PAY DEBIT 9787.32 12/15 630.00 DB NSF CHARGE 9757.32 12/15 510.00 DB INCOMING WIRE FEE 9747.32 12/16 2527 503.50 CK CHECK 9243.82 12/17 2529 113.42 DB TIRES PLUS FT LA EFT 9130.40 12/20 2528 1300.00 CK CHECK 7830.40 12/20 2533 420.00 CK CHECK 7410.40 12/21 2531 260.44 CK CHECK 7149.96 12/21 2530 153.70 CK CHECK 6996.26",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "PF1 - PAGE FWD PF2 - PAGE BKWD",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 67 of 114 Public Records Request No.: 17-295 DOJ-OGR-00030420",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "Polly Cash",
+      "position": "body"
+    }
+  ],
+  "entities": {
+    "people": [
+      "GHISLAINE MAXWELL",
+      "ALFREDO RODRIGUEZ",
+      "Polly Cash"
+    ],
+    "organizations": [],
+    "locations": [
+      "FT LA"
+    ],
+    "dates": [
+      "Jan. 18. 2005",
+      "12/22/04",
+      "01/18/05",
+      "12/14",
+      "12/15",
+      "12/16",
+      "12/17",
+      "12/20",
+      "12/21",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "000-000-0000",
+      "3258",
+      "2526",
+      "2525",
+      "2523",
+      "2527",
+      "2529",
+      "2528",
+      "2533",
+      "2531",
+      "2530",
+      "17-295",
+      "DOJ-OGR-00030420"
+    ]
+  },
+  "additional_notes": "The document appears to be a bank statement with a mix of printed and handwritten text. The handwritten text 'Polly Cash' is likely a note or annotation made by someone reviewing the statement."
+}

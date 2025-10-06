@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": "2184",
+    "document_number": "DOJ-OGR-00025992",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2184 this probably should be some time after that interview. (b)(6) Hugh Sent from my Verizon, Samsung Galaxy smartphone Page 11889 DOJ-OGR-00025992",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 2184",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "this probably should be some time after that interview.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Hugh Sent from my Verizon, Samsung Galaxy smartphone",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 11889",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025992",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Hugh"
+    ],
+    "organizations": [
+      "Verizon",
+      "Samsung"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00025992"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted email or message, with a large redacted section. The text is mostly printed, with no visible handwriting or stamps."
+}

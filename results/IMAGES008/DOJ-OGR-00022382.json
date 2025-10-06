@@ -1,0 +1,68 @@
+{
+  "document_metadata": {
+    "page_number": "97",
+    "document_number": "DOJ-OGR-00022382",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Hatsuhana (Japanese) Klinger, Georgette Madre, Le Helmsley Palace Le Club Mark Hotel Mayfair Regent Il Cantinori Le Comptoir Massage -California McMullan, Patrick Il Tra Merli Lowell Hotel Mercer Kitchen Isabelle's Madison Gourmet Morgan Hotel Jour et Nuit Madison Towers Mr Chow Karen Pets",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Hatsuhana (Japanese)\nHelmsley Palace\nIl Cantinori\nIl Tra Merli\nIsabelle's\nJour et Nuit\nKaren Pets\nKlinger, Georgette\nLe Club\nLe Comptoir\nLowell Hotel\nMadison Gourmet\nMadison Towers\nMadre, Le\nMark Hotel\nMassage -California\nMayfair Regent\nMcMullan, Patrick\nMercer Kitchen\nMorgan Hotel\nMr Chow",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "97",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022382",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Georgette Klinger",
+      "Le Madre",
+      "Patrick McMullan"
+    ],
+    "organizations": [
+      "Hatsuhana",
+      "Helmsley Palace",
+      "Il Cantinori",
+      "Il Tra Merli",
+      "Isabelle's",
+      "Jour et Nuit",
+      "Karen Pets",
+      "Le Club",
+      "Le Comptoir",
+      "Lowell Hotel",
+      "Madison Gourmet",
+      "Madison Towers",
+      "Mark Hotel",
+      "Massage -California",
+      "Mayfair Regent",
+      "Mercer Kitchen",
+      "Morgan Hotel",
+      "Mr Chow"
+    ],
+    "locations": [
+      "California"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022382"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 97, and the document number is DOJ-OGR-00022382."
+}

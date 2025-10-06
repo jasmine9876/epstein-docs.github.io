@@ -1,0 +1,67 @@
+{
+  "document_metadata": {
+    "page_number": "2919",
+    "document_number": "NYMBM 530*05",
+    "date": "08-11-2019",
+    "document_type": "Inmate Roster",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2919 NYMBM 530*05 * INMATE ROSTER * 08-11-2019 PAGE 001 OF 001 01:35:20 CATEGORY: OCT ASSIGNMENT: HOSP GROUP CODE: OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT FACILITY: NYM OPER CATG ASSIGNMENT NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK 0001 HOSP b(6); b(7)(C) 08-11-2019 E06-546L SUICIDE OR UNASSG 0002 08-11-2019 K11-053L FS WAREHOU SUICIDE OR G0000 TRANSACTION SUCCESSFULLY COMPLETED DOJ-OGR-00026575",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "NYMBM 530*05 * INMATE ROSTER * 08-11-2019 PAGE 001 OF 001 01:35:20",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "CATEGORY: OCT ASSIGNMENT: HOSP GROUP CODE: OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT FACILITY: NYM OPER CATG ASSIGNMENT",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "0001 HOSP b(6); b(7)(C) 08-11-2019 E06-546L SUICIDE OR UNASSG",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "0002 08-11-2019 K11-053L FS WAREHOU SUICIDE OR",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "G0000 TRANSACTION SUCCESSFULLY COMPLETED",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026575",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "08-11-2019"
+    ],
+    "reference_numbers": [
+      "NYMBM 530*05",
+      "DOJ-OGR-00026575",
+      "E06-546L",
+      "K11-053L"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as 'b(6); b(7)(C)'. The document appears to be a roster of inmates, with details about their assignments and locations within the facility."
+}

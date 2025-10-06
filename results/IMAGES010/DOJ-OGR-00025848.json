@@ -1,0 +1,49 @@
+{
+  "document_metadata": {
+    "page_number": "1849",
+    "document_number": "Epstein 76318-054",
+    "date": "2019/07/30",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 1849\nEpstein 76318-054\nFrom (b)(6); (b)(7)(C)\nTo\nDate 2019/07/30 15:05\nSubject: Epstein 76318-054\nAttachments: TEXT.htm\nCan you get me his updated medical records from July 2, 2019 to present? Thanks!\nPage 9948\nDOJ-OGR-00025848",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 1849",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Epstein 76318-054\nFrom (b)(6); (b)(7)(C)\nTo\nDate 2019/07/30 15:05\nSubject: Epstein 76318-054\nAttachments: TEXT.htm",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Can you get me his updated medical records from July 2, 2019 to present? Thanks!",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 9948\nDOJ-OGR-00025848",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "2019/07/30",
+      "July 2, 2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00025848"
+    ]
+  },
+  "additional_notes": "The document appears to be an email requesting updated medical records. The sender's information is redacted."
+}

@@ -1,0 +1,45 @@
+{
+  "document_metadata": {
+    "page_number": "006",
+    "document_number": "NYMD4 530*07",
+    "date": "08-09-2019",
+    "document_type": "ROSTER",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "NYMD4 530*07 * ROSTER * 08-09-2019 PAGE 006 01:20:18 [b](b)(7)(C) Z04A Z04-206ZAD 76318-054 EPSTEIN JEFFREY 07-08-2019 A-PRE DOJ-OGR-00024647",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "NYMD4 530*07 * ROSTER * 08-09-2019 PAGE 006 01:20:18",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "[b](b)(7)(C) Z04A Z04-206ZAD 76318-054 EPSTEIN JEFFREY 07-08-2019 A-PRE",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024647",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "07-08-2019",
+      "08-09-2019"
+    ],
+    "reference_numbers": [
+      "NYMD4 530*07",
+      "Z04A Z04-206ZAD 76318-054",
+      "DOJ-OGR-00024647"
+    ]
+  },
+  "additional_notes": "The document appears to be a roster with a partially redacted entry for JEFFREY EPSTEIN. The majority of the page content is obscured by a green block, suggesting redaction or censorship."
+}

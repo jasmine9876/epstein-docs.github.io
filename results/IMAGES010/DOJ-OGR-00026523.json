@@ -1,0 +1,72 @@
+{
+  "document_metadata": {
+    "page_number": "2867",
+    "document_number": "DOJ-OGR-00026523",
+    "date": "08/12/2019",
+    "document_type": "Official Count Slip",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2867 Metropolitan Correctional Center Official Count Slip Unit: (b)(7)(F) Date: 08/12/19 Time: 10pm Count: (b)(6); (b)(7)(C) Print Name: Signature: (b)(6); (b)(7)(C) Print Name: Signature: Metropolitan Correctional Center Official Count Slip Unit: KN (b)(7)(F) Date: 08/12/2019 Time: 10:00pm Count: (b)(6); (b)(7)(C) Print Name: Signature: Print Name: Signature: DOJ-OGR-00026523",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "15 08/12/19 10pm",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Unit: Date: Time: Count: Print Name: Signature: Print Name: Signature:",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(7)(F) (b)(6); (b)(7)(C) (b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "KN 08/12/2019 10:00pm",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Unit: Date: Time: Count: Print Name: Signature: Print Name: Signature:",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(7)(F) (b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026523",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [],
+    "dates": [
+      "08/12/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026523"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as (b)(6); (b)(7)(C) and (b)(7)(F). The document appears to be a scan of a physical document with some handwritten entries."
+}

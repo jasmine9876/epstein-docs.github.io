@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00023667",
+    "date": "July 24, 2019",
+    "document_type": "Email chain",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "From: [redacted] @nyu.edu Sent: Wed, 24 Jul 2019 15:37:22 -0400 To: [redacted] @bop.gov Subject: Re: EPSTEIN Application Cc: [redacted] No worries. Thank you for the update. Just to clarify, this means that until my application is cleared I will be unable to visit Mr. Epstein, correct? On Wed, Jul 24, 2019 at 3:33 PM [redacted] @bop.gov wrote: My apologies. I forwarded it yesterday for processing. So we do have it. [redacted] @nyu.edu> 7/24/2019 3:29 PM >>> Hi [redacted] Thank you for letting me know and for your response. I was informed by [redacted] that he had submitted my completed application to the legal department for the inmate Jeffrey Epstein yesterday morning. Does this reflect any of your records? If not, I will be happy to resubmit. If so, can I send the application to you directly via email? Please let me know. Thanks again, [redacted] On Wed, Jul 24, 2019 at 3:23 PM [redacted] @bop.gov> wrote: Hi [redacted] Attached starting at p. 26, please find the application and NCIC check form. Paralegals must submit new applications yearly to retain legal visiting privileges. Please be advised, our records reflected that your last application expired in September 2018. Please complete the attached and return them for processing at your earliest convenience. Thank you, [redacted] Supervisory Staff Attorney CLC New York Metropolitan Correctional Center 150 Park Row New York, New York 10007 p: (646)836-[redacted] f: (646)836-7665 [redacted] @nyu.edu> 7/24/2019 3:17 PM >>> Hello [redacted] I left you a voicemail earlier today regarding my paralegal application for Jeffrey Epstein, Reg. #76318-054. I was told today by the lobby guards that I had to re-submit my application and to ask the legal department directly on the reasoning. I wanted to reach out to ask what in my application needed to be changed or fixed so that I do not repeat the mistake. I really appreciate your help. Thank you, -- [redacted] -- [redacted] -- [redacted]",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "From: [redacted] @nyu.edu Sent: Wed, 24 Jul 2019 15:37:22 -0400 To: [redacted] @bop.gov Subject: Re: EPSTEIN Application Cc: [redacted]",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "No worries. Thank you for the update. Just to clarify, this means that until my application is cleared I will be unable to visit Mr. Epstein, correct?",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "On Wed, Jul 24, 2019 at 3:33 PM [redacted] @bop.gov wrote: My apologies. I forwarded it yesterday for processing. So we do have it.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "[redacted] @nyu.edu> 7/24/2019 3:29 PM >>> Hi [redacted] Thank you for letting me know and for your response. I was informed by [redacted] that he had submitted my completed application to the legal department for the inmate Jeffrey Epstein yesterday morning. Does this reflect any of your records? If not, I will be happy to resubmit. If so, can I send the application to you directly via email? Please let me know. Thanks again, [redacted]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "On Wed, Jul 24, 2019 at 3:23 PM [redacted] @bop.gov> wrote: Hi [redacted] Attached starting at p. 26, please find the application and NCIC check form. Paralegals must submit new applications yearly to retain legal visiting privileges. Please be advised, our records reflected that your last application expired in September 2018. Please complete the attached and return them for processing at your earliest convenience. Thank you, [redacted] Supervisory Staff Attorney CLC New York Metropolitan Correctional Center 150 Park Row New York, New York 10007 p: (646)836-[redacted] f: (646)836-7665",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "[redacted] @nyu.edu> 7/24/2019 3:17 PM >>> Hello [redacted] I left you a voicemail earlier today regarding my paralegal application for Jeffrey Epstein, Reg. #76318-054. I was told today by the lobby guards that I had to re-submit my application and to ask the legal department directly on the reasoning. I wanted to reach out to ask what in my application needed to be changed or fixed so that I do not repeat the mistake. I really appreciate your help. Thank you, -- [redacted] -- [redacted] -- [redacted]",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "BOP",
+      "NYU",
+      "CLC New York",
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "July 24, 2019",
+      "September 2018"
+    ],
+    "reference_numbers": [
+      "#76318-054",
+      "DOJ-OGR-00023667"
+    ]
+  },
+  "additional_notes": "The document is an email chain with redactions. The content discusses an application for visiting Jeffrey Epstein."
+}

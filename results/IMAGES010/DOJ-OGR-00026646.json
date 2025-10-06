@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": "002",
+    "document_number": "PP38",
+    "date": "08-09-2019",
+    "document_type": "DAILY LOG",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 3006 PP38 Page 1 of 1 NYMH3 532.01 * DAILY LOG * 08-09-2019 PAGE 002 * 21:30:45 FUNCTION.....: DIS SELECTION CATEGORY: QTR EQ ALL FACL..: NYM LOG START DATE: 08-09-2019 NEXT/PRIOR: ACT/FUT/HIS: A FORMAT: T LOG END DATE..: 08-09-2019 ---EFFECTIVE--- --ENTRY--- REG NO NAME FROM TO DATE TIME TID TIME b(6),b(7)(C) ADM CHANGE I05-940U 08-09-2019 1219 NYMCM 1219 I03-920U K06-143U 08-09-2019 1522 NYMIH 1522 TRTY TRANS I06-941L 08-09-2019 0303 NYMA8 0304 I06-941L TRTY TRANS 08-09-2019 1440 NYMGZ 1441 K12-069U L HOSP USM 08-09-2019 0842 NYMGZ 0843 L HOSP USM K12-069U 08-09-2019 1244 NYMCM 1244 RELEASE 08 R01-001L 08-09-2019 1123 NYMGZ 1124 R01-001L E09-568L 08-09-2019 1234 NYMIE 1234 BAIL/BOND R01-001L 08-09-2019 1838 NYMD4 1839 R01-001L K04-131U 08-09-2019 2001 NYMH3 2001 K06-145U I01-903U 08-09-2019 1521 NYMIH 1521 R01-001L G11-783L 08-09-2019 2035 NYMD4 2036 R01-001L G11-783L 08-09-2019 2129 NYMHG 2129 I03-922U ADM CHANGE 08-09-2019 1233 NYMCM 1233 G0002 MORE PAGES TO FOLLOW... https://bop.tcp.doj.gov:9049/SENTRY/J1PP170.do 8/9/2019 DOJ-OGR-00026646",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3006 PP38 Page 1 of 1",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NYMH3 532.01 * DAILY LOG * 08-09-2019 PAGE 002 * 21:30:45",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "FUNCTION.....: DIS SELECTION CATEGORY: QTR EQ ALL FACL..: NYM LOG START DATE: 08-09-2019 NEXT/PRIOR: ACT/FUT/HIS: A FORMAT: T LOG END DATE..: 08-09-2019",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "REG NO NAME FROM TO DATE TIME TID TIME",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "b(6),b(7)(C) ADM CHANGE I05-940U 08-09-2019 1219 NYMCM 1219 I03-920U K06-143U 08-09-2019 1522 NYMIH 1522 TRTY TRANS I06-941L 08-09-2019 0303 NYMA8 0304 I06-941L TRTY TRANS 08-09-2019 1440 NYMGZ 1441 K12-069U L HOSP USM 08-09-2019 0842 NYMGZ 0843 L HOSP USM K12-069U 08-09-2019 1244 NYMCM 1244 RELEASE 08 R01-001L 08-09-2019 1123 NYMGZ 1124 R01-001L E09-568L 08-09-2019 1234 NYMIE 1234 BAIL/BOND R01-001L 08-09-2019 1838 NYMD4 1839 R01-001L K04-131U 08-09-2019 2001 NYMH3 2001 K06-145U I01-903U 08-09-2019 1521 NYMIH 1521 R01-001L G11-783L 08-09-2019 2035 NYMD4 2036 R01-001L G11-783L 08-09-2019 2129 NYMHG 2129 I03-922U ADM CHANGE 08-09-2019 1233 NYMCM 1233",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "G0002 MORE PAGES TO FOLLOW...",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "https://bop.tcp.doj.gov:9049/SENTRY/J1PP170.do 8/9/2019 DOJ-OGR-00026646",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "NYMCM",
+      "NYMIH",
+      "NYMA8",
+      "NYMGZ",
+      "NYMIE",
+      "NYMD4",
+      "NYMH3",
+      "NYMHG",
+      "BOP"
+    ],
+    "locations": [],
+    "dates": [
+      "08-09-2019",
+      "8/9/2019"
+    ],
+    "reference_numbers": [
+      "PP38",
+      "532.01",
+      "G0002",
+      "DOJ-OGR-00026646"
+    ]
+  },
+  "additional_notes": "The document appears to be a daily log from a correctional facility, with various entries related to inmate movements and status changes. The document is mostly printed, with no handwritten text. There are no stamps or signatures visible."
+}

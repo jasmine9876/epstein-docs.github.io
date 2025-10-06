@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "DOJ-OGR-00022375",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Oxford Health Plans Prudential Steinhurg Dr Sternberg, Esther Dr Tom, Maggie Victor, Steve Dr Wyntik, Wayne PB Bard, Dr. Perry Breakers The Chiropractor Cleaners Witness Creative Custom Swimwear Devito, Dawn Driver - PB Epstein, Jeffrey Goldman, Francis Goldsmith, Gerald Gaje, Christophe Witness",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Oxford Health Plans\nPrudential\nSteinhurg Dr\nSternberg, Esther Dr\nTom, Maggie\nVictor, Steve Dr\nWyntik, Wayne\nPB\nBard, Dr. Perry\nBreakers The\nChiropractor\nCleaners\nWitness",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Creative Custom Swimwear\nDevito, Dawn\nDriver - PB\nEpstein, Jeffrey\nGoldman, Francis\nGoldsmith, Gerald",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Gaje, Christophe\nWitness",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022375",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Wyntik, Wayne",
+      "Bard, Dr. Perry",
+      "Sternberg, Esther Dr",
+      "Tom, Maggie",
+      "Victor, Steve Dr",
+      "Devito, Dawn",
+      "Epstein, Jeffrey",
+      "Goldman, Francis",
+      "Goldsmith, Gerald",
+      "Gaje, Christophe"
+    ],
+    "organizations": [
+      "Oxford Health Plans",
+      "Prudential",
+      "Breakers The",
+      "Creative Custom Swimwear"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022375"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. Some handwritten annotations are present, including 'Witness' next to 'Cleaners' and 'Gaje, Christophe'."
+}

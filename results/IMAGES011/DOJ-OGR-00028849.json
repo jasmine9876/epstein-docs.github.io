@@ -1,0 +1,51 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "DOJ-OGR-00028849",
+    "date": "042814",
+    "document_type": "TECS II - PERSON SUBJECT DISPLAY",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:08 TECS II - PERSON SUBJECT DISPLAY (2 OF 4) 042814 *B TECS RECORD ID (b) (7) (E) ENTRY *D UPDATE *E DRIVER'S LICENSE- NUMBER STATE ISSUED EXPIRES RESTRICTIONS STATUS MORE PHONE NBR- INTL PREFIX TYPE DATE MORE MISC NBR- TYPE ALT COMMUNICATION TYPE MORE CRIMINAL AFFILIATION DATE MORE FINGERPRINT CLASS- RIGHT LEFT SPOUSE- LAST FIRST MID MORE WARRANT- OFFENSE TYPE DATE AGENCY WARRANT TYPE DATE NUMBER CITY STATE MORE (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6) , (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) *E - (b) (7) (E) DOJ-OGR-00028849",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:08 TECS II - PERSON SUBJECT DISPLAY (2 OF 4) 042814",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "*B TECS RECORD ID (b) (7) (E) ENTRY *D UPDATE *E DRIVER'S LICENSE- NUMBER STATE ISSUED EXPIRES RESTRICTIONS STATUS MORE PHONE NBR- INTL PREFIX TYPE DATE MORE MISC NBR- TYPE ALT COMMUNICATION TYPE MORE CRIMINAL AFFILIATION DATE MORE FINGERPRINT CLASS- RIGHT LEFT SPOUSE- LAST FIRST MID MORE WARRANT- OFFENSE TYPE DATE AGENCY WARRANT TYPE DATE NUMBER CITY STATE MORE",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b) (7) (E) *B - (b) (6) , (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) *E - (b) (7) (E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028849",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "042814"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00028849",
+      "(b) (7) (E)"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted TECS II record, with multiple sections and fields containing sensitive information that has been blacked out. The redactions are consistently marked as '(b) (7) (E)' or '(b) (6) , (b) (7) (C)', indicating that the information has been withheld under specific exemptions."
+}

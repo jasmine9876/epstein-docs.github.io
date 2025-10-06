@@ -1,0 +1,75 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "BP-S358.060",
+    "date": "7-24-2019",
+    "document_type": "Medical Treatment Refusal",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "BP-S358.060 SEP 05 CDFRM MEDICAL TREATMENT REFUSAL U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS 7-24-2019 Date I, JEFFREY EPSTEIN 76318-054 , refuse treatment recommended by the Federal Bureau of Prisons Medical staff for the following condition(s): DESCRIBE CONDITION IN LAYMAN'S TERMINOLOGY: EYE DOCTOR EVALUATION. The following treatment(s) was/were recommended: EYE DOCTOR EVALUATION. Federal Bureau of Prisons Medical staff members have carefully explained to me that the following possible consequences and/or complications may result because of my refusal to accept treatment: INABILITY TO DIAGNOSE CURRENT OPTHALMOLOGIC DISEASES. I understand the possible consequences and/or complications, listed above, and still refuse recommended treatment. I hereby assume all responsibility for my physical and/or mental condition, and release the Bureau of Prisons and its employees from any and all liability for respecting and following my expressed wishes and directions. (b)(6), (b)(7)(C) Counseled by MD 7-24-2019 Date (b)(6), (b)(7)(C) Signature of Witness (b)(6), (b)(7)(C) 7/24/19 Date JEFFREY EPSTEIN Patient's Signature NYM--NEW YORK MCC DOJ-OGR-00024178",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "BP-S358.060 SEP 05 CDFRM MEDICAL TREATMENT REFUSAL U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "I, JEFFREY EPSTEIN 76318-054 , refuse treatment recommended by the Federal Bureau of Prisons Medical staff for the following condition(s):",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DESCRIBE CONDITION IN LAYMAN'S TERMINOLOGY: EYE DOCTOR EVALUATION.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "The following treatment(s) was/were recommended: EYE DOCTOR EVALUATION.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Federal Bureau of Prisons Medical staff members have carefully explained to me that the following possible consequences and/or complications may result because of my refusal to accept treatment: INABILITY TO DIAGNOSE CURRENT OPTHALMOLOGIC DISEASES.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "I understand the possible consequences and/or complications, listed above, and still refuse recommended treatment. I hereby assume all responsibility for my physical and/or mental condition, and release the Bureau of Prisons and its employees from any and all liability for respecting and following my expressed wishes and directions.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "JEFFREY EPSTEIN",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/24/19",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "U.S. DEPARTMENT OF JUSTICE",
+      "FEDERAL BUREAU OF PRISONS"
+    ],
+    "locations": [
+      "NEW YORK MCC"
+    ],
+    "dates": [
+      "7-24-2019",
+      "7/24/19"
+    ],
+    "reference_numbers": [
+      "BP-S358.060",
+      "76318-054",
+      "DOJ-OGR-00024178"
+    ]
+  },
+  "additional_notes": "The document contains redactions of personal information, marked as (b)(6), (b)(7)(C)."
+}

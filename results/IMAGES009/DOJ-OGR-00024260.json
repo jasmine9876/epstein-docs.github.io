@@ -1,0 +1,75 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "(b)(6), (b)(7)(C) (b)(6), (b)(7)(C) Epstein 76318-004 8:00 1.1 (b)(6), (b)(7)(C) 8/2 (b)(6), (b)(7)(C) Epstein 76318-004 10th 00024260 DOJ-OGR-000",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "Epstein",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318-004",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8:00",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1.1",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/2",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318-004",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "10th",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-000",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "8/2",
+      "10th"
+    ],
+    "reference_numbers": [
+      "76318-004",
+      "00024260",
+      "DOJ-OGR-000"
+    ]
+  },
+  "additional_notes": "The document appears to be heavily redacted, with most of the content obscured by green highlighting. The visible text is primarily handwritten and appears to be notes or annotations."
+}

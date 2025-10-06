@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": "299",
+    "document_number": "DOJ-OGR-00024837",
+    "date": "7/24/2019",
+    "document_type": "Email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 299 MCC New York 150 Park Row New York, New York 10007 Office: 646-836-(b)(6); (b)(7)(C) Black Berry: 646-423-(b)(6); (b)(7)(C) @bop.gov >>> Ray Ormond 7/24/2019 8:45 AM >>> Shirley - Please provide me with a daily update on this inmate, including his status and any changes/activities I should be aware of. Thanks! J. Ray Ormond Regional Director Northeast Region 215-521-(b)(6); (b)(7)(C) Page 718 DOJ-OGR-00024837",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 299",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "MCC New York 150 Park Row New York, New York 10007 Office: 646-836-(b)(6); (b)(7)(C) Black Berry: 646-423-(b)(6); (b)(7)(C) @bop.gov",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": ">>> Ray Ormond 7/24/2019 8:45 AM >>> Shirley - Please provide me with a daily update on this inmate, including his status and any changes/activities I should be aware of. Thanks!",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "J. Ray Ormond Regional Director Northeast Region 215-521-(b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 718 DOJ-OGR-00024837",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ray Ormond",
+      "Shirley",
+      "J. Ray Ormond"
+    ],
+    "organizations": [
+      "MCC New York",
+      "BOP"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "7/24/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00024837",
+      "646-836-(b)(6); (b)(7)(C)",
+      "646-423-(b)(6); (b)(7)(C)",
+      "215-521-(b)(6); (b)(7)(C)"
+    ]
+  },
+  "additional_notes": "The document contains redactions in phone numbers and an email address."
+}

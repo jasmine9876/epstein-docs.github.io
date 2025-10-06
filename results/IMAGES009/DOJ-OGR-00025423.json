@@ -1,0 +1,94 @@
+{
+  "document_metadata": {
+    "page_number": "1218",
+    "document_number": "DOJ-OGR-00025423",
+    "date": "2019/08/13",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 1218\nFwd: Re: Need you to reconstruct 292 data for Inmate Epstein, 76318-054\nFrom [b(6); (b)(7)(C)]\nTo [b(6); (b)(7)(C)] Sonya Thompson\nDate 2019/08/13 12:47\nSubject: Fwd: Re: Need you to reconstruct 292 data for Inmate Epstein, 76318-054\nAttachments: TEXT.htm, Epstein [b(6); (b)(7)(C)] 6318-054_SRO_20190710-20190 723.pdf, Epstein [b(6); (b)(7)(C)] 6318-054_SRO_20190729-20190 810.pdf\n[b(6); (b)(7)(C)]\nSee attached reconstructed SROs.\n>>> [b(6); (b)(7)(C)] /13/2019 11:36 AM >>>\n[b(6); (b)(7)(C)]\nI attached 2 copies of Epstein SRO reviews:\n1. Epstein [b(6); (b)(7)(C)] 76318-054_SRO_20190710-20190723.pdf (confined in SHU 7/10/2019 - 7/23/2019), and\n2. Epstein [b(6); (b)(7)(C)] 76318-054_SRO_20190729-20190810.pdf (confined in SHU 7/29/2019 - 8/10/2019)\nBecause the first confinement, Epstein was held only 2 days in SHU (7/7/2019 - 7/8/2019), NYM did not review Epstein.\nThanks,\n[b(6); (b)(7)(C)]\n>>> [b(6); (b)(7)(C)] @bop.gov> 8/12/2019 12:40 PM >>>\nPlease do it. We need it tomorrow morning at the latest.\nSent from my Verizon, Samsung Galaxy smartphone\n-------- Original message --------\nFrom: [b(6); (b)(7)(C)] @bop.gov>\nDate: 8/12/19 12:38 PM (GMT-05:00)\nTo: [b(6); (b)(7)(C)] @bop.gov>\nCc: [b(6); (b)(7)(C)] @bop.gov>\nSubject: Re: Need you to reconstruct 292 data for Inmate Epstein, 76318-054\n>>> [b(6); (b)(7)(C)] 08/12/2019 12:38 >>>\n[b(6); (b)(7)(C)]\nSRO review data is stored in DREV table. But SHU generates SRO review for inmates are currently in Z house. I need to write some code to get around to get the SRO reports for Epstein.\n[b(6); (b)(7)(C)]\nPage 3344\nDOJ-OGR-00025423",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Fwd: Re: Need you to reconstruct 292 data for Inmate Epstein, 76318-054",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "From [b(6); (b)(7)(C)]\nTo [b(6); (b)(7)(C)] Sonya Thompson\nDate 2019/08/13 12:47\nSubject: Fwd: Re: Need you to reconstruct 292 data for Inmate Epstein, 76318-054\nAttachments: TEXT.htm, Epstein [b(6); (b)(7)(C)] 6318-054_SRO_20190710-20190 723.pdf, Epstein [b(6); (b)(7)(C)] 6318-054_SRO_20190729-20190 810.pdf",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "See attached reconstructed SROs.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "I attached 2 copies of Epstein SRO reviews:\n1. Epstein [b(6); (b)(7)(C)] 76318-054_SRO_20190710-20190723.pdf (confined in SHU 7/10/2019 - 7/23/2019), and\n2. Epstein [b(6); (b)(7)(C)] 76318-054_SRO_20190729-20190810.pdf (confined in SHU 7/29/2019 - 8/10/2019)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Because the first confinement, Epstein was held only 2 days in SHU (7/7/2019 - 7/8/2019), NYM did not review Epstein.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Thanks,\n[b(6); (b)(7)(C)]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Please do it. We need it tomorrow morning at the latest.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Sent from my Verizon, Samsung Galaxy smartphone",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "-------- Original message --------\nFrom: [b(6); (b)(7)(C)] @bop.gov>\nDate: 8/12/19 12:38 PM (GMT-05:00)\nTo: [b(6); (b)(7)(C)] @bop.gov>\nCc: [b(6); (b)(7)(C)] @bop.gov>\nSubject: Re: Need you to reconstruct 292 data for Inmate Epstein, 76318-054",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "SRO review data is stored in DREV table. But SHU generates SRO review for inmates are currently in Z house. I need to write some code to get around to get the SRO reports for Epstein.",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Sonya Thompson",
+      "Epstein"
+    ],
+    "organizations": [
+      "BOP"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "2019/08/13",
+      "7/10/2019",
+      "7/23/2019",
+      "7/29/2019",
+      "8/10/2019",
+      "7/7/2019",
+      "7/8/2019",
+      "8/12/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "6318-054_SRO_20190710-20190 723.pdf",
+      "6318-054_SRO_20190729-20190 810.pdf",
+      "76318-054_SRO_20190710-20190723.pdf",
+      "76318-054_SRO_20190729-20190810.pdf",
+      "DOJ-OGR-00025423"
+    ]
+  },
+  "additional_notes": "The document is an email chain discussing the reconstruction of data for Inmate Epstein. The email contains redactions of personal information and email addresses."
+}

@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "DOJ-OGR-00024615",
+    "date": "08/19/2019",
+    "document_type": "Outside Person Center Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Date: 08/19/2019 Time: 01:41 PM Location: DC Federal Bureau of Prisons TRUVIEW Outside Person Center Report Sensitive But Unclassified Money Sent Transaction Date Loc Trans Type Amount Reg # Inmate Nm Address City St Zip Phone 7/8/2019 10:04:21 AM NYM Western Union $200.00 76318054 EPSTEIN, JEFFREY 130 EAST 75TH STREET NEW YORK NY 10021 9174147584 User ID: TF14688 Page 2 of 2 DOJ-OGR-00024615",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date: 08/19/2019 Time: 01:41 PM Location: DC",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Federal Bureau of Prisons TRUVIEW Outside Person Center Report Sensitive But Unclassified",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Money Sent",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Transaction Date Loc Trans Type Amount Reg # Inmate Nm Address City St Zip Phone",
+      "position": "table_header"
+    },
+    {
+      "type": "printed",
+      "content": "7/8/2019 10:04:21 AM NYM Western Union $200.00 76318054 EPSTEIN, JEFFREY 130 EAST 75TH STREET NEW YORK NY 10021 9174147584",
+      "position": "table_row"
+    },
+    {
+      "type": "printed",
+      "content": "User ID: TF14688 Page 2 of 2 DOJ-OGR-00024615",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [
+      "NEW YORK",
+      "DC"
+    ],
+    "dates": [
+      "08/19/2019",
+      "7/8/2019"
+    ],
+    "reference_numbers": [
+      "76318054",
+      "TF14688",
+      "DOJ-OGR-00024615",
+      "9174147584"
+    ]
+  },
+  "additional_notes": "The document appears to be a report from the Federal Bureau of Prisons, detailing a money transfer to an inmate named Jeffrey Epstein. The document is labeled 'Sensitive But Unclassified'."
+}

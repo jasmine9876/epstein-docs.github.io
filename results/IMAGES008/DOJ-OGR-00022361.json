@@ -1,0 +1,48 @@
+{
+  "document_metadata": {
+    "page_number": "76",
+    "document_number": "DOJ-OGR-00022361",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Cavne, Jimmy Daniel Chou, Silas Delson, George Derby, Catherine Dershowitz, Alan Engle, Don EPSTEIN - PORTABLES Edelman, Gerald Dr. Epstein, Jeffrey Epstein interests DOJ-OGR-00022361",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Cavne, Jimmy Daniel Chou, Silas Delson, George Derby, Catherine Dershowitz, Alan Engle, Don EPSTEIN - PORTABLES Edelman, Gerald Dr. Epstein, Jeffrey Epstein interests",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022361",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jimmy Cavne",
+      "Daniel Chou",
+      "Silas Delson",
+      "George Derby",
+      "Catherine Dershowitz",
+      "Alan Engle",
+      "Don Edelman",
+      "Gerald Dr. Epstein",
+      "Jeffrey"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022361"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 76, and the document number is DOJ-OGR-00022361."
+}

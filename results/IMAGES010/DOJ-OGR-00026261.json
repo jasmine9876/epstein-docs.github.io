@@ -1,0 +1,97 @@
+{
+  "document_metadata": {
+    "page_number": "2601",
+    "document_number": "76318-054",
+    "date": "07/30/2019",
+    "document_type": "Medication Administration Record",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2601 76318-054 EPSTEIN, JEFFREY Medication Orders Medication Administration Record JULY 2019 Ord. Date 07/30/19 14:21 Exp. Date 08/06/19 14:20 (b)(6) (b)(7)(C) MD Time 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 PRN Inject regular insulin subcutaneously per sliding scale: twice daily ***pill line*** for 7 days NYM 122148- NYM Insulin Reg (10 ML) 100 UNITS/ML Inj Providers: Documentation Codes: ORD = Order Registration #: 76318-054 Pt. Name: EPSTEIN, JEFFREY DOB: 01/20/53 Report information is current as of the date and time of printing: 07/30/2019 15:33 EST DOJ-OGR-00026261",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 2601",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "76318-054 EPSTEIN, JEFFREY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Medication Orders",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Medication Administration Record",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "JULY 2019",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Ord. Date 07/30/19 14:21 Exp. Date 08/06/19 14:20 (b)(6) (b)(7)(C) MD",
+      "position": "left margin"
+    },
+    {
+      "type": "printed",
+      "content": "Time 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "PRN",
+      "position": "left margin"
+    },
+    {
+      "type": "printed",
+      "content": "Inject regular insulin subcutaneously per sliding scale: twice daily ***pill line*** for 7 days",
+      "position": "left margin"
+    },
+    {
+      "type": "printed",
+      "content": "NYM 122148- NYM Insulin Reg (10 ML) 100 UNITS/ML Inj",
+      "position": "left margin"
+    },
+    {
+      "type": "printed",
+      "content": "Providers: Documentation Codes: ORD = Order",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Registration #: 76318-054 Pt. Name: EPSTEIN, JEFFREY DOB: 01/20/53 Report information is current as of the date and time of printing: 07/30/2019 15:33 EST",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026261",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "07/30/19",
+      "08/06/19",
+      "01/20/53",
+      "07/30/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "122148",
+      "DOJ-OGR-00026261"
+    ]
+  },
+  "additional_notes": "The document appears to be a medication administration record for Jeffrey Epstein. The document contains redacted information marked as '(b)(6) (b)(7)(C)'. The document is printed on a standard form with a table for recording medication administration. The footer contains metadata about the document, including the registration number, patient's name, date of birth, and the date and time of printing."
+}

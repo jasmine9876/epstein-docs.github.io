@@ -1,0 +1,55 @@
+{
+  "document_metadata": {
+    "page_number": "2826",
+    "document_number": "DOJ-OGR-00026482",
+    "date": "08/06/2019",
+    "document_type": "30 MINUTE CHECK SHEET",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "MCC NEW YORK SPECIAL HOUSING UNIT 30 MINUTE CHECK SHEET L-TIER DATE: 08/06/2019 ... (complete text transcription)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "MCC NEW YORK SPECIAL HOUSING UNIT 30 MINUTE CHECK SHEET L-TIER DATE: 08/06/2019",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Various times and signatures throughout the table",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "A staff member must observe all inmates confined in a continuous locked down status...",
+      "position": "bottom"
+    },
+    {
+      "type": "stamp",
+      "content": "MCC NEW YORK SPECIAL HOUSING UNIT",
+      "position": "header"
+    }
+  ],
+  "entities": {
+    "people": [
+      "MORNING WATCH OPERATIONS LIEUTENANT",
+      "DAY WATCH OPERATIONS LIEUTENANT",
+      "EVENING WATCH OPERATIONS LIEUTENANT",
+      "CAPTAIN"
+    ],
+    "organizations": [
+      "MCC NEW YORK",
+      "SPECIAL HOUSING UNIT"
+    ],
+    "locations": [
+      "NEW YORK"
+    ],
+    "dates": [
+      "08/06/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026482"
+    ]
+  },
+  "additional_notes": "The document contains handwritten times and signatures in a table format, with printed instructions at the bottom. The document is stamped with 'MCC NEW YORK SPECIAL HOUSING UNIT' at the top."
+}

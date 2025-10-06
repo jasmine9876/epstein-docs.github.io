@@ -1,0 +1,79 @@
+{
+  "document_metadata": {
+    "page_number": "3081",
+    "document_number": "NYMH3 530*05",
+    "date": "08-09-2019",
+    "document_type": "Inmate Roster",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 3081 NYMH3 530*05 INMATE ROSTER 08-09-2019 21:27:58 PAGE 001 OF 001 CATEGORY: OCT GROUP CODE: ASSIGNMENT: HOSP OPER CATG ASSIGNMENT FACILITY: NYM OPER CATG ASSIGNMENT NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK 0001 HOSP [redacted] 08-09-2019 E12-592U FS PM SUICIDE OR 0002 08-09-2019 K06-148U SUICIDE OR UNASSG 0003 08-09-2019 K07-009L FS AM SUICIDE OR 0004 08-09-2019 K12-078L SUICIDE OR UNASSG G0000 TRANSACTION SUCCESSFULLY COMPLETED DOJ-OGR-00026721",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3081 NYMH3 530*05 INMATE ROSTER 08-09-2019 21:27:58 PAGE 001 OF 001",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CATEGORY: OCT GROUP CODE: ASSIGNMENT: HOSP OPER CATG ASSIGNMENT FACILITY: NYM OPER CATG ASSIGNMENT",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "0001 HOSP [redacted] 08-09-2019 E12-592U FS PM SUICIDE OR",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0002 08-09-2019 K06-148U SUICIDE OR UNASSG",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0003 08-09-2019 K07-009L FS AM SUICIDE OR",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0004 08-09-2019 K12-078L SUICIDE OR UNASSG",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "G0000 TRANSACTION SUCCESSFULLY COMPLETED",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026721",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "08-09-2019"
+    ],
+    "reference_numbers": [
+      "NYMH3 530*05",
+      "DOJ-OGR-00026721",
+      "E12-592U",
+      "K06-148U",
+      "K07-009L",
+      "K12-078L"
+    ]
+  },
+  "additional_notes": "The document appears to be a roster of inmates, with some information redacted. The redacted information is likely personal identifiable information (PII) of the inmates."
+}

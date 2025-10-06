@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "log or record",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE NAME Signature Inmate Reg # Time IN Time OUT (b)(6) (b)(7)(C) 816 86 (b)(6) (b)(7)(C) Epstein Epstein 767807 7036 12:00 1:45 1:45 (b)(6) (b)(7)(C) DOJ-OGR-00024505",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "DATE NAME Signature Inmate Reg # Time IN Time OUT",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6) (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "816 86",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6) (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein Epstein",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "767807 7036 12:00 1:45 1:45",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024505",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "767807",
+      "7036",
+      "816",
+      "86",
+      "DOJ-OGR-00024505"
+    ]
+  },
+  "additional_notes": "The document appears to be a log or record of some kind, with handwritten entries. Some information has been redacted with '(b)(6) (b)(7)(C)'. The document has a unique identifier 'DOJ-OGR-00024505'."
+}

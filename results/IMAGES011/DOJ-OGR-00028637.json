@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "IO25",
+    "date": "04/28/2014",
+    "document_type": "Inspection Remarks",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07:59 IO25 INSPECTION REMARKS 04/28/2014 *A *B *C +--------------- I N S P E C T I O N R E M A R K S ---------------+ PAGE 1 (b)(7)(E) . PAX STATED THAT HE WAS \"LOOKING FOR A DATE\" AND BELIEVED THAT THE GIRL WAS OF LEGAL AGE. PAX STATED THAT HE SERVED 1 YR IN JAIL AND WAS ON PROBATION BUT COMPLETED ALL COURT RELATED REQUIREMENTS. PAX STATED THAT HE IS UP TO DATE ON HIS REGISTRATION (b)(7)(E) W/O FURTHER INCIDENT. (b)(7)(E) . PAX WAS PROCESSED AS A USC AND RELEASED +---------------------------------------------------------------+ Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) DOJ-OGR-00028637",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07:59 IO25 INSPECTION REMARKS 04/28/2014",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "*A *B *C +--------------- I N S P E C T I O N R E M A R K S ---------------+ PAGE 1",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E) . PAX STATED THAT HE WAS \"LOOKING FOR A DATE\" AND BELIEVED THAT THE GIRL WAS OF LEGAL AGE. PAX STATED THAT HE SERVED 1 YR IN JAIL AND WAS ON PROBATION BUT COMPLETED ALL COURT RELATED REQUIREMENTS. PAX STATED THAT HE IS UP TO DATE ON HIS REGISTRATION (b)(7)(E) W/O FURTHER INCIDENT.",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E) . PAX WAS PROCESSED AS A USC AND RELEASED",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "+---------------------------------------------------------------+",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028637",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "04/28/2014"
+    ],
+    "reference_numbers": [
+      "IO25",
+      "DOJ-OGR-00028637"
+    ]
+  },
+  "additional_notes": "The document contains redactions, indicated by (b)(7)(E), (b)(6), and (b)(7)(C)."
+}

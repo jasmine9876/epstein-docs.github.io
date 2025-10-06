@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "564",
+    "document_number": "DOJ-OGR-00024580",
+    "date": "08/19/2019",
+    "document_type": "Log Entries By Event Date",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date: 08/19/2019 Time: 10:15 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count 7/23/2019 10:07 PM NYM Housing Units Housing Units, General Population ES 7/23/2019 10:07 PM Evening 1077 Search (Cells) 7/23/2019 10:08 PM NYM Housing Units Housing Units, General Population ES 7/23/2019 10:08 PM Evening Daily Activity - Unit Locked/Secured 7/23/2019 10:08 PM NYM Housing Units Housing Units, General Population ES 7/23/2019 10:08 PM Evening Watch Call 7/23/2019 10:08 PM NYM Housing Units Housing Units, General Population ES 7/23/2019 10:08 PM Evening Rounds (Officer) 7/23/2019 10:09 PM NYM Housing Units Housing Units, General Population ES 7/23/2019 10:09 PM Evening Official Count 7/23/2019 10:49 PM NYM Housing Units Housing Units, General Population ES 7/23/2019 10:49 PM Evening Daily Activity - Good Verbal Count 7/23/2019 10:49 PM NYM Housing Units Housing Units, General Population ES 7/23/2019 10:49 PM Evening Daily Activity 7/23/2019 11:33 PM NYM Housing Units Housing Units, General Population ES 7/23/2019 11:32 PM Evening Watch Call 7/23/2019 11:33 PM NYM Housing Units Housing Units, General Population ES 7/23/2019 11:33 PM Evening Rounds (Officer) 7/23/2019 11:33 PM NYM Housing Units Housing Units, General Population ES 7/23/2019 11:33 PM Evening End Shift User ID: 1077 Page 564 of 1155 DOJ-OGR-00024580",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date: 08/19/2019 Time: 10:15 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "7/23/2019 10:07 PM NYM Housing Units Housing Units, General Population ES 7/23/2019 10:07 PM Evening 1077 Search (Cells)",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "1077",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Page 564 of 1155",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024580",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [
+      "Housing Units",
+      "Housing Units, General Population",
+      "ES"
+    ],
+    "dates": [
+      "08/19/2019",
+      "7/23/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00024580",
+      "1077"
+    ]
+  },
+  "additional_notes": "The document appears to be a log entry report from the Federal Bureau of Prisons, detailing various events and activities that occurred on July 23, 2019. The report includes information such as the date, time, location, and type of event, as well as the user ID of the person who entered the data. The document is marked as 'Sensitive But Unclassified'."
+}

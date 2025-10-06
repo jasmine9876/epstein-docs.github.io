@@ -1,0 +1,73 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "DOJ-OGR-00024116",
+    "date": "07/14/2019",
+    "document_type": "Medical Record",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Inmate Name: EPSTEIN, JEFFREY EDWARD\nDate of Birth: 01/20/1953\nEncounter Date: 07/14/2019 17:36\nSex: M\nRace: WHITE\nReg #: 76318-054\nProvider: (b)(6), (b)(7)(C) MD\nFacility: NYM\nUnit: Z05\n\nFASTING.\nLab Tests-H-Hep B surface Ab\nLab Tests-H-Hep B surface Ag\nLab Tests-H-Hep C Ab\nLab Tests-H-Hepatic Profile\nOne Time\n08/08/2019 00:00\nRoutine\n\nSchedule:\nActivity\nDate Scheduled\nScheduled Provider\nClinical Encounter\n07/24/2019 00:00\nOptometrist\n66 YR OLD MALE FOR ROUTINE SCREENING.\nChronic Care Visit\n01/07/2020 00:00\nMid-Level Provider\n6 MONTH F/U.\nChronic Care Visit\n07/01/2020 00:00\nPhysician 01\n\nOther:\nPENDING EKG AND FOBT. CXR WAS REFUSED.\n\nPatient Education Topics:\nDate Initiated\nFormat\nHandout/Topic\nProvider\nOutcome\n07/14/2019\nCounseling\nDiagnosis\n(b)(6), (b)(7)(C)\nVerbalizes Understanding\n\nCopay Required: No\nCosign Required: No\nTelephone/Verbal Order: No\nCompleted by (b)(6), (b)(7)(C) MD on 07/14/2019 18:11\n\nGenerated 07/14/2019 18:11 by (b)(6), (b)(7)(C) MD Bureau of Prisons - NYM\nPage 3 of 3\nDOJ-OGR-00024116",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD\nDate of Birth: 01/20/1953\nEncounter Date: 07/14/2019 17:36\nSex: M\nRace: WHITE\nReg #: 76318-054\nProvider: (b)(6), (b)(7)(C) MD\nFacility: NYM\nUnit: Z05",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "FASTING.\nLab Tests-H-Hep B surface Ab\nLab Tests-H-Hep B surface Ag\nLab Tests-H-Hep C Ab\nLab Tests-H-Hepatic Profile\nOne Time\n08/08/2019 00:00\nRoutine",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Schedule:\nActivity\nDate Scheduled\nScheduled Provider\nClinical Encounter\n07/24/2019 00:00\nOptometrist\n66 YR OLD MALE FOR ROUTINE SCREENING.\nChronic Care Visit\n01/07/2020 00:00\nMid-Level Provider\n6 MONTH F/U.\nChronic Care Visit\n07/01/2020 00:00\nPhysician 01",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Other:\nPENDING EKG AND FOBT. CXR WAS REFUSED.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Patient Education Topics:\nDate Initiated\nFormat\nHandout/Topic\nProvider\nOutcome\n07/14/2019\nCounseling\nDiagnosis\n(b)(6), (b)(7)(C)\nVerbalizes Understanding",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Copay Required: No\nCosign Required: No\nTelephone/Verbal Order: No\nCompleted by (b)(6), (b)(7)(C) MD on 07/14/2019 18:11",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/14/2019 18:11 by (b)(6), (b)(7)(C) MD Bureau of Prisons - NYM\nPage 3 of 3\nDOJ-OGR-00024116",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN",
+      "(b)(6), (b)(7)(C)"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/14/2019",
+      "08/08/2019",
+      "07/24/2019",
+      "01/07/2020",
+      "07/01/2020"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024116"
+    ]
+  },
+  "additional_notes": "The document appears to be a medical record for Jeffrey Epstein, containing information about his medical tests, scheduled appointments, and patient education topics. The document is from the Bureau of Prisons and has been redacted to remove sensitive information."
+}

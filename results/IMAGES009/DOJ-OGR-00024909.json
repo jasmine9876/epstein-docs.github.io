@@ -1,0 +1,46 @@
+{
+  "document_metadata": {
+    "page_number": "416",
+    "document_number": "DOJ-OGR-00024909",
+    "date": null,
+    "document_type": "Mail Attachment",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 416 Mail Attachment EPphotos.pdf Page 1163 DOJ-OGR-00024909",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 416",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Mail Attachment EPphotos.pdf",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 1163",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024909",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ",
+      "OGR"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00024909"
+    ]
+  },
+  "additional_notes": "The document appears to be a placeholder or index page for a mail attachment named 'EPphotos.pdf'. The page contains minimal text and no handwritten content or stamps."
+}

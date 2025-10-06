@@ -1,0 +1,42 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024090",
+    "date": null,
+    "document_type": "Inmate Visit Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE NAME Signature Inmate Reg # Time IN Time OUT (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) Copellew (b)(6), (b)(7)(C) Gaston 76385 155 64",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE NAME Signature Inmate Reg # Time IN Time OUT",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6), (b)(7)(C) (b)(6), (b)(7)(C) Copellew (b)(6), (b)(7)(C) Gaston 76385 155 64",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024090",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Copellew",
+      "Gaston"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "76385",
+      "DOJ-OGR-00024090"
+    ]
+  },
+  "additional_notes": "The document contains redactions, indicated by (b)(6), (b)(7)(C). The handwriting is somewhat difficult to read, but the transcription is as accurate as possible."
+}

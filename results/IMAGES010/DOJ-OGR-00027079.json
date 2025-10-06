@@ -1,0 +1,120 @@
+{
+  "document_metadata": {
+    "page_number": "7/15, 7/16, 7/17, 7/18",
+    "document_number": "DOJ-OGR-00027079",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "7/15 (b)(6), (b)(7)(C) Epstein 76318-054 6:30 (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) Epstein 76318-054 6:20 7:55 7/16 (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) Epstein 76318-054 6:30 (b)(6), (b)(7)(C) 7/16 (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) 7/18 (b)(6), (b)(7)(C) Epstein 76318-054 8:00 PM DOJ-OGR-00027079",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "7/15",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318-054 6:30",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/16",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318-054 6:20 7:55",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/16",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318-054 6:30",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/18",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318-054 8:00 PM",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027079",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/15",
+      "7/16",
+      "7/18"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00027079"
+    ]
+  },
+  "additional_notes": "The document appears to be a log or record of some sort, with handwritten notes and redactions. The content is mostly obscured by green blocks, suggesting sensitive or confidential information."
+}

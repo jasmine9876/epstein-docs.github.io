@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": "2925",
+    "document_number": "NYMAQ 530.03",
+    "date": "08-10-2019",
+    "document_type": "BUREAU OF PRISONS COUNT SHEET",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2925 NYMAQ 530.03 * BUREAU OF PRISONS COUNT SHEET * 08-10-2019 PAGE 001 * NEW YORK MCC * 22:50:12 QTRG EQ **** OCTG EQ **** OUT COUNT SECTION OC A F E F H M R S TR V OC T Y N N S O S & A N I UO T J Y Y S D N W S TU N T Y E S P I D I T COUNT AREA CENSUS COUNT VERIFY COUNT COUNT AREA B-A . . . . . . . . B-A C-A . . . . . . . . C-A E-N . . . . . . . . S-N E-S . . 1 . . . 2 E-S G-N . . . . . . . . G-N G-S . . . . . . . . G-S H-A . . . . . . . . H-A I-N . . . . . . . . I-N K-N . . . . . . . . K-N K-S . . 1 . . . 1 K-S R-A . . . . . . . . R-A Z-A . . . . . . . . Z-A Z-B . . . . . . . . Z-B TOTAL 2 . . 2 COUNT VERIFY X X OFFICIAL PREPARING COUNT: (b)(6); (b)(7)(C) OFFICIAL TAKING COUNT: COUNT CLEARED TIME: (b)(7)F Good verbel. (b)(7)F DOJ-OGR-00026581",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 2925 NYMAQ 530.03 * BUREAU OF PRISONS COUNT SHEET * 08-10-2019 PAGE 001 * NEW YORK MCC * 22:50:12 QTRG EQ **** OCTG EQ ****",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "COUNT AREA CENSUS COUNT VERIFY COUNT COUNT AREA",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "OFFICIAL PREPARING COUNT: OFFICIAL TAKING COUNT: COUNT CLEARED TIME:",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "Good verbel.",
+      "position": "bottom"
+    },
+    {
+      "type": "other",
+      "content": "(b)(7)(F) (b)(6); (b)(7)(C) (b)(7)F",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "BUREAU OF PRISONS",
+      "DOJ"
+    ],
+    "locations": [
+      "NEW YORK"
+    ],
+    "dates": [
+      "08-10-2019"
+    ],
+    "reference_numbers": [
+      "NYMAQ 530.03",
+      "DOJ-OGR-00026581"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6); (b)(7)(C) and (b)(7)F. The count sheet appears to be related to a prison count at the New York MCC."
+}

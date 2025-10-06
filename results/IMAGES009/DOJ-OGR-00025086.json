@@ -1,0 +1,59 @@
+{
+  "document_metadata": {
+    "page_number": "9",
+    "document_number": "DOJ-OGR-00025086",
+    "date": "Friday August 09, 2019",
+    "document_type": "Correctional Services Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 633 Friday August 09, 2019 Page 9 COP 4 IF TRAINING 4 Total Correctional Svcs. Staff: b(7)(F) Non Correctional Svcs. Staff: Overtime Occurrences: 29 Comptime Occurrences: 0 Ops Lt. Evening Watch Signature: ____________________________________ Captain's Signature: ____________________________________ 19/2020 10:39:23 AM DOJ-OGR-00025086",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 633",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Friday August 09, 2019 Page 9",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "COP 4 IF TRAINING 4 Total Correctional Svcs. Staff: b(7)(F) Non Correctional Svcs. Staff: Overtime Occurrences: 29 Comptime Occurrences: 0",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Ops Lt. Evening Watch Signature: ____________________________________ Captain's Signature: ____________________________________",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "19/2020 10:39:23 AM",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025086",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "Friday August 09, 2019",
+      "19/2020"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00025086",
+      "b(7)(F)"
+    ]
+  },
+  "additional_notes": "The document appears to be a correctional services report with some redacted information. The date '19/2020' is likely a timestamp or a date in the format DD/MM/YYYY."
+}

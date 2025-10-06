@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "I095",
+    "date": "04/28/2014",
+    "document_type": "Inspection Comments",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:08:02 I095 INSPECTION COMMENTS 04/28/2014 *A *B *C +--------------------------------------- I N S P E C T I O N C O M M E N T S ---------------------------------------+ PAGE 1 NEW COMMENTS: (b)(7)(E) ADMITTED USC AND REFERRED TO BAGGAGE AS PER CTR OFFICER (b)(7)(E) COMMENTS HISTORY: TUE NOV 16 13:49:59 EST 2010 ENTERED BY: (b)(7)(E) ADMITTED USC AND REFERRED TO BAGGAGE AS PER (b)(7)(E). +---------------------------------------------------------------------------------------+ (b)(7)(E) (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) DOJ-OGR-00028684",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:08:02 I095 INSPECTION COMMENTS 04/28/2014",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "+--------------------------------------- I N S P E C T I O N C O M M E N T S ---------------------------------------+",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NEW COMMENTS: (b)(7)(E) ADMITTED USC AND REFERRED TO BAGGAGE AS PER CTR OFFICER (b)(7)(E) COMMENTS HISTORY: TUE NOV 16 13:49:59 EST 2010 ENTERED BY: (b)(7)(E) ADMITTED USC AND REFERRED TO BAGGAGE AS PER (b)(7)(E).",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "+---------------------------------------------------------------------------------------+",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E) (b)(7)(E) (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028684",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "04/28/2014",
+      "NOV 16 13:49:59 EST 2010"
+    ],
+    "reference_numbers": [
+      "I095",
+      "DOJ-OGR-00028684"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as (b)(7)(E), (b)(6), and (b)(7)(C). The document appears to be a formal inspection report with comments and history related to an individual or case."
+}

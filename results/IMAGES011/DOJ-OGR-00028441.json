@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028441",
+    "date": "120612",
+    "document_type": "PQH API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 *B PQH API/HIT DATA 042814 *A *C NAME EPSTEIN, JEFFREY E JOHN F KENNEDY INTL ----- QUERY ----- LNE TERM/ DOB DATE TIME AGN RSLT TYP REF LANE API 012053 120612 0000 *D API 01 R API DATA ----- INDICATOR : R REPORTED CARRIER CODE : *GA GENERAL AVIATION FLT/VES NUMBER : N908JE ARRIVAL LOCATION : JFK JOHN F KENNEDY INTL DEPARTURE LOCATION : XXX UNKNOWN AIRPORT (USED ON TRANSMITTED BY : APGA9786 GENERAL AVIATION INBOUND/OUTBOUND : INBOUND (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) (b)(7)(E) DOJ-OGR-00028441",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07 *B PQH API/HIT DATA 042814 *A *C",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME EPSTEIN, JEFFREY E JOHN F KENNEDY INTL ----- QUERY ----- LNE TERM/ DOB DATE TIME AGN RSLT TYP REF LANE API 012053 120612 0000 *D API 01 R",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "API DATA ----- INDICATOR : R REPORTED CARRIER CODE : *GA GENERAL AVIATION FLT/VES NUMBER : N908JE ARRIVAL LOCATION : JFK JOHN F KENNEDY INTL DEPARTURE LOCATION : XXX UNKNOWN AIRPORT (USED ON TRANSMITTED BY : APGA9786 GENERAL AVIATION INBOUND/OUTBOUND : INBOUND",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028441",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY E EPSTEIN"
+    ],
+    "organizations": [
+      "GENERAL AVIATION"
+    ],
+    "locations": [
+      "JOHN F KENNEDY INTL",
+      "JFK",
+      "XXX"
+    ],
+    "dates": [
+      "120612"
+    ],
+    "reference_numbers": [
+      "N908JE",
+      "APGA9786",
+      "DOJ-OGR-00028441"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as (b)(7)(E), (b)(6), and (b)(7)(C). The document appears to be a record of flight data for Jeffrey Epstein's arrival at John F Kennedy International Airport."
+}

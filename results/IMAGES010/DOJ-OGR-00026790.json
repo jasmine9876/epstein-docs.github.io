@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": "3153",
+    "document_number": "DOJ-OGR-00026790",
+    "date": "8/10/2019",
+    "document_type": "Photo Sheet",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "Page 3153 Lieutenant's Office Metropolitan Correctional Center New York, N.Y. Photo Sheet Special Investigative Section Type of Incident N/A Date and Time of Incident 8/10/2019 @ 6:33 AM Inmate Name(s) / Reg. No. Jeffrey, Epstein #76318-054 Location of Incident photographs taken at outside hospital Photograph(s) by (b)(6); (b)(7)(C) CMC DOJ-OGR-00026790",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Lieutenant's Office",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center New York, N.Y. Photo Sheet Special Investigative Section",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Type of Incident N/A Date and Time of Incident 8/10/2019 @ 6:33 AM Inmate Name(s) / Reg. No. Jeffrey, Epstein #76318-054 Location of Incident photographs taken at outside hospital Photograph(s) by (b)(6); (b)(7)(C) CMC",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026790",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "Metropolitan Correctional Center",
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "8/10/2019"
+    ],
+    "reference_numbers": [
+      "#76318-054",
+      "DOJ-OGR-00026790"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as '(b)(6); (b)(7)(C)'. The image is a photocopy or scan of an official document from the Metropolitan Correctional Center in New York."
+}

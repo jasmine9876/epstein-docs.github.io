@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": "2145",
+    "document_number": "DOJ-OGR-00025985",
+    "date": "August 11, 2019",
+    "document_type": "Timeline or log of events",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2145\n\nCont. Sunday, August 11, 2019\n10:40 am: OIG (b)(6); (b)(7)(C) arrives at institution.\n11:15 am: OIG (b)(6); (b)(7)(C) departs institution with two computers FPS 021407270 and FPS 0214207268.\n2:00 pm: OIG (b)(6); (b)(7)(C) departs the institution.\n\nMonday, August 12, 2019\n1:00 pm: Staff recall conducted\n3:14 pm: FBI arrives\n7:56 pm: FBI departs\n9:45 pm: FBI returns\n10:30 pm: FBI departs\n\nTuesday August 13, 2019\n7:15 am: (b)(6); (b)(7)(C) NER Correctional Services Administrator arrives to the institution\n7:25 am: (b)(6); (b)(7)(C) National suicide prevention coordinator, and (b)(6); (b)(7)(C) National Sex offender program coordinator arrives to the institution.\n8:40 am: Northeast Regional Director R. Ormond arrives to the institution.\n\nDOJ-OGR-00025985",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 2145",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Cont. Sunday, August 11, 2019\n10:40 am: OIG (b)(6); (b)(7)(C) arrives at institution.\n11:15 am: OIG (b)(6); (b)(7)(C) departs institution with two computers FPS 021407270 and FPS 0214207268.\n2:00 pm: OIG (b)(6); (b)(7)(C) departs the institution.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Monday, August 12, 2019\n1:00 pm: Staff recall conducted\n3:14 pm: FBI arrives\n7:56 pm: FBI departs\n9:45 pm: FBI returns\n10:30 pm: FBI departs",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Tuesday August 13, 2019\n7:15 am: (b)(6); (b)(7)(C) NER Correctional Services Administrator arrives to the institution\n7:25 am: (b)(6); (b)(7)(C) National suicide prevention coordinator, and (b)(6); (b)(7)(C) National Sex offender program coordinator arrives to the institution.\n8:40 am: Northeast Regional Director R. Ormond arrives to the institution.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025985",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "R. Ormond"
+    ],
+    "organizations": [
+      "OIG",
+      "FBI",
+      "NER Correctional Services"
+    ],
+    "locations": [
+      "institution"
+    ],
+    "dates": [
+      "August 11, 2019",
+      "August 12, 2019",
+      "August 13, 2019"
+    ],
+    "reference_numbers": [
+      "FPS 021407270",
+      "FPS 0214207268",
+      "DOJ-OGR-00025985"
+    ]
+  },
+  "additional_notes": "The document appears to be a log or timeline of events related to an investigation or inspection at a correctional institution. The text includes redactions in the form of (b)(6); (b)(7)(C), indicating that certain information has been withheld for privacy or security reasons."
+}

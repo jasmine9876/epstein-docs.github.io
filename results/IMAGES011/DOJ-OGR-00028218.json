@@ -1,0 +1,71 @@
+{
+  "document_metadata": {
+    "page_number": "0024",
+    "document_number": "DOJ-OGR-00028218",
+    "date": "04282014",
+    "document_type": "TECSII - PRIMARY QUERY HISTORY PASSENGER ACTIVITY",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 TECSII - PRIMARY QUERY HISTORY 04282014 *A *B PASSENGER ACTIVITY *C PAGE NO. 0024 NAME DOB QUERY DATE TIME AGN RSLT LNE TYP REF LANE TERM/ API DIM EPSTEIN, JEFFREY 012053 010204 1803 CUS *D AIR :$01 N N A523-PALM BEACH, INTERNATION DOC: 112783574 US P INSP: *E EPSTEIN, JEFFREY 012053 122403 1747 CUS *F AIR :$01 N N A523-PALM BEACH, INTERNATION DOC: 112783574 US P INSP: *G EPSTEIN, JEFFREY 012053 111103 0926 CUS *H API Z:09 C N A311-ANCHORAGE, SATELLITE TE DOC: 207320604 US P INSP: *I EPSTEIN, JEFFREY 012053 112203 1941 CUS *J API AJ01 C N A523-PALM BEACH, INTERNATION DOC: 207320604 US P INSP: *K EPSTEIN, JEFFREY 012053 061403 2028 INS *L API AJ01 C N A523-PALM BEACH, INTERNATION DOC: 207320604 US P INSP: *M EPSTEIN, JEFFREY 012053 062703 1747 INS *N AIR RA07 N N A511-CBP-CYRIL E KING, INTL DOC: 207320604 US P INSP: *O (b)(7)(E) <...MORE...> (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6),(b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(6),(b)(7)(C) *F - (b)(7)(E) *G - (b)(6),(b)(7)(C) *H - (b)(7)(E) *I - (b)(6),(b)(7)(C) *J - (b)(7)(E) *K - (b)(6),(b)(7)(C) *L - (b)(7)(E) *M - (b)(6),(b)(7)(C) *N - (b)(7)(E) *O - (b)(6),(b)(7)(C) DOJ-OGR-00028218",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "TECSII - PRIMARY QUERY HISTORY PASSENGER ACTIVITY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE NO. 0024",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB QUERY DATE TIME AGN RSLT LNE TYP REF LANE TERM/ API DIM",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY 012053 010204 1803 CUS *D AIR :$01 N N A523-PALM BEACH, INTERNATION DOC: 112783574 US P INSP: *E",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6),(b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(6),(b)(7)(C) *F - (b)(7)(E) *G - (b)(6),(b)(7)(C) *H - (b)(7)(E) *I - (b)(6),(b)(7)(C) *J - (b)(7)(E) *K - (b)(6),(b)(7)(C) *L - (b)(7)(E) *M - (b)(6),(b)(7)(C) *N - (b)(7)(E) *O - (b)(6),(b)(7)(C)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028218",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "CBP"
+    ],
+    "locations": [
+      "PALM BEACH",
+      "ANCHORAGE",
+      "CYRIL E KING"
+    ],
+    "dates": [
+      "010204",
+      "122403",
+      "111103",
+      "112203",
+      "061403",
+      "062703",
+      "04282014"
+    ],
+    "reference_numbers": [
+      "112783574",
+      "207320604",
+      "DOJ-OGR-00028218"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted TECSII query history report for Jeffrey Epstein, with multiple entries and redactions."
+}

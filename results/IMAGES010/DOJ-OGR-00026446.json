@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "2790",
+    "document_number": "DOJ-OGR-00026446",
+    "date": "08/01/2019",
+    "document_type": "30 MINUTE CHECK SHEET",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "MCC NEW YORK SPECIAL HOUSING UNIT 30 MINUTE CHECK SHEET ZA TIER-H DATE: 08/01/2019 TIME FRAME TIME START TIME END SIGNATURE TIME FRAME TIME START TIME END SIGNATURE TIME FRAME TIME START TIME END SIGNATURE 12:00-12:30 AM 1212 1237 (b)(6); (b)(7)(C) 8:00-8:30 AM 811 812 (b)(6); (b)(7)(C) 4:00-4:30 PM 418 419 (b)(6); (b)(7)(C) 12:30- 1:00 AM 1243 1244 8:30- 9:00 AM 841 842 4:30-5:00 PM 440 441 S 1:00-1:30 AM 119 120 9:00-9:30 AM 913 914 5:00 -5:30 PM 518 519 S 1:30-2:00 AM 150 151 9:30-10:00 AM 950 951 5:30-6:00 PM 540 541 S 2:00-2:30 AM 222 220 10:00-10:30 AM 1022 1023 6:00-6:30 PM 612 613 S 2:30-3:00 AM 253 234 10:30-11:00 AM 1057 1054 6:30-7:00 PM 641 642 S 3:00-3:30 AM 825 826 11:00-11:30 AM 1115 1116 7:00-7:30 PM 719 720 S 3:30-4:00 AM 356 357 11:30-12:00 AM 1134 1172 7:30-8:00 PM 742 743 S 4:00-4:30 AM 424 425 12:00-12:30 PM 1206 1207 8:00-8:30 PM 814 815 S 4:30-5:00 AM 448 449 12:30- 1:00 PM 120 129 8:30- 9:00 PM 841 842 S 5:00 -5:30 AM 513 514 1:00-1:30 PM 130 131 9:00-9:30 PM 917 918 S 5:30-6:00 AM 545 544 1:30-2:00 PM 230 231 9:30-10:00 PM 942 943 S 6:00-6:30 AM 625 625 2:00-2:30 PM 301 301 10:00-10:30 PM 1611 1612 S 6:30-7:00 AM 656 657 2:30-3:00 PM 338 338 10:30-11:00 PM 1041 1042 S 7:00-7:30 AM 700 700 3:00-3:30 PM 502 502 11:00-11:30 PM 1118 1119 S 7:30-8:00 AM 744 742 3:30-4:00 PM 1143 1144 S MORNING WATCH OPERATIONS LIEUTENANT DAY WATCH OPERATIONS LIEUTENANT EVENING WATCH OPERATIONS LIEUTENANT (b)(6); (b)(7)(C) (b)(6); (b)(7)(C) (b)(6); (b)(7)(C) A staff member must observe all inmates confined in a continuous locked down status, such as administrative detention or disciplinary segregation, at least once in the first 30 minute period of the hour (example, 12:00 a.m. - 12:30 a.m.) followed by another round in the second 30 minutes period of the same hour (example, 12:30 am - 1:00 a.m.), thus ensuring an inmate is observed at least twice per hour. These rounds are to be conducted on an irregular schedule and no more than 40 minutes apart. All observations must be documented. REVIEWED BY MORNING WATCH LIEUTENANT CAPTAIN (b)(6); (b)(7)(C)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "MCC NEW YORK SPECIAL HOUSING UNIT 30 MINUTE CHECK SHEET ZA TIER-H DATE: 08/01/2019",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "TIME FRAME TIME START TIME END SIGNATURE TIME FRAME TIME START TIME END SIGNATURE TIME FRAME TIME START TIME END SIGNATURE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "1212 1237 (b)(6); (b)(7)(C) 811 812 (b)(6); (b)(7)(C) 418 419 (b)(6); (b)(7)(C)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "A staff member must observe all inmates confined in a continuous locked down status, such as administrative detention or disciplinary segregation, at least once in the first 30 minute period of the hour (example, 12:00 a.m. - 12:30 a.m.) followed by another round in the second 30 minutes period of the same hour (example, 12:30 am - 1:00 a.m.), thus ensuring an inmate is observed at least twice per hour. These rounds are to be conducted on an irregular schedule and no more than 40 minutes apart. All observations must be documented.",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "REVIEWED BY MORNING WATCH LIEUTENANT CAPTAIN (b)(6); (b)(7)(C)",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "MCC NEW YORK"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "08/01/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026446"
+    ]
+  },
+  "additional_notes": "The document contains handwritten entries and redactions. The document is a 30-minute check sheet for inmates in a special housing unit."
+}

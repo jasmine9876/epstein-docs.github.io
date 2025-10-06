@@ -1,0 +1,49 @@
+{
+  "document_metadata": {
+    "page_number": "888",
+    "document_number": "DOJ-OGR-00025179",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 888 (b)(6); (b)(7)(C) Staff Attorney CLC New York Metropolitan Correctional Center 150 Park Row New York, NY 10007 p: 646-836-(b)(6); (b)(7)(C) f: 646-836-7665 Page 1834 DOJ-OGR-00025179",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 888",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6); (b)(7)(C)\nStaff Attorney\nCLC New York\nMetropolitan Correctional Center\n150 Park Row\nNew York, NY 10007\np: 646-836-(b)(6); (b)(7)(C)\nf: 646-836-7665",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Page 1834",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025179",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "CLC New York",
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00025179",
+      "646-836-7665"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6); (b)(7)(C), indicating potentially sensitive information has been removed."
+}

@@ -1,0 +1,118 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024238",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "7-21 (b)(6), (b)(7)(C) Epstein 76318-054 1:00 7-24 (b)(6), (b)(7)(C) Epstein 76318-054 5:53 7/21 (b)(6), (b)(7)(C) Epstein 8436 510 7/22 (b)(6), (b)(7)(C) J. Epstein 76318-054 8:47 10:47",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "7-21",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318-054 1:00",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "7-24",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318-054 5:53",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/21",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "8436 510",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/22",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "J. Epstein",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318-054 8:47 10:47",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024238",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein",
+      "J. Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7-21",
+      "7-24",
+      "7/21",
+      "7/22"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "8436",
+      "DOJ-OGR-00024238"
+    ]
+  },
+  "additional_notes": "The document appears to be a log or record of some sort, with handwritten entries and redactions. The redactions are indicated by '(b)(6), (b)(7)(C)' which is a common notation for withheld information under the Freedom of Information Act (FOIA)."
+}

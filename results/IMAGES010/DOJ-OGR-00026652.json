@@ -1,0 +1,72 @@
+{
+  "document_metadata": {
+    "page_number": "3012",
+    "document_number": "NYMH3 530*05",
+    "date": "08-09-2019",
+    "document_type": "Inmate Roster",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 3012 NYMH3 530*05 * INMATE ROSTER * 08-09-2019 15:37:38 PAGE 001 OF 001 CATEGORY: OCT ASSIGNMENT: HOSP GROUP CODE: FACILITY: NYM OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK 0001 HOSP [redacted] 08-09-2019 K08-014U SUICIDE OR UNASSG 0002 08-09-2019 K09-033U SUICIDE OR UNASSG G0000 TRANSACTION SUCCESSFULLY COMPLETED DOJ-OGR-00026652",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "NYMH3 530*05 * INMATE ROSTER * 08-09-2019 15:37:38",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE 001 OF 001 CATEGORY: OCT ASSIGNMENT: HOSP GROUP CODE: FACILITY: NYM",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "0001 HOSP [redacted] 08-09-2019 K08-014U SUICIDE OR UNASSG",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0002 08-09-2019 K09-033U SUICIDE OR UNASSG",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "G0000 TRANSACTION SUCCESSFULLY COMPLETED",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026652",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "08-09-2019"
+    ],
+    "reference_numbers": [
+      "NYMH3 530*05",
+      "DOJ-OGR-00026652",
+      "K08-014U",
+      "K09-033U"
+    ]
+  },
+  "additional_notes": "The document contains a redacted section for the inmate's name and registration number."
+}

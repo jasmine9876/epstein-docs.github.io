@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": "55",
+    "document_number": "DOJ-OGR-00022340",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information\nShuster Susie\nSiegal, Peggy\nSiegel, William (Bill)\nSleghart, William\nSilver Ron\nSilverman, Nancy & Henry\nSimon, Bran\nSimpson (Caruth), Sophie\nSindi, Rena & Sami\nSlayton Bobby\nSmith Osborne\nSmith Peterson, Noona\nSmith, James\nSnyder, Maria\nSoames, Rupert & Milly",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Shuster Susie\nSiegal, Peggy\nSiegel, William (Bill)\nSleghart, William\nSilver Ron\nSilverman, Nancy & Henry\nSimon, Bran",
+      "position": "left"
+    },
+    {
+      "type": "printed",
+      "content": "Simpson (Caruth), Sophie\nSindi, Rena & Sami\nSlayton Bobby\nSmith Osborne\nSmith Peterson, Noona\nSmith, James\nSnyder, Maria\nSoames, Rupert & Milly",
+      "position": "right"
+    },
+    {
+      "type": "printed",
+      "content": "55",
+      "position": "footer left"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022340",
+      "position": "footer right"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Shuster Susie",
+      "Siegal, Peggy",
+      "Siegel, William (Bill)",
+      "Sleghart, William",
+      "Silver Ron",
+      "Silverman, Nancy & Henry",
+      "Simon, Bran",
+      "Simpson (Caruth), Sophie",
+      "Sindi, Rena & Sami",
+      "Slayton Bobby",
+      "Smith Osborne",
+      "Smith Peterson, Noona",
+      "Smith, James",
+      "Snyder, Maria",
+      "Soames, Rupert & Milly"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022340"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 55, and there is a reference number DOJ-OGR-00022340 at the bottom right."
+}

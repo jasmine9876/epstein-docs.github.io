@@ -1,0 +1,86 @@
+{
+  "document_metadata": {
+    "page_number": "86",
+    "document_number": "DOJ-OGR-00022258",
+    "date": null,
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... 19-Aug B-727-31 N9083JC PBE HPN 7 JG,GM,ET, NO FLOW RESTRICTION 1/1 25 24 HPN PBI 8 JG,GM, BANDWIDTHKKUYLU 1/1 24 27 PBE HPN 9 JG,GM, BK 1/1 26 29 HPN TIST 10 JG,GM,ET,AP,BK 1/1 37 30 G-1159R N9083JC PBI PBI 3 ILS APPROACH NOW VISIBLE 3/3 6 3 PBE HPN 11 JG,GM,ET BK, SARAH KELLEN, AP EXAMINE 1/1 27 6 HPN PBE 12 JG,GM,ET, BK, I FGMALE 1/1 24 9 PBE HBN 13 JG,GM,ET, BK 1/1 27 15 HPN PBI 14 JE,GM,ET, KARGH CASEY, LJSA 1/1 26 17N C-172 N144LV LNA LNP 15 JL PGI-RGLA - TAXI, TAXCEE, RUMS, CLEANS, DESCENTS 4/4 9 19 B-727-31 N9083JC PBE HPN 1/1 27 21 HPN CYQX 16 JE,GM,ET 27 22 CYQX LFPB 17 JE,GM,ET 1/1 49 25 LFPB CYQX 18 JE,ET, GO TUTTLG 55 25 CYQX HPN 19 JE,ET, GO TUTTLG 36 28 HPN PBE 20 JE,ET, PAULA EPSTEIN 1/1 27 29 PBE AYBQ 21 JE,GM, SARAH KELLEN 1/1 40 4 AYBQ HPN 22 JE,GM, S K, 2 FEMALE 1/1 37 8 HPN JAX 23 NO PASSENGERS 22 I certify that the statements made by me on this form are true. Pilot's Signature Daniel Rodgers Page Total 17 14 550 Amount Forward 6450 83276 33112 Total to Date 6467 83826 33112",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "19-Aug B-727-31 N9083JC PBE HPN 7 JG,GM,ET, NO FLOW RESTRICTION 1/1 25 ...",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Daniel Rodgers",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "17 14 550 6450 83276 33112 6467 83826 33112",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Daniel Rodgers",
+      "Sarah Kellen",
+      "Kargh Casey",
+      "Paula Epstein"
+    ],
+    "organizations": [],
+    "locations": [
+      "PBE",
+      "HPN",
+      "PBI",
+      "TIST",
+      "HBN",
+      "LNA",
+      "LNP",
+      "CYQX",
+      "LFPB",
+      "AYBQ",
+      "JAX"
+    ],
+    "dates": [
+      "19-Aug",
+      "24-Aug",
+      "27-Aug",
+      "29-Aug",
+      "30-Aug",
+      "3-Sep",
+      "6-Sep",
+      "9-Sep",
+      "15-Sep",
+      "17-Sep",
+      "19-Sep",
+      "21-Sep",
+      "22-Sep",
+      "25-Sep",
+      "28-Sep",
+      "29-Sep",
+      "4-Oct",
+      "8-Oct"
+    ],
+    "reference_numbers": [
+      "N9083JC",
+      "N144LV",
+      "DOJ-OGR-00022258"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The log includes details such as date, aircraft make and model, identification mark, points of departure and arrival, miles flown, flight number, remarks, and number of landings. The document is signed by the pilot, Daniel Rodgers."
+}

@@ -1,0 +1,41 @@
+{
+  "document_metadata": {
+    "page_number": "002",
+    "document_number": "NYXBE 530*07",
+    "date": "08-04-2019",
+    "document_type": "POPULATION MONITORING CENSUS/ROSTER GENERALIZED RETRIEVAL",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "NYXBE 530*07 PAGE 002 POPULATION MONITORING CENSUS/ROSTER GENERALIZED RETRIEVAL 08-04-2019 02:32:13 FUNCTION: R-P SELECTION CATEGORY: QTR EQ ALL ZERO/NBR: NO ORGANIZATION: FACL EQ NYM OPTION: TYPE OF FACILITY: TOF EQ T DUP SUPR: YES FACILITY MANAGED BY: FMB EQ AP COLUMNS 1: REG 2: LN 3: LN2 4: FN 5: ARSD 6: ARS 7: 8: SEQ: 234 NP: JUDG: C SORT COL: COL SEQ: CONDITIONS (GRP 1) OR CONDITIONS (GRP 2) OR CONDITIONS (GRP 3) OR CONDITIONS (GRP 4) CMCI NE G CMCI NE P Control Center DOJ-OGR-00024638",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "NYXBE 530*07 PAGE 002 POPULATION MONITORING CENSUS/ROSTER GENERALIZED RETRIEVAL 08-04-2019 02:32:13 FUNCTION: R-P SELECTION CATEGORY: QTR EQ ALL ZERO/NBR: NO ORGANIZATION: FACL EQ NYM OPTION: TYPE OF FACILITY: TOF EQ T DUP SUPR: YES FACILITY MANAGED BY: FMB EQ AP COLUMNS 1: REG 2: LN 3: LN2 4: FN 5: ARSD 6: ARS 7: 8: SEQ: 234 NP: JUDG: C SORT COL: COL SEQ: CONDITIONS (GRP 1) OR CONDITIONS (GRP 2) OR CONDITIONS (GRP 3) OR CONDITIONS (GRP 4) CMCI NE G CMCI NE P",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Control Center",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024638",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "08-04-2019"
+    ],
+    "reference_numbers": [
+      "NYXBE 530*07",
+      "DOJ-OGR-00024638"
+    ]
+  },
+  "additional_notes": "The document appears to be a technical report or data retrieval output with some handwritten annotation. The image quality is clear, and there are no visible redactions or significant damage."
+}

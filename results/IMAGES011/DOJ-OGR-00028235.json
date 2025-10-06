@@ -1,0 +1,72 @@
+{
+  "document_metadata": {
+    "page_number": "0041",
+    "document_number": "DOJ-OGR-00028235",
+    "date": "04282014",
+    "document_type": "TECSII - PRIMARY QUERY HISTORY",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 TECSII - PRIMARY QUERY HISTORY 04282014 *A *B PASSENGER ACTIVITY PAGE NO. 0041 *C NAME DOB QUERY DATE TIME AGN RSLT LNE TYP REF LANE TERM/ API DIM EPSTEIN, JEFFREY E 012053 011711 0000 *D API 01 R N UNKNOWN AIRPORT (USED ONLY W DOC: 469911707 US P INSP: APIS QRY EPSTEIN, JEFFREY E 012053 122110 0000 *E API 01 R N UNKNOWN AIRPORT (USED ONLY W DOC: 469911707 US P INSP: APIS QRY EPSTEIN, JEFFREY E 012053 122210 0000 *F API 01 R N UNKNOWN AIRPORT (USED ONLY W DOC: 469911707 US P INSP: APIS QRY EPSTEIN, JEFFREY E 012053 123010 0000 *G API 01 R N UNKNOWN AIRPORT (USED ONLY W DOC: 469911707 US P INSP: APIS QRY EPSTEIN, JEFFREY E 012053 101810 0000 *H API 01 R N TETERBORO DOC: 469911707 US P INSP: APIS QRY EPSTEIN, JEFFREY E 012053 102910 0000 *I API 01 R N UNKNOWN AIRPORT (USED ONLY W DOC: 469911707 US P INSP: APIS QRY (b)(7)(E) <...MORE...> (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(7)(E) *F - (b)(7)(E) *G - (b)(7)(E) *H - (b)(7)(E) *I - (b)(7)(E) DOJ-OGR-00028235",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "TECSII - PRIMARY QUERY HISTORY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGER ACTIVITY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE NO. 0041",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB QUERY DATE TIME AGN RSLT LNE TYP REF LANE TERM/ API DIM",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY E 012053 011711 0000 *D API 01 R N UNKNOWN AIRPORT (USED ONLY W DOC: 469911707 US P INSP: APIS QRY",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(7)(E) *F - (b)(7)(E) *G - (b)(7)(E) *H - (b)(7)(E) *I - (b)(7)(E)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028235",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY E EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "UNKNOWN AIRPORT",
+      "TETERBORO"
+    ],
+    "dates": [
+      "011711",
+      "122110",
+      "122210",
+      "123010",
+      "101810",
+      "102910",
+      "04282014"
+    ],
+    "reference_numbers": [
+      "469911707",
+      "DOJ-OGR-00028235"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted TECSII query history report. Multiple redactions are present, marked as '(b)(7)(E)' and '(b)(6), (b)(7)(C)'."
+}

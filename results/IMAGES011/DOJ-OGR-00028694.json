@@ -1,0 +1,68 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "DOJ-OGR-00028694",
+    "date": "04/28/2014",
+    "document_type": "I095 INSPECTION COMMENTS",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:08:03 I095 INSPECTION COMMENTS 04/28/2014 *B *A *C +--------------------------------------- I N S P E C T I O N C O M M E N T S ---------------------------------------+ PAGE 1 NEW COMMENTS: (b)(7)(E) RETURN ING FROM FRANCE AND AUSTRIA TODAY. (b)(7)(E) REFERRED TO BAGGAGE FOR FUR THER EXAMINATION. COMMENTS HISTORY: +-------------------------------------------------------------------------------------------+ (b)(7)(E) (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) DOJ-OGR-00028694",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:08:03 I095 INSPECTION COMMENTS 04/28/2014",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "+--------------------------------------- I N S P E C T I O N C O M M E N T S ---------------------------------------+",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE 1",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NEW COMMENTS: (b)(7)(E) RETURN ING FROM FRANCE AND AUSTRIA TODAY. (b)(7)(E) REFERRED TO BAGGAGE FOR FUR THER EXAMINATION. COMMENTS HISTORY:",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "+-------------------------------------------------------------------------------------------+",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E) (b)(7)(E) (b)(7)(E)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028694",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [
+      "FRANCE",
+      "AUSTRIA"
+    ],
+    "dates": [
+      "04/28/2014"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00028694"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(7)(E), (b)(6), and (b)(7)(C). The document appears to be a formal inspection report with comments and history sections."
+}

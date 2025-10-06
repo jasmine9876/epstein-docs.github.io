@@ -1,0 +1,55 @@
+{
+  "document_metadata": {
+    "page_number": "2957",
+    "document_number": null,
+    "date": "8/11/19",
+    "document_type": "Official Count Slip",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2957 Metropolitan Correctional Center Official Count Slip Unit: Date: 8/1/19 Count: Time: 4:00 Print Name: Signature: Print Name: Signature: Metropolitan Correctional Center Official Count Slip Unit: ZA Date: 8-11-19 Count: Time: 4:00 PM Print Name: Signature: Print Name: Signature: Metropolitan Correctional Center Official Count Slip Unit: TN Date: 8/11/19 Count: Time: 400 pm Print Name: Signature: Print Name: Signature: DOJ-OGR-00026613",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/1/19 4:00",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "ZA 8-11-19 4:00 PM",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "TN 8/11/19 400 pm",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026613",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Metropolitan Correctional Center",
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "8/1/19",
+      "8-11-19",
+      "8/11/19"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026613"
+    ]
+  },
+  "additional_notes": "The document contains redactions in the 'Print Name' and 'Signature' fields. The image quality is clear, but some handwritten text is difficult to read due to the writing style."
+}

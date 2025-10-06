@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": "3334",
+    "document_number": "NYMAQ 530*05",
+    "date": "07-24-2019",
+    "document_type": "Inmate Roster",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 3334 NYMAQ 530*05 * INMATE ROSTER * 07-24-2019 15:37:50 PAGE 001 OF 001 CATEGORY: OCT GROUP CODE: ASSIGNMENT: ATTY FACILITY: NYM OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK 0001 ATTY 76318-054 EPSTEIN 07-24-2019 H01-001L UNASSG 0002 (b)(6), (b)(7)(C) G0000 TRANSACTION SUCCESSFULLY COMPLETED DOJ-OGR-00026923",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "NYMAQ 530*05 * INMATE ROSTER * 07-24-2019 15:37:50",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE 001 OF 001 CATEGORY: OCT GROUP CODE: ASSIGNMENT: ATTY FACILITY: NYM OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK 0001 ATTY 76318-054 EPSTEIN 07-24-2019 H01-001L UNASSG 0002 (b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "G0000 TRANSACTION SUCCESSFULLY COMPLETED",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026923",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "EPSTEIN"
+    ],
+    "organizations": [
+      "NYM"
+    ],
+    "locations": [],
+    "dates": [
+      "07-24-2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "NYMAQ 530*05",
+      "DOJ-OGR-00026923"
+    ]
+  },
+  "additional_notes": "The document appears to be a printed inmate roster with some redacted information."
+}

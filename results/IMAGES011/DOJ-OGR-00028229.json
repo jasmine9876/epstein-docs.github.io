@@ -1,0 +1,55 @@
+{
+  "document_metadata": {
+    "page_number": "0035",
+    "document_number": "DOJ-OGR-00028229",
+    "date": "04282014",
+    "document_type": "TECSII - PRIMARY QUERY HISTORY",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 TECSII - PRIMARY QUERY HISTORY 04282014 *A *B PASSENGER ACTIVITY PAGE NO. 0035 NAME DOB DATE TIME AGN ---- QUERY ---- LNE TERM/ RSLT TYP REF LANE API DIM EPSTEIN, JEFFREY E 012053 070312 0000 *D API 01 R N AB52-INS-JFK AIRPORT DOC: INSP: APIS QRY EPSTEIN, JEFFREY E 012053 072112 0000 *E API 01 R N UNKNOWN AIRPORT (USED ONLY W DOC: 469911707 US P INSP: APIS QRY EPSTEIN, JEFFREY E 012053 061712 0000 *F API 01 R N UNKNOWN AIRPORT (USED ONLY W DOC: 469911707 US P INSP: APIS QRY EPSTEIN, JEFFREY E 012053 050312 0000 *G API 01 R N UNKNOWN AIRPORT (USED ONLY W DOC: 469911707 US P INSP: APIS QRY EPSTEIN, JEFFREY E 012053 051012 0000 *H API 01 R N PARIS, CH. DE GAULLE DOC: INSP: APIS QRY EPSTEIN, JEFFREY E 012053 052712 1609 CUS *I API /G28 C N A477-NEW YORK, JFK AIRPORT, DOC: 469911707 US P INSP: *J (b)(7)(E) <...MORE...> (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(7)(E) *F - (b)(7)(E) *G - (b)(7)(E) *H - (b)(7)(E) *I - (b)(7)(E) *J - (b)(6), (b)(7)(C) DOJ-OGR-00028229",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "TECSII - PRIMARY QUERY HISTORY PASSENGER ACTIVITY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB DATE TIME AGN ---- QUERY ---- LNE TERM/ RSLT TYP REF LANE API DIM",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key:",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY E EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "JFK AIRPORT",
+      "NEW YORK",
+      "PARIS",
+      "CH. DE GAULLE"
+    ],
+    "dates": [
+      "070312",
+      "072112",
+      "061712",
+      "050312",
+      "051012",
+      "052712",
+      "04282014"
+    ],
+    "reference_numbers": [
+      "469911707",
+      "DOJ-OGR-00028229",
+      "A477"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as (b)(7)(E) and (b)(6), (b)(7)(C)."
+}

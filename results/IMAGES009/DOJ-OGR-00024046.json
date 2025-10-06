@@ -1,0 +1,144 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024046",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "8/4/19 Savile 8/5/19 Epstein 76318-0541 11:35 (b)(6), (b)(7)(C) 8/4/19 Colón 8/5/19 Epstein Gostin 76318-054 8:00 26318-057 8:50 (b)(6), (b)(7)(C) 8/5/19 G. Tali NA J. Epstein 76218-04 8:50 11: (b)(6), (b)(7)(C) 8/5 Savella RM Epstein 76318-0509 11:00 (b)(6), (b)(7)(C) DOJ-OGR-00024046",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "8/4/19 Savile",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/5/19 Epstein",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318-0541",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "11:35",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/4/19 Colón 8/5/19 Epstein Gostin",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318-054",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8:00",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "26318-057",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8:50",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/5/19 G. Tali NA J. Epstein",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "76218-04",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8:50",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "11:",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/5 Savella RM Epstein",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318-0509",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "11:00",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024046",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Savile",
+      "Epstein",
+      "Colón",
+      "Gostin",
+      "G. Tali",
+      "J. Epstein",
+      "Savella",
+      "RM Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "8/4/19",
+      "8/5/19"
+    ],
+    "reference_numbers": [
+      "76318-0541",
+      "76318-054",
+      "26318-057",
+      "76218-04",
+      "76318-0509"
+    ]
+  },
+  "additional_notes": "The document appears to be a log or record of some sort, with handwritten entries. Much of the content is redacted, with '(b)(6), (b)(7)(C)' appearing multiple times. The document number 'DOJ-OGR-00024046' is printed at the bottom."
+}

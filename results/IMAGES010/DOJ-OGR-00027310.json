@@ -1,0 +1,51 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "DOJ-OGR-00027310",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "9. Attorney Log Books\nPlease provide a copy of the log book audit.\nInstitution Response:\nThe audit revealed the Random Visitor Log Book did not reflect visitor pat searches after May 19, 2019. In addition, the log book does not offer a column to annotate a staff witness. The Contractor/Volunteer Log Book was not always filled in properly. The Law Enforcement Log Book was up to date; however, the time of departure was not always documented. The Attorney Log was missing inmate register numbers and more often than not was legible. There was no Visitor Denial Log created. The audit conducted on September 25, 2019, is attached for your review.\n3\nDOJ-OGR-00027310",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "9. Attorney Log Books\nPlease provide a copy of the log book audit.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Institution Response:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "The audit revealed the Random Visitor Log Book did not reflect visitor pat searches after May 19, 2019. In addition, the log book does not offer a column to annotate a staff witness. The Contractor/Volunteer Log Book was not always filled in properly. The Law Enforcement Log Book was up to date; however, the time of departure was not always documented. The Attorney Log was missing inmate register numbers and more often than not was legible. There was no Visitor Denial Log created. The audit conducted on September 25, 2019, is attached for your review.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "3",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027310",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "May 19, 2019",
+      "September 25, 2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00027310"
+    ]
+  },
+  "additional_notes": "The document appears to be a page from a report or audit, with some redacted sections indicated by purple rectangles. The text is mostly printed, with no visible handwriting or stamps."
+}

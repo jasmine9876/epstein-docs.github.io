@@ -1,0 +1,94 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024020",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "(b)(6); (b)(7)(C) 7/18 Colon Mass Epstein 76318-054 5:58 (b)(6); (b)(7)(C) 7/19 Colon Mass Epstein 76318-054 5:20 7-19 Calico Mass Epstein 76318-054 5:20 (b)(6); (b)(7)(C) NK 2 Epstein 76318 057 5th (b)(6); (b)(7)(C) 7/21 Corpette Mike Epstein 7631809180 100 7/21 O tali 96318 054 818 612 DOJ-OGR-00024020",
+  "text_blocks": [
+    {
+      "type": "stamp",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/18 Colon Mass Epstein 76318-054 5:58",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "margin"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/19 Colon Mass Epstein 76318-054 5:20",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7-19 Calico Mass Epstein 76318-054 5:20",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "margin"
+    },
+    {
+      "type": "handwritten",
+      "content": "NK 2 Epstein 76318 057 5th",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "margin"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/21 Corpette Mike Epstein 7631809180 100 7/21 O tali 96318 054 818 612",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024020",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Mass",
+      "Mike Epstein",
+      "Epstein",
+      "Mike"
+    ],
+    "organizations": [],
+    "locations": [
+      "Colon",
+      "Calico",
+      "Corpette",
+      "O tali"
+    ],
+    "dates": [
+      "7/18",
+      "7/19",
+      "7-19",
+      "7/21",
+      "7/21"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "76318-054",
+      "76318-054",
+      "76318 057",
+      "7631809180",
+      "96318 054"
+    ]
+  },
+  "additional_notes": "The document contains multiple redactions and handwritten notes. The text is mostly legible, but some parts are obscured by green highlights."
+}

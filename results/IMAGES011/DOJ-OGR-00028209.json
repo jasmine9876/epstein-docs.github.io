@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "0015",
+    "document_number": "DOJ-OGR-00028209",
+    "date": "04282014",
+    "document_type": "TECSII - PRIMARY QUERY HISTORY PASSENGER ACTIVITY",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 TECSII - PRIMARY QUERY HISTORY 04282014 *A *B PASSENGER ACTIVITY *C PAGE NO. 0015 NAME DOB QUERY ---- DATE TIME AGN RSLT LNE TYP REF LANE TERM/ API DIM EPSTEIN, JEFFREY 012053 022408 1432 CUS *D AIR JK38 N N A512-CBP-ST THOMAS, VI PRECL DOC: 207320604 US P INSP: *E EPSTEIN, JEFFREY 012053 010608 0953 CUS *F AIR JK19 N N A512-CBP-ST THOMAS, VI PRECL DOC: 207320604 US P INSP: *G EPSTEIN, JEFFREY 012053 011708 0704 CUS *H AIR JK42 N N A512-CBP-ST THOMAS, VI PRECL DOC: 207320604 US P INSP: *I EPSTEIN, JEFFREY 012053 012108 0000 *J API 01 R N PARIS, CH. DE GAULLE DOC: 207320604 US P INSP: APIS QRY EPSTEIN, JEFFREY 012053 012908 1743 CUS *K API :%36 C N A103-NEWARK, INTL AIRPORT T DOC: 207320604 US P INSP: *L EPSTEIN, JEFFREY 012053 120407 0711 CUS *M AIR JK40 N N A512-CBP-ST THOMAS, VI PRECL DOC: 207320604 US P INSP: *N (b)(7)(E) <...MORE...> (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(6), (b)(7)(C) *F - (b)(7)(E) *G - (b)(6), (b)(7)(C) *H - (b)(7)(E) *I - (b)(6), (b)(7)(C) *J - (b)(7)(E) *K - (b)(7)(E) *L - (b)(6), (b)(7)(C) *M - (b)(7)(E) *N - (b)(6), (b)(7)(C) DOJ-OGR-00028209",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "TECSII - PRIMARY QUERY HISTORY PASSENGER ACTIVITY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE NO. 0015",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB QUERY ---- DATE TIME AGN RSLT LNE TYP REF LANE TERM/ API DIM",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY 012053 022408 1432 CUS *D AIR JK38 N N A512-CBP-ST THOMAS, VI PRECL DOC: 207320604 US P INSP: *E",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(6), (b)(7)(C) *F - (b)(7)(E) *G - (b)(6), (b)(7)(C) *H - (b)(7)(E) *I - (b)(6), (b)(7)(C) *J - (b)(7)(E) *K - (b)(7)(E) *L - (b)(6), (b)(7)(C) *M - (b)(7)(E) *N - (b)(6), (b)(7)(C)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028209",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN",
+      "VI THOMAS"
+    ],
+    "organizations": [
+      "CBP"
+    ],
+    "locations": [
+      "PARIS, CH. DE GAULLE",
+      "NEWARK, INTL AIRPORT"
+    ],
+    "dates": [
+      "022408",
+      "010608",
+      "011708",
+      "012108",
+      "012908",
+      "120407",
+      "04282014"
+    ],
+    "reference_numbers": [
+      "207320604",
+      "DOJ-OGR-00028209"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted TECSII query history report. Multiple redactions are present throughout the document, marked as (b)(6), (b)(7)(C), and (b)(7)(E)."
+}

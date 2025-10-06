@@ -1,0 +1,88 @@
+{
+  "document_metadata": {
+    "page_number": "3369",
+    "document_number": "NYM H3 530*05",
+    "date": "08-09-2019",
+    "document_type": "Inmate Roster",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 3369\nNYM H3 530*05 * INMATE ROSTER * 08-09-2019 15:36:31\nPAGE 001 OF 001 CATEGORY: OCT GROUP CODE: \nASSIGNMENT: ATTY FACILITY: NYM\nOPER CATG ASSIGNMENT OPER CATG ASSIGNMENT\nNUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK\n0001 ATTY (b)(6); (b)(7)(C) 08-09-2019 104-930U UNASSG\n0002 76318-054 EPSTRIN 08-09-2019 Z04-206LAD UNASSG\n0003 (b)(6); (b)(7)C 08-09-2019 G07-756U UNASSG\nG0000 TRANSACTION SUCCESSFULLY COMPLETED\nDOJ-OGR-00026958",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3369",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NYM H3 530*05 * INMATE ROSTER * 08-09-2019 15:36:31",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE 001 OF 001 CATEGORY: OCT GROUP CODE: ",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "ASSIGNMENT: ATTY FACILITY: NYM",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "0001 ATTY (b)(6); (b)(7)(C) 08-09-2019 104-930U UNASSG",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0002 76318-054 EPSTRIN 08-09-2019 Z04-206LAD UNASSG",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0003 (b)(6); (b)(7)C 08-09-2019 G07-756U UNASSG",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "G0000 TRANSACTION SUCCESSFULLY COMPLETED",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026958",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "EPSTRIN"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "08-09-2019"
+    ],
+    "reference_numbers": [
+      "NYM H3 530*05",
+      "76318-054",
+      "DOJ-OGR-00026958"
+    ]
+  },
+  "additional_notes": "The document appears to be a roster of inmates, with some information redacted."
+}

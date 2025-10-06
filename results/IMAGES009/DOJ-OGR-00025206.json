@@ -1,0 +1,49 @@
+{
+  "document_metadata": {
+    "page_number": "941",
+    "document_number": "76318-054",
+    "date": "2019/08/10",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Epstein, Jeffrey, Register No. 76318-054\nFrom Shirley V. Skipper-Scott\nTo [redacted]\nDate 2019/08/10 10:15\nSubject: Epstein, Jeffrey, Register No. 76318-054\nAttachments: TEXT.htm\n\nGood morning,\n\nThis is just a follow-up to our conversation this morning concerning Epstein, Jeffrey, Register No. 76318-054, who was found unresponsive in his cell at 6:33 a.m. Life-saving measures were performed by institution staff and EMS staff. He was escorted to the local hospital where he was later pronounced dead at 7:36 a.m. Should you require any additional information, please contact me. Thanks.\n\nShirley Skipper-Scott\nAssociate Warden\nMCC New York\n150 Park Row\nNew York, New York 10007\nOffice: 646-836[redacted]\nBlack Berry: 646-423[redacted]\n@bop.gov",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Epstein, Jeffrey, Register No. 76318-054\nFrom Shirley V. Skipper-Scott\nTo [redacted]\nDate 2019/08/10 10:15\nSubject: Epstein, Jeffrey, Register No. 76318-054\nAttachments: TEXT.htm",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Good morning,\n\nThis is just a follow-up to our conversation this morning concerning Epstein, Jeffrey, Register No. 76318-054, who was found unresponsive in his cell at 6:33 a.m. Life-saving measures were performed by institution staff and EMS staff. He was escorted to the local hospital where he was later pronounced dead at 7:36 a.m. Should you require any additional information, please contact me. Thanks.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Shirley Skipper-Scott\nAssociate Warden\nMCC New York\n150 Park Row\nNew York, New York 10007\nOffice: 646-836[redacted]\nBlack Berry: 646-423[redacted]\n@bop.gov",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Shirley V. Skipper-Scott"
+    ],
+    "organizations": [
+      "MCC New York",
+      "EMS"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "2019/08/10"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00025206"
+    ]
+  },
+  "additional_notes": "The document is an email regarding Jeffrey Epstein's death. Some phone numbers are redacted."
+}

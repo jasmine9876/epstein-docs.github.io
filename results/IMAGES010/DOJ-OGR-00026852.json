@@ -1,0 +1,41 @@
+{
+  "document_metadata": {
+    "page_number": "3263",
+    "document_number": "DOJ-OGR-00026852",
+    "date": null,
+    "document_type": "Inmate Observation Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 3263\n\nEPSTEIN # 76318-054\n\n4:45 AM Inmate EPSTEIN is sleeping\n5:00 AM Inmate EPSTEIN is sleeping\n5:15 AM Inmate EPSTEIN is sleeping\n5:30 AM Inmate EPSTEIN is sleeping\n5:45 AM Inmate EPSTEIN is sleeping\n6:00 AM Inmate EPSTEIN is sleeping\n6:15 AM Inmate EPSTEIN is awake sitting on bed\n6:30 AM Inmate EPSTEIN is awake sitting on bed\n6:45 AM Inmate EPSTEIN is awake sitting on bed\n7:00 AM Inmate EPSTEIN is awake sitting on bed\n7:15 AM Inmate EPSTEIN is awake sitting on bed\n7:30 AM Inmate EPSTEIN is awake sitting on bed\n7:31 AM End of Shift (b)(6); (b)(7)(C) assumes responsibility\n7:35 AM for Inmate EPSTEIN #76318-054\n7:45 AM Inmate EPSTEIN appears to be sleeping\n7:50 AM Psych visit - Lawyer\n8:30 AM Inmate EPSTEIN when to legal\n9:00 AM End of shift (b)(6); (b)(7)(C) assumes\n1:00 PM ETC (b)(6); (b)(7)(C)\nresponsibility for Inmate EPSTEIN #76318-054\n1:00 PM Inmate EPSTEIN just returned from a legal visit",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3263",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "EPSTEIN # 76318-054\n\n4:45 AM Inmate EPSTEIN is sleeping\n5:00 AM Inmate EPSTEIN is sleeping\n5:15 AM Inmate EPSTEIN is sleeping\n5:30 AM Inmate EPSTEIN is sleeping\n5:45 AM Inmate EPSTEIN is sleeping\n6:00 AM Inmate EPSTEIN is sleeping\n6:15 AM Inmate EPSTEIN is awake sitting on bed\n6:30 AM Inmate EPSTEIN is awake sitting on bed\n6:45 AM Inmate EPSTEIN is awake sitting on bed\n7:00 AM Inmate EPSTEIN is awake sitting on bed\n7:15 AM Inmate EPSTEIN is awake sitting on bed\n7:30 AM Inmate EPSTEIN is awake sitting on bed\n7:31 AM End of Shift (b)(6); (b)(7)(C) assumes responsibility\n7:35 AM for Inmate EPSTEIN #76318-054\n7:45 AM Inmate EPSTEIN appears to be sleeping\n7:50 AM Psych visit - Lawyer\n8:30 AM Inmate EPSTEIN when to legal\n9:00 AM End of shift (b)(6); (b)(7)(C) assumes\n1:00 PM ETC (b)(6); (b)(7)(C)\nresponsibility for Inmate EPSTEIN #76318-054\n1:00 PM Inmate EPSTEIN just returned from a legal visit",
+      "position": "main"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026852",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026852"
+    ]
+  },
+  "additional_notes": "The document appears to be a handwritten log of observations for Inmate EPSTEIN #76318-054. The log includes entries for various times, noting whether the inmate is sleeping or awake, and mentions a 'Psych visit - Lawyer' and a 'legal visit'. Some information is redacted with '(b)(6); (b)(7)(C)'."
+}

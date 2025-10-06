@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028513",
+    "date": "101513",
+    "document_type": "PQH API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 *B PQH API/HIT DATA 042814 *A *C NAME DOB DATE TIME AGN RSLT LNE TYP REF TERM/LANE API EPSTEIN, JEFFREY EDWARD 012053 101513 0000 *D API NEWARK INTERNATIONAL API DATA ---- INDICATOR : R REPORTED CARRIER CODE : BA BRITISH AIRWAYS P.L.C. FLT/VES NUMBER : 8001 ARRIVAL LOCATION : EWR NEWARK INTERNATIONAL DEPARTURE LOCATION : ORY PARIS, ORLY TRANSMITTED BY : ALTEA+CM AMADEUS DCS ALTEA CM INBOUND/OUTBOUND : INBOUND (b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6) , (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) (b) (7) (E) DOJ-OGR-00028513",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07 *B PQH API/HIT DATA 042814 *A *C",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB DATE TIME AGN RSLT LNE TYP REF TERM/LANE API EPSTEIN, JEFFREY EDWARD 012053 101513 0000 *D API NEWARK INTERNATIONAL",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "API DATA ---- INDICATOR : R REPORTED CARRIER CODE : BA BRITISH AIRWAYS P.L.C. FLT/VES NUMBER : 8001 ARRIVAL LOCATION : EWR NEWARK INTERNATIONAL DEPARTURE LOCATION : ORY PARIS, ORLY TRANSMITTED BY : ALTEA+CM AMADEUS DCS ALTEA CM INBOUND/OUTBOUND : INBOUND",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6) , (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) (b) (7) (E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028513",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "BRITISH AIRWAYS P.L.C.",
+      "AMADEUS DCS ALTEA CM"
+    ],
+    "locations": [
+      "NEWARK INTERNATIONAL",
+      "PARIS",
+      "ORY",
+      "EWR"
+    ],
+    "dates": [
+      "101513"
+    ],
+    "reference_numbers": [
+      "8001",
+      "DOJ-OGR-00028513"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b) (7) (E)' and '(b) (6) , (b) (7) (C)'. The document appears to be a data report related to a flight."
+}

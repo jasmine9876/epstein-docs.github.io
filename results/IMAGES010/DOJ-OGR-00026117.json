@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": "2441",
+    "document_number": null,
+    "date": "07/14/2019",
+    "document_type": "Medical Examination Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2441\nInmate Name: EPSTEIN, JEFFREY EDWARD Sex: M Race: WHITE Reg #: 76318-054\nDate of Birth: 01/20/1953 Encounter Date: 07/14/2019 17:36 Provider: [redacted] MD Facility: NYM Unit: Z05\nExam:\nEyes General Yes: PERRLA, Extraocular Movements Intact\nPulmonary Auscultation Yes: Clear to Auscultation\nCardiovascular Auscultation Yes: Regular Rate and Rhythm (RRR), Normal S1 and S2 No: M/R/G\nAbdomen Auscultation Yes: Normo-Active Bowel Sounds\nPalpation Yes: Within Normal Limits\nMusculoskeletal Tibia / Fibula No: Edema\nBack Yes: Tenderness\nNeurologic Cranial Nerves (CN) Yes: Within Normal Limits\nMotor System-General Yes: Normal Exam\nASSESSMENT:\nConstipation, unspecified, K5900 - Current\nHyperlipidemia, unspecified, E785 - Current\nLow back pain, M545 - Current\nNeuralgia and neuritis, unspecified, M792 - Current\nSleep apnea, G4730 - Current\nPLAN:\nNew Medication Orders:\nRx# Medication Order Date Prescriber Order\nOmega 3 (Vascepa) 1 GM Capsule 07/14/2019 17:36 TAKE 2 CAPS Orally - Two Times a Day x 180 day(s) - TAKE WITH FOOD.\nIndication: Hyperlipidemia, unspecified\nNew Laboratory Requests:\nDetails Frequency Due Date Priority\nLab Tests-H-Hemoglobin A1C One Time 10/10/2019 00:00 Routine\nLab Tests-L-Lipid Profile\nAdditional Information:\nGenerated 07/14/2019 18:11 by [redacted] MD Bureau of Prisons - NYM Page 2 of 3\nDOJ-OGR-00026117",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD Sex: M Race: WHITE Reg #: 76318-054",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Date of Birth: 01/20/1953 Encounter Date: 07/14/2019 17:36 Provider: [redacted] MD Facility: NYM Unit: Z05",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Exam:\nEyes General Yes: PERRLA, Extraocular Movements Intact\nPulmonary Auscultation Yes: Clear to Auscultation\nCardiovascular Auscultation Yes: Regular Rate and Rhythm (RRR), Normal S1 and S2 No: M/R/G\nAbdomen Auscultation Yes: Normo-Active Bowel Sounds\nPalpation Yes: Within Normal Limits\nMusculoskeletal Tibia / Fibula No: Edema\nBack Yes: Tenderness\nNeurologic Cranial Nerves (CN) Yes: Within Normal Limits\nMotor System-General Yes: Normal Exam",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "ASSESSMENT:\nConstipation, unspecified, K5900 - Current\nHyperlipidemia, unspecified, E785 - Current\nLow back pain, M545 - Current\nNeuralgia and neuritis, unspecified, M792 - Current\nSleep apnea, G4730 - Current",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PLAN:\nNew Medication Orders:\nRx# Medication Order Date Prescriber Order\nOmega 3 (Vascepa) 1 GM Capsule 07/14/2019 17:36 TAKE 2 CAPS Orally - Two Times a Day x 180 day(s) - TAKE WITH FOOD.\nIndication: Hyperlipidemia, unspecified",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "New Laboratory Requests:\nDetails Frequency Due Date Priority\nLab Tests-H-Hemoglobin A1C One Time 10/10/2019 00:00 Routine\nLab Tests-L-Lipid Profile",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Additional Information:\nGenerated 07/14/2019 18:11 by [redacted] MD Bureau of Prisons - NYM Page 2 of 3",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026117",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/14/2019",
+      "10/10/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026117"
+    ]
+  },
+  "additional_notes": "The document contains redacted information, likely for privacy or security reasons. The report appears to be a medical examination report for an inmate, Jeffrey Edward Epstein, conducted on July 14, 2019."
+}

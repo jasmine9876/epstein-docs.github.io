@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028619",
+    "date": "05/31/2010",
+    "document_type": "SECONDARY INSPECTION",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07:57 SECONDARY INSPECTION 04/28/2014 *A\n*B ENTRY: 05/31/2010 UPDATE: 05/31/2010 *C\nINSPECTION DTE: 05/31/2010 PORT/SITE: 5204/A523 PALM BEACH, INTERNATIONAL\nLAST NAME:* EPSTEIN FIRST:* JEFFREY EDWARD DOB:* 01201953 RCPT#: \nDOC TYPE: P #: 469911707 ISSUING CNTRY: US ID-ST: \nGENDER:* M RACE:* W WHITE HISPANIC:* N (Y/N)\nCARRIER:* *GA FLT/VES #: * 909JE FLT/VES CREW:* N (Y/N)\nIN/OUT:* I DEPART/DESTIN:* STT EMBARK:* STT\nREFERRING OFFICER CODE: (b) (7) (E) REASON FOR REFERRAL: (b) (7) (E)\nBAG EXAM:* Y (Y/N) # BAGS X-RAYED: 01 PRSNL SRCH:* N (Y/N) # PAX ON DEC:* 1\nPOS/NEG INSP:* N (P/N/UJ) REFERRAL TIME:* 19 : 40 COMPLETION TIME:* 19 : 45\nIOEM:* (Y/N) IOEM#: CCD USED:* *D (Y/N)\nCAT 1 OR 2: VIOL CDS: \nINCIDENT #: REMARKS: (b) (7) (E) INSP COMPLETE:* Y (Y/N)\n** SECONDARY INSPECTION COMPLETE **\n(b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E)\n(b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E)\nKey:\n*A - (b) (7) (E)\n*B - (b) (6), (b) (7) (C)\n*C - (b) (7) (E)\n*D - (b) (7) (E)\n*E - (b) (7) (E)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07:57 SECONDARY INSPECTION 04/28/2014 *A\n*B ENTRY: 05/31/2010 UPDATE: 05/31/2010 *C\nINSPECTION DTE: 05/31/2010 PORT/SITE: 5204/A523 PALM BEACH, INTERNATIONAL",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "LAST NAME:* EPSTEIN FIRST:* JEFFREY EDWARD DOB:* 01201953 RCPT#: \nDOC TYPE: P #: 469911707 ISSUING CNTRY: US ID-ST: \nGENDER:* M RACE:* W WHITE HISPANIC:* N (Y/N)\nCARRIER:* *GA FLT/VES #: * 909JE FLT/VES CREW:* N (Y/N)\nIN/OUT:* I DEPART/DESTIN:* STT EMBARK:* STT",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "REFERRING OFFICER CODE: (b) (7) (E) REASON FOR REFERRAL: (b) (7) (E)\nBAG EXAM:* Y (Y/N) # BAGS X-RAYED: 01 PRSNL SRCH:* N (Y/N) # PAX ON DEC:* 1\nPOS/NEG INSP:* N (P/N/UJ) REFERRAL TIME:* 19 : 40 COMPLETION TIME:* 19 : 45\nIOEM:* (Y/N) IOEM#: CCD USED:* *D (Y/N)\nCAT 1 OR 2: VIOL CDS: \nINCIDENT #: REMARKS: (b) (7) (E) INSP COMPLETE:* Y (Y/N)\n** SECONDARY INSPECTION COMPLETE **",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E)\n(b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key:\n*A - (b) (7) (E)\n*B - (b) (6), (b) (7) (C)\n*C - (b) (7) (E)\n*D - (b) (7) (E)\n*E - (b) (7) (E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028619",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "PALM BEACH, INTERNATIONAL"
+    ],
+    "dates": [
+      "05/31/2010",
+      "04/28/2014",
+      "01/20/1953"
+    ],
+    "reference_numbers": [
+      "469911707",
+      "5204/A523",
+      "909JE",
+      "DOJ-OGR-00028619"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b) (7) (E)' and other similar codes, indicating sensitive or classified information. The document is a secondary inspection report for Jeffrey Edward Epstein at Palm Beach International on May 31, 2010."
+}

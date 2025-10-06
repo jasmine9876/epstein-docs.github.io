@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": "1987",
+    "document_number": "DOJ-OGR-00025903",
+    "date": "July 24, 2019",
+    "document_type": "email chain",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 1987\n\nHello,\n\nI am here and will be able to provide any information you need. Warden N'Diaye is on annual leave this week and I am acting on his behalf. I did provide all the information that we have to [redacted] on July 24, 2019, who passed on the information to her superiors. Thanks.\n\nShirley Skipper-Scott\nAssociate Warden\nMCC New York\n150 Park Row\nNew York, New York, 10007\nOffice: 646-836-[redacted]\nBlack Berry: 646-423-[redacted]\n[redacted]@bop.gov\n\n>>> [redacted] 7/25/2019 12:25 PM >>>\nHi [redacted],\n\nI contacted Associate Warden Skipper-Scott who is cc'd on this email, and she will be able to provide any information that you need. If you need anything else, please let me know.\n\n[redacted]\n202-598-[redacted]\n\n[redacted]\nActing SDAD/CPD\nFederal Bureau of Prisons\n320 1st St. NW, HOLC Bldg. 545\nWashington, DC 20534\nOffice: (202) 598-[redacted]\n[redacted]@bop.gov\n\n>>> [redacted] JSMS) [redacted]@usdoj.gov> 7/25/2019 11:33 AM >>>\n\nThere has been an incident with a high profile prisoner (Jeffrey Epstein) at MCC New York. We are trying to get some basic information about the incident and are having a hard time getting any information out of the facility. Is there someone we could speak to and get the basic information? The USM and Chief for our S/New York office are having no luck with the Warden and Assistant Warden.\n\nPage 11009\nDOJ-OGR-00025903",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Hello,",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "I am here and will be able to provide any information you need. Warden N'Diaye is on annual leave this week and I am acting on his behalf. I did provide all the information that we have to [redacted] on July 24, 2019, who passed on the information to her superiors. Thanks.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Shirley Skipper-Scott\nAssociate Warden\nMCC New York\n150 Park Row\nNew York, New York, 10007\nOffice: 646-836-[redacted]\nBlack Berry: 646-423-[redacted]\n[redacted]@bop.gov",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": ">>> [redacted] 7/25/2019 12:25 PM >>>\nHi [redacted],\n\nI contacted Associate Warden Skipper-Scott who is cc'd on this email, and she will be able to provide any information that you need. If you need anything else, please let me know.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "[redacted]\n202-598-[redacted]\n\n[redacted]\nActing SDAD/CPD\nFederal Bureau of Prisons\n320 1st St. NW, HOLC Bldg. 545\nWashington, DC 20534\nOffice: (202) 598-[redacted]\n[redacted]@bop.gov",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": ">>> [redacted] JSMS) [redacted]@usdoj.gov> 7/25/2019 11:33 AM >>>\n\nThere has been an incident with a high profile prisoner (Jeffrey Epstein) at MCC New York. We are trying to get some basic information about the incident and are having a hard time getting any information out of the facility. Is there someone we could speak to and get the basic information? The USM and Chief for our S/New York office are having no luck with the Warden and Assistant Warden.",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Shirley Skipper-Scott",
+      "N'Diaye",
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "MCC New York",
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [
+      "New York",
+      "Washington, DC"
+    ],
+    "dates": [
+      "July 24, 2019",
+      "7/25/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00025903"
+    ]
+  },
+  "additional_notes": "The document is an email chain discussing an incident involving Jeffrey Epstein at MCC New York. The emails are heavily redacted, with names, phone numbers, and email addresses removed."
+}

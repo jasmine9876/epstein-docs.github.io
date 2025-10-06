@@ -1,0 +1,73 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "76318054",
+    "date": "08/01/2019",
+    "document_type": "SALES INVOICE",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "SALES INVOICE --S.B.U.-- NEW YORK MCC MAIN ACCOUNT No. 76318054 EPSTEIN, JEFFREY EDWARD 08/01/2019 Time 11:48:27 Receipt # 42 BEGINNING BALANCES: Available Balance is N/A Spending Limit Balance is N/A Account Balance is $498.42 QTY DESCRIPTION PRICE 1 AA POWERCELL BATTERIES $1.00 1 AAA POWERCELL BATTERIES $1.00 1 CHAPSTICK $2.30 1 DAILY VITAMIN (ADVANCE) $4.20 1 DOVE $2.15 1 HALLS 401C $0.95 1 Q-TIPS $1.10 1 RADIO AM/FM $39.95 1 TONE SOAP $1.25 2 TYLENOL $4.40 # ITEMS SOLD: 11 CHARGE 76318054 $58.30 ENDING BALANCES: Available Balance is N/A Spending Limit Balance is N/A Account Balance is $440.12 Signature DOJ-OGR-00024467",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "SALES INVOICE --S.B.U.-- NEW YORK MCC MAIN ACCOUNT No. 76318054 EPSTEIN, JEFFREY EDWARD 08/01/2019 Time 11:48:27",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "BEGINNING BALANCES: Available Balance is N/A Spending Limit Balance is N/A Account Balance is $498.42",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "QTY DESCRIPTION PRICE",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "1 AA POWERCELL BATTERIES $1.00 1 AAA POWERCELL BATTERIES $1.00 1 CHAPSTICK $2.30 1 DAILY VITAMIN (ADVANCE) $4.20 1 DOVE $2.15 1 HALLS 401C $0.95 1 Q-TIPS $1.10 1 RADIO AM/FM $39.95 1 TONE SOAP $1.25 2 TYLENOL $4.40 # ITEMS SOLD: 11 CHARGE 76318054 $58.30",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "ENDING BALANCES: Available Balance is N/A Spending Limit Balance is N/A Account Balance is $440.12",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Signature",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024467",
+      "position": "footer"
+    },
+    {
+      "type": "stamp",
+      "content": "Receipt # 42",
+      "position": "top"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "NEW YORK MCC"
+    ],
+    "locations": [
+      "NEW YORK"
+    ],
+    "dates": [
+      "08/01/2019"
+    ],
+    "reference_numbers": [
+      "76318054",
+      "DOJ-OGR-00024467",
+      "42"
+    ]
+  },
+  "additional_notes": "The document appears to be a sales invoice from a retail store, likely a correctional facility commissary, with a list of items purchased by Jeffrey Epstein."
+}

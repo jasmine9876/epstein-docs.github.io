@@ -1,0 +1,47 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024229",
+    "date": null,
+    "document_type": "Inmate Visit Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE | NAME | Signature | Inmate | Room # | Time IN | Time OUT (b)(6). (b)(7)(C) (b)(6). (b)(7)(C) J Epstein DOJ-OGR-00024229",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "DATE | NAME | Signature | Inmate | Room # | Time IN | Time OUT",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6). (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6). (b)(7)(C) J Epstein",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024229",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "J Epstein"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00024229"
+    ]
+  },
+  "additional_notes": "The document appears to be a log for inmate visits, with most of the content redacted. The name 'J Epstein' is visible at the bottom."
+}

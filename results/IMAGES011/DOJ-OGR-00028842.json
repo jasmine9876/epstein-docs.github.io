@@ -1,0 +1,73 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028842",
+    "date": "042814",
+    "document_type": "PQH API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:08 *B PQH API/HIT DATA 042814 *A *C NAME LEFTWICH, ANDREA K CUN -CANCUN DOB DATE TIME AGN RSLT LNE TYP REF LANE TERM/API 060184 061412 0000 *D API R DOC: 494773662 US P INSP: APIS QRY API DATA ---- INDICATOR : R REPORTED CARRIER CODE : FL AIR TRAN FLT/VES NUMBER : 46 ARRIVAL LOCATION : CUN CANCUN DEPARTURE LOCATION : ATL WILLIAM B HARTSFIELD TRANSMITTED BY : APIS*845 NAVITAIRE INC. INBOUND/OUTBOUND : OUTBOUND (b) (7) (E) (b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) DOJ-OGR-00028842",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:08 *B PQH API/HIT DATA 042814 *A *C",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME LEFTWICH, ANDREA K CUN -CANCUN",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "DOB DATE TIME AGN RSLT LNE TYP REF LANE TERM/API 060184 061412 0000 *D API R DOC: 494773662 US P INSP: APIS QRY",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "API DATA ---- INDICATOR : R REPORTED CARRIER CODE : FL AIR TRAN FLT/VES NUMBER : 46 ARRIVAL LOCATION : CUN CANCUN DEPARTURE LOCATION : ATL WILLIAM B HARTSFIELD TRANSMITTED BY : APIS*845 NAVITAIRE INC. INBOUND/OUTBOUND : OUTBOUND",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "(b) (7) (E) (b) (7) (E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028842",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "ANDREA K LEFTWICH"
+    ],
+    "organizations": [
+      "AIR TRAN",
+      "APIS",
+      "NAVITAIRE INC."
+    ],
+    "locations": [
+      "CANCUN",
+      "ATL",
+      "WILLIAM B HARTSFIELD"
+    ],
+    "dates": [
+      "060184",
+      "061412",
+      "042814"
+    ],
+    "reference_numbers": [
+      "494773662",
+      "DOJ-OGR-00028842"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b) (7) (E)' and '(b) (6), (b) (7) (C)'."
+}

@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "DOJ-OGR-00027020",
+    "date": "Tuesday July 23, 2019",
+    "document_type": "Daily Assignment Roster",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 3431 MCC NEW YORK NEW YORK, NY Tuesday July 23, 2019 Daily Assignment Roster Page 1 Post Split Shift 2 00:00 - 08:00 3 06:00 - 14:00 6 07:00 - 15:00 8 08:00 - 16:00 9 12:00 - 20:00 10 14:00 - 22:00 12 16:00 - 00:00 CAPTAIN (b)(6); (b)(7)(C); (b)(7)(F) (b)(6); (b)(7)(C); (b)(7)(F) (b)(6); (b)(7)(C); (b)(7)(F) CAPTAIN SEC (b)(6); (b)(7)(C); (b)(7)(F) OPS LT ACT LT ADMIN LT SHU LT SIS LT SIS LT #2 SIA SIS TECH #1 SIS TECH #2 PHONE MONITOR SEC OFFICER #1 SEC OFFICER #2 TOOL ROOM SEARCH OFFICER 2 SALLY OFF 3 SALLY OFF LOBBY CONTROL #1 CONTROL #2 INTERNAL INTERNAL #2 ATTY CONF UNIT 2 UNIT 3 5 NORTH 5 SOUTH 7 NORTH 7 SOUTH 9 NORTH SHU #1 SHU #2 SHU #3 SHU #4 10 SOUTH #1 10 SOUTH #2 '22/2019 11:42:36 PM DOJ-OGR-00027020",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "MCC NEW YORK NEW YORK, NY Daily Assignment Roster",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Post Split Shift 2 00:00 - 08:00 3 06:00 - 14:00 6 07:00 - 15:00 8 08:00 - 16:00 9 12:00 - 20:00 10 14:00 - 22:00 12 16:00 - 00:00",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CAPTAIN (b)(6); (b)(7)(C); (b)(7)(F) (b)(6); (b)(7)(C); (b)(7)(F) (b)(6); (b)(7)(C); (b)(7)(F)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "CAPTAIN SEC (b)(6); (b)(7)(C); (b)(7)(F)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "OPS LT ACT LT ADMIN LT SHU LT SIS LT SIS LT #2 SIA SIS TECH #1 SIS TECH #2 PHONE MONITOR SEC OFFICER #1 SEC OFFICER #2 TOOL ROOM SEARCH OFFICER 2 SALLY OFF 3 SALLY OFF LOBBY CONTROL #1 CONTROL #2 INTERNAL INTERNAL #2 ATTY CONF UNIT 2 UNIT 3 5 NORTH 5 SOUTH 7 NORTH 7 SOUTH 9 NORTH SHU #1 SHU #2 SHU #3 SHU #4 10 SOUTH #1 10 SOUTH #2",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "'22/2019 11:42:36 PM DOJ-OGR-00027020",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "MCC NEW YORK",
+      "DOJ"
+    ],
+    "locations": [
+      "NEW YORK, NY"
+    ],
+    "dates": [
+      "Tuesday July 23, 2019",
+      "22/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00027020"
+    ]
+  },
+  "additional_notes": "The document appears to be a daily assignment roster for MCC New York. The names of personnel have been redacted with (b)(6); (b)(7)(C); (b)(7)(F). The document is printed and contains no handwritten text or stamps."
+}

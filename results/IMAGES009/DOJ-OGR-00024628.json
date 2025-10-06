@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "001",
+    "document_number": "NYMDK 530*07",
+    "date": "07-30-2019",
+    "document_type": "POPULATION MONITORING CENSUS/ROSTER GENERALIZED RETRIEVAL",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "NYMDK 530*07 * POPULATION MONITORING CENSUS/ROSTER * 07-30-2019 PAGE 001 * GENERALIZED RETRIEVAL * 01:04:27 FUNCTION: R-P SELECTION CATEGORY: QTR EQ ALL ZERO/NBR: NO ORGANIZATION: FACL EQ NYM OPTION: TYPE OF FACILITY: TOF EQ T DLP SUPR: YES FACILITY MANAGED BY: FMB EQ AP COLUMNS 1: REG 2: LN 3: LN2 4: FN 5: ARSD 6: ARS 7: 8: SEQ: 234 NP: JUDG: C SORT COL: COL SEQ: CONDITIONS (GRP 1) OR CONDITIONS (GRP 2) OR CONDITIONS (GRP 3) OR CONDITIONS (GRP 4) CMCI NE G CMCI NE P Control",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "NYMDK 530*07 * POPULATION MONITORING CENSUS/ROSTER * 07-30-2019 PAGE 001 * GENERALIZED RETRIEVAL * 01:04:27 FUNCTION: R-P SELECTION CATEGORY: QTR EQ ALL ZERO/NBR: NO ORGANIZATION: FACL EQ NYM OPTION: TYPE OF FACILITY: TOF EQ T DLP SUPR: YES FACILITY MANAGED BY: FMB EQ AP COLUMNS 1: REG 2: LN 3: LN2 4: FN 5: ARSD 6: ARS 7: 8: SEQ: 234 NP: JUDG: C SORT COL: COL SEQ: CONDITIONS (GRP 1) OR CONDITIONS (GRP 2) OR CONDITIONS (GRP 3) OR CONDITIONS (GRP 4) CMCI NE G CMCI NE P",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Control",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024628",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "FMB",
+      "NYM"
+    ],
+    "locations": [],
+    "dates": [
+      "07-30-2019"
+    ],
+    "reference_numbers": [
+      "NYMDK 530*07",
+      "DOJ-OGR-00024628"
+    ]
+  },
+  "additional_notes": "The document contains redacted sections represented by green rectangles. The handwritten text 'Control' is present on the page."
+}

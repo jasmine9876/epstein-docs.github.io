@@ -1,0 +1,48 @@
+{
+  "document_metadata": {
+    "page_number": "2129",
+    "document_number": "76318-054",
+    "date": "7/29/19",
+    "document_type": "Observation Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Epstein #76318-054 7/29/19\n9:00 Inmate Epstein is talking about his bail\n9:15 Inmate Epstein and I are talking investments\n9:30 Inmate Epstein is lying down now\n9:45 Inmate Epstein is sleeping\n10:00 Inmate Epstein is asleep\n10:01 Ronald wades\n10:15 Inmate Epstein is asleep\n10:30 Inmate Epstein remains at rest\n10:45 Inmate asleep continuing in slumber\n10:55 ENDS T.H. T.\n10:45 PM Inmate\nassumes responsibility for the physical observation of inmate EPSTEIN #76318-054\nin cell #4 on 7/29/19 at 10:45 PM\n11:00 PM Inmate EPSTEIN is sleeping\n11:15 PM Inmate EPSTEIN is sleeping\n11:30 PM Inmate EPSTEIN is sleeping\n11:45 PM Inmate EPSTEIN is sleeping\n12:00 AM Inmate EPSTEIN is sleeping\n12:05 AM Staff rounds\n12:15 AM Inmate EPSTEIN is sleeping\n12:30 AM Inmate EPSTEIN is sleeping",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "Epstein #76318-054 7/29/19",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "9:00 Inmate Epstein is talking about his bail\n9:15 Inmate Epstein and I are talking investments\n9:30 Inmate Epstein is lying down now\n9:45 Inmate Epstein is sleeping\n10:00 Inmate Epstein is asleep\n10:01 Ronald wades\n10:15 Inmate Epstein is asleep\n10:30 Inmate Epstein remains at rest\n10:45 Inmate asleep continuing in slumber\n10:55 ENDS T.H. T.",
+      "position": "main"
+    },
+    {
+      "type": "handwritten",
+      "content": "10:45 PM Inmate\nassumes responsibility for the physical observation of inmate EPSTEIN #76318-054\nin cell #4 on 7/29/19 at 10:45 PM",
+      "position": "main"
+    },
+    {
+      "type": "handwritten",
+      "content": "11:00 PM Inmate EPSTEIN is sleeping\n11:15 PM Inmate EPSTEIN is sleeping\n11:30 PM Inmate EPSTEIN is sleeping\n11:45 PM Inmate EPSTEIN is sleeping\n12:00 AM Inmate EPSTEIN is sleeping\n12:05 AM Staff rounds\n12:15 AM Inmate EPSTEIN is sleeping\n12:30 AM Inmate EPSTEIN is sleeping",
+      "position": "main"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein",
+      "Ronald"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/29/19"
+    ],
+    "reference_numbers": [
+      "76318-054"
+    ]
+  },
+  "additional_notes": "The document appears to be a handwritten log of observations of inmate Epstein. The handwriting is mostly legible, but some parts are marked out or redacted."
+}

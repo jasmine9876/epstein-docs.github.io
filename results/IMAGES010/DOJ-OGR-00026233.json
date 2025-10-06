@@ -1,0 +1,69 @@
+{
+  "document_metadata": {
+    "page_number": "2573",
+    "document_number": null,
+    "date": "07/14/2019",
+    "document_type": "Bureau of Prisons Health Services",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2573 Bureau of Prisons Health Services See Amendment Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Encounter Date: 07/14/2019 17:36 Sex: M Reg #: 76318-054 Race: WHITE Facility: NYM Amendment made to this note by b(6); b(7)(C) MD on 07/14/2019 18:11. Bureau of Prisons - NYM DOJ-OGR-00026233",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 2573",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Bureau of Prisons Health Services See Amendment",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Encounter Date: 07/14/2019 17:36 Sex: M Reg #: 76318-054 Race: WHITE Facility: NYM",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Amendment made to this note by",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "b(6); b(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "MD on 07/14/2019 18:11.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Bureau of Prisons - NYM DOJ-OGR-00026233",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons",
+      "Department of Justice"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/14/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026233"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as 'b(6); b(7)(C)' indicating potentially sensitive information has been withheld."
+}

@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00027118",
+    "date": "10/3/05",
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "(b)(6), (b)(7)(C) (b)(6), (b)(7)(C) (b)(6) Bystein 10/3/05 11:00 DOJ-OGR-00027118",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Bystein",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "10/3/05 11:00",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027118",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Bystein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "10/3/05"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00027118"
+    ]
+  },
+  "additional_notes": "The document has been heavily redacted, with most of the content obscured by green highlights. The visible text is mostly handwritten and appears to be a date, time, and a name."
+}

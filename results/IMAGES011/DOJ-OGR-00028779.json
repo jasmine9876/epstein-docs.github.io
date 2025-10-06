@@ -1,0 +1,59 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028779",
+    "date": "042814",
+    "document_type": "PQH API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:08 *B PQH API/HIT DATA 042814 *A *C NAME DOB ----- QUERY ----- LNE TERM/ EPSTEIN, JEFFREY E 012053 120712 1728 CUS *D API JFK -JOHN F KENNEDY INTL DOC: 469911707 US P INSP: *E API DATA ---- INDICATOR : C CONFIRMED CARRIER CODE : *GA GENERAL AVIATION FLT/VES NUMBER : N908JE ARRIVAL LOCATION : JFK JOHN F KENNEDY INTL DEPARTURE LOCATION : XXX UNKNOWN AIRPORT (USED ON TRANSMITTED BY : APGA9786 GENERAL AVIATION INBOUND/OUTBOUND : INBOUND (b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6) , (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) *E - (b) (6) , (b) (7) (C) (b) (7) (E) DOJ-OGR-00028779",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:08 *B PQH API/HIT DATA 042814 *A *C",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB ----- QUERY ----- LNE TERM/ EPSTEIN, JEFFREY E 012053 120712 1728 CUS *D API JFK -JOHN F KENNEDY INTL DOC: 469911707 US P INSP: *E",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "API DATA ---- INDICATOR : C CONFIRMED CARRIER CODE : *GA GENERAL AVIATION FLT/VES NUMBER : N908JE ARRIVAL LOCATION : JFK JOHN F KENNEDY INTL DEPARTURE LOCATION : XXX UNKNOWN AIRPORT (USED ON TRANSMITTED BY : APGA9786 GENERAL AVIATION INBOUND/OUTBOUND : INBOUND",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6) , (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) *E - (b) (6) , (b) (7) (C) (b) (7) (E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028779",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY E EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "JFK",
+      "JOHN F KENNEDY INTL"
+    ],
+    "dates": [
+      "120712",
+      "042814"
+    ],
+    "reference_numbers": [
+      "469911707",
+      "N908JE",
+      "APGA9786",
+      "DOJ-OGR-00028779"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked with (b) (6) , (b) (7) (C) , and (b) (7) (E)."
+}

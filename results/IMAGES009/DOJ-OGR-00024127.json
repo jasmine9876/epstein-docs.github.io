@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "76318-054",
+    "date": "07/06/2019",
+    "document_type": "Medical Assessment",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Inmate Name: EPSTEIN, JEFFREY EDWARD\nDate of Birth: 01/20/1953\nEncounter Date: 07/06/2019 21:38\nSex: M\nProvider: [redacted] PA-C\nReg #: 76318-054\nRace: WHITE\nFacility: NYM\n\nInfectious Disease Risk Factors:\n- IV Drug Use: No\n- IV Drug Use Needles:\n- Sexual Partner IV Drug Use: No\n- Sexual Partner IV Drug Use Needles:\n- Female Sexual Partners (Last 5 Yrs): 10+\n- Male Sexual Partners (Last 5 Yrs): 0\n- Condom Use: Sometimes\n- Sexual Contact With HIV+ Individual: No\n- Blood Product Transfusion: No\n- Travel Outside US: Yes\n- Tattoos: No\n- Comments: Born in US\nHigh school diploma\nBanker\nTraveled to Paris x 3 weeks up until arrest\nNo tattoos\n\nHIV History:\n- When Tested: 2019\n- Test Result: Negative\n- When Diagnosed AIDS:\n- Last CD4:\n- Comments:\n- Hepatitis: Denied\n- Other Infectious Diseases:\n  - Syphilis: No\n  - Syphilis Last Treatment: N/A\n  - Genital Warts: No\n  - Chlamydia: Yes\n  - Gonorrhea: No\n  - Herpes: No\n  - Chicken Pox: Yes\n  - Other: No\n  - Comments: Chlamydia in 2015, treated\nChicken pox in childhood\n- Abuse History: Denied\n  - Physical: No\n  - Emotional: No\n  - Sexual: No\n  - Comments: Denies\n\nGenerated 07/06/2019 21:56 by [redacted] PA-C\nBureau of Prisons - NYM\nPage 2 of 6\nDOJ-OGR-00024127",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD\nDate of Birth: 01/20/1953\nEncounter Date: 07/06/2019 21:38\nSex: M\nProvider: [redacted] PA-C\nReg #: 76318-054\nRace: WHITE\nFacility: NYM",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Infectious Disease Risk Factors:\n- IV Drug Use: No\n- IV Drug Use Needles:\n- Sexual Partner IV Drug Use: No\n- Sexual Partner IV Drug Use Needles:\n- Female Sexual Partners (Last 5 Yrs): 10+\n- Male Sexual Partners (Last 5 Yrs): 0\n- Condom Use: Sometimes\n- Sexual Contact With HIV+ Individual: No\n- Blood Product Transfusion: No\n- Travel Outside US: Yes\n- Tattoos: No\n- Comments: Born in US\nHigh school diploma\nBanker\nTraveled to Paris x 3 weeks up until arrest\nNo tattoos",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "HIV History:\n- When Tested: 2019\n- Test Result: Negative\n- When Diagnosed AIDS:\n- Last CD4:\n- Comments:\n- Hepatitis: Denied\n- Other Infectious Diseases:\n  - Syphilis: No\n  - Syphilis Last Treatment: N/A\n  - Genital Warts: No\n  - Chlamydia: Yes\n  - Gonorrhea: No\n  - Herpes: No\n  - Chicken Pox: Yes\n  - Other: No\n  - Comments: Chlamydia in 2015, treated\nChicken pox in childhood\n- Abuse History: Denied\n  - Physical: No\n  - Emotional: No\n  - Sexual: No\n  - Comments: Denies",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/06/2019 21:56 by [redacted] PA-C\nBureau of Prisons - NYM\nPage 2 of 6\nDOJ-OGR-00024127",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "US",
+      "Paris",
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/06/2019",
+      "2015",
+      "2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024127"
+    ]
+  },
+  "additional_notes": "The document contains medical information about Jeffrey Edward Epstein, including his infectious disease risk factors, HIV history, and other health-related details. Some personal identifiers are redacted."
+}

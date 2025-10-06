@@ -1,0 +1,59 @@
+{
+  "document_metadata": {
+    "page_number": "3301",
+    "document_number": "DOJ-OGR-00026890",
+    "date": "7/23/19",
+    "document_type": "Suicide Watch Observation Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 3301\nEpstein Suicide Watch Observation Log\nName of Inmate on watch: Reg #: 76318-054 Date: 7/23/19\nTime Observations: Briefly note your observations. Initial all entries. Initials\n1:40 AM Inmate brought down to suicide cell #4 (b)(6); (b)(7)(C)\n1:45 AM Inmate lying on bed (b)(7)(A)\n2:00 AM Inmate sitting on bed talking\n2:15 AM\n2:30 AM Inmate sitting on bed trying to remember what happened\n2:45 AM Inmate sitting on bed\n3:00 AM Inmate sitting on bed\n3:15 AM Lt. (b)(6); (b)(7)(C) takes pictures of inmate\n3:30 AM Inmate sitting on bed\n3:45 AM Inmate sitting on bed\n4:00 AM Inmate sitting on bed\n4:15 AM Inmate sitting on bed\n4:30 AM Inmate standing at door talking\n4:45 AM Inmate standing at door talking\n5:00 AM Inmate sitting on bed\n5:15 AM Inmate standing at door\n5:30 AM Inmate standing at door\n5:45 AM Inmate standing at door *\n6:00 AM Inmate standing at door\n6:15 AM Inmate standing at door\n6:30 AM Inmate standing at door\n6:45 AM Inmate standing at door\n7:00 AM Inmate standing at door\nNote to all observers: Legibly print and sign your name at the beginning of your shift.\n1\nDOJ-OGR-00026890",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Suicide Watch Observation Log",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Name of Inmate on watch: Reg #: 76318-054 Date: 7/23/19",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Time Observations: Briefly note your observations. Initial all entries. Initials",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "1:40 AM Inmate brought down to suicide cell #4 (b)(6); (b)(7)(C)\n1:45 AM Inmate lying on bed (b)(7)(A)\n2:00 AM Inmate sitting on bed talking\n2:15 AM\n2:30 AM Inmate sitting on bed trying to remember what happened\n2:45 AM Inmate sitting on bed\n3:00 AM Inmate sitting on bed\n3:15 AM Lt. (b)(6); (b)(7)(C) takes pictures of inmate\n3:30 AM Inmate sitting on bed\n3:45 AM Inmate sitting on bed\n4:00 AM Inmate sitting on bed\n4:15 AM Inmate sitting on bed\n4:30 AM Inmate standing at door talking\n4:45 AM Inmate standing at door talking\n5:00 AM Inmate sitting on bed\n5:15 AM Inmate standing at door\n5:30 AM Inmate standing at door\n5:45 AM Inmate standing at door *\n6:00 AM Inmate standing at door\n6:15 AM Inmate standing at door\n6:30 AM Inmate standing at door\n6:45 AM Inmate standing at door\n7:00 AM Inmate standing at door",
+      "position": "main"
+    },
+    {
+      "type": "printed",
+      "content": "Note to all observers: Legibly print and sign your name at the beginning of your shift.",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein",
+      "Lt."
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/23/19"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026890"
+    ]
+  },
+  "additional_notes": "The document contains handwritten observations of an inmate on suicide watch. Some entries are redacted with codes such as (b)(6); (b)(7)(C) and (b)(7)(A)."
+}

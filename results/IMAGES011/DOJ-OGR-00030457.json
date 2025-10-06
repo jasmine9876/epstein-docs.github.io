@@ -1,0 +1,78 @@
+{
+  "document_metadata": {
+    "page_number": "104",
+    "document_number": "17-295",
+    "date": "2008 DEC 3",
+    "document_type": "Envelope",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "ATTERBURY GOLDBERGER WEISS, One Clearlake Centre, Suite 1400 250 Australian Avenue South West Palm Beach, FL 33401 2008 DEC 3 Lanna Belohlavek, Esquire State Attorney's Office 401 North Dixie Highway West Palm Beach, Florida 33401 33401 +4296 $0.410 $0 $0.410 $0.410 WEST PALM BEACH FL 33401 JAN 02 9 823979 POSTAGE $0.41 METER 07/26/17 Page 104 of 114 Public Records Request No.: 17-295 DOJ-OGR-00030457",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "ATTERBURY GOLDBERGER WEISS,",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "One Clearlake Centre, Suite 1400 250 Australian Avenue South West Palm Beach, FL 33401",
+      "position": "header"
+    },
+    {
+      "type": "stamp",
+      "content": "2008 DEC 3",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "Lanna Belohlavek, Esquire State Attorney's Office 401 North Dixie Highway West Palm Beach, Florida 33401",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "33401 +4296",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "WEST PALM BEACH FL 33401 JAN 02 9 823979 POSTAGE $0.41 METER",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 104 of 114 Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00030457",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Lanna Belohlavek"
+    ],
+    "organizations": [
+      "ATTERBURY GOLDBERGER WEISS",
+      "State Attorney's Office"
+    ],
+    "locations": [
+      "West Palm Beach",
+      "Florida"
+    ],
+    "dates": [
+      "2008 DEC 3",
+      "JAN 02 9",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00030457",
+      "33401",
+      "823979"
+    ]
+  },
+  "additional_notes": "The document is a scanned image of an envelope with a postage stamp and a printed address. The image quality is clear, and there are no visible redactions or damage."
+}

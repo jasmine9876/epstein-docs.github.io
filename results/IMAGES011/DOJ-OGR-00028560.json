@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "IO25",
+    "date": "04/28/2014",
+    "document_type": "Inspection Remarks",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07:52 IO25 INSPECTION REMARKS 04/28/2014 *B *A *C +-------------------------------- I NSPECTION R EMARKS -------------------------------+ PAGE 1 (b)(7)(E) NO DEROG INFO FOUND. ARRIVING FROM ST THOMAS. ADMITTED (b)(7)(E) 100% BAGGAGE EXAM WITH (b)(7)(E) (b)(7)(E) +---------------------------------------------------------------------------------------+ (b)(7)(E) (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) DOJ-OGR-00028560",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07:52 IO25 INSPECTION REMARKS 04/28/2014",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "+-------------------------------- I NSPECTION R EMARKS -------------------------------+ PAGE 1",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NO DEROG INFO FOUND. ARRIVING FROM ST THOMAS. ADMITTED 100% BAGGAGE EXAM WITH",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "+---------------------------------------------------------------------------------------+",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - *B - (b)(6), (b)(7)(C) *C -",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028560",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [
+      "ST THOMAS"
+    ],
+    "dates": [
+      "04/28/2014"
+    ],
+    "reference_numbers": [
+      "IO25",
+      "DOJ-OGR-00028560"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(7)(E), (b)(6), and (b)(7)(C). The document appears to be an inspection report with a timestamp and date."
+}

@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": "2885",
+    "document_number": "DOJ-OGR-00026541",
+    "date": "9/12/19",
+    "document_type": "Official Count Slip",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2885 Metropolitan Correctional Center Official Count Slip Unit: TNDVR Date 9/12/19 Count: (b)(7)(F) Print Name: (b)(6); (b)(7)(C) Signature: Print Name: Signature DOJ-OGR-00026541",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "TNDVR",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "9/12/19",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(F)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "D. Rios",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026541",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "D. Rios"
+    ],
+    "organizations": [
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [],
+    "dates": [
+      "9/12/19"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026541"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned image of an official count slip from the Metropolitan Correctional Center. The image is mostly clear, but there are some minor speckles and marks around the edges. Some text is redacted with '(b)(6); (b)(7)(C)' and '(b)(7)(F)'."
+}

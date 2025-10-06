@@ -1,0 +1,48 @@
+{
+  "document_metadata": {
+    "page_number": "9",
+    "document_number": "DOJ-OGR-00024141",
+    "date": "07/09/2019",
+    "document_type": "Medical Examination Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Inmate Name: EPSTEIN, JEFFREY EDWARD\nDate of Birth: 01/20/1953\nEncounter Date: 07/09/2019 12:35\nSex: M\nRace: WHITE\nReg #: 76318-054\nProvider: (b)(6), (b)(7)(C) MLP\nFacility: NYM\nUnit: H01\n\nMouth\nLesions: No\nOral/Buccal Mucosa: Yes\nGums Normal: Yes\nTonsils Present: Yes\nTonsils Normal: Yes\nPharynx: Normal Color\nTeeth Poor Dentition: No\nTeeth Count: Mostly Present\nDentures: No\nMouth Comments:\nCranial Nerves:\nIntact II-XII: Yes\nCranial Nerves Comments:\nNeck:\nFull ROM: Yes\nMasses/Nodes: No\nTrachea: Midline\nThyroid: Normal Size\nComments:\nBreasts:\nNormal: Yes\nMasses: No\nTenderness: No\nScars: No\nDimpling: No\nNipple Discharge: No\nNipple Retraction: No\nInstructions for Self Breast Exam Given: No\nComments:\n\nGenerated 07/09/2019 13:03 by (b)(6) MLP Bureau of Prisons - NYM Page 9 of 13 DOJ-OGR-00024141",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD\nDate of Birth: 01/20/1953\nEncounter Date: 07/09/2019 12:35\nSex: M\nRace: WHITE\nReg #: 76318-054\nProvider: (b)(6), (b)(7)(C) MLP\nFacility: NYM\nUnit: H01",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Mouth\nLesions: No\nOral/Buccal Mucosa: Yes\nGums Normal: Yes\nTonsils Present: Yes\nTonsils Normal: Yes\nPharynx: Normal Color\nTeeth Poor Dentition: No\nTeeth Count: Mostly Present\nDentures: No\nMouth Comments:\nCranial Nerves:\nIntact II-XII: Yes\nCranial Nerves Comments:\nNeck:\nFull ROM: Yes\nMasses/Nodes: No\nTrachea: Midline\nThyroid: Normal Size\nComments:\nBreasts:\nNormal: Yes\nMasses: No\nTenderness: No\nScars: No\nDimpling: No\nNipple Discharge: No\nNipple Retraction: No\nInstructions for Self Breast Exam Given: No\nComments:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/09/2019 13:03 by (b)(6) MLP Bureau of Prisons - NYM Page 9 of 13 DOJ-OGR-00024141",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/09/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024141"
+    ]
+  },
+  "additional_notes": "The document appears to be a medical examination report for Jeffrey Epstein, an inmate at NYM facility. The report includes various medical checks and observations. Some personal identifiable information is redacted."
+}

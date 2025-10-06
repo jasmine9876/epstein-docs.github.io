@@ -1,0 +1,69 @@
+{
+  "document_metadata": {
+    "page_number": "538",
+    "document_number": "DOJ-OGR-00024554",
+    "date": "08/19/2019",
+    "document_type": "Log Entries By Event Date",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date: 08/19/2019 Time: 10:15 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count - Summary Text: Completed - PREA. 7/22/2019 11:57 AM NYM Housing Units Housing Units, General Population BA 7/22/2019 11:00 AM Day (DRM) (RMHC1) Daily Activity - Feeding Started - Summary Text: Completed. rounds made all secured. 7/22/2019 11:08 AM NYM Housing Units Housing Units, General Population ES 7/22/2019 11:07 AM Day Rounds (Officer) 7/22/2019 11:11 AM NYM Housing Units Housing Units, General Population ES 7/22/2019 11:11 AM Day Daily Activity - Feeding Started - Summary Text: unit feeding begins 7/22/2019 11:57 AM NYM Housing Units Housing Units, General Population BA 7/22/2019 11:15 AM Day Change to Base Count Out (DRM) (RMHC1) (COUNT HEY) - Summary Text: Inmate: (DRM) (RMHC1) 7/22/2019 11:32 AM NYM Housing Units Housing Units, General Population ES 7/22/2019 11:32 AM Day Daily Activity - Feeding Completed - Summary Text: Feeding completed food cart off the unit. 7/22/2019 11:33 AM NYM Housing Units Housing Units, General Population ES 7/22/2019 11:33 AM Day Search (Areas) - Summary Text: Common Area: FOOD CART. area searched conducted no contraband found in these areas 7/22/2019 11:33 AM NYM Housing Units Housing Units, General Population ES 7/22/2019 11:33 AM Day Search (Areas) - Summary Text: Common Area: GYM AREA. area searched conducted no contraband found in these areas 7/22/2019 11:33 AM NYM Housing Units Housing Units, General Population ES 7/22/2019 11:33 AM Day Search (Areas) - Summary Text: Common Area: KITCHEN AREA. area searched conducted no contraband found in these areas 7/22/2019 11:33 AM NYM Housing Units Housing Units, General Population ES 7/22/2019 11:33 AM Day Search (Areas) - Summary Text: Common Area: LAUNDRY AREA. area searched conducted no contraband found in these areas 7/22/2019 11:33 AM NYM Housing Units Housing Units, General Population ES 7/22/2019 11:33 AM Day Search (Areas) - Summary Text: Common Area: MFA AREA. area searched conducted no contraband found in these areas User ID: (DRM) (RMHC1) Page 538 of 1155 DOJ-OGR-00024554",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date: 08/19/2019 Time: 10:15 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "7/22/2019 11:57 AM NYM Housing Units Housing Units, General Population BA 7/22/2019 11:00 AM Day (DRM) (RMHC1) Daily Activity - Feeding Started",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "(DRM) (RMHC1)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "User ID: (DRM) (RMHC1)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 538 of 1155 DOJ-OGR-00024554",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "DRM",
+      "RMHC1"
+    ],
+    "organizations": [
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [
+      "Housing Units",
+      "General Population",
+      "FOOD CART",
+      "GYM AREA",
+      "KITCHEN AREA",
+      "LAUNDRY AREA",
+      "MFA AREA"
+    ],
+    "dates": [
+      "08/19/2019",
+      "7/22/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00024554"
+    ]
+  },
+  "additional_notes": "The document appears to be a log entry report from the Federal Bureau of Prisons. It contains a table with various columns such as Entered Date, Alpha Code, Level 1 Location, Level 2 Location, Level 3 Location, Event Date, Shift, User, Event, and Base Count. The report includes handwritten text in some areas, indicating user IDs and other information. The document is page 538 of 1155."
+}

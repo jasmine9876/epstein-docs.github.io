@@ -1,0 +1,55 @@
+{
+  "document_metadata": {
+    "page_number": "1955",
+    "document_number": "DOJ-OGR-00027324",
+    "date": "2019/07/23",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Inmate Epstein #76318-054 (Suicide Watch)\nFrom b(6); (b)(7)(C)\nTo b(6); (b)(7)(C)\nb(6); (b)(7)(C)\nDate 2019/07/23 13:07\nSubject: Inmate Epstein #76318-054 (Suicide Watch)\nAttachments: TEXT.htm\nb(7)(A)\nPage 1955\nDOJ-OGR-00027324",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Inmate Epstein #76318-054 (Suicide Watch)\nFrom\nTo\nDate\nSubject:\nAttachments:",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "b(6); (b)(7)(C)\nb(6); (b)(7)(C)\nb(6); (b)(7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "2019/07/23 13:07\nInmate Epstein #76318-054 (Suicide Watch)\nTEXT.htm",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "b(7)(A)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 1955\nDOJ-OGR-00027324",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "2019/07/23"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00027324"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted email regarding Inmate Epstein, who was on suicide watch. The 'From' and 'To' fields are redacted, as well as a section of the body. The document is labeled with a page number and a reference number."
+}

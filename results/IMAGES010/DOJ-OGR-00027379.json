@@ -1,0 +1,48 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00027379",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "8.1.19 [b(6); (b)(7)(C) SRA was conducted— Court sent a form “suicidal tendencies”. Denied any suicidality; friends and lawyers supportive; Jewish—against his religion [b(7)(A) [b(7)(A) His cellmate is talkative but he will give it a chance. Noisy in SHU. He lives for fighting this case and going back to his normal life. 8.8.19 [b(6); (b)(7)(C) for a follow-up session to assess adjustment in SHU. No acute symptoms, distress or mental health concerns; denied suicidality, some concerns with sleep. Happy he received his PAC # to make phone calls and requested to speak with someone without it being on a speakerphone. Wanting his books he left in the suicide watch area. Interacting and getting along with his cellmate. Getting ready of this attorney visit. 8.10.19 – Found Unresponsive and Hanging in SHU at 6:30 a.m. (10 days after his removal from a constant observation)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "8.1.19 [b(6); (b)(7)(C) SRA was conducted— Court sent a form “suicidal tendencies”. Denied any suicidality; friends and lawyers supportive; Jewish—against his religion [b(7)(A) [b(7)(A) His cellmate is talkative but he will give it a chance. Noisy in SHU. He lives for fighting this case and going back to his normal life.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "8.8.19 [b(6); (b)(7)(C) for a follow-up session to assess adjustment in SHU. No acute symptoms, distress or mental health concerns; denied suicidality, some concerns with sleep. Happy he received his PAC # to make phone calls and requested to speak with someone without it being on a speakerphone. Wanting his books he left in the suicide watch area. Interacting and getting along with his cellmate. Getting ready of this attorney visit.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "8.10.19 – Found Unresponsive and Hanging in SHU at 6:30 a.m. (10 days after his removal from a constant observation)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027379",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "8.1.19",
+      "8.8.19",
+      "8.10.19"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00027379",
+      "PAC #"
+    ]
+  },
+  "additional_notes": "The document appears to be a record of mental health assessments and incidents involving an inmate. The text includes redacted information, indicated by [b(6); (b)(7)(C) and [b(7)(A), suggesting that the document has been processed for privacy or security reasons."
+}

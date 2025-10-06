@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": "2698",
+    "document_number": "NYMFC 530.03",
+    "date": "08-10-2019",
+    "document_type": "BUREAU OF PRISONS COUNT SHEET",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2698 NYMFC 530.03 * BUREAU OF PRISONS COUNT SHEET * 08-10-2019 PAGE 001 NEW YORK MCC * 01:20:48 QTRG EQ *** OCTG EQ **** OUT COUNT SECTION VERIFY COUNT COUNT AREA CENSUS COUNT AREA B-A (b)(7)(F) B-A C-A (b)(7)(F) C-A E-N . . . . 2 . . 2 E-N E-S . . . . . . . E-S G-N . . . . . . . G-N G-S . . . . . . . G-S H-A . . . . . . . H-A I-N . . . . . . . I-N K-N . . . . . . . K-N K-S . . . 2 . . 2 K-S R-A . . . . . . . R-A Z-A . . . . . . . Z-A Z-B . . . . . . . Z-B TOTAL 4 4 COUNT VERIFY OFFICIAL PREPARING COUNT: (b)(6), (b)(7)(C) OFFICIAL TAKING COUNT: COUNT CLEARED TIME: (b)(7)(F) glv DOJ-OGR-00026354",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "NYMFC 530.03 * BUREAU OF PRISONS COUNT SHEET * 08-10-2019 PAGE 001 NEW YORK MCC * 01:20:48 QTRG EQ *** OCTG EQ ****",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "COUNT AREA CENSUS OUT COUNT SECTION VERIFY COUNT COUNT AREA",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "B-A C-A E-N E-S G-N G-S H-A I-N K-N K-S R-A Z-A Z-B TOTAL",
+      "position": "left margin"
+    },
+    {
+      "type": "printed",
+      "content": "COUNT VERIFY OFFICIAL PREPARING COUNT: OFFICIAL TAKING COUNT: COUNT CLEARED TIME:",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "glv",
+      "position": "footer"
+    },
+    {
+      "type": "other",
+      "content": "(b)(7)(F)",
+      "position": "various"
+    },
+    {
+      "type": "other",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "BUREAU OF PRISONS",
+      "NEW YORK MCC"
+    ],
+    "locations": [
+      "NEW YORK"
+    ],
+    "dates": [
+      "08-10-2019"
+    ],
+    "reference_numbers": [
+      "NYMFC 530.03",
+      "DOJ-OGR-00026354"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(7)(F) and (b)(6), (b)(7)(C). The count sheet appears to be a record of a prison count, with various areas and totals listed. The document has a handwritten signature at the bottom."
+}

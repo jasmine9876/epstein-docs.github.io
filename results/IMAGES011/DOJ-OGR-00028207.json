@@ -1,0 +1,53 @@
+{
+  "document_metadata": {
+    "page_number": "0013",
+    "document_number": "DOJ-OGR-00028207",
+    "date": "04282014",
+    "document_type": "TECSII - PRIMARY QUERY HISTORY PASSENGER ACTIVITY",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 *B TECSII - PRIMARY QUERY HISTORY 04282014 *A PASSENGER ACTIVITY *C PAGE NO. 0013 NAME DOB DATE TIME AGN RSLT TYP REF LANE TERM/ API DIM EPSTEIN, JEFFREY A512-CBP-ST THOMAS, VI PRECL DOC: 112783574 012053 061108 1452 CUS *D AIR JK10 N N EPSTEIN, JEFFREY A512-CBP-ST THOMAS, VI PRECL DOC: 207320604 012053 062408 1645 CUS *F AIR JK42 N N EPSTEIN, JEFFREY A512-CBP-ST THOMAS, VI PRECL DOC: 207320604 012053 050808 0811 CUS *H AIR JK21 N N EPSTEIN, JEFFREY A512-CBP-ST THOMAS, VI PRECL DOC: 207320604 012053 051708 0815 CUS *J AIR JK39 N N EPSTEIN, JEFFREY A512-CBP-ST THOMAS, VI PRECL DOC: 207320604 012053 052708 0803 CUS *L AIR JK21 N N EPSTEIN, JEFFREY A512-CBP-ST THOMAS, VI PRECL DOC: 207320604 012053 040108 0959 CUS *N AIR JK09 N N (b)(7)(E) <...MORE...> (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(6), (b)(7)(C) *F - (b)(7)(E) *G - (b)(6), (b)(7)(C) *H - (b)(7)(E) *I - (b)(6), (b)(7)(C) *J - (b)(7)(E) *K - (b)(6), (b)(7)(C) *L - (b)(7)(E) *M - (b)(6), (b)(7)(C) *N - (b)(7)(E) *O - (b)(6), (b)(7)(C) DOJ-OGR-00028207",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "TECSII - PRIMARY QUERY HISTORY PASSENGER ACTIVITY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB DATE TIME AGN RSLT TYP REF LANE TERM/ API DIM",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key:",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN",
+      "THOMAS"
+    ],
+    "organizations": [
+      "CBP"
+    ],
+    "locations": [],
+    "dates": [
+      "04282014",
+      "061108",
+      "062408",
+      "050808",
+      "051708",
+      "052708",
+      "040108"
+    ],
+    "reference_numbers": [
+      "112783574",
+      "207320604",
+      "DOJ-OGR-00028207"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as (b)(7)(E), (b)(6), and (b)(7)(C). The document appears to be a query history for a passenger activity related to Jeffrey Epstein."
+}

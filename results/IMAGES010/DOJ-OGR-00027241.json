@@ -1,0 +1,42 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00027241",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Supervisory Deputy United States Marshal Southern District of New York [b](6); (b)(7)(C) DOJ-OGR-00027241",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Supervisory Deputy United States Marshal Southern District of New York",
+      "position": "top"
+    },
+    {
+      "type": "other",
+      "content": "[b](6); (b)(7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027241",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "United States Marshal"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00027241"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as [b](6); (b)(7)(C)."
+}

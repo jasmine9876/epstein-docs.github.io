@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "2439",
+    "document_number": null,
+    "date": "07/23/2019",
+    "document_type": "Bureau of Prisons Health Services Cosign/Review",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2439 Bureau of Prisons Health Services Cosign/Review Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Encounter Date: 07/23/2019 06:20 Sex: M Reg #: 76318-054 Provider: MLP Race: WHITE Facility: NYM Cosigned by MD on 07/23/2019 15:44. Bureau of Prisons - NYM DOJ-OGR-00026115",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Bureau of Prisons Health Services Cosign/Review",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Encounter Date: 07/23/2019 06:20 Sex: M Reg #: 76318-054 Provider: MLP Race: WHITE Facility: NYM",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Cosigned by MD on 07/23/2019 15:44.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Bureau of Prisons - NYM DOJ-OGR-00026115",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons",
+      "Department of Justice"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/23/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026115"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b)(6); (b)(7)(C)'. The document appears to be a medical record or health services document related to Jeffrey Epstein's incarceration."
+}

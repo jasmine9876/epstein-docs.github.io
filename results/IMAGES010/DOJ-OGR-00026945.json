@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": "3356",
+    "document_number": "NYMA3 530*05",
+    "date": "08-03-2019",
+    "document_type": "Inmate Roster",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 3356 NYMA3 530*05 * INMATE ROSTER * 08-03-2019 09:30:02 PAGE 001 OF 001 CATEGORY: OCT ASSIGNMENT: ATTY GROUP CODE: OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT FACILITY: NYM OPER CATG ASSIGNMENT NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK 0001 ATTY 76318-054 EPSTEIN 08-03-2019 Z04-206LAD UNASSSG 0002 (b)(6); (b)(7)(C) 08-03-2019 K12-069L UNASSSG G0000 TRANSACTION SUCCESSFULLY COMPLETED DOJ-OGR-00026945",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "NYMA3 530*05 * INMATE ROSTER * 08-03-2019 09:30:02",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE 001 OF 001 CATEGORY: OCT ASSIGNMENT: ATTY GROUP CODE: OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT FACILITY: NYM OPER CATG ASSIGNMENT",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "0001 ATTY 76318-054 EPSTEIN 08-03-2019 Z04-206LAD UNASSSG 0002 (b)(6); (b)(7)(C) 08-03-2019 K12-069L UNASSSG",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "G0000 TRANSACTION SUCCESSFULLY COMPLETED",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026945",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "08-03-2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "NYMA3 530*05",
+      "DOJ-OGR-00026945"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b)(6); (b)(7)(C)'. The document appears to be a printed report with no handwritten content or stamps."
+}

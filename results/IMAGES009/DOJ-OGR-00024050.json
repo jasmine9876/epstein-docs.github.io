@@ -1,0 +1,50 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024050",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "(b)(6); (b)(7)(C) 816 Fuderite (b)(6) (b)(6); (b)(7)(C) 76780854 A.G. 1:48 816 Soualles (b)(6); (b)(7)(C) Epstein 703456254 2,10 11:48 (b)(6); (b)(7)(C) Epstein (b)(6); (b)(7)(C)",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "816 Fuderite (b)(6) (b)(6); (b)(7)(C) 76780854 A.G. 1:48 816 Soualles (b)(6); (b)(7)(C) Epstein 703456254 2,10 11:48",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024050",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Fuderite",
+      "Soualles",
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "816",
+      "76780854",
+      "703456254",
+      "DOJ-OGR-00024050"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as '(b)(6); (b)(7)(C)'. The handwriting is present in the lower section of the image."
+}

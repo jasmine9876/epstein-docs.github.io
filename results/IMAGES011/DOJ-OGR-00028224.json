@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "0030",
+    "document_number": "04282014",
+    "date": null,
+    "document_type": "TECSII - PRIMARY QUERY HISTORY",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 TECSII - PRIMARY QUERY HISTORY 04282014 *A *B PASSENGER ACTIVITY *C PAGE NO. 0030 NAME DOB QUERY DATE TIME AGN RSLT LNE TYP REF LANE TERM/ API DIM EPSTEIN, JEFFREY E 012053 090913 0000 *D API R N UNKNOWN AIRPORT (USED ONLY W DOC: 469911707 US P INSP: APIS QRY EPSTEIN, JEFFREY E 012053 091013 0000 *E API R N UNKNOWN AIRPORT (USED ONLY W DOC: 469911707 US P INSP: APIS QRY EPSTEIN, JEFFREY E 012053 091913 0000 *F API R N LONG ISLAND MACARTHUR DOC: 469911707 US P INSP: APIS QRY EPSTEIN, JEFFREY E 012053 093013 0000 *G API R N ATATURK DOC: 469911707 US P INSP: APIS QRY EPSTEIN, JEFFREY E 012053 082313 0000 *H API R N UNKNOWN AIRPORT (USED ONLY W DOC: 469911707 US P INSP: APIS QRY EPSTEIN, JEFFREY E 012053 071713 0000 *I API R N UNKNOWN AIRPORT (USED ONLY W DOC: 469911707 (b)(7)(E) <...MORE...> (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(7)(E) *F - (b)(7)(E) *G - (b)(7)(E) *H - (b)(7)(E) *I - (b)(7)(E) DOJ-OGR-00028224",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "TECSII - PRIMARY QUERY HISTORY PASSENGER ACTIVITY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB QUERY DATE TIME AGN RSLT LNE TYP REF LANE TERM/ API DIM",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY E 012053 090913 0000 *D API R N UNKNOWN AIRPORT (USED ONLY W DOC: 469911707 US P INSP: APIS QRY",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(7)(E) *F - (b)(7)(E) *G - (b)(7)(E) *H - (b)(7)(E) *I - (b)(7)(E)",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY E EPSTEIN"
+    ],
+    "organizations": [
+      "APIS"
+    ],
+    "locations": [
+      "LONG ISLAND MACARTHUR",
+      "ATATURK",
+      "UNKNOWN AIRPORT"
+    ],
+    "dates": [
+      "090913",
+      "091013",
+      "091913",
+      "093013",
+      "082313",
+      "071713"
+    ],
+    "reference_numbers": [
+      "469911707",
+      "04282014",
+      "DOJ-OGR-00028224"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as (b)(7)(E) and (b)(6), (b)(7)(C). The document appears to be a query history for a passenger activity related to Jeffrey Epstein."
+}

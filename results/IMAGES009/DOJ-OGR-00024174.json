@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "DOJ-OGR-00024174",
+    "date": "07/09/2019",
+    "document_type": "Medical Record",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Federal Bureau of Prisons U.S. Medical Center for Federal Prisons 1900 W. Sunshine Street Springfield, MO 65807 417-874-1621 *** Sensitive But Unclassified *** Name EPSTEIN, JEFFREY Reg # 76318-054 DOB 01/20/1953 Sex M Facility MCC New York Order Unit E06-547U Provider (b)(6), (b)(7)(C) MD Collected 07/09/2019 13:34 Received 07/10/2019 10:44 Reported 07/10/2019 14:46 LIS ID 188191004 HIV 1/2 HIV Screening test - See confirmatory testing for Reactive results Negative Negative FLAG LEGEND L=Low L!=Low Critical H=High H!=High Critical A=Abnormal A! =Abnormal Critical Page 3 of 3 DOJ-OGR-00024174",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Federal Bureau of Prisons U.S. Medical Center for Federal Prisons 1900 W. Sunshine Street Springfield, MO 65807 417-874-1621",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "*** Sensitive But Unclassified ***",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Name EPSTEIN, JEFFREY Reg # 76318-054 DOB 01/20/1953 Sex M Facility MCC New York Order Unit E06-547U Provider (b)(6), (b)(7)(C) MD Collected 07/09/2019 13:34 Received 07/10/2019 10:44 Reported 07/10/2019 14:46 LIS ID 188191004",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "HIV 1/2 HIV Screening test - See confirmatory testing for Reactive results Negative Negative",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FLAG LEGEND L=Low L!=Low Critical H=High H!=High Critical A=Abnormal A! =Abnormal Critical",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 3 of 3",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024174",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "Federal Bureau of Prisons",
+      "U.S. Medical Center for Federal Prisons",
+      "MCC New York"
+    ],
+    "locations": [
+      "Springfield, MO",
+      "New York"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/09/2019",
+      "07/10/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "E06-547U",
+      "188191004",
+      "DOJ-OGR-00024174"
+    ]
+  },
+  "additional_notes": "The document appears to be a medical record from the U.S. Medical Center for Federal Prisons. The patient's name is JEFFREY EPSTEIN, and the document contains his HIV test results. The provider's name is redacted."
+}

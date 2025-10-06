@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": "15",
+    "document_number": "DOJ-OGR-00022300",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Caprice Caruth, Sophie Castaneda Debbie Cecil, Dr. Mark Carello Sara Massimo Carvalho, Michel & Charlene Cator, Alby and Victoria Caray, William & Carina Casagrande, Guido Cecil Mark & Mini Cerina, Fabrizio Carlbom Camila Case Simon Cecil Mark & Mini Cecil Stephenson, Aurelia Carrera, Barbara Case, George & Pauline Carutti Gian Carlo",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Caprice Caruth, Sophie Castaneda Debbie Cecil, Dr. Mark Carello Sara Massimo Carvalho, Michel & Charlene Cator, Alby and Victoria Caray, William & Carina Casagrande, Guido Cecil Mark & Mini Cerina, Fabrizio Carlbom Camila Case Simon Cecil Mark & Mini Cecil Stephenson, Aurelia Carrera, Barbara Case, George & Pauline Carutti Gian Carlo",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022300",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Caprice",
+      "Caruth, Sophie",
+      "Castaneda Debbie",
+      "Cecil, Dr. Mark",
+      "Carello Sara Massimo",
+      "Carvalho, Michel & Charlene",
+      "Cator, Alby and Victoria",
+      "Caray, William & Carina",
+      "Casagrande, Guido",
+      "Cecil Mark & Mini",
+      "Cerina, Fabrizio",
+      "Carlbom Camila",
+      "Case Simon",
+      "Cecil Mark & Mini",
+      "Cecil Stephenson, Aurelia",
+      "Carrera, Barbara",
+      "Case, George & Pauline",
+      "Carutti Gian Carlo"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022300"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 15, and the document number is DOJ-OGR-00022300."
+}

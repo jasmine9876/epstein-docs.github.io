@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "81",
+    "document_number": "DOJ-OGR-00024541",
+    "date": "08/19/2019",
+    "document_type": "Log Entries By Event Date",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Date: 08/19/2019 Time: 10:32 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count 7/23/2019 8:04 AM NYM Housing Units Housing Units, Secured 10 SOUTH UPPER 7/23/2019 8:04 AM Day Search (Areas) 7/23/2019 8:04 AM NYM Housing Units Housing Units, Secured 10 SOUTH UPPER 7/23/2019 8:04 AM Day Sensitive Information 7/23/2019 8:04 AM NYM Housing Units Housing Units, Secured 10 SOUTH UPPER 7/23/2019 8:04 AM Day Search (Cells) 7/23/2019 11:36 AM NYM Housing Units Housing Units, Secured 10 SOUTH UPPER 7/23/2019 11:36 AM Day Rounds (Lieutenant) 7/23/2019 2:22 PM NYM Housing Units Housing Units, Secured 10 SOUTH UPPER 7/23/2019 12:30 PM Day Census (PM) 7/23/2019 4:05 PM NYM Housing Units Housing Units, Secured 10 SOUTH UPPER 7/23/2019 4:00 PM Evening Begin Shift 7/23/2019 4:05 PM NYM Housing Units Housing Units, Secured 10 SOUTH UPPER 7/23/2019 4:05 PM Evening Rounds (Officer) 7/23/2019 4:12 PM NYM Housing Units Housing Units, Secured 10 SOUTH UPPER 7/23/2019 4:12 PM Evening Bed Book Check 7/23/2019 4:22 PM NYM Housing Units Housing Units, Secured 10 SOUTH UPPER 7/23/2019 4:21 PM Evening WVAF 7/23/2019 4:22 PM NYM Housing Units Housing Units, Secured 10 SOUTH UPPER 7/23/2019 4:21 PM Evening Fire Alarm Panel Check 7/23/2019 4:22 PM NYM Housing Units Housing Units, Secured 10 SOUTH UPPER 7/23/2019 4:21 PM Evening Inventory Sheet Verified 7/23/2019 4:22 PM NYM Housing Units Housing Units, Secured 10 SOUTH UPPER 7/23/2019 4:21 PM Evening Key Check User ID: Page 81 of 183 DOJ-OGR-00024541",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date: 08/19/2019 Time: 10:32 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "7/23/2019 8:04 AM NYM Housing Units Housing Units, Secured 10 SOUTH UPPER 7/23/2019 8:04 AM Day Search (Areas)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "User ID:",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 81 of 183",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024541",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [
+      "10 SOUTH UPPER"
+    ],
+    "dates": [
+      "08/19/2019",
+      "7/23/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00024541"
+    ]
+  },
+  "additional_notes": "The document appears to be a log entry report from the Federal Bureau of Prisons, detailing various events and activities at a correctional facility on July 23, 2019. The report includes information on the date, time, location, and type of event, as well as the user who recorded the event. Some of the events are highlighted in green, possibly indicating sensitive or important information. The document is labeled as 'Sensitive But Unclassified'."
+}

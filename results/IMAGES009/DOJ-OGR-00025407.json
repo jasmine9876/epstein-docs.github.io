@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": "1202",
+    "document_number": "DOJ-OGR-00025407",
+    "date": "07.23.19",
+    "document_type": "Suicide Watch Observation Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Suicide Watch Observation Log\nName of Inmate on watch: Epstein Reg #: 76318-059 Date: 07.23.19\nTime Observations: Briefly note your observations. Initial all entries. Initials\n8:37am Inmate Epstein is pajama'd (b)(6); (b)(7)(C)\n8:45am Inmate Epstein is sitting at the edge of his bunk motionless\n* 8:59am Inmate Epstein says he feels his therapist won't let him drink water\n9:00am Inmate Epstein is pajama'd looking out the window (b)(6); (b)(7)(C)\n9:10am is still speaking with\n9:15am (b)(6); (b)(7)(C)\n9:30am Inmate Epstein is sitting on the edge of his bed\n9:29am Inmate Epstein asked for the time\n9:45am Inmate Epstein is sitting on the edge of his bed\n10:00 Inmate Epstein asked to speak with his attorney Inmate Epstein is using the bathroom\n10:15am Inmate Epstein is speaking with the Officer about his attorney\n10:16am Inmate Epstein mentioned to b=me that (b)(6); (b)(7)(C) said his attorney is not here yet\n* 10:20am Inmate Epstein is drinking water\nNote to all observers: Legibly print and sign your name at the beginning of your shift.",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Suicide Watch Observation Log",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Name of Inmate on watch: Reg #: 76318-059 Date: 07.23.19",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Time Observations: Briefly note your observations. Initial all entries. Initials",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "8:37am Inmate Epstein is pajama'd (b)(6); (b)(7)(C)\n8:45am Inmate Epstein is sitting at the edge of his bunk motionless\n* 8:59am Inmate Epstein says he feels his therapist won't let him drink water\n9:00am Inmate Epstein is pajama'd looking out the window (b)(6); (b)(7)(C)\n9:10am is still speaking with\n9:15am (b)(6); (b)(7)(C)\n9:30am Inmate Epstein is sitting on the edge of his bed\n9:29am Inmate Epstein asked for the time\n9:45am Inmate Epstein is sitting on the edge of his bed\n10:00 Inmate Epstein asked to speak with his attorney Inmate Epstein is using the bathroom\n10:15am Inmate Epstein is speaking with the Officer about his attorney\n10:16am Inmate Epstein mentioned to b=me that (b)(6); (b)(7)(C) said his attorney is not here yet\n* 10:20am Inmate Epstein is drinking water",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Note to all observers: Legibly print and sign your name at the beginning of your shift.",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "07.23.19"
+    ],
+    "reference_numbers": [
+      "76318-059",
+      "DOJ-OGR-00025407"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned copy of a handwritten log. The handwriting is mostly legible, but some parts are difficult to read. There are several instances of redaction, marked as (b)(6); (b)(7)(C)."
+}

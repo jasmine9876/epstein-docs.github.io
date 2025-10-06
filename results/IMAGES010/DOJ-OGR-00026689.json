@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": "3049",
+    "document_number": "BP-A0971",
+    "date": "AUG 11",
+    "document_type": "CHAIN OF CUSTODY LOG CDFRM",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 3049\nBP-A0971\nAUG 11\nU.S. DEPARTMENT OF JUSTICE\nFEDERAL BUREAU OF PRISONS\nCHAIN OF CUSTODY LOG CDFRM\nECN #\nITEM #\n(Enclose with/attach to evidence)\nCASE ID NUMBER:\nSUSPECT (If known)\nDESCRIPTION OF ITEM: Control Center 30 day file\nDATE/TIME ITEM FOUND:\nLOCATION:\nSIGNATURE OF PERSON RECOVERING EVIDENCE:\nPRINTED NAME:\nEVIDENCE PLACED IN OVERNIGHT DROP BOX:\nDROP-BOX BY:(printed name)\nDate & Time:\nWitness:(printed name)\nEVIDENCE RECOVERED FROM OVERNIGHT DROP BOX BY:\n(printed name)\nDate & Time:\nWitness:(printed name)\nEVIDENCE PLACED EVIDENCE SAFE BY:\n(printed name)\nDate & Time:\nWitness:(printed name)\nDISPOSITION:\n( ) Hold as evidence\n( ) Return to owner\n( ) Lab Analysis\n( ) Return to finder\n( ) Destroy immediately\n( ) FBI\n( ) Other\nREMARKS (condition of evidence):\n************************************ CHAIN OF CUSTODY ************************************\nEVIDENCE RELEASED BY:\nSIS E\n(b)(6); (b)(7)(C)\nDATE/TIME:\n8/26/19\nDESTINATION:\n(b)(6); (b)(7)(C)\nSIS E\nEVIDENCE RELEASED TO:\n(b)(6); (b)(7)(C)\nPDF\nPrescribed by P5510\nDOJ-OGR-00026689",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3049\nBP-A0971\nAUG 11\nU.S. DEPARTMENT OF JUSTICE\nFEDERAL BUREAU OF PRISONS\nCHAIN OF CUSTODY LOG CDFRM",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "ECN #\nITEM #\n(Enclose with/attach to evidence)\nCASE ID NUMBER:\nSUSPECT (If known)\nDESCRIPTION OF ITEM:\nDATE/TIME ITEM FOUND:\nLOCATION:\nSIGNATURE OF PERSON RECOVERING EVIDENCE:\nPRINTED NAME:\nEVIDENCE PLACED IN OVERNIGHT DROP BOX:\nDROP-BOX BY:(printed name)\nDate & Time:\nWitness:(printed name)\nEVIDENCE RECOVERED FROM OVERNIGHT DROP BOX BY:\n(printed name)\nDate & Time:\nWitness:(printed name)\nEVIDENCE PLACED EVIDENCE SAFE BY:\n(printed name)\nDate & Time:\nWitness:(printed name)\nDISPOSITION:\n( ) Hold as evidence\n( ) Return to owner\n( ) Lab Analysis\n( ) Return to finder\n( ) Destroy immediately\n( ) FBI\n( ) Other\nREMARKS (condition of evidence):",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Control Center 30 day file",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "SIS E\n8/26/19\nSIS E",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "************************************ CHAIN OF CUSTODY ************************************\nEVIDENCE RELEASED BY:\nDATE/TIME:\nDESTINATION:\nEVIDENCE RELEASED TO:",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "PDF\nPrescribed by P5510\nDOJ-OGR-00026689",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "SIS E"
+    ],
+    "organizations": [
+      "U.S. DEPARTMENT OF JUSTICE",
+      "FEDERAL BUREAU OF PRISONS",
+      "FBI"
+    ],
+    "locations": [],
+    "dates": [
+      "AUG 11",
+      "8/26/19"
+    ],
+    "reference_numbers": [
+      "BP-A0971",
+      "DOJ-OGR-00026689",
+      "P5510"
+    ]
+  },
+  "additional_notes": "The document is a Chain of Custody Log from the Federal Bureau of Prisons, U.S. Department of Justice. It contains handwritten entries and redactions."
+}

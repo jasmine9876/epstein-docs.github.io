@@ -1,0 +1,69 @@
+{
+  "document_metadata": {
+    "page_number": "23",
+    "document_number": "DOJ-OGR-00022308",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Evans Chris Evehart Angie Faber David Faber Sally & Brook Johnson Faibairn, Charlotte & Hamish Fraser Fairfax, The Hon Rupert Fairweather Natasha Fairweather, Ms Catherine Fairweather,Ambassador & Lady Patrick & Ma Fairweather,Armad & Jasmine Fakhre, Danny & Christine Falletans, Olivier de Fall, Meredith Fallah, Mrs Fallah, Ms Christina &Jon Robe Faulkner, Terence & Cornelia Feeley, Fiona Fekkai, Frederic",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Evans Chris\nEvehart Angie\nFaber David\nFaber Sally & Brook Johnson\nFaibairn, Charlotte & Hamish Fraser\nFairfax, The Hon Rupert\nFairweather Natasha\nFairweather, Ms Catherine\nFairweather,Ambassador & Lady Patrick & Ma\nFakhre, Armado & Jasmine\nFakhre, Danny & Christine\nFalletans, Olivier de\nFall, Meredith\nFallah, Mrs\nFallah, Ms Christina &Jon Robe\nFaulkner, Terence & Cornelia\nFeeley, Fiona\nFekkai, Frederic",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "23",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022308",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Evans Chris",
+      "Evehart Angie",
+      "Faber David",
+      "Faber Sally",
+      "Brook Johnson",
+      "Faibairn, Charlotte",
+      "Hamish Fraser",
+      "Fairfax, The Hon Rupert",
+      "Fairweather Natasha",
+      "Fairweather, Ms Catherine",
+      "Fairweather,Ambassador",
+      "Lady Patrick",
+      "Ma",
+      "Fakhre, Armado",
+      "Fakhre, Danny",
+      "Christine",
+      "Falletans, Olivier de",
+      "Fall, Meredith",
+      "Fallah, Mrs",
+      "Fallah, Ms Christina",
+      "Jon Robe",
+      "Faulkner, Terence",
+      "Cornelia",
+      "Feeley, Fiona",
+      "Fekkai, Frederic"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022308"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 23, and the document number is DOJ-OGR-00022308."
+}

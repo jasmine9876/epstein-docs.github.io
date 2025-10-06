@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "6",
+    "document_number": "DOJ-OGR-00022291",
+    "date": "2004-2005",
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information P.B., 2004-2005 Abby Abousleiman, Joanna Aldridge Saffron Adam, Nick Alexander Pam Agag Alejandro Algranti Giacomo Agnew, Marie Claire & John Allan Paul Alal Azzedine Allan, Nick & Sarah Albermarle, Rufus & Sally Althorp, Charlie DOJ-OGR-00022291",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "P.B., 2004-2005",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Abby\nAbousleiman, Joanna\nAldridge Saffron\nAdam, Nick\nAlexander Pam\nAgag Alejandro\nAlgranti Giacomo\nAgnew, Marie Claire & John\nAllan Paul\nAlal Azzedine\nAllan, Nick & Sarah\nAlbermarle, Rufus & Sally\nAlthorp, Charlie",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022291",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Abby",
+      "Abousleiman, Joanna",
+      "Aldridge Saffron",
+      "Adam, Nick",
+      "Alexander Pam",
+      "Agag Alejandro",
+      "Algranti Giacomo",
+      "Agnew, Marie Claire & John",
+      "Allan Paul",
+      "Alal Azzedine",
+      "Allan, Nick & Sarah",
+      "Albermarle, Rufus & Sally",
+      "Althorp, Charlie",
+      "P.B."
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "2004-2005"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00022291"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 6, and the document number is DOJ-OGR-00022291."
+}

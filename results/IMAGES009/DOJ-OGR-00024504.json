@@ -1,0 +1,38 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Inmate Visit Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE NAME Signature Inmate ID# Time In Time Out 8/5 J. Epstein 76318-054 2:40 6:35 8/5 Epstein 76318-054 3:00 6:30 8/5 Epstein 76318-054 3:00 6:20 8/5 Epstein 76318-054 3:00 6:20",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE NAME Signature Inmate ID# Time In Time Out",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/5 J. Epstein 76318-054 2:40 6:35 8/5 Epstein 76318-054 3:00 6:30 8/5 Epstein 76318-054 3:00 6:20 8/5 Epstein 76318-054 3:00 6:20",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [
+      "J. Epstein",
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "8/5"
+    ],
+    "reference_numbers": [
+      "76318-054"
+    ]
+  },
+  "additional_notes": "The document appears to be a log of visits to an inmate, with multiple entries for the same inmate on the same date. The inmate's name is J. Epstein, and their ID number is 76318-054. The log records the time in and time out for each visit."
+}

@@ -1,0 +1,78 @@
+{
+  "document_metadata": {
+    "page_number": "88",
+    "document_number": "DOJ-OGR-00022373",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information KENYA (K) Muthaiga Club KINNERTON Airport Transfers Charlie Chelsea Police Station Coples, Alan Drivers Entwistle Isl Hair Assocs Harrods Limited Harvey Nichols Holland & Holland Jackson Stons John Higgs Ltd La Famiglia Martin Tim/Debbie Stewart Martine Massage - UK (a) Minicabs Nags Head Kevin & Valerie O'Neil Nessa Oping Outred, Anthony Police 24 hours Maxwell, Ghislaine Range Rover Ray John",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "KENYA (K) Muthaiga Club KINNERTON Airport Transfers Charlie Chelsea Police Station Coples, Alan Drivers Entwistle Isl Hair Assocs Harrods Limited Harvey Nichols Holland & Holland Jackson Stons John Higgs Ltd La Famiglia Martin Tim/Debbie Stewart Martine Massage - UK (a) Minicabs Nags Head Kevin & Valerie O'Neil Nessa Oping Outred, Anthony Police 24 hours Maxwell, Ghislaine Range Rover Ray John",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "88",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022373",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Martin Tim",
+      "Debbie Stewart",
+      "Martine",
+      "Kevin",
+      "Valerie",
+      "O'Neil Nessa",
+      "Oping",
+      "Outred, Anthony",
+      "Maxwell, Ghislaine",
+      "Ray John",
+      "Charlie",
+      "Coples, Alan"
+    ],
+    "organizations": [
+      "Muthaiga Club",
+      "Airport Transfers",
+      "Chelsea Police Station",
+      "Drivers",
+      "Entwistle Isl",
+      "Hair Assocs",
+      "Harrods Limited",
+      "Harvey Nichols",
+      "Holland & Holland",
+      "Jackson Stons",
+      "John Higgs Ltd",
+      "La Famiglia",
+      "Massage - UK",
+      "Minicabs",
+      "Nags Head",
+      "Police 24 hours",
+      "Range Rover"
+    ],
+    "locations": [
+      "Kenya",
+      "Kinnerton",
+      "UK"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022373"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 88, and the document number is DOJ-OGR-00022373."
+}

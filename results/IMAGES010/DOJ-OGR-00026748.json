@@ -1,0 +1,78 @@
+{
+  "document_metadata": {
+    "page_number": "3108",
+    "document_number": "DOJ-OGR-00026748",
+    "date": "08/15/2019",
+    "document_type": "Log Entries By Location",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 3108 Date: 08/15/2019 Time: 05:59 PM Federal Bureau of Prisons TRUINTEL Log Entries By Location Sensitive But Unclassified Event Date Entered Date Shift User Event Base Count 8/10/2019 1:57 PM 8/10/2019 1:57 PM Day b(6); b(7)(C) Rounds (Officer) 8/10/2019 2:15 PM 8/10/2019 2:47 PM Day b(6); b(7)(C) Rounds (Officer) 8/10/2019 2:47 PM 8/10/2019 2:47 PM Day b(6); b(7)(C) Rounds (Officer) 8/10/2019 3:22 PM 8/10/2019 3:22 PM Day b(6); b(7)(C) Rounds (Officer) 8/10/2019 3:47 PM 8/10/2019 4:00 PM Day b(6); b(7)(C) Rounds (Officer) User ID: b(6); b(7)(C) Page 3 of 3 DOJ-OGR-00026748",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3108",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Date: 08/15/2019 Time: 05:59 PM Federal Bureau of Prisons TRUINTEL Log Entries By Location Sensitive But Unclassified",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Event Date Entered Date Shift User Event Base Count",
+      "position": "table_header"
+    },
+    {
+      "type": "printed",
+      "content": "8/10/2019 1:57 PM 8/10/2019 1:57 PM Day b(6); b(7)(C) Rounds (Officer)",
+      "position": "table_row"
+    },
+    {
+      "type": "printed",
+      "content": "8/10/2019 2:15 PM 8/10/2019 2:47 PM Day b(6); b(7)(C) Rounds (Officer)",
+      "position": "table_row"
+    },
+    {
+      "type": "printed",
+      "content": "8/10/2019 2:47 PM 8/10/2019 2:47 PM Day b(6); b(7)(C) Rounds (Officer)",
+      "position": "table_row"
+    },
+    {
+      "type": "printed",
+      "content": "8/10/2019 3:22 PM 8/10/2019 3:22 PM Day b(6); b(7)(C) Rounds (Officer)",
+      "position": "table_row"
+    },
+    {
+      "type": "printed",
+      "content": "8/10/2019 3:47 PM 8/10/2019 4:00 PM Day b(6); b(7)(C) Rounds (Officer)",
+      "position": "table_row"
+    },
+    {
+      "type": "printed",
+      "content": "User ID: b(6); b(7)(C)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 3 of 3 DOJ-OGR-00026748",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [],
+    "dates": [
+      "08/15/2019",
+      "8/10/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026748"
+    ]
+  },
+  "additional_notes": "The document appears to be a log entry report from the Federal Bureau of Prisons, with redacted user information."
+}

@@ -1,0 +1,101 @@
+{
+  "document_metadata": {
+    "page_number": "561",
+    "document_number": "DOJ-OGR-00024577",
+    "date": "08/19/2019",
+    "document_type": "Log Entries By Event Date",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Date: 08/19/2019 Time: 10:15 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count 7/23/2019 5:39 PM NYM Housing Units Housing Units, General Population GN 7/23/2019 5:39 PM Evening D1(6) Watch Call 7/23/2019 5:40 PM NYM Housing Units Housing Units, General Population BA 7/23/2019 5:40 PM Evening D1(7) Base Count Verified 677 7/23/2019 5:40 PM NYM Housing Units Housing Units, General Population BA 7/23/2019 5:40 PM Evening Bed Book Check 7/23/2019 5:40 PM NYM Housing Units Housing Units, General Population BA 7/23/2019 5:40 PM Evening Fire and Security Check 7/23/2019 5:41 PM NYM Housing Units Housing Units, General Population BA 7/23/2019 5:40 PM Evening D1(7)F1 Key Check 7/23/2019 5:41 PM NYM Housing Units Housing Units, General Population BA 7/23/2019 5:40 PM Evening Fire Alarm Panel Check 7/23/2019 5:41 PM NYM Housing Units Housing Units, General Population BA 7/23/2019 5:40 PM Evening Inventory Sheet Verified 7/23/2019 5:41 PM NYM Housing Units Housing Units, General Population BA 7/23/2019 5:40 PM Evening Key Check 7/23/2019 5:41 PM NYM Housing Units Housing Units, General Population BA 7/23/2019 5:40 PM Evening Key Check 7/23/2019 5:41 PM NYM Housing Units Housing Units, General Population BA 7/23/2019 5:40 PM Evening OC Spray Check User ID: D1(6)D7(HC1) Page 561 of 1155 DOJ-OGR-00024577",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date: 08/19/2019 Time: 10:15 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "7/23/2019 5:39 PM NYM Housing Units Housing Units, General Population GN 7/23/2019 5:39 PM Evening D1(6) Watch Call",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "7/23/2019 5:40 PM NYM Housing Units Housing Units, General Population BA 7/23/2019 5:40 PM Evening D1(7) Base Count Verified 677",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "7/23/2019 5:40 PM NYM Housing Units Housing Units, General Population BA 7/23/2019 5:40 PM Evening Bed Book Check",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "7/23/2019 5:40 PM NYM Housing Units Housing Units, General Population BA 7/23/2019 5:40 PM Evening Fire and Security Check",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "7/23/2019 5:41 PM NYM Housing Units Housing Units, General Population BA 7/23/2019 5:40 PM Evening D1(7)F1 Key Check",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "7/23/2019 5:41 PM NYM Housing Units Housing Units, General Population BA 7/23/2019 5:40 PM Evening Fire Alarm Panel Check",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "7/23/2019 5:41 PM NYM Housing Units Housing Units, General Population BA 7/23/2019 5:40 PM Evening Inventory Sheet Verified",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "7/23/2019 5:41 PM NYM Housing Units Housing Units, General Population BA 7/23/2019 5:40 PM Evening Key Check",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "7/23/2019 5:41 PM NYM Housing Units Housing Units, General Population BA 7/23/2019 5:40 PM Evening Key Check",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "7/23/2019 5:41 PM NYM Housing Units Housing Units, General Population BA 7/23/2019 5:40 PM Evening OC Spray Check",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "D1(6)D7(HC1)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 561 of 1155 DOJ-OGR-00024577",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [
+      "Housing Units",
+      "Housing Units, General Population"
+    ],
+    "dates": [
+      "08/19/2019",
+      "7/23/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00024577"
+    ]
+  },
+  "additional_notes": "The document appears to be a log entry report from the Federal Bureau of Prisons, detailing various events and checks performed on July 23, 2019. The report includes information on the date, time, location, and user ID associated with each event."
+}

@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "042814",
+    "date": null,
+    "document_type": "PQH API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 *B PQH API/HIT DATA 042814 *A *C NAME EPSTEIN, JEFFREY 4701- DOB 012053 ----- QUERY ----- LNE TERM/ DATE TIME AGN RSLT TYP REF LANE API 062300 0000 CUS *D API 01 R API DATA ---- INDICATOR : R CARRIER CODE : BA FLT/VES NUMBER : 1 ARRIVAL LOCATION : JFK DEPARTURE LOCATION : LHR TRANSMITTED BY : RTZ INBOUND/OUTBOUND : INBOUND REPORTED BRITISH AIRWAYS P.L.C. JOHN F KENNEDY INTL LONDON / HEATHROW INTL BRITISH AIRWAYS (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) (b)(7)(E) DOJ-OGR-00028401",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07 *B PQH API/HIT DATA 042814 *A *C",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME EPSTEIN, JEFFREY 4701- DOB 012053 ----- QUERY ----- LNE TERM/ DATE TIME AGN RSLT TYP REF LANE API 062300 0000 CUS *D API 01 R",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "API DATA ---- INDICATOR : R CARRIER CODE : BA FLT/VES NUMBER : 1 ARRIVAL LOCATION : JFK DEPARTURE LOCATION : LHR TRANSMITTED BY : RTZ INBOUND/OUTBOUND : INBOUND",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "REPORTED BRITISH AIRWAYS P.L.C. JOHN F KENNEDY INTL LONDON / HEATHROW INTL BRITISH AIRWAYS",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028401",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "BRITISH AIRWAYS P.L.C.",
+      "BRITISH AIRWAYS"
+    ],
+    "locations": [
+      "JOHN F KENNEDY INTL",
+      "LONDON / HEATHROW INTL"
+    ],
+    "dates": [
+      "062300"
+    ],
+    "reference_numbers": [
+      "4701-",
+      "012053",
+      "042814",
+      "DOJ-OGR-00028401"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b)(7)(E)' and '(b)(6), (b)(7)(C)'. The document appears to be a data report related to an individual, JEFFREY EPSTEIN, and his travel information."
+}

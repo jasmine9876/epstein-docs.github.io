@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "2805",
+    "document_number": null,
+    "date": "08/03/2019",
+    "document_type": "30 MINUTE CHECK SHEET",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "Page 2805 MCC NEW YORK SPECIAL HOUSING UNIT 30 MINUTE CHECK SHEET ZA TIER-H DATE: 08/03/2019 TIME FRAME TIME START TIME END SIGNATURE TIME FRAME TIME START TIME END SIGNATURE TIME FRAME TIME START TIME END SIGNATURE 12:00-12:30 AM 1222 1224 (b)(6); (b)(7)(C) 8:00-8:30 AM 812 813 (b)(6); (b)(7)(C) 4:00-4:30 PM 401 403 (b)(6); (b)(7)(C) 12:30- 1:00 AM 1241 1243 8:30- 9:00 AM 844 845 4:30-5:00 PM 431 435 1:00-1:30 AM 114 116 9:00-9:30 AM 914 915 5:00 -5:30 PM 541 515 1:30-2:00 AM 143 145 9:30-10:00 AM 946 947 5:30-6:00 PM 5968 517 2:00-2:30 AM 213 225 10:00-10:30 AM 1016 1017 6:00-6:30 PM 616 618 2:30-3:00 AM 242 244 10:30-11:00 AM 1050 1051 6:30-7:00 PM 1050 1061 3:00-3:30 AM B11 313 11:00-11:30 AM 1130 1131 7:00-7:30 PM 720 721 3:30-4:00 AM 343 345 11:30-12:00 AM 11 1153 7:30-8:00 PM 752 753 4:00-4:30 AM 412 414 12:00-12:30 PM 12 1223 8:00-8:30 PM 822 823 4:30-5:00 AM 441 443 12:30- 1:00 PM 1254 1255 8:30- 9:00 PM 850 855 5:00 -5:30 AM 512 514 1:00-1:30 PM 124 125 9:00-9:30 PM 924 929 5:30-6:00 AM 541 543 1:30-2:00 PM 156 157 9:30-10:00 PM 955 1000 6:00-6:30 AM 611 613 2:00-2:30 PM 204 205 10:00-10:30 PM 1004 1006 6:30-7:00 AM 643 645 2:30-3:00 PM 236 237 10:30-11:00 PM 1120 1122 7:00-7:30 AM 712 714 3:00-3:30 PM 320 322 11:00-11:30 PM 1120 1123 7:30-8:00 AM 743 745 3:30-4:00 PM 351 353 11:30-12:00 PM (b)(6); (b)(7)(C) MORNING WATCH OPERATIONS LIEUTENANT DAY WATCH OPERATIONS LIEUTENANT EVENING WATCH OPERATIONS LIEUTENANT A staff member must observe all inmates confined in a continuous locked down status, such as administrative detention or disciplinary segregation, at least once in the first 30 minute period of the hour (example, 12:00 a.m. - 12:30 a.m.) followed by another round in the second 30 minutes period of the same hour (example, 12:30 am - 1:00 a.m.), thus ensuring an inmate is observed at least twice per hour. These rounds are to be conducted on an irregular schedule and no more than 40 minutes apart. All observations must be documented. REVIEWED BY MORNING WATCH LIEUTENANT CAPTAIN (b)(6); (b)(7)(C) DOJ-OGR-00026461",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "MCC NEW YORK SPECIAL HOUSING UNIT 30 MINUTE CHECK SHEET ZA TIER-H DATE: 08/03/2019",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "TIME FRAME TIME START TIME END SIGNATURE TIME FRAME TIME START TIME END SIGNATURE TIME FRAME TIME START TIME END SIGNATURE",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1222 1224 812 813 401 403",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "MORNING WATCH OPERATIONS LIEUTENANT DAY WATCH OPERATIONS LIEUTENANT EVENING WATCH OPERATIONS LIEUTENANT",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "A staff member must observe all inmates confined in a continuous locked down status, such as administrative detention or disciplinary segregation, at least once in the first 30 minute period of the hour (example, 12:00 a.m. - 12:30 a.m.) followed by another round in the second 30 minutes period of the same hour (example, 12:30 am - 1:00 a.m.), thus ensuring an inmate is observed at least twice per hour. These rounds are to be conducted on an irregular schedule and no more than 40 minutes apart. All observations must be documented.",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "REVIEWED BY MORNING WATCH LIEUTENANT CAPTAIN",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "MCC NEW YORK",
+      "DOJ"
+    ],
+    "locations": [
+      "NEW YORK"
+    ],
+    "dates": [
+      "08/03/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026461"
+    ]
+  },
+  "additional_notes": "The document contains handwritten entries in the check sheet table. Some signatures are redacted with (b)(6); (b)(7)(C)."
+}

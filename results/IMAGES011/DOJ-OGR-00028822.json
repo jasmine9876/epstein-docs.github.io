@@ -1,0 +1,67 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028822",
+    "date": "042814",
+    "document_type": "API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:08 PQH API/HIT DATA 042814 *B *A *C NAME DOB ----- QUERY ----- LNE TERM/ EPSTEIN, JEFFREY EDWARD 012053 DATE TIME AGN RSLT TYP REF LANE API ORY -PARIS, ORLY 051212 0000 *D API US P INSP: APIS QRY DOC: 469911707 API DATA ---- INDICATOR : R REPORTED CARRIER CODE : EC OPEN SKIES FLT/VES NUMBER : 4 ARRIVAL LOCATION : ORY PARIS, ORLY DEPARTURE LOCATION : EWR NEWARK INTERNATIONAL TRANSMITTED BY : ALTEA+CM AMADEUS DCS ALTEA CM INBOUND/OUTBOUND : OUTBOUND (b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) (b) (7) (E) DOJ-OGR-00028822",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:08 PQH API/HIT DATA 042814",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB ----- QUERY ----- LNE TERM/",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY EDWARD 012053 DATE TIME AGN RSLT TYP REF LANE API ORY -PARIS, ORLY 051212 0000 *D API US P INSP: APIS QRY DOC: 469911707",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "API DATA ---- INDICATOR : R REPORTED CARRIER CODE : EC OPEN SKIES FLT/VES NUMBER : 4 ARRIVAL LOCATION : ORY PARIS, ORLY DEPARTURE LOCATION : EWR NEWARK INTERNATIONAL TRANSMITTED BY : ALTEA+CM AMADEUS DCS ALTEA CM INBOUND/OUTBOUND : OUTBOUND",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) (b) (7) (E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028822",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "APIS",
+      "AMADEUS DCS ALTEA CM",
+      "ALTEA+CM"
+    ],
+    "locations": [
+      "PARIS",
+      "ORLY",
+      "NEWARK INTERNATIONAL",
+      "EWR"
+    ],
+    "dates": [
+      "051212"
+    ],
+    "reference_numbers": [
+      "469911707",
+      "DOJ-OGR-00028822"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b) (6)', '(b) (7) (C)', and '(b) (7) (E)'."
+}

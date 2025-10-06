@@ -1,0 +1,73 @@
+{
+  "document_metadata": {
+    "page_number": "2558",
+    "document_number": "DOJ-OGR-00026218",
+    "date": "07/24/2019",
+    "document_type": "Clinical Encounter",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2558 Bureau of Prisons Health Services Clinical Encounter Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Encounter Date: 07/24/2019 13:08 Sex: M Race: WHITE Reg #: 76318-054 Provider: (b)(6); (b)(7)(C) MLP Facility: NYM Unit: H01 Mid Level Provider - Follow up Visit encounter performed at Receiving & Discharge. SUBJECTIVE: COMPLAINT 1 Provider: (b)(6); (b)(7)(C) MLP Chief Complaint: Other Problem Subjective: (b)(7)(A) Pain: No OBJECTIVE: Temperature: Date Time Fahrenheit Celsius Location Provider 07/24/2019 13:12 NYM 97.8 36.6 Oral (b)(6); (b)(7)(C) MLP Pulse: Date Time Rate Per Minute Location Rhythm Provider 07/24/2019 13:12 83 Via Machine Regular (b)(6); (b)(7)(C) MLP Blood Pressure: Date Time Value Location Position Cuff Size Provider 07/24/2019 13:12 NYM 132/89 Right Arm Sitting Adult-regular (b)(6); (b)(7)(C) MLP SaO2: Date Time Value(%) Air Provider 07/24/2019 13:12 NYM 96 Room Air (b)(6); (b)(7)(C) MLP Exam: General Affect Yes: Cooperative Appearance Yes: Appears Well, Alert and Oriented x 3 No: Appears Distressed, Appears in Pain Exam Comments Follow up evaluation done for inmate Epstein. He does not look in any pain or distress. (b)(7)(A) ASSESSMENT: Injury, unspecified, T1490 - Current PLAN: Disposition: Generated 07/24/2019 13:24 by (b)(6); (b)(7)(C) MLP Bureau of Prisons - NYM Page 1 of 2",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Bureau of Prisons Health Services Clinical Encounter",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Encounter Date: 07/24/2019 13:08 Sex: M Race: WHITE Reg #: 76318-054 Provider: (b)(6); (b)(7)(C) MLP Facility: NYM Unit: H01",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Mid Level Provider - Follow up Visit encounter performed at Receiving & Discharge.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SUBJECTIVE: COMPLAINT 1 Provider: (b)(6); (b)(7)(C) MLP Chief Complaint: Other Problem Subjective: (b)(7)(A) Pain: No",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "OBJECTIVE: Temperature: Date Time Fahrenheit Celsius Location Provider 07/24/2019 13:12 NYM 97.8 36.6 Oral (b)(6); (b)(7)(C) MLP Pulse: Date Time Rate Per Minute Location Rhythm Provider 07/24/2019 13:12 83 Via Machine Regular (b)(6); (b)(7)(C) MLP Blood Pressure: Date Time Value Location Position Cuff Size Provider 07/24/2019 13:12 NYM 132/89 Right Arm Sitting Adult-regular (b)(6); (b)(7)(C) MLP SaO2: Date Time Value(%) Air Provider 07/24/2019 13:12 NYM 96 Room Air (b)(6); (b)(7)(C) MLP",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Exam: General Affect Yes: Cooperative Appearance Yes: Appears Well, Alert and Oriented x 3 No: Appears Distressed, Appears in Pain Exam Comments Follow up evaluation done for inmate Epstein. He does not look in any pain or distress. (b)(7)(A)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "ASSESSMENT: Injury, unspecified, T1490 - Current PLAN: Disposition:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/24/2019 13:24 by (b)(6); (b)(7)(C) MLP Bureau of Prisons - NYM Page 1 of 2",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/24/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026218"
+    ]
+  },
+  "additional_notes": "The document appears to be a clinical encounter report for inmate Jeffrey Epstein. It contains medical information and assessment details. Some personal identifiable information is redacted."
+}

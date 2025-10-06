@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "593",
+    "document_number": "DOJ-OGR-00025046",
+    "date": "5/19/2020",
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 593 Page 4 Log Date/Time User Action Alias Post Shift date Watch Assignment Type Mndtry 08/10/19 6:18 cpd adjustme (b)(6); (b)(7)(C) OT Removed - Mgmt Cancele (b)(6); (b)(7)(C) CONTROL #2 08/10/19 A/M Signup List 08/10/19 6:17 cpd adjustme OT Removed - Mgmt Cancele SHU #3 08/10/19 A/M List Exempt 08/10/19 6:07 cpd adjustme OT Assigned 11 SOUTH 08/10/19 E/W Signup List 08/10/19 6:04 cpd adjustme OT Removed - Mgmt Cancele -LAST OT DATE SET TO 8/7/2019 10:18:44 PM - REMOVED FROM [Sick / Annual] 5 NORTH 08/10/19 D/W List Exempt 08/10/19 4:59 staff accept OT Assigned 9 NORTH 08/10/19 D/W Mandtry List 08/10/19 4:59 unv OT By-passed 9 NORTH 08/10/19 D/W Mandtry List 08/10/19 4:59 unv OT By-passed 9 NORTH 08/10/19 D/W Mandtry List 08/10/19 4:59 ther OT By-passed 9 NORTH 08/10/19 D/W Mandtry List 08/10/19 4:59 unv OT By-passed 9 NORTH 08/10/19 D/W Mandtry List 08/10/19 4:59 OT By-passed 9 NORTH 08/10/19 D/W Mandtry List The staff member (b)(6); (b)(7)(C) is already working this 08/10/19 4:59 unv OT By-passed 9 NORTH 08/10/19 D/W Mandtry List 08/10/19 4:59 OT By-passed 9 NORTH 08/10/19 D/W Mandtry List The staff member (b)(6); (b)(7)(C) is already working this 08/10/19 4:59 (b)(6); (b)(7)(C) OT By-passed 9 NORTH 08/10/19 D/W Mandtry List 08/10/19 4:59 unv OT By-passed 9 NORTH 08/10/19 D/W Mandtry List The staff member (b)(6); (b)(7)(C) is already working this 08/10/19 4:58 unv OT By-passed 9 NORTH 08/10/19 D/W Mandtry List 08/10/19 4:58 unv OT By-passed 9 NORTH 08/10/19 D/W Mandtry List 08/10/19 4:58 OT By-passed 9 NORTH 08/10/19 D/W Mandtry List The staff member (b)(6); (b)(7)(C) is already working this 08/10/19 4:58 unv OT By-passed 9 NORTH 08/10/19 D/W Mandtry List 08/10/19 0:40 Signed Up for OT Selected Lists: BPT ARMED ESCORT 08/09/19 22:28 staff accept OT Assigned LOBBY #2 08/10/19 D/W Signup List 08/09/19 22:27 unv OT By-passed LOBBY #2 08/10/19 D/W Signup List The staff member (b)(6); (b)(7)(C) is already working this 08/09/19 22:27 (b)(6); (b)(7)(C) OT By-passed LOBBY #2 08/10/19 D/W Signup List The staff member (b)(6); (b)(7)(C) is already working this 08/09/19 22:27 (b)(6); (b)(7)(C) OT By-passed LOBBY #2 08/10/19 D/W Signup List The staff member (b)(6); (b)(7)(C) is already working this 08/09/19 22:27 (b)(6); (b)(7)(C) OT By-passed LOBBY #2 08/10/19 D/W Signup List 08/09/19 22:27 unv OT By-passed LOBBY #2 08/10/19 D/W Signup List 08/09/19 22:27 (b)(6); OT By-passed LOBBY #2 08/10/19 D/W Signup List 08/09/19 22:27 unv OT By-passed LOBBY #2 08/10/19 D/W Signup List 5/19/2020 10:37:33 AM DOJ-OGR-00025046",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 593 Page 4 Log Date/Time User Action Alias Post Shift date Watch Assignment Type Mndtry",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "08/10/19 6:18 cpd adjustme (b)(6); (b)(7)(C) OT Removed - Mgmt Cancele (b)(6); (b)(7)(C) CONTROL #2 08/10/19 A/M Signup List",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "5/19/2020 10:37:33 AM DOJ-OGR-00025046",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "(b)(6); (b)(7)(C)"
+    ],
+    "organizations": [],
+    "locations": [
+      "CONTROL #2",
+      "SHU #3",
+      "11 SOUTH",
+      "5 NORTH",
+      "9 NORTH",
+      "LOBBY #2"
+    ],
+    "dates": [
+      "08/10/19",
+      "08/10/2019",
+      "8/7/2019",
+      "08/09/19",
+      "08/15/19",
+      "5/19/2020"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00025046"
+    ]
+  },
+  "additional_notes": "The document appears to be a log of overtime assignments and removals for staff members. The log includes dates, times, user actions, and post assignments. Some information is redacted, indicated by (b)(6); (b)(7)(C)."
+}

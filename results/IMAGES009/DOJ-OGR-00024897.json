@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": "400",
+    "document_number": "DOJ-OGR-00024897",
+    "date": "2019/11/05",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Epstein, Jeffrey 76318-054\nFrom [b](6); (b)(7)(C) (USMS)\nTo Charisma Edge\nDate 2019/11/05 18:45\nSubject: Epstein, Jeffrey 76318-054\nAttachments: TEXT.htm, Mime.822\nCharisma\nOur Prisoner Operations Division in Headquarters is requesting any reports prepared in the investigation surrounding the death of EPSTEIN. They are requesting the information by tomorrow 11/6/2019- I apologize for the short notice, but can you please provide me with the reports prepared by BOP.\nThank you\n[b](6); (b)(7)(C)\nSupervisory Deputy United States Marshal\nSouthern District of New York\n646-942-[b](6); (b)(7)(C)\nPage 1107\nDOJ-OGR-00024897",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Epstein, Jeffrey 76318-054\nFrom [b](6); (b)(7)(C) (USMS)\nTo Charisma Edge\nDate 2019/11/05 18:45\nSubject: Epstein, Jeffrey 76318-054\nAttachments: TEXT.htm, Mime.822",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Charisma\nOur Prisoner Operations Division in Headquarters is requesting any reports prepared in the investigation surrounding the death of EPSTEIN. They are requesting the information by tomorrow 11/6/2019- I apologize for the short notice, but can you please provide me with the reports prepared by BOP.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Thank you\n[b](6); (b)(7)(C)\nSupervisory Deputy United States Marshal\nSouthern District of New York\n646-942-[b](6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 1107\nDOJ-OGR-00024897",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Charisma Edge"
+    ],
+    "organizations": [
+      "USMS",
+      "BOP",
+      "United States Marshal",
+      "Southern District of New York"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "2019/11/05",
+      "11/6/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024897",
+      "646-942"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as [b](6); (b)(7)(C), indicating potentially sensitive information."
+}

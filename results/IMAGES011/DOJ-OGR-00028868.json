@@ -1,0 +1,80 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "TECS II - PERSON SUBJECT DISPLAY",
+    "date": "042814",
+    "document_type": "TECS Record",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:08 TECS II - PERSON SUBJECT DISPLAY (1 OF 4) 042814 *B TECS RECORD ID (b)(7)(E) NAME- LAST EPSTEIN FIRST JEFFREY IMAGE PERSONAL- DOB 01201953 SSN PPN ADDRESS- DATE CITY STREET CONTACT- (b)(6),(b)(7)(C),(b)(7)(E) OWNER PRIMARY (b)(7)(E) STATUS (b)(7)(E) ENTRY *D UPDATE *E PHYSICAL IDENTIFIERS MID ALIAS NICKNAME HISPANIC STC RACE SEX HAIR EYES HT WT ENGLISH S/M/T MORE CTZN US MORE POB- CNTRY ST CITY MORE AFN TYPE CNTRY RES ISSDT EXPDT APT TYPE MORE STATE CNTRY ZIP PHONE CASE NBR START STOP QRY NTFY *H REMARKS- DATE MORE NO SUB-RECORDS (b)(7)(E) (b)(7)(E)(b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6),(b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(7)(E) *F - (b)(7)(E) *G - (b)(6),(b)(7)(C),(b)(7)(E) *H - (b)(7)(E) DOJ-OGR-00028868",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "TECS II - PERSON SUBJECT DISPLAY (1 OF 4) 042814",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "TECS RECORD ID (b)(7)(E) NAME- LAST EPSTEIN FIRST JEFFREY",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "PERSONAL- DOB 01201953 POB- CNTRY ST CITY MORE AFN TYPE CNTRY RES ISSDT EXPDT",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "ADDRESS- DATE CITY STREET STATE CNTRY ZIP APT TYPE MORE",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CONTACT- (b)(6),(b)(7)(C),(b)(7)(E) OWNER PRIMARY (b)(7)(E) STATUS (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PHYSICAL IDENTIFIERS RACE SEX HAIR EYES HT WT ENGLISH S/M/T MORE CTZN US MORE",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CASE NBR START STOP QRY NTFY *H REMARKS- DATE MORE",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "NO SUB-RECORDS",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6),(b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(7)(E) *F - (b)(7)(E) *G - (b)(6),(b)(7)(C),(b)(7)(E) *H - (b)(7)(E)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028868",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "01201953",
+      "042814"
+    ],
+    "reference_numbers": [
+      "(b)(7)(E)",
+      "(b)(6),(b)(7)(C)",
+      "DOJ-OGR-00028868"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted TECS record, with various fields and sections blacked out. The visible information includes the subject's name, date of birth, and other personal details. The document is likely related to a law enforcement or government agency."
+}

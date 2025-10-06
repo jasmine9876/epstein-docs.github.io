@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "3307",
+    "document_number": "DOJ-OGR-00026896",
+    "date": null,
+    "document_type": "Daily Lieutenant's Log",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 3307 UNITED STATES DEPARTMENT OF JUSTICE METROPOLITAN CORRECTIONAL CENTER, NEW YORK, NY DAILY LIEUTENANT'S LOG Ops. Lt. Act. Lt. [b(6); (b)(7)(C)] Ending Count: [b(7)(F)] SHU: [b(7)(F)] 10-South: [b(7)F] SHU OBS: 00; Local Hosp: 00; H/A OBS: [b(7)(F)] B/A OBS: 00; Dry Cell: [b(7)(F)] B/A SHU: 00 DOJ-OGR-00026896",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "UNITED STATES DEPARTMENT OF JUSTICE METROPOLITAN CORRECTIONAL CENTER, NEW YORK, NY DAILY LIEUTENANT'S LOG",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Ops. Lt. Act. Lt.",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "[b(6); (b)(7)(C)]",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Ending Count: [b(7)(F)] SHU: [b(7)(F)] 10-South: [b(7)F] SHU OBS: 00; Local Hosp: 00; H/A OBS: [b(7)(F)] B/A OBS: 00; Dry Cell: [b(7)(F)] B/A SHU: 00",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026896",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "UNITED STATES DEPARTMENT OF JUSTICE",
+      "METROPOLITAN CORRECTIONAL CENTER"
+    ],
+    "locations": [
+      "NEW YORK",
+      "NY"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00026896"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as [b(6); (b)(7)(C)] and [b(7)(F)]."
+}

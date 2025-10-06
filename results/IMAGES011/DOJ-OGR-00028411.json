@@ -1,0 +1,59 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028411",
+    "date": null,
+    "document_type": "PQH API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 *B PQH API/HIT DATA 042814 *A *C NAME DOB DATE TIME AGN RSLT LNE TYP REF TERM/ LANE API EPSTEIN, JEFFREY E 012053 111513 0000 *D API UNKNOWN AIRPORT (USED ONLY W R API DATA ---- INDICATOR : R REPORTED CARRIER CODE : *GA GENERAL AVIATION FLT/VES NUMBER : N212JE ARRIVAL LOCATION : XXX UNKNOWN AIRPORT (USED ON DEPARTURE LOCATION : IST ATATURK TRANSMITTED BY : APGA928N GENERAL AVIATION INBOUND/OUTBOUND : OUTBOUND (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) DOJ-OGR-00028411",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07 *B PQH API/HIT DATA 042814 *A *C",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB DATE TIME AGN RSLT LNE TYP REF TERM/ LANE API EPSTEIN, JEFFREY E 012053 111513 0000 *D API UNKNOWN AIRPORT (USED ONLY W",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "API DATA ---- INDICATOR : R REPORTED CARRIER CODE : *GA GENERAL AVIATION FLT/VES NUMBER : N212JE ARRIVAL LOCATION : XXX UNKNOWN AIRPORT (USED ON DEPARTURE LOCATION : IST ATATURK TRANSMITTED BY : APGA928N GENERAL AVIATION INBOUND/OUTBOUND : OUTBOUND",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028411",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY E EPSTEIN"
+    ],
+    "organizations": [
+      "GENERAL AVIATION"
+    ],
+    "locations": [
+      "ATATURK",
+      "UNKNOWN AIRPORT"
+    ],
+    "dates": [
+      "111513"
+    ],
+    "reference_numbers": [
+      "N212JE",
+      "APGA928N",
+      "DOJ-OGR-00028411"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b)(7)(E)' and '(b)(6), (b)(7)(C)'. The document appears to be a data report related to a flight involving Jeffrey Epstein."
+}

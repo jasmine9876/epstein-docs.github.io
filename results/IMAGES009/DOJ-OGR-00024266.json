@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024266",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "2/5 J. Epstein 76318-004 2:40 6:35 3/5 Epstein Epstein E. Epstein 76318-004 3:00 3:00 2:00 6:20 6:20 6:20 3/5 Epstein 76318-054 5:00 8/16 J. Epstein 26018-054 8:35 2:55",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "2/5 J. Epstein 76318-004 2:40 6:35",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "3/5 Epstein Epstein E. Epstein 76318-004 3:00 3:00 2:00 6:20 6:20 6:20",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "3/5 Epstein 76318-054 5:00",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/16 J. Epstein 26018-054 8:35 2:55",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024266",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "J. Epstein",
+      "Epstein",
+      "E. Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "2/5",
+      "3/5",
+      "8/16"
+    ],
+    "reference_numbers": [
+      "76318-004",
+      "76318-054",
+      "26018-054"
+    ]
+  },
+  "additional_notes": "The document appears to be a log or record of some sort, with handwritten entries. Much of the document is redacted, with green blocks covering most of the content. The visible text suggests that it may be related to a person named Epstein and includes dates, times, and reference numbers."
+}

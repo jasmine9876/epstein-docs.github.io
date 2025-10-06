@@ -1,0 +1,48 @@
+{
+  "document_metadata": {
+    "page_number": "1993",
+    "document_number": "DOJ-OGR-00025909",
+    "date": "2019/07/23",
+    "document_type": "Inmate Watch Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 1993\nInmate Epstein #76318-054 (Suicide Watch)\nFrom (b)(6); (b)(7)(C)\nTo \nDate 2019/07/23 08:56\nSubject: Inmate Epstein #76318-054 (Suicide Watch)\nAttachments: TEXT.htm\nThe Inmate Companion called and said that inmate Epstein wants to call his Attorney.\nPage 11062\nDOJ-OGR-00025909",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 1993",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Inmate Epstein #76318-054 (Suicide Watch)\nFrom (b)(6); (b)(7)(C)\nTo \nDate 2019/07/23 08:56\nSubject: Inmate Epstein #76318-054 (Suicide Watch)\nAttachments: TEXT.htm",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "The Inmate Companion called and said that inmate Epstein wants to call his Attorney.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 11062\nDOJ-OGR-00025909",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "2019/07/23"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00025909"
+    ]
+  },
+  "additional_notes": "The document appears to be a report regarding inmate Jeffrey Epstein's status on suicide watch. The 'From' field is redacted."
+}

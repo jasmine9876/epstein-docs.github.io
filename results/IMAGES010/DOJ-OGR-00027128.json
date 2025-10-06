@@ -1,0 +1,68 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00027128",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date, Name Signed In Name Out# Time 7/30 (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) Epstein 763 kidosy 1:15 7/30 (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) Epstein 763 from 1 7/30 (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) Epstein 763 kidosy 1:53 DOJ-OGR-00027128",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "Date, Name Signed In Name Out# Time",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/30",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein 763 kidosy 1:15",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/30",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein 763 from 1",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/30",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein 763 kidosy 1:53",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027128",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/30"
+    ],
+    "reference_numbers": [
+      "763",
+      "DOJ-OGR-00027128"
+    ]
+  },
+  "additional_notes": "The document contains handwritten text and redactions marked as (b)(6), (b)(7)(C). The image is of a log or sign-in sheet with names, dates, and times."
+}

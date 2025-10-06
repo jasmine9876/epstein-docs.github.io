@@ -1,0 +1,81 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "IO25",
+    "date": "04/28/2014",
+    "document_type": "Inspection Remarks",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07:59 IO25 INSPECTION REMARKS 04/28/2014 *A *B *C +------------------------------------------------------- I N S P E C T I O N R E M A R K S -------------------------------------------------------+ PAGE 1 CITY OF BIRTH:NEW YORK COUNTRY OF BIRTH:USA COMMENTS: (b)(7)(E) INSP RESULTS +-------------------------------------------------------------------------------------------+ (b)(7)(E) (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6),(b)(7)(C) *C - (b)(7)(E) DOJ-OGR-00028647",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07:59 IO25 INSPECTION REMARKS 04/28/2014",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "+------------------------------------------------------- I N S P E C T I O N R E M A R K S -------------------------------------------------------+ PAGE 1",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CITY OF BIRTH:NEW YORK COUNTRY OF BIRTH:USA",
+      "position": "top"
+    },
+    {
+      "type": "stamp/other",
+      "content": "(b)(7)(E)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "COMMENTS:",
+      "position": "top"
+    },
+    {
+      "type": "stamp/other",
+      "content": "(b)(7)(E)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "INSP RESULTS",
+      "position": "top"
+    },
+    {
+      "type": "stamp/other",
+      "content": "(b)(7)(E) (b)(7)(E) (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6),(b)(7)(C) *C - (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028647",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [
+      "New York",
+      "USA"
+    ],
+    "dates": [
+      "04/28/2014"
+    ],
+    "reference_numbers": [
+      "IO25",
+      "DOJ-OGR-00028647"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(7)(E), (b)(6), and (b)(7)(C). The document appears to be an inspection report with some sensitive information redacted."
+}

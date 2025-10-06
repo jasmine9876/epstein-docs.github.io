@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "65",
+    "document_number": "DOJ-OGR-00022350",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Mitrovich, Andrea Arizona Police Au Bar Rueda, Joseph & Florena Avis International Tahoe, Kinney Garage AMERICA(A) Antiques - Resale Number Beverly Hills Hotel",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Mitrovich, Andrea Arizona Police Au Bar Rueda, Joseph & Florena Avis International Tahoe, Kinney Garage AMERICA(A) Antiques - Resale Number Beverly Hills Hotel",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "65",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022350",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Mitrovich, Andrea",
+      "Rueda, Joseph & Florena",
+      "Joseph & Florina Rueda",
+      "Kellen, Sarah",
+      "Kelly, Brian",
+      "Maxwell, Ghislaine"
+    ],
+    "organizations": [
+      "Avis International",
+      "AMERICA(A)"
+    ],
+    "locations": [
+      "Arizona",
+      "Aspen Club",
+      "Au Bar",
+      "Bel Air Hotel",
+      "Beverly Hills Hotel",
+      "Tahoe, Kinney Garage"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022350"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 65, and the document number is DOJ-OGR-00022350."
+}

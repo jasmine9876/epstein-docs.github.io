@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "79",
+    "document_number": "DOJ-OGR-00022364",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Insurance Office of Central Oh Jarecki, Henry Dr. Isaacson, Walter James, Randy Jampanol, Myieng Jarecki, Gloria Johanoff, Pamela Johnson Lily Johnson, Elizabeth (Libit) Kerry, Sen. John Kessler, Jack Kincald, Kristina Kosslyn, Steve DOJ-OGR-00022364",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Insurance Office of Central Oh Jarecki, Henry Dr. Isaacson, Walter James, Randy Jampanol, Myieng Jarecki, Gloria Johanoff, Pamela",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Johnson Lily Johnson, Elizabeth (Libit) Kerry, Sen. John Kessler, Jack Kincald, Kristina Kosslyn, Steve",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022364",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "79",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Walter Isaacson",
+      "Randy James",
+      "Myieng Jampanol",
+      "Gloria Jarecki",
+      "Henry Dr. Jarecki",
+      "Pamela Johanoff",
+      "Lily Johnson",
+      "Elizabeth (Libit) Johnson",
+      "Sen. John Kerry",
+      "Jack Kessler",
+      "Kristina Kincald",
+      "Steve Kosslyn"
+    ],
+    "organizations": [
+      "Insurance Office of Central Oh"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022364"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 79, and there is a document number DOJ-OGR-00022364 at the bottom right corner."
+}

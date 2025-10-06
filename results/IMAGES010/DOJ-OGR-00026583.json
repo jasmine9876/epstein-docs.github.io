@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": "2927",
+    "document_number": "NYMAQ 530*05",
+    "date": "08-10-2019",
+    "document_type": "Inmate Roster",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2927 NYMAQ 530*05 * INMATE ROSTER * 08-10-2019 PAGE 001 OF 001 22:49:37 CATEGORY : OCT GROUP CODE : ASSIGNMENT : HOSP FACILITY : NYM OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK 0001 HOSP [b(6); b(7)(C)] 08-10-2019 E07-555L ORD CCS SUICIDE OR 0002 08-10-2019 K12-064L SUICIDE OR UNASSG G0000 TRANSACTION SUCCESSFULLY COMPLETED DOJ-OGR-00026583",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 2927",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NYMAQ 530*05 * INMATE ROSTER * 08-10-2019 PAGE 001 OF 001 22:49:37",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CATEGORY : OCT GROUP CODE : ASSIGNMENT : HOSP FACILITY : NYM OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "0001 HOSP [b(6); b(7)(C)] 08-10-2019 E07-555L ORD CCS SUICIDE OR",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0002 08-10-2019 K12-064L SUICIDE OR UNASSG",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "G0000 TRANSACTION SUCCESSFULLY COMPLETED",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026583",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "08-10-2019"
+    ],
+    "reference_numbers": [
+      "NYMAQ 530*05",
+      "DOJ-OGR-00026583",
+      "0001",
+      "0002",
+      "E07-555L",
+      "K12-064L"
+    ]
+  },
+  "additional_notes": "The document appears to be a roster of inmates, with some information redacted."
+}

@@ -1,0 +1,77 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028394",
+    "date": "010203",
+    "document_type": "PQH API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 *B PQH API/HIT DATA 042814 *A *C NAME DOB QUERY DATE TIME AGN RSLT LNE TYP REF TERM/ LANE API EPSTEIN, JEFFREY 012053 010203 0000 INS *D API BH07 R A491-SAN JUAN, PASSENGER BRA API DATA ---- INDICATOR : R CARRIER CODE : RA FLT/VES NUMBER : 615A ARRIVAL LOCATION : STT DEPARTURE LOCATION : EIS TRANSMITTED BY : APIS_RAP INBOUND/OUTBOUND : (b) (7) (E) REPORTED ROLAND AIR (TEMPORARY TE C.E. KING BEEF ISLAND, VIRGIN ISLA COMMERCIAL CARRIER (b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) DOJ-OGR-00028394",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07 *B PQH API/HIT DATA 042814 *A *C",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB QUERY DATE TIME AGN RSLT LNE TYP REF TERM/ LANE API",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY 012053 010203 0000 INS *D API BH07 R A491-SAN JUAN, PASSENGER BRA",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "API DATA ---- INDICATOR : R CARRIER CODE : RA FLT/VES NUMBER : 615A ARRIVAL LOCATION : STT DEPARTURE LOCATION : EIS TRANSMITTED BY : APIS_RAP INBOUND/OUTBOUND :",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "(b) (7) (E) REPORTED ROLAND AIR (TEMPORARY TE C.E. KING BEEF ISLAND, VIRGIN ISLA COMMERCIAL CARRIER (b) (7) (E)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028394",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN",
+      "C.E. KING"
+    ],
+    "organizations": [
+      "ROLAND AIR",
+      "APIS_RAP",
+      "COMMERCIAL CARRIER"
+    ],
+    "locations": [
+      "SAN JUAN",
+      "STT",
+      "EIS",
+      "BEEF ISLAND",
+      "VIRGIN ISLANDS"
+    ],
+    "dates": [
+      "010203",
+      "012053"
+    ],
+    "reference_numbers": [
+      "A491",
+      "615A",
+      "042814",
+      "DOJ-OGR-00028394"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b) (7) (E)' and '(b) (6), (b) (7) (C)'. The document appears to be a data report related to a passenger's travel information."
+}

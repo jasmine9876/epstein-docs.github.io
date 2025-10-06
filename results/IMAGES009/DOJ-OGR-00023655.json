@@ -1,0 +1,73 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "535.01",
+    "date": "08-28-2019",
+    "document_type": "Inmate Load Data",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "PP41 Page 1 of 1 NYMB8 535.01 08-28-2019 PAGE 001 OF 001 * INMATE LOAD DATA * 09:39:29 REG NO: 76318-054 NAME: EPSTEIN, JEFFREY EDWARD RSP OF: NYM-NEW YORK MCC DOB(AGE): 01-20-1953(66) FBI NO...: RACE....: WHITE INS NO...: SEX.....: MALE SSN.....: XXX-XX-XXXX ETHNIC..: OTHER THAN HISP DNA.....: NYM06712 HEIGHT..: 6 00 WEIGHT..: 185 HAIR.....: GRAY EYES.....: BLUE CITIZENSHIP.....: UNITED STATES OF AMERICA CMC.....: NO BIRTH PLACE.....: NEW YORK MILEAGE.: 5 MILES LEGAL RESIDENCE: 9 EAST 71ST STREET NEW YORK, NEW YORK 10021 G0005 TRANSACTION SUCCESSFULLY COMPLETED - CONTINUE PROCESSING IF DESIRED https://bop.tcp.doj.gov:9049/SENTRY/J1PP2N0.do 8/28/2019 DOJ-OGR-00023655",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PP41 Page 1 of 1",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NYMB8 535.01 08-28-2019 PAGE 001 OF 001 * INMATE LOAD DATA * 09:39:29",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "REG NO: 76318-054 NAME: EPSTEIN, JEFFREY EDWARD RSP OF: NYM-NEW YORK MCC DOB(AGE): 01-20-1953(66) RACE....: WHITE SEX.....: MALE ETHNIC..: OTHER THAN HISP HEIGHT..: 6 00 WEIGHT..: 185 HAIR.....: GRAY EYES.....: BLUE CMC.....: NO MILEAGE.: 5 MILES",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FBI NO...: INS NO...: SSN.....: XXX-XX-XXXX DNA.....: NYM06712",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CITIZENSHIP.....: UNITED STATES OF AMERICA BIRTH PLACE.....: NEW YORK LEGAL RESIDENCE: 9 EAST 71ST STREET NEW YORK, NEW YORK 10021",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "G0005 TRANSACTION SUCCESSFULLY COMPLETED - CONTINUE PROCESSING IF DESIRED",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "https://bop.tcp.doj.gov:9049/SENTRY/J1PP2N0.do 8/28/2019 DOJ-OGR-00023655",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "FBI",
+      "INS",
+      "NYM-NEW YORK MCC"
+    ],
+    "locations": [
+      "NEW YORK",
+      "UNITED STATES OF AMERICA"
+    ],
+    "dates": [
+      "01-20-1953",
+      "08-28-2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "NYM06712",
+      "XXX-XX-XXXX",
+      "DOJ-OGR-00023655"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned inmate load data sheet for Jeffrey Epstein. The SSN is redacted."
+}

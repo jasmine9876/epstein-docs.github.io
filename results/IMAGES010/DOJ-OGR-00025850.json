@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": "1851",
+    "document_number": "DOJ-OGR-00025850",
+    "date": "2019/08/19",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Re: EPSTEIN #76318-054\nFrom\nTo\nDate 2019/08/19 10:39\nSubject: Re: EPSTEIN #76318-054\nAttachments: TEXT.htm\nM19019432 is the case number.\n>>\nGood morning,\nDid you get the case number yet for the autopsy? I have a draft letter to assist you in requesting the autopsy report itself.\nThank you,\nSupervisory Staff Attorney\nCLC New York\nMetropolitan Correctional Center\n150 Park Row\nNew York, New York 10007\np: (646)836-\nf: (646)836-7665\nPage 9964\nDOJ-OGR-00025850",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Re: EPSTEIN #76318-054\nFrom\nTo\nDate 2019/08/19 10:39\nSubject: Re: EPSTEIN #76318-054\nAttachments: TEXT.htm",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "M19019432 is the case number.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": ">>\nGood morning,\nDid you get the case number yet for the autopsy? I have a draft letter to assist you in requesting the autopsy report itself.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Thank you,",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Supervisory Staff Attorney\nCLC New York\nMetropolitan Correctional Center\n150 Park Row\nNew York, New York 10007\np: (646)836-\nf: (646)836-7665",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page 9964\nDOJ-OGR-00025850",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "CLC New York",
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "2019/08/19"
+    ],
+    "reference_numbers": [
+      "EPSTEIN #76318-054",
+      "M19019432",
+      "DOJ-OGR-00025850"
+    ]
+  },
+  "additional_notes": "The document contains redactions in the 'From', 'To', and phone number fields."
+}

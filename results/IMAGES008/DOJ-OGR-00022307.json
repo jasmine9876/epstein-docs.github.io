@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": "22",
+    "document_number": "DOJ-OGR-00022307",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Edwards, Andrew & Tracy Elian, Johnathan Elias, Brian Ellasch, Johan & Amanda Elingworth, Charlie & Amanda Elizabeth Ellenbogen Eric Ellingworth, Mr & Mrs Elliot, Ben Elliot, Gail & Joe Coffey Ellison, Mandy & Ralph Elwes, Anabel Epstein, Ed Erba Noona Espirito Santo, Manuel and Ros Estlin, Jean-Marc Estrada Juffali, Chris-tina",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Edwards, Andrew & Tracy Elian, Johnathan Elias, Brian Ellasch, Johan & Amanda Elingworth, Charlie & Amanda Elizabeth Ellenbogen Eric Ellingworth, Mr & Mrs Elliot, Ben Elliot, Gail & Joe Coffey Ellison, Mandy & Ralph Elwes, Anabel Epstein, Ed Erba Noona Espirito Santo, Manuel and Ros Estlin, Jean-Marc Estrada Juffali, Chris-tina",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "22",
+      "position": "footer-left"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022307",
+      "position": "footer-right"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Edwards, Andrew & Tracy",
+      "Elian, Johnathan",
+      "Elias, Brian",
+      "Ellasch, Johan & Amanda",
+      "Elingworth, Charlie & Amanda",
+      "Elizabeth",
+      "Ellenbogen Eric",
+      "Ellingworth, Mr & Mrs",
+      "Elliot, Ben",
+      "Elliot, Gail & Joe Coffey",
+      "Ellison, Mandy & Ralph",
+      "Elwes, Anabel",
+      "Epstein, Ed",
+      "Erba Noona",
+      "Espirito Santo, Manuel and Ros",
+      "Estlin, Jean-Marc",
+      "Estrada Juffali, Chris-tina"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022307"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 22, and there is a reference number DOJ-OGR-00022307 at the bottom right."
+}

@@ -1,0 +1,83 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "10",
+    "date": "11/25/2019",
+    "document_type": "Court Order",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "Case 1:19-cr-00830-AT Document 10 Filed 11/25/19 Page 1 of 1\n\nUNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK\nUNITED STATES OF AMERICA,\n-against-\nTOVA NOEL and MICHAEL THOMAS,\nDefendants.\n\nANALISA TORRES, District Judge:\nIt is hereby ORDERED that the conditions of Defendant Tova Noel's pretrial release shall be modified as follows: travel is permitted to the Middle District of Pennsylvania.\nSO ORDERED.\nDated: November 25, 2019\nNew York, New York\n\nANALISA TORRES\nUnited States District Judge\n\nUSDC SDNY DOCUMENT ELECTRONICALLY FILED DOC #: DATE FILED: 11/25/2019\n19 Cr. 830 (AT)\nORDER",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:19-cr-00830-AT Document 10 Filed 11/25/19 Page 1 of 1",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "UNITED STATES OF AMERICA, -against- TOVA NOEL and MICHAEL THOMAS, Defendants.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "ANALISA TORRES, District Judge: It is hereby ORDERED that the conditions of Defendant Tova Noel's pretrial release shall be modified as follows: travel is permitted to the Middle District of Pennsylvania.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SO ORDERED.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Dated: November 25, 2019 New York, New York",
+      "position": "middle"
+    },
+    {
+      "type": "signature",
+      "content": "ANALISA TORRES United States District Judge",
+      "position": "bottom"
+    },
+    {
+      "type": "stamp",
+      "content": "USDC SDNY DOCUMENT ELECTRONICALLY FILED DOC #: DATE FILED: 11/25/2019",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "19 Cr. 830 (AT) ORDER",
+      "position": "margin"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Tova Noel",
+      "Michael Thomas",
+      "Analisa Torres"
+    ],
+    "organizations": [
+      "United States District Court",
+      "United States of America"
+    ],
+    "locations": [
+      "New York",
+      "Pennsylvania"
+    ],
+    "dates": [
+      "November 25, 2019",
+      "11/25/2019"
+    ],
+    "reference_numbers": [
+      "1:19-cr-00830-AT",
+      "19 Cr. 830 (AT)",
+      "Document 10"
+    ]
+  },
+  "additional_notes": "The document is a court order signed by Judge Analisa Torres, modifying the pretrial release conditions of Defendant Tova Noel. The document is electronically filed and has a stamp indicating the filing date."
+}

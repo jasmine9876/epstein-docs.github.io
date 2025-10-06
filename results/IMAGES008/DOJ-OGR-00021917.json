@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": "10",
+    "document_number": "1",
+    "date": "11/19/19",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:19-cr-00830-AT Document 1 Filed 11/19/19 Page 10 of 20\ncorrectional officer, walked up to, let alone entered, the only entrance to the tier in which Epstein was housed until approximately 6:30 a.m. on August 10.\n21. Officer-1's shift ended at approximately 10 p.m., and at approximately 12 a.m., MICHAEL THOMAS, the defendant, replaced Officer-2, joining TOVA NOEL, the defendant, as the only two correctional officers on duty in the SHU. NOEL and THOMAS were responsible for conducting the 12 a.m. institutional count in the SHU. As confirmed by video from the MCC's internal video surveillance system, NOEL and THOMAS did not perform the 12 a.m. count. Nonetheless, NOEL and THOMAS completed and signed a count slip for the 12 a.m. count that falsely stated that the institutional count had been performed. In reliance on that falsified count slip, at approximately 12:49 a.m., the Control Center cleared the 12 a.m. count.\n22. TOVA NOEL and MICHAEL THOMAS, the defendants, were additionally responsible for conducting the 3 a.m. and 5 a.m. institutional counts in the SHU. As confirmed by video from the MCC's internal video surveillance system, NOEL and THOMAS did not perform either the 3 a.m. or the 5 a.m. counts. NOEL and THOMAS nonetheless completed and signed count slips for both counts that falsely stated that they had performed the 3 a.m. and 5 a.m. institutional counts. In reliance on those falsified count slips,\n10\nDOJ-OGR-00021917",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:19-cr-00830-AT Document 1 Filed 11/19/19 Page 10 of 20",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "correctional officer, walked up to, let alone entered, the only entrance to the tier in which Epstein was housed until approximately 6:30 a.m. on August 10.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "21. Officer-1's shift ended at approximately 10 p.m., and at approximately 12 a.m., MICHAEL THOMAS, the defendant, replaced Officer-2, joining TOVA NOEL, the defendant, as the only two correctional officers on duty in the SHU. NOEL and THOMAS were responsible for conducting the 12 a.m. institutional count in the SHU. As confirmed by video from the MCC's internal video surveillance system, NOEL and THOMAS did not perform the 12 a.m. count. Nonetheless, NOEL and THOMAS completed and signed a count slip for the 12 a.m. count that falsely stated that the institutional count had been performed. In reliance on that falsified count slip, at approximately 12:49 a.m., the Control Center cleared the 12 a.m. count.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "22. TOVA NOEL and MICHAEL THOMAS, the defendants, were additionally responsible for conducting the 3 a.m. and 5 a.m. institutional counts in the SHU. As confirmed by video from the MCC's internal video surveillance system, NOEL and THOMAS did not perform either the 3 a.m. or the 5 a.m. counts. NOEL and THOMAS nonetheless completed and signed count slips for both counts that falsely stated that they had performed the 3 a.m. and 5 a.m. institutional counts. In reliance on those falsified count slips,",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "10",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00021917",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "MICHAEL THOMAS",
+      "TOVA NOEL",
+      "Epstein",
+      "Officer-1",
+      "Officer-2"
+    ],
+    "organizations": [
+      "MCC",
+      "Control Center",
+      "SHU"
+    ],
+    "locations": [],
+    "dates": [
+      "August 10"
+    ],
+    "reference_numbers": [
+      "1:19-cr-00830-AT",
+      "DOJ-OGR-00021917"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing related to a criminal case involving correctional officers and the death of Jeffrey Epstein. The text is typed, and there are no visible handwritten notes or stamps."
+}

@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "IO25",
+    "date": "04/28/2014",
+    "document_type": "Inspection Remarks",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07:54 IO25 INSPECTION REMARKS 04/28/2014 *B *A *C +--------------------------------------- I N S P E C T I O N R E M A R K S ---------------------------------------+ PAGE 1 **SUBJCET IS (b)(7)(E) SUBJECT WAS IN ST THOMAS FOR LESS THAN A WEEK. SUBJECT WAS RELEASED AND ALLOWED TO CONTINUE HIS TRAVEL SCBPO(b)(6),(b)(7)(C) NOTIFIED. +--------------------------------------- (b)(7)(E) (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6),(b)(7)(C) *C - (b)(7)(E) DOJ-OGR-00028582",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07:54 IO25 INSPECTION REMARKS 04/28/2014",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "+--------------------------------------- I N S P E C T I O N R E M A R K S ---------------------------------------+ PAGE 1",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "**SUBJCET IS (b)(7)(E) SUBJECT WAS IN ST THOMAS FOR LESS THAN A WEEK. SUBJECT WAS RELEASED AND ALLOWED TO CONTINUE HIS TRAVEL SCBPO(b)(6),(b)(7)(C) NOTIFIED.",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "+---------------------------------------",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E) (b)(7)(E) (b)(7)(E)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6),(b)(7)(C) *C - (b)(7)(E)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028582",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "SCBPO"
+    ],
+    "locations": [
+      "ST THOMAS"
+    ],
+    "dates": [
+      "04/28/2014"
+    ],
+    "reference_numbers": [
+      "IO25",
+      "DOJ-OGR-00028582"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6), (b)(7)(C), and (b)(7)(E). The document appears to be a government inspection report."
+}

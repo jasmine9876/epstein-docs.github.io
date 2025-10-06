@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": "1119",
+    "document_number": "BP-A0292",
+    "date": "APR 16",
+    "document_type": "SPECIAL HOUSING UNIT RECORD",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 1119\nBP-A0292\nAPR 16\nSPECIAL HOUSING UNIT RECORD\nU.S. DEPARTMENT OF JUSTICE\nFEDERAL BUREAU OF PRISONS\nNEW YORK MCC\n(Institution)\nInmate Name: EPSTEIN, JEFFREY EDWARD\nReg. No. 76318-054\nTeam/caseworker: _____________________________________\nRegular Unit: _______ SUNT MGR EXT _______ Cell: 5\nViolation or Reason: PENDING CLASSIFICATION\nDate: 2019-07-29\nTime: 12:21\nAdmittance Authorized: (b)(6); (b)(7)(C)\nDate: _______\nTime: _______\nPertinent Information: N/A\nRel.: _______\nRel.: _______\nSeparation Information: N/A\nSpecial Housing Unit Cell Number: Z04-206LAD\nInmate Is In: _______ DS: _______ AD _______ AD Status\nIs Inmate on Medication: Y\nMedical Department Notified: Y\nDate\tShift\tMeals\tSH\tExercise\tOut of cell time (Total min/hrs)\tComments\tMedical Staff Sign\tOIC Signature\n\tMorn\tB\tD\tS\t\t\t\t\t\n\tDay\t\t\t\t\t\t\t\t\n\tEve\t\t\t\t\t\t\t\t\n07-29-2019\tMorn\tY\t\t\t\t\t\t\t(b)(6); (b)(7)(C)\n\tDay\t\t\t\t\t\t\t\t\n07-29-2019\tEve\tY\tN\t\t\t\t\t\t\n07-30-2019\tMorn\tY\t\t\t\t\t\t\t(b)(6); (b)(7)(C)\n\tDay\tY\tN\tRef\t\t\tSee 2nd page\t\t\n07-30-2019\tEve\tY\t\tNo\t\t\t\t\t\t\n07-31-2019\tMorn\tY\t\t\t\t\t\t\t\n\tDay\tY\tY\t06:30/07:30 O\t02:00\tSee 2nd page\t\t\n07-31-2019\tEve\tY\t\tNo\t\t\t\t\t\t\n08-01-2019\tMorn\tY\t\t\t\t\t\t\t\n\tDay\tY\tN\tRef\t\t\tSee 2nd page\t\t\n08-01-2019\tEve\tY\t\tNo\t\t\t\t\t\t\n08-02-2019\tMorn\tY\t\t\t\t\t\t\t\n\tDay\tY\tY\tNo\t01:00\tSee 2nd page\t\t\n08-02-2019\tEve\tY\t\tNo\t\t\t\t\t\t\n08-03-2019\tMorn\tY\t\t\t\t\t\t\t\n\tDay\tY\t\t\t\t\t\t\t\n08-03-2019\tEve\t\tY\tN\tNo\t\t\t\t\t\nEXPLANATORY NOTES: Pertinent Info: i.e., Epileptic; Diabetic; Suicidal; Assaultive; etc. Meals/SH: Shower - Yes (Y); No (N); Refused (R) Out-of-Cell Time: (LL) Law Library, (LV) Legal Visit, (U) Unit Team, (P) Psychology, (E) Education, (H) Haircut, (C) Chapel, (R) Recreation, (X) Property Issue, (V) Visit, (M) Medical, (C) Court, (O) Other - Yes (Y) if applicable / Enter Actual Time Period Start and End (i.e., 0930 - 1030 hrs) in Out of Cell Time Block.\nMedical: Medical providers will sign the segregation log each shift and the record sheet each time the inmate is seen by a medical provider. At a minimum, the record sheet must be signed at least once each day by the medical provider. Additional comments on reverse side must include date, signature, and title. OIC Signature: OIC must sign all record sheets each shift. (OIC - Unit Officer)\nPDF\nPrescribed by P5270\nThis form replaces BP-292(52) dated AUG 2011.\nDOJ-OGR-00025341",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "SPECIAL HOUSING UNIT RECORD",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "U.S. DEPARTMENT OF JUSTICE\nFEDERAL BUREAU OF PRISONS",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "EPSTEIN, JEFFREY EDWARD",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Violation or Reason: PENDING CLASSIFICATION",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "2019-07-29\n12:21",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "EXPLANATORY NOTES: ...",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "U.S. DEPARTMENT OF JUSTICE",
+      "FEDERAL BUREAU OF PRISONS"
+    ],
+    "locations": [
+      "NEW YORK MCC"
+    ],
+    "dates": [
+      "2019-07-29",
+      "07-29-2019",
+      "07-30-2019",
+      "07-31-2019",
+      "08-01-2019",
+      "08-02-2019",
+      "08-03-2019",
+      "APR 16",
+      "AUG 2011"
+    ],
+    "reference_numbers": [
+      "BP-A0292",
+      "76318-054",
+      "P5270",
+      "BP-292(52)",
+      "DOJ-OGR-00025341"
+    ]
+  },
+  "additional_notes": "The document contains handwritten entries and redactions marked as (b)(6); (b)(7)(C)."
+}

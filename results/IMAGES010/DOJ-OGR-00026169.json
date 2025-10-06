@@ -1,0 +1,75 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "DOJ-OGR-00026169",
+    "date": "07/26/2019",
+    "document_type": "Medical Record",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2493\nInmate Name: EPSTEIN, JEFFREY EDWARD\nDate of Birth: 01/20/1953\nEncounter Date: 07/26/2019 07:54\nSex: M\nRace: WHITE\nReg #: 76318-054\nProvider: [b)(6); (b)(7)(C)] DDS\nFacility: NYM\nUnit: H01\nCardiac Condition Requiring Prophylaxis: No\nProsthetic joint(s): No\nRadiation history of head or neck: No\nExcessive bleeding: No\nBisphosphonates: No\nComments:\nMedications as of Dental Health History Encounter date: 07/26/2019 07:54\nMedications:\nDocusate Sodium 100 MG Cap Exp: 08/11/2019 SIG: Take one capsule (100 MG) by mouth twice daily for 30 days\nOmega 3 (Vascepa) 1 GM Capsule Exp: 01/13/2020 SIG: Take two capsules (2 GM) twice daily by mouth with food\nOTCs: Listing of all known OTCs this inmate is currently taking.\nInstructed inmate how to obtain medical, dental, and mental health care.\nCopay Required: No\nCosign Required: No\nTelephone/Verbal Order: No\nCompleted by [b)(6); (b)(7)(C)] DDS on 07/26/2019 07:59\nGenerated 07/26/2019 07:59 by [b)(6); (b)(7)(C)] DDS Bureau of Prisons - NYM\nPage 3 of 3\nDOJ-OGR-00026169",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 2493",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD\nDate of Birth: 01/20/1953\nEncounter Date: 07/26/2019 07:54\nSex: M\nRace: WHITE\nReg #: 76318-054\nProvider: [b)(6); (b)(7)(C)] DDS\nFacility: NYM\nUnit: H01",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Cardiac Condition Requiring Prophylaxis: No\nProsthetic joint(s): No\nRadiation history of head or neck: No\nExcessive bleeding: No\nBisphosphonates: No\nComments:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Medications as of Dental Health History Encounter date: 07/26/2019 07:54\nMedications:\nDocusate Sodium 100 MG Cap Exp: 08/11/2019 SIG: Take one capsule (100 MG) by mouth twice daily for 30 days\nOmega 3 (Vascepa) 1 GM Capsule Exp: 01/13/2020 SIG: Take two capsules (2 GM) twice daily by mouth with food",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "OTCs: Listing of all known OTCs this inmate is currently taking.\nInstructed inmate how to obtain medical, dental, and mental health care.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Copay Required: No\nCosign Required: No\nTelephone/Verbal Order: No\nCompleted by [b)(6); (b)(7)(C)] DDS on 07/26/2019 07:59",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/26/2019 07:59 by [b)(6); (b)(7)(C)] DDS Bureau of Prisons - NYM",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 3 of 3\nDOJ-OGR-00026169",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/26/2019",
+      "08/11/2019",
+      "01/13/2020"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026169"
+    ]
+  },
+  "additional_notes": "The document appears to be a medical record for Jeffrey Epstein, containing information about his medications, medical history, and other relevant details. Some personal identifying information has been redacted."
+}

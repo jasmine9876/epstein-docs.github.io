@@ -1,0 +1,77 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "NYM 5267.06F",
+    "date": "07/21/19",
+    "document_type": "Daily Atty. Room / Visiting Room Inventory",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Visiting NYM 5267.06F July 17, 2009 Attachment C Metropolitan Correctional Center - New York Daily Atty. Room / Visiting Room Inventory Date: 07/21/19 Inmate Name Number Unit Officer Time In Time Out Property 1Epstein 76318-054 2A 9:00 none The only authorized items allowed in the attorney / visiting room are a plain wedding band (without any type of stone), a religious medal (not to exceed a value of $100.00), and legal papers when necessary. i.e. co-defendant meeting. This form will be turned in daily to the Lieutenants Office upon the closing of the attorney / visiting room. After review, the Operations Lieutenant will forward to the Captain's secretary to retain on file for 30 days. Date: Time: E/W Operations Signature: 000492 Sensitive But Unclassified DOJ-OGR-00024654",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Visiting NYM 5267.06F July 17, 2009",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Attachment C Metropolitan Correctional Center - New York Daily Atty. Room / Visiting Room Inventory",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "07/21/19",
+      "position": "inline"
+    },
+    {
+      "type": "printed",
+      "content": "Inmate Name Number Unit Officer Time In Time Out Property",
+      "position": "inline"
+    },
+    {
+      "type": "handwritten",
+      "content": "1Epstein 76318-054 2A 9:00 none",
+      "position": "inline"
+    },
+    {
+      "type": "printed",
+      "content": "The only authorized items allowed in the attorney / visiting room are a plain wedding band (without any type of stone), a religious medal (not to exceed a value of $100.00), and legal papers when necessary. i.e. co-defendant meeting. This form will be turned in daily to the Lieutenants Office upon the closing of the attorney / visiting room. After review, the Operations Lieutenant will forward to the Captain's secretary to retain on file for 30 days.",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Date: Time: E/W Operations Signature:",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "000492 Sensitive But Unclassified DOJ-OGR-00024654",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [
+      "Metropolitan Correctional Center",
+      "Lieutenants Office",
+      "Captain's secretary"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "07/21/19",
+      "July 17, 2009"
+    ],
+    "reference_numbers": [
+      "NYM 5267.06F",
+      "76318-054",
+      "000492",
+      "DOJ-OGR-00024654"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned copy of a handwritten form. The image quality is good, and the text is legible. There are no visible redactions or damage."
+}

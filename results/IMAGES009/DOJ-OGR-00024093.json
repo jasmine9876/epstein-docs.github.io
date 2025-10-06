@@ -1,0 +1,45 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Inmate Form",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "PRINT FULL NAME SIGNATURE INMATES PRINT FULL NAME Register # TIME PRINT FULL NAME SIGNATURE INMATE'S PRINT FULL NAME Register # Time IN 157 7568111 159 7568111",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "PRINT FULL NAME SIGNATURE INMATES PRINT FULL NAME Register # TIME",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "PRINT FULL NAME SIGNATURE INMATE'S PRINT FULL NAME Register # Time IN",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "157 7568111",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "159 7568111",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "7568111",
+      "157",
+      "159"
+    ]
+  },
+  "additional_notes": "The document appears to be a form for tracking inmate information, with handwritten entries. Some parts of the image are redacted."
+}

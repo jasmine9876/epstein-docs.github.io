@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "DOJ-OGR-00023876",
+    "date": "2/01/08",
+    "document_type": "Application to Enter an Institution or Correspond with a Federal Prisoner",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "PARALEGAL* (See Page 5) INTERPRETER PRIVATE INVESTIGATOR (See Page 9) MITIGATION SPECIALIST (See Page 10) OTHER APPLICATION TO ENTER AN INSTITUTION OR CORRESPOND WITH A FEDERAL PRISONER AS THE REPRESENTATIVE OF A LICENSED ATTORNEY. This form has three parts: 1. Questionnaire: This questionnaire is to be completed by each paralegal, legal assistant, clerk, student, interpreter, mitigation specialist or private investigator who seeks to enter an institution of the Federal Bureau of Prisons to visit or correspond with a federal prisoner as the representative of a licensed attorney. This application will not be processed unless this questionnaire with the original signature is received at the Legal Department. 2. Certification: Each person seeking to enter a federal institution to visit or correspond with a federal prisoner must sign the certification which follows the questionnaire. 3. Attorney's Statement: The licensed attorney sponsoring you must sign the sponsoring statement. This application will not be processed if the Attorney's Sponsoring Statement is not signed. QUESTIONNAIRE NOTE: Answer all questions. If a question does not apply to you, write \"Not Applicable\" in the space provided for the answer. 1. Name: [redacted] A. Any alias or other name ever used: Name: N/A When Used: N/A 2. A. Social Security Number: [redacted] B. Date of Birth: [redacted] C. Place of Birth: Peru D. Sex: Female E. Race: Latino Page 3 of 10 Revised 2/01/08 DOJ-OGR-00023876",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PARALEGAL* (See Page 5) INTERPRETER PRIVATE INVESTIGATOR (See Page 9) MITIGATION SPECIALIST (See Page 10) OTHER APPLICATION TO ENTER AN INSTITUTION OR CORRESPOND WITH A FEDERAL PRISONER AS THE REPRESENTATIVE OF A LICENSED ATTORNEY.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "This form has three parts: 1. Questionnaire: This questionnaire is to be completed by each paralegal, legal assistant, clerk, student, interpreter, mitigation specialist or private investigator who seeks to enter an institution of the Federal Bureau of Prisons to visit or correspond with a federal prisoner as the representative of a licensed attorney. This application will not be processed unless this questionnaire with the original signature is received at the Legal Department.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "2. Certification: Each person seeking to enter a federal institution to visit or correspond with a federal prisoner must sign the certification which follows the questionnaire.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "3. Attorney's Statement: The licensed attorney sponsoring you must sign the sponsoring statement. This application will not be processed if the Attorney's Sponsoring Statement is not signed.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "QUESTIONNAIRE NOTE: Answer all questions. If a question does not apply to you, write \"Not Applicable\" in the space provided for the answer.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "N/A N/A Peru Female Latino",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 3 of 10 Revised 2/01/08 DOJ-OGR-00023876",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Federal Bureau of Prisons",
+      "Legal Department"
+    ],
+    "locations": [
+      "Peru"
+    ],
+    "dates": [
+      "2/01/08"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00023876"
+    ]
+  },
+  "additional_notes": "The document contains redactions in the name and social security number fields. The form is partially filled out with handwritten answers."
+}

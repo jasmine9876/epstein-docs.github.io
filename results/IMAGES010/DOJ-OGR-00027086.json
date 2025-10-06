@@ -1,0 +1,96 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00027086",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "7-21 Epstein 7-21 Epstein 76318-054 7/21 Epstein 76318-054 7/22 J. Epstein 76318-054 8:47 10:47",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "7-21",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318-054",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "7-21",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318-054 from 550",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/21",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318-054",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/22",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "J. Epstein",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318-054 8:47 10:47",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027086",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein",
+      "J. Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7-21",
+      "7/21",
+      "7/22"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00027086"
+    ]
+  },
+  "additional_notes": "The document contains heavily redacted information, with most of the content obscured by green highlights. The visible text is primarily handwritten dates and names, along with a reference number."
+}

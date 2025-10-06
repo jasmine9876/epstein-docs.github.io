@@ -1,0 +1,73 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00027080",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE | NAME | Signature | INmate | Reg# | Time | Tlx\n(b)(6), (b)(7)(C)\n7-17 (b)(6), (b)(7)(C) | Easdelh | 76318-054 | 12:31 | 2:30\nDOJ-OGR-00027080",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "DATE | NAME | Signature | INmate | Reg# | Time | Tlx",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "7-17",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Easdelh",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318-054",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "12:31",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "2:30",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027080",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Easdelh"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7-17"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00027080"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6), (b)(7)(C). The majority of the content is obscured by a green overlay, suggesting sensitive or confidential information."
+}

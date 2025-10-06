@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "DOJ-OGR-00026244",
+    "date": "07/09/2019",
+    "document_type": "Medical Record",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2584 Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Sex: M Race: WHITE Reg #: 76318-054 Encounter Date: 07/09/2019 12:35 Provider: [redacted] MLP Facility: NYM Unit: H01 HIV History: When Tested: 2019 Test Result: Negative When Diagnosed AIDS: Last CD4: Comments: Hepatitis: Denied Other Infectious Diseases: Syphilis: No Syphilis Last Treatment: N/A Genital Warts: No Chlamydia: Yes Gonorrhea: No Herpes: No Chicken Pox: Yes Other: No Comments: Chlamydia in 2015, treated Chicken pox in childhood Abuse History: Denied Physical: No Emotional: No Sexual: No Comments: Denies Generated 07/09/2019 13:03 by [redacted] MLP Bureau of Prisons - NYM Page 2 of 13 DOJ-OGR-00026244",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 2584",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Sex: M Race: WHITE Reg #: 76318-054 Encounter Date: 07/09/2019 12:35 Provider: [redacted] MLP Facility: NYM Unit: H01",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "HIV History: When Tested: 2019 Test Result: Negative When Diagnosed AIDS: Last CD4: Comments: Hepatitis: Denied Other Infectious Diseases: Syphilis: No Syphilis Last Treatment: N/A Genital Warts: No Chlamydia: Yes Gonorrhea: No Herpes: No Chicken Pox: Yes Other: No Comments: Chlamydia in 2015, treated Chicken pox in childhood Abuse History: Denied Physical: No Emotional: No Sexual: No Comments: Denies",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/09/2019 13:03 by [redacted] MLP Bureau of Prisons - NYM Page 2 of 13 DOJ-OGR-00026244",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/09/2019",
+      "2015"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026244"
+    ]
+  },
+  "additional_notes": "The document contains redacted information, likely for privacy or security reasons."
+}

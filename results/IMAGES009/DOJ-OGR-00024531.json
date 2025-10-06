@@ -1,0 +1,69 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024531",
+    "date": "Monday, July 29, 2019",
+    "document_type": "DAILY LIEUTENANT'S LOG",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "UNITED STATES DEPARTMENT OF JUSTICE METROPOLITAN CORRECTIONAL CENTER, NEW YORK, NY DAILY LIEUTENANT'S LOG Shift-Day-Date: M/W Monday, July 29, 2019 Beginning Count: (b)(7)(E) SHU: (b)(7)(F) M/W Daily Sensitive Information: (b)(6) (b)(7)(C) I/M Epstein #76318-054 on Psych Obs. w/inmate companion (b)(6) (b)(7)(C) TIME CHRONOLOGICAL EVENTS BC SHU 12:00 AM Lieutenant (b)(6) (b)(7)(C) assumes duties as the Morning Watch (b)(7)(E) (b)(7)(F) Operations Lieutenant. 12:00 AM Institution Count in progress 12:00 AM (b)(7)(E) (b)(7)(F) 12:02 AM Count in progress 12:11 AM Watch Calls/Fire Watch completed 12:30 AM Good Verbal count cont. (b)(7)(E) 1:00 AM Good Verbal count announced (b)(7)(F) Clear Institution count announced 3:00 AM Institution Count in progress (b)(7)(E) AM Good Verbal count announced (b)(7)(F) AM Clear Institution count announced 5:00 AM Institution Count in progress (b)(7)(E) AM Good Verbal count announced (b)(7)(F) AM Clear Institution count announced 8:00 AM Relieved of duties by Lt. (b)(7)(E) (b)(7)(F) as D/W Operations Lieutenant The following Inmate(s) were placed in Administrative Detention: Name Reg: Number Reason Unit Time AD Order Ending Count: (b)(7)(E) SHU: (b)(7)(F) 10-South: (b)(7)(E) SHU OBS: (b)(7)(F) Ops Lt. (b)(6) (b)(7)(C) Local Hosp: (b)(7) H/A OBS: (b)(7) B/A OBS: Dry Cell",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "UNITED STATES DEPARTMENT OF JUSTICE METROPOLITAN CORRECTIONAL CENTER, NEW YORK, NY DAILY LIEUTENANT'S LOG",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Shift-Day-Date: M/W Monday, July 29, 2019 Beginning Count: (b)(7)(E) SHU: (b)(7)(F) M/W",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Daily Sensitive Information: (b)(6) (b)(7)(C) I/M Epstein #76318-054 on Psych Obs. w/inmate companion (b)(6) (b)(7)(C)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "TIME CHRONOLOGICAL EVENTS BC SHU",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "The following Inmate(s) were placed in Administrative Detention: Name Reg: Number Reason Unit Time AD Order",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Ending Count: (b)(7)(E) SHU: (b)(7)(F) 10-South: (b)(7)(E) SHU OBS: (b)(7)(F) Ops Lt. (b)(6) (b)(7)(C) Local Hosp: (b)(7) H/A OBS: (b)(7) B/A OBS: Dry Cell",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024531",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [
+      "UNITED STATES DEPARTMENT OF JUSTICE",
+      "METROPOLITAN CORRECTIONAL CENTER"
+    ],
+    "locations": [
+      "NEW YORK",
+      "NY"
+    ],
+    "dates": [
+      "Monday, July 29, 2019"
+    ],
+    "reference_numbers": [
+      "#76318-054",
+      "DOJ-OGR-00024531"
+    ]
+  },
+  "additional_notes": "The document contains redactions, likely for privacy and security reasons. The log details various events and counts at the Metropolitan Correctional Center on July 29, 2019."
+}

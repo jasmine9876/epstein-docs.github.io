@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "2463",
+    "document_number": "DOJ-OGR-00026139",
+    "date": "07/09/2019",
+    "document_type": "Medical Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2463 Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Encounter Date: 07/09/2019 12:35 Sex: M Race: WHITE Provider: (b)(6); (b)(7)(C) Reg #: 76318-054 Facility: NYM MLP Unit: H01 Thorax: Contour Normal: Yes Increased AP Diameter: No Asymmetrical Expansion: No Lungs Clear: Yes Wheezes: No Crackles: No Rhonchi: No Rales: No Accessory Muscle Use: No Comments: Spine: Deformity: No Full ROM: Yes Tenderness: No Comments: Cardiovascular: RRR: Yes Normal S1/S2: Yes Murmurs: No Carotid Bruits: No JVD: No Arteries: Right Left Radial: Femoral: Dorsalis Pedis: Post. Tibialis: Comments: Generated 07/09/2019 13:03 by (b)(6); (b)(7)(C) MLP Bureau of Prisons - NYM Page 10 of 13 DOJ-OGR-00026139",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Encounter Date: 07/09/2019 12:35 Sex: M Race: WHITE Provider: (b)(6); (b)(7)(C) Reg #: 76318-054 Facility: NYM MLP Unit: H01",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Thorax: Contour Normal: Yes Increased AP Diameter: No Asymmetrical Expansion: No Lungs Clear: Yes Wheezes: No Crackles: No Rhonchi: No Rales: No Accessory Muscle Use: No Comments:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Spine: Deformity: No Full ROM: Yes Tenderness: No Comments:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Cardiovascular: RRR: Yes Normal S1/S2: Yes Murmurs: No Carotid Bruits: No JVD: No Arteries: Right Left Radial: Femoral: Dorsalis Pedis: Post. Tibialis: Comments:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/09/2019 13:03 by (b)(6); (b)(7)(C) MLP Bureau of Prisons - NYM Page 10 of 13",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026139",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/09/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026139"
+    ]
+  },
+  "additional_notes": "The document appears to be a medical report for Jeffrey Epstein, containing various medical examination results and information. Some personal identifiers are redacted."
+}

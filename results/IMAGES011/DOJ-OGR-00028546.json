@@ -1,0 +1,78 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028546",
+    "date": "042814",
+    "document_type": "PQH API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 *B PQH API/HIT DATA 042814 *A *C NAME DOB ----- QUERY ----- LNE TERM/ DATE TIME AGN RSLT TYP REF LANE API EPSTEIN, JEFFREY EDWARD 012053 123010 1909 CUS *D AIR INS :W01 N A461-TETERBORO, AIRPORT HANG TECS RECORD ID : CARRIER CODE : *UU U.S. CARRIER UNKNOWN FLT/VES NUMBER : 909JE (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) DOJ-OGR-00028546",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07 *B PQH API/HIT DATA 042814 *A *C",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB ----- QUERY ----- LNE TERM/ DATE TIME AGN RSLT TYP REF LANE API",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY EDWARD 012053 123010 1909 CUS *D AIR INS :W01 N A461-TETERBORO, AIRPORT HANG",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "TECS RECORD ID :",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CARRIER CODE : *UU U.S. CARRIER UNKNOWN FLT/VES NUMBER : 909JE",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "(b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "(b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028546",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "TETERBORO, AIRPORT"
+    ],
+    "dates": [
+      "012053",
+      "123010",
+      "042814"
+    ],
+    "reference_numbers": [
+      "A461",
+      "909JE",
+      "DOJ-OGR-00028546"
+    ]
+  },
+  "additional_notes": "The document contains several redactions marked as (b)(7)(E), (b)(6), and (b)(7)(C), indicating sensitive information has been withheld."
+}

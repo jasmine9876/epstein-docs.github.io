@@ -1,0 +1,96 @@
+{
+  "document_metadata": {
+    "page_number": "3035",
+    "document_number": "ANYMAQ 530*05",
+    "date": "08-05-2019",
+    "document_type": "Inmate Roster",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 3035\n\nANYMAQ 530*05 * INMATE ROSTER 08-05-2019\nPAGE 001 OF 001 15:20:04\nCATEGORY: OCT GROUP CODE:\nASSIGNMENT: ATTY FACILITY: NYM\nOPER CATG ASSIGNMENT OPER CATG ASSIGNMENT\nNUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK\n0001 ATTY [b](6); (b)(7)(C) 76318-054 EPSTEIN 08-05-2019 I04-930U UNASSG\n0002 08-05-2019 Z04-206LAD UNASSG\n0003 [b](6); (b)(7)(C) 08-05-2019 I01-904L UNASSG\n0004 08-05-2019 Z03-110LAD UNASSG\n\nG0000 TRANSACTION SUCCESSFULLY COMPLETED\n\nDOJ-OGR-00026675",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3035",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "ANYMAQ 530*05 * INMATE ROSTER 08-05-2019",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE 001 OF 001 15:20:04",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CATEGORY: OCT GROUP CODE:",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "ASSIGNMENT: ATTY FACILITY: NYM",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "0001 ATTY [b](6); (b)(7)(C) 76318-054 EPSTEIN 08-05-2019 I04-930U UNASSG",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0002 08-05-2019 Z04-206LAD UNASSG",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0003 [b](6); (b)(7)(C) 08-05-2019 I01-904L UNASSG",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "0004 08-05-2019 Z03-110LAD UNASSG",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "G0000 TRANSACTION SUCCESSFULLY COMPLETED",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026675",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "EPSTEIN"
+    ],
+    "organizations": [
+      "NYM"
+    ],
+    "locations": [],
+    "dates": [
+      "08-05-2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "ANYMAQ 530*05",
+      "DOJ-OGR-00026675"
+    ]
+  },
+  "additional_notes": "The document appears to be a printed inmate roster with some redacted information."
+}

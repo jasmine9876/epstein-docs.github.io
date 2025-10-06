@@ -1,0 +1,168 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Telex or Cable",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "010 A/SS AF 011 F 24APR 4 JFKCDG LK2 2150 1110 1/LK 1A/E /1S/US/C//CAB P//0///// /Y 4625/B37.25///EY 4587/NYCPAR/US/F\n006/010 C/OP OPW PHX1A8AEM-15APR:1700/1C7/AF REQUIRES TICKET ON OR BEFORE 16APR:1700/AF 007 F 24APR JFKCDG/AF 012 F 02MAY CDGJFK\n006/010 C/OP OPC PHX1A8AEW-16APR:1700/1C8/AF CANCELLATION DUE TO NO TICKET/1212498622241/ATL/01APR - 1540Z/AF 007 F 24APR JFKCDG/AF 012 F 02MAY CDGJFK\n010 A/OP OPW PHX1A8AEV-15APR:1900/1C7/AF REQUIRES TICKET ON OR BEFORE 16APR:1900/AF 011 F 24APR JFKCDG/AF 012 F 02MAY CDGJFK\n010 A/OP OPC PHX1A8AES-16APR:1900/1C8/AF CANCELLATION DUE TO NO TICKET/1212498622241/ATL/03APR - 1703Z/AF 011 F 24APR JFKCDG/AF 012 F 02MAY CDGJFK\n010 Z/ HDQRM1S 031703 DK872E5FC1083C 0918C03600233E CR-HDQ RM 1S 03APR1703Z\n011 Z/ 1AINV RM AF 031703 CR-1AINV RM AF 0000 03APR1703Z\n012 A/28 OSI AFAX CMA/AX CMP\n012 Z/ HDQRM1S 031707 CR-HDQ RM 1S 03APR1707Z\n010/013 C/OP OPW PHX1A8AEV-15APR:1900/1C7/AF REQUIRES TICKET ON OR BEFORE 16APR:1900/AF 011 F 24APR JFKCDG/AF 012 F 02MAY CDGJFK\n010/013 C/OP OPC PHX1A8AES-16APR:1900/1C8/AF CANCELLATION DUE TO NO TICKET/1212498622241/ATL/03APR - 1703Z/AF 011 F 24APR JFKCDG/AF 012 F 02MAY CDGJFK\n013 Z/ HDQRM1S 041335 CR-HDQ RM 1S 04APR1335Z\n014 A/SK SK SKYP AF HK2/AF 011 F 24APR JFKCDG/EPSTEIN/JEFFREY E (b) (6)\n014 A/SK SK SKYP AF HK2/AF 012 F 02MAY CDGJFK/EPSTEIN/JEFFREY E (b) (6)\n014 Z/ ASTA BLUELINE CR-NICEAF010U 0000000 SU 9876PI/DS-9CBBD419 04APR1434Z\n015 A/SS AF 011 F 26APR 6 JFKCDG LK2 2150 1110 1/LK 1A/E /1S/US/C//CAB P//0///// /Y 4625/B9.859///EY 4615/NYCPAR/US/F\n015 A/SS AF 006 F 04MAY 7 CDGJFK LK2 1400 1615/LK 1A/E /1S/US/C/I//CAB P//0///// /Y 4625/B14.97///EY 4610/PARINYC/US/F\n015 A/OP OPW PHX1A8AE5-22APR:1900/1C7/AF REQUIRES TICKET ON OR BEFORE 23APR:1900/AF 011 F 26APR JFKCDG/AF 006 F 04MAY CDGJFK\n015 A/OP OPC PHX1A8AEX-23APR:1900/1C8/AF CANCELLATION DUE TO NO TICKET/1285673791058/ATL/21APR - 1621Z/AF 011 F 26APR JFKCDG/AF 006 F 04MAY CDGJFK\n015 Z/ HDQRM1S 211621 DK872E5FC10935 0916103D009953 CR-HDQ RM 1S 21APR1621Z\n016 Z/ 1AINV RM AF 211621 CR-1AINV RM AF 0000 21APR1621Z\nDOJ-OGR-00027676",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "010 A/SS AF 011 F 24APR 4 JFKCDG LK2 2150 1110 1/LK 1A/E /1S/US/C//CAB P//0///// /Y 4625/B37.25///EY 4587/NYCPAR/US/F",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "006/010 C/OP OPW PHX1A8AEM-15APR:1700/1C7/AF REQUIRES TICKET ON OR BEFORE 16APR:1700/AF 007 F 24APR JFKCDG/AF 012 F 02MAY CDGJFK",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "006/010 C/OP OPC PHX1A8AEW-16APR:1700/1C8/AF CANCELLATION DUE TO NO TICKET/1212498622241/ATL/01APR - 1540Z/AF 007 F 24APR JFKCDG/AF 012 F 02MAY CDGJFK",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "010 A/OP OPW PHX1A8AEV-15APR:1900/1C7/AF REQUIRES TICKET ON OR BEFORE 16APR:1900/AF 011 F 24APR JFKCDG/AF 012 F 02MAY CDGJFK",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "010 A/OP OPC PHX1A8AES-16APR:1900/1C8/AF CANCELLATION DUE TO NO TICKET/1212498622241/ATL/03APR - 1703Z/AF 011 F 24APR JFKCDG/AF 012 F 02MAY CDGJFK",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "010 Z/ HDQRM1S 031703 DK872E5FC1083C 0918C03600233E CR-HDQ RM 1S 03APR1703Z",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "011 Z/ 1AINV RM AF 031703 CR-1AINV RM AF 0000 03APR1703Z",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "012 A/28 OSI AFAX CMA/AX CMP",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "012 Z/ HDQRM1S 031707 CR-HDQ RM 1S 03APR1707Z",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "010/013 C/OP OPW PHX1A8AEV-15APR:1900/1C7/AF REQUIRES TICKET ON OR BEFORE 16APR:1900/AF 011 F 24APR JFKCDG/AF 012 F 02MAY CDGJFK",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "010/013 C/OP OPC PHX1A8AES-16APR:1900/1C8/AF CANCELLATION DUE TO NO TICKET/1212498622241/ATL/03APR - 1703Z/AF 011 F 24APR JFKCDG/AF 012 F 02MAY CDGJFK",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "013 Z/ HDQRM1S 041335 CR-HDQ RM 1S 04APR1335Z",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "014 A/SK SK SKYP AF HK2/AF 011 F 24APR JFKCDG/EPSTEIN/JEFFREY E (b) (6)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "014 A/SK SK SKYP AF HK2/AF 012 F 02MAY CDGJFK/EPSTEIN/JEFFREY E (b) (6)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "014 Z/ ASTA BLUELINE CR-NICEAF010U 0000000 SU 9876PI/DS-9CBBD419 04APR1434Z",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "015 A/SS AF 011 F 26APR 6 JFKCDG LK2 2150 1110 1/LK 1A/E /1S/US/C//CAB P//0///// /Y 4625/B9.859///EY 4615/NYCPAR/US/F",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "015 A/SS AF 006 F 04MAY 7 CDGJFK LK2 1400 1615/LK 1A/E /1S/US/C/I//CAB P//0///// /Y 4625/B14.97///EY 4610/PARINYC/US/F",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "015 A/OP OPW PHX1A8AE5-22APR:1900/1C7/AF REQUIRES TICKET ON OR BEFORE 23APR:1900/AF 011 F 26APR JFKCDG/AF 006 F 04MAY CDGJFK",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "015 A/OP OPC PHX1A8AEX-23APR:1900/1C8/AF CANCELLATION DUE TO NO TICKET/1285673791058/ATL/21APR - 1621Z/AF 011 F 26APR JFKCDG/AF 006 F 04MAY CDGJFK",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "015 Z/ HDQRM1S 211621 DK872E5FC10935 0916103D009953 CR-HDQ RM 1S 21APR1621Z",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "016 Z/ 1AINV RM AF 211621 CR-1AINV RM AF 0000 21APR1621Z",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027676",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY E EPSTEIN"
+    ],
+    "organizations": [
+      "AF",
+      "HDQRM1S",
+      "1AINV RM AF",
+      "OSI AFAX CMA",
+      "ASTA BLUELINE"
+    ],
+    "locations": [
+      "JFK",
+      "CDG",
+      "NYC",
+      "PAR",
+      "ATL",
+      "NICE"
+    ],
+    "dates": [
+      "24APR",
+      "02MAY",
+      "03APR",
+      "04APR",
+      "26APR",
+      "04MAY",
+      "21APR",
+      "16APR",
+      "23APR",
+      "01APR",
+      "22APR"
+    ],
+    "reference_numbers": [
+      "1212498622241",
+      "1285673791058",
+      "4625/B37.25",
+      "EY 4587",
+      "4625/B9.859",
+      "EY 4615",
+      "4625/B14.97",
+      "EY 4610",
+      "DOJ-OGR-00027676"
+    ]
+  },
+  "additional_notes": "The document appears to be a series of telex or cable communications related to flight arrangements and cancellations. It includes details such as flight numbers, dates, and passenger information. The document is likely related to Jeffrey Epstein's travel arrangements."
+}

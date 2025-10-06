@@ -1,0 +1,67 @@
+{
+  "document_metadata": {
+    "page_number": "532",
+    "document_number": "DOJ-OGR-00024548",
+    "date": "08/19/2019",
+    "document_type": "Log Entries By Event Date",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Date: 08/19/2019 Time: 10:15 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count 7/22/2019 1:00 AM NYM Housing Units Housing Units, General Population ES 7/22/2019 12:59 AM Morning DKDJDIVJIG Inventory Sheet Verified 7/22/2019 1:00 AM NYM Housing Units Housing Units, General Population ES 7/22/2019 12:59 AM Morning Key Check 7/22/2019 1:00 AM NYM Housing Units Housing Units, General Population ES 7/22/2019 12:59 AM Morning OC Spray Check 7/22/2019 1:00 AM NYM Housing Units Housing Units, General Population ES 7/22/2019 12:59 AM Morning Radio Check 7/22/2019 1:00 AM NYM Housing Units Housing Units, General Population ES 7/22/2019 1:00 AM Morning Fire and Security Check 7/22/2019 1:00 AM NYM Housing Units Housing Units, General Population ES 7/22/2019 1:00 AM Morning Official Count 7/22/2019 1:01 AM NYM Housing Units Housing Units, General Population ES 7/22/2019 1:01 AM Morning Rounds (Officer) 7/22/2019 1:01 AM NYM Housing Units Housing Units, General Population ES 7/22/2019 1:01 AM Morning Search (Areas) 7/22/2019 1:01 AM NYM Housing Units Housing Units, General Population ES 7/22/2019 1:01 AM Morning Search (Areas) 7/22/2019 1:01 AM NYM Housing Units Housing Units, General Population ES 7/22/2019 1:01 AM Morning Search (Areas) User ID: DKDJDIVJIG Page 532 of 1155 DOJ-OGR-00024548",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date: 08/19/2019 Time: 10:15 AM",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "7/22/2019 1:00 AM NYM Housing Units Housing Units, General Population ES 7/22/2019 12:59 AM Morning DKDJDIVJIG Inventory Sheet Verified",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "User ID: DKDJDIVJIG",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 532 of 1155",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024548",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [
+      "Housing Units",
+      "Housing Units, General Population",
+      "ES"
+    ],
+    "dates": [
+      "08/19/2019",
+      "7/22/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00024548"
+    ]
+  },
+  "additional_notes": "The document appears to be a log entry report from the Federal Bureau of Prisons, detailing various events and checks performed on July 22, 2019. The report includes information on the date, time, location, and user ID associated with each event."
+}

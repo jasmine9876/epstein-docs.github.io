@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "24 of 38",
+    "document_number": "33",
+    "date": "04/09/20",
+    "document_type": "Exhibit",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:19-cr-00830-AT Document 33 Filed 04/09/20 Page 24 of 38 EXHIBIT B DOJ-OGR-00022047",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:19-cr-00830-AT Document 33 Filed 04/09/20 Page 24 of 38",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EXHIBIT B",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022047",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "04/09/20"
+    ],
+    "reference_numbers": [
+      "1:19-cr-00830-AT",
+      "Document 33",
+      "DOJ-OGR-00022047"
+    ]
+  },
+  "additional_notes": "The document appears to be a blank exhibit page with a header and footer containing case information and a reference number."
+}

@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024055",
+    "date": null,
+    "document_type": "Visit Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE NAME SIGNATURE INMATE Reg# Time in Time OUT (b)(6), (b)(7)(C) 8/7/14 Severn Epstein 76318-054 6:00 (b)(6), (b)(7)(C) 8/8 G.Tal Colon May J.Epstein 7631800r 8:98 10:50 8/8 8/8 Meade J.Epstein J.Epstein 76318-054 76318-054 8:40 8:80 11:34 10:30 DOJ-OGR-00024055",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE NAME SIGNATURE INMATE Reg# Time in Time OUT",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/7/14 Severn Epstein 76318-054 6:00",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/8 G.Tal Colon May J.Epstein 7631800r 8:98 10:50",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/8 Meade J.Epstein 76318-054 8:80 10:30",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024055",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Severn",
+      "G.Tal",
+      "Colon",
+      "May",
+      "Meade",
+      "J.Epstein",
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "8/7/14",
+      "8/8"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "7631800r",
+      "DOJ-OGR-00024055"
+    ]
+  },
+  "additional_notes": "The document appears to be a visit log with some redacted information. The redactions are marked as (b)(6), (b)(7)(C)."
+}

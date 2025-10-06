@@ -1,0 +1,40 @@
+{
+  "document_metadata": {
+    "page_number": "1850",
+    "document_number": "DOJ-OGR-00023682",
+    "date": "2019/11/06",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Re: Epstein, Jeffrey 76318-054\nFrom Charisma Edge\nTo (b)(6),(b)(7)(C) James Petrucci\nDate 2019/11/06 07:01\nSubject: Re: Epstein, Jeffrey 76318-054\nAttachments: TEXT.htm, Charisma Edge.vcf\nPage 1850\nDOJ-OGR-00023682",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Re: Epstein, Jeffrey 76318-054\nFrom Charisma Edge\nTo (b)(6),(b)(7)(C) James Petrucci\nDate 2019/11/06 07:01\nSubject: Re: Epstein, Jeffrey 76318-054\nAttachments: TEXT.htm, Charisma Edge.vcf",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Page 1850\nDOJ-OGR-00023682",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Charisma Edge",
+      "James Petrucci"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "2019/11/06"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00023682"
+    ]
+  },
+  "additional_notes": "The email contains redactions in the 'To' field, marked as (b)(6),(b)(7)(C)."
+}

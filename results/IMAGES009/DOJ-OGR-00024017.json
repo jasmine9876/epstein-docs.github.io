@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024017",
+    "date": "7-17",
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "7-17 Calender Not Epseden 76318-054 12:38 2:38 76318 054 35",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "7-17",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Calender",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Not",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epseden",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318-054",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "12:38 2:38",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318 054 35",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7-17"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "76318 054 35"
+    ]
+  },
+  "additional_notes": "The document contains handwritten text with redactions marked as (b)(6); (b)(7)(C). The handwriting is mostly legible, but some parts are obscured or redacted."
+}

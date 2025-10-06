@@ -1,0 +1,59 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028390",
+    "date": "042814",
+    "document_type": "PQH API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 *B PQH API/HIT DATA 042814 *A *C NAME DOB ----- QUERY ----- LNE TERM/ DATE TIME AGN RSLT TYP REF LANE API EPSTEIN, JEFFREY 012053 062703 1747 INS *D AIR RA07 N A511-CBP-CYRIL E KING, INTL TECS RECORD ID : CARRIER CODE : FLT/VES NUMBER : UNKN (b) (7) (E) (b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) DOJ-OGR-00028390",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07 *B PQH API/HIT DATA 042814 *A *C",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB ----- QUERY ----- LNE TERM/ DATE TIME AGN RSLT TYP REF LANE API EPSTEIN, JEFFREY 012053 062703 1747 INS *D AIR RA07 N A511-CBP-CYRIL E KING, INTL TECS RECORD ID : CARRIER CODE : FLT/VES NUMBER : UNKN",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "(b) (7) (E)",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028390",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "CBP"
+    ],
+    "locations": [
+      "CYRIL E KING, INTL"
+    ],
+    "dates": [
+      "062703",
+      "042814",
+      "012053"
+    ],
+    "reference_numbers": [
+      "A511-CBP-CYRIL E KING, INTL",
+      "DOJ-OGR-00028390"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b) (7) (E)' and '(b) (6), (b) (7) (C)'. The document appears to be a record of a query related to an individual, JEFFREY EPSTEIN, and contains details such as date of birth, query date and time, and travel information."
+}

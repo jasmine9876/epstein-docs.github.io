@@ -1,0 +1,55 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024273",
+    "date": null,
+    "document_type": "Inmate Visit Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE NAME Signature INMATE Reg# Time IN Time OUT (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) Froboff 7(0312-05 11:00 DOJ-OGR-00024273",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE NAME Signature INMATE Reg# Time IN Time OUT",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Froboff",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7(0312-05 11:00",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024273",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7(0312-05"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00024273"
+    ]
+  },
+  "additional_notes": "The document appears to be a log of inmate visits, with some information redacted. The image has been partially obscured, making it difficult to read some of the content."
+}

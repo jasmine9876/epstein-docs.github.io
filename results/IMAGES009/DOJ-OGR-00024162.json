@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "76318-054",
+    "date": "05/11/2020",
+    "document_type": "Immunizations Record",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Bureau of Prisons Health Services Immunizations Begin Date: 07/06/2019 End Date: 05/11/2020 Reg #: 76318-054 Inmate Name: EPSTEIN, JEFFREY EDWARD Immunization Immunization Date Administered Location Dosage Drug Mfg. Lot # Exp Date Hepatitis A and B (TwinRx) History Unknown Orig Entered: 07/09/2019 12:51 EST (b)(6). (b)(7)(C) MLP Measles/Mumps/Rubella Series History Unknown Orig Entered: 07/09/2019 12:51 EST (b)(6). (b)(7)(C) MLP Smallpox Series History Unknown Tetanus History Unknown Orig Entered: 07/09/2019 12:51 EST (b)(6). (b)(7)(C) MLP Varicella Series History Unknown Orig Entered: 07/09/2019 12:51 EST (b)(6). (b)(7)(C) MLP Total: 5 Generated 05/11/2020 09:57 by (b)(6). (b)(7)(C) GGC Bureau of Prisons - DAN Page 1 of 1 DOJ-OGR-00024162",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Bureau of Prisons Health Services Immunizations",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Begin Date: 07/06/2019 End Date: 05/11/2020 Reg #: 76318-054 Inmate Name: EPSTEIN, JEFFREY EDWARD",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Immunization Immunization Date Administered Location Dosage Drug Mfg. Lot # Exp Date",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Hepatitis A and B (TwinRx) History Unknown Orig Entered: 07/09/2019 12:51 EST (b)(6). (b)(7)(C) MLP Measles/Mumps/Rubella Series History Unknown Orig Entered: 07/09/2019 12:51 EST (b)(6). (b)(7)(C) MLP Smallpox Series History Unknown Tetanus History Unknown Orig Entered: 07/09/2019 12:51 EST (b)(6). (b)(7)(C) MLP Varicella Series History Unknown Orig Entered: 07/09/2019 12:51 EST (b)(6). (b)(7)(C) MLP Total: 5",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 05/11/2020 09:57 by (b)(6). (b)(7)(C) GGC Bureau of Prisons - DAN Page 1 of 1 DOJ-OGR-00024162",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [],
+    "dates": [
+      "07/06/2019",
+      "05/11/2020",
+      "07/09/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024162"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as (b)(6). (b)(7)(C)."
+}

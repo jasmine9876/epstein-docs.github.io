@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024059",
+    "date": null,
+    "document_type": "Inmate Visit Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE NAME Signature Inmate Reg # Time in Time out 8/8/19 Colón Epstein 76318054 8:30 (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) 8/8/19 Deacon Epstein 76318054 8:00 1:00 (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) 8/9 Colón G. Tali Epstein J. Epstein 76318-054 76318-054 11:20 11:00 11:35 6:03 (b)(6), (b)(7)(C) (b)(6), (b)(7)(C)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE NAME Signature Inmate Reg # Time in Time out",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/8/19 Colón Epstein 76318054 8:30 (b)(6), (b)(7)(C) (b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/8/19 Deacon Epstein 76318054 8:00 1:00 (b)(6), (b)(7)(C) (b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/9 Colón G. Tali Epstein J. Epstein 76318-054 76318-054 11:20 11:00 11:35 6:03 (b)(6), (b)(7)(C) (b)(6), (b)(7)(C)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024059",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Colón",
+      "Deacon",
+      "G. Tali",
+      "Epstein",
+      "J. Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "8/8/19",
+      "8/9"
+    ],
+    "reference_numbers": [
+      "76318054",
+      "76318-054"
+    ]
+  },
+  "additional_notes": "The document appears to be an inmate visit log with handwritten entries. Some names and details are redacted with (b)(6), (b)(7)(C)."
+}

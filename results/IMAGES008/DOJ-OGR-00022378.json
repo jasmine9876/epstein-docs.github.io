@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "93",
+    "document_number": "DOJ-OGR-00022378",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information South Ken The Home Office SWITZERLAND (SW) Bristol Hotel The Corvaglia Club The Steffani TRAVEL (T) Aero Leasing Air France Air Hansan American Airlines American Express AT&T British Airways Clticar Concord Tickets Continental Airlines Delta Airlines Delta Dash DHL Courier Flight Options Flyaway Frequent Flyer Clubs Garnero, Jr., Mario B. Helicopters",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "South Ken The Home Office SWITZERLAND (SW) Bristol Hotel The Corvaglia Club The Steffani TRAVEL (T) Aero Leasing Air France Air Hansan American Airlines American Express AT&T British Airways Clticar Concord Tickets Continental Airlines Delta Airlines Delta Dash DHL Courier Flight Options Flyaway Frequent Flyer Clubs Garnero, Jr., Mario B. Helicopters",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022378",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "93",
+      "position": "margin"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Garnero, Jr., Mario B."
+    ],
+    "organizations": [
+      "The Home Office",
+      "Bristol Hotel",
+      "The Corvaglia Club",
+      "The Steffani",
+      "Aero Leasing",
+      "Air France",
+      "Air Hansan",
+      "American Airlines",
+      "American Express",
+      "AT&T",
+      "British Airways",
+      "Clticar",
+      "Concord Tickets",
+      "Continental Airlines",
+      "Delta Airlines",
+      "Delta Dash",
+      "DHL Courier",
+      "Flight Options",
+      "Flyaway",
+      "Frequent Flyer Clubs",
+      "Helicopters"
+    ],
+    "locations": [
+      "South Ken",
+      "SWITZERLAND"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022378"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 93 and the document number is DOJ-OGR-00022378."
+}

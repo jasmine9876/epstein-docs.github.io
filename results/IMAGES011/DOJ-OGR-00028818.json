@@ -1,0 +1,73 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "042814",
+    "date": "060613",
+    "document_type": "PQH API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:08 PQH API/HIT DATA 042814 *B *A *C NAME DOB QUERY DATE TIME AGN RSLT LNE TYP REF TERM/ LANE API EPSTEIN, JEFFREY E 012053 060613 0000 *D API CDG -PARIS, CH. DE GAULLE DOC: INSP: APIS QRY API DATA ---- INDICATOR : R CARRIER CODE : AF FLT/VES NUMBER : 7 ARRIVAL LOCATION : CDG DEPARTURE LOCATION : JFK TRANSMITTED BY : ALTEA+CM INBOUND/OUTBOUND : OUTBOUND REPORTED AIR FRANCE PARIS, CH. DE GAULLE JOHN F KENNEDY INTL AMADEUS DCS ALTEA CM (b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) DOJ-OGR-00028818",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:08 PQH API/HIT DATA 042814",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB QUERY DATE TIME AGN RSLT LNE TYP REF TERM/ LANE API",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY E 012053 060613 0000 *D API CDG -PARIS, CH. DE GAULLE DOC: INSP: APIS QRY",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "API DATA ---- INDICATOR : R CARRIER CODE : AF FLT/VES NUMBER : 7 ARRIVAL LOCATION : CDG DEPARTURE LOCATION : JFK TRANSMITTED BY : ALTEA+CM INBOUND/OUTBOUND : OUTBOUND",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "REPORTED AIR FRANCE PARIS, CH. DE GAULLE JOHN F KENNEDY INTL AMADEUS DCS ALTEA CM",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "(b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028818",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY E EPSTEIN"
+    ],
+    "organizations": [
+      "AIR FRANCE",
+      "AMADEUS DCS ALTEA CM",
+      "ALTEA+CM"
+    ],
+    "locations": [
+      "PARIS",
+      "CH. DE GAULLE",
+      "JFK",
+      "JOHN F KENNEDY INTL"
+    ],
+    "dates": [
+      "060613",
+      "012053"
+    ],
+    "reference_numbers": [
+      "042814",
+      "DOJ-OGR-00028818"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b) (7) (E)' and '(b) (6), (b) (7) (C)'. The document appears to be related to an API/HIT data query for a flight."
+}

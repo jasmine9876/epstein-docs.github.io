@@ -1,0 +1,94 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": "03/23/2003",
+    "document_type": "I095 Inspection Results",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07:59 I095 Inspection Results 042814 A523 PALM BEACH, INT ZZ 909 UNKOWN AIRLINE CODE DOCTYP*: P #*: 207320604 CTRY*: US UNITED STATES ST: M/F: DNAME (LAST) : EPSTEIN FRST: JEFFREY DOB: 012053 RFRD BY: -CBP OFFCR-C DTE: 03232003 TME: 2142 REASON: (b)(7)(E) CCD: SNAME (LAST) : FRST: DOB: NATIONALITY: US UNITED STATES DISP: USC U.S. CITIZEN RCPT#: AUDATE: CHARGE (CODED) : (b)(7)(E) FIN#: DFRD TO: SEC OFCR: -CBP OFFCR-C 03/23/2003 21:57 IOEM#: REFR CDE: COMMENTS: VIOLS: SUBJECT REPORTED THAT HE DID NOT REPORT PASSPORT STOLEN, ACTUAL OWNER OF PASSPORT WHTI CMPLNT? ADDL COMMS: (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(6) (b)(7)(C) *E - (b)(6) (b)(7)(C) *F - (b)(7)(E) *G - (b)(7)(E) *H - (b)(7)(E) DOJ-OGR-00028651",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07:59 I095 Inspection Results 042814",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "A523 PALM BEACH, INT ZZ 909 UNKOWN AIRLINE CODE DOCTYP*: P #*: 207320604 CTRY*: US UNITED STATES ST: M/F:",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "DNAME (LAST) : EPSTEIN FRST: JEFFREY DOB: 012053",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "RFRD BY: -CBP OFFCR-C DTE: 03232003 TME: 2142 REASON: (b)(7)(E) CCD:",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "SNAME (LAST) : FRST: DOB:",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "NATIONALITY: US UNITED STATES DISP: USC U.S. CITIZEN RCPT#: AUDATE:",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "CHARGE (CODED) : (b)(7)(E) FIN#: DFRD TO: SEC OFCR: -CBP OFFCR-C 03/23/2003 21:57 IOEM#: REFR CDE: COMMENTS: VIOLS:",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "SUBJECT REPORTED THAT HE DID NOT REPORT PASSPORT STOLEN, ACTUAL OWNER OF PASSPORT",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "WHTI CMPLNT? ADDL COMMS: (b)(7)(E)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(6) (b)(7)(C) *E - (b)(6) (b)(7)(C) *F - (b)(7)(E) *G - (b)(7)(E) *H - (b)(7)(E)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028651",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "CBP"
+    ],
+    "locations": [
+      "PALM BEACH",
+      "UNITED STATES"
+    ],
+    "dates": [
+      "03/23/2003",
+      "01/20/53"
+    ],
+    "reference_numbers": [
+      "207320604",
+      "DOJ-OGR-00028651"
+    ]
+  },
+  "additional_notes": "The document contains multiple redacted sections, indicated by '(b)(7)(E)' and other codes, suggesting sensitive information has been withheld."
+}

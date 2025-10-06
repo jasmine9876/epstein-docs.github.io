@@ -1,0 +1,94 @@
+{
+  "document_metadata": {
+    "page_number": "2895",
+    "document_number": null,
+    "date": "8/12/19",
+    "document_type": "Official Count Slip",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2895 Metropolitan Correctional Center Official Count Slip Unit: ES Date: 8/12/19 Count: Time: 4pm Print Name: (b)(6); (b)(7)(C) Signature: Print Name: Signature: Metropolitan Correctional Center New York, New York Official Count Slip Unit: (b)(7)(F) Date: 8/12/19 Count: Time: 4:00pm (b)(6); (b)(7)(C) 1. Print Na 1. Signature 2. Print Na 2. Signature: Metropolitan Correctional Center Official Count Slip Unit: ZA Date: 8/12/19 Count: (b)(7)(F) Time: 4:00 Print Name: (b)(6); (b)(7)(C) Signature: Print Name: Signature: DOJ-OGR-00026551",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/12/19 4pm",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Unit: ES Date: Count: Time: Print Name: Signature: Print Name: Signature:",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center New York, New York Official Count Slip",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/12/19 4:00pm",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Unit: (b)(7)(F) Date: Count: Time: 1. Print Na 1. Signature 2. Print Na 2. Signature:",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "ZA 8/12/19 4:00",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Unit: Date: Count: Time: Print Name: Signature: Print Name: Signature:",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(7)(F) (b)(6); (b)(7)(C)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026551",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "8/12/19"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026551"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6); (b)(7)(C) and (b)(7)(F). The image quality is clear, but some information is obscured due to redactions."
+}

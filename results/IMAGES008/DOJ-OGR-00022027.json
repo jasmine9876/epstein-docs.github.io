@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "33",
+    "date": "04/09/20",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:19-cr-00830-AT Document 33 Filed 04/09/20 Page 4 of 38\n\nRULES\nFed. R. Crim. P. 16.......................1-2, 4, 7-8, 11-15\nRule 16(a)(1)(C) ................................11, 13\nFed. R. Crim. P. 16(a)(1)(E).......................8\nFed. R. Crim. P. 16(a)(1)(E)(i) .......................8, 10\niii\nDOJ-OGR-00022027",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:19-cr-00830-AT Document 33 Filed 04/09/20 Page 4 of 38",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "RULES",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Fed. R. Crim. P. 16.......................1-2, 4, 7-8, 11-15\nRule 16(a)(1)(C) ................................11, 13\nFed. R. Crim. P. 16(a)(1)(E).......................8\nFed. R. Crim. P. 16(a)(1)(E)(i) .......................8, 10",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "iii",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022027",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "04/09/20"
+    ],
+    "reference_numbers": [
+      "1:19-cr-00830-AT",
+      "33",
+      "DOJ-OGR-00022027"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with references to Federal Rules of Criminal Procedure. The content is mostly printed text with no visible handwriting or stamps."
+}

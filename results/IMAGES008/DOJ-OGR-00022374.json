@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "7",
+    "document_number": "DOJ-OGR-00022374",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Stichcraft Tobias, Maxine Unlisted London Yara MEDICAL Birnbaum, Dr Burman, Dr Chiropractor Cope, Bruce Dr. Bruno Dr. Dean Calakos Dr. Farkus Dr. Ray Dr. Kashel Dr. Schimoni Ear Conning Gaynor, Dr J R Hirshfield, Dr Ishmail Kent, Susan DVM Krumholtz, Dr. Michael Lee, Dr. Lister Hospital Magnani, Dr. Medical MedLink Emergency Meltzer, J. Dr. Moskowitz, Dr. Bruce 68",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Stichcraft\nTobias, Maxine\nUnlisted London\nYara\nMEDICAL\nBirnbaum, Dr\nBurman, Dr\nChiropractor\nCope, Bruce\nDr. Bruno\nDr. Dean Calakos\nDr. Farkus\nDr. Ray Dr. Kashel\nDr. Schimoni\nEar Conning\nGaynor, Dr J R\nHirshfield, Dr.\nIshmail\nKent, Susan DVM\nKrumholtz, Dr. Michael\nLee, Dr.\nLister Hospital\nMagnani, Dr.\nMedical\nMedLink Emergency\nMeltzer, J. Dr.\nMoskowitz, Dr. Bruce",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "68",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022374",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Maxine Tobias",
+      "Bruce Cope",
+      "Dr. Bruno",
+      "Dr. Dean Calakos",
+      "Dr. Farkus",
+      "Dr. Ray",
+      "Dr. Kashel",
+      "Dr. Schimoni",
+      "Dr. J R Gaynor",
+      "Dr. Hirshfield",
+      "Ishmail",
+      "Susan Kent",
+      "Dr. Michael Krumholtz",
+      "Dr. Lee",
+      "Dr. Magnani",
+      "Dr. J. Meltzer",
+      "Dr. Bruce Moskowitz",
+      "Dr. Birnbaum",
+      "Dr. Burman"
+    ],
+    "organizations": [
+      "Lister Hospital",
+      "MedLink Emergency",
+      "Stichcraft"
+    ],
+    "locations": [
+      "London",
+      "Yara"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022374"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is visible at the bottom left corner as '68' and the document number 'DOJ-OGR-00022374' is at the bottom right corner."
+}

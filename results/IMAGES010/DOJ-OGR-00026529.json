@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": "2873",
+    "document_number": "NYMBB 530.03",
+    "date": "08-12-2019",
+    "document_type": "BUREAU OF PRISONS COUNT SHEET",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2873 NYMBB 530.03 * BUREAU OF PRISONS COUNT SHEET * 08-12-2019 PAGE 001 * NEW YORK MCC * 04:57:29 QTRG EQ *** OCTG EQ **** OUT COUNT SECTION TRV OC TU VERIFY COUNT COUNT AREA CENSUS COUNT AREA B-A . . . . . . . . . . . . . B-A C-A . . . . . . . . . . . . . C-A E-N . . 2 . . . . 2 . . . . E-N E-S . . . . . 1 1 . . . . E-S G-N . . . . . . . . . . . . G-N G-S . . . . . . . . . . . . G-S H-A . . . . . . . . . . . . H-A I-N . . . . . . . . . . . . I-N K-N . . . . . . . . . . . . K-N K-S . . 1 . . . . 1 . . . . K-S R-A . . . . . . . . . . . . R-A Z-A . . . . . . . . . . . . Z-A Z-B . . . . . . . . . . . . Z-B TOTAL . . 3 . 1 4 . . . . COUNT VERIFY OFFICIAL PREPARING COUNT: (b)(6); (b)(7)(c) OFFICIAL TAKING COUNT: COUNT CLEARED TIME: Good verbal DOJ-OGR-00026529",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 2873 NYMBB 530.03 * BUREAU OF PRISONS COUNT SHEET * 08-12-2019 PAGE 001 * NEW YORK MCC * 04:57:29 QTRG EQ *** OCTG EQ ****",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "OUT COUNT SECTION TRV OC TU VERIFY COUNT COUNT AREA CENSUS COUNT AREA",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "B-A . . . . . . . . . . . . . B-A C-A . . . . . . . . . . . . . C-A E-N . . 2 . . . . 2 . . . . E-N E-S . . . . . 1 1 . . . . E-S G-N . . . . . . . . . . . . G-N G-S . . . . . . . . . . . . G-S H-A . . . . . . . . . . . . H-A I-N . . . . . . . . . . . . I-N K-N . . . . . . . . . . . . K-N K-S . . 1 . . . . 1 . . . . K-S R-A . . . . . . . . . . . . R-A Z-A . . . . . . . . . . . . Z-A Z-B . . . . . . . . . . . . Z-B TOTAL . . 3 . 1 4 . . . .",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "COUNT VERIFY OFFICIAL PREPARING COUNT: (b)(6); (b)(7)(c) OFFICIAL TAKING COUNT: COUNT CLEARED TIME:",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "Good verbal",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026529",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "BUREAU OF PRISONS",
+      "DOJ"
+    ],
+    "locations": [
+      "NEW YORK MCC"
+    ],
+    "dates": [
+      "08-12-2019"
+    ],
+    "reference_numbers": [
+      "NYMBB 530.03",
+      "DOJ-OGR-00026529"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6) and (b)(7)(c). The count sheet appears to be a record of prisoner counts in different areas of the New York MCC facility."
+}

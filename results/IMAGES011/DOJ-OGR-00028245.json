@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "0051",
+    "document_number": "DOJ-OGR-00028245",
+    "date": "04282014",
+    "document_type": "TECSII - PRIMARY QUERY HISTORY PASSENGER ACTIVITY",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 TECSI - PRIMARY QUERY HISTORY 04282014 *A *B PASSENGER ACTIVITY *C PAGE NO. 0051 NAME DOB QUERY DATE TIME AGN RSLT TYP LNE REF LANE TERM/ API DIM EPSTEIN, JEFFREY EDWARD 012053 123010 1909 CUS *D AIR INS :W01 N N A461-TETERBORO, AIRPORT HANG DOC: 469911707 US P INSP: *E EPSTEIN, JEFFREY EDWARD 012053 110110 0000 *F API 01 R N PARIS, ORLY DOC: 469911707 US P INSP: APIS QRY EPSTEIN, JEFFREY EDWARD 012053 111610 1341 CUS *G API INS :%19 C N A103-NEWARK, INTL AIRPORT T DOC: 469911707 US P INSP: *H EPSTEIN, JEFFREY EDWARD 012053 092110 1223 CUS *I AIR INS /M01 N N A10D-TETERBORO, JET AVIATION DOC: 469911707 US P INSP: *J EPSTEIN, JEFFREY EDWARD 012053 080210 2045 CUS *K AIR INS :W01 N N A461-TETERBORO, AIRPORT HANG DOC: 469911707 US P INSP: *L EPSTEIN, JEFFREY EDWARD 012053 070210 1703 CUS *M AIR CUS :$02 N N A523-PALM BEACH, INTERNATION DOC: 469911707 US P INSP: *N (b)(7)(E) <...MORE...> (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(6), (b)(7)(C) *F - (b)(7)(E) *G - (b)(7)(E) *H - (b)(6), (b)(7)(C) *I - (b)(7)(E) *J - (b)(6), (b)(7)(C) *K - (b)(7)(E) *L - (b)(6), (b)(7)(C) *M - (b)(7)(E) *N - (b)(6), (b)(7)(C) DOJ-OGR-00028245",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "TECSII - PRIMARY QUERY HISTORY PASSENGER ACTIVITY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE NO. 0051",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB QUERY DATE TIME AGN RSLT TYP LNE REF LANE TERM/ API DIM",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY EDWARD 012053 123010 1909 CUS *D AIR INS :W01 N N A461-TETERBORO, AIRPORT HANG DOC: 469911707 US P INSP: *E",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(6), (b)(7)(C) *F - (b)(7)(E) *G - (b)(7)(E) *H - (b)(6), (b)(7)(C) *I - (b)(7)(E) *J - (b)(6), (b)(7)(C) *K - (b)(7)(E) *L - (b)(6), (b)(7)(C) *M - (b)(7)(E) *N - (b)(6), (b)(7)(C)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028245",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "TETERBORO",
+      "PARIS",
+      "ORLY",
+      "NEWARK",
+      "PALM BEACH"
+    ],
+    "dates": [
+      "04282014",
+      "123010",
+      "110110",
+      "111610",
+      "092110",
+      "080210",
+      "070210"
+    ],
+    "reference_numbers": [
+      "469911707",
+      "DOJ-OGR-00028245"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted version of a TECSII primary query history passenger activity report. The redactions are indicated by (b)(6), (b)(7)(C), and (b)(7)(E)."
+}

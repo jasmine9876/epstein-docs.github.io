@@ -1,0 +1,73 @@
+{
+  "document_metadata": {
+    "page_number": "2470",
+    "document_number": "DOJ-OGR-00026146",
+    "date": "08/10/2019",
+    "document_type": "Bureau of Prisons Health Services Vitals Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2470 Bureau of Prisons Health Services Vitals All Begin Date: 07/07/2019 End Date: 08/10/2019 Reg #: 76318-054 Inmate Name: EPSTEIN, JEFFREY EDWARD Temperature: Date Time Fahrenheit Celsius Location Provider 07/24/2019 13:12 NYM 97.8 36.6 Oral MLP Orig Entered: 07/24/2019 13:14 EST (b)(6); (b)(7)(C) 07/23/2019 06:30 NYM 97.5 36.4 Oral MLP Orig Entered: 07/23/2019 08:33 EST (b)(6); (b)(7)(C) 07/09/2019 12:49 NYM 97.3 36.3 Oral MLP Orig Entered: 07/09/2019 12:51 EST (b)(6); (b)(7)(C) Pulse: Date Time Rate Per Minute Location Rhythm Provider 07/30/2019 13:02 94 MD MD Orig Entered: 07/30/2019 13:04 EST (b)(6); (b)(7)(C) 07/30/2019 09:40 88 Via Machine MD MD Orig Entered: 07/30/2019 13:04 EST (b)(6); (b)(7)(C) 07/30/2019 09:30 87 Via Machine MD MD Orig Entered: 07/30/2019 12:59 EST (b)(6); (b)(7)(C) 07/28/2019 20:28 81 RN RN Orig Entered: 07/28/2019 20:29 EST (b)(6); (b)(7)(C) 07/28/2019 06:57 82 RN RN Orig Entered: 07/28/2019 06:58 EST (b)(6); (b)(7)(C) 07/24/2019 13:12 83 Via Machine Regular MLP MLP Orig Entered: 07/24/2019 13:14 EST (b)(6); (b)(7)(C) 07/23/2019 06:30 92 Via Machine Regular MLP MLP Orig Entered: 07/23/2019 08:33 EST (b)(6); (b)(7)(C) 07/09/2019 12:49 82 Via Machine Regular MLP MLP Orig Entered: 07/09/2019 12:51 EST (b)(6); (b)(7)(C) Respirations: Date Time Rate Per Minute Provider 07/30/2019 09:30 NYM 12 MD MD Orig Entered: 07/30/2019 12:59 EST (b)(6); (b)(7)(C) 07/28/2019 20:28 NYM 14 RN RN Orig Entered: 07/28/2019 20:29 EST (b)(6); (b)(7)(C) 07/28/2019 06:57 NYM 14 RN RN Orig Entered: 07/28/2019 06:58 EST (b)(6); (b)(7)(C) 07/23/2019 06:30 NYM 16 MLP MLP Orig Entered: 07/23/2019 08:33 EST (b)(6); (b)(7)(C) 07/09/2019 12:49 NYM 16 MLP MLP Orig Entered: 07/09/2019 12:51 EST (b)(6); (b)(7)(C) Generated 08/10/2019 11:02 by (b)(6); (b)(7)(C) Bureau of Prisons - NYM Page 1 of 3 DOJ-OGR-00026146",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Bureau of Prisons Health Services Vitals All",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Begin Date: 07/07/2019 End Date: 08/10/2019 Reg #: 76318-054 Inmate Name: EPSTEIN, JEFFREY EDWARD",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Temperature: Date Time Fahrenheit Celsius Location Provider",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Pulse: Date Time Rate Per Minute Location Rhythm Provider",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Respirations: Date Time Rate Per Minute Provider",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 08/10/2019 11:02 by (b)(6); (b)(7)(C) Bureau of Prisons - NYM Page 1 of 3",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026146",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "07/07/2019",
+      "08/10/2019",
+      "07/24/2019",
+      "07/23/2019",
+      "07/09/2019",
+      "07/30/2019",
+      "07/28/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026146"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b)(6); (b)(7)(C)'. The document is a medical vitals report for Jeffrey Edward Epstein."
+}

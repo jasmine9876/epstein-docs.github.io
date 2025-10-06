@@ -1,0 +1,52 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024041",
+    "date": null,
+    "document_type": "Inmate Visit Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE NAME Signature Inmate Reg# Time In Time Out (b)(6), (b)(7)(C) 8/1 Colón G. Tali (b)(6), (b)(7)(C) Epstein J. Epstein 76318-054 76318-054 5:00 5:25 5:21 (b)(6), (b)(7)(C) 8/2 Savella Epstein 76318-054 8:00 1:28",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE NAME Signature Inmate Reg# Time In Time Out",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/1 Colón G. Tali (b)(6), (b)(7)(C) Epstein J. Epstein 76318-054 76318-054 5:00 5:25 5:21",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/2 Savella Epstein 76318-054 8:00 1:28",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024041",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Colón",
+      "G. Tali",
+      "Epstein",
+      "J. Epstein",
+      "Savella"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "8/1",
+      "8/2"
+    ],
+    "reference_numbers": [
+      "76318-054"
+    ]
+  },
+  "additional_notes": "The document appears to be an inmate visit log with some redacted information. The handwriting is mostly legible, but some parts are obscured by green rectangles."
+}

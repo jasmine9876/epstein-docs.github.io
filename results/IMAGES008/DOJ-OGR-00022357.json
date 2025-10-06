@@ -1,0 +1,68 @@
+{
+  "document_metadata": {
+    "page_number": "72",
+    "document_number": "DOJ-OGR-00022357",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Blakes Carlton Tower Claridges Cliveden House Connaught Dorchester Lanesborough Hotel Ritz Savoy The Barclay Hotel Waterside Inn ISLAND(1) Air Center Helicopter Christopher Taxi Cox, Madison Epstein, Jeffrey Epstein, Jeffrey Hoffman, Paul",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Blakes Carlton Tower Claridges Cliveden House Connaught Dorchester Lanesborough Hotel Ritz Savoy The Barclay Hotel Waterside Inn ISLAND(1) Air Center Helicopter Christopher Taxi",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Cox, Madison Epstein, Jeffrey Epstein, Jeffrey Hoffman, Paul",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "72",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022357",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Cox, Madison",
+      "Epstein, Jeffrey",
+      "Hoffman, Paul"
+    ],
+    "organizations": [
+      "Blakes",
+      "Carlton Tower",
+      "Claridges",
+      "Cliveden House",
+      "Connaught",
+      "Dorchester",
+      "Lanesborough Hotel",
+      "Ritz",
+      "Savoy",
+      "The Barclay Hotel",
+      "Waterside Inn",
+      "Air Center Helicopter",
+      "Christopher Taxi"
+    ],
+    "locations": [
+      "ISLAND(1)"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022357"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 72, and the document number is DOJ-OGR-00022357."
+}

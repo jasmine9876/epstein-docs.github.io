@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "S2 20 CR 330 (AJN)",
+    "date": null,
+    "document_type": "Judgment in a Criminal Case",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "DEFENDANT: GHISLAINE MAXWELL CASE NUMBER: S2 20 CR 330 (AJN) ADDITIONAL COUNTS OF CONVICTION Title & Section Nature of Offense Offense Ended Count 18 USC 2423.F TRANSPORTATION OF A MINOR WITH INTENT TO ENGAGE IN CRIMINAL SEXUAL ACTIVITY 12/31/1997 4 18 USC 1591.F SEX TRAFFICKING OF AN INDIVIDUAL UNDER THE AGE OF EIGHTEEN 7/30/2004 6",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DEFENDANT: GHISLAINE MAXWELL CASE NUMBER: S2 20 CR 330 (AJN)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "ADDITIONAL COUNTS OF CONVICTION",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Title & Section Nature of Offense Offense Ended Count",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "18 USC 2423.F TRANSPORTATION OF A MINOR WITH INTENT TO ENGAGE IN CRIMINAL SEXUAL ACTIVITY 12/31/1997 4",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "18 USC 1591.F SEX TRAFFICKING OF AN INDIVIDUAL UNDER THE AGE OF EIGHTEEN 7/30/2004 6",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00020479",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "GHISLAINE MAXWELL"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "12/31/1997",
+      "7/30/2004"
+    ],
+    "reference_numbers": [
+      "S2 20 CR 330 (AJN)",
+      "DOJ-OGR-00020479"
+    ]
+  },
+  "additional_notes": "The document appears to be a judgment in a criminal case against Ghislaine Maxwell. The text is clear and legible, with no visible redactions or damage."
+}

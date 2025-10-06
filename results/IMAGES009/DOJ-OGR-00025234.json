@@ -1,0 +1,43 @@
+{
+  "document_metadata": {
+    "page_number": "990",
+    "document_number": "76318-054",
+    "date": "2019/07/24",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 990 Re: Epstein #76318-054 From [b)(6); (b)(7)(C) To [b)(6); (b)(7)(C) Date 2019/07/24 12:00 Subject: Re: Epstein #76318-054 Attachments: TEXT.htm Page 2218 DOJ-OGR-00025234",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Re: Epstein #76318-054 From [b)(6); (b)(7)(C) To [b)(6); (b)(7)(C) Date 2019/07/24 12:00 Subject: Re: Epstein #76318-054 Attachments: TEXT.htm",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Page 990",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Page 2218 DOJ-OGR-00025234",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "2019/07/24"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00025234"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted email related to the Epstein case, with sensitive information hidden."
+}

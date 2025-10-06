@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": "3429",
+    "document_number": "DOJ-OGR-00027018",
+    "date": "8/10/2019",
+    "document_type": "Dashboard screenshot",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 3429 Truscope.Silverlight.Dashboard Page 1 of 2 9 SOUTH SHU RoCall High Risk Inmate Lists SIS Contraband BAs UAs Daily Activity D17 Inmate Count 8/7/2013 8/11/2013 All Log Events Add Log Event Event Date Event End Date Log Event Log End Event Count Radio Check Key Check Ring Number Ring Number (E) (F) (D17) Inmate Count 08/08/2013 05:35 PM 08/08/2013 05:30 PM Evening (b)(6); (b)(7)(C) Key Check (D7) 08/08/2013 05:35 PM 08/08/2013 05:30 PM Evening (b)(6); (b)(7)(C) Key Check (D7) 08/08/2013 05:35 PM 08/08/2013 05:30 PM Evening (b)(6); (b)(7)(C) Key Check (D7) 08/09/2013 05:35 PM 08/09/2013 05:30 PM Evening (b)(6); (b)(7)(C) Key Check (D7) 08/09/2013 04:52 PM 08/09/2013 04:52 PM Evening Fire Alarm Panel Check Completed. 08/09/2013 12:36 PM 08/09/2013 12:36 PM Day Shift Search (Cells) Calls: 107. 08/09/2013 11:28 AM 08/09/2013 11:27 AM Day Bar Tier Check (Cells) Completed. 08/09/2013 09:03 AM 08/09/2013 09:03 AM Day Search (Areas) Common Areas: VISITING STRIP ROOM. 08/09/2013 09:01 AM 08/09/2013 09:01 AM Day Search (Areas) Common Areas: STAFF BATHROOM. 08/09/2013 09:01 AM 08/09/2013 09:01 AM Day Search (Areas) Common Areas: RECREATION AREA. 08/09/2013 09:01 AM 08/09/2013 09:01 AM Day Search (Areas) Common Areas: LAW LIBRARY ROOM. 08/09/2013 09:01 AM 08/09/2013 09:01 AM Day Search (Areas) (D7) 08/09/2013 09:01 AM 08/09/2013 09:01 AM Day Fire and Security Check Completed. Semannelle (D7) 08/09/2013 09:01 AM 08/09/2013 09:01 AM Day (D7) Radio Check Radio Number (D7) 08/09/2013 09:01 AM 08/09/2013 09:01 AM Day (D7) Radio Check Radio Number (D7) 08/09/2013 09:01 AM 08/09/2013 09:01 AM Day (D7) Radio Check Radio Number (D7) 08/09/2013 09:01 AM 08/09/2013 09:01 AM Day Key Check Ring Number (D7) Count (D7) 08/09/2013 09:01 AM 08/09/2013 09:01 AM Day Key Check Ring Number (D7) Count (D7) 08/09/2013 09:01 AM 08/09/2013 09:01 AM Day Key Check Ring Number (D7) Count (D7) 08/09/2013 09:01 AM 08/09/2013 09:01 AM Day Fire Alarm Panel Check Completed. 08/09/2013 05:14 AM 08/09/2013 05:13 AM Day Census (AM) Unauthorized Inmate Present - Unauthorized Inmate Absent. 08/09/2013 11:22 PM 08/09/2013 11:22 PM Evening https://10.33.3.57/Dashboard.aspx 8/10/2019 DOJ-OGR-00027018",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "9 SOUTH SHU",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "RoCall High Risk Inmate Lists SIS Contraband BAs UAs Daily Activity D17 Inmate Count",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Event Date Event End Date Log Event Log End Event Count",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "08/08/2013 05:35 PM 08/08/2013 05:30 PM Evening (b)(6); (b)(7)(C) Key Check (D7)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "https://10.33.3.57/Dashboard.aspx",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "8/7/2013",
+      "8/11/2013",
+      "08/08/2013",
+      "08/09/2013",
+      "8/10/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00027018",
+      "(b)(6); (b)(7)(C)",
+      "(D7)"
+    ]
+  },
+  "additional_notes": "The document is a screenshot of a dashboard with various logs and events related to inmate activities. The image is in grayscale and has some redacted information."
+}

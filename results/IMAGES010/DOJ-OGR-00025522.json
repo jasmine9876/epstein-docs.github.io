@@ -1,0 +1,51 @@
+{
+  "document_metadata": {
+    "page_number": "1339",
+    "document_number": "DOJ-OGR-00025522",
+    "date": "04-15-2007",
+    "document_type": "Personnel Information Document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 1339 Contact Information Email Address: [b(6); (b)(7)(C)]@BOP.GOV Office Number: 646-8[b(6); (b)(7)(C)] Cell Number: ---------- Here [b(6); (b)(7)(C)] with Sallyport today: NFC Information Name: [b(6); (b)(7)(C)] Job Title: UNIT MANAGER Pay Location: BROOKLYN MDC Department: UNIT / CASE MANAGEMENT Pay Period: 21 Personnel Information Network Name: [b(6); (b)(7)(C)] Preferred Name: ---------- Network Job Title: UNIT MANAGER Contact Information Email Address: [b(6); (b)(7)(C)]@BOP.GOV Office Number: (718) 840[b(6); (b)(7)(C)] Cell Number: ---------- Fax Number: ---------- Location Information Facility Home Page All Staff At This Facility Create and Print Labels Map and Directions Warden's Office E-Mail Facility Physical Location: MDC BROOKLYN, NY Loc Start Date: 04-15-2007 (MCK) Address: 80 29TH STREET City: BROOKLYN State: NY Zip: 11232 Page 5183 DOJ-OGR-00025522",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Contact Information Email Address: Office Number: Cell Number: Here with Sallyport today: NFC Information Name: Job Title: Pay Location: Department: Pay Period: Personnel Information Network Name: Preferred Name: Network Job Title: Contact Information Email Address: Office Number: Cell Number: Fax Number: Location Information Facility Home Page All Staff At This Facility Create and Print Labels Map and Directions Warden's Office E-Mail Facility Physical Location: Loc Start Date: Address: City: State: Zip:",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "",
+      "position": "none"
+    },
+    {
+      "type": "printed",
+      "content": "[b(6); (b)(7)(C)]@BOP.GOV 646-8[b(6); (b)(7)(C)] ---------- [b(6); (b)(7)(C)] [b(6); (b)(7)(C)] UNIT MANAGER BROOKLYN MDC UNIT / CASE MANAGEMENT 21 [b(6); (b)(7)(C)] ---------- UNIT MANAGER [b(6); (b)(7)(C)]@BOP.GOV (718) 840[b(6); (b)(7)(C)] ---------- ---------- MDC BROOKLYN, NY 04-15-2007 (MCK) 80 29TH STREET BROOKLYN NY 11232",
+      "position": "top"
+    }
+  ],
+  "entities": {
+    "people": [
+      "[b(6); (b)(7)(C)]"
+    ],
+    "organizations": [
+      "BOP",
+      "MDC BROOKLYN"
+    ],
+    "locations": [
+      "BROOKLYN",
+      "NY",
+      "80 29TH STREET"
+    ],
+    "dates": [
+      "04-15-2007"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00025522",
+      "646-8[b(6); (b)(7)(C)]",
+      "(718) 840[b(6); (b)(7)(C)]"
+    ]
+  },
+  "additional_notes": "The document contains redacted personal information and appears to be a personnel information document from the Department of Justice."
+}

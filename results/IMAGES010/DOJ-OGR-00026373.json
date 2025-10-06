@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "2717",
+    "document_number": "DOJ-OGR-00026373",
+    "date": "8-10-2019",
+    "document_type": "Official Count Slip",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2717 Metropolitan Correctional Center New York, New York Official Count Slip Unit: R A Date: 8/10/18 Count: (b)(7)(F) Time: 500pm 1. Print Name: (b)(6), (b)(7)(C) Signature: 2. Print Name: Signature: Metropolitan Correctional Center Official Count Slip Unit: 2-B Date: 8-10-2019 Count: (b)(7)(F) Time: 500pm Print Name: (b)(6), (b)(7)(C) Signature: Print Name: Signature: DOJ-OGR-00026373",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center New York, New York Official Count Slip",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "R A 8/10/18 500pm",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Unit: Date: Count: Time: 1. Print Name: Signature: 2. Print Name: Signature:",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "2-B 8-10-2019 500pm (b)(6), (b)(7)(C)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Unit: Date: Count: Time: Print Name: Signature: Print Name: Signature:",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [
+      "New York, New York"
+    ],
+    "dates": [
+      "8/10/18",
+      "8-10-2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026373"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6), (b)(7)(C), and (b)(7)(F). The image quality is clear, but some information is redacted."
+}

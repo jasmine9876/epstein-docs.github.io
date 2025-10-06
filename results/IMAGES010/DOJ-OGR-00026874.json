@@ -1,0 +1,59 @@
+{
+  "document_metadata": {
+    "page_number": "3285",
+    "document_number": "DOJ-OGR-00026874",
+    "date": "7-30-19",
+    "document_type": "Inmate observation log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Epstein 76318-054 7-30-19\n5:00 am inmate Epstein is sleeping\n5:06 am Inmate Epstein is awake sitting on bed\n5:12 am inmate Epstein is sleeping\n5:30 am Inmate Epstein is sleeping\n5:43 am inmate Epstein is sleeping\n6:00 am inmate Epstein is sleeping\n6:15 am inmate Epstein is sleeping\n6:30 am Inmate Epstein is awake\n6:45 am inmate Epstein is talking to me about jail life\n7:00 am Inmate Epstein its eating breakfast\n7:00 am End of shift\n7:00 AM Start of new Shift\n7:15 AM Inmate Epstein is having breakfast Cereal and Milk\n7:30 AM The CO gave the IM breakfast the brown bag\n7:45 AM Inmate Epstein is setting down on his bed\n8:00 AM Dr. [redacted] at 8:00 AM Dr. [redacted] still at intermittant\n8:15 AM Psych Observation is being distributed\n7/30/19 [redacted]",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "Epstein 76318-054 7-30-19",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "5:00 am inmate Epstein is sleeping\n5:06 am Inmate Epstein is awake sitting on bed\n5:12 am inmate Epstein is sleeping\n5:30 am Inmate Epstein is sleeping\n5:43 am inmate Epstein is sleeping\n6:00 am inmate Epstein is sleeping\n6:15 am inmate Epstein is sleeping\n6:30 am Inmate Epstein is awake\n6:45 am inmate Epstein is talking to me about jail life\n7:00 am Inmate Epstein its eating breakfast",
+      "position": "main"
+    },
+    {
+      "type": "handwritten",
+      "content": "7:00 am End of shift\n7:00 AM Start of new Shift",
+      "position": "main"
+    },
+    {
+      "type": "handwritten",
+      "content": "7:15 AM Inmate Epstein is having breakfast Cereal and Milk\n7:30 AM The CO gave the IM breakfast the brown bag\n7:45 AM Inmate Epstein is setting down on his bed",
+      "position": "main"
+    },
+    {
+      "type": "handwritten",
+      "content": "8:00 AM Dr. [redacted] at 8:00 AM Dr. [redacted] still at intermittant\n8:15 AM Psych Observation is being distributed",
+      "position": "main"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/30/19 [redacted]",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7-30-19",
+      "7/30/19"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026874"
+    ]
+  },
+  "additional_notes": "The document is a handwritten log of observations of inmate Epstein's activities on July 30, 2019. The log includes details about Epstein's sleep, meals, and interactions with staff. Some names and identifiers have been redacted."
+}

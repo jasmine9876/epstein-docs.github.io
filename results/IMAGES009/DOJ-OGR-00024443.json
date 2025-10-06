@@ -1,0 +1,52 @@
+{
+  "document_metadata": {
+    "page_number": "15902",
+    "document_number": "DOJ-OGR-00024443",
+    "date": null,
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "--\n(b)(6) (b)(7)(C)\nAssociated Press\n0) 212-621(b)(6)\n(b)(7)(C)\nc) 215-756(b)(6) (b)(7)(C)\nTwitter @ (b)(6) (b)(7)(C)\n\nThe information contained in this communication is intended for the use of the designated recipients named above. If the reader of this communication is not the intended recipient, you are hereby notified that you have received this communication in error, and that any review, dissemination, distribution or copying of this communication is strictly prohibited. If you have received this communication in error, please notify The Associated Press immediately by telephone at +1-212-621-1500 and delete this email. Thank you.\n\nPage 15902\nDOJ-OGR-00024443",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "--",
+      "position": "top"
+    },
+    {
+      "type": "stamp",
+      "content": "(b)(6) (b)(7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Associated Press\n0) 212-621(b)(6)\n(b)(7)(C)\nc) 215-756(b)(6) (b)(7)(C)\nTwitter @ (b)(6) (b)(7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "The information contained in this communication is intended for the use of the designated recipients named above. If the reader of this communication is not the intended recipient, you are hereby notified that you have received this communication in error, and that any review, dissemination, distribution or copying of this communication is strictly prohibited. If you have received this communication in error, please notify The Associated Press immediately by telephone at +1-212-621-1500 and delete this email. Thank you.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 15902\nDOJ-OGR-00024443",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Associated Press",
+      "Twitter"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "212-621-1500",
+      "DOJ-OGR-00024443"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted email footer with a confidentiality notice. The redactions are indicated by '(b)(6) (b)(7)(C)'."
+}

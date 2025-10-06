@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "1798",
+    "document_number": "DOJ-OGR-00025815",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 1798 Ray and told him the US Attorney is meeting with him at 10 am tomorrow. So this probably should be some time after that interview. (b)(5) Hugh Sent from my Verizon, Samsung Galaxy smartphone Page 9590 DOJ-OGR-00025815",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 1798",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Ray and told him the US Attorney is meeting with him at 10 am tomorrow. So this probably should be some time after that interview.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(5)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Hugh Sent from my Verizon, Samsung Galaxy smartphone",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 9590",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025815",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ray",
+      "Hugh",
+      "US Attorney"
+    ],
+    "organizations": [
+      "Verizon",
+      "Samsung",
+      "Department of Justice"
+    ],
+    "locations": [],
+    "dates": [
+      "tomorrow"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00025815"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted email or message, with a section removed and marked '(b)(5)'. The content is likely related to a legal or official matter, given the mention of a US Attorney and a reference number starting with 'DOJ'."
+}

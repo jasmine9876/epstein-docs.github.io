@@ -1,0 +1,75 @@
+{
+  "document_metadata": {
+    "page_number": "5",
+    "document_number": "DOJ-OGR-00022385",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Important e-mail / addresses * Jeffrey E. Epstein: (P.B) (N.Y) (N.M) (Paris) (N.Y) *** Ghislaine Maxwell: -Tim Newcombe (Citrix Systems Programmer) -In House- Cell. H. Cheryl Palmer (Chef-Durolle Restaurant) NYC Joe Degeno (Chef-Aspan Ca,) Christophe (French Driver) P.B (Jet Aviation) (Important witness) -> Secret Service Personnel escorting Mr. Barak, Ehud Forman P.M of Israel on J. Epstein planes... -> Jean-Luc Brunel \" Scout\" for young females.- Karin Models -David Copperfield (Magician -Eve Andersson (Former models motherofsnappedpic.) (Dubin) -David Cook Palm Beach (2004-2005) Witness interacted and cheated daily w/ underage girls.-",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Important e-mail / addresses * Jeffrey E. Epstein: (P.B) (N.Y) (N.M) (Paris) (N.Y) *** Ghislaine Maxwell: -Tim Newcombe (Citrix Systems Programmer) -In House- Cell. H. Cheryl Palmer (Chef-Durolle Restaurant) NYC Joe Degeno (Chef-Aspan Ca,) Christophe (French Driver) P.B (Jet Aviation) (Important witness) -> Secret Service Personnel escorting Mr. Barak, Ehud Forman P.M of Israel on J. Epstein planes... -> Jean-Luc Brunel \" Scout\" for young females.- Karin Models -David Copperfield (Magician -Eve Andersson (Former models motherofsnappedpic.) (Dubin) -David Cook Palm Beach (2004-2005) Witness interacted and cheated daily w/ underage girls.-",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "5",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022385",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey E. Epstein",
+      "Ghislaine Maxwell",
+      "Tim Newcombe",
+      "Cheryl Palmer",
+      "Joe Degeno",
+      "Christophe",
+      "Mr. Barak",
+      "Ehud Forman",
+      "Jean-Luc Brunel",
+      "David Copperfield",
+      "Eve Andersson",
+      "David Cook"
+    ],
+    "organizations": [
+      "Citrix Systems",
+      "Chef-Durolle Restaurant",
+      "Chef-Aspan Ca",
+      "Jet Aviation",
+      "Karin Models"
+    ],
+    "locations": [
+      "Paris",
+      "New York",
+      "Palm Beach",
+      "N.Y",
+      "N.M",
+      "NYC",
+      "Ca",
+      "P.B",
+      "Israel",
+      "Dubin"
+    ],
+    "dates": [
+      "2004-2005"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00022385"
+    ]
+  },
+  "additional_notes": "The document contains handwritten notes with redactions for personal contact information. The content appears to be related to Jeffrey E. Epstein and Ghislaine Maxwell, listing various individuals and their associations."
+}

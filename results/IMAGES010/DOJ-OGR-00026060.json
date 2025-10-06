@@ -1,0 +1,73 @@
+{
+  "document_metadata": {
+    "page_number": "2383",
+    "document_number": "DOJ-OGR-00026060",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2383 Reporter: [b(6); b(7)(C)] - USA Today Question: In wake of the Epstein death, I understand that institutions across the bureau are designating specific officers to regularly monitor surveillance video in segregated housing units and other locations where inmates are at some risk for suicide. Is there someone who may be able to elaborate on this effort? [b(6)] Proposed Response: [b(5)] [b(6); b(7)(C)] Page 14400 DOJ-OGR-00026060",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 2383",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Reporter: [b(6); b(7)(C)] - USA Today",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Question:",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "In wake of the Epstein death, I understand that institutions across the bureau are designating specific officers to regularly monitor surveillance video in segregated housing units and other locations where inmates are at some risk for suicide. Is there someone who may be able to elaborate on this effort?",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "[b(6)]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Proposed Response:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "[b(5)] [b(6); b(7)(C)]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 14400",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026060",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [
+      "USA Today",
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00026060"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as [b(6); b(7)(C)] and [b(5)]. The content is related to a question about monitoring surveillance video in segregated housing units following Epstein's death."
+}

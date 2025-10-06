@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "2466",
+    "document_number": "DOJ-OGR-00026142",
+    "date": "07/09/2019",
+    "document_type": "Medical Record",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2466\nInmate Name: EPSTEIN, JEFFREY EDWARD\nDate of Birth: 01/20/1953\nEncounter Date: 07/09/2019 12:35\nSex: M\nRace: WHITE\nReg #: 76318-054\nProvider: (b)(6); (b)(7)(C) MLP\nFacility: NYM\nUnit: H01\nCleared For Food Services: Yes\nHealth Problems Newly Identified During This Encounter:\nHealth Problem\nConstipation, unspecified - Current -\nNew Medication Orders:\nRx#\tMedication\tOrder Date\tPrescriber Order\n\tBisacodyl E.C. Tablet\t07/09/2019 12:35\t5 mg Orally at bedtime PRN x 10 day(s)\nIndication: Constipation, unspecified\nDisposition:\nFollow-up at Sick Call as Needed\nInstructed inmate how to obtain medical, dental, and mental health care.\nCopay Required: No\tCosign Required: Yes\nTelephone/Verbal Order: No\nCompleted by (b)(6); (b)(7)(C) MLP on 07/09/2019 13:03\nRequested to be cosigned by (b)(6); (b)(7)(C) MD.\nCosign documentation will be displayed on the following page.\nGenerated 07/09/2019 13:03 by (b)(6); (b)(7)(C) MLP Bureau of Prisons - NYM\nPage 13 of 13\nDOJ-OGR-00026142",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 2466",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD\nDate of Birth: 01/20/1953\nEncounter Date: 07/09/2019 12:35\nSex: M\nRace: WHITE\nReg #: 76318-054\nProvider: (b)(6); (b)(7)(C) MLP\nFacility: NYM\nUnit: H01",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Cleared For Food Services: Yes\nHealth Problems Newly Identified During This Encounter:\nHealth Problem\nConstipation, unspecified - Current -\nNew Medication Orders:\nRx#\tMedication\tOrder Date\tPrescriber Order\n\tBisacodyl E.C. Tablet\t07/09/2019 12:35\t5 mg Orally at bedtime PRN x 10 day(s)\nIndication: Constipation, unspecified",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Disposition:\nFollow-up at Sick Call as Needed\nInstructed inmate how to obtain medical, dental, and mental health care.\nCopay Required: No\tCosign Required: Yes\nTelephone/Verbal Order: No\nCompleted by (b)(6); (b)(7)(C) MLP on 07/09/2019 13:03\nRequested to be cosigned by (b)(6); (b)(7)(C) MD.\nCosign documentation will be displayed on the following page.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/09/2019 13:03 by (b)(6); (b)(7)(C) MLP Bureau of Prisons - NYM\nPage 13 of 13",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026142",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/09/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026142"
+    ]
+  },
+  "additional_notes": "The document appears to be a medical record for Jeffrey Epstein, containing information about his health problems, medication orders, and disposition. There are redactions in the provider and cosigner fields."
+}

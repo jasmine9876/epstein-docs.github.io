@@ -1,0 +1,40 @@
+{
+  "document_metadata": {
+    "page_number": "3258",
+    "document_number": "DOJ-OGR-00026847",
+    "date": null,
+    "document_type": "log or report",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 3258\n8:00 AM Inmate Epstein is sitting on the bed (b)(6); (b)(7)(C)\n8:15 AM Inmate Epstein is pacing the room (b)(6); (b)(7)(C)\n8:30 AM Inmate Epstein is taking a shower and He will be receiving a new set of clothes (b)(6); (b)(7)(C)\n8:45 AM Inmate is getting dressed for lawyer visit (b)(6); (b)(7)(C)\n9:00 Inmate Epstein has entered a regular housing unit (b)(6); (b)(7)(C)\nEnd of shift",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3258",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "8:00 AM Inmate Epstein is sitting on the bed (b)(6); (b)(7)(C)\n8:15 AM Inmate Epstein is pacing the room (b)(6); (b)(7)(C)\n8:30 AM Inmate Epstein is taking a shower and He will be receiving a new set of clothes (b)(6); (b)(7)(C)\n8:45 AM Inmate is getting dressed for lawyer visit (b)(6); (b)(7)(C)\n9:00 Inmate Epstein has entered a regular housing unit (b)(6); (b)(7)(C)\nEnd of shift",
+      "position": "main content"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026847",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00026847"
+    ]
+  },
+  "additional_notes": "The document appears to be a log or report detailing the activities of Inmate Epstein at specific times. The document contains handwritten text with some redactions."
+}

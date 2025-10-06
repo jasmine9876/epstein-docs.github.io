@@ -1,0 +1,72 @@
+{
+  "document_metadata": {
+    "page_number": "2701",
+    "document_number": "DOJ-OGR-00026357",
+    "date": "8/10/19",
+    "document_type": "Official Count Slip",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2701 Metropolitan Correctional Center Official Count Slip Unit: BA Date: 8.10-19 Count: (b)(7)(F) Time: 3:00 AM Print Name: (b)(6); (b)(7)(C) Signature: Print Name: Signature: Metropolitan Correctional Center Official Count Slip Unit: A Date 8/10/19 Count: (b)(7)(F) Time: 3:00 AM Print Name: (b)(6); (b)(7)(C) Signature: Print Name: Signature: DOJ-OGR-00026357",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "BA 8.10-19 3:00 AM",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(7)(F)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "A 8/10/19 3:00 AM",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(7)(F)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026357",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [],
+    "dates": [
+      "8/10/19"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026357"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned copy of two Official Count Slips from the Metropolitan Correctional Center. The slips contain handwritten information, including dates, times, and counts. Some information is redacted with (b)(6); (b)(7)(C) and (b)(7)(F)."
+}

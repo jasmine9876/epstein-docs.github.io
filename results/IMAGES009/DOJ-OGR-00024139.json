@@ -1,0 +1,86 @@
+{
+  "document_metadata": {
+    "page_number": "7",
+    "document_number": "DOJ-OGR-00024139",
+    "date": "07/09/2019",
+    "document_type": "Medical Record",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Inmate Name: EPSTEIN, JEFFREY EDWARD\nDate of Birth: 01/20/1953\nEncounter Date: 07/09/2019 12:35\nSex: M\nRace: WHITE\nReg #: 76318-054\nProvider:\nFacility: NYM\nUnit: H01\nDate Time Inches Cm Provider\nWeight:\nDate Time Lbs Kg Waist Circum. Provider\n07/09/2019 12:49 NYM 194.4 88.2 (b)(6), (b)(7)(C) MLP\nProsthetic Devices/Equipment: Denied\nTobacco Usage: Denied\nGeneral Social History:\nForeign Travel:\nBorn in USA: Yes\nCountry of Birth: USA\nPatient Education Assessments:\nDate Ed Yrs Occupation Learns Best By Primary Language Barriers to Education\n07/09/2019 12 Banker Speaking/Listening English None\nFamily History - Father:\nAge at Death: 74\nCause of Death: Diabetes complications\nSignificant Illnesses:\nDiabetes\nHeart Disease\nComments:\nFamily History - Mother:\nAge at Death: 81\nCause of Death: Kidney Failure\nSignificant Illnesses:\nHeart Disease\nComments:\nFamily History - Sibling:\nNumber of Siblings: 1\nSignificant Illnesses:\nComments:\nPast Hospitalization:\nReason Location When\nAcute Appendicitis Mount Sinai Hospital 1990\nComplications: None\nComments:\nHead:\nNormal: Yes\nComments:\nGenerated 07/09/2019 13:03 by (b)(6). MLP Bureau of Prisons - NYM\nPage 7 of 13",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD\nDate of Birth: 01/20/1953\nEncounter Date: 07/09/2019 12:35\nSex: M\nRace: WHITE\nReg #: 76318-054\nProvider:\nFacility: NYM\nUnit: H01",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Date Time Inches Cm Provider\nWeight:\nDate Time Lbs Kg Waist Circum. Provider\n07/09/2019 12:49 NYM 194.4 88.2 (b)(6), (b)(7)(C) MLP",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Prosthetic Devices/Equipment: Denied\nTobacco Usage: Denied\nGeneral Social History:\nForeign Travel:\nBorn in USA: Yes\nCountry of Birth: USA",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Patient Education Assessments:\nDate Ed Yrs Occupation Learns Best By Primary Language Barriers to Education\n07/09/2019 12 Banker Speaking/Listening English None",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Family History - Father:\nAge at Death: 74\nCause of Death: Diabetes complications\nSignificant Illnesses:\nDiabetes\nHeart Disease\nComments:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Family History - Mother:\nAge at Death: 81\nCause of Death: Kidney Failure\nSignificant Illnesses:\nHeart Disease\nComments:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Family History - Sibling:\nNumber of Siblings: 1\nSignificant Illnesses:\nComments:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Past Hospitalization:\nReason Location When\nAcute Appendicitis Mount Sinai Hospital 1990\nComplications: None\nComments:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Head:\nNormal: Yes\nComments:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/09/2019 13:03 by (b)(6). MLP Bureau of Prisons - NYM\nPage 7 of 13",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Mount Sinai Hospital",
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "USA",
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/09/2019",
+      "1990"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024139"
+    ]
+  },
+  "additional_notes": "The document appears to be a medical record for Jeffrey Epstein, containing various medical and personal information. Some fields are redacted, indicated by '(b)(6)' and '(b)(7)(C)'."
+}

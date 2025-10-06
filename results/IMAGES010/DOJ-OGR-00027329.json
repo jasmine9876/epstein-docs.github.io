@@ -1,0 +1,43 @@
+{
+  "document_metadata": {
+    "page_number": "2104",
+    "document_number": "DOJ-OGR-00027329",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": ">>> (b)(6); (b)(7)(C) >>> >>> 7/29/2017 3:42 PM >>> (b)(7)(A) Hi, We are seeking any information and comment you can offer on this subject. My number is 202 617 (b)(6); (b)(7)(C) Thanks, (b)(6); (b)(7)(C) Washington Post Page 2104 DOJ-OGR-00027329",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": ">>> (b)(6); (b)(7)(C) >>> >>> 7/29/2017 3:42 PM >>> (b)(7)(A) Hi, We are seeking any information and comment you can offer on this subject. My number is 202 617 (b)(6); (b)(7)(C) Thanks, (b)(6); (b)(7)(C) Washington Post",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Page 2104",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027329",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Washington Post"
+    ],
+    "locations": [],
+    "dates": [
+      "7/29/2017"
+    ],
+    "reference_numbers": [
+      "202 617",
+      "DOJ-OGR-00027329"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6); (b)(7)(C) and (b)(7)(A)."
+}

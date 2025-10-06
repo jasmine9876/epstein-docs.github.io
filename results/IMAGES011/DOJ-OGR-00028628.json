@@ -1,0 +1,75 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028628",
+    "date": "01/29/2011",
+    "document_type": "SECONDARY INSPECTION",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07:58 04/28/2014 *A *B ENTRY: 01/29/2011 SECONDARY INSPECTION UPDATE: 01/29/2011 *C INSPECTION DTE: 01/29/2011 PORT/SITE: 4601/A103 NEWARK, INTL AIRPORT TERM LAST NAME:* EPSTEIN FIRST:* JEFFREY EDWARD DOB:* 01201953 RCPT#: DOC TYPE: P #: 469911707 ISSUING CNTRY: US ID-ST: GENDER:* M RACE:* W WHITE CARRIER:* EC FLT/VES #: *3 HISPANIC:* N (Y/N) FLT/VES CREW:* N (Y/N) IN/OUT:* I DEPART/DESTIN:* ORY EMBARK:* ORY REFERRING OFFICER CODE:(b) (7) (E) REASON FOR REFERRAL:(b) (7) (E) BAG EXAM:* Y (Y/N) # BAGS X-RAYED: 00 PRSNL SRCH:* N (Y/N) # PAX ON DEC:* 1 POS/NEG INSP:* P (P/N/U) REFERRAL TIME:* 16 : 31 COMPLETION TIME:* 16 : 36 IOM:* (Y/N) IOM# CCD USED:*D (Y/N) CAT 1 OR 2:*F VIOL CDS:*G INCIDENT #: REMARKS: (b) (7) (E) INSP COMPLETE:* Y (Y/N) ** SECONDARY INSPECTION COMPLETE ** Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) *E - (b) (7) (E) *F - (b) (7) (E) *G - (b) (7) (E) *H - (b) (7) (E)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07:58 04/28/2014 *A *B ENTRY: 01/29/2011 SECONDARY INSPECTION UPDATE: 01/29/2011 *C INSPECTION DTE: 01/29/2011 PORT/SITE: 4601/A103 NEWARK, INTL AIRPORT TERM",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "LAST NAME:* EPSTEIN FIRST:* JEFFREY EDWARD DOB:* 01201953 RCPT#: DOC TYPE: P #: 469911707 ISSUING CNTRY: US ID-ST:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "GENDER:* M RACE:* W WHITE CARRIER:* EC FLT/VES #: *3 HISPANIC:* N (Y/N) FLT/VES CREW:* N (Y/N) IN/OUT:* I DEPART/DESTIN:* ORY EMBARK:* ORY",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "REFERRING OFFICER CODE:(b) (7) (E) REASON FOR REFERRAL:(b) (7) (E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "BAG EXAM:* Y (Y/N) # BAGS X-RAYED: 00 PRSNL SRCH:* N (Y/N) # PAX ON DEC:* 1 POS/NEG INSP:* P (P/N/U) REFERRAL TIME:* 16 : 31 COMPLETION TIME:* 16 : 36 IOM:* (Y/N) IOM# CCD USED:*D (Y/N)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CAT 1 OR 2:*F VIOL CDS:*G INCIDENT #: REMARKS: (b) (7) (E) INSP COMPLETE:* Y (Y/N) ** SECONDARY INSPECTION COMPLETE **",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) *E - (b) (7) (E) *F - (b) (7) (E) *G - (b) (7) (E) *H - (b) (7) (E)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028628",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "NEWARK, INTL AIRPORT"
+    ],
+    "dates": [
+      "01/29/2011",
+      "04/28/2014",
+      "01/29/2011",
+      "01/29/2011"
+    ],
+    "reference_numbers": [
+      "4601/A103",
+      "469911707",
+      "01201953",
+      "DOJ-OGR-00028628"
+    ]
+  },
+  "additional_notes": "The document appears to be a secondary inspection report for an individual named Jeffrey Edward Epstein. The document contains various redactions, indicated by (b) (7) (E) and other similar notations."
+}

@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": "16",
+    "document_number": "DOJ-OGR-00022346",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Vittorelli, Dott Marco Vittoz Martine Vittoz Patrick Vittoz Yvonnic Vivian Smith, Charles Von Habsburg, Francesca Von Hase, Bettina Wachtmeister, Eric Wagner David Wainright, Rupert Waksal, Sam Wallace, Mike Walters, Barbara Ward, Kevin Warner, Ozzie Warnford-Davis, Ms Mandy Wasserman, Casey & Laura Wassong David DOJ-OGR-00022346",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Vittorelli, Dott Marco\nVittoz Martine\nVittoz Patrick\nVittoz Yvonnic\nVivian Smith, Charles\nVon Habsburg, Francesca\nVon Hase, Bettina\nWachtmeister, Eric\nWagner David\nWainright, Rupert\nWaksal, Sam\nWallace, Mike\nWalters, Barbara\nWard, Kevin\nWarner, Ozzie\nWarnford-Davis, Ms Mandy\nWasserman, Casey & Laura\nWassong David",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022346",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Vittorelli, Dott Marco",
+      "Vivian Smith, Charles",
+      "Von Habsburg, Francesca",
+      "Vittoz Martine",
+      "Von Hase, Bettina",
+      "Vittoz Patrick",
+      "Wachtmeister, Eric",
+      "Vittoz Yvonnic",
+      "Wagner David",
+      "Wainright, Rupert",
+      "Waksal, Sam",
+      "Wallace, Mike",
+      "Walters, Barbara",
+      "Ward, Kevin",
+      "Warner, Ozzie",
+      "Warnford-Davis, Ms Mandy",
+      "Wasserman, Casey & Laura",
+      "Wassong David"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022346"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 16, and the document number is DOJ-OGR-00022346."
+}

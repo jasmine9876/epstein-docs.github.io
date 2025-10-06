@@ -1,0 +1,55 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "484652646",
+    "date": "09/02/2011",
+    "document_type": "IO95 Inspection Results",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:08:03 IO95 Inspection Results 042814 *A *B A103 NEWARK, INTL AI *C FLT/VES#: EC 1 OPEN SKIES DOCTYP*: P #*: 484652646 CTRY*: US UNITED STATES ST: M/F: M DNAME (LAST) : EPSTEIN FRST: JEFFREY EDWARD DOB: 012053 RFRD BY: *D -CBP OFFCR-C DTE: 09022011 TME: 1311 REASON: (b)(7)(E) CCD:*E SNAME (LAST) : FRST: DOB: NATIONALITY: US UNITED STATES DISP: USC U.S. CITIZEN RCPT#: AUDATE: CHARGE (CODED) : DFRD TO: FIN#: SEC OFCR: *F -CBP OFFCR-C 09/02/2011 13:15 IOEM#: REFR CDE: COMMENTS: VIOLS: (b)(7)(E) PAX IS STILL REGISTERED TO THE SAME ADDRESS, NO WARRANTS. PAX WAS ADMITTED USC AND REFERRED TO BAGGAGE. WHTI CMPLNT? ADDL COMMTs: (b)(7)(E) *G (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) *H *I Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(6) (b)(7)(C) *E - (b)(7)(E) *F - (b)(6) (b)(7)(C) *G - (b)(7)(E) *H - (b)(7)(E) *I - (b)(7)(E) DOJ-OGR-00028697",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:08:03 IO95 Inspection Results 042814",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "*B A103 NEWARK, INTL AI *C FLT/VES#: EC 1 OPEN SKIES DOCTYP*: P #*: 484652646 CTRY*: US UNITED STATES ST: M/F: M DNAME (LAST) : EPSTEIN FRST: JEFFREY EDWARD DOB: 012053 RFRD BY: *D -CBP OFFCR-C DTE: 09022011 TME: 1311 REASON: (b)(7)(E) CCD:*E SNAME (LAST) : FRST: DOB: NATIONALITY: US UNITED STATES DISP: USC U.S. CITIZEN RCPT#: AUDATE: CHARGE (CODED) : DFRD TO: FIN#: SEC OFCR: *F -CBP OFFCR-C 09/02/2011 13:15 IOEM#: REFR CDE: COMMENTS: VIOLS: (b)(7)(E) PAX IS STILL REGISTERED TO THE SAME ADDRESS, NO WARRANTS. PAX WAS ADMITTED USC AND REFERRED TO BAGGAGE. WHTI CMPLNT? ADDL COMMTs: (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "*G (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) *H *I Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(6) (b)(7)(C) *E - (b)(7)(E) *F - (b)(6) (b)(7)(C) *G - (b)(7)(E) *H - (b)(7)(E) *I - (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028697",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "CBP"
+    ],
+    "locations": [
+      "NEWARK",
+      "UNITED STATES",
+      "US"
+    ],
+    "dates": [
+      "09/02/2011",
+      "012053"
+    ],
+    "reference_numbers": [
+      "484652646",
+      "DOJ-OGR-00028697"
+    ]
+  },
+  "additional_notes": "The document contains multiple redactions, indicated by (b)(7)(E) and other codes, suggesting sensitive information has been withheld."
+}

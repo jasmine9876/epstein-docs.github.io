@@ -1,0 +1,28 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024092",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "X completed (friend)",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "X completed (friend)",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00024092"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as '(b)(6); (b)(7)(C)' and a handwritten note 'X completed (friend)' at the bottom."
+}

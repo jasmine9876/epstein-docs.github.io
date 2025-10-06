@@ -1,0 +1,68 @@
+{
+  "document_metadata": {
+    "page_number": "1092",
+    "document_number": "DOJ-OGR-00025314",
+    "date": "7.23.19",
+    "document_type": "Suicide Watch Observation Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Suicide Watch Observation Log\nName of Inmate on watch: EPSTEIN Reg #: 76315-054 Date: 7.23.19\nTime Observations: Briefly note your observations. Initial all entries. Initials\n11:15pm Inmate Epstein is watchful\n11:30pm Inmate Epstein is watchful\nSTART SHIFT IJC (b)(6); (b)(7)(C) PSSSWOS\nresponsible for STW watch of\nI/M EPSTEIN on cell check on 7-23-19\n19:15 I/M EPSTEIN has Refused Even CGCAC\n19:30 I/M EPSTEIN is talking about ACCEL MUSE\n19:45 I/M EPSTEIN is talking about finance\n20:00 I/M EPSTEIN is talking about science\n20:15 I/M EPSTEIN is talking about science\n20:30 I/M EPSTEIN is talking about math\n20:45 I/M EPSTEIN is talking about finance\n21:00 I/M EPSTEIN is talking about the prison environment\n21:15 I/M EPSTEIN is discussing prison environment\n21:30 I/M EPSTEIN is talking about his\nGORDONHAMMEREDMAINTENANCE/PHYSICS\n21:45 I/M EPSTEIN is eating peanut butter and drinking water\n22:00 I/M EPSTEIN decides to lay down\n22:15 I/M EPSTEIN appears to be sleeping\n22:30 I/M EPSTEIN appears to be sleeping\n22:45 I/M EPSTEIN appears to be sleeping\nEND SHIFT IJC (b)(6); (b)(7)(C)\nNote to all observers: Legibly print and sign your name at the beginning of your shift.",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Suicide Watch Observation Log",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "EPSTEIN",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Name of Inmate on watch: Reg #: Date:",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "76315-054 7.23.19",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Time Observations: Briefly note your observations. Initial all entries. Initials",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "11:15pm Inmate Epstein is watchful\n11:30pm Inmate Epstein is watchful\nSTART SHIFT IJC (b)(6); (b)(7)(C) PSSSWOS\nresponsible for STW watch of\nI/M EPSTEIN on cell check on 7-23-19\n19:15 I/M EPSTEIN has Refused Even CGCAC\n19:30 I/M EPSTEIN is talking about ACCEL MUSE\n19:45 I/M EPSTEIN is talking about finance\n20:00 I/M EPSTEIN is talking about science\n20:15 I/M EPSTEIN is talking about science\n20:30 I/M EPSTEIN is talking about math\n20:45 I/M EPSTEIN is talking about finance\n21:00 I/M EPSTEIN is talking about the prison environment\n21:15 I/M EPSTEIN is discussing prison environment\n21:30 I/M EPSTEIN is talking about his\nGORDONHAMMEREDMAINTENANCE/PHYSICS\n21:45 I/M EPSTEIN is eating peanut butter and drinking water\n22:00 I/M EPSTEIN decides to lay down\n22:15 I/M EPSTEIN appears to be sleeping\n22:30 I/M EPSTEIN appears to be sleeping\n22:45 I/M EPSTEIN appears to be sleeping\nEND SHIFT IJC (b)(6); (b)(7)(C)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Note to all observers: Legibly print and sign your name at the beginning of your shift.",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "EPSTEIN",
+      "IJC",
+      "GORDON"
+    ],
+    "organizations": [],
+    "locations": [
+      "prison"
+    ],
+    "dates": [
+      "7.23.19",
+      "7-23-19"
+    ],
+    "reference_numbers": [
+      "76315-054",
+      "DOJ-OGR-00025314"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned copy of a handwritten log. The handwriting is mostly legible, but some parts are difficult to read. There are redactions in the form of '(b)(6); (b)(7)(C)' which suggest that the document has been processed for public release."
+}

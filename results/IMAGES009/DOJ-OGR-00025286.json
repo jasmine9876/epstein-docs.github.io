@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "PD16",
+    "date": "07-30-2019",
+    "document_type": "Inmate Discipline Data",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 1063 PD16 Page 1 of 1 NYMDH * INMATE DISCIPLINE DATA 07-30-2019 PAGE 001 OF 001 * SANCTIONS AVAILABLE TO EXECUTE * 17:51:22 REGISTER NO: 76318-054 NAME..: EPSTEIN, JEFFREY STILL EXECUTABLE AS OF: 07-30-2019 (NEW INCIDENT DATE) REPORT HEARING NUMBER DATE TIME TOH ACT DAYS SANCTION SUSP -------------------------------------------------- -------------------------------------------------- G5487 NO EXECUTABLE SANCTIONS EXIST AS OF THE ABOVE DATE https://bop.tcp.doj.gov:9049/SENTRY/J1PPD60.do 7/30/2019 DOJ-OGR-00025286",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 1063 PD16 Page 1 of 1",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NYMDH * INMATE DISCIPLINE DATA 07-30-2019 PAGE 001 OF 001 * SANCTIONS AVAILABLE TO EXECUTE * 17:51:22",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "REGISTER NO: 76318-054 NAME..: EPSTEIN, JEFFREY STILL EXECUTABLE AS OF: 07-30-2019 (NEW INCIDENT DATE)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "REPORT NUMBER HEARING DATE TIME TOH ACT DAYS SANCTION SUSP -------------------------------------------------- --------------------------------------------------",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "G5487 NO EXECUTABLE SANCTIONS EXIST AS OF THE ABOVE DATE",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "https://bop.tcp.doj.gov:9049/SENTRY/J1PPD60.do 7/30/2019 DOJ-OGR-00025286",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "07-30-2019",
+      "7/30/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "G5487",
+      "DOJ-OGR-00025286"
+    ]
+  },
+  "additional_notes": "The document appears to be a printed report from the US Department of Justice, Bureau of Prisons, regarding inmate discipline data for Jeffrey Epstein."
+}

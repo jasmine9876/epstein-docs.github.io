@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028577",
+    "date": "05/16/2008",
+    "document_type": "Inspection Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07:54 04/28/2014 *A *B ENTRY: 05/16/2008 UPDATE: 05/18/2008 *C INSPECTION DTE: 05/16/2008 PORT/SITE: 4909/A49B SAN JUAN, ISLA GRANDE AIRPO LAST NAME:* EPSTEIN FIRST:* JEFFREY DOC TYPE: P #: 207320604 DOB:* 01201953 RCPT#: ISSUING CNTRY: US ID-ST: GENDER:* M RACE:* W WHITE HISPANIC:* N (Y/N) CARRIER:* 99 FLT/VES #:* N491GM FLT/VES CREW:* N (Y/N) IN/OUT:* I DEPART/DESTIN:* SIG EMBARK:* STT REFERRING OFFICER CODE:(b)(7)(E) REASON FOR REFERRAL:(b)(7)(E) BAG EXAM:* N (Y/N) # BAGS X-RAYED: 00 PRSNL SRCH:* N (Y/N) # PAX ON DEC:* 1 POS/NEG INSP:* N (P/N/UJ) REFERRAL TIME:* 11 : 50 COMPLETION TIME:* 12 : 05 IOM:* (Y/N) IOM# CCD USED:*D (Y/N) CAT 1 OR 2:*F VIOL CDS: INCIDENT #: REMARKS: (b)(7)(E) INSP COMPLETE:* Y (Y/N) ** SECONDARY INSPECTION COMPLETE ** (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(7)(E) *F - (b)(7)(E)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07:54 04/28/2014 *A *B ENTRY: 05/16/2008 UPDATE: 05/18/2008 *C INSPECTION DTE: 05/16/2008 PORT/SITE: 4909/A49B SAN JUAN, ISLA GRANDE AIRPO",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "LAST NAME:* EPSTEIN FIRST:* JEFFREY DOC TYPE: P #: 207320604 DOB:* 01201953 RCPT#: ISSUING CNTRY: US ID-ST:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "GENDER:* M RACE:* W WHITE HISPANIC:* N (Y/N) CARRIER:* 99 FLT/VES #:* N491GM FLT/VES CREW:* N (Y/N) IN/OUT:* I DEPART/DESTIN:* SIG EMBARK:* STT",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "REFERRING OFFICER CODE:(b)(7)(E) REASON FOR REFERRAL:(b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "BAG EXAM:* N (Y/N) # BAGS X-RAYED: 00 PRSNL SRCH:* N (Y/N) # PAX ON DEC:* 1 POS/NEG INSP:* N (P/N/UJ) REFERRAL TIME:* 11 : 50 COMPLETION TIME:* 12 : 05 IOM:* (Y/N) IOM# CCD USED:*D (Y/N)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CAT 1 OR 2:*F VIOL CDS: INCIDENT #: REMARKS: (b)(7)(E) INSP COMPLETE:* Y (Y/N) ** SECONDARY INSPECTION COMPLETE **",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(7)(E) *F - (b)(7)(E)",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "SAN JUAN, ISLA GRANDE AIRPORT"
+    ],
+    "dates": [
+      "05/16/2008",
+      "05/18/2008",
+      "04/28/2014",
+      "01/20/1953"
+    ],
+    "reference_numbers": [
+      "207320604",
+      "N491GM",
+      "4909/A49B",
+      "DOJ-OGR-00028577"
+    ]
+  },
+  "additional_notes": "The document appears to be a secondary inspection report for an individual named Jeffrey Epstein. The report contains various details about the inspection, including the date, time, and location. Some information has been redacted, marked as '(b)(7)(E)' or '(b)(6), (b)(7)(C)'."
+}

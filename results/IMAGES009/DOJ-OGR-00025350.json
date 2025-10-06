@@ -1,0 +1,49 @@
+{
+  "document_metadata": {
+    "page_number": "1128",
+    "document_number": "DOJ-OGR-00025350",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 1128\n\n07-11-2019 Day shift comments: Health: Voices no medical complaints.\n\n07-12-2019 Day shift comments: Health: Voices no medical complaints.\n\nDOJ-OGR-00025350",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 1128",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "07-11-2019 Day shift comments: Health: Voices no medical complaints.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "07-12-2019 Day shift comments: Health: Voices no medical complaints.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025350",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ",
+      "OGR"
+    ],
+    "locations": [],
+    "dates": [
+      "07-11-2019",
+      "07-12-2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00025350"
+    ]
+  },
+  "additional_notes": "The document appears to be a log or report of some kind, with entries for two consecutive days. The content is related to health and medical complaints, or the lack thereof."
+}

@@ -1,0 +1,71 @@
+{
+  "document_metadata": {
+    "page_number": "2866",
+    "document_number": "NYMAQ 530*05",
+    "date": "08-12-2019",
+    "document_type": "INMATE ROSTER",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2866 NYMAQ 530*05 * INMATE ROSTER * 08-12-2019 PAGE 001 OF 001 21:23:47 CATEGORY: OCT GROUP CODE: ASSIGNMENT: HOSP OPER CATG ASSIGNMENT FACILITY: NYM OPER CATG ASSIGNMENT NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK 0001 HOSP [redacted] 08-12-2019 E05-539L SUICIDE OR UNASSG 0002 08-12-2019 E12-592U FS PM SUICIDE OR G0000 TRANSACTION SUCCESSFULLY COMPLETED DOJ-OGR-00026522",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 2866",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NYMAQ 530*05 * INMATE ROSTER * 08-12-2019 PAGE 001 OF 001 21:23:47",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CATEGORY: OCT GROUP CODE: ASSIGNMENT: HOSP OPER CATG ASSIGNMENT FACILITY: NYM OPER CATG ASSIGNMENT",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "0001 HOSP [redacted] 08-12-2019 E05-539L SUICIDE OR UNASSG",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "0002 08-12-2019 E12-592U FS PM SUICIDE OR",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "G0000 TRANSACTION SUCCESSFULLY COMPLETED",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026522",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "NYM",
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "08-12-2019"
+    ],
+    "reference_numbers": [
+      "NYMAQ 530*05",
+      "DOJ-OGR-00026522",
+      "E05-539L",
+      "E12-592U"
+    ]
+  },
+  "additional_notes": "The document contains redacted information, likely due to privacy or security concerns."
+}

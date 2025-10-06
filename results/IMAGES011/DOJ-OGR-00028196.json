@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "0002",
+    "document_number": "DOJ-OGR-00028196",
+    "date": "04282014",
+    "document_type": "TECSII - PRIMARY QUERY HISTORY PASSENGER ACTIVITY",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 *B TECSII - PRIMARY QUERY HISTORY 04282014 *A PASSENGER ACTIVITY *C PAGE NO. 0002 NAME DOB DATE TIME AGN ---- QUERY ---- LNE TERM/ RSLT TYP REF LANE API DIM EPSTEIN, JEFFREY 012053 090413 0802 CUS *D AIR CUS EY10 N N A512-CBP-ST THOMAS, VI PRECL DOC: 469911707 US P INSP: *E EPSTEIN, JEFFREY 012053 071713 0759 CUS *F AIR CUS EY12 N N A512-CBP-ST THOMAS, VI PRECL DOC: 469911707 US P INSP: *G EPSTEIN, JEFFREY 012053 072513 1133 CUS *H AIR EY08 N N A512-CBP-ST THOMAS, VI PRECL DOC: 469911707 US P INSP: *I EPSTEIN, JEFFREY 012053 062413 0831 CUS *J AIR EY10 N N A512-CBP-ST THOMAS, VI PRECL DOC: 469911707 US P INSP: *K EPSTEIN, JEFFREY 012053 052213 0807 CUS *L AIR CUS EY12 N N A512-CBP-ST THOMAS, VI PRECL DOC: 469911707 US P INSP: *M EPSTEIN, JEFFREY 012053 042113 1103 CUS *N AIR N N A512-CBP-ST THOMAS, VI PRECL DOC: 469911707 US P INSP: *O (b)(7)(E) <...MORE...> (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(6), (b)(7)(C) *F - (b)(7)(E) *G - (b)(6), (b)(7)(C) *H - (b)(7)(E) *I - (b)(6), (b)(7)(C) *J - (b)(7)(E) *K - (b)(6), (b)(7)(C) *L - (b)(7)(E) *M - (b)(6), (b)(7)(C) *N - (b)(7)(E) *O - (b)(6), (b)(7)(C) DOJ-OGR-00028196",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "TECSII - PRIMARY QUERY HISTORY PASSENGER ACTIVITY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE NO. 0002",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB DATE TIME AGN ---- QUERY ---- LNE TERM/ RSLT TYP REF LANE API DIM",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028196",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN",
+      "THOMAS"
+    ],
+    "organizations": [
+      "CBP"
+    ],
+    "locations": [],
+    "dates": [
+      "090413",
+      "071713",
+      "072513",
+      "062413",
+      "052213",
+      "042113",
+      "04282014"
+    ],
+    "reference_numbers": [
+      "A512-CBP-ST",
+      "469911707",
+      "DOJ-OGR-00028196"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted TECSII query history report. Multiple redactions are present throughout the document, marked as '(b)(7)(E)' or '(b)(6), (b)(7)(C)'."
+}

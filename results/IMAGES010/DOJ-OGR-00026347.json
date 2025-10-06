@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": "2691",
+    "document_number": "DOJ-OGR-00026347",
+    "date": "8/9/19",
+    "document_type": "METROPOLITAN CORRECTIONAL CENTER TESTING",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2691 METROPOLITAN CORRECTIONAL CENTER ATTACHMENT #5 TESTING DATE: 8/9/19 ASSIGNED UNIT M/W OFFICER D/W OFFICER E/W OFFICER LOBBY 2ND FL SALLY UNIT 2 SECRETARY UNIT 2 (HA) UNIT 3 (CA) UNIT 5N (EN) UNIT 5S (ES) UNIT 7 SECRETARY UNIT 7N (GN) UNIT 7S (GS) UNIT 9N (IN) UNIT 9S (ZA) UNIT 9S #2 UNIT 9S #3 UNIT 9S #4 UNIT 9S REC UNIT 10S (ZB) UNIT 11 SECRETARY UNIT 11N (KN) UNIT 11S (KS) 5 VISITING 7 VISITING 9 VISITING 11 VISITING ATTY CONF ROOM C.M.S. SECRETARY EDUCATION R&D R&D RECREATION SPEC. WATCH 2/3 FL FOOD SERVICE DUTY P.A. UNIT TEAM 2/3 UNIT TEAM 5/7 UNIT TEAM 9/11 SIGNATURE: M/W SIGNATURE: D/W SIGNATURE: E/W DOJ-OGR-00026347",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "METROPOLITAN CORRECTIONAL CENTER ATTACHMENT #5 TESTING",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/9/19",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "ASSIGNED UNIT M/W OFFICER D/W OFFICER E/W OFFICER",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "LOBBY 2ND FL SALLY UNIT 2 SECRETARY UNIT 2 (HA) UNIT 3 (CA) UNIT 5N (EN) UNIT 5S (ES) UNIT 7 SECRETARY UNIT 7N (GN) UNIT 7S (GS) UNIT 9N (IN) UNIT 9S (ZA) UNIT 9S #2 UNIT 9S #3 UNIT 9S #4 UNIT 9S REC UNIT 10S (ZB) UNIT 11 SECRETARY UNIT 11N (KN) UNIT 11S (KS) 5 VISITING 7 VISITING 9 VISITING 11 VISITING ATTY CONF ROOM C.M.S. SECRETARY EDUCATION R&D R&D RECREATION SPEC. WATCH 2/3 FL FOOD SERVICE DUTY P.A. UNIT TEAM 2/3 UNIT TEAM 5/7 UNIT TEAM 9/11",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "OPA",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SIGNATURE: M/W SIGNATURE: D/W SIGNATURE: E/W",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026347",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "METROPOLITAN CORRECTIONAL CENTER"
+    ],
+    "locations": [],
+    "dates": [
+      "8/9/19"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026347"
+    ]
+  },
+  "additional_notes": "The document appears to be a testing form from the Metropolitan Correctional Center. The form has handwritten text in some areas, including the date and a signature. Some information is redacted."
+}

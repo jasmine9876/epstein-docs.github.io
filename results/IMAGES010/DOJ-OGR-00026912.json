@@ -1,0 +1,75 @@
+{
+  "document_metadata": {
+    "page_number": "3323",
+    "document_number": "DOJ-OGR-00026912",
+    "date": "August 10, 2019",
+    "document_type": "Office Memorandum",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "U.S. DEPARTMENT OF JUSTICE\nFederal Bureau of Prisons\nOffice Memorandum\n150 Park Row\nNew York NY 10007\nDATE: August 10, 2019\nFROM: Electronics Technician\nSUBJECT: Medical Emergency\nInmate Epstein, Registration #:76318-054\nTO: Operations Lieutenant\nOn Saturday, August 10 2019 at approximately 0635 a.m., I responded to a medical emergency 9 South upon arrival Inmate (Epstein, J Registration # 76138-054) was on floor the of his cell unresponsive with CPR in progress by Correctional Lieutenant and PA assisted transporting (Epstein, J Registration # 76138-054) to Health Services Area.\nc: file",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "U.S. DEPARTMENT OF JUSTICE\nFederal Bureau of Prisons\nOffice Memorandum",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "150 Park Row\nNew York NY 10007",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DATE: August 10, 2019\nFROM: Electronics Technician\nSUBJECT: Medical Emergency\nInmate Epstein, Registration #:76318-054\nTO: Operations Lieutenant",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "8-10-19",
+      "position": "margin"
+    },
+    {
+      "type": "stamp",
+      "content": "COPY",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "On Saturday, August 10 2019 at approximately 0635 a.m., I responded to a medical emergency 9 South upon arrival Inmate (Epstein, J Registration # 76138-054) was on floor the of his cell unresponsive with CPR in progress by Correctional Lieutenant and PA assisted transporting (Epstein, J Registration # 76138-054) to Health Services Area.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "c: file",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026912",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [
+      "U.S. DEPARTMENT OF JUSTICE",
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "August 10, 2019",
+      "8-10-19"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "76138-054",
+      "DOJ-OGR-00026912"
+    ]
+  },
+  "additional_notes": "The document contains redactions and a 'COPY' stamp."
+}

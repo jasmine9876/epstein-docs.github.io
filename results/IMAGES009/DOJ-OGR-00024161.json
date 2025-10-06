@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "76318-054",
+    "date": "07/09/2019",
+    "document_type": "Vision Screens",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Bureau of Prisons Health Services Vision Screens Reg #: 76318-054 Inmate Name: EPSTEIN, JEFFREY EDWARD Vision Screen on 07/09/2019 12:52 Blindness: Distance Vision: OD: 20/100 OS: 20/70 OU: Near Vision: OD: OS: OU: With Corrective Distance Vision: OD: OS: OU: Near Vision: OD: OS: OU: Present Glasses - Distance Sphere Cylinder Axis Add Refraction - Distance Sphere Cylinder Axis Add R: R: L: L: Color Test: Tonometry: R: L: Comments: Needs evaluation with optometrist. Orig Entered: 07/09/2019 12:54 EST (b)(6) (b)(7)(C) MLP Generated 05/11/2020 09:57 by (b)(6) (b)(7)(C) Bureau of Prisons - DAN Page 1 of 1 DOJ-OGR-00024161",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Bureau of Prisons Health Services Vision Screens",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Reg #: 76318-054 Inmate Name: EPSTEIN, JEFFREY EDWARD",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Vision Screen on 07/09/2019 12:52",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Blindness: Distance Vision: OD: 20/100 OS: 20/70 OU: Near Vision: OD: OS: OU: With Corrective Distance Vision: OD: OS: OU: Near Vision: OD: OS: OU: Present Glasses - Distance Sphere Cylinder Axis Add Refraction - Distance Sphere Cylinder Axis Add R: R: L: L: Color Test: Tonometry: R: L: Comments: Needs evaluation with optometrist.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Orig Entered: 07/09/2019 12:54 EST (b)(6) (b)(7)(C) MLP",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 05/11/2020 09:57 by (b)(6) (b)(7)(C) Bureau of Prisons - DAN Page 1 of 1 DOJ-OGR-00024161",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons",
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "07/09/2019",
+      "05/11/2020"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024161"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as (b)(6) (b)(7)(C)."
+}

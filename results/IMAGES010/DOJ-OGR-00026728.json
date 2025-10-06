@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": "3088",
+    "document_number": "DOJ-OGR-00026728",
+    "date": null,
+    "document_type": "Official Count Slips",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 3088 Metropolitan Correctional Center Official Count Slip Unit: T4 Date: 8-9-19 Count: (b)(7)(F) Time: 1000pm Print Name: (b)(6); (b)(7)(C) Signature: Print Name: Signature: Metropolitan Correctional Center New York, New York Official Count Slip Unit: X13 Date: 8-9-19 Count: (b)(7)(F) Time: 8:00pm 1. Print Name: (b)(6); (b)(7)(C) 1. Signature: 2. Print Name: (b)(6); (b)(7)(C) 2. Signature: DOJ-OGR-00026728",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "T4 8-9-19 1000pm",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Unit: Date: Count: Time: Print Name: Signature: Print Name: Signature:",
+      "position": "middle"
+    },
+    {
+      "type": "redacted",
+      "content": "(b)(7)(F) (b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center New York, New York Official Count Slip",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "X13 8-9-19 8:00pm",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Unit: Date: Count: Time: 1. Print Name: 1. Signature: 2. Print Name: 2. Signature:",
+      "position": "middle"
+    },
+    {
+      "type": "redacted",
+      "content": "(b)(7)(F) (b)(6); (b)(7)(C) (b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026728",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [
+      "New York, New York"
+    ],
+    "dates": [
+      "8-9-19"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026728"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as (b)(6); (b)(7)(C) and (b)(7)(F). The document appears to be a scan of two 'Official Count Slips' from the Metropolitan Correctional Center in New York, New York, dated August 9, 2019."
+}

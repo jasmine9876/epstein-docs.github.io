@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024489",
+    "date": null,
+    "document_type": "Log or Record",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE NAME Signature Inmate Dog# Time IN Time OUT 7/16 (b)(6) (b)(7)(C) Epstein Epstein Z345-021 20 7/18 (b)(6) (b)(7)(C) 76318-054 20 5:30 7/19 (b)(6) (b)(7)(C) Epstein 76318-054 5:20 7/19 (b)(6) (b)(7)(C) Epstein 76318-054 5:20 7/20 (b)(6) (b)(7)(C) Epstein 76318 054 5:44 7/31 (b)(6) (b)(7)(C) Epstein 763180180 180 DOJ-OGR-00024489",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE NAME Signature Inmate Dog# Time IN Time OUT",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/16 (b)(6) (b)(7)(C) Epstein Epstein Z345-021 20",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/18 (b)(6) (b)(7)(C) 76318-054 20 5:30",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/19 (b)(6) (b)(7)(C) Epstein 76318-054 5:20",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/19 (b)(6) (b)(7)(C) Epstein 76318-054 5:20",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/20 (b)(6) (b)(7)(C) Epstein 76318 054 5:44",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/31 (b)(6) (b)(7)(C) Epstein 763180180 180",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024489",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/16",
+      "7/18",
+      "7/19",
+      "7/20",
+      "7/31"
+    ],
+    "reference_numbers": [
+      "Z345-021",
+      "76318-054",
+      "763180180",
+      "DOJ-OGR-00024489"
+    ]
+  },
+  "additional_notes": "The document appears to be a log or record of some sort, with handwritten entries. Much of the information is redacted, with '(b)(6) (b)(7)(C)' appearing in place of names and other potentially identifying information. The document is associated with 'Epstein', likely referring to Jeffrey Epstein."
+}

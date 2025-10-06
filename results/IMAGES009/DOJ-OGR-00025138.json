@@ -1,0 +1,73 @@
+{
+  "document_metadata": {
+    "page_number": "820",
+    "document_number": "DOJ-OGR-00025138",
+    "date": "Tuesday July 23, 2019",
+    "document_type": "Schedule or Roster",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 820 Tuesday July 23, 2019 Page 2 REC OFFICER #1 REC OFFICER #2 11 NORTH 11 SOUTH 11 SOUTH #2 REAR GATE OSP #1 SANITATION OFF VISIT #1 VISIT #2 VISIT #3 ****Special Assignments**** EPO OFFICE ESCORT OFF #1 ESCORT OFF #2 LOBBY #2 PHONE RM TOWN DRIVER SUICIDE WATCH ****Back Page Categories**** DAY OFF SICK LEAVE ANNUAL LEAVE LWOP LWOP(M) AWOL SUSPENSION OFFICIAL TIME 7/23/2019 7:02:34 AM DOJ-OGR-00025138",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 820",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Tuesday July 23, 2019 Page 2",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "REC OFFICER #1 REC OFFICER #2 11 NORTH 11 SOUTH 11 SOUTH #2 REAR GATE OSP #1 SANITATION OFF VISIT #1 VISIT #2 VISIT #3",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "****Special Assignments****",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "EPO OFFICE ESCORT OFF #1 ESCORT OFF #2 LOBBY #2 PHONE RM TOWN DRIVER SUICIDE WATCH",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "****Back Page Categories****",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DAY OFF SICK LEAVE ANNUAL LEAVE LWOP LWOP(M) AWOL SUSPENSION OFFICIAL TIME",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "7/23/2019 7:02:34 AM",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025138",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "July 23, 2019",
+      "7/23/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00025138"
+    ]
+  },
+  "additional_notes": "The document appears to be a schedule or roster with various categories and assignments. The majority of the content is redacted with (b)(6); (b)(7)(C); (b)(7)(F)."
+}

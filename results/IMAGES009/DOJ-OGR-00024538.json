@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "78",
+    "document_number": "DOJ-OGR-00024538",
+    "date": "08/19/2019",
+    "document_type": "Log Entries By Event Date",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Date: 08/19/2019 Time: 10:32 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count 7/22/2019 8:34 AM NYM Housing Units Housing Units, Secured 10 SOUTH UPPER 7/22/2019 8:34 AM Day B(R1) B(7)(C) Begin Shift 7/22/2019 8:34 AM NYM Housing Units Housing Units, Secured 10 SOUTH UPPER 7/22/2019 8:34 AM Day Bar Taps (Areas) 7/22/2019 8:34 AM NYM Housing Units Housing Units, Secured 10 SOUTH UPPER 7/22/2019 8:34 AM Day Bar Taps (Cells) 7/22/2019 8:34 AM NYM Housing Units Housing Units, Secured 10 SOUTH UPPER 7/22/2019 8:34 AM Day B(R1) B(7)(C) Base Count Verified 177 7/22/2019 8:34 AM NYM Housing Units Housing Units, Secured 10 SOUTH UPPER 7/22/2019 8:34 AM Day Bed Book Check 7/22/2019 8:35 AM NYM Housing Units Housing Units, Secured 10 SOUTH UPPER 7/22/2019 8:35 AM Day Census (AM) 7/22/2019 8:35 AM NYM Housing Units Housing Units, Secured 10 SOUTH UPPER 7/22/2019 8:35 AM Day B(R1)(E) 7/22/2019 8:35 AM NYM Housing Units Housing Units, Secured 10 SOUTH UPPER 7/22/2019 8:35 AM Day Fire and Security Check 7/22/2019 8:35 AM NYM Housing Units Housing Units, Secured 10 SOUTH UPPER 7/22/2019 8:35 AM Day Rounds (Officer) 7/22/2019 8:37 AM NYM Housing Units Housing Units, Secured 10 SOUTH UPPER 7/22/2019 8:35 AM Day B(R1)(E) 7/22/2019 8:37 AM NYM Housing Units Housing Units, Secured 10 SOUTH UPPER 7/22/2019 8:35 AM Day Fire Alarm Panel Check 7/22/2019 8:37 AM NYM Housing Units Housing Units, Secured 10 SOUTH UPPER 7/22/2019 8:35 AM Day Inventory Sheet Verified 7/22/2019 8:37 AM NYM Housing Units Housing Units, Secured 10 SOUTH UPPER 7/22/2019 8:35 AM Day Key Check User ID: B(R6) B(7)(E) Page 78 of 183 DOJ-OGR-00024538",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date: 08/19/2019 Time: 10:32 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "7/22/2019 8:34 AM NYM Housing Units Housing Units, Secured 10 SOUTH UPPER 7/22/2019 8:34 AM Day B(R1) B(7)(C) Begin Shift",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "User ID: B(R6) B(7)(E)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 78 of 183",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024538",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [
+      "10 SOUTH UPPER"
+    ],
+    "dates": [
+      "08/19/2019",
+      "7/22/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00024538"
+    ]
+  },
+  "additional_notes": "The document appears to be a log entry report from the Federal Bureau of Prisons, detailing various events and activities at a correctional facility on July 22, 2019. The report includes information on the date, time, location, and personnel involved in each event. Some fields contain redacted information, indicated by codes such as B(R1), B(7)(C), and B(R6) B(7)(E)."
+}

@@ -1,0 +1,52 @@
+{
+  "document_metadata": {
+    "page_number": "3095",
+    "document_number": "DOJ-OGR-00026735",
+    "date": "6/1/09",
+    "document_type": "Official Count Slip",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 3095 Metropolitan Correctional Center Official Count Slip Unit: 2G Date: 6/1/09 Count: Time: 3:00 AM Print Name: Signature: Print Name: Signature: Metropolitan Correctional Center Official Count Slip Unit: Date: Count: Time: Print Name: Signature: Print Name: Signature: DOJ-OGR-00026735",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "2G 6/1/09 3:00 AM",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Unit: Date: Count: Time: Print Name: Signature: Print Name: Signature:",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(7)(F) (b)(6); (b)(7)(C) 300",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026735",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [],
+    "dates": [
+      "6/1/09"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026735"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as (b)(6); (b)(7)(C) and (b)(7)(F). The image quality is generally clear, but some handwritten text is difficult to read due to the redaction boxes."
+}

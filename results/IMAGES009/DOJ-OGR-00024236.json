@@ -1,0 +1,103 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024236",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "7/19 Epstein 76818-054 5.20 7-19 Epstein 76518-054 5.20 7/8 Epstein 76518 054 5H 7/8 Epstein Epstein 7638001820 46318 054 883 6218 (b)(6)",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "7/19",
+      "position": "margin"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "76818-054 5.20",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7-19",
+      "position": "margin"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "76518-054 5.20",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/8",
+      "position": "margin"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "76518 054 5H",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/8",
+      "position": "margin"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein Epstein",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7638001820 46318 054 883 6218",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6)",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024236",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/19",
+      "7-19",
+      "7/8"
+    ],
+    "reference_numbers": [
+      "76818-054",
+      "76518-054",
+      "7638001820",
+      "46318 054",
+      "DOJ-OGR-00024236"
+    ]
+  },
+  "additional_notes": "The document appears to be a heavily redacted table with handwritten notes. The redactions are marked as '(b)(6)' and '(b)(7)(C)'. The visible text is mostly handwritten and includes dates, names, and reference numbers."
+}

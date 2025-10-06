@@ -1,0 +1,55 @@
+{
+  "document_metadata": {
+    "page_number": "540",
+    "document_number": "DOJ-OGR-00024556",
+    "date": "08/19/2019",
+    "document_type": "Log Entries By Event Date",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Date: 08/19/2019 Time: 10:15 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count - Summary Text: Nothing To Report. 7/22/2019 3:50 PM NYM Housing Units Housing Units, General Population ES 7/22/2019 3:50 PM Day (NMF) (NMF)(C) Base Count Verified true - Summary Text: Base Count (NMF) Base count verified. 7/22/2019 3:50 PM NYM Housing Units Housing Units, General Population ES 7/22/2019 3:50 PM Day (NMF) (NMF)(C) Daily Activity - Unit Locked/Secured - Summary Text: unit locked and secured for count. 7/22/2019 3:51 PM NYM Housing Units Housing Units, General Population BA 7/22/2019 3:51 PM Day Daily Activity - Summary Text: UNIT SECURE FOR COUNT 7/22/2019 3:58 PM NYM Housing Units Housing Units, General Population ES 7/22/2019 3:57 PM Day End Shift - Summary Text: Completed. End of shift 7/22/2019 4:32 PM NYM Housing Units Housing Units, General Population EN 7/22/2019 4:00 PM Evening Begin Shift - Summary Text: Completed. 7/22/2019 4:11 PM NYM Housing Units Housing Units, General Population BA 7/22/2019 4:11 PM Evening Begin Shift - Summary Text: Completed. 7/22/2019 4:28 PM NYM Housing Units Housing Units, General Population BA 7/22/2019 4:11 PM Evening (NMF)(C) Fire Alarm Panel Check - Summary Text: Radio Number (NMF)(C) 7/22/2019 4:28 PM NYM Housing Units Housing Units, General Population BA 7/22/2019 4:11 PM Evening Completed. 7/22/2019 4:28 PM NYM Housing Units Housing Units, General Population BA 7/22/2019 4:11 PM Evening Inventory Sheet Verified - Summary Text: Completed. 7/22/2019 4:28 PM NYM Housing Units Housing Units, General Population BA 7/22/2019 4:11 PM Evening Key Check - Summary Text: Ring Number (NMF)(C) Count (NMF)(C) User ID: (NMF)(C) (NMF)(C) Page 540 of 1155 DOJ-OGR-00024556",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date: 08/19/2019 Time: 10:15 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Page 540 of 1155",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024556",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM",
+      "Housing Units",
+      "Housing Units, General Population",
+      "ES",
+      "BA",
+      "EN"
+    ],
+    "dates": [
+      "08/19/2019",
+      "7/22/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00024556"
+    ]
+  },
+  "additional_notes": "The document appears to be a log entry report from the Federal Bureau of Prisons, detailing various events and activities that occurred on July 22, 2019. The report includes information such as the date, time, location, and user ID associated with each event. The document is labeled as 'Sensitive But Unclassified'."
+}

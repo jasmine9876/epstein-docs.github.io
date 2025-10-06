@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024258",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Epstein 76318-254 11:00 ~ Epstein 76318-254 17:47 5:00 8/1/19 Epstein 76318-014 21- 3:04 8/1/19 8/1/19 Kroll Epstein 76318-014 1:00 3:04 8/1 Kroll Epstein 1631809J 220 375",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "Epstein 76318-254 11:00 ~",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein 76318-254 17:47 5:00",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/1/19",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein 76318-014 21- 3:04",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/1/19 8/1/19",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Kroll Epstein 76318-014 1:00 3:04",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/1 Kroll Epstein 1631809J 220 375",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein",
+      "Kroll"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "8/1/19"
+    ],
+    "reference_numbers": [
+      "76318-254",
+      "76318-014",
+      "1631809J"
+    ]
+  },
+  "additional_notes": "The document is heavily redacted, with most of the content obscured. The visible text appears to be handwritten notes, possibly related to a log or record of some sort. The names 'Epstein' and 'Kroll' are visible, along with several dates and reference numbers."
+}

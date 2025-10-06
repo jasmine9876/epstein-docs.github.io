@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "PD11",
+    "date": "07-23-2019",
+    "document_type": "Inmate Discipline Update Charges",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 1135 PD11 Page 1 of 1 NYMA7 INMATE DISCIPLINE 07-23-2019 PAGE 001 OF 001 UPDATE CHARGES 22:14:24 REGISTER NUMBER....: 76318-054 NAME..........: EPSTEIN REPORT NUMBER.....: 3282555 FUNCTION.......: REP INCIDENT DATE/TIME: 07-23-2019 0127 INCIDENT FACL.: NYM REPORT DATE/TIME..: 07-23-2019 0330 INVESTIGATOR...: UNKNOWN STATUS..........: SUSPENDED STATUS UPDT BY: (b)(6); (b)(7)(C) STATUS DATE/TIME..: 07-23-2019 2213 STATUS FACL...: NYM REPORT REMARKS.....( I/R SUSPENDED PEND MENTAL HEALTH EVAL. ) ) CHARGE: 228 TATTOOING OR SELF-MUTILATION CHARGE: CHARGE: CHARGE: CHARGE: CHARGE: CHARGE: CHARGE: CHARGE: G0005 TRANSACTION SUCCESSFULLY COMPLETED - CONTINUE PROCESSING IF DESIRED https://bop.tcp.doj.gov:9049/SENTRY/J1PPD10.do 7/23/2019 DOJ-OGR-00025357",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "INMATE DISCIPLINE UPDATE CHARGES",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "REGISTER NUMBER....: 76318-054 NAME..........: EPSTEIN REPORT NUMBER.....: 3282555 FUNCTION.......: REP INCIDENT DATE/TIME: 07-23-2019 0127 INCIDENT FACL.: NYM REPORT DATE/TIME..: 07-23-2019 0330 INVESTIGATOR...: UNKNOWN STATUS..........: SUSPENDED STATUS UPDT BY: (b)(6); (b)(7)(C) STATUS DATE/TIME..: 07-23-2019 2213 STATUS FACL...: NYM REPORT REMARKS.....( I/R SUSPENDED PEND MENTAL HEALTH EVAL. ) )",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CHARGE: 228 TATTOOING OR SELF-MUTILATION",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TRANSACTION SUCCESSFULLY COMPLETED - CONTINUE PROCESSING IF DESIRED",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "https://bop.tcp.doj.gov:9049/SENTRY/J1PPD10.do 7/23/2019 DOJ-OGR-00025357",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "07-23-2019",
+      "7/23/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "3282555",
+      "DOJ-OGR-00025357"
+    ]
+  },
+  "additional_notes": "The document appears to be a disciplinary report for an inmate named Epstein. The report is related to an incident of tattooing or self-mutilation. The status of the report is 'SUSPENDED' pending a mental health evaluation."
+}

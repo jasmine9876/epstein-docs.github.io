@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024082",
+    "date": null,
+    "document_type": "Inmate Visit Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE NAME Signature Inmate Reg# Time IN Time OUT 8/3/19 Cappelletti Epstein 163889 2:05 5:20 2:30 8/14/19 Swalle Epstein 7518054 12:35 6:25 8/15/19 Fidele Epstein 2631854 8:00 6:10 8/15/19 Li Tali Epstein 7621204 2:30 11:50 8/5 Savella Epstein 7638009 11:00 4:00",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE NAME Signature Inmate Reg# Time IN Time OUT",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/3/19 Cappelletti Epstein 163889 2:05 5:20 2:30",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/14/19 Swalle Epstein 7518054 12:35 6:25",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/15/19 Fidele Epstein 2631854 8:00 6:10",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/15/19 Li Tali Epstein 7621204 2:30 11:50",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/5 Savella Epstein 7638009 11:00 4:00",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024082",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Cappelletti",
+      "Epstein",
+      "Swalle",
+      "Fidele",
+      "Li Tali",
+      "Savella"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "8/3/19",
+      "8/14/19",
+      "8/15/19",
+      "8/5"
+    ],
+    "reference_numbers": [
+      "163889",
+      "7518054",
+      "2631854",
+      "7621204",
+      "7638009"
+    ]
+  },
+  "additional_notes": "The document appears to be an inmate visit log with handwritten entries. Some names and inmate numbers are redacted."
+}

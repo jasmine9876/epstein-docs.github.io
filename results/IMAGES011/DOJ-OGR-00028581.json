@@ -1,0 +1,80 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028581",
+    "date": "03/05/2010",
+    "document_type": "SECONDARY INSPECTION",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07:54 SECONDARY INSPECTION 04/28/2014 *B ENTRY: 03/05/2010 UPDATE: 03/05/2010 *C INSPECTION DTE: 03/05/2010 PORT/SITE: 7401/A512 CBP-ST THOMAS, VI PRECLEARA LAST NAME:* EPSTEIN FIRST:* JEFFREY DOC TYPE: P #: 207320604 DOB:* 01201953 RCPT#: ISSUING CNTRY: US ID-ST: GENDER:* M RACE:* W WHITE HISPANIC:* N (Y/N) CARRIER:* 999 FLT/VES #: * N909 FLT/VES CREW:* N (Y/N) IN/OUT:* I DEPART/DESTIN:* STT EMBARK:* STT REFERRING OFFICER CODE: (b) (7) (E) REASON FOR REFERRAL: (b) (7) (E) BAG EXAM:* N (Y/N) # BAGS X-RAYED: 00 PRNSL SRCH:* N (Y/N) # PAX ON DEC:* 1 POS/NEG INSP:* P (P/N/U) REFERRAL TIME:* 15 : 41 COMPLETION TIME:* 15 : 56 IOEM:* (Y/N) IOEM#: CCD USED:* *D (Y/N) CAT 1 OR 2: *F VIOL CDS: *G INCIDENT #: REMARKS: (b) (7) (E) INSP COMPLETE:* Y (Y/N) ** SECONDARY INSPECTION COMPLETE ** (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6) , (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) *E - (b) (7) (E) *F - (b) (7) (E) *G - (b) (7) (E) *H - (b) (7) (E) DOJ-OGR-00028581",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07:54 SECONDARY INSPECTION 04/28/2014",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "*B ENTRY: 03/05/2010 UPDATE: 03/05/2010 *C INSPECTION DTE: 03/05/2010 PORT/SITE: 7401/A512 CBP-ST THOMAS, VI PRECLEARA",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "LAST NAME:* EPSTEIN FIRST:* JEFFREY DOC TYPE: P #: 207320604 DOB:* 01201953 RCPT#: ISSUING CNTRY: US ID-ST:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "GENDER:* M RACE:* W WHITE HISPANIC:* N (Y/N) CARRIER:* 999 FLT/VES #: * N909 FLT/VES CREW:* N (Y/N) IN/OUT:* I DEPART/DESTIN:* STT EMBARK:* STT",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "REFERRING OFFICER CODE: (b) (7) (E) REASON FOR REFERRAL: (b) (7) (E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "BAG EXAM:* N (Y/N) # BAGS X-RAYED: 00 PRNSL SRCH:* N (Y/N) # PAX ON DEC:* 1 POS/NEG INSP:* P (P/N/U) REFERRAL TIME:* 15 : 41 COMPLETION TIME:* 15 : 56 IOEM:* (Y/N) IOEM#: CCD USED:* *D (Y/N)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CAT 1 OR 2: *F VIOL CDS: *G INCIDENT #: REMARKS: (b) (7) (E) INSP COMPLETE:* Y (Y/N) ** SECONDARY INSPECTION COMPLETE **",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b) (7) (E) *B - (b) (6) , (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) *E - (b) (7) (E) *F - (b) (7) (E) *G - (b) (7) (E) *H - (b) (7) (E)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028581",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "CBP"
+    ],
+    "locations": [
+      "ST THOMAS, VI"
+    ],
+    "dates": [
+      "03/05/2010",
+      "04/28/2014",
+      "01/20/1953"
+    ],
+    "reference_numbers": [
+      "207320604",
+      "7401/A512",
+      "DOJ-OGR-00028581"
+    ]
+  },
+  "additional_notes": "The document contains multiple redacted fields marked as '(b) (7) (E)' and other similar codes, indicating sensitive information has been removed for privacy or security reasons."
+}

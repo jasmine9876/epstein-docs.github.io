@@ -1,0 +1,43 @@
+{
+  "document_metadata": {
+    "page_number": "3254",
+    "document_number": "DOJ-OGR-00026843",
+    "date": "7/9/19",
+    "document_type": "Log or Record",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "7/9/19 EPSTEIN 76318-054\n6:00PM INMATE EPSTEIN IS OUT\n6:15PM INMATE EPSTEIN IS OUT\n6:30PM INMATE EPSTEIN IS OUT\n6:45PM INMATE EPSTEIN IS OUT\n7:00PM INMATE EPSTEIN IS OUT END OF SHIFT\n7:00 assuming responsibility for IIN EPSTEIN #76318-054\n7:15 IIN EPSTEIN is out\n7:30 IIN EPSTEIN is out\n7:45 IIN EPSTEIN is out\n7:55 IIN EPSTEIN has returned from his legal visit\n8:00 IIN EPSTEIN and I are talking about escort procedures\n8:15 IIN EPSTEIN and I are continuing the discussion\n8:30 IIN EPSTEIN has paused to brush his teeth\n8:45 IIN EPSTEIN and I are talking about how to handle prisoners\n9:00 IIN EPSTEIN and I are talking about arbitraging\n9:15 IIN EPSTEIN is asking questions about CO's",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "7/9/19 EPSTEIN 76318-054",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "6:00PM INMATE EPSTEIN IS OUT\n6:15PM INMATE EPSTEIN IS OUT\n6:30PM INMATE EPSTEIN IS OUT\n6:45PM INMATE EPSTEIN IS OUT\n7:00PM INMATE EPSTEIN IS OUT END OF SHIFT",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "7:00 assuming responsibility for IIN EPSTEIN #76318-054\n7:15 IIN EPSTEIN is out\n7:30 IIN EPSTEIN is out\n7:45 IIN EPSTEIN is out\n7:55 IIN EPSTEIN has returned from his legal visit\n8:00 IIN EPSTEIN and I are talking about escort procedures\n8:15 IIN EPSTEIN and I are continuing the discussion\n8:30 IIN EPSTEIN has paused to brush his teeth\n8:45 IIN EPSTEIN and I are talking about how to handle prisoners\n9:00 IIN EPSTEIN and I are talking about arbitraging\n9:15 IIN EPSTEIN is asking questions about CO's",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/9/19"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026843"
+    ]
+  },
+  "additional_notes": "The document appears to be a handwritten log or record of activities involving inmate Epstein (#76318-054) on July 9, 2019. The log details Epstein's movements and interactions with the author from 6:00 PM to 9:15 PM. There are redactions marked as '(b)(6); (b)(7)(C)' throughout the right margin, indicating potentially sensitive information has been obscured."
+}

@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "49",
+    "document_number": "DOJ-OGR-00022334",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Pittman, Sandy Plepler, Richard Plouvier, Diane & Denis Podolsky, Jeffrey Polk, George Polli, Edoardo Polu Emmanuelle Polu Isabelle Polu, Clary Porrin Ivanisevic Porter, Pliny Porthault, Pascal Porthault Emmanuelle Porthault, Remi & Isabel Porthault, Mr & Mrs Poster, Meryl Potter, Muffie Prestin, Electra Prevost, Catherine",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Pittman, Sandy\nPlepler, Richard\nPlouvier, Diane & Denis\nPodolsky, Jeffrey\nPolk, George\nPolli, Edoardo\nPolu Emmanuelle\nPolu Isabelle\nPolu, Clary\nPorrin Ivanisevic\nPorter, Pliny\nPorthault, Pascal\nPorthault Emmanuelle\nPorthault, Remi & Isabel\nPorthault, Mr & Mrs\nPoster, Meryl\nPotter, Muffie\nPrestin, Electra\nPrevost, Catherine",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "49",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022334",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Sandy Pittman",
+      "Richard Plepler",
+      "Diane & Denis Plouvier",
+      "Jeffrey Podolsky",
+      "George Polk",
+      "Edoardo Polli",
+      "Emmanuelle Polu",
+      "Isabelle Polu",
+      "Clary Polu",
+      "Ivanisevic Porrin",
+      "Pliny Porter",
+      "Pascal Porthault",
+      "Emmanuelle Porthault",
+      "Remi & Isabel Porthault",
+      "Mr & Mrs Porthault",
+      "Meryl Poster",
+      "Muffie Potter",
+      "Electra Prestin",
+      "Catherine Prevost"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022334"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 49, and the document number is DOJ-OGR-00022334."
+}

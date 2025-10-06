@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": "2760",
+    "document_number": "ZB",
+    "date": "7.29.19",
+    "document_type": "30 MINUTE CHECK SHEET",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "MCC NEW YORK SPECIAL HOUSING UNIT 30 MINUTE CHECK SHEET ZB DATE: 7.29.19 ... (complete table and text as seen in the image)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "MCC NEW YORK SPECIAL HOUSING UNIT 30 MINUTE CHECK SHEET ZB",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "7.29.19",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "TIME FRAME TIME START TIME END SIGNATURE ...",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1901am 1202a (b)(6); (b)(7)(C) ...",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "A staff member must observe all inmates confined in a continuous locked down status...",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "MCC NEW YORK",
+      "SPECIAL HOUSING UNIT"
+    ],
+    "locations": [
+      "NEW YORK"
+    ],
+    "dates": [
+      "7.29.19"
+    ],
+    "reference_numbers": [
+      "ZB",
+      "DOJ-OGR-00026416"
+    ]
+  },
+  "additional_notes": "The document contains handwritten entries in a table format, with some redacted information. The document is stamped and has a clear structure for recording observations."
+}

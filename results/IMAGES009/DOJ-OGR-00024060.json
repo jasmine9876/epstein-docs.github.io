@@ -1,0 +1,98 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "8/9/19 Section (b)(6), (b)(7)(C) Epstein 7/18/2014 0:30 V:30 39 Colon JHA Epstein 76318-054 11:00 10:35 8/9 G.Tali J.Epstein 76518-054 11:00 6:3 (b)(6), (b)(7)(C) 8/9 General Werden Dandley Epstein 76316 2:22 6:45 (b)(6), (b)(7)(C) 8/9 Melle Epstein 17378-054 2:20 645 DOJ-OGR-00024060",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "8/9/19",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Section",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/18/2014",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "0:30 V:30",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "39 Colon JHA Epstein 76318-054 11:00 10:35 8/9 G.Tali J.Epstein 76518-054 11:00 6:3",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/9 General Werden Dandley Epstein 76316 2:22 6:45",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/9 Melle Epstein 17378-054 2:20 645",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024060",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Colon",
+      "G.Tali",
+      "J.Epstein",
+      "General Werden",
+      "Dandley",
+      "Melle",
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "8/9/19",
+      "7/18/2014"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "76518-054",
+      "76316",
+      "17378-054",
+      "DOJ-OGR-00024060"
+    ]
+  },
+  "additional_notes": "The document contains handwritten notes and appears to be a log or record of some sort. The text is mostly handwritten, with some printed text, including redactions marked as '(b)(6), (b)(7)(C)'. The document quality is generally good, but there may be some minor damage or blurring in certain areas."
+}

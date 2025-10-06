@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028307",
+    "date": "101810",
+    "document_type": "PQH API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 *B PQH API/HIT DATA 042814 *A *C NAME DOB DATE TIME AGN RSLT LNE TYP REF TERM/ LANE API EPSTEIN, JEFFREY 012053 101810 1645 CUS *D API INS /N33 C A471-NEW YORK, JFK AIRPORT, API DATA ---- INDICATOR : C CONFIRMED CARRIER CODE : VS VIRGIN ATLANTIC AIRWAYS FLT/VES NUMBER : 45 ARRIVAL LOCATION : JFK JOHN F KENNEDY INTL DEPARTURE LOCATION : LHR LONDON / HEATHROW INTL TRANSMITTED BY : SHARES CONTINENTAL AIRLINES INBOUND/OUTBOUND : INBOUND (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) (b)(7)(E) DOJ-OGR-00028307",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07 *B PQH API/HIT DATA 042814 *A *C",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB DATE TIME AGN RSLT LNE TYP REF TERM/ LANE API",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY 012053 101810 1645 CUS *D API INS /N33 C A471-NEW YORK, JFK AIRPORT,",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "API DATA ---- INDICATOR : C CONFIRMED CARRIER CODE : VS VIRGIN ATLANTIC AIRWAYS FLT/VES NUMBER : 45 ARRIVAL LOCATION : JFK JOHN F KENNEDY INTL DEPARTURE LOCATION : LHR LONDON / HEATHROW INTL TRANSMITTED BY : SHARES CONTINENTAL AIRLINES INBOUND/OUTBOUND : INBOUND",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028307",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "VIRGIN ATLANTIC AIRWAYS",
+      "CONTINENTAL AIRLINES"
+    ],
+    "locations": [
+      "NEW YORK",
+      "JFK AIRPORT",
+      "JOHN F KENNEDY INTL",
+      "LONDON",
+      "HEATHROW INTL"
+    ],
+    "dates": [
+      "101810"
+    ],
+    "reference_numbers": [
+      "A471",
+      "012053",
+      "101810",
+      "45",
+      "DOJ-OGR-00028307"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b)(7)(E)' and '(b)(6), (b)(7)(C)'."
+}

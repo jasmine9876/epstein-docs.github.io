@@ -1,0 +1,72 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00027516",
+    "date": "01/20/1953",
+    "document_type": "Flight Itinerary",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Jeffrey Edward Epstein\n01/20/1953\n\n#1\nA4REZZ -ETKT- *FQ\nRCVD- FD\nLON GS FD 18OCT0850Z\n1.1EPSTEIN/JEFFREYMR\n1 VS 45J 18OCT MO LHRJFK HK1 1400. 1640.\nP LHR/OUT 1406. L/1306.Z DL 89 A/C G-VROC\nFONE-\n1.LO (b)(6) JS/EB\n2.EML*(b)(6)\nFARE QUOTE-AUTO PRICED - LA$R|PADT|.NYC/NYC\n1 - PSGR 1 ADT\nGBP3290.00 USD5222.00 YQ161.00 GB142.90 XT70.10\nTTL USD5596.00\nTOTAL FARE - USD5596.00\nTKT-T/FQR/376760805341018/21589950296/0001//5596.00\nGEN FAX- *TKN/SSR FOR TKT NBRS\nFOP-$AX376760805341018/0114\nRMKS-\n1./S/C3.1/1.1/19530120\n2./S/C4.2/1/(b)(6)\n3.02 REMARKS ADDED BY LON GS FD 18OCT 0850Z B1250F\n4./S/T20.1-1/ADDR1/BILLING AND DELIVERY/(b)(6)\n5./S/T20.1-2/301 EAST 66TH STREET/301/NEW YORK/NY/NY/NY/10065/US A\n6.02 REMARKS ADDED BY LON GS FD 18OCT 0852Z B1250F\n7./S/A1.1-1/PAYMENT FLT/CH*(b)(6)\n\nDOJ-OGR-00027516",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Jeffrey Edward Epstein\n01/20/1953",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "#1\nA4REZZ -ETKT- *FQ\nRCVD- FD\nLON GS FD 18OCT0850Z\n1.1EPSTEIN/JEFFREYMR\n1 VS 45J 18OCT MO LHRJFK HK1 1400. 1640.\nP LHR/OUT 1406. L/1306.Z DL 89 A/C G-VROC",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FONE-\n1.LO (b)(6) JS/EB\n2.EML*(b)(6)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FARE QUOTE-AUTO PRICED - LA$R|PADT|.NYC/NYC\n1 - PSGR 1 ADT\nGBP3290.00 USD5222.00 YQ161.00 GB142.90 XT70.10\nTTL USD5596.00\nTOTAL FARE - USD5596.00",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TKT-T/FQR/376760805341018/21589950296/0001//5596.00\nGEN FAX- *TKN/SSR FOR TKT NBRS\nFOP-$AX376760805341018/0114",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "RMKS-\n1./S/C3.1/1.1/19530120\n2./S/C4.2/1/(b)(6)\n3.02 REMARKS ADDED BY LON GS FD 18OCT 0850Z B1250F\n4./S/T20.1-1/ADDR1/BILLING AND DELIVERY/(b)(6)\n5./S/T20.1-2/301 EAST 66TH STREET/301/NEW YORK/NY/NY/NY/10065/US A\n6.02 REMARKS ADDED BY LON GS FD 18OCT 0852Z B1250F\n7./S/A1.1-1/PAYMENT FLT/CH*(b)(6)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027516",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Edward Epstein"
+    ],
+    "organizations": [],
+    "locations": [
+      "LHR",
+      "JFK",
+      "LON",
+      "NYC",
+      "New York"
+    ],
+    "dates": [
+      "01/20/1953",
+      "18OCT"
+    ],
+    "reference_numbers": [
+      "376760805341018",
+      "21589950296",
+      "5596.00",
+      "DOJ-OGR-00027516"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b)(6)'. The document appears to be a flight itinerary for Jeffrey Edward Epstein."
+}

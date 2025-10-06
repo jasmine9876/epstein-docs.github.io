@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "3430",
+    "document_number": "DOJ-OGR-00027019",
+    "date": "8/10/2019",
+    "document_type": "Dashboard screenshot",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 3430 Truscope.Silverlight.Dashboard Page 1 of 2 9 SOUTH SHU RollCall High Risk Inmate Lists S3S Contraband BUs Uls Daily Activity Log Events New Estimates 8/7/2013 - 8/11/2013 All Log Events Current Base Count Logout https://10.33.3.57/Dashboard.aspx 8/10/2019 DOJ-OGR-00027019",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3430 Truscope.Silverlight.Dashboard",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "9 SOUTH SHU",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "https://10.33.3.57/Dashboard.aspx",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "8/10/2019",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027019",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "8/7/2013",
+      "8/11/2013",
+      "8/10/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00027019"
+    ]
+  },
+  "additional_notes": "The document is a screenshot of a dashboard with various log events and activities related to a correctional facility. The image is heavily redacted, with many fields and text obscured."
+}

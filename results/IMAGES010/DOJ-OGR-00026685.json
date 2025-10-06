@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": "3045",
+    "document_number": "BP-A0972",
+    "date": "8/17/2019",
+    "document_type": "CRIME SCENE SIGN-IN LOG CDFRM",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 3045 CRIME SCENE SIGN-IN LOG CDFRM Page Of BP-A0972 AUG 11 U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS GENERAL INFORMATION DATE 8/17/2019 CASE ID LOCATION PREPARER/ASSISTANTS PERSONNEL (Include Initials) SEARCH TEAM PERSONNEL Print Full Name Signature Agency/Division/Office and Phone Initials Time In Time Out [b(6); (b)(7)(C)] FBI New York [b(6); (b)(7)(C)] 726 720 726 726 726 726 726 726 726 726 847 847 PDF Prescribed by P5510 DOJ-OGR-00026685",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3045 CRIME SCENE SIGN-IN LOG CDFRM Page Of BP-A0972 AUG 11 U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "GENERAL INFORMATION DATE CASE ID LOCATION PREPARER/ASSISTANTS PERSONNEL (Include Initials)",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/17/2019",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "SEARCH TEAM PERSONNEL Print Full Name Signature Agency/Division/Office and Phone Initials Time In Time Out",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "[b(6); (b)(7)(C)] FBI New York [b(6); (b)(7)(C)] 726 720 726 726 726 726 726 726 726 726 847 847",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PDF Prescribed by P5510 DOJ-OGR-00026685",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "FBI",
+      "U.S. DEPARTMENT OF JUSTICE",
+      "FEDERAL BUREAU OF PRISONS"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "8/17/2019",
+      "AUG 11"
+    ],
+    "reference_numbers": [
+      "BP-A0972",
+      "P5510",
+      "DOJ-OGR-00026685"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as [b(6); (b)(7)(C)]. The document is a Crime Scene Sign-in Log from the Federal Bureau of Prisons."
+}

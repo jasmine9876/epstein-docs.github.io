@@ -1,0 +1,94 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "65",
+    "date": "01/03/22",
+    "document_type": "Court Order",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:19-cr-00830-AT Document 65 Filed 01/03/22 Page 3 of 3\nUpon the foregoing recommendation, I hereby direct, with leave of the Court, that an order of nolle prosequi be filed as to defendants TOVA NOEL and MICHAEL THOMAS with respect to Indictment 19 Cr. 830 (AT).\nDamian Williams United States Attorney Southern District of New York\nDated: New York, New York December 13, 2021\nSO ORDERED.\nDated: January 3, 2022 New York, New York\nANALISA TORRES United States District Judge\n3\nDOJ-OGR-00022149",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:19-cr-00830-AT Document 65 Filed 01/03/22 Page 3 of 3",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Upon the foregoing recommendation, I hereby direct, with leave of the Court, that an order of nolle prosequi be filed as to defendants TOVA NOEL and MICHAEL THOMAS with respect to Indictment 19 Cr. 830 (AT).",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Damian Williams",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "United States Attorney Southern District of New York",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Dated: New York, New York December 13, 2021",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SO ORDERED.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Dated: January 3, 2022 New York, New York",
+      "position": "middle"
+    },
+    {
+      "type": "signature",
+      "content": "",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "ANALISA TORRES United States District Judge",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "3",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022149",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Damian Williams",
+      "TOVA NOEL",
+      "MICHAEL THOMAS",
+      "ANALISA TORRES"
+    ],
+    "organizations": [
+      "United States Attorney",
+      "United States District Judge"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "December 13, 2021",
+      "January 3, 2022",
+      "01/03/22"
+    ],
+    "reference_numbers": [
+      "1:19-cr-00830-AT",
+      "19 Cr. 830 (AT)",
+      "DOJ-OGR-00022149"
+    ]
+  },
+  "additional_notes": "The document appears to be a court order with a signature from Analisa Torres, United States District Judge. The document is related to a criminal case involving defendants Tova Noel and Michael Thomas."
+}

@@ -1,0 +1,82 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028755",
+    "date": "05/22/2013",
+    "document_type": "PQH API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:08 PQH API/HIT DATA 042814 *B *A *C NAME DOB DATE TIME AGN RSLT LNE TYP REF TERM/ LANE API EPSTEIN, JEFFREY 012053 052213 0807 CUS *D AIR CUS EY12 N A512-CBP-ST THOMAS, VI PRECL DOC: 46991107 US P INSP: *E TECS RECORD ID : CARRIER CODE : *GA GENERAL AVIATION FLT/VES NUMBER : N909 (b) (7) (E) (b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6) , (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) *E - (b) (6) , (b) (7) (C) DOJ-OGR-00028755",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:08 PQH API/HIT DATA 042814",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB DATE TIME AGN RSLT LNE TYP REF TERM/ LANE API",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY 012053 052213 0807 CUS *D AIR CUS EY12 N",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "A512-CBP-ST THOMAS, VI PRECL DOC: 46991107 US P INSP: *E",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TECS RECORD ID :",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CARRIER CODE : *GA GENERAL AVIATION",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FLT/VES NUMBER : N909",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b) (7) (E) (b) (7) (E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b) (7) (E) *B - (b) (6) , (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) *E - (b) (6) , (b) (7) (C)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028755",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "ST THOMAS, VI"
+    ],
+    "dates": [
+      "05/22/2013",
+      "01/20/1953"
+    ],
+    "reference_numbers": [
+      "46991107",
+      "N909",
+      "DOJ-OGR-00028755"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked with (b) (6), (b) (7) (C), and (b) (7) (E)."
+}

@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028306",
+    "date": "042814",
+    "document_type": "PQH API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 *B PQH API/HIT DATA 042814 *A *C NAME DOB ----- QUERY ----- LNE TERM/ EPSTEIN, JEFFREY 012053 DATE TIME AGN RSLT TYP REF LANE API 112910 0000 *D API 01 R SAN JUAN, LUIS MUNOZ MARIN I API DATA ---- INDICATOR : R REPORTED CARRIER CODE : RAP AIR CENTER HELICOPTERS I FLT/VES NUMBER : 301 ARRIVAL LOCATION : SJU SAN JUAN, LUIS MUNOZ MAR DEPARTURE LOCATION : STT C.E. KING TRANSMITTED BY : APIS*11X AIR CENTER HELICOPTERS, INBOUND/OUTBOUND : (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) DOJ-OGR-00028306",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07 *B PQH API/HIT DATA 042814 *A *C",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB ----- QUERY ----- LNE TERM/ EPSTEIN, JEFFREY 012053 DATE TIME AGN RSLT TYP REF LANE API 112910 0000 *D API 01 R SAN JUAN, LUIS MUNOZ MARIN I",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "API DATA ---- INDICATOR : R REPORTED CARRIER CODE : RAP AIR CENTER HELICOPTERS I FLT/VES NUMBER : 301 ARRIVAL LOCATION : SJU SAN JUAN, LUIS MUNOZ MAR DEPARTURE LOCATION : STT C.E. KING TRANSMITTED BY : APIS*11X AIR CENTER HELICOPTERS, INBOUND/OUTBOUND : (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028306",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN",
+      "LUIS MUNOZ MARIN SAN JUAN",
+      "C.E. KING"
+    ],
+    "organizations": [
+      "AIR CENTER HELICOPTERS"
+    ],
+    "locations": [
+      "SJU",
+      "STT"
+    ],
+    "dates": [
+      "112910",
+      "042814"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00028306",
+      "301"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as (b)(7)(E), (b)(6), and (b)(7)(C)."
+}

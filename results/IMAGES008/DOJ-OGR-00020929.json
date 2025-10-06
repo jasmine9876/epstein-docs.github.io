@@ -1,0 +1,85 @@
+{
+  "document_metadata": {
+    "page_number": "103 of 221",
+    "document_number": "58",
+    "date": "02/28/2023",
+    "document_type": "Juror Questionnaire",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 22-1426, Document 58 02/28/2023, 3475901, Page103 of 221\nA-303\nCase 1:20-cr-00330-AJN Document 638 Filed 03/09/22 Page 15 of 29\nJuror ID: 50\n32a. If yes, please explain:\n\nPERSONAL RELATIONSHIP WITH CASE PARTICIPANTS\n33. The next subset of questions asks whether you or any member of your family or a close friend personally knows or has past or present dealings with individuals involved in this case. To \"personally know\" means to have some direct or personal knowledge or connection to the following individuals. If you have only heard the names through media or social media, for example, that is not personal knowledge.\n33a. Do you or does any member of your family or a close friend personally know or have past or present dealings with the Defendant in this case, Ghislaine Maxwell, or her family members? \nYes No\n33b. Do you or does any member of your family or a close friend personally know or have past or present dealings with Jeffrey Epstein? \nYes No\n33c. Do you or does any member of your family or a close friend personally know or have past or present dealings with the U.S. Attorney for the Southern District of New York, Damian Williams, the former Acting U.S. Attorney for the Southern District of New York, Audrey Strauss, or anyone else who works for or used to work for the U.S. Attorney's Office for the Southern District of New York? \nYes No\n33d. Do you or does any member of your family or a close friend personally know or have past or present dealings with any of the Assistant United States Attorneys who are prosecuting this case: \nMaurene Comey Yes No\nAlison Moe Yes No\nLara Pomerantz Yes No\nAndrew Rohrbach Yes No\n-17-\nDOJ-OGR-00020929",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 22-1426, Document 58 02/28/2023, 3475901, Page103 of 221",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-AJN Document 638 Filed 03/09/22 Page 15 of 29",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "50",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PERSONAL RELATIONSHIP WITH CASE PARTICIPANTS",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "33. The next subset of questions asks whether you or any member of your family or a close friend personally knows or has past or present dealings with individuals involved in this case. To \"personally know\" means to have some direct or personal knowledge or connection to the following individuals. If you have only heard the names through media or social media, for example, that is not personal knowledge.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "No",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "-17-",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00020929",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ghislaine Maxwell",
+      "Jeffrey Epstein",
+      "Damian Williams",
+      "Audrey Strauss",
+      "Maurene Comey",
+      "Alison Moe",
+      "Lara Pomerantz",
+      "Andrew Rohrbach"
+    ],
+    "organizations": [
+      "U.S. Attorney's Office for the Southern District of New York"
+    ],
+    "locations": [
+      "New York",
+      "Southern District of New York"
+    ],
+    "dates": [
+      "02/28/2023",
+      "03/09/22"
+    ],
+    "reference_numbers": [
+      "22-1426",
+      "1:20-cr-00330-AJN",
+      "Document 58",
+      "Document 638",
+      "3475901",
+      "DOJ-OGR-00020929"
+    ]
+  },
+  "additional_notes": "The document appears to be a juror questionnaire with some handwritten answers. The juror ID is 50. All answers to questions 33a-33d are 'No'."
+}

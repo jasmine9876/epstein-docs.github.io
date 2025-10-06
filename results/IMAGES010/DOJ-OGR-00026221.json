@@ -1,0 +1,69 @@
+{
+  "document_metadata": {
+    "page_number": "2561",
+    "document_number": "76318-054",
+    "date": "07/23/2019",
+    "document_type": "Clinical Encounter",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2561\nBureau of Prisons\nHealth Services\nClinical Encounter\nInmate Name: EPSTEIN, JEFFREY EDWARD\nDate of Birth: 01/20/1953\nEncounter Date: 07/23/2019 06:20\nSex: M\nRace: WHITE\nReg #: 76318-054\nProvider: [redacted]\nFacility: NYM\nUnit: H01\nInjury Assessment - Non-work related encounter performed at Health Services.\nSUBJECTIVE:\nINJURY 1\nProvider: [redacted]\nDate of Injury: 07/23/2019 01:27\nDate Reported for Treatment: 07/23/2019 08:25\nWork Related: No\nWork Assignment: UNASSG\nPain Location:\nPain Scale: 0\nPain Qualities:\nWhere Did Injury Happen (Be specific as to location):\nSpecial Housing Unit Z05-Cell 124 L\nCause of Injury (Inmate's Statement of how injury occurred): [redacted]\nSymptoms (as reported by inmate):\nNone\nOBJECTIVE:\nTemperature:\nDate Time Fahrenheit Celsius Location Provider\n07/23/2019 06:30 NYM 97.5 36.4 Oral [redacted]\nPulse:\nDate Time Rate Per Minute Location Rhythm Provider\n07/23/2019 06:30 92 Via Machine Regular [redacted]\nRespirations:\nDate Time Rate Per Minute Provider\n07/23/2019 06:30 NYM 16 [redacted]\nBlood Pressure:\nDate Time Value Location Position Cuff Size Provider\n07/23/2019 06:30 NYM 140/85 Right Arm Sitting Adult-regular [redacted]\nSaO2:\nDate Time Value(%) Air Provider\n07/23/2019 06:30 NYM 96 Room Air [redacted]\nExam:\nGeneral\nAffect\nYes: Cooperative\nAppearance\nYes: Appears Well, Alert and Oriented x 3\nNo: Appears Distressed, Lethargic, Dyspneic, Appears in Pain, Pallor, Cyanotic, Diaphoretic, Disheveled,\nGenerated 07/23/2019 09:05 by [redacted]\nBureau of Prisons - NYM\nPage 1 of 2\nDOJ-OGR-00026221",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Bureau of Prisons\nHealth Services\nClinical Encounter",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD\nDate of Birth: 01/20/1953\nEncounter Date: 07/23/2019 06:20\nSex: M\nRace: WHITE\nReg #: 76318-054\nProvider: [redacted]\nFacility: NYM\nUnit: H01",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Injury Assessment - Non-work related encounter performed at Health Services.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SUBJECTIVE:\nINJURY 1\nProvider: [redacted]\nDate of Injury: 07/23/2019 01:27\nDate Reported for Treatment: 07/23/2019 08:25\nWork Related: No\nWork Assignment: UNASSG\nPain Location:\nPain Scale: 0\nPain Qualities:\nWhere Did Injury Happen (Be specific as to location):\nSpecial Housing Unit Z05-Cell 124 L\nCause of Injury (Inmate's Statement of how injury occurred): [redacted]\nSymptoms (as reported by inmate):\nNone",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "OBJECTIVE:\nTemperature:\nDate Time Fahrenheit Celsius Location Provider\n07/23/2019 06:30 NYM 97.5 36.4 Oral [redacted]\nPulse:\nDate Time Rate Per Minute Location Rhythm Provider\n07/23/2019 06:30 92 Via Machine Regular [redacted]\nRespirations:\nDate Time Rate Per Minute Provider\n07/23/2019 06:30 NYM 16 [redacted]\nBlood Pressure:\nDate Time Value Location Position Cuff Size Provider\n07/23/2019 06:30 NYM 140/85 Right Arm Sitting Adult-regular [redacted]\nSaO2:\nDate Time Value(%) Air Provider\n07/23/2019 06:30 NYM 96 Room Air [redacted]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Exam:\nGeneral\nAffect\nYes: Cooperative\nAppearance\nYes: Appears Well, Alert and Oriented x 3\nNo: Appears Distressed, Lethargic, Dyspneic, Appears in Pain, Pallor, Cyanotic, Diaphoretic, Disheveled,",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/23/2019 09:05 by [redacted]\nBureau of Prisons - NYM\nPage 1 of 2",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM",
+      "Special Housing Unit Z05-Cell 124 L"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/23/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026221"
+    ]
+  },
+  "additional_notes": "The document contains redacted information, likely for privacy or security reasons."
+}

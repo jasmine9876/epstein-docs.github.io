@@ -1,0 +1,49 @@
+{
+  "document_metadata": {
+    "page_number": "1414",
+    "document_number": "DOJ-OGR-00025572",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 1414 b(5) Hugh Sent from my Verizon, Samsung Galaxy smartphone DOJ-OGR-00025572",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 1414",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "b(5)",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "Hugh Sent from my Verizon, Samsung Galaxy smartphone",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025572",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Hugh"
+    ],
+    "organizations": [
+      "Verizon",
+      "Samsung",
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00025572"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted page from a larger document, with a notation 'b(5)' indicating a redaction. The content is mostly printed text, with a signature or name 'Hugh' and a footer identifier 'DOJ-OGR-00025572'."
+}

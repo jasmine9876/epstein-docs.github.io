@@ -1,0 +1,81 @@
+{
+  "document_metadata": {
+    "page_number": "2580",
+    "document_number": "DOJ-OGR-00026240",
+    "date": "07/06/2019",
+    "document_type": "Medical Record",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2580\nInmate Name: EPSTEIN, JEFFREY EDWARD\nDate of Birth: 01/20/1953 Sex: M Reg #: 76318-054\nEncounter Date: 07/06/2019 21:38 Provider: (b)(6); (b)(7)(C) PA-C Race: WHITE Facility: NYM\nHealth Problems Newly Identified During This Encounter:\nHealth Problem\nMedication Reconciliation.\nThe patient's known medication list including OTC items was compiled and compared to new and changed BOP orders.\nReconciled Medications:\nSource Action Type Rx# Medication Order Detail\nOTC No known OTCs\nNew Laboratory Requests:\nDetails Frequency Due Date Priority\nLab Tests-H-Hemoglobin A1C One Time 08/05/2019 00:00 Routine\nLab Tests-C-CBC w/diff\nLab Tests-L-Lipid Profile\nLab Tests-C-Comprehensive Metabolic Profile (CMP)\nLab Tests-U-Urinalysis w/Reflex to Microscopic\nAdditional Information:\n66 y/o male, elevated BP\nLabs requested to be reviewed by: (b)(6); (b)(7)(C) MD\nNew Non-Medication Orders:\nOrder Frequency Duration Details Ordered By\nEKG One Time 66 y/o male (b)(6); (b)(7)(C) PA-C\nOrder Date: 07/06/2019\nFecal Occult Blood One Time 3 different stools (b)(6); (b)(7)(C) PA-C\nOrder Date: 07/06/2019\nSchedule:\nActivity Date Scheduled Scheduled Provider\nVision Screen 07/06/2019 00:00 Optometrist\n66 y/o male\nPPD Reading 07/08/2019 00:00 Nurse\nFollow-up 07/09/2019 00:00 Mid-Level Provider\nBP check\nOther:\nBP noticed to be elevated.\nIM denies Hx of HTN or any significant chronic medical conditions.\nHe is currently asymptomatic and denies any bodily complaints at this time.\nWill recheck BP in 2-3 days.\nDisposition:\nFollow-up at Sick Call as Needed\nTo be Evaluated by Provider\nInstructed inmate how to obtain medical, dental, and mental health care.\nCopay Required: No Cosign Required: Yes\nTelephone/Verbal Order: No\nGenerated 07/06/2019 21:56 by (b)(6); (b)(7)(C) PA-C Bureau of Prisons - NYM Page 5 of 6",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 2580\nInmate Name: EPSTEIN, JEFFREY EDWARD\nDate of Birth: 01/20/1953 Sex: M Reg #: 76318-054\nEncounter Date: 07/06/2019 21:38 Provider: (b)(6); (b)(7)(C) PA-C Race: WHITE Facility: NYM",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Health Problems Newly Identified During This Encounter:\nHealth Problem\nMedication Reconciliation.\nThe patient's known medication list including OTC items was compiled and compared to new and changed BOP orders.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Reconciled Medications:\nSource Action Type Rx# Medication Order Detail\nOTC No known OTCs",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "New Laboratory Requests:\nDetails Frequency Due Date Priority\nLab Tests-H-Hemoglobin A1C One Time 08/05/2019 00:00 Routine\nLab Tests-C-CBC w/diff\nLab Tests-L-Lipid Profile\nLab Tests-C-Comprehensive Metabolic Profile (CMP)\nLab Tests-U-Urinalysis w/Reflex to Microscopic\nAdditional Information:\n66 y/o male, elevated BP\nLabs requested to be reviewed by: (b)(6); (b)(7)(C) MD",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "New Non-Medication Orders:\nOrder Frequency Duration Details Ordered By\nEKG One Time 66 y/o male (b)(6); (b)(7)(C) PA-C\nOrder Date: 07/06/2019\nFecal Occult Blood One Time 3 different stools (b)(6); (b)(7)(C) PA-C\nOrder Date: 07/06/2019",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Schedule:\nActivity Date Scheduled Scheduled Provider\nVision Screen 07/06/2019 00:00 Optometrist\n66 y/o male\nPPD Reading 07/08/2019 00:00 Nurse\nFollow-up 07/09/2019 00:00 Mid-Level Provider\nBP check",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Other:\nBP noticed to be elevated.\nIM denies Hx of HTN or any significant chronic medical conditions.\nHe is currently asymptomatic and denies any bodily complaints at this time.\nWill recheck BP in 2-3 days.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Disposition:\nFollow-up at Sick Call as Needed\nTo be Evaluated by Provider\nInstructed inmate how to obtain medical, dental, and mental health care.",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Copay Required: No Cosign Required: Yes\nTelephone/Verbal Order: No\nGenerated 07/06/2019 21:56 by (b)(6); (b)(7)(C) PA-C Bureau of Prisons - NYM Page 5 of 6",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/06/2019",
+      "08/05/2019",
+      "07/08/2019",
+      "07/09/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026240"
+    ]
+  },
+  "additional_notes": "The document appears to be a medical record for Jeffrey Epstein, an inmate at NYM facility. The document contains information about his medical history, laboratory requests, and treatment plans. Some personal identifiable information is redacted."
+}

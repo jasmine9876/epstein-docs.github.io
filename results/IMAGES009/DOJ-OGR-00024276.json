@@ -1,0 +1,52 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024276",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "(b)(6), (b)(7)(C) J. Epstein 76318-or 8:29 10:30 J. Epstein 76318-054 8:40 11:34 J. Epstein 76318-054 8:40 10:30 (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) J. Epstein 76318-054 9:15 11:30 (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) DOJ-OGR-00024276",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "J. Epstein 76318-or 8:29 10:30 J. Epstein 76318-054 8:40 11:34 J. Epstein 76318-054 8:40 10:30",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "margin"
+    },
+    {
+      "type": "handwritten",
+      "content": "J. Epstein 76318-054 9:15 11:30",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C) DOJ-OGR-00024276",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "J. Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "76318-or",
+      "76318-054",
+      "DOJ-OGR-00024276"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as '(b)(6), (b)(7)(C)'. The visible text includes handwritten entries and a document reference number."
+}

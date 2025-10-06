@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "47",
+    "document_number": "DOJ-OGR-00022219",
+    "date": "1947",
+    "document_type": "Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date 1947 Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number d Landings Aircraft Category... From To 10 G1159B N908JC VNC PBI 956 JC 1 4 15 \" \" \" PBI DCA 957 JC, CELLNA MIDELFARS 1/1 1 7 15 \" \" \" DCA IAD 958 Reposition for crew 2 15 \" \" \" IAD PBI 959 JC, CELLNA MIDELFART 2 3 24 \" \" \" PBI TCB 960 JC,GM sizand, Joel Pasithay, 1/1 2 3 27 \" \" \" TCB PBI 961 JC,GM, DID ECL CARSJuncel 2 1 30 \" \" \" PBI SAF 962 JC,GM, DID ECL CARSJuncel 3 7 30F \" \" \" SAF CMH 963 JC,CM,DC 1/1 2 4 2 \" \" \" CMH TCB 964 JC,CM,DC 1 1 10 \" \" \" TCB PBI 965 JC,DC,Denna, 2 finnish, 1 male 2 2 15 \" \" \" PBI DCA 966 JC,DC minus (wilderness Back, 1/1 2 6 15 \" \" \" DCA TCB 967 JC,DC,Communted Back LUNN 7 17 \" \" \" TCB PBI 968 JC,GM,DC cum clumsy lesson, 2 landings 1/1 2 4 21 \" \" \" PBI TCB 969 JC,DC,MTNY,LBS?, 1 male 1/1 2 2 21 \" \" \" TCB BED 970 JC 5 21 \" \" \" BED TCB 971 JC 7 22 \" \" \" TCB PBI 972 JC 2 3 27 \" \" \" PBI TCB 973 JC, CELLNA MIDELFART 1/1 2 4 30F \" \" \" TCB EGGW 974 JC,GM 1/1 6 5 I certify that the statements made by me on this form are true. Pilot's Signature David Roddy Page Total 9/9 378 Amount Forward 5969 68872 Total to Date 5918 69250",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date 1947 Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number d Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "10 G1159B N908JC VNC PBI 956 JC 1 4 15 \" \" \" PBI DCA 957 JC, CELLNA MIDELFARS 1/1 1 7 15 \" \" \" DCA IAD 958 Reposition for crew 2 15 \" \" \" IAD PBI 959 JC, CELLNA MIDELFART 2 3 24 \" \" \" PBI TCB 960 JC,GM sizand, Joel Pasithay, 1/1 2 3 27 \" \" \" TCB PBI 961 JC,GM, DID ECL CARSJuncel 2 1 30 \" \" \" PBI SAF 962 JC,GM, DID ECL CARSJuncel 3 7 30F \" \" \" SAF CMH 963 JC,CM,DC 1/1 2 4 2 \" \" \" CMH TCB 964 JC,CM,DC 1 1 10 \" \" \" TCB PBI 965 JC,DC,Denna, 2 finnish, 1 male 2 2 15 \" \" \" PBI DCA 966 JC,DC minus (wilderness Back, 1/1 2 6 15 \" \" \" DCA TCB 967 JC,DC,Communted Back LUNN 7 17 \" \" \" TCB PBI 968 JC,GM,DC cum clumsy lesson, 2 landings 1/1 2 4 21 \" \" \" PBI TCB 969 JC,DC,MTNY,LBS?, 1 male 1/1 2 2 21 \" \" \" TCB BED 970 JC 5 21 \" \" \" BED TCB 971 JC 7 22 \" \" \" TCB PBI 972 JC 2 3 27 \" \" \" PBI TCB 973 JC, CELLNA MIDELFART 1/1 2 4 30F \" \" \" TCB EGGW 974 JC,GM 1/1 6 5",
+      "position": "main"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David Roddy",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total 9/9 378 Amount Forward 5969 68872 Total to Date 5918 69250",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Roddy",
+      "Joel Pasithay"
+    ],
+    "organizations": [],
+    "locations": [
+      "VNC",
+      "PBI",
+      "DCA",
+      "IAD",
+      "TCB",
+      "SAF",
+      "CMH",
+      "BED",
+      "EGGW"
+    ],
+    "dates": [
+      "1947"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00022219",
+      "N908JC",
+      "G1159B"
+    ]
+  },
+  "additional_notes": "The document is a flight log from 1947, containing handwritten entries detailing various flights, including departure and arrival points, miles flown, and remarks. The log is signed by pilot David Roddy."
+}

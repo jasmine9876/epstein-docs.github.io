@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "2016-000580",
+    "date": null,
+    "document_type": "Exhibit",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case#:2016-000580-Adjud Document#:110621 Filed:06/28/2016 Page#3 of 4 Exhibit B DOJ-OGR-00020123",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case#:2016-000580-Adjud Document#:110621 Filed:06/28/2016 Page#3 of 4",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Exhibit B",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00020123",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "06/28/2016"
+    ],
+    "reference_numbers": [
+      "2016-000580",
+      "110621",
+      "DOJ-OGR-00020123"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear header and footer. The content is mostly printed text with no visible handwriting or stamps."
+}

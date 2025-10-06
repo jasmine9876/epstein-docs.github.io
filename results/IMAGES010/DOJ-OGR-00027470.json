@@ -1,0 +1,86 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00027470",
+    "date": "11/15/2012",
+    "document_type": "Air / Sea Baggage Secondary Inspection",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "UNCLASSIFIED // FOR OFFICIAL USE ONLY\nEPSTEIN JEFFREY (b)(7)(E)\n11/15/2012 14:33:42\nAir / Sea Baggage Secondary Inspection (b)(7)(E)\n(b)(7)(E)\nSubject\nLast Name: EPSTEIN\nFirst Name: JEFFREY\nGender: Male (b)(7)(E)\nRace: White (b)(7)(E)\nDate Of Birth: 01/20/1953\nCrossing Information\nPort: ST THOMAS, VI - PRECLEARANCE (7401)\nSite: CBP-ST THOMAS, VI PREDEPARTURE (b)(7)(E)\nInbound/Outbound: Inbound\nPort Crossing Date: 11/15/2012 14:33:42\nEmbark Port: ST THOMAS IS.-H S TRUMAN AIRPORT (b)(7)(E)\nDeparture Airport: ST THOMAS IS.-H S TRUMAN AIRPORT (b)(7)(E)\nAirline: GENERAL AVIATION (*GA)\nPassenger Document\nDocument Type: PASSPORT (b)(7)(E)\nDocument Type I: PASSPORT (b)(7)(E)\nIssue Country: United States (US/USA)\nDocument Number: (b)(6),(b)(7)(C)\nReferral / Inspection Information\nReferral Office: (b)(7)(E)\nReferral Reason: (b)(7)(E)\nReferral Comment: (b)(7)(E)\nNO FIN NUMBER\nInspection Completion: Yes\nInspection Result: Negative\nMiscellaneous Info\nPersonnel Search: No\nBaggage Examination: No\nPassenger On Declare Number: 1\nRemarks\nUNCLASSIFIED // FOR OFFICIAL USE ONLY\nDOJ-OGR-00027470",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "UNCLASSIFIED // FOR OFFICIAL USE ONLY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN JEFFREY (b)(7)(E)\n11/15/2012 14:33:42\nAir / Sea Baggage Secondary Inspection (b)(7)(E)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Subject\nLast Name: EPSTEIN\nFirst Name: JEFFREY\nGender: Male (b)(7)(E)\nRace: White (b)(7)(E)\nDate Of Birth: 01/20/1953",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Crossing Information\nPort: ST THOMAS, VI - PRECLEARANCE (7401)\nSite: CBP-ST THOMAS, VI PREDEPARTURE (b)(7)(E)\nInbound/Outbound: Inbound\nPort Crossing Date: 11/15/2012 14:33:42\nEmbark Port: ST THOMAS IS.-H S TRUMAN AIRPORT (b)(7)(E)\nDeparture Airport: ST THOMAS IS.-H S TRUMAN AIRPORT (b)(7)(E)\nAirline: GENERAL AVIATION (*GA)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Passenger Document\nDocument Type: PASSPORT (b)(7)(E)\nDocument Type I: PASSPORT (b)(7)(E)\nIssue Country: United States (US/USA)\nDocument Number: (b)(6),(b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Referral / Inspection Information\nReferral Office: (b)(7)(E)\nReferral Reason: (b)(7)(E)\nReferral Comment: (b)(7)(E)\nNO FIN NUMBER\nInspection Completion: Yes\nInspection Result: Negative",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Miscellaneous Info\nPersonnel Search: No\nBaggage Examination: No\nPassenger On Declare Number: 1",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Remarks",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "UNCLASSIFIED // FOR OFFICIAL USE ONLY",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027470",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "CBP",
+      "GENERAL AVIATION"
+    ],
+    "locations": [
+      "ST THOMAS, VI",
+      "ST THOMAS IS.-H S TRUMAN AIRPORT",
+      "United States"
+    ],
+    "dates": [
+      "11/15/2012",
+      "01/20/1953"
+    ],
+    "reference_numbers": [
+      "(b)(6),(b)(7)(C)",
+      "DOJ-OGR-00027470"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(7)(E) and (b)(6),(b)(7)(C). The document is labeled 'UNCLASSIFIED // FOR OFFICIAL USE ONLY' at the top and bottom."
+}

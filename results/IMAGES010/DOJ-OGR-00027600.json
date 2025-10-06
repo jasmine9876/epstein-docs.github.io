@@ -1,0 +1,167 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "059 Z/ TA-BA/U156907 CR-NYCBA07S6 33993466 GS 0099XX/RO-AC155929 DELBA0802 14396782 19NOV1800Z\n060 Q/ QE/JAXBA07RF/5C76\n060 Z/ -BA/U156907 CR-NYCBA07S6 33993466 GS 0099XX/RO-AC155929 DELBA0802 14396782 19NOV1801Z\n061 Q/ QE/JAXBA07RF/5C50 QR5C76\n061 Z/ CR-NCLBA0801 91494502 SU 13099V/DS-AC186411 19NOV1809Z\n062 Q/ XP/01.03/QE/NYCBA080B/54C118-YGM3WF\n062 Z/ CR-NCLBA0801 91494502 SU 13099V/DS-AC1A6C14 19NOV2134Z\n063 A/SVC MCO BA JAX 19NOV/USD25.00/ SVC/ -1426-USA48 YREISS/EPSTEIN/JEFFREY EDWARD (b) (6)\n063 A/SVC MCO BA JAX 19NOV/USD25.00/ SVC/ -1426-USA48 YREISS/(b) (6)\n063 A/OP OP JAXBA080F/22NOV/54C21\n063 A/7 RX GL E TKTR CURRENCY REISSUE CALCULATED IN USD\n063 A/7 RX GL E TKTR FARE DIFF ADT 1457.00 CHD 0.00 INF 0.00\n063 A/7 RX GL E TKTR FARE PENALTY ADT 0.00 CHD 0.00 INF 0.00\n063 A/7 RX GL E TKTR TAX DIFF ADT 0.00 CHD 0.00 INF 0.00\n063 A/7 RX E TKTR ATTN AGENT USE F10 OPTION 21 TO REISSUE ETICKET\n063 A/7 RX AGENT SIGN S3 NYCBA080B WNS 19NOV12 (SM\n063 A/F FE M BG,EC\n063 A/F FO 125-7141175344PHX18OCT12/03531500/125-71440908054E1 V/BA8004 J 25NOV EWRORY/EPSTEIN/JEFFREY EDWARD\n063 A/F FO 125-7141175345PHX18OCT12/03531500/125-71440908065E1 V/BA8004 J 25NOV EWRORY/(b) (6)\n063 A/F FV BA/BA8004 J 25NOV EWRORY/EPSTEIN/JEFFREY EDWARD (b) (6)\n063 Z/ RATES,NYCBA080B,0116S3 CR-NYCBA080B 10993065 SU 0116S3/DS-AC7F4922 19NOV2142Z\n064 P/ QR54C118\n064 Z/ RATES,NYCBA080B,0116S3 CR-NYCBA080B 10993065 SU 0116S3/DS-AC7F4922 19NOV2142Z\n065 Q/ QN/5C50\n065 Z/ CR-NCLBA0801 91494502 SU 13099V/DS-AC186414 20NOV0441Z\nDOJ-OGR-00027600",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "059 Z/ TA-BA/U156907 CR-NYCBA07S6 33993466 GS 0099XX/RO-AC155929 DELBA0802 14396782 19NOV1800Z",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "060 Q/ QE/JAXBA07RF/5C76\n060 Z/ -BA/U156907 CR-NYCBA07S6 33993466 GS 0099XX/RO-AC155929 DELBA0802 14396782 19NOV1801Z",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "061 Q/ QE/JAXBA07RF/5C50 QR5C76\n061 Z/ CR-NCLBA0801 91494502 SU 13099V/DS-AC186411 19NOV1809Z",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "062 Q/ XP/01.03/QE/NYCBA080B/54C118-YGM3WF\n062 Z/ CR-NCLBA0801 91494502 SU 13099V/DS-AC1A6C14 19NOV2134Z",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "063 A/SVC MCO BA JAX 19NOV/USD25.00/ SVC/ -1426-USA48 YREISS/EPSTEIN/JEFFREY EDWARD (b) (6)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "063 A/SVC MCO BA JAX 19NOV/USD25.00/ SVC/ -1426-USA48 YREISS/(b) (6)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "063 A/OP OP JAXBA080F/22NOV/54C21\n063 A/7 RX GL E TKTR CURRENCY REISSUE CALCULATED IN USD",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "063 A/7 RX GL E TKTR FARE DIFF ADT 1457.00 CHD 0.00 INF 0.00\n063 A/7 RX GL E TKTR FARE PENALTY ADT 0.00 CHD 0.00 INF 0.00",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "063 A/7 RX GL E TKTR TAX DIFF ADT 0.00 CHD 0.00 INF 0.00\n063 A/7 RX E TKTR ATTN AGENT USE F10 OPTION 21 TO REISSUE ETICKET",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "063 A/7 RX AGENT SIGN S3 NYCBA080B WNS 19NOV12 (SM\n063 A/F FE M BG,EC",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "063 A/F FO 125-7141175344PHX18OCT12/03531500/125-71440908054E1 V/BA8004 J 25NOV EWRORY/EPSTEIN/JEFFREY EDWARD",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "063 A/F FO 125-7141175345PHX18OCT12/03531500/125-71440908065E1 V/BA8004 J 25NOV EWRORY/(b) (6)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "063 A/F FV BA/BA8004 J 25NOV EWRORY/EPSTEIN/JEFFREY EDWARD (b) (6)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "063 Z/ RATES,NYCBA080B,0116S3 CR-NYCBA080B 10993065 SU 0116S3/DS-AC7F4922 19NOV2142Z",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "064 P/ QR54C118\n064 Z/ RATES,NYCBA080B,0116S3 CR-NYCBA080B 10993065 SU 0116S3/DS-AC7F4922 19NOV2142Z",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "065 Q/ QN/5C50\n065 Z/ CR-NCLBA0801 91494502 SU 13099V/DS-AC186414 20NOV0441Z",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027600",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "JAX",
+      "NYCBA",
+      "PHX",
+      "EWRORY",
+      "USA"
+    ],
+    "dates": [
+      "19NOV1800Z",
+      "19NOV1801Z",
+      "19NOV1809Z",
+      "19NOV2134Z",
+      "19NOV/USD25.00",
+      "22NOV",
+      "18OCT12",
+      "25NOV",
+      "19NOV12",
+      "19NOV2142Z",
+      "20NOV0441Z"
+    ],
+    "reference_numbers": [
+      "TA-BA/U156907",
+      "QE/JAXBA07RF/5C76",
+      "CR-NYCBA07S6",
+      "33993466",
+      "GS 0099XX/RO-AC155929",
+      "DELBA0802",
+      "14396782",
+      "QE/JAXBA07RF/5C50",
+      "QR5C76",
+      "CR-NCLBA0801",
+      "91494502",
+      "SU 13099V/DS-AC186411",
+      "XP/01.03/QE/NYCBA080B/54C118-YGM3WF",
+      "DS-AC1A6C14",
+      "-1426-USA48",
+      "MCO BA JAX",
+      "USD25.00",
+      "OP JAXBA080F",
+      "54C21",
+      "RX GL E TKTR",
+      "ADT 1457.00",
+      "CHD 0.00",
+      "INF 0.00",
+      "S3 NYCBA080B",
+      "WNS",
+      "FO 125-7141175344",
+      "PHX18OCT12",
+      "03531500",
+      "125-71440908054E1",
+      "V/BA8004",
+      "FO 125-7141175345",
+      "125-71440908065E1",
+      "FV BA/BA8004",
+      "RATES,NYCBA080B,0116S3",
+      "CR-NYCBA080B",
+      "10993065",
+      "SU 0116S3/DS-AC7F4922",
+      "QR54C118",
+      "QN/5C50",
+      "SU 13099V/DS-AC186414"
+    ]
+  },
+  "additional_notes": "The document appears to be a log or record of various transactions or events, possibly related to travel or ticketing. The text includes codes, dates, and times, as well as names and locations. Some information is redacted with '(b) (6)'."
+}

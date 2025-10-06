@@ -1,0 +1,71 @@
+{
+  "document_metadata": {
+    "page_number": "0005",
+    "document_number": "DOJ-OGR-00028199",
+    "date": "04282014",
+    "document_type": "TECSII - PRIMARY QUERY HISTORY PASSENGER ACTIVITY",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 TECSI - PRIMARY QUERY HISTORY 04282014 *A *B PASSENGER ACTIVITY *C PAGE NO. 0005 NAME DOB QUERY ---- DATE TIME AGN ---- LNE TERM/ RS LT TYP REF LANE API DIM EPSTEIN, JEFFREY 012053 051212 0000 *D API 01 R N PARIS, ORLY DOC: US INSP: APIS QRY EPSTEIN, JEFFREY 012053 052612 0000 *E API 01 R N A103-NEWARK, INTL AIRPORT T DOC: US INSP: APIS QRY EPSTEIN, JEFFREY 012053 052712 0000 *F API 01 R N A103-NEWARK, INTL AIRPORT T DOC: US INSP: APIS QRY EPSTEIN, JEFFREY 012053 041112 1438 CUS *G AIR CUS EY06 N N A512-CBP-ST THOMAS, VI PRECL DOC: US P INSP: *H EPSTEIN, JEFFREY 012053 031012 1317 CUS *I AIR EY03 N N A512-CBP-ST THOMAS, VI PRECL DOC: 469911707 US P INSP: *J EPSTEIN, JEFFREY 012053 021312 1346 CUS *K AIR CUS EY06 N N A512-CBP-ST THOMAS, VI PRECL DOC: 469911707 US P INSP: *L (b) (7) (E) <...MORE...> (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) *E - (b) (7) (E) *F - (b) (7) (E) *G - (b) (7) (E) *H - (b) (6), (b) (7) (C) *I - (b) (7) (E) *J - (b) (6), (b) (7) (C) *K - (b) (7) (E) *L - (b) (6), (b) (7) (C) DOJ-OGR-00028199",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "TECSII - PRIMARY QUERY HISTORY PASSENGER ACTIVITY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE NO. 0005",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB QUERY ---- DATE TIME AGN ---- LNE TERM/ RS LT TYP REF LANE API DIM",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY 012053 051212 0000 *D API 01 R N PARIS, ORLY DOC: US INSP: APIS QRY",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) *E - (b) (7) (E) *F - (b) (7) (E) *G - (b) (7) (E) *H - (b) (6), (b) (7) (C) *I - (b) (7) (E) *J - (b) (6), (b) (7) (C) *K - (b) (7) (E) *L - (b) (6), (b) (7) (C)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028199",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "CBP"
+    ],
+    "locations": [
+      "NEWARK",
+      "PARIS",
+      "ST THOMAS",
+      "VI"
+    ],
+    "dates": [
+      "04282014",
+      "051212",
+      "052612",
+      "052712",
+      "041112",
+      "031012",
+      "021312"
+    ],
+    "reference_numbers": [
+      "469911707",
+      "DOJ-OGR-00028199"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted government record, with multiple instances of (b) (7) (E) and (b) (6), (b) (7) (C) redactions. The content relates to passenger activity and query history for Jeffrey Epstein."
+}

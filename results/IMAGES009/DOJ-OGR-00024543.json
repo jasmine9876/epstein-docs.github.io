@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": "83",
+    "document_number": "DOJ-OGR-00024543",
+    "date": "08/19/2019",
+    "document_type": "Log Entries By Event Date",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Date: 08/19/2019 Time: 10:32 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count 7/23/2019 6:03 PM NYM Housing Units Housing Units, Secured 10 SOUTH UPPER 7/23/2019 6:03 PM Evening b6(6)(7)(C) Rounds (Lieutenant) 7/23/2019 6:11 PM NYM Housing Units Housing Units, Secured 10 SOUTH UPPER 7/23/2019 6:07 PM Evening b6(6)(7)(C) Rounds (Officer) - Summary Text: Completed - PREA. - Summary Text: Completed. 7/23/2019 6:13 PM NYM Housing Units Housing Units, Secured 10 SOUTH UPPER 7/23/2019 6:12 PM Evening Search (Cells) 7/23/2019 6:18 PM NYM Housing Units Housing Units, Secured 10 SOUTH UPPER 7/23/2019 6:17 PM Evening Sensitive Information - Summary Text: Cell: 303. Z07-303LAD CELL IS UNOCCUPIED - Summary Text: Nothing To Report. 7/23/2019 7:41 PM NYM Housing Units Housing Units, Secured 10 SOUTH UPPER 7/23/2019 6:33 PM Evening Rounds (Officer) - Summary Text: Completed. 7/23/2019 7:42 PM NYM Housing Units Housing Units, Secured 10 SOUTH UPPER 7/23/2019 7:02 PM Evening Rounds (Officer) - Summary Text: Completed. 7/23/2019 7:42 PM NYM Housing Units Housing Units, Secured 10 SOUTH UPPER 7/23/2019 7:36 PM Evening Rounds (Officer) - Summary Text: Completed. 7/23/2019 7:44 PM NYM Housing Units Housing Units, Secured 10 SOUTH UPPER 7/23/2019 7:44 PM Evening Daily Activity - Summary Text: MEDICAL b6(6)(7)(C) GAVE INMATE HIS MEDS 7/23/2019 8:01 PM NYM Housing Units Housing Units, Secured 10 SOUTH UPPER 7/23/2019 8:01 PM Evening Rounds (Officer) - Summary Text: Completed. 7/23/2019 8:46 PM NYM Housing Units Housing Units, Secured 10 SOUTH UPPER 7/23/2019 8:37 PM Evening Rounds (Officer) - Summary Text: Completed. 7/23/2019 9:04 PM NYM Housing Units Housing Units, Secured 10 SOUTH UPPER 7/23/2019 9:04 PM Evening Rounds (Officer) - Summary Text: Completed. 7/23/2019 9:45 PM NYM Housing Units Housing Units, Secured 10 SOUTH UPPER 7/23/2019 9:39 PM Evening Rounds (Officer) - Summary Text: Completed. 7/23/2019 10:09 PM NYM Housing Units Housing Units, Secured 10 SOUTH UPPER 7/23/2019 10:08 PM Evening Official Count User ID: b6(6)(7)(C) Page 83 of 183",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date: 08/19/2019 Time: 10:32 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "7/23/2019 6:03 PM NYM Housing Units Housing Units, Secured 10 SOUTH UPPER 7/23/2019 6:03 PM Evening b6(6)(7)(C) Rounds (Lieutenant)",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "b6(6)(7)(C)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Page 83 of 183",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024543",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "b6(6)(7)(C)"
+    ],
+    "organizations": [
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [
+      "10 SOUTH UPPER"
+    ],
+    "dates": [
+      "08/19/2019",
+      "7/23/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00024543"
+    ]
+  },
+  "additional_notes": "The document appears to be a log entry report from the Federal Bureau of Prisons, detailing events at a specific facility on July 23, 2019. The report includes various activities such as rounds, searches, and medical activities. Some user IDs and names are redacted."
+}

@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": "39",
+    "document_number": "DOJ-OGR-00022324",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Macmillan, Dave & Bella Miller, Michael Mallinckrodt, Mr Philip Manfredini Alessandro Magaziner, Ira C. Mailman Josh Manconi, John Mangone Eddie Maquire, Jennifer Malek, Harry & Didi Malenga (Mandela) Mache Mandelson, Peter Manners, Eddie Mahler, Giovanni Mahoney, Sean Malina, Marjorie Malkin Shelly & Tony Manners, Miss Lucy",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Macmillan, Dave & Bella Miller, Michael Mallinckrodt, Mr Philip Manfredini Alessandro Magaziner, Ira C. Mailman Josh Manconi, John Mangone Eddie Maquire, Jennifer Malek, Harry & Didi Malenga (Mandela) Mache Mandelson, Peter Manners, Eddie Mahler, Giovanni Mahoney, Sean Malina, Marjorie Malkin Shelly & Tony Manners, Miss Lucy",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "39",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022324",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Dave Macmillan",
+      "Bella Macmillan",
+      "Michael Miller",
+      "Mr Philip Mallinckrodt",
+      "Alessandro Manfredini",
+      "Ira C. Magaziner",
+      "Josh Mailman",
+      "John Manconi",
+      "Eddie Mangone",
+      "Jennifer Maquire",
+      "Harry Malek",
+      "Didi Malek",
+      "Mandela Malenga",
+      "Mache Malenga",
+      "Peter Mandelson",
+      "Eddie Manners",
+      "Giovanni Mahler",
+      "Sean Mahoney",
+      "Marjorie Malina",
+      "Shelly Malkin",
+      "Tony Malkin",
+      "Miss Lucy Manners"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022324"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 39, and the document number is DOJ-OGR-00022324."
+}

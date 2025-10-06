@@ -1,0 +1,41 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "log or register",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE NAME Signature In/Out Reg # Time 7/21 Indy Ve Colon Marrett Epstein 76318-054 62515 3:02 7/21 Caliendo Left Epstein 76318-054 1:30 7/21 Caliendo Ve Epstein 76318-054 500 5:50 7/21 Sandra Left Epstein 76318-054 520",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE NAME Signature In/Out Reg # Time",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/21 Indy Ve Colon Marrett Epstein 76318-054 62515 3:02 7/21 Caliendo Left Epstein 76318-054 1:30 7/21 Caliendo Ve Epstein 76318-054 500 5:50 7/21 Sandra Left Epstein 76318-054 520",
+      "position": "main content"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Indy Ve Colon",
+      "Marrett",
+      "Caliendo",
+      "Sandra"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/21"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "62515"
+    ]
+  },
+  "additional_notes": "The document appears to be a log or register with handwritten entries. Some names and details are redacted."
+}

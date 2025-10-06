@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "DOJ-OGR-00028866",
+    "date": "042814",
+    "document_type": "TECS II - PERSON SUBJECT DISPLAY",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:08 TECS II - PERSON SUBJECT DISPLAY (3 OF 4) 042814 *B TECS RECORD ID (b)(7)(E) *A *C *D ENTRY *E UPDATE BAGGAGE DEC- DATE INSPECTOR TIME SITE MORE (CF6059) FINANCIAL- INSTITUTION INFO BRANCH ACCOUNT TYPE FIN ID ACCOUNT NUMBER DATE MORE EMPLOYMENT- OCCUPATION POSITION EMPLOYER STREET CITY ZIP PHONE DATE STATUS EIN STATE CNTRY MORE PILOT'S- LICENSE NUMBER FAA REGION MEDICAL CERT ISSUE DATE MEDICAL CERT DATE RATING AIRMAN'S CERT CNTRY MORE (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6),(b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(7)(E) DOJ-OGR-00028866",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:08 TECS II - PERSON SUBJECT DISPLAY (3 OF 4) 042814",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "*B TECS RECORD ID (b)(7)(E) *A *C *D ENTRY *E UPDATE",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "BAGGAGE DEC- DATE INSPECTOR TIME SITE MORE (CF6059)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "FINANCIAL- INSTITUTION INFO BRANCH ACCOUNT TYPE FIN ID ACCOUNT NUMBER DATE MORE",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "EMPLOYMENT- OCCUPATION POSITION EMPLOYER STREET CITY ZIP PHONE DATE STATUS EIN STATE CNTRY MORE",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "PILOT'S- LICENSE NUMBER FAA REGION MEDICAL CERT ISSUE DATE MEDICAL CERT DATE RATING AIRMAN'S CERT CNTRY MORE",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6),(b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(7)(E)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028866",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "042814"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00028866"
+    ]
+  },
+  "additional_notes": "The document appears to be a TECS II - PERSON SUBJECT DISPLAY page with various sections redacted."
+}

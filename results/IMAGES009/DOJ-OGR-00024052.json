@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024052",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "G. Tali J. Epstein 76318-054 6-00 7-78 (b)(6); (b)(7)(C) G. Tali MA J. Epstein 76318-054 8:30 12:30 Colón MA Epstein 76318 12:45 6:03 B. Tali MA J. Epstein 76318 12:45 6:03 DOJ-OGR-00024052",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "G. Tali J. Epstein 76318-054 6-00 7-78",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "G. Tali MA J. Epstein 76318-054 8:30 12:30",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Colón MA Epstein 76318 12:45 6:03",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "B. Tali MA J. Epstein 76318 12:45 6:03",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024052",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "G. Tali",
+      "J. Epstein",
+      "B. Tali"
+    ],
+    "organizations": [],
+    "locations": [
+      "Colón"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "76318-054",
+      "76318",
+      "DOJ-OGR-00024052"
+    ]
+  },
+  "additional_notes": "The document contains handwritten text with some names and numbers. The majority of the content is redacted with green blocks. The document number 'DOJ-OGR-00024052' is visible at the bottom."
+}

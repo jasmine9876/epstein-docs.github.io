@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "001",
+    "document_number": "NYMD4 530*07",
+    "date": "08-09-2019",
+    "document_type": "POPULATION MONITORING CENSUS/ROSTER GENERALIZED RETRIEVAL",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "NYMD4 530*07 * POPULATION MONITORING CENSUS/ROSTER GENERALIZED RETRIEVAL * 08-09-2019 PAGE 001 * 01:20:18 FUNCTION: R-P SELECTION CATEGORY: QTR EQ ALL ZERO/NBR: NO ORGANIZATION: FACL EQ NYM OPTION TYPE OF FACILITY: TOF EQ T DUP SUPR: YES FACILITY MANAGED BY: FMB EQ AP COLUMNS 1: REG 2: LN 3: LN2 4: FN 5: ARSD 6: ARS 7: SEQ: 234 NP: JUDG: C SORT COL: COL SEQ: CONDITIONS (GRP 1) OR CONDITIONS (GRP 2) OR CONDITIONS (GRP 3) OR CONDITIONS (GRP 4) CMCI NE G CMCI NE P Control 77 2 77 1 78 G TOT G0002 MORE PAGES TO FOLLOW... DOJ-OGR-00026641",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "NYMD4 530*07 * POPULATION MONITORING CENSUS/ROSTER GENERALIZED RETRIEVAL * 08-09-2019 PAGE 001 * 01:20:18",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "FUNCTION: R-P SELECTION CATEGORY: QTR EQ ALL ZERO/NBR: NO ORGANIZATION: FACL EQ NYM OPTION TYPE OF FACILITY: TOF EQ T DUP SUPR: YES FACILITY MANAGED BY: FMB EQ AP COLUMNS 1: REG 2: LN 3: LN2 4: FN 5: ARSD 6: ARS 7: SEQ: 234 NP: JUDG: C SORT COL: COL SEQ:",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "CONDITIONS (GRP 1) OR CONDITIONS (GRP 2) OR CONDITIONS (GRP 3) OR CONDITIONS (GRP 4) CMCI NE G CMCI NE P",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Control",
+      "position": "margin"
+    },
+    {
+      "type": "handwritten",
+      "content": "77 2 77 1 78",
+      "position": "margin"
+    },
+    {
+      "type": "handwritten",
+      "content": "OKA TILL EOY 2012",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "G TOT G0002 MORE PAGES TO FOLLOW...",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026641",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "NYM",
+      "AP"
+    ],
+    "locations": [],
+    "dates": [
+      "08-09-2019",
+      "2012"
+    ],
+    "reference_numbers": [
+      "NYMD4 530*07",
+      "DOJ-OGR-00026641"
+    ]
+  },
+  "additional_notes": "The document contains handwritten notes and appears to be a printed report with some annotations."
+}

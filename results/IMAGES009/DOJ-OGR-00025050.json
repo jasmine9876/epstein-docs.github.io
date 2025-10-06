@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "597",
+    "document_number": "DOJ-OGR-00025050",
+    "date": "5/19/2020",
+    "document_type": "Log",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 597 Log Page 8 Date/Time User Action Alias Post Shift date Watch Assigment Type Mndtry 08/09/19 6:53 cpd adjustme OT Removed - Mgmt Cancelle (b)(6); (b)(7)(C) SHU #2 - REMOVED FROM [Sick / Annual] 08/09/19 D/W List Exempt 08/09/19 6:49 Selected List [All] Signed Up for OT N/A Selected Shifts: E/W 08/30/19 N/A N/A 08/09/19 6:49 Selected List [All] Signed Up for OT N/A Selected Shifts: E/W 08/29/19 N/A N/A 08/09/19 6:49 Selected List [All] Signed Up for OT N/A Selected Shifts: E/W 08/28/19 N/A N/A 08/09/19 6:49 Selected List [All] Signed Up for OT N/A Selected Shifts: E/W 08/27/19 N/A N/A 08/09/19 6:49 Selected List [All] Signed Up for OT N/A Selected Shifts: A/M D/W 08/30/19 N/A N/A 08/09/19 6:49 Selected List [All] Signed Up for OT N/A Selected Shifts: A/M D/W 08/29/19 N/A N/A 08/09/19 6:49 Selected List [All] Signed Up for OT N/A Selected Shifts: A/M D/W 08/28/19 N/A N/A 08/09/19 6:49 Selected List [All] Signed Up for OT N/A Selected Shifts: A/M D/W 08/27/19 N/A N/A 08/09/19 6:49 Selected List [All] Signed Up for OT N/A Selected Shifts: E/W 08/24/19 N/A N/A 08/09/19 6:49 Selected List [All] Signed Up for OT N/A Selected Shifts: E/W 08/23/19 N/A N/A 08/09/19 6:49 Selected List [All] Signed Up for OT N/A Selected Shifts: E/W 08/22/19 N/A N/A 08/09/19 6:49 Selected List [All] Signed Up for OT N/A Selected Shifts: E/W 08/21/19 N/A N/A 08/09/19 6:49 Selected List [All] Signed Up for OT N/A Selected Shifts: E/W 08/23/19 N/A N/A 08/09/19 6:49 Selected List [All] Signed Up for OT N/A Selected Shifts: A/M D/W 08/22/19 N/A N/A 08/09/19 6:49 Selected List [All] Signed Up for OT N/A Selected Shifts: A/M D/W 08/21/19 N/A N/A 08/09/19 6:49 Selected List [All] Signed Up for OT N/A Selected Shifts: A/M D/W 08/20/19 N/A N/A 08/09/19 1:10 Selected List [All] Signed Up for OT N/A Selected Shifts: M/W 08/13/19 N/A N/A 08/09/19 1:10 Selected List [All] Signed Up for OT N/A Selected Shifts: M/W 08/12/19 N/A N/A 08/09/19 1:10 Selected List [All] Signed Up for OT N/A Selected Shifts: M/W 08/11/19 N/A N/A 5/19/2020 10:37:33 AM DOJ-OGR-00025050",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 597 Log Page 8",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Date/Time User Action Alias Post Shift date Watch Assigment Type Mndtry",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "08/09/19 6:53 cpd adjustme OT Removed - Mgmt Cancelle (b)(6); (b)(7)(C) SHU #2 - REMOVED FROM [Sick / Annual] 08/09/19 D/W List Exempt",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "5/19/2020 10:37:33 AM DOJ-OGR-00025050",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "(b)(6); (b)(7)(C)"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "08/09/19",
+      "08/30/19",
+      "08/29/19",
+      "08/28/19",
+      "08/27/19",
+      "08/24/19",
+      "08/23/19",
+      "08/22/19",
+      "08/21/19",
+      "08/20/19",
+      "08/13/19",
+      "08/12/19",
+      "08/11/19",
+      "5/19/2020"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00025050"
+    ]
+  },
+  "additional_notes": "The document appears to be a log of overtime sign-ups and removals. The log includes dates, times, user actions, and shift information. Some user information is redacted."
+}

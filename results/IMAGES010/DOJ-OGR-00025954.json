@@ -1,0 +1,45 @@
+{
+  "document_metadata": {
+    "page_number": "2114",
+    "document_number": "DOJ-OGR-00025954",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2114 (C) (b)(6); (b)(7)(C) DOJ-OGR-00025954",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "The majority of the page contains illegible handwritten text that has been crossed out with large 'X' marks.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(C) (b)(6); (b)(7)(C)",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "Page 2114",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025954",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00025954"
+    ]
+  },
+  "additional_notes": "The document is heavily redacted and contains illegible handwritten text. The page number '2114' is visible in the top-left corner, and the reference number 'DOJ-OGR-00025954' is printed in the bottom-right corner."
+}

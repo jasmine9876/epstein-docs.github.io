@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": "56",
+    "document_number": "DOJ-OGR-00022341",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information\nSobrino, Esperanza\nSolomon, Andrew\nSoros Peter\nSoros Peter\nSoto, Fernando de\nSoto, Jaime & Marina de\nSouth, Hamilton\nSouza, Carlos\nSpacey, Kevin\nSquire, Hugo\nSt. Bris, Edward\nStanburry Caroline\nStark, Koo\nStarzewski Thomas\nSteenkamp, Chris\nSteiner Jeffrey\nSteinkampf, Chris & Nina\nStengel, Andrew\nStengel, Rick & Mary",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Sobrino, Esperanza\nSolomon, Andrew\nSoros Peter\nSoros Peter\nSoto, Fernando de\nSoto, Jaime & Marina de\nSouth, Hamilton\nSouza, Carlos\nSpacey, Kevin\nSquire, Hugo\nSt. Bris, Edward\nStanburry Caroline\nStark, Koo\nStarzewski Thomas\nSteenkamp, Chris\nSteiner Jeffrey\nSteinkampf, Chris & Nina\nStengel, Andrew\nStengel, Rick & Mary",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "56",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022341",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Esperanza Sobrino",
+      "Andrew Solomon",
+      "Peter Soros",
+      "Fernando de Soto",
+      "Jaime & Marina de Soto",
+      "Hamilton South",
+      "Carlos Souza",
+      "Kevin Spacey",
+      "Hugo Squire",
+      "Edward St. Bris",
+      "Caroline Stanburry",
+      "Koo Stark",
+      "Thomas Starzewski",
+      "Chris Steenkamp",
+      "Jeffrey Steiner",
+      "Chris & Nina Steinkampf",
+      "Andrew Stengel",
+      "Rick & Mary Stengel"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022341"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 56, and the document number is DOJ-OGR-00022341."
+}

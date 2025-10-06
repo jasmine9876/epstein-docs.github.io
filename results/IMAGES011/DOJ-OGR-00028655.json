@@ -1,0 +1,82 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": "02/05/2010",
+    "document_type": "IO95 Inspection Results",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:08:00 IO95 Inspection Results 042814 *A *B A512 CBP-ST THOMAS, FLT/VES#: 99 N909 AIRLINE CODE FOR PRIVA DOCTYPE*: P #*: 207320604 CTRY*: US UNITED STATES ST: M/F: DNAME (LAST) : EPSTEIN FRST: JEFFREY DOB: 012053 RFRD BY: *D -CBP OFFCR-C DTE: 02052010 TME: 1538 REASON: (b)(7)(E) CCD:*E SNAME (LAST) : FRST: NO FIN NUMBER NATIONALITY: US UNITED STATES DOB: DISP: USC U.S. CITIZEN RCPT#: AUDATE: CHARGE (CODED) : DFRD TO: FIN#: SEC OFCR: *F -CBP OFFCR-C 02/05/2010 17:12 IOEM#: REFR CDE: COMMENTS: VIOLS: (b)(7)(E) ON THIS DATE AND IS RETURNING TO FLORIDA WHERE HE IS REGISTERED. TRAVEL AUTHORI ZED. SCBPO (b)(6)&(b)(7)(C) NOTIFIED. WHTI CMPLNT? ADDL COMMTS: (b)(7)(E) *G (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) *H *I Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(6) (b)(7)(C) *E - (b)(7)(E) *F - (b)(6) (b)(7)(C) *G - (b)(7)(E) *H - (b)(7)(E) *I - (b)(7)(E) DOJ-OGR-00028655",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:08:00 IO95 Inspection Results 042814",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "*B A512 CBP-ST THOMAS, FLT/VES#: 99 N909 AIRLINE CODE FOR PRIVA DOCTYPE*: P #*: 207320604 CTRY*: US UNITED STATES ST: M/F:",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "DNAME (LAST) : EPSTEIN FRST: JEFFREY DOB: 012053 RFRD BY: *D -CBP OFFCR-C DTE: 02052010 TME: 1538 REASON: (b)(7)(E) CCD:*E",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "SNAME (LAST) : FRST: NO FIN NUMBER NATIONALITY: US UNITED STATES DOB:",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "DISP: USC U.S. CITIZEN RCPT#: AUDATE: CHARGE (CODED) : DFRD TO: FIN#: SEC OFCR: *F -CBP OFFCR-C 02/05/2010 17:12 IOEM#: REFR CDE: COMMENTS: VIOLS: (b)(7)(E)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "ON THIS DATE AND IS RETURNING TO FLORIDA WHERE HE IS REGISTERED. TRAVEL AUTHORI ZED. SCBPO (b)(6)&(b)(7)(C) NOTIFIED.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "WHTI CMPLNT? ADDL COMMTS: (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "*G (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) *H *I Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(6) (b)(7)(C) *E - (b)(7)(E) *F - (b)(6) (b)(7)(C) *G - (b)(7)(E) *H - (b)(7)(E) *I - (b)(7)(E)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028655",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "CBP"
+    ],
+    "locations": [
+      "ST THOMAS",
+      "FLORIDA",
+      "UNITED STATES"
+    ],
+    "dates": [
+      "02/05/2010",
+      "02052010",
+      "012053"
+    ],
+    "reference_numbers": [
+      "207320604",
+      "99 N909",
+      "DOJ-OGR-00028655"
+    ]
+  },
+  "additional_notes": "The document contains multiple redactions, indicated by (b)(7)(E) and (b)(6)&(b)(7)(C), suggesting sensitive information has been withheld."
+}

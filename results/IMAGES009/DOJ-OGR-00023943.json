@@ -1,0 +1,52 @@
+{
+  "document_metadata": {
+    "page_number": "12244",
+    "document_number": "DOJ-OGR-00023943",
+    "date": "2019/07/30",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "EPSTEIN, Jeffrey, reg. no. 76318-054\nFrom Adam Johnson\nTo (b)(6) @steptoe.com\nDate 2019/07/30 07:58\nSubject: EPSTEIN, Jeffrey, reg. no. 76318-054\nAttachments: TEXT.htm\nGood morning (b)(6) (b)(7)(C)\nI wanted to let you know that there may be a brief delay in getting your client to attorney-conference this morning as he is getting a shower, haircut, medical assessment, etc.\nThank you,\n(b)(6) (b)(7)(C)\nPage 12244\nDOJ-OGR-00023943",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "EPSTEIN, Jeffrey, reg. no. 76318-054",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "From Adam Johnson\nTo (b)(6) @steptoe.com\nDate 2019/07/30 07:58\nSubject: EPSTEIN, Jeffrey, reg. no. 76318-054\nAttachments: TEXT.htm",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Good morning (b)(6) (b)(7)(C)\nI wanted to let you know that there may be a brief delay in getting your client to attorney-conference this morning as he is getting a shower, haircut, medical assessment, etc.\nThank you,\n(b)(6) (b)(7)(C)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Page 12244\nDOJ-OGR-00023943",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Adam Johnson"
+    ],
+    "organizations": [
+      "steptoe.com",
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "2019/07/30"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00023943"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6) and (b)(7)(C), indicating potentially sensitive or personal information has been obscured."
+}

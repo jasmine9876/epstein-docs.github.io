@@ -1,0 +1,86 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00027482",
+    "date": "11/01/2006",
+    "document_type": "Air / Sea Baggage Secondary Inspection",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "UNCLASSIFIED // FOR OFFICIAL USE ONLY\nEPSTEIN JEFFREY (b)(7)(E)\n11/01/2006 10:28:00\nAir / Sea Baggage Secondary Inspection (b)(7)(E)\n(b)(7)(E)\nSubject\nLast Name: EPSTEIN\nFirst Name: JEFFREY\nGender: Male (b)(7)(E)\nDate Of Birth: 01/20/1953\nCrossing Information\nPort: NEWARK (4601)\nSite: CBP-TETERBORO, AIRPT HANGER 2 (b)(7)(E)\nInbound/Outbound: Inbound\nPort Crossing Date: 11/01/2006 10:28:00\nEmbark Port: ST THOMAS IS.-H S TRUMAN AIRPORT (b)(7)(E)\nDeparture Airport: ST THOMAS IS.-H S TRUMAN AIRPORT (b)(7)(E)\nAirline: (b)(7)(E)\nPassenger Document\nDocument Type: PASSPORT (b)(7)(E)\nIssue Country: United States (US/USA)\nReferral / Inspection Information\nReferral Office: (b)(7)(E)\nReferral Reason: (b)(7)(E)\nReferral Comment: (b)(7)(E)\nInspection Completion: Yes\nInspection Result: Negative\nMiscellaneous Info\nPersonnel Search: No\nBaggage Examination: Yes\nPassenger On Declare Number: 1\nRemarks\n(b)(7)(E)\nUNCLASSIFIED // FOR OFFICIAL USE ONLY\nDOJ-OGR-00027482",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "UNCLASSIFIED // FOR OFFICIAL USE ONLY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN JEFFREY (b)(7)(E)\n11/01/2006 10:28:00\nAir / Sea Baggage Secondary Inspection (b)(7)(E)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Subject\nLast Name: EPSTEIN\nFirst Name: JEFFREY\nGender: Male (b)(7)(E)\nDate Of Birth: 01/20/1953",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Crossing Information\nPort: NEWARK (4601)\nSite: CBP-TETERBORO, AIRPT HANGER 2 (b)(7)(E)\nInbound/Outbound: Inbound\nPort Crossing Date: 11/01/2006 10:28:00\nEmbark Port: ST THOMAS IS.-H S TRUMAN AIRPORT (b)(7)(E)\nDeparture Airport: ST THOMAS IS.-H S TRUMAN AIRPORT (b)(7)(E)\nAirline: (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Passenger Document\nDocument Type: PASSPORT (b)(7)(E)\nIssue Country: United States (US/USA)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Referral / Inspection Information\nReferral Office: (b)(7)(E)\nReferral Reason: (b)(7)(E)\nReferral Comment: (b)(7)(E)\nInspection Completion: Yes\nInspection Result: Negative",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Miscellaneous Info\nPersonnel Search: No\nBaggage Examination: Yes\nPassenger On Declare Number: 1",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Remarks\n(b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "UNCLASSIFIED // FOR OFFICIAL USE ONLY",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027482",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "CBP"
+    ],
+    "locations": [
+      "NEWARK",
+      "TETERBORO",
+      "ST THOMAS IS.-H S TRUMAN AIRPORT",
+      "United States"
+    ],
+    "dates": [
+      "11/01/2006",
+      "01/20/1953"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00027482",
+      "4601"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(7)(E), indicating sensitive information has been withheld."
+}

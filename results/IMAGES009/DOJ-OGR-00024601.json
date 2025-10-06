@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": "169",
+    "document_number": "DOJ-OGR-00024601",
+    "date": "03/19/2019",
+    "document_type": "Log Entries",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date: 03/19/2019 Time: 10:27 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count 7/23/2019 10:31 PM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 7/23/2019 8:40 PM Evening Rounds (Officer) - Summary Text: Completed. 7/23/2019 10:31 PM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 7/23/2019 9:00 PM Evening Watch Call - Summary Text: Completed. 7/23/2019 10:32 PM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 7/23/2019 9:20 PM Evening Rounds (Officer) - Summary Text: Completed. 7/23/2019 10:32 PM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 7/23/2019 9:32 PM Evening Watch Call - Summary Text: Completed. 7/23/2019 10:37 PM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 7/23/2019 10:00 PM Evening Official Count - Summary Text: Clear Count 7/23/2019 10:35 PM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 7/23/2019 10:15 PM Evening Rounds (Officer) - Summary Text: Completed. 7/23/2019 11:28 PM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 7/23/2019 10:30 PM Evening Watch Call - Summary Text: Completed. 7/23/2019 11:31 PM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 7/23/2019 10:40 PM Evening Rounds (Officer) - Summary Text: Completed. 7/23/2019 11:45 PM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 7/23/2019 11:00 PM Evening Watch Call - Summary Text: Completed. 7/23/2019 11:45 PM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 7/23/2019 11:20 PM Evening Rounds (Officer) - Summary Text: Completed. User ID: Page 169 of 395 DOJ-OGR-00024601",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date: 03/19/2019 Time: 10:27 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "7/23/2019 10:31 PM NYM SHU Housing Unit, Special (SHU) 9 SOUTH SHU 7/23/2019 8:40 PM Evening Rounds (Officer) - Summary Text: Completed.",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "DNYM1(DNYM1C)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Page 169 of 395",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024601",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [
+      "9 SOUTH SHU",
+      "Housing Unit, Special (SHU)"
+    ],
+    "dates": [
+      "03/19/2019",
+      "7/23/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00024601"
+    ]
+  },
+  "additional_notes": "The document appears to be a log entry report from the Federal Bureau of Prisons. It contains a table with various columns such as Entered Date, Alpha Code, Level 1 Location, etc. The document has some handwritten text in the 'User' column. The page number is 169 out of 395."
+}

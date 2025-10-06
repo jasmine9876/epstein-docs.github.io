@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "12 of 13",
+    "document_number": "DOJ-OGR-00026254",
+    "date": "07/09/2019",
+    "document_type": "Medical Examination Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2594 Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Sex: M Race: WHITE Reg #: 76318-054 Encounter Date: 07/09/2019 12:35 Provider: (b)(6); (b)(7)(C) MLP Facility: NYM Unit: H01 Reflexes: Right Left Biceps: Patellar: Brachioradialis: Achilles: Sensation: Vibratory: Yes Light Touch: Yes Pin Prick: Yes Comments: GU: Chaperoned By: Rectum: Not Done Comments: Refused. Male Genitalia: Not Done Comments: Refused. Skin: Normal: Yes Rash: No Redness: No Abnormal Pigmentation: No Abnormal Lesions/Growths: No Comments: Lymphatics: Adenopathy: No Comments: Potential Items For Follow-up: Item Travel Outside US Other Infectious Disease History Rectum Not Done Male Genitalia Not Done PPD Administration Not Performed Comments: Patient has a history of constipation. Generated 07/09/2019 13:03 by (b)(6); (b)(7)(C) MLP Bureau of Prisons - NYM Page 12 of 13 DOJ-OGR-00026254",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 2594",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Sex: M Race: WHITE Reg #: 76318-054 Encounter Date: 07/09/2019 12:35 Provider: (b)(6); (b)(7)(C) MLP Facility: NYM Unit: H01",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Reflexes: Right Left Biceps: Patellar: Brachioradialis: Achilles: Sensation: Vibratory: Yes Light Touch: Yes Pin Prick: Yes Comments: GU: Chaperoned By: Rectum: Not Done Comments: Refused. Male Genitalia: Not Done Comments: Refused. Skin: Normal: Yes Rash: No Redness: No Abnormal Pigmentation: No Abnormal Lesions/Growths: No Comments: Lymphatics: Adenopathy: No Comments: Potential Items For Follow-up: Item Travel Outside US Other Infectious Disease History Rectum Not Done Male Genitalia Not Done PPD Administration Not Performed Comments: Patient has a history of constipation.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/09/2019 13:03 by (b)(6); (b)(7)(C) MLP Bureau of Prisons - NYM Page 12 of 13 DOJ-OGR-00026254",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "US",
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/09/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026254"
+    ]
+  },
+  "additional_notes": "The document appears to be a medical examination report for Jeffrey Epstein, with some redacted information."
+}

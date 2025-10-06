@@ -1,0 +1,72 @@
+{
+  "document_metadata": {
+    "page_number": "547",
+    "document_number": "DOJ-OGR-00024563",
+    "date": "08/19/2019",
+    "document_type": "Log Entries By Event Date",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Date: 08/19/2019 Time: 10:15 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count 7/23/2019 12:45 AM NYM Housing Units Housing Units, General Population ES 7/23/2019 12:45 AM Morning bon(6) bon(7)(c) Search (Areas) - Summary Text: Common Area: CLASSROOM. 7/23/2019 12:45 AM NYM Housing Units Housing Units, General Population ES 7/23/2019 12:45 AM Morning Search (Areas) - Summary Text: Common Area: GYM AREA. 7/23/2019 12:45 AM NYM Housing Units Housing Units, General Population ES 7/23/2019 12:45 AM Morning Search (Areas) - Summary Text: Common Area: KITCHEN AREA. 7/23/2019 12:45 AM NYM Housing Units Housing Units, General Population ES 7/23/2019 12:45 AM Morning Search (Areas) - Summary Text: Common Area: LAUNDRY AREA. 7/23/2019 12:45 AM NYM Housing Units Housing Units, General Population ES 7/23/2019 12:45 AM Morning Search (Areas) - Summary Text: Common Area: MPA AREA. 7/23/2019 12:45 AM NYM Housing Units Housing Units, General Population ES 7/23/2019 12:45 AM Morning Search (Areas) - Summary Text: Common Area: SHOWER AREA. 7/23/2019 12:45 AM NYM Housing Units Housing Units, General Population ES 7/23/2019 12:45 AM Morning Bed Book Check - Summary Text: Common Area: VISIT STRIP ROOM. 7/23/2019 12:45 AM NYM Housing Units Housing Units, General Population ES 7/23/2019 12:47 AM Morning Change to Base Count In 10177(1) - Summary Text: Completed: 7/23/2019 12:49 AM NYM Housing Units Housing Units, General Population ES 7/23/2019 12:47 AM Morning Change to Base Count In - Summary Text: Inmate bon(6) bon(7)(c) new commits on e/w 7/22/2019 7/23/2019 12:49 AM NYM Housing Units Housing Units, General Population ES 7/23/2019 12:47 AM Morning Change to Base Count In - Summary Text: Inmate bon(6) bon(7)(c) new commits on e/w 7/22/2019 7/23/2019 12:49 AM NYM Housing Units Housing Units, General ES 7/23/2019 12:47 AM Morning Change to Base Count In User ID: bon(6) bon(7)(c) Page 547 of 1155 DOJ-OGR-00024563",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date: 08/19/2019 Time: 10:15 AM",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "7/23/2019 12:45 AM NYM Housing Units Housing Units, General Population ES 7/23/2019 12:45 AM Morning bon(6) bon(7)(c) Search (Areas) - Summary Text: Common Area: CLASSROOM.",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Page 547 of 1155",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024563",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "bon(6)",
+      "bon(7)(c)"
+    ],
+    "organizations": [
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [
+      "Housing Units",
+      "CLASSROOM",
+      "GYM AREA",
+      "KITCHEN AREA",
+      "LAUNDRY AREA",
+      "MPA AREA",
+      "SHOWER AREA",
+      "VISIT STRIP ROOM"
+    ],
+    "dates": [
+      "08/19/2019",
+      "7/23/2019",
+      "7/22/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00024563",
+      "10177(1)"
+    ]
+  },
+  "additional_notes": "The document appears to be a log entry report from the Federal Bureau of Prisons, detailing various events and activities that occurred on July 23, 2019. The report includes information about searches conducted in different areas, changes to base counts, and other events. Some of the text is redacted, indicating sensitive information."
+}

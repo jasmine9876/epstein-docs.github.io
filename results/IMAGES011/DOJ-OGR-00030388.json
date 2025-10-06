@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "35",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "letter",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "Herman & Mermelstein, P.A. ATTORNEYS AT LAW 18205 Biscayne Boulevard SUITE 2218 MIAMI, FLORIDA 33160 *** *** *** UNITED STATES POSTAL SERVICE PB8554366 178 5971 $ 00.410 APR 02 08 3611 NORTH MIAMI BEACH,FL 33160 Lanna Leigh Belohlavek State Attorney's Office 401 N. Dixie Hwy West Palm Beach, FL 33401 334014236 07/26/17 Page 35 of 114 Public Records Request No.: 17-295 DOJ-OGR-00030388",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Herman & Mermelstein, P.A. ATTORNEYS AT LAW 18205 Biscayne Boulevard SUITE 2218 MIAMI, FLORIDA 33160",
+      "position": "header"
+    },
+    {
+      "type": "stamp",
+      "content": "UNITED STATES POSTAL SERVICE PB8554366 178 5971 $ 00.410 APR 02 08 3611 NORTH MIAMI BEACH,FL 33160",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Lanna Leigh Belohlavek State Attorney's Office 401 N. Dixie Hwy West Palm Beach, FL 33401",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "334014236",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 35 of 114 Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00030388",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Lanna Leigh Belohlavek"
+    ],
+    "organizations": [
+      "Herman & Mermelstein, P.A.",
+      "State Attorney's Office",
+      "UNITED STATES POSTAL SERVICE"
+    ],
+    "locations": [
+      "Miami",
+      "Florida",
+      "North Miami Beach",
+      "West Palm Beach"
+    ],
+    "dates": [
+      "APR 02 08",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "PB8554366",
+      "17-295",
+      "DOJ-OGR-00030388",
+      "334014236"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned letter with a postal stamp and a public records request number."
+}

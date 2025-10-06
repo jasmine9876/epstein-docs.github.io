@@ -1,0 +1,42 @@
+{
+  "document_metadata": {
+    "page_number": "2462",
+    "document_number": "DOJ-OGR-00026138",
+    "date": null,
+    "document_type": "Mail Attachment",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2462\nMail Attachment\nEpstein BEMR pt 4.pdf\nPage 14910\nDOJ-OGR-00026138",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 2462",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Mail Attachment\nEpstein BEMR pt 4.pdf",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 14910\nDOJ-OGR-00026138",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00026138"
+    ]
+  },
+  "additional_notes": "The document appears to be a cover page for an attachment, with minimal content and no visible redactions or damage."
+}

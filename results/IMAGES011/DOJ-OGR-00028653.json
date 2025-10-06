@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "IO95",
+    "date": "03/17/2008",
+    "document_type": "Inspection Results",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07:59 IO95 Inspection Results 042814 *B A105 NEWARK, INTL AP *A FLT/VES#: *UU N909JE U.S. CARRIER UNKNOWN DOCTYP*: P #*: 207320604 CTRY*: US UNITED STATES ST: M/F: M DNAME (LAST) : EPSTEIN FRST: JEFFREY DOB: 012053 RFRD BY: *D -CBP OFFCR-C DTE: 03172008 TME: 0132 REASON: CCD: *E SUBJECT ARRIVED ON PRIVATE PLANE N909JE FROM ST. THOMAS, USVI AT SIGNATURE AREA NEWARK NJ. HE HAS A CASE # WP07Q106WP0011 (b)(7)(E) (b)(7)(E) (b)(7)(E) . OWNER SNAME (LAST) : FRST: DOB: NATIONALITY: US UNITED STATES DISP: USC U.S. CITIZEN RCPT#: AUDATE: CHARGE (CODED): DFRD TO: FIN#: SEC OFCR: *F -CBP OFFCR-C 03/17/2008 01:32 IOEM#: REFR CDE: (b)(7)(E) COMMENTS: VIOLS: OF RECORD HAVE BEEN CONTACTED BY SCBPO (b)(6)&(b)(7)(C) (b)(7)(E) (b)(7)(E) . ADMITTED AS USC. WHTI CMPLNT? ADDL COMMTS: (b)(7)(E) *G (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) *H *I Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(6) (b)(7)(C) *E - (b)(7)(E) *F - (b)(6) (b)(7)(C) *G - (b)(7)(E) *H - (b)(7)(E) *I - (b)(7)(E) DOJ-OGR-00028653",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07:59 IO95 Inspection Results 042814",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "*B A105 NEWARK, INTL AP *A FLT/VES#: *UU N909JE U.S. CARRIER UNKNOWN DOCTYP*: P #*: 207320604 CTRY*: US UNITED STATES ST: M/F: M DNAME (LAST) : EPSTEIN FRST: JEFFREY DOB: 012053 RFRD BY: *D -CBP OFFCR-C DTE: 03172008 TME: 0132 REASON: CCD: *E SUBJECT ARRIVED ON PRIVATE PLANE N909JE FROM ST. THOMAS, USVI AT SIGNATURE AREA NEWARK NJ. HE HAS A CASE # WP07Q106WP0011 (b)(7)(E) (b)(7)(E) (b)(7)(E) . OWNER SNAME (LAST) : FRST: DOB: NATIONALITY: US UNITED STATES DISP: USC U.S. CITIZEN RCPT#: AUDATE: CHARGE (CODED): DFRD TO: FIN#: SEC OFCR: *F -CBP OFFCR-C 03/17/2008 01:32 IOEM#: REFR CDE: (b)(7)(E) COMMENTS: VIOLS: OF RECORD HAVE BEEN CONTACTED BY SCBPO (b)(6)&(b)(7)(C) (b)(7)(E) (b)(7)(E) . ADMITTED AS USC. WHTI CMPLNT? ADDL COMMTS: (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "*G (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) *H *I Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(6) (b)(7)(C) *E - (b)(7)(E) *F - (b)(6) (b)(7)(C) *G - (b)(7)(E) *H - (b)(7)(E) *I - (b)(7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028653",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "CBP",
+      "SCBPO"
+    ],
+    "locations": [
+      "NEWARK",
+      "ST. THOMAS",
+      "USVI",
+      "NEWARK NJ",
+      "UNITED STATES"
+    ],
+    "dates": [
+      "03/17/2008",
+      "03172008",
+      "012053"
+    ],
+    "reference_numbers": [
+      "IO95",
+      "207320604",
+      "WP07Q106WP0011",
+      "DOJ-OGR-00028653"
+    ]
+  },
+  "additional_notes": "The document contains multiple redactions, indicated by (b)(7)(E) and (b)(6)&(b)(7)(C), suggesting sensitive information has been withheld."
+}

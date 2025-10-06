@@ -1,0 +1,97 @@
+{
+  "document_metadata": {
+    "page_number": "0045",
+    "document_number": "DOJ-OGR-00028239",
+    "date": "04282014",
+    "document_type": "TECSII - PRIMARY QUERY HISTORY PASSENGER ACTIVITY",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 TECSI - PRIMARY QUERY HISTORY 04282014 *A *B PASSENGER ACTIVITY *C PAGE NO. 0045 NAME DOB QUERY DATE TIME AGN RSLT TYP REF LANE TERM/ API DIM EPSTEIN, JEFFREY EDWARD 012053 112313 2132 CUS *D AIR INS /G31 N N A477-NEW YORK, JFK AIRPORT, DOC: 469911707 US P INSP: *E EPSTEIN, JEFFREY EDWARD 012053 112913 1941 CUS *F AIR CUS :$02 N N A523-PALM BEACH, INTERNATION DOC: 469911707 US P INSP: *G EPSTEIN, JEFFREY EDWARD 012053 100613 0000 *H API R N PARIS, CH. DE GAULLE DOC: 469911707 US P INSP: APIS QRY EPSTEIN, JEFFREY EDWARD 012053 101513 0000 *I API R N NEWARK INTERNATIONAL DOC: US P INSP: APIS QRY EPSTEIN, JEFFREY EDWARD 012053 091013 1853 CUS *J AIR CUS JK06 N N A511-CBP-CYRIL E KING, INTL DOC: 469911707 US P INSP: *K EPSTEIN, JEFFREY EDWARD 012053 061513 1040 CUS *L AIR JK06 N N A511-CBP-CYRIL E KING, INTL DOC: 469911707 US P INSP: *M (b) (7) (E) <...MORE...> (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) *E - (b) (6), (b) (7) (C) *F - (b) (7) (E) *G - (b) (6), (b) (7) (C) *H - (b) (7) (E) *I - (b) (7) (E) *J - (b) (7) (E) *K - (b) (6), (b) (7) (C) *L - (b) (7) (E) *M - (b) (6), (b) (7) (C) DOJ-OGR-00028239",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07 TECSI - PRIMARY QUERY HISTORY 04282014 *A *B PASSENGER ACTIVITY *C PAGE NO. 0045",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB QUERY DATE TIME AGN RSLT TYP REF LANE TERM/ API DIM",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY EDWARD 012053 112313 2132 CUS *D AIR INS /G31 N N A477-NEW YORK, JFK AIRPORT, DOC: 469911707 US P INSP: *E",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY EDWARD 012053 112913 1941 CUS *F AIR CUS :$02 N N A523-PALM BEACH, INTERNATION DOC: 469911707 US P INSP: *G",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY EDWARD 012053 100613 0000 *H API R N PARIS, CH. DE GAULLE DOC: 469911707 US P INSP: APIS QRY",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY EDWARD 012053 101513 0000 *I API R N NEWARK INTERNATIONAL DOC: US P INSP: APIS QRY",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY EDWARD 012053 091013 1853 CUS *J AIR CUS JK06 N N A511-CBP-CYRIL E KING, INTL DOC: 469911707 US P INSP: *K",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY EDWARD 012053 061513 1040 CUS *L AIR JK06 N N A511-CBP-CYRIL E KING, INTL DOC: 469911707 US P INSP: *M",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "(b) (7) (E) <...MORE...> (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E) (b) (7) (E)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) *E - (b) (6), (b) (7) (C) *F - (b) (7) (E) *G - (b) (6), (b) (7) (C) *H - (b) (7) (E) *I - (b) (7) (E) *J - (b) (7) (E) *K - (b) (6), (b) (7) (C) *L - (b) (7) (E) *M - (b) (6), (b) (7) (C)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028239",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "NEW YORK",
+      "JFK AIRPORT",
+      "PALM BEACH",
+      "PARIS",
+      "CH. DE GAULLE",
+      "NEWARK INTERNATIONAL",
+      "CBP-CYRIL E KING"
+    ],
+    "dates": [
+      "04282014",
+      "112313",
+      "112913",
+      "100613",
+      "101513",
+      "091013",
+      "061513"
+    ],
+    "reference_numbers": [
+      "469911707",
+      "DOJ-OGR-00028239"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted version of a TECSII primary query history passenger activity report. The redactions are indicated by (b) (7) (E) and other similar notations."
+}

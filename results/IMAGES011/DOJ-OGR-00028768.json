@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028768",
+    "date": "042814",
+    "document_type": "PQH API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:08 PQH API/HIT DATA 042814 *B *A *C NAME DOB ----- QUERY ---- LNE TERM/ EPSTEIN, JEFFREY E 012053 DATE TIME AGN RSLT TYP REF LANE API JFK -JOHN F KENNEDY INTL 052712 1609 CUS *D API /G28 C DOC: 469911707 US P INSP: *E API DATA ---- API INDICATOR : C CONFIRMED CARRIER CODE : AF AIR FRANCE FLT/VES NUMBER : 6 ARRIVAL LOCATION : JFK JOHN F KENNEDY INTL DEPARTURE LOCATION : CDG PARIS, CH. DE GAULLE TRANSMITTED BY : ALTEA+CM AMADEUS DCS ALTEA CM INBOUND/OUTBOUND : INBOUND (b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) *E - (b) (6), (b) (7) (C) (b) (7) (E) DOJ-OGR-00028768",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:08 PQH API/HIT DATA 042814",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB ----- QUERY ---- LNE TERM/",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY E 012053 DATE TIME AGN RSLT TYP REF LANE API JFK -JOHN F KENNEDY INTL 052712 1609 CUS *D API /G28 C DOC: 469911707 US P INSP: *E",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "API DATA ---- API INDICATOR : C CONFIRMED CARRIER CODE : AF AIR FRANCE FLT/VES NUMBER : 6 ARRIVAL LOCATION : JFK JOHN F KENNEDY INTL DEPARTURE LOCATION : CDG PARIS, CH. DE GAULLE TRANSMITTED BY : ALTEA+CM AMADEUS DCS ALTEA CM INBOUND/OUTBOUND : INBOUND",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) *E - (b) (6), (b) (7) (C) (b) (7) (E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028768",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY E EPSTEIN"
+    ],
+    "organizations": [
+      "AIR FRANCE",
+      "AMADEUS DCS ALTEA CM"
+    ],
+    "locations": [
+      "JFK - JOHN F KENNEDY INTL",
+      "PARIS, CH. DE GAULLE"
+    ],
+    "dates": [
+      "052712",
+      "042814"
+    ],
+    "reference_numbers": [
+      "469911707",
+      "DOJ-OGR-00028768"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked with (b) (6), (b) (7) (C), and (b) (7) (E)."
+}

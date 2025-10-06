@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "12",
+    "document_number": "DOJ-OGR-00022297",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information\n\nBossom, Hon Bruce and Penelope\nBracchetti Peretti Ferdinando\nBram, Ben\nBranson, Richard\nBoucherie Sylvianne\nBracchetti, Hugo\nBrand Tony\nBriatore, Flavio\nBourke, Rick\nBraine, Caroline\nBrandolini d'Adda\nBranson, Richard\nBowles, Hamish\nBraine, Ms Katie & Serge\nBrandolini Nuno & Muriel\nBrandt, Peter\nBroadhurst, Julia\n\nDOJ-OGR-00022297",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Bossom, Hon Bruce and Penelope\nBracchetti Peretti Ferdinando\nBram, Ben\nBranson, Richard\nBoucherie Sylvianne\nBracchetti, Hugo\nBrand Tony\nBriatore, Flavio\nBourke, Rick\nBraine, Caroline\nBrandolini d'Adda\nBranson, Richard\nBowles, Hamish\nBraine, Ms Katie & Serge\nBrandolini Nuno & Muriel\nBrandt, Peter\nBroadhurst, Julia",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022297",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "12",
+      "position": "margin"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Bossom, Hon Bruce",
+      "Penelope",
+      "Bracchetti Peretti Ferdinando",
+      "Bram, Ben",
+      "Branson, Richard",
+      "Boucherie Sylvianne",
+      "Bracchetti, Hugo",
+      "Brand Tony",
+      "Briatore, Flavio",
+      "Bourke, Rick",
+      "Braine, Caroline",
+      "Brandolini d'Adda",
+      "Bowles, Hamish",
+      "Braine, Ms Katie",
+      "Serge",
+      "Brandolini Nuno",
+      "Muriel",
+      "Brandt, Peter",
+      "Broadhurst, Julia"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022297"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 12, and the document number is DOJ-OGR-00022297."
+}

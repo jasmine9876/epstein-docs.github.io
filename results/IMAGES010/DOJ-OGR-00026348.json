@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "DOJ-OGR-00026348",
+    "date": "8/10/19",
+    "document_type": "Watch Call",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2602 Attachment #4 METROPOLITAN CORRECTIONAL CENTER NEW YORK, NEW YORK WATCH CALL MORNING WATCH DATE: 8/10/19 STAFF NAME A.M. POST (b)(6); (b)(7)(C) (b)(7)(E); (b)(7)(F) OPS LT SANITATION INTERNAL OSP #1 UNIT 2 UNIT 3 UNIT 5 NORTH UNIT 5 SOUTH UNIT 7 NORTH UNIT 7 SOUTH UNIT 9 NORTH UNIT 9 SOUTH UNIT 10 SOUTH UNIT 11 NORTH UNIT 11 SOUTH DUTY P.A. R & D FOOD SERVICE LAUNDRY LOBBY OPS LT ACT LT INTERNAL OSP #1 UNIT 2 UNIT 3 UNIT 5 NORTH #1 UNIT 5 SOUTH #1 UNIT 7 NORTH #1 (b)(7)(E); (b)(7)(F) Page 1 of 2 DOJ-OGR-00026348",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "METROPOLITAN CORRECTIONAL CENTER NEW YORK, NEW YORK WATCH CALL MORNING WATCH",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/10/19",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "STAFF NAME A.M. POST",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6); (b)(7)(C) (b)(7)(E); (b)(7)(F)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "OPS LT SANITATION INTERNAL OSP #1 UNIT 2 UNIT 3 UNIT 5 NORTH UNIT 5 SOUTH UNIT 7 NORTH UNIT 7 SOUTH UNIT 9 NORTH UNIT 9 SOUTH UNIT 10 SOUTH UNIT 11 NORTH UNIT 11 SOUTH DUTY P.A. R & D FOOD SERVICE LAUNDRY LOBBY OPS LT ACT LT INTERNAL OSP #1 UNIT 2 UNIT 3 UNIT 5 NORTH #1 UNIT 5 SOUTH #1 UNIT 7 NORTH #1",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E); (b)(7)(F)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page 1 of 2 DOJ-OGR-00026348",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "8/10/19"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026348"
+    ]
+  },
+  "additional_notes": "The document appears to be a watch call log from the Metropolitan Correctional Center in New York. The date is handwritten as 8/10/19. There are several redacted fields marked as (b)(6); (b)(7)(C) and (b)(7)(E); (b)(7)(F)."
+}

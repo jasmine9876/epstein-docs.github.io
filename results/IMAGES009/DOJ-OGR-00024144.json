@@ -1,0 +1,69 @@
+{
+  "document_metadata": {
+    "page_number": "12 of 13",
+    "document_number": "DOJ-OGR-00024144",
+    "date": "07/09/2019",
+    "document_type": "Medical Examination Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Inmate Name: EPSTEIN, JEFFREY EDWARD\nDate of Birth: 01/20/1953\nEncounter Date: 07/09/2019 12:35\nSex: M\nRace: WHITE\nProvider: [Redacted]\nReg #: 76318-054\nFacility: NYM\nUnit: H01\nReflexes:\nRight Left\nBiceps:\nPatellar:\nBrachioradialis:\nAchilles:\nSensation:\nVibratory: Yes\nLight Touch: Yes\nPin Prick: Yes\nComments:\nGU:\nChaperoned By:\nRectum: Not Done\nComments: Refused.\nMale Genitalia: Not Done\nComments: Refused.\nSkin:\nNormal: Yes\nRash: No\nRedness: No\nAbnormal Pigmentation: No\nAbnormal Lesions/Growths: No\nComments:\nLymphatics:\nAdenopathy: No\nComments:\nPotential Items For Follow-up:\nItem\nTravel Outside US\nOther Infectious Disease History\nRectum Not Done\nMale Genitalia Not Done\nPPD Administration Not Performed\nComments:\nPatient has a history of constipation.\nGenerated 07/09/2019 13:03 by [Redacted] MLP Bureau of Prisons - NYM\nPage 12 of 13\nDOJ-OGR-00024144",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD\nDate of Birth: 01/20/1953\nEncounter Date: 07/09/2019 12:35\nSex: M\nRace: WHITE\nProvider: [Redacted]\nReg #: 76318-054\nFacility: NYM\nUnit: H01",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Reflexes:\nRight Left\nBiceps:\nPatellar:\nBrachioradialis:\nAchilles:\nSensation:\nVibratory: Yes\nLight Touch: Yes\nPin Prick: Yes\nComments:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "GU:\nChaperoned By:\nRectum: Not Done\nComments: Refused.\nMale Genitalia: Not Done\nComments: Refused.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Skin:\nNormal: Yes\nRash: No\nRedness: No\nAbnormal Pigmentation: No\nAbnormal Lesions/Growths: No\nComments:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Lymphatics:\nAdenopathy: No\nComments:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Potential Items For Follow-up:\nItem\nTravel Outside US\nOther Infectious Disease History\nRectum Not Done\nMale Genitalia Not Done\nPPD Administration Not Performed\nComments:\nPatient has a history of constipation.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/09/2019 13:03 by [Redacted] MLP Bureau of Prisons - NYM\nPage 12 of 13\nDOJ-OGR-00024144",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "US",
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/09/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024144"
+    ]
+  },
+  "additional_notes": "The document appears to be a medical examination report for Jeffrey Epstein, an inmate at the NYM facility. The report includes various medical checks and notes, including reflexes, sensation, GU, skin, lymphatics, and potential items for follow-up. Some information is redacted."
+}

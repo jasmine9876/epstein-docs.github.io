@@ -1,0 +1,53 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024324",
+    "date": "Tue, 26 Nov 2019 03:25:29 +0000",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "From: (b)(6) (b)(7)(C) \"NBCUniversal\" (b)(6) (b)(7)(C) @nbcuni.com To: Lee Plourde (b)(6) @bop.gov Subject: Guards Charged in Jeffrey Epstein Case Get Trial Date Sent: Tue, 26 Nov 2019 03:25:29 +0000 FYI https://www.nbcnewyork.com/on-air/as-seen-on/Guards-Charged-in-Jeffrey-Epstein-Case-Get-Trial-Date_New-York-565450872.html Sent from my iPhone",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "From: (b)(6) (b)(7)(C) \"NBCUniversal\" (b)(6) (b)(7)(C) @nbcuni.com To: Lee Plourde (b)(6) @bop.gov Subject: Guards Charged in Jeffrey Epstein Case Get Trial Date Sent: Tue, 26 Nov 2019 03:25:29 +0000",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "FYI https://www.nbcnewyork.com/on-air/as-seen-on/Guards-Charged-in-Jeffrey-Epstein-Case-Get-Trial-Date_New-York-565450872.html",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Sent from my iPhone",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024324",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Lee Plourde",
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "NBCUniversal",
+      "NBCNewYork"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "Tue, 26 Nov 2019 03:25:29 +0000"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00024324"
+    ]
+  },
+  "additional_notes": "The document is an email with redacted sender information. The content is a news article link about guards charged in the Jeffrey Epstein case."
+}

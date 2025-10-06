@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": "2599",
+    "document_number": "76318-054",
+    "date": "07/30/2019",
+    "document_type": "Inmate Record",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2599 Begin Date: 07/02/2019 End Date: 07/30/2019 Reg #: 76318-054 Inmate Name: EPSTEIN, JEFFREY EDWARD Date Time Inches Cm Provider 07/09/2019 12:49 NYM 70.0 177.8 b(6); b(7)(C) MLP Orig Entered: 07/09/2019 12:51 EST b(6); b(7)(C) 07/06/2019 21:43 NYM 72.0 182.9 b(6); b(7)(C) PA-C Orig Entered: 07/06/2019 21:48 EST b(6); b(7)(C) Weight: Date Time Lbs Kg Waist Circum. Provider 07/30/2019 09:30 NYM 194.2 88.1 b(6); b(7)(C) MD Orig Entered: 07/30/2019 12:59 EST b(6); b(7)(C) 07/09/2019 12:49 NYM 194.4 88.2 b(6); b(7)(C) MLP Orig Entered: 07/09/2019 12:51 EST b(6); b(7)(C) 07/06/2019 21:43 NYM 200.0 90.7 b(6); b(7)(C) PA-C Orig Entered: 07/06/2019 21:48 EST b(6); b(7)(C) Generated 07/30/2019 15:33 b(6); b(7)(C) FOIA Bureau of Prisons - NYM Page 3 of 3 DOJ-OGR-00026259",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 2599 Begin Date: 07/02/2019 End Date: 07/30/2019 Reg #: 76318-054 Inmate Name: EPSTEIN, JEFFREY EDWARD",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Date Time Inches Cm Provider 07/09/2019 12:49 NYM 70.0 177.8 b(6); b(7)(C) MLP Orig Entered: 07/09/2019 12:51 EST b(6); b(7)(C) 07/06/2019 21:43 NYM 72.0 182.9 b(6); b(7)(C) PA-C Orig Entered: 07/06/2019 21:48 EST b(6); b(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Weight: Date Time Lbs Kg Waist Circum. Provider 07/30/2019 09:30 NYM 194.2 88.1 b(6); b(7)(C) MD Orig Entered: 07/30/2019 12:59 EST b(6); b(7)(C) 07/09/2019 12:49 NYM 194.4 88.2 b(6); b(7)(C) MLP Orig Entered: 07/09/2019 12:51 EST b(6); b(7)(C) 07/06/2019 21:43 NYM 200.0 90.7 b(6); b(7)(C) PA-C Orig Entered: 07/06/2019 21:48 EST b(6); b(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/30/2019 15:33 b(6); b(7)(C) FOIA Bureau of Prisons - NYM Page 3 of 3 DOJ-OGR-00026259",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons",
+      "MLP",
+      "PA-C",
+      "MD"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "07/02/2019",
+      "07/30/2019",
+      "07/09/2019",
+      "07/06/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026259"
+    ]
+  },
+  "additional_notes": "The document appears to be a medical record for Jeffrey Epstein, containing his height and weight measurements. Some personal identifiable information is redacted."
+}

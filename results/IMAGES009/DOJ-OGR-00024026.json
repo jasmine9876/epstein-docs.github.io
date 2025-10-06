@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024026",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "(b)(6), (b)(7)(C) #22 Saeda (b)(6), (b)(7)(C) J. Epstein 7/13/04 7/13/04 Haz G. Tali Myr J. Epstein 76318004816109 (b)(6), (b)(7)(C) DOJ-OGR-00024026",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "#22 Saeda",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "J. Epstein 7/13/04 7/13/04",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Haz G. Tali",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "Myr J. Epstein 76318004816109",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024026",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Saeda",
+      "J. Epstein",
+      "G. Tali"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/13/04"
+    ],
+    "reference_numbers": [
+      "#22",
+      "76318004816109",
+      "DOJ-OGR-00024026"
+    ]
+  },
+  "additional_notes": "The document contains heavily redacted sections with (b)(6), (b)(7)(C) markings, indicating sensitive information has been removed for privacy or security reasons."
+}

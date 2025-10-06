@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "DOJ-OGR-00025081",
+    "date": "Friday August 09, 2019",
+    "document_type": "Leave Records",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 628 Friday August 09, 2019 Page 3 SICK LEAVE (b)(6); (b)(7)(C) ANNUAL LEAVE (b)(6); (b)(7)(C) LWOP (b)(6); (b)(7)(C) LWOP(M) (b)(6); (b)(7)(C) AWOL (b)(6); (b)(7)(C) SUSPENSION (b)(6); (b)(7)(C) OFFICIAL TIME (b)(6); (b)(7)(C) COP (b)(6); (b)(7)(C) IF TRAINING (b)(6); (b)(7)(C) ****Change Records**** Post Split Shft Officer Relieved Officer's New Status Relieving Officer Relieving Officer's Previous Status Ret Sft Changed By LOBBY (b)(6); (b)(7)(C); (b)(7)(F) (b)(6); (b)(7)(C); (b)(7)(F) 8 PHONE RM 2(sp) (b)(6) 7/28 13:49 8 PHONE RM 3(sp) (b)(7)(C) 7/28 13:49 SHU #1 COP 8/4 09:39 Day Off [Sick / Annual] 8/4 11:56 [Sick / Annual] [Removed] 8/4 12:00 MILITARY LEAVE 12 SHU #1 8/4 12:51 SHU #1 Sick Leave (b)(6); (b)(7)(C); (b)(7)(F) 8/4 12:52 11 SOUTH COP 8/4 12:54 [Inserted NCS] [Sick/Annual] 8/5 08:33 SHU #2 [Sick / Annual] 8/5 08:34 INTERNAL Shift INTERNAL UNIT 3 Staff (b)(6); (b)(7)(C) Y (b)(6) 8/5 08:42 7 SOUTH Shift 7 SOUTH OSP #1 12 OSP #1 Staff (b)(6); (b)(7)(C) Y (b)(6); (b)(7) 8/5 08:58 [Inserted NCS] [Sick/Annual] (b)(6) 8/5 09:09 INTERNAL #2 (b)(6); (b)(7)(C) [Sick / Annual] (b)(6); (b)(7)(C) 8/5 09:09 19/2020 10:39:21 AM DOJ-OGR-00025081",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 628 Friday August 09, 2019 Page 3",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "SICK LEAVE ANNUAL LEAVE LWOP LWOP(M) AWOL SUSPENSION OFFICIAL TIME COP IF TRAINING",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "****Change Records**** Post Split Shft Officer Relieved Officer's New Status Relieving Officer Relieving Officer's Previous Status Ret Sft Changed By",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "LOBBY (sp)PHONE RM 2 SHU #1 Day Off [Sick / Annual] MILITARY LEAVE SHU #1 11 SOUTH [Inserted NCS] SHU #2 INTERNAL 7 SOUTH [Inserted NCS] INTERNAL #2",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "19/2020 10:39:21 AM DOJ-OGR-00025081",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [
+      "LOBBY",
+      "PHONE RM 2",
+      "SHU #1",
+      "11 SOUTH",
+      "SHU #2",
+      "7 SOUTH",
+      "INTERNAL #2"
+    ],
+    "dates": [
+      "Friday August 09, 2019",
+      "7/28",
+      "8/4",
+      "8/5",
+      "19/2020"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00025081"
+    ]
+  },
+  "additional_notes": "The document appears to be a leave record with various redactions. The redactions are indicated by (b)(6); (b)(7)(C) and (b)(7)(F), suggesting that the information has been withheld due to privacy or security concerns."
+}

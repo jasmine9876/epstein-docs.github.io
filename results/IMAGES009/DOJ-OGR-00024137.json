@@ -1,0 +1,48 @@
+{
+  "document_metadata": {
+    "page_number": "5",
+    "document_number": "DOJ-OGR-00024137",
+    "date": "07/09/2019",
+    "document_type": "Immunization Record",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Inmate Name: EPSTEIN, JEFFREY EDWARD\nDate of Birth: 01/20/1953\nEncounter Date: 07/09/2019 12:35\nSex: M\nRace: WHITE\nReg #: 76318-054\nProvider: [redacted] MLP\nFacility: NYM\nUnit: H01\n\nImmunizations:\nHepatitis A and B (TwinRx) Series Administration: History Unknown, Not Administered\nDocumented Date: 07/09/2019 12:51 EST\nImmunization Date:\nProvider: [redacted] MLP\nLocation:\nDrug Mfg:\nLot Number:\nDosage:\nRoute:\nExp Dt:\nComments:\n\nMeasles/Mumps/Rubella Series Administration: History Unknown, Not Administered\nDocumented Date: 07/09/2019 12:51 EST\nImmunization Date:\nProvider: [redacted] MLP\nLocation:\nDrug Mfg:\nLot Number:\nDosage:\nRoute:\nExp Dt:\nComments:\n\nSmallpox Series Administration: History Unknown, Not Administered\nDocumented Date: 07/09/2019 12:51 EST\nImmunization Date:\nProvider: [redacted] MLP\nLocation:\nDrug Mfg:\nLot Number:\nDosage:\nRoute:\nExp Dt:\nComments:\n\nTetanus Administration: History Unknown, Not Administered\nDocumented Date: 07/09/2019 12:51 EST\n\nGenerated 07/09/2019 13:03 by [redacted] MLP\nBureau of Prisons - NYM\nPage 5 of 13",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD\nDate of Birth: 01/20/1953\nEncounter Date: 07/09/2019 12:35\nSex: M\nRace: WHITE\nReg #: 76318-054\nProvider: [redacted] MLP\nFacility: NYM\nUnit: H01",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Immunizations:\nHepatitis A and B (TwinRx) Series Administration: History Unknown, Not Administered\nDocumented Date: 07/09/2019 12:51 EST\nImmunization Date:\nProvider: [redacted] MLP\nLocation:\nDrug Mfg:\nLot Number:\nDosage:\nRoute:\nExp Dt:\nComments:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/09/2019 13:03 by [redacted] MLP\nBureau of Prisons - NYM\nPage 5 of 13",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/09/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024137"
+    ]
+  },
+  "additional_notes": "The document contains redacted information, likely for privacy or security reasons."
+}

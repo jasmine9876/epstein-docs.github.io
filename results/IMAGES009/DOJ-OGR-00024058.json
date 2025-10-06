@@ -1,0 +1,150 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024058",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "8/3 b6(b)(6), (b)(7)(C) b6(b)(6), (b)(7)(C) L.Tdli m.meletez WA J-Espsten 76318-00411:20 11 1:30 b6(b)(6), (b)(7)(C) 8/14/19 Saillin DD Ensten 7631809554 2102 15 b6(b)(6), (b)(7)(C) b6(b)(6), (b)(7)(C) Espsten Espsten 7631809555 5:35 76318 09 11 b6(b)(6), (b)(7)(C) b6(b)(6), (b)(7)(C) Epsten 11 5:37 b6(b)(6), (b)(7)(C) DOJ-OGR-00024058",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "8/3",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "L.Tdli m.meletez",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "WA",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "J-Espsten",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318-00411:20",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "11",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1:30",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/14/19",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "Saillin",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "DD",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "Ensten",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "7631809554",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "2102",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "15",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "Espsten",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "Espsten",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "7631809555",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "5:35",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318 09",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "11",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epsten",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "11",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "5:37",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024058",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "8/3",
+      "8/14/19"
+    ],
+    "reference_numbers": [
+      "76318-00411",
+      "7631809554",
+      "7631809555",
+      "76318 09",
+      "DOJ-OGR-00024058"
+    ]
+  },
+  "additional_notes": "The document appears to be a heavily redacted table with handwritten notes. The redactions are extensive, making it difficult to discern the original content. The visible text includes dates, numbers, and names (though most names are redacted). The document type and context are unclear due to the redactions."
+}

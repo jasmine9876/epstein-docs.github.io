@@ -1,0 +1,75 @@
+{
+  "document_metadata": {
+    "page_number": "2706",
+    "document_number": "DOJ-OGR-00026362",
+    "date": "9/10/19",
+    "document_type": "Official Count Slip",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2706 Metropolitan Correctional Center New York, New York Official Count Slip Unit: RA Date: 9/10/19 Count: (b)(7)(F) Time: 3:00 1. Print Name: (b)(6); (b)(7)(C) 1. Signature: 2. Print Name: 2. Signature: Metropolitan Correctional Center Official Count Slip Unit: (b)(7)(F) Date: 8/10/19 Count: (b)(6); (b)(7)(C) Time: 3am Print Name: Signature: Print Name: Signature: DOJ-OGR-00026362",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center New York, New York Official Count Slip",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "RA 9/10/19 3:00",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Unit: Date: Count: Time: 1. Print Name: 1. Signature: 2. Print Name: 2. Signature:",
+      "position": "top"
+    },
+    {
+      "type": "redacted",
+      "content": "(b)(7)(F) (b)(6); (b)(7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(7)(F) 8/10/19 3am",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Unit: Date: Count: Print Name: Signature: Print Name: Signature:",
+      "position": "bottom"
+    },
+    {
+      "type": "redacted",
+      "content": "(b)(7)(F) (b)(6); (b)(7)(C)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026362",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "9/10/19",
+      "8/10/19"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026362"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6); (b)(7)(C) and (b)(7)(F). The handwriting is present in the date and time fields."
+}

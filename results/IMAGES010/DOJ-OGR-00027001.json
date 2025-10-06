@@ -1,0 +1,100 @@
+{
+  "document_metadata": {
+    "page_number": "3412",
+    "document_number": "DOJ-OGR-00027001",
+    "date": "08/19/2019",
+    "document_type": "Log Entries By Event Date",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 3412 Date: 08/19/2019 Time: 10:15 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count 8/11/2019 1:34 AM NYM Housing Units Housing Units, General Population IN 8/11/2019 1:12 AM Morning [b](6); [b](7)(F) Rounds (Lieutenant) 8/11/2019 1:34 AM NYM Housing Units Housing Units, General Population KN 8/11/2019 1:15 AM Morning [b](6); [b](7)(F) Rounds (Lieutenant) 8/11/2019 1:34 AM NYM Housing Units Housing Units, General Population KS 8/11/2019 1:15 AM Morning [b](6); [b](7)(F) Rounds (Lieutenant) 8/10/2019 10:22 PM NYM Housing Units Housing Units, General Population GN 8/10/2019 9:30 PM Evening [b](7)(E); [b](7)(F) 8/10/2019 10:22 PM NYM Housing Units Housing Units, General Population GN 8/10/2019 10:00 PM Evening 8/10/2019 10:22 PM NYM Housing Units Housing Units, General Population GN 8/10/2019 10:22 PM Evening [b](7)(F) Official Count 8/10/2019 10:23 PM NYM Housing Units Housing Units, General Population GN 8/10/2019 10:23 PM Evening [b](7)(F) Base Count Verified 8/10/2019 11:29 PM NYM Housing Units Housing Units, General Population BA 8/10/2019 11:29 PM Evening [b](7)(E) Begin Shift 8/10/2019 11:30 PM NYM Housing Units Housing Units, General Population BA 8/10/2019 11:29 PM Evening [b](7)(F) Base Count Verified 8/10/2019 11:32 PM NYM Housing Units Housing Units, General Population BA 8/10/2019 11:30 PM Evening [b](7)(E) Check User ID: [b](6); [b](7)(C) Page 940 of 1155 DOJ-OGR-00027001",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3412 Date: 08/19/2019 Time: 10:15 AM Federal Bureau of Prisons TRUINTEL Log Entries By Event Date Sensitive But Unclassified",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Entered Date Alpha Code Level 1 Location Level 2 Location Level 3 Location Event Date Shift User Event Base Count",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "8/11/2019 1:34 AM NYM Housing Units Housing Units, General Population IN 8/11/2019 1:12 AM Morning [b](6); [b](7)(F) Rounds (Lieutenant)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "8/11/2019 1:34 AM NYM Housing Units Housing Units, General Population KN 8/11/2019 1:15 AM Morning [b](6); [b](7)(F) Rounds (Lieutenant)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "8/11/2019 1:34 AM NYM Housing Units Housing Units, General Population KS 8/11/2019 1:15 AM Morning [b](6); [b](7)(F) Rounds (Lieutenant)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "8/10/2019 10:22 PM NYM Housing Units Housing Units, General Population GN 8/10/2019 9:30 PM Evening [b](7)(E); [b](7)(F)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "8/10/2019 10:22 PM NYM Housing Units Housing Units, General Population GN 8/10/2019 10:00 PM Evening",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "8/10/2019 10:22 PM NYM Housing Units Housing Units, General Population GN 8/10/2019 10:22 PM Evening [b](7)(F) Official Count",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "8/10/2019 10:23 PM NYM Housing Units Housing Units, General Population GN 8/10/2019 10:23 PM Evening [b](7)(F) Base Count Verified",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "8/10/2019 11:29 PM NYM Housing Units Housing Units, General Population BA 8/10/2019 11:29 PM Evening [b](7)(E) Begin Shift",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "8/10/2019 11:30 PM NYM Housing Units Housing Units, General Population BA 8/10/2019 11:29 PM Evening [b](7)(F) Base Count Verified",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "8/10/2019 11:32 PM NYM Housing Units Housing Units, General Population BA 8/10/2019 11:30 PM Evening [b](7)(E) Check",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "User ID: [b](6); [b](7)(C) Page 940 of 1155 DOJ-OGR-00027001",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Federal Bureau of Prisons"
+    ],
+    "locations": [
+      "IN",
+      "KN",
+      "KS",
+      "GN",
+      "BA"
+    ],
+    "dates": [
+      "08/19/2019",
+      "8/11/2019",
+      "8/10/2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00027001"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as [b](6); [b](7)(C), [b](7)(E), and [b](7)(F)."
+}

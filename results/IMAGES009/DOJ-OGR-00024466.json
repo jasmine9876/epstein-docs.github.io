@@ -1,0 +1,67 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "76318054",
+    "date": "08/08/2019",
+    "document_type": "SALES INVOICE",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "SALES INVOICE --S.B.U.--\nNEW YORK MCC\nMAIN\nACCOUNT No. 76318054\nEPSTEIN, JEFFREY EDWARD\n08/08/2019 Time 07:58:28\nTX ID Receipt# 33\nBEGINNING BALANCES:\nAvailable Balance is N/A\nSpending Limit Balance is N/A\nAccount Balance is $640.12\nQTY DESCRIPTION PRICE\n1 AAA POWERCELL BATTERIES $1.00\n1 ADVIL/ 24 PK $5.05\n1 ANTI FUNGAL CREAM $1.60\n1 CHAPSTICK $2.30\n1 DOVE $2.15\n1 JVC HEADPHONE $9.95\n1 PALMERS COCOA BUTTER LOTION $6.25\n1 Q-TIPS $1.10\n1 RADIO AM/FM $39.95\n1 TONE SOAP $1.25\n1 VITAMIN C 24IC $3.25\n# ITEMS SOLD: 11\nCHARGE 76318054 $73.85\nENDING BALANCES:\nAvailable Balance is N/A\nSpending Limit Balance is N/A\nAccount Balance is $566.27\nSignature\nDOJ-OGR-00024466",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "SALES INVOICE --S.B.U.--\nNEW YORK MCC\nMAIN\nACCOUNT No. 76318054\nEPSTEIN, JEFFREY EDWARD\n08/08/2019 Time 07:58:28",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "TX ID Receipt# 33",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "BEGINNING BALANCES:\nAvailable Balance is N/A\nSpending Limit Balance is N/A\nAccount Balance is $640.12",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "QTY DESCRIPTION PRICE\n1 AAA POWERCELL BATTERIES $1.00\n1 ADVIL/ 24 PK $5.05\n1 ANTI FUNGAL CREAM $1.60\n1 CHAPSTICK $2.30\n1 DOVE $2.15\n1 JVC HEADPHONE $9.95\n1 PALMERS COCOA BUTTER LOTION $6.25\n1 Q-TIPS $1.10\n1 RADIO AM/FM $39.95\n1 TONE SOAP $1.25\n1 VITAMIN C 24IC $3.25\n# ITEMS SOLD: 11\nCHARGE 76318054 $73.85",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "ENDING BALANCES:\nAvailable Balance is N/A\nSpending Limit Balance is N/A\nAccount Balance is $566.27",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Signature",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024466",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "NEW YORK MCC"
+    ],
+    "locations": [
+      "NEW YORK"
+    ],
+    "dates": [
+      "08/08/2019"
+    ],
+    "reference_numbers": [
+      "76318054",
+      "DOJ-OGR-00024466"
+    ]
+  },
+  "additional_notes": "The document appears to be a sales invoice from a commissary or store, possibly related to a correctional facility given the context of the items purchased and the reference to 'NEW YORK MCC' which could stand for Metropolitan Correctional Center."
+}

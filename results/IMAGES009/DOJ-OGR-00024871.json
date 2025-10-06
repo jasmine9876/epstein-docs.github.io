@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "371",
+    "document_number": "DOJ-OGR-00024871",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 371\n\nsuicide watch.\nAre you able to confirm whether or not he was or might you have a statement regarding the issue that you sent to others?\nI appreciate it, on behalf of CBS News.\n\nCBS NEWS\n(b)(6); (b)(7)(C)\nRadio Anchor/Correspondent\nNew York, NY\nNewsroom: 212-975-3615\n(b)(6); (b)(7)(C)\n@cbsnews.com\n\nPage 975\nDOJ-OGR-00024871",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "suicide watch.\nAre you able to confirm whether or not he was or might you have a statement regarding the issue that you sent to others?\nI appreciate it, on behalf of CBS News.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "CBS NEWS",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Radio Anchor/Correspondent\nNew York, NY\nNewsroom: 212-975-3615",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "@cbsnews.com",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 975\nDOJ-OGR-00024871",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "CBS News"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "212-975-3615",
+      "DOJ-OGR-00024871"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted email or letter from a CBS News correspondent. The redactions are marked as (b)(6); (b)(7)(C), indicating that the information is protected under the Freedom of Information Act."
+}

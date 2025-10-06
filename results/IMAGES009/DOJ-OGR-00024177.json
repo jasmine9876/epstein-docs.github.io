@@ -1,0 +1,81 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "BP-S358.060",
+    "date": "7-9-2019",
+    "document_type": "Medical Treatment Refusal",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "BP-S358.060 SEP 05 CDFRM MEDICAL TREATMENT REFUSAL U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS 7-9-2019 Date 1. JEFFREY EPSTEIN 76318-054 , refuse treatment recommended by the Federal Bureau of Prisons Medical staff for the following condition(s): DESCRIBE CONDITION IN LAYMAN'S TERMINOLOGY: Rectal and genital examination The following treatment(s) was/were recommended: Rectal and genital examination Federal Bureau of Prisons Medical staff members have carefully explained to me that the following possible consequences and/or complications may result because of my refusal to accept treatment: Undetected and untreated medical condition. I understand the possible consequences and/or complications, listed above, and still refuse recommended treatment. I hereby assume all responsibility for my physical and/or mental condition, and release the Bureau of Prisons and its employees from any and all liability for respecting and following my expressed wishes and directions. (b)(6), (b)(7)(C) 7-9-2019 Date (b)(6), (b)(7)(C) 7/9/19 Date X 7/5/15 Patient's Signature Date NYM-NEW YORK MCC Signature of Witness DOJ-OGR-00024177",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "BP-S358.060 SEP 05 CDFRM MEDICAL TREATMENT REFUSAL U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "7-9-2019",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "1. JEFFREY EPSTEIN 76318-054 , refuse treatment recommended by the Federal Bureau of Prisons Medical staff for the following condition(s):",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DESCRIBE CONDITION IN LAYMAN'S TERMINOLOGY: Rectal and genital examination The following treatment(s) was/were recommended: Rectal and genital examination",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Federal Bureau of Prisons Medical staff members have carefully explained to me that the following possible consequences and/or complications may result because of my refusal to accept treatment: Undetected and untreated medical condition.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "I understand the possible consequences and/or complications, listed above, and still refuse recommended treatment. I hereby assume all responsibility for my physical and/or mental condition, and release the Bureau of Prisons and its employees from any and all liability for respecting and following my expressed wishes and directions.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "X 7/5/15",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "7-9-2019 7/9/19",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "NYM-NEW YORK MCC Signature of Witness DOJ-OGR-00024177",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "U.S. DEPARTMENT OF JUSTICE",
+      "FEDERAL BUREAU OF PRISONS"
+    ],
+    "locations": [
+      "NEW YORK MCC"
+    ],
+    "dates": [
+      "7-9-2019",
+      "7/9/19",
+      "7/5/15"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "BP-S358.060",
+      "DOJ-OGR-00024177"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(6), (b)(7)(C) in the signature and witness sections."
+}

@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "2672",
+    "document_number": "DOJ-OGR-00026328",
+    "date": "07/23/2019",
+    "document_type": "Clinical Encounter",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2672 Bureau of Prisons Health Services Clinical Encounter Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Sex: M Race: WHITE Reg #: 76318-054 Encounter Date: 07/23/2019 06:20 Provider: [redacted] MLP Facility: NYM Unit: H01 Injury Assessment - Non-work related encounter performed at Health Services. SUBJECTIVE: INJURY 1 Provider: [redacted] MLP Date of Injury: 07/23/2019 01:27 Date Reported for Treatment: 07/23/2019 08:25 Work Related: No Work Assignment: UNASSG Pain Location: Pain Scale: 0 Pain Qualities: Where Did Injury Happen (Be specific as to location): Special Housing Unit Z05-Cell 124 L Cause of Injury (Inmate's Statement of how injury occurred): [redacted] Symptoms (as reported by inmate): None OBJECTIVE: Temperature: Date Time Fahrenheit Celsius Location Provider 07/23/2019 06:30 NYM 97.5 36.4 Oral [redacted] MLP Pulse: Date Time Rate Per Minute Location Rhythm Provider 07/23/2019 06:30 92 Via Machine Regular [redacted] MLP Respirations: Date Time Rate Per Minute Provider 07/23/2019 06:30 NYM 16 [redacted] MLP Blood Pressure: Date Time Value Location Position Cuff Size Provider 07/23/2019 06:30 NYM 140/85 Right Arm Sitting Adult-regular [redacted] MLP SaO2: Date Time Value(%) Air Provider 07/23/2019 06:30 NYM 96 Room Air [redacted] MLP EXAM: General Affect Yes: Cooperative Appearance Yes: Appears Well, Alert and Oriented x 3 No: Appears Distressed, Lethargic, Dyspneic, Appears in Pain, Pallor, Cyanotic, Diaphoretic, Disheveled, Generated 07/23/2019 09:05 by [redacted] MLP Bureau of Prisons - NYM Page 1 of 2",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Bureau of Prisons Health Services Clinical Encounter",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Sex: M Race: WHITE Reg #: 76318-054 Encounter Date: 07/23/2019 06:20 Provider: [redacted] MLP Facility: NYM Unit: H01",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Injury Assessment - Non-work related encounter performed at Health Services.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SUBJECTIVE: INJURY 1 Provider: [redacted] MLP Date of Injury: 07/23/2019 01:27 Date Reported for Treatment: 07/23/2019 08:25 Work Related: No Work Assignment: UNASSG Pain Location: Pain Scale: 0 Pain Qualities: Where Did Injury Happen (Be specific as to location): Special Housing Unit Z05-Cell 124 L Cause of Injury (Inmate's Statement of how injury occurred): [redacted] Symptoms (as reported by inmate): None",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "OBJECTIVE: Temperature: Date Time Fahrenheit Celsius Location Provider 07/23/2019 06:30 NYM 97.5 36.4 Oral [redacted] MLP Pulse: Date Time Rate Per Minute Location Rhythm Provider 07/23/2019 06:30 92 Via Machine Regular [redacted] MLP Respirations: Date Time Rate Per Minute Provider 07/23/2019 06:30 NYM 16 [redacted] MLP Blood Pressure: Date Time Value Location Position Cuff Size Provider 07/23/2019 06:30 NYM 140/85 Right Arm Sitting Adult-regular [redacted] MLP SaO2: Date Time Value(%) Air Provider 07/23/2019 06:30 NYM 96 Room Air [redacted] MLP",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "EXAM: General Affect Yes: Cooperative Appearance Yes: Appears Well, Alert and Oriented x 3 No: Appears Distressed, Lethargic, Dyspneic, Appears in Pain, Pallor, Cyanotic, Diaphoretic, Disheveled,",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/23/2019 09:05 by [redacted] MLP Bureau of Prisons - NYM Page 1 of 2",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons",
+      "NYM"
+    ],
+    "locations": [
+      "Special Housing Unit Z05-Cell 124 L",
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/23/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026328"
+    ]
+  },
+  "additional_notes": "The document contains redacted information, likely for privacy or security reasons. The document is a clinical encounter report from the Bureau of Prisons Health Services."
+}

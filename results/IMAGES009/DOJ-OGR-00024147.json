@@ -1,0 +1,68 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "DOJ-OGR-00024147",
+    "date": "05/11/2020",
+    "document_type": "Health Services Vitals All",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Bureau of Prisons Health Services Vitals All Begin Date: 07/06/2019 End Date: 05/11/2020 Reg #: 76318-054 Inmate Name: EPSTEIN, JEFFREY EDWARD Temperature: Date Time Fahrenheit Celsius Location Provider 07/24/2019 13:12 NYM 97.8 36.6 Oral (b)(6), (b)(7)(C) MLP Orig Entered: 07/24/2019 13:14 EST Joaquin, Y. MLP 07/23/2019 06:30 NYM 97.5 36.4 Oral (b)(6), (b)(7)(C) MLP Orig Entered: 07/23/2019 08:33 EST Joaquin, Y. MLP 07/09/2019 12:49 NYM 97.3 36.3 Oral (b)(6), (b)(7)(C) MLP Orig Entered: 07/09/2019 12:51 EST Joaquin, Y. MLP Pulse: Date Time Rate Per Minute Location Rhythm Provider 07/30/2019 13:02 94 (b)(6), (b)(7)(C) MD Orig Entered: 07/30/2019 13:04 EST (b)(6), (b)(7)(C) MD 07/30/2019 09:40 88 Via Machine MD (b)(6), (b)(7)(C) MD Orig Entered: 07/30/2019 13:04 EST (b)(6), (b)(7)(C) MD 07/30/2019 09:30 87 Via Machine (b)(6), (b)(7)(C) MD Orig Entered: 07/30/2019 12:59 EST (b)(6), (b)(7)(C) MD 07/28/2019 20:28 81 (b)(6), (b)(7)(C) RN Orig Entered: 07/28/2019 20:29 EST (b)(6), (b)(7)(C) RN 07/28/2019 06:57 82 (b)(6), (b)(7)(C) RN Orig Entered: 07/28/2019 06:58 EST (b)(6), (b)(7)(C) RN 07/24/2019 13:12 83 Via Machine Regular (b)(6), (b)(7)(C) MLP Orig Entered: 07/24/2019 13:14 EST (b)(6), (b)(7)(C) MLP 07/23/2019 06:30 92 Via Machine Regular (b)(6), (b)(7)(C) MLP Orig Entered: 07/23/2019 08:33 EST (b)(6), (b)(7)(C) MLP 07/09/2019 12:49 82 Via Machine Regular (b)(6), (b)(7)(C) MLP Orig Entered: 07/09/2019 12:51 EST (b)(6), (b)(7)(C) MLP 07/06/2019 21:43 90 Via Machine (b)(6), (b)(7)(C) PA-C Orig Entered: 07/06/2019 21:48 EST (b)(6), (b)(7)(C) PA-C Respirations: Date Time Rate Per Minute Provider 07/30/2019 09:30 NYM 12 (b)(6), (b)(7)(C) MD Orig Entered: 07/30/2019 12:59 EST (b)(6), (b)(7)(C) MD 07/28/2019 20:28 NYM 14 (b)(6), (b)(7)(C) RN Orig Entered: 07/28/2019 20:29 EST (b)(6), (b)(7)(C) RN 07/28/2019 06:57 NYM 14 (b)(6), (b)(7)(C) RN Orig Entered: 07/28/2019 06:58 EST (b)(6), (b)(7)(C) RN 07/23/2019 06:30 NYM 16 (b)(6) MLP Orig Entered: 07/23/2019 08:33 EST (b)(6), (b)(7)(C) MLP 07/09/2019 12:49 NYM 16 (b)(6) MLP Orig Entered: 07/09/2019 12:51 EST (b)(6), (b)(7)(C) MLP Generated 05/11/2020 09:57 by (b)(6), (b)(7)(C), GC Bureau of Prisons - DAN Page 1 of 3 DOJ-OGR-00024147",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Bureau of Prisons Health Services Vitals All",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Begin Date: 07/06/2019 End Date: 05/11/2020 Reg #: 76318-054 Inmate Name: EPSTEIN, JEFFREY EDWARD",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Temperature: Date Time Fahrenheit Celsius Location Provider",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Pulse: Date Time Rate Per Minute Location Rhythm Provider",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Respirations: Date Time Rate Per Minute Provider",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 05/11/2020 09:57 by (b)(6), (b)(7)(C), GC Bureau of Prisons - DAN Page 1 of 3 DOJ-OGR-00024147",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "EPSTEIN, JEFFREY EDWARD",
+      "Joaquin, Y.",
+      "(b)(6), (b)(7)(C)"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [],
+    "dates": [
+      "07/06/2019",
+      "07/09/2019",
+      "07/23/2019",
+      "07/24/2019",
+      "07/28/2019",
+      "07/30/2019",
+      "05/11/2020"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024147"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b)(6), (b)(7)(C)'. The document is a medical record from the Bureau of Prisons, detailing the vitals of inmate Jeffrey Edward Epstein."
+}

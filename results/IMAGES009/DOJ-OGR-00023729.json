@@ -1,0 +1,71 @@
+{
+  "document_metadata": {
+    "page_number": "2595",
+    "document_number": "DOJ-OGR-00023729",
+    "date": "7/22/2019",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Good morning Mr. [REDACTED]\n\nI tried calling you earlier. My client, Jeffrey Epstein (76318-054) informed me that he had a meeting last Friday with [REDACTED] and Mr. Pluorde, where Mr. Pluorde told our client that he would be allowed to use the bathroom once every hour on the third floor when meeting his attorneys. Yesterday, Officer [REDACTED] told my client and I that he would not be allowed to use the bathroom unless a Lieutenant could come or unless he sees a memo from Lieutenant [REDACTED] or Mr. Pluorde allowing the staff to allow our client to use the bathroom. Can Mr. Pluorde or anyone else make this memo available?\n\nOur client also informed us that in that meeting he was told that he was going to have 2 phone calls. So far, no phone calls.\n\nAlso, can he be allowed to eat in the client attorney room? He spends all of the day meeting with his legal team and an officer told him that if he wanted to eat, he would have to go back to 9south and then he would not be allowed back downstairs. So for the last few days, he's been eating snacks from the vending machines and no proper meal.\n\nThank you in advance for your help.\n\nSincerely,\n\n[REDACTED]\n\nNOTICE: This message may contain information that is privileged or confidential. If you receive this transmission in error, please notify the sender by reply e-mail and delete the message and any attachments.",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Good morning Mr. [REDACTED]",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "I tried calling you earlier. My client, Jeffrey Epstein (76318-054) informed me that he had a meeting last Friday with [REDACTED] and Mr. Pluorde, where Mr. Pluorde told our client that he would be allowed to use the bathroom once every hour on the third floor when meeting his attorneys. Yesterday, Officer [REDACTED] told my client and I that he would not be allowed to use the bathroom unless a Lieutenant could come or unless he sees a memo from Lieutenant [REDACTED] or Mr. Pluorde allowing the staff to allow our client to use the bathroom. Can Mr. Pluorde or anyone else make this memo available?",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Our client also informed us that in that meeting he was told that he was going to have 2 phone calls. So far, no phone calls.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Also, can he be allowed to eat in the client attorney room? He spends all of the day meeting with his legal team and an officer told him that if he wanted to eat, he would have to go back to 9south and then he would not be allowed back downstairs. So for the last few days, he's been eating snacks from the vending machines and no proper meal.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Thank you in advance for your help.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Sincerely,",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "[REDACTED]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "NOTICE: This message may contain information that is privileged or confidential. If you receive this transmission in error, please notify the sender by reply e-mail and delete the message and any attachments.",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Mr. Pluorde"
+    ],
+    "organizations": [],
+    "locations": [
+      "9south"
+    ],
+    "dates": [
+      "7/22/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00023729"
+    ]
+  },
+  "additional_notes": "The document contains redactions, likely for privacy or security reasons."
+}

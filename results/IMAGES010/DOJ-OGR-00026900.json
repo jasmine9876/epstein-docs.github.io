@@ -1,0 +1,43 @@
+{
+  "document_metadata": {
+    "page_number": "3311",
+    "document_number": "DOJ-OGR-00026900",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 3311\nDate   Name   Signature   Item Name   Receipt   Time\n(b)(6): (b)(7)(C)\nDOJ-OGR-00026900",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3311",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Date   Name   Signature   Item Name   Receipt   Time",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(6): (b)(7)(C)",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026900",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00026900"
+    ]
+  },
+  "additional_notes": "The document appears to be a template for recording information, with a header and footer containing printed text and a table with handwritten column headers. The majority of the page is blank."
+}

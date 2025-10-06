@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "1205",
+    "document_number": "DOJ-OGR-00025410",
+    "date": "7/23/19",
+    "document_type": "Suicide Watch Observation Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 1205\nSuicide Watch Observation Log\nName of Inmate on watch: EPSTEIN Reg #: 76318-054 Date: 7/23/19\nTime Observations: Briefly note your observations. Initial all entries. Initials\n10:45 PM (b)(6); (b)(7)(C) assumes Responsibility for the suicide watch of Epstein #76318-054 in Cell #4 on 7/23/19 at 10:45 PM\n11:00 PM Inmate EPSTEIN is sleeping\n11:15 PM Inmate EPSTEIN is sleeping\n11:30 PM Inmate EPSTEIN is sleeping\n11:45 PM Inmate EPSTEIN is sleeping\n11:55 PM Inmate EPSTEIN is awake and lying down\n12:00 AM Inmate EPSTEIN is lying down\n12:15 AM Inmate EPSTEIN is lying down\n12:30 AM Inmate EPSTEIN is sleeping\n12:45 AM Inmate EPSTEIN is sleeping\n12:46 AM Staff sounds\n1:00 AM Inmate EPSTEIN is sleeping\n1:15 AM Inmate EPSTEIN is sleeping JR\n1:22 AM I troun\n1:30 AM Inmate EPSTEIN is sleeping\n1:45 AM Inmate EPSTEIN is sleeping\n2:00 AM Inmate EPSTEIN is sleeping\n2:15 AM Inmate EPSTEIN is sleeping\n2:30 AM Inmate EPSTEIN is sleeping\n2:42 AM Inmate (b)(6); (b)(7)(C) is on the sheet and\n2:45 AM (b)(6); (b)(7)(C) assumes responsibility for (b)(6); (b)(7)(C) /sm\nEpstein in Cell #4 at this time\nNote to all observers: Legibly print and sign your name at the beginning of your shift.\n5\nDOJ-OGR-00025410",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Suicide Watch Observation Log",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "EPSTEIN Reg #: 76318-054 Date: 7/23/19",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Time Observations: Briefly note your observations. Initial all entries. Initials",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6); (b)(7)(C) assumes Responsibility for the suicide watch of Epstein #76318-054 in Cell #4 on 7/23/19 at 10:45 PM",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "Inmate EPSTEIN is sleeping",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "Staff sounds",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "(b)(6); (b)(7)(C) assumes responsibility for (b)(6); (b)(7)(C) /sm",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Note to all observers: Legibly print and sign your name at the beginning of your shift.",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "EPSTEIN"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "7/23/19"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00025410"
+    ]
+  },
+  "additional_notes": "The document is a Suicide Watch Observation Log for inmate Epstein. The log contains handwritten observations of Epstein's status at various times. Some parts of the document are redacted."
+}

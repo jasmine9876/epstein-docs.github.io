@@ -1,0 +1,67 @@
+{
+  "document_metadata": {
+    "page_number": "35",
+    "document_number": "DOJ-OGR-00022320",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Katzenellenbogen, Mark Keeling, Sarah Kegan, Rory Keidan Amanda Keidan, Jon Kelier George Kellett Fraysse, Caroline Kelmenson, Leo-Arthur and Gail Kennedy Cuomo, Andrew & Kerry Kennedy Jr. Ted Kennedy, Ethel Kennedy, Jo Kennedy, Senator Edward Kennedy, Bobby & Mary Kersner, Sol Khayat, Antoine, Jana & George Kidd Jemma King, Abby",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Katzenellenbogen, Mark Keeling, Sarah Kegan, Rory Keidan Amanda Keidan, Jon Kelier George Kellett Fraysse, Caroline Kelmenson, Leo-Arthur and Gail Kennedy Cuomo, Andrew & Kerry Kennedy Jr. Ted Kennedy, Ethel Kennedy, Jo Kennedy, Senator Edward Kennedy, Bobby & Mary Kersner, Sol Khayat, Antoine, Jana & George Kidd Jemma King, Abby",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "35",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022320",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Mark Katzenellenbogen",
+      "Sarah Keeling",
+      "Rory Kegan",
+      "Amanda Keidan",
+      "Jon Keidan",
+      "George Kelier",
+      "Caroline Kellett Fraysse",
+      "Leo-Arthur Kelmenson",
+      "Gail Kelmenson",
+      "Andrew Kennedy Cuomo",
+      "Kerry Kennedy Cuomo",
+      "Ted Kennedy Jr.",
+      "Ethel Kennedy",
+      "Jo Kennedy",
+      "Edward Kennedy",
+      "Bobby Kennedy",
+      "Mary Kennedy",
+      "Sol Kersner",
+      "Antoine Khayat",
+      "Jana Khayat",
+      "George Khayat",
+      "Jemma Kidd",
+      "Abby King"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022320"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 35, and the document number is DOJ-OGR-00022320."
+}

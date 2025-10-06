@@ -1,0 +1,72 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028511",
+    "date": "112913",
+    "document_type": "PQH API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 *B PQH API/HIT DATA 042814 *A *C NAME DOB ----- QUERY ----- LNE TERM/ DATE TIME AGN RSLT TYP REF LANE API EPSTEIN, JEFFREY EDWARD 012053 112913 1941 CUS *D AIR CUS :$02 N A523-PALM BEACH, INTERNATION TECS RECORD ID : (b) (7)(E) CARRIER CODE : *GA GENERAL AVIATION FLT/VES NUMBER : 212JE (b) (7) (E) (b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6) , (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) DOJ-OGR-00028511",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:07 *B PQH API/HIT DATA 042814 *A *C",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB ----- QUERY ----- LNE TERM/ DATE TIME AGN RSLT TYP REF LANE API",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY EDWARD 012053 112913 1941 CUS *D AIR CUS :$02 N A523-PALM BEACH, INTERNATION",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "TECS RECORD ID : (b) (7)(E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CARRIER CODE : *GA GENERAL AVIATION FLT/VES NUMBER : 212JE",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(b) (7) (E) (b) (7) (E)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b) (7) (E) *B - (b) (6) , (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028511",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "PALM BEACH"
+    ],
+    "dates": [
+      "112913",
+      "012053"
+    ],
+    "reference_numbers": [
+      "A523",
+      "212JE",
+      "DOJ-OGR-00028511"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b) (7)(E)' and '(b) (6) , (b) (7) (C)'. The document appears to be a record of an API/HIT data query related to an individual, JEFFREY EDWARD EPSTEIN."
+}

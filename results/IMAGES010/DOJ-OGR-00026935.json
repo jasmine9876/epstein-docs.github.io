@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": "3346",
+    "document_number": "NYM##H 530*05",
+    "date": "07-28-2019",
+    "document_type": "Inmate Roster",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 3346 NYM##H 530*05 * INMATE ROSTER * 07-28-2019 PAGE 001 OF 001 09:38:57 CATEGORY : OCT GROUP CODE : ASSIGNMENT : ATTY FACILITY: NYM OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK 0001 ATTY (b)(6); (b)(7)(C) 07-28-2019 K03-123U UNIT 11N 0002 76318-054 EPSTEIN 07-28-2019 H01-001L UNASSG 0003 (b)(6); (b)(7)(C) 07-28-2019 G05-737U UNASSG G0000 TRANSACTION SUCCESSFULLY COMPLETED DOJ-OGR-00026935",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3346",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NYM##H 530*05 * INMATE ROSTER * 07-28-2019 PAGE 001 OF 001 09:38:57",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CATEGORY : OCT GROUP CODE : ASSIGNMENT : ATTY FACILITY: NYM OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT OPER CATG ASSIGNMENT",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK 0001 ATTY (b)(6); (b)(7)(C) 07-28-2019 K03-123U UNIT 11N 0002 76318-054 EPSTEIN 07-28-2019 H01-001L UNASSG 0003 (b)(6); (b)(7)(C) 07-28-2019 G05-737U UNASSG",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "G0000 TRANSACTION SUCCESSFULLY COMPLETED",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026935",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "EPSTEIN"
+    ],
+    "organizations": [
+      "NYM",
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "07-28-2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "NYM##H 530*05",
+      "DOJ-OGR-00026935"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned inmate roster with some redacted information."
+}

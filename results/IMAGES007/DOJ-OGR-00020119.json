@@ -1,0 +1,45 @@
+{
+  "document_metadata": {
+    "page_number": "5",
+    "document_number": "110621",
+    "date": "02/28/2019",
+    "document_type": "Exhibit",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case#:2016-000580-AdJht DOcum#nt110621 , Filed#7/28/2019Page#5of 4 Exhibit A DOJ-OGR-00020119",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case#:2016-000580-AdJht DOcum#nt110621 , Filed#7/28/2019Page#5of 4",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Exhibit A",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00020119",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "02/28/2019",
+      "2016"
+    ],
+    "reference_numbers": [
+      "2016-000580",
+      "110621",
+      "DOJ-OGR-00020119"
+    ]
+  },
+  "additional_notes": "The document appears to be a court exhibit with a header indicating the case number, document number, filing date, and page number. The main content is 'Exhibit A', and there is a footer with a reference number."
+}

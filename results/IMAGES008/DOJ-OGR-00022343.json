@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": "58",
+    "document_number": "DOJ-OGR-00022343",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information\nTaubman, Bobby\nTavoulareas, Mr Billy & Nicket\nTavoulareas, Peter\nTate, Rupert\nTaylor, Emmy\nTaubman, Alfred\nTaylor, Felicia\nTaylor, Pamela\nTaylor, Sebastian\nTaymor, Julie & Elliot\nTennenbaum, Harry\nTeodorani-Fabbri, Eduardo\nTheilmann, Baroness Francesca\nDOJ-OGR-00022343",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Taubman, Bobby\nTavoulareas, Mr Billy & Nicket\nTavoulareas, Peter\nTate, Rupert\nTaylor, Emmy\nTaubman, Alfred",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Taylor, Felicia\nTaylor, Pamela\nTaylor, Sebastian\nTaymor, Julie & Elliot\nTennenbaum, Harry\nTeodorani-Fabbri, Eduardo\nTheilmann, Baroness Francesca",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "58",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022343",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Taubman, Bobby",
+      "Tavoulareas, Mr Billy",
+      "Nicket Tavoulareas",
+      "Peter Tavoulareas",
+      "Tate, Rupert",
+      "Taylor, Emmy",
+      "Taubman, Alfred",
+      "Taylor, Felicia",
+      "Taylor, Pamela",
+      "Taylor, Sebastian",
+      "Taymor, Julie",
+      "Elliot Taymor",
+      "Tennenbaum, Harry",
+      "Teodorani-Fabbri, Eduardo",
+      "Theilmann, Baroness Francesca"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022343"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is 58, and there is a reference number DOJ-OGR-00022343 at the bottom right corner."
+}

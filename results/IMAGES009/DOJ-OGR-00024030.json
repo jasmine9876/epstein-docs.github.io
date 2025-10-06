@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024030",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "7/24 Colon (b)(6); (b)(7)(C) Max (b)(6); (b)(7)(C) Epstein 76318-054 8:35 7/24 (b)(6); (b)(7)(C) (b)(6); (b)(7)(C) (b)(6); (b)(7)(C) (b)(6); (b)(7)(C) 7/24 Colon Scavelli (b)(6); (b)(7)(C) Epstein 76318-054 10:40 74' 7/24 Scavelli Epstein 76318-054 10:40 1159 7/24 Calvert (b)(6); (b)(7)(C) Epstein 76318-054 12:20",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "7/24 Colon (b)(6); (b)(7)(C) Max (b)(6); (b)(7)(C) Epstein 76318-054 8:35",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/24 (b)(6); (b)(7)(C) (b)(6); (b)(7)(C) (b)(6); (b)(7)(C) (b)(6); (b)(7)(C)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/24 Colon Scavelli (b)(6); (b)(7)(C) Epstein 76318-054 10:40 74'",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/24 Scavelli Epstein 76318-054 10:40 1159",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/24 Calvert (b)(6); (b)(7)(C) Epstein 76318-054 12:20",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Colon",
+      "Max",
+      "Epstein",
+      "Scavelli",
+      "Calvert"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/24"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024030"
+    ]
+  },
+  "additional_notes": "The document appears to be a log or record of some sort, with handwritten entries. Much of the personal information has been redacted with '(b)(6); (b)(7)(C)'."
+}

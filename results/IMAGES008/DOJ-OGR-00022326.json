@@ -1,0 +1,50 @@
+{
+  "document_metadata": {
+    "page_number": "7",
+    "document_number": "DOJ-OGR-00022326",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Mavroleon, Manoli Mavroleon, Mr Bluey Mavroleon, Nicholas & Barbara Maxwell & Laurens, Ms Anne Maxwell Malina, Christine Maxwell, Debbie Maxwell, Dr & Mrs Phillip Maxwell, E Maxwell, Ian & Tara Maxwell, Isabel Maxwell, Kevin and Pandora DOJ-OGR-00022326",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Mavroleon, Manoli Mavroleon, Mr Bluey Mavroleon, Nicholas & Barbara Maxwell & Laurens, Ms Anne Maxwell Malina, Christine Maxwell, Debbie Maxwell, Dr & Mrs Phillip Maxwell, E Maxwell, Ian & Tara Maxwell, Isabel Maxwell, Kevin and Pandora",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022326",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Manoli Mavroleon",
+      "Mr Bluey Mavroleon",
+      "Nicholas & Barbara Mavroleon",
+      "Ms Anne Maxwell & Laurens",
+      "Christine Maxwell Malina",
+      "Debbie Maxwell",
+      "Dr & Mrs Phillip Maxwell",
+      "E Maxwell",
+      "Ian & Tara Maxwell",
+      "Isabel Maxwell",
+      "Kevin and Pandora Maxwell"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022326"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The page number is visible at the bottom left corner as '7'. The document number 'DOJ-OGR-00022326' is present at the bottom right corner."
+}

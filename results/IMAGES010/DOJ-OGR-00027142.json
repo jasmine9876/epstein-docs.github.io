@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": null,
+    "date": "08/10/2019",
+    "document_type": "Deposits Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "ViewDepositsCombined Page 1 of 1 Deposits Inmate Reg #: 76318054 Inmate Name: EPSTEIN, JEFFREY Report Date: 08/10/2019 Report Time: 7:23:21 PM Current Institution: New York MCC Housing Unit: NYM-Z-A Living Quarters: Z04-206LAD Date/Time Transaction Type Amount Ref# Sender Last Name Sender Zip 8/7/2019 12:04:45 PM Western Union $200.00 33319219 B(6) (b)(7)(C) 7/31/2019 9:04:12 AM Western Union $300.00 33319212 7/8/2019 10:04:21 AM Western Union $200.00 33319189 1 https://10.33.56.106/truweb/ViewDepositsCombined.aspx 8/10/2019 DOJ-OGR-00027142",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "ViewDepositsCombined Page 1 of 1",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Deposits",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Inmate Reg #: 76318054 Inmate Name: EPSTEIN, JEFFREY Report Date: 08/10/2019 Report Time: 7:23:21 PM Current Institution: New York MCC Housing Unit: NYM-Z-A Living Quarters: Z04-206LAD",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Date/Time Transaction Type Amount Ref# Sender Last Name Sender Zip 8/7/2019 12:04:45 PM Western Union $200.00 33319219 B(6) (b)(7)(C) 7/31/2019 9:04:12 AM Western Union $300.00 33319212 7/8/2019 10:04:21 AM Western Union $200.00 33319189 1",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "https://10.33.56.106/truweb/ViewDepositsCombined.aspx 8/10/2019 DOJ-OGR-00027142",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "EPSTEIN, JEFFREY"
+    ],
+    "organizations": [
+      "Western Union",
+      "New York MCC"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "08/10/2019",
+      "8/7/2019",
+      "7/31/2019",
+      "7/8/2019"
+    ],
+    "reference_numbers": [
+      "76318054",
+      "33319219",
+      "33319212",
+      "33319189",
+      "DOJ-OGR-00027142"
+    ]
+  },
+  "additional_notes": "The document contains a redacted field marked as 'B(6) (b)(7)(C)' in the 'Sender Last Name' column."
+}

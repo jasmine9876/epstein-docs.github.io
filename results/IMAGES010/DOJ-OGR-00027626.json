@@ -1,0 +1,149 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Telecommunication or Message Log",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "005 A/SS AF 017 F 27SEP 5 JFKCDG LK2 1815 0730 1/LK 1A/E /1S/US/C/I/CAB P//0///// /Y 4516/B 1402///EY 3113/NYCPAR//F\n005 A/SS AF 006 F 09OCT 3 CDGJFK LK2 1410 1625/LK 1A/E /1S/US/C/I/CAB P//0///// /Y 4516/B907.7///EY 3608/PARNYC//F\n003/005 C/OP OPW PHX1A8AEZ-18SEP/1C7/AF REQUIRES TICKET ON OR BEFORE 18SEP/AF 007 D 26SEP JFKCDG/AF 006 D 08OCT CDGJFK\n003/005 C/OP OPC PHX1A8AEZ-19SEP/1C8/AF CANCELLATION DUE TO NO TICKET/1212498622241/ATL/03SEP - 1805Z/AF 007 D 26SEP JFKCDG/AF 006 D 08OCT CDGJFK\n005 A/OP OPW LPB1A8AHX-18SEP/1C7/AF REQUIRES TICKET ON OR BEFORE 18SEP/AF 007 D 26SEP JFKCDG/AF 017 F 27SEP JFKCDG/AF 006 D 08OCT CDGJFK/AF 006 F 09OCT CDGJFK\n005 A/OP OPC LPB1A8AHX-19SEP/1C8/AF CANCELLATION DUE TO NO TICKET/1212498622241/ATL/03SEP - 1903Z/AF 007 D 26SEP JFKCDG/AF 017 F 27SEP JFKCDG/AF 006 D 08OCT CDGJFK/AF 006 F 09OCT CDGJFK\n005 Z/ HDQRM1S 031903 DK63EED3C560FA 0936703400E9AE//HDQ1SBCTYUK/W914/10604333/MIA/1S/T/US/USD CR-HDQ RM 1S 03SEP1903Z\n003/006 C/SS AF 007 D 26SEP 4 JFKCDG HK2 1910 0835 1/LK 1A/E /1S/US/C/I/CAB J//0///// /Y 2887/B 2714///EY172.4/NYCPAR//D\n003/006 C/SS AF 006 D 08OCT 2 CDGJFK HK2 1410 1625/LK 1A/E /1S/US/C/I/CAB J//0///// /Y 2887/B 1231///EY 1655/PARNYC//D\n005/006 C/OP OPW LPB1A8AHX-18SEP/1C7/AF REQUIRES TICKET ON OR BEFORE 18SEP/AF 007 D 26SEP JFKCDG/AF 017 F 27SEP JFKCDG/AF 006 D 08OCT CDGJFK/AF 006 F 09OCT CDGJFK\n005/006 C/OP OPC LPB1A8AHX-19SEP/1C8/AF CANCELLATION DUE TO NO TICKET/1212498622241/ATL/03SEP - 1903Z/AF 007 D 26SEP JFKCDG/AF 017 F 27SEP JFKCDG/AF 006 D 08OCT CDGJFK/AF 006 F 09OCT CDGJFK\n006 A/OP OPW LPB1A8AH4-19SEP/1C7/AF REQUIRES TICKET ON OR BEFORE 19SEP/AF 017 F 27SEP JFKCDG/AF 006 F 09OCT CDGJFK\n006 A/OP OPC LPB1A8AH4-20SEP/1C8/AF CANCELLATION DUE TO NO TICKET/1212498622241/ATL/03SEP - 1913Z/AF 017 F 27SEP JFKCDG/AF 006 F 09OCT CDGJFK\n006 Z/ HDQRM1S 031913 DK63EED3C560FB 09E9704000B717 CR-HDQ RM 1S 03SEP1913Z\n007 Z/ 1AINV RM AF 031913 CR-1AINV RM AF 0000 03SEP1913Z\n000/008 R/NM (b)(6)\n000/008 A/NM (b)(6)\n008 Z/ HDQRM1S 041411//HDQ1SBCTYUK/UH72/03531500/PHX/1S/T/US/USD CR-HDQ RM 1S 04SEP1411Z\nDOJ-OGR-00027626",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "005 A/SS AF 017 F 27SEP 5 JFKCDG LK2 1815 0730 1/LK 1A/E /1S/US/C/I/CAB P//0///// /Y 4516/B 1402///EY 3113/NYCPAR//F",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "005 A/SS AF 006 F 09OCT 3 CDGJFK LK2 1410 1625/LK 1A/E /1S/US/C/I/CAB P//0///// /Y 4516/B907.7///EY 3608/PARNYC//F",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "003/005 C/OP OPW PHX1A8AEZ-18SEP/1C7/AF REQUIRES TICKET ON OR BEFORE 18SEP/AF 007 D 26SEP JFKCDG/AF 006 D 08OCT CDGJFK",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "003/005 C/OP OPC PHX1A8AEZ-19SEP/1C8/AF CANCELLATION DUE TO NO TICKET/1212498622241/ATL/03SEP - 1805Z/AF 007 D 26SEP JFKCDG/AF 006 D 08OCT CDGJFK",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "005 A/OP OPW LPB1A8AHX-18SEP/1C7/AF REQUIRES TICKET ON OR BEFORE 18SEP/AF 007 D 26SEP JFKCDG/AF 017 F 27SEP JFKCDG/AF 006 D 08OCT CDGJFK/AF 006 F 09OCT CDGJFK",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "005 A/OP OPC LPB1A8AHX-19SEP/1C8/AF CANCELLATION DUE TO NO TICKET/1212498622241/ATL/03SEP - 1903Z/AF 007 D 26SEP JFKCDG/AF 017 F 27SEP JFKCDG/AF 006 D 08OCT CDGJFK/AF 006 F 09OCT CDGJFK",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "005 Z/ HDQRM1S 031903 DK63EED3C560FA 0936703400E9AE//HDQ1SBCTYUK/W914/10604333/MIA/1S/T/US/USD CR-HDQ RM 1S 03SEP1903Z",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "003/006 C/SS AF 007 D 26SEP 4 JFKCDG HK2 1910 0835 1/LK 1A/E /1S/US/C/I/CAB J//0///// /Y 2887/B 2714///EY172.4/NYCPAR//D",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "003/006 C/SS AF 006 D 08OCT 2 CDGJFK HK2 1410 1625/LK 1A/E /1S/US/C/I/CAB J//0///// /Y 2887/B 1231///EY 1655/PARNYC//D",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "005/006 C/OP OPW LPB1A8AHX-18SEP/1C7/AF REQUIRES TICKET ON OR BEFORE 18SEP/AF 007 D 26SEP JFKCDG/AF 017 F 27SEP JFKCDG/AF 006 D 08OCT CDGJFK/AF 006 F 09OCT CDGJFK",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "005/006 C/OP OPC LPB1A8AHX-19SEP/1C8/AF CANCELLATION DUE TO NO TICKET/1212498622241/ATL/03SEP - 1903Z/AF 007 D 26SEP JFKCDG/AF 017 F 27SEP JFKCDG/AF 006 D 08OCT CDGJFK/AF 006 F 09OCT CDGJFK",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "006 A/OP OPW LPB1A8AH4-19SEP/1C7/AF REQUIRES TICKET ON OR BEFORE 19SEP/AF 017 F 27SEP JFKCDG/AF 006 F 09OCT CDGJFK",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "006 A/OP OPC LPB1A8AH4-20SEP/1C8/AF CANCELLATION DUE TO NO TICKET/1212498622241/ATL/03SEP - 1913Z/AF 017 F 27SEP JFKCDG/AF 006 F 09OCT CDGJFK",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "006 Z/ HDQRM1S 031913 DK63EED3C560FB 09E9704000B717 CR-HDQ RM 1S 03SEP1913Z",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "007 Z/ 1AINV RM AF 031913 CR-1AINV RM AF 0000 03SEP1913Z",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "000/008 R/NM (b)(6)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "000/008 A/NM (b)(6)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "008 Z/ HDQRM1S 041411//HDQ1SBCTYUK/UH72/03531500/PHX/1S/T/US/USD CR-HDQ RM 1S 04SEP1411Z",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027626",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "AF",
+      "HDQ",
+      "CR-HDQ",
+      "1AINV",
+      "HDQ1SBCTYUK",
+      "DOJ-OGR"
+    ],
+    "locations": [
+      "JFK",
+      "CDG",
+      "LAX",
+      "ATL",
+      "MIA",
+      "NYC",
+      "PHX"
+    ],
+    "dates": [
+      "27SEP",
+      "09OCT",
+      "18SEP",
+      "19SEP",
+      "26SEP",
+      "08OCT",
+      "03SEP",
+      "04SEP"
+    ],
+    "reference_numbers": [
+      "1212498622241",
+      "4516/B",
+      "4516/B907.7",
+      "2887/B",
+      "031903",
+      "031913",
+      "041411",
+      "DOJ-OGR-00027626"
+    ]
+  },
+  "additional_notes": "The document appears to be a log or record of flight information and ticket cancellations. It contains a series of coded messages and references to specific flights, dates, and locations. The presence of redacted information (b)(6) suggests that the document may have been processed for privacy or security reasons."
+}

@@ -1,0 +1,100 @@
+{
+  "document_metadata": {
+    "page_number": "0021",
+    "document_number": "DOJ-OGR-00028215",
+    "date": "04282014",
+    "document_type": "TECSII - PRIMARY QUERY HISTORY",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:07 TECSII - PRIMARY QUERY HISTORY 04282014 *A *B PASSENGER ACTIVITY PAGE NO. 0021 *C NAME DOB QUERY DATE TIME AGN RSLT LNE TYP REF LANE TERM/ API DIM EPSTEIN, JEFFREY 012053 090305 1423 CUS *D AIR :$02 N N A523-PALM BEACH, INTERNATION DOC: 112783574 US P INSP: *E EPSTEIN, JEFFREY 012053 052905 1816 CUS *F AIR :$02 N N A523-PALM BEACH, INTERNATION DOC: 207320604 US P INSP: *G EPSTEIN, JEFFREY 012053 031105 1718 CUS *H AIR R%06 N N A511-CBP-CYRIL E KING, INTL DOC: 207320604 US P INSP: *I EPSTEIN, JEFFREY 012053 022105 2018 CUS *J AIR :$01 N N A523-PALM BEACH, INTERNATION DOC: 207320604 US P INSP: *K EPSTEIN, JEFFREY 012053 010105 1621 CUS *L AIR :$01 N N A523-PALM BEACH, INTERNATION DOC: 207320604 US P INSP: *M EPSTEIN, JEFFREY 012053 011405 1833 CUS *N AIR :$01 N N A523-PALM BEACH, INTERNATION DOC: 207320604 US P INSP: *O (b)(7)(E) <...MORE...> (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(6), (b)(7)(C) *F - (b)(7)(E) *G - (b)(6), (b)(7)(C) *H - (b)(7)(E) *I - (b)(6), (b)(7)(C) *J - (b)(7)(E) *K - (b)(6), (b)(7)(C) *L - (b)(7)(E) *M - (b)(6), (b)(7)(C) *N - (b)(7)(E) *O - (b)(6), (b)(7)(C) DOJ-OGR-00028215",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "TECSII - PRIMARY QUERY HISTORY PASSENGER ACTIVITY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE NO. 0021",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB QUERY DATE TIME AGN RSLT LNE TYP REF LANE TERM/ API DIM",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY 012053 090305 1423 CUS *D AIR :$02 N N A523-PALM BEACH, INTERNATION DOC: 112783574 US P INSP: *E",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY 012053 052905 1816 CUS *F AIR :$02 N N A523-PALM BEACH, INTERNATION DOC: 207320604 US P INSP: *G",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY 012053 031105 1718 CUS *H AIR R%06 N N A511-CBP-CYRIL E KING, INTL DOC: 207320604 US P INSP: *I",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY 012053 022105 2018 CUS *J AIR :$01 N N A523-PALM BEACH, INTERNATION DOC: 207320604 US P INSP: *K",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY 012053 010105 1621 CUS *L AIR :$01 N N A523-PALM BEACH, INTERNATION DOC: 207320604 US P INSP: *M",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY 012053 011405 1833 CUS *N AIR :$01 N N A523-PALM BEACH, INTERNATION DOC: 207320604 US P INSP: *O",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "(b)(7)(E) <...MORE...> (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E) (b)(7)(E)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) *D - (b)(7)(E) *E - (b)(6), (b)(7)(C) *F - (b)(7)(E) *G - (b)(6), (b)(7)(C) *H - (b)(7)(E) *I - (b)(6), (b)(7)(C) *J - (b)(7)(E) *K - (b)(6), (b)(7)(C) *L - (b)(7)(E) *M - (b)(6), (b)(7)(C) *N - (b)(7)(E) *O - (b)(6), (b)(7)(C)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028215",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "CBP"
+    ],
+    "locations": [
+      "PALM BEACH",
+      "CYRIL E KING"
+    ],
+    "dates": [
+      "090305",
+      "052905",
+      "031105",
+      "022105",
+      "010105",
+      "011405",
+      "04282014"
+    ],
+    "reference_numbers": [
+      "112783574",
+      "207320604",
+      "DOJ-OGR-00028215"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted version of a TECSII primary query history report. The redactions are indicated by (b)(7)(E) and other similar notations."
+}

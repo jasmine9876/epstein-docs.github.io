@@ -1,0 +1,83 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "I095",
+    "date": "04/28/2014",
+    "document_type": "Inspection Comments",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:08:02 *B I095 INSPECTION COMMENTS 04/28/2014 *A *C +--------------------------------------- I N S P E C T I O N C O M M E N T S ---------------------------------------+ PAGE 1 (b)(7)(E) VERIFIED. (b)(7)(E) . SUBJECT IS (b)(7)(E) RETURNING FROM 10 DAY TRIP FROM FRANCE. SUBJECT ADMITTED USC. +-----------------------------------------------------------------------------------------------------------------------------------------------------+ (b)(7)(E) (b)(7)(E) (b)(7)(E) Key: *A - (b)(7)(E) *B - (b)(6), (b)(7)(C) *C - (b)(7)(E) DOJ-OGR-00028676",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:08:02",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "I095 INSPECTION COMMENTS",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "04/28/2014",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "I N S P E C T I O N C O M M E N T S",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE 1",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "RETURNING FROM 10 DAY TRIP FROM FRANCE. SUBJECT ADMITTED USC.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key:",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "*A - (b)(7)(E)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "*B - (b)(6), (b)(7)(C)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "*C - (b)(7)(E)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028676",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [
+      "France"
+    ],
+    "dates": [
+      "04/28/2014"
+    ],
+    "reference_numbers": [
+      "I095",
+      "DOJ-OGR-00028676"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as (b)(7)(E), (b)(6), and (b)(7)(C). The document appears to be a report or inspection comments related to a subject who recently returned from France."
+}

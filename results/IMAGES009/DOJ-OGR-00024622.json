@@ -1,0 +1,50 @@
+{
+  "document_metadata": {
+    "page_number": "001",
+    "document_number": "NYMBH 530*07",
+    "date": "07-27-2019",
+    "document_type": "POPULATION MONITORING CENSUS/ROSTER GENERALIZED RETRIEVAL",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "NYMBH 530*07 PAGE 001 POPULATION MONITORING CENSUS/ROSTER GENERALIZED RETRIEVAL 07-27-2019 01:39:47 FUNCTION: R-P SELECTION CATEGORY: QTR EQ ALL ZERO/NBR: NO ORGANIZATION: FACL EQ NYM OPTION: TYPE OF FACILITY: TOF EQ T DUP SUPR: YES FACILITY MANAGED BY: FMB EQ AP COLUMNS 1: REG 2: LN 3: LN2 4: FN 5: ARSD 6: ARS 7: 8: SEQ: 234 NP: JCLDG: C SORT COL: COL SEQ: CONDITIONS (GRP 1) OR CONDITIONS (GRP 2) OR CONDITIONS (GRP 3) OR CONDITIONS (GRP 4) CMCI NE G CMCI NE P Control Copy DOJ-OGR-00024622",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "NYMBH 530*07 PAGE 001 POPULATION MONITORING CENSUS/ROSTER GENERALIZED RETRIEVAL 07-27-2019 01:39:47",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "FUNCTION: R-P SELECTION CATEGORY: QTR EQ ALL ZERO/NBR: NO ORGANIZATION: FACL EQ NYM OPTION: TYPE OF FACILITY: TOF EQ T DUP SUPR: YES FACILITY MANAGED BY: FMB EQ AP COLUMNS 1: REG 2: LN 3: LN2 4: FN 5: ARSD 6: ARS 7: 8: SEQ: 234 NP: JCLDG: C SORT COL: COL SEQ: CONDITIONS (GRP 1) OR CONDITIONS (GRP 2) OR CONDITIONS (GRP 3) OR CONDITIONS (GRP 4) CMCI NE G CMCI NE P",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Control Copy",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024622",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "NYM",
+      "FMB",
+      "AP"
+    ],
+    "locations": [],
+    "dates": [
+      "07-27-2019"
+    ],
+    "reference_numbers": [
+      "NYMBH 530*07",
+      "DOJ-OGR-00024622"
+    ]
+  },
+  "additional_notes": "The document appears to be a computer-generated report with some handwritten text. The handwritten text reads 'Control Copy'. The document has a green bar at the bottom with a reference number 'DOJ-OGR-00024622'."
+}

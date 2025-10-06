@@ -1,0 +1,53 @@
+{
+  "document_metadata": {
+    "page_number": "564",
+    "document_number": "76318-054",
+    "date": "07/08/2019",
+    "document_type": "Inmate Record",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 564 Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Sex: M Facility: NYM Reg #: 76318-054 Date: 07/08/2019 09:35 Provider: [b)(6); (b)(7)(C) PsyD/PhD Unit Team: A&O Completed by [b)(6); (b)(7)(C) PsyD/PhD on 07/08/2019 09:41 Generated 07/08/2019 09:41 by [b)(6); (b)(7)(C) PsyD/PhD Bureau of Prisons - NYM Page 2 of 2 DOJ-OGR-00025017",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 564",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Sex: M Facility: NYM Reg #: 76318-054 Date: 07/08/2019 09:35 Provider: [b)(6); (b)(7)(C) PsyD/PhD Unit Team: A&O",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Completed by [b)(6); (b)(7)(C) PsyD/PhD on 07/08/2019 09:41",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/08/2019 09:41 by [b)(6); (b)(7)(C) PsyD/PhD Bureau of Prisons - NYM Page 2 of 2 DOJ-OGR-00025017",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/08/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00025017"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as [b)(6); (b)(7)(C)]."
+}

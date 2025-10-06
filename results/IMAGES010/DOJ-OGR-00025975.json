@@ -1,0 +1,49 @@
+{
+  "document_metadata": {
+    "page_number": "2135",
+    "document_number": "DOJ-OGR-00025975",
+    "date": "7-23-19",
+    "document_type": "Mail Attachment",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2135\nMail Attachment\nEpstein SW Chronological Log 7-23-19.pdf\nPage 11687\nDOJ-OGR-00025975",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 2135",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Mail Attachment\nEpstein SW Chronological Log 7-23-19.pdf",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Page 11687",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00025975",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "7-23-19"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00025975"
+    ]
+  },
+  "additional_notes": "The document appears to be a page from a larger document or report, with a header and footer indicating page numbers and a reference number. The content is mostly related to a chronological log of Epstein's activities."
+}

@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "020 Z/ /DCS-SYNCUS CR-EWREC0002 00000000 GS 9984FD/RO-9CBAB9D1 DXBQR0005 00000000 09OCT0008Z #27 --- TST RLR --- RP/HDQ1S /HDQ1SJOLTJY/Z8B0/0353150 1S/RM 28NOV12/0903Z YGM3WF ALTRECLOC JOLTJY 1.EPSTEIN/JEFFREY EDWARD /P2 2 (b)(6) /P3 3 EC 1 J 20OCT 6 ORYEWR B 2 W 1045 1320 4 BA 8004 J 20DEC 4 EWRORY HK2 B 2030 1005 2 BA /ALZS2G 5 SP 6 UCI 000C3507FE88B99F /P2 7 UCI 000C3507FE88B9A1 /P3 8 SEA RQST BA HK2 EWRORY /04DN,04FN /S8 9 SSR DOCS BA HK1 ////20JAN53/M//EPSTEIN/JEFFREY/EDWARD /P2 10 SSR DOCS BA HK1 ////(b)(6) /P3 11 SSR DOCS BA HK1 P(b)(6) / /P3 12 SSR DOCS BA HK1 P/USA/469911707/RUS/20JAN53/M/26MAY20/EPSTEIN/JEFFREY EDWARD/ /P2 13 SSR DOCS BA HK1 ////(b)(6) /P3 14 SSR CKIN BA CRCT NAME OF THE PAX2 (b)(6) 15 SSR DOCS BA HK1 ////20JAN53/M//EPSTEIN/JEFFERY/EDWARD /P2 16 SSR TKNE BA HK1 1257149489369C1 /P2/S8 17 SSR TKNE BA HK1 1257149489372C1 /P3/S8 18 SSR TKNM BA HK1 1257149489372 /P3/S8 19 SSR TKNM BA HK1 1257149489369 /P2/S8 20 TK OK 14NOV/BOMBA0804 21 FE M BG,EC 22 FHE 125-7144090805 /P2 23 FHE 125-7144090806 /P3 DOJ-OGR-00027591",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "020 Z/ /DCS-SYNCUS CR-EWREC0002 00000000 GS 9984FD/RO-9CBAB9D1 DXBQR0005 00000000 09OCT0008Z",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "#27 --- TST RLR --- RP/HDQ1S /HDQ1SJOLTJY/Z8B0/0353150 1S/RM 28NOV12/0903Z YGM3WF ALTRECLOC JOLTJY",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "1.EPSTEIN/JEFFREY EDWARD /P2 2 (b)(6) /P3 3 EC 1 J 20OCT 6 ORYEWR B 2 W 1045 1320 4 BA 8004 J 20DEC 4 EWRORY HK2 B 2030 1005 2 BA /ALZS2G 5 SP 6 UCI 000C3507FE88B99F /P2 7 UCI 000C3507FE88B9A1 /P3 8 SEA RQST BA HK2 EWRORY /04DN,04FN /S8 9 SSR DOCS BA HK1 ////20JAN53/M//EPSTEIN/JEFFREY/EDWARD /P2 10 SSR DOCS BA HK1 ////(b)(6) /P3 11 SSR DOCS BA HK1 P(b)(6) / /P3 12 SSR DOCS BA HK1 P/USA/469911707/RUS/20JAN53/M/26MAY20/EPSTEIN/JEFFREY EDWARD/ /P2 13 SSR DOCS BA HK1 ////(b)(6) /P3 14 SSR CKIN BA CRCT NAME OF THE PAX2 (b)(6) 15 SSR DOCS BA HK1 ////20JAN53/M//EPSTEIN/JEFFERY/EDWARD /P2 16 SSR TKNE BA HK1 1257149489369C1 /P2/S8 17 SSR TKNE BA HK1 1257149489372C1 /P3/S8 18 SSR TKNM BA HK1 1257149489372 /P3/S8 19 SSR TKNM BA HK1 1257149489369 /P2/S8 20 TK OK 14NOV/BOMBA0804 21 FE M BG,EC 22 FHE 125-7144090805 /P2 23 FHE 125-7144090806 /P3",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027591",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "BA"
+    ],
+    "locations": [
+      "ORY",
+      "EWR",
+      "RUS",
+      "USA",
+      "BOM"
+    ],
+    "dates": [
+      "20OCT",
+      "20DEC",
+      "20JAN53",
+      "26MAY20",
+      "14NOV"
+    ],
+    "reference_numbers": [
+      "000C3507FE88B99F",
+      "000C3507FE88B9A1",
+      "1257149489369",
+      "1257149489372",
+      "469911707",
+      "125-7144090805",
+      "125-7144090806"
+    ]
+  },
+  "additional_notes": "The document appears to be a redacted record of a flight itinerary or travel arrangement, likely related to Jeffrey Epstein. Multiple redactions are present, obscuring personal details."
+}

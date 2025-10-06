@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": "2746",
+    "document_number": "ZB",
+    "date": "7-25-19",
+    "document_type": "30 MINUTE CHECK SHEET",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "Page 2746 MCC NEW YORK SPECIAL HOUSING UNIT MCC NEW YORK SPECIAL HOUSING UNIT 30 MINUTE CHECK SHEET ZB DATE: 7-25-19 TIME FRAME TIME START TIME END SIGNATURE TIME FRAME TIME START TIME END SIGNATURE TIME FRAME TIME START TIME END SIGNATURE 12:00-12:30 AM 12:01 12:02 (b)(6); (b)(7)(C) 8:00-8:30 AM 8:15 8:20 (b)(6); (b)(7)(C) 4:00-4:30 PM 4:01 4:05 (b)(6); (b)(7)(C) 12:30- 1:00 AM 12:31 12:32 8:30- 9:00 AM 8:40 8:45 4:30-5:00 PM 4:36 4:38 1:00-1:30 AM 1:01 1:02 9:00-9:30 AM 9:25 9:30 5:00 -5:30 PM 5:03 5:06 1:30-2:00 AM 1:31 1:32 9:30-10:00 AM 9:48 9:52 5:30-6:00 PM 5:37 5:38 2:00-2:30 AM 2:01 2:02 10:00-10:30 AM 10:00 10:05 6:00-6:30 PM 6:08 6:09 2:30-3:00 AM 2:31 2:3 10:30-11:00 AM 10:35 10:40 6:30-7:00 PM 6:31 6:34 3:00-3:30 AM 3:01 3:02 11:00-11:30 AM 11:06 11:10 7:00-7:30 PM 7:04 7:05 3:30-4:00 AM 3:31 3:32 11:30-12:00 AM 11:30 11:35 7:30-8:00 PM 7:35 7:38 4:00-4:30 AM 4:01 4:02 12:00-12:30 PM 12:25 12:30 8:00-8:30 PM 8:07 8:10 4:30-5:00 AM 4:31 4:32 12:30- 1:00 PM 12:55 1:00 8:30- 9:00 PM 8:38 8:41 5:00 -5:30 AM 5:01 5:02 1:00-1:30 PM 1:15 1:20 9:00-9:30 PM 9:10 9:13 5:30-6:00 AM 5:31 5:32 1:30-2:00 PM 1:45 1:50 9:30-10:00 PM 9:41 9:46 6:00-6:30 AM 6:01 6:02 2:00-2:30 PM 2:07 2:09 10:00-10:30 PM 10:13 10:15 6:30-7:00 AM 6:31 6:32 2:30-3:00 PM 2:40 2:42 10:30-11:00 PM 10:46 10:48 7:00-7:30 AM 7:01 7:02 3:00-3:30 PM 3:22 3:24 11:00-11:30 PM 11:17 11:19 7:30-8:00 AM 7:31 7:32 3:30-4:00 PM 3:41 3:43 11:30-12:00 PM 11:49 11:53 MORNING WATCH OPERATIONS LIEUTENANT (b)(6); (b)(7)(C) DAY WATCH OPERATIONS LIEUTENANT (b)(6); (b)(7)(C) EVENING WATCH OPERATIONS LIEUTENANT (b)(6); (b)(7)(C) A staff member must observe all inmates confined in a continuous locked down status, such as administrative detention or disciplinary segregation, at least once in the first 30 minute period of the hour (example, 12:00 a.m. - 12:30 a.m.) followed by another round in the second 30 minutes period of the same hour (example, 12:30 am - 1:00 a.m.), thus ensuring an inmate is observed at least twice per hour. These rounds are to be conducted on an irregular schedule and no more than 40 minutes apart. All observations must be documented. REVIEWED BY MORNING WATCH LIEUTENANT CAPTAIN (b)(6); (b)(7)(C) DOJ-OGR-00026401",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "MCC NEW YORK SPECIAL HOUSING UNIT 30 MINUTE CHECK SHEET",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "ZB 7-25-19",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "TIME FRAME TIME START TIME END SIGNATURE",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "12:01 12:02",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "A staff member must observe all inmates confined in a continuous locked down status, such as administrative detention or disciplinary segregation, at least once in the first 30 minute period of the hour (example, 12:00 a.m. - 12:30 a.m.) followed by another round in the second 30 minutes period of the same hour (example, 12:30 am - 1:00 a.m.), thus ensuring an inmate is observed at least twice per hour. These rounds are to be conducted on an irregular schedule and no more than 40 minutes apart. All observations must be documented.",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "REVIEWED BY MORNING WATCH LIEUTENANT CAPTAIN",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "MCC NEW YORK",
+      "DOJ"
+    ],
+    "locations": [
+      "NEW YORK"
+    ],
+    "dates": [
+      "7-25-19"
+    ],
+    "reference_numbers": [
+      "ZB",
+      "DOJ-OGR-00026401"
+    ]
+  },
+  "additional_notes": "The document contains handwritten times and signatures in a table format, with some information redacted."
+}

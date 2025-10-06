@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": "#16",
+    "document_number": null,
+    "date": "28OCT11",
+    "document_type": "TST RLR",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "#16\n--- TST RLR ---\nRP/NYCEC08AA/NYCEC08AA AA/SU 28OCT11/1721Z 7OKC4T\n1.EPSTEIN/JEFFREY MR(ADT /P2\n2 EC 4 A 29OCT 6 EWRORY HK1 B 2025 0950 1 EC/7OKC4T\n3 UCI 001C64EAAE40731C /P2\n4 SSR DOCS EC HK1 ///US/20JAN53/M//EPSTEIN/JEFFREY /P2\n5 AP (b) (6) -M\n6 AP (b)(6)\n7 TK OK 28OCT/NYCEC08AA ET\n8 FA PAX 284-2401033226/ETEC/USD4069.30/28OCT11/NYCEC08AA/33999991 /P2/S1\n9 FB PAX 2800006744 TTP/ET/ITR-EMLA/LPEN OK ETICKET /P2/S1\n10 FP EXT392149983\n11 FV PAX EC /P2/S1\n12 RM PRICING ENTRY FXP/R,UP,NYC.NYC/A2-AFOUS\n13 RM FARE4069.30 USD\n14 RM TIDV3GEQL4QAA\n15 RM MODETICKET\n16 RM FF:BEDFFUS\n17 RM MOPEXTERNAL PAYMENT\n18 RM EXTPAYAMOUNT4069.3USD\n19 SSR SSR RQST EC LK1 EWRORY/01FN/EC 004 A 29OCT EWRORY\n20 SSR SSR DOCSECHK1 ///US/20JAN53/M//EPSTEIN/JEFFREY/EPSTEIN/JEFFREY MR(ADT\n---HISTORY---\nRP/NYCEC08AA/NYCEC08AA AA/SU 28OCT11/1721Z 7OKC4T\n000 O/NM EPSTEIN/JEFFREY MR(ADT\n000 O/SS EC 004 A 29OCT 6 EWRORY LK1 2025 0950 1/NN 1A/E /EC/FR/C/I/CAB J//0////\n000 Z/ AMADEUS INTERNET BOOKING CR-NYCEC08AA 33999991 SU 0001AA/RO-9CB663E6 MUCWW21TD 00000000 28OCT1719Z\nDOJ-OGR-00027560",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "#16",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "--- TST RLR ---",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "RP/NYCEC08AA/NYCEC08AA AA/SU 28OCT11/1721Z 7OKC4T",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "1.EPSTEIN/JEFFREY MR(ADT /P2",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "---HISTORY---",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027560",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "AMADEUS"
+    ],
+    "locations": [
+      "NYC",
+      "EWR"
+    ],
+    "dates": [
+      "28OCT11",
+      "29OCT",
+      "20JAN53"
+    ],
+    "reference_numbers": [
+      "001C64EAAE40731C",
+      "284-2401033226",
+      "2800006744",
+      "EXT392149983",
+      "TIDV3GEQL4QAA",
+      "33999991",
+      "0001AA",
+      "9CB663E6",
+      "MUCWW21TD",
+      "00000000",
+      "DOJ-OGR-00027560"
+    ]
+  },
+  "additional_notes": "The document appears to be a travel itinerary or record related to Jeffrey Epstein. It contains various codes and references to airline tickets, pricing, and payment information. Some fields are redacted, marked as '(b)(6)'. The document is likely related to an investigation or legal proceeding, as indicated by the 'DOJ-OGR-00027560' at the bottom."
+}

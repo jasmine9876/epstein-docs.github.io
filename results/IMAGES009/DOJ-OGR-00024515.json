@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00024515",
+    "date": "Wednesday, July 24, 2019",
+    "document_type": "DAILY LIEUTENANT'S LOG",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "UNITED STATES DEPARTMENT OF JUSTICE METROPOLITAN CORRECTIONAL CENTER, NEW YORK, NY DAILY LIEUTENANT'S LOG Shift-Day-Date: M/W Wednesday, July 24, 2019 Beginning Count: SHU: M/W Daily Sensitive Information: I/M Epstein #76318-054 on Suicide Watch w/inmate companion TIME CHRONOLOGICAL EVENTS BC SHU 12:00 AM Lieutenant assumes duties as the Morning Watch Operations Lieutenant. 12:00 AM Institution Count in progress 12:00 AM testing in progress testing completed 12:30 AM Watch Calls/Fire Watch cont. Good Verbal count announced Clear Institution count announced 3:00 AM Institution Count in progress Good Verbal count announced Clear Institution count announced 4:00 AM -2 HLD REMOVE : USP Canaan Bus 5:00 AM Institution Count in progress Good Verbal count announced Clear Institution count announced 8:00 AM Relieved of duties by Lt. as D/W Operations Lieutenant The following Inmate(s) were placed in Administrative Detention: Name Reg: Number Reason Unit Time AD Order Ending Count: SHU: 10-South: SHU OBS: Local Hosp: H/A OBS: B/A OBS: Dry Cell: Ops Lt.",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "UNITED STATES DEPARTMENT OF JUSTICE METROPOLITAN CORRECTIONAL CENTER, NEW YORK, NY DAILY LIEUTENANT'S LOG",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Shift-Day-Date: M/W Wednesday, July 24, 2019 Beginning Count: SHU: M/W",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Daily Sensitive Information: I/M Epstein #76318-054 on Suicide Watch w/inmate companion",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "TIME CHRONOLOGICAL EVENTS BC SHU",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "The following Inmate(s) were placed in Administrative Detention: Name Reg: Number Reason Unit Time AD Order",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Ending Count: SHU: 10-South: SHU OBS: Local Hosp: H/A OBS: B/A OBS: Dry Cell: Ops Lt.",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00024515",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [
+      "UNITED STATES DEPARTMENT OF JUSTICE",
+      "METROPOLITAN CORRECTIONAL CENTER"
+    ],
+    "locations": [
+      "NEW YORK",
+      "NY",
+      "USP Canaan"
+    ],
+    "dates": [
+      "Wednesday, July 24, 2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00024515"
+    ]
+  },
+  "additional_notes": "The document contains redactions, likely for privacy or security reasons."
+}

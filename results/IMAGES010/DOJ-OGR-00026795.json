@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": "3159",
+    "document_number": "DOJ-OGR-00026795",
+    "date": "08/10/2019",
+    "document_type": "Photo Sheet",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "Page 3159 Lieutenant's Office Metropolitan Correctional Center New York, N.Y. Photo Sheet Lieutenant's Office Type of Incident INMATE SUICIDE Date and Time of Incident 08/10/2019 6:33 AM Inmate Name / Reg. No. EPSTEIN, JEFFERY REG#76318-054 Location of Incident ZA Photograph(s) by Lt. (b)(6); (b)(7)(C) Date and Time of Photo 08/10/2019 6:49 AM DOJ-OGR-00026795",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Lieutenant's Office",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center New York, N.Y. Photo Sheet Lieutenant's Office",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Type of Incident INMATE SUICIDE Date and Time of Incident 08/10/2019 6:33 AM Inmate Name / Reg. No. EPSTEIN, JEFFERY REG#76318-054 Location of Incident ZA Photograph(s) by Lt. (b)(6); (b)(7)(C) Date and Time of Photo 08/10/2019 6:49 AM",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "COPY",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026795",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFERY EPSTEIN"
+    ],
+    "organizations": [
+      "Metropolitan Correctional Center",
+      "Department of Justice"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "08/10/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026795"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as '(b)(6); (b)(7)(C)' and a 'COPY' stamp."
+}

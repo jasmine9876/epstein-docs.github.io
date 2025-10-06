@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "2543",
+    "document_number": "76318-054",
+    "date": "07/30/2019",
+    "document_type": "Clinical Encounter",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2543\nBureau of Prisons\nHealth Services\nClinical Encounter\nInmate Name: EPSTEIN, JEFFREY EDWARD\nDate of Birth: 01/20/1953\nEncounter Date: 07/30/2019 11:12\nSex: M\nRace: WHITE\nReg #: 76318-054\nProvider: [b)(6); (b)(7)(C)] MD\nFacility: NYM\nUnit: Z01\nChronic Care - Chronic Care Clinic encounter performed at Health Services.\nSUBJECTIVE:\nCOMPLAINT 1 Provider: [b)(6); (b)(7)(C)] MD\nChief Complaint: Other Problem\nSubjective: PATIENT WAS REFERRED BY THE WARDEN FOR EVALUATION.\nPATIENT REPORTS HE HAS BEEN WITHOUT HIS MEDS FOR ABOUT 1 WEEK. HE\nALSO REPORTS NUMBNESS IN HIS RIGHT ARM FOR A FEW MINUTES 3 DAYS AGO.\nSTATES THE NUMBESS WENT AWAY ON ITS OWN, BUT WAS VERY CONCERNING.\nHE DENIES RIGHT SIDED WEAKNESS, DIPLOPIA, FACIAL DROOP, DIFFICULTY\nSPEAKING OR SWALLOWING.\nHE REPORTS NOCTURIA OF ABOUT 5 TIMES., HE DENIES DYSURIA.\nHE REPORTS HOF KIDNEY STONES, HX OF HTN FOR WHICH HE WAS TAKING\nTOPROL.\nHE AHS A HX OF SLEEP APNEA AND STATED HE HAS NOT SLEPT FOR 3 WEEKS\nISNCE HE HASB EEN HERE SINCE HE DIE NOT HAVE ACCES S THI CPAP MACHINE. I\nINFORME DHIM THAT WE RECEIVED HIS CPAP MACHINE AND IT WILL BE GIVEN TO\nHIM TONIGHT..\nHE REPORT OTHER NON-MEDICAL ISSUES.\nSTATES HE FEELS OTHERWISE FINE.\nPain: Not Applicable\nSeen for clinic(s): Endocrine/Lipid, Orhtopedic/Rheumatology, Pulmonary/Respiratory\nOBJECTIVE:\nPulse:\nDate Time Rate Per Minute Location Rhythm Provider\n07/30/2019 13:02 94 [b)(6); (b)(7)(C)] MD\n07/30/2019 09:40 88 Via Machine [b)(6); (b)(7)(C)] MD\n07/30/2019 09:30 87 Via Machine [b)(6); (b)(7)(C)] MD\nRespirations:\nDate Time Rate Per Minute Provider\n07/30/2019 09:30 NYM 12 [b)(6); (b)(7)(C)] MD\nBlood Pressure:\nDate Time Value Location Position Cuff Size Provider\n07/30/2019 13:02 NYM 114/84 Left Arm Standing [b)(6); (b)(7)(C)] MD\n07/30/2019 09:40 NYM 125/60 Right Arm Standing [b)(6); (b)(7)(C)] MD\n07/30/2019 09:30 NYM 108/86 Left Arm Sitting [b)(6); (b)(7)(C)] MD\nSaO2:\nDate Time Value(%) Air Provider\n07/30/2019 09:30 NYM 98 Room Air [b)(6); (b)(7)(C)] MD\nWeight:\nDate Time Lbs Kg Waist Circum. Provider\nGenerated 07/30/2019 14:05 by [b)(6); (b)(7)(C)] Bureau of Prisons - NYM\nPage 1 of 3\nDOJ-OGR-00026203",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Bureau of Prisons\nHealth Services\nClinical Encounter",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD\nDate of Birth: 01/20/1953\nEncounter Date: 07/30/2019 11:12\nSex: M\nRace: WHITE\nReg #: 76318-054\nProvider: [b)(6); (b)(7)(C)] MD\nFacility: NYM\nUnit: Z01",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Chronic Care - Chronic Care Clinic encounter performed at Health Services.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SUBJECTIVE:\nCOMPLAINT 1 Provider: [b)(6); (b)(7)(C)] MD\nChief Complaint: Other Problem\nSubjective: ...",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "OBJECTIVE:\nPulse:\nDate Time Rate Per Minute Location Rhythm Provider\n07/30/2019 13:02 94 [b)(6); (b)(7)(C)] MD\n07/30/2019 09:40 88 Via Machine [b)(6); (b)(7)(C)] MD\n07/30/2019 09:30 87 Via Machine [b)(6); (b)(7)(C)] MD",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/30/2019 14:05 by [b)(6); (b)(7)(C)] Bureau of Prisons - NYM\nPage 1 of 3\nDOJ-OGR-00026203",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/30/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026203"
+    ]
+  },
+  "additional_notes": "The document appears to be a clinical encounter report for Jeffrey Epstein, an inmate at a correctional facility. The report includes subjective and objective information, including the patient's complaints, medical history, and vital signs. Some personal identifiable information (PII) has been redacted."
+}

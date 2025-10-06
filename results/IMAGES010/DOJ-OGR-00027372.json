@@ -1,0 +1,55 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "DOJ-OGR-00027372",
+    "date": "07/24/2019",
+    "document_type": "Inmate Observation Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Date: 07/24/2019 09:23 Sex: M Facility: NYM Reg #: 76318-054 Provider: [redacted] Ph.D. Unit Team: 5 Observation. 6. This writer contacted the Pharmacy to indicate Mr. EPSTEIN has not been receiving his medication used to alleviate his constipation. 7. Mr. EPSTEIN attended a legal visit today, after having been provided a shower. 8. Mr. EPSTEIN was educated about both routine and emergency procedures for contacting psychology. 9. The inmate was encouraged to reach out for PRN services should he experience any psychological distress. Completed by [redacted] Ph.D. on 07/24/2019 12:09 Generated 07/24/2019 12:09 by [redacted] Ph.D. Bureau of Prisons - NYM Page 3 of 3 DOJ-OGR-00027372",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Date: 07/24/2019 09:23 Sex: M Facility: NYM Reg #: 76318-054 Provider: [redacted] Ph.D. Unit Team: 5",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Observation. 6. This writer contacted the Pharmacy to indicate Mr. EPSTEIN has not been receiving his medication used to alleviate his constipation. 7. Mr. EPSTEIN attended a legal visit today, after having been provided a shower. 8. Mr. EPSTEIN was educated about both routine and emergency procedures for contacting psychology. 9. The inmate was encouraged to reach out for PRN services should he experience any psychological distress.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Completed by [redacted] Ph.D. on 07/24/2019 12:09",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/24/2019 12:09 by [redacted] Ph.D. Bureau of Prisons - NYM Page 3 of 3 DOJ-OGR-00027372",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN",
+      "EPSTEIN"
+    ],
+    "organizations": [
+      "Pharmacy",
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/24/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00027372"
+    ]
+  },
+  "additional_notes": "The document contains redactions of personal identifying information."
+}

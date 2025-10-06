@@ -1,0 +1,73 @@
+{
+  "document_metadata": {
+    "page_number": "2438",
+    "document_number": "DOJ-OGR-00026114",
+    "date": "07/23/2019",
+    "document_type": "Medical Exam Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2438\nInmate Name: EPSTEIN, JEFFREY EDWARD\nDate of Birth: 01/20/1953\nEncounter Date: 07/23/2019 06:20\nSex: M\nRace: WHITE\nReg #: 76318-054\nProvider: [redacted]\nFacility: NYM\nUnit: H01\nExam:\nAcutely III\nPulmonary\nAuscultation\nYes: Clear to Auscultation, Vesicular Breath Sounds Bilaterally\nNo: Crackles, Rhonchi, Wheezing\nExam Comments:\n[redacted]\nASSESSMENT:\nInjury, unspecified, T1490 - Current - R/O self inflicted injuries.\nPLAN:\nDisposition:\nFollow-up at Sick Call as Needed\nPlaced on Suicide Watch\nFollow-up in 2-4 Hours\nOther:\nFor follow up with psychology service.\nPatient Education Topics:\nDate Initiated Format Handout/Topic Provider Outcome\n07/23/2019 Counseling Access to Care [redacted] Verbalizes Understanding\n07/23/2019 Counseling Plan of Care [redacted] Verbalizes Understanding\nCopay Required: No Cosign Required: Yes\nTelephone/Verbal Order: No\nCompleted by [redacted] MLP on 07/23/2019 09:05\nRequested to be cosigned by [redacted] MD.\nCosign documentation will be displayed on the following page.\nGenerated 07/23/2019 09:05 by [redacted], MLP Bureau of Prisons - NYM\nPage 2 of 2\nDOJ-OGR-00026114",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD\nDate of Birth: 01/20/1953\nEncounter Date: 07/23/2019 06:20\nSex: M\nRace: WHITE\nReg #: 76318-054\nProvider: [redacted]\nFacility: NYM\nUnit: H01",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Exam:\nAcutely III\nPulmonary\nAuscultation\nYes: Clear to Auscultation, Vesicular Breath Sounds Bilaterally\nNo: Crackles, Rhonchi, Wheezing",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Exam Comments:\n[redacted]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "ASSESSMENT:\nInjury, unspecified, T1490 - Current - R/O self inflicted injuries.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PLAN:\nDisposition:\nFollow-up at Sick Call as Needed\nPlaced on Suicide Watch\nFollow-up in 2-4 Hours\nOther:\nFor follow up with psychology service.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Patient Education Topics:\nDate Initiated Format Handout/Topic Provider Outcome\n07/23/2019 Counseling Access to Care [redacted] Verbalizes Understanding\n07/23/2019 Counseling Plan of Care [redacted] Verbalizes Understanding",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Copay Required: No Cosign Required: Yes\nTelephone/Verbal Order: No\nCompleted by [redacted] MLP on 07/23/2019 09:05\nRequested to be cosigned by [redacted] MD.\nCosign documentation will be displayed on the following page.",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/23/2019 09:05 by [redacted], MLP Bureau of Prisons - NYM\nPage 2 of 2",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons"
+    ],
+    "locations": [
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/23/2019"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026114"
+    ]
+  },
+  "additional_notes": "The document contains redactions, likely for privacy or security reasons. The document is a medical exam report for Jeffrey Epstein, detailing his assessment, plan, and patient education topics."
+}

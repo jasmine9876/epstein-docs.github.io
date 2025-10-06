@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Telecommunications transcript",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "019/022 C/SK SK SKYP AF HK2/AF 012 F 04MAY CDGJFK/EPSTEIN/JEFFREY E (b)(6) 022 A/SK SK SKYP AF HK2/AF 011 F 26APR JFKCDG/EPSTEIN/JEFFREY E (b)(6) 022 A/SK SK SKYP AF HK2/AF 006 F 04MAY CDGJFK/EPSTEIN/JEFFREY E (b)(6) 022 A/SK SK SKYP AF HK2/AF 012 F 04MAY CDGJFK/EPSTEIN/JEFFREY E (b)(6) 022 Z/ ASTA BLUELINE CR-NICEAF010U 00000000 SU 9876PI/DS-9CBBD4OD 21APR2124Z 023 Z/ /DCS-SYNCUS CR-LON1A0955 00000000 SU 0001AA/DS-9CBAB9A2 24APR0150Z 024 Z/ /DCS-SYNCUS CR-LON1A0955 00000000 SU 0001AA/DS-9CBCCB09 24APR0210Z 025 A/SS AF 009 F 28APR 1 JFKCDG LK2 2320 1230 1/LK 1A/E /1S/US/C/I/CAB P//0///// /Y 4625/B11.07///EY 4613/NYCPAR/US/F 025 A/SS AF 012 F 08MAY 4 CDGJFK LK2 1035 1250 1/LK 1A/E /1S/US/C/I/CAB P//0///// /Y 4625/B 2390///EY 2234/PARNYC/US/F 025 A/OP OPW PHX1A8AET-25APR:1300/1C7/AF REQUIRES TICKET ON OR BEFORE 27APR:1300/AF 009 F 28APR JFKCDG/AF 012 F 08MAY CDGJFK 025 A/OP OPC PHX1A8AEZ-27APR:1300/1C8/AF CANCELLATION DUE TO NO TICKET/1285677414284/ATL/26APR - 1941Z/AF 009 F 28APR JFKCDG/AF 012 F 08MAY CDGJFK 025 Z/ HDQRM1S 261941 DKFC36E8C105C8 0964203A006164 CR-HDQ RM 1S 26APR1941Z 026 P/ QE/PHX1A8AET/1C0 026 Z/ OPW AUTO WARNING CR-MUC1A0SYS AW 0000AW 26APR1941Z 027 Z/ /DCS-SYNCUS CR-LON1A0955 00000000 SU 0001AA/DS-9CBABA33 26APR1942Z 028 Z/ /DCS-SYNCUS CR-LON1A0955 00000000 SU 0001AA/DS-9CBABA40 26APR1942Z 015/029 C/SS AF 011 F 26APR 6 JFKCDG HK2 2150 1110 1/LK 1A/E /1S/US/C/I/CAB P//0///// /Y 4625/B9.859///EY 4615/NYCPAR/US/F 017/029 C/SS AF 012 F 04MAY 7 CDGJFK HL2 1035 1250 /LL 1A/E /1S/US/C/I/CAB P//0///// /Y 4625/B10000///EY-9953/PARNYC/US/F 015/029 C/SS AF 006 F 04MAY 7 CDGJFK HK2 1400 1615 /LK 1A/E /1S/US/C/I/CAB P//0///// /Y 4625/B14.97///EY 4610/PARNYC/US/F 022/029 C/SK SK SKYP AF HK2/AF 011 F 26APR JFKCDG/EPSTEIN/JEFFREY E (b)(6) 022/029 C/SK SK SKYP AF HK2/AF 006 F 04MAY CDGJFK/EPSTEIN/JEFFREY E (b)(6) 022/029 C/SK SK SKYP AF HK2/AF 012 F 04MAY CDGJFK/EPSTEIN/JEFFREY E (b)(6) 025/029 C/OP OPW PHX1A8AET-25APR:1300/1C7/AF REQUIRES TICKET ON OR BEFORE 27APR:1300/AF 009 F 28APR JFKCDG/AF 012 F 08MAY CDGJFK DOJ-OGR-00027678",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "The entire document is a printed telecommunications transcript.",
+      "position": "top"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY E EPSTEIN"
+    ],
+    "organizations": [
+      "DCS-SYNCUS",
+      "ASTA BLUELINE",
+      "HDQRM1S",
+      "OPW",
+      "CAB"
+    ],
+    "locations": [
+      "NICE",
+      "LON",
+      "NYC",
+      "PAR",
+      "ATL",
+      "MUC",
+      "JFK",
+      "CDG"
+    ],
+    "dates": [
+      "04MAY",
+      "26APR",
+      "21APR",
+      "24APR",
+      "28APR",
+      "08MAY",
+      "27APR",
+      "26APR"
+    ],
+    "reference_numbers": [
+      "019/022",
+      "022",
+      "023",
+      "024",
+      "025",
+      "026",
+      "027",
+      "028",
+      "015/029",
+      "017/029",
+      "022/029",
+      "025/029",
+      "DOJ-OGR-00027678"
+    ]
+  },
+  "additional_notes": "The document appears to be a telecommunications transcript with multiple entries related to flight information and ticketing. Some names and details are redacted with '(b)(6)'."
+}

@@ -1,0 +1,51 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00022292",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "*Redactions for personal contact information Alun-Jones, Carella Amon, Roberta & Maurice Alun-Jones, Jeremy & Deborah Anastos, Lisa Alvarez, Senor Vicente Anderson, Lulu Appleby, Robert & Alex Amon, Mr Phillippe Arango, Maite DOJ-OGR-00022292",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "*Redactions for personal contact information",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Alun-Jones, Carella\nAmon, Roberta & Maurice\nAlun-Jones, Jeremy & Deborah\nAnastos, Lisa\nAlvarez, Senor Vicente\nAnderson, Lulu\nAppleby, Robert & Alex\nAmon, Mr Phillippe\nArango, Maite",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00022292",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Carella Alun-Jones",
+      "Roberta Amon",
+      "Maurice Amon",
+      "Jeremy Alun-Jones",
+      "Deborah Alun-Jones",
+      "Lisa Anastos",
+      "Senor Vicente Alvarez",
+      "Lulu Anderson",
+      "Robert Appleby",
+      "Alex Appleby",
+      "Mr Phillippe Amon",
+      "Maite Arango"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00022292"
+    ]
+  },
+  "additional_notes": "The document contains redactions for personal contact information. The image quality is poor, with visible scan artifacts."
+}

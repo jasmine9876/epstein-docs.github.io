@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00028823",
+    "date": "042814",
+    "document_type": "PQH API/HIT DATA",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "08:08 PQH API/HIT DATA 042814 *B *A *C NAME DOB ----- QUERY ----- LNE TERM/ DATE TIME AGN RSLT TYP REF LANE API EPSTEIN, JEFFREY EDWARD 012053 070212 1738 CUS *D API /G17 C JFK - JOHN F KENNEDY INTL DOC: 469911707 US P INSP: *E API DATA ----- API INDICATOR : C CONFIRMED CARRIER CODE : AF AIR FRANCE *B - (b) (6), (b) (7) (C) FLT/VES NUMBER : 6 ARRIVAL LOCATION : JFK JOHN F KENNEDY INTL *C - (b) (7) (E) DEPARTURE LOCATION : CDG PARIS, CH. DE GAULLE *D - (b) (7) (E) TRANSMITTED BY : ALTEA+CM AMADEUS DCS ALTEA CM INBOUND/OUTBOUND : INBOUND (b) (7) (E) Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) *E - (b) (7), (b) (7) (C) (b) (7) (E) DOJ-OGR-00028823",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "08:08 PQH API/HIT DATA 042814",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NAME DOB ----- QUERY ----- LNE TERM/ DATE TIME AGN RSLT TYP REF LANE API",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN, JEFFREY EDWARD 012053 070212 1738 CUS *D API /G17 C JFK - JOHN F KENNEDY INTL DOC: 469911707 US P INSP: *E",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "API DATA ----- API INDICATOR : C CONFIRMED CARRIER CODE : AF AIR FRANCE FLT/VES NUMBER : 6 ARRIVAL LOCATION : JFK JOHN F KENNEDY INTL DEPARTURE LOCATION : CDG PARIS, CH. DE GAULLE TRANSMITTED BY : ALTEA+CM AMADEUS DCS ALTEA CM INBOUND/OUTBOUND : INBOUND",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Key: *A - (b) (7) (E) *B - (b) (6), (b) (7) (C) *C - (b) (7) (E) *D - (b) (7) (E) *E - (b) (7), (b) (7) (C)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00028823",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "AIR FRANCE",
+      "AMADEUS DCS ALTEA CM"
+    ],
+    "locations": [
+      "JFK",
+      "JOHN F KENNEDY INTL",
+      "CDG",
+      "PARIS, CH. DE GAULLE"
+    ],
+    "dates": [
+      "070212"
+    ],
+    "reference_numbers": [
+      "469911707"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked with (b) (6), (b) (7) (C), and (b) (7) (E)."
+}

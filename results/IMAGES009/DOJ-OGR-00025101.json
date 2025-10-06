@@ -1,0 +1,144 @@
+{
+  "document_metadata": {
+    "page_number": "654",
+    "document_number": "DOJ-OGR-00025101",
+    "date": "Saturday, August 10, 2019",
+    "document_type": "Incident Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "7:20 am: SIS Lt notified.\n7:30 am: L. N'Diaye, Warden arrives at institution. C.Edge, AW notified.\n7:32 am: PIO notified of incident by the Warden.\n7:36 am: Official time of death reported by ER physician.\n7:40 am: Acting Chief Psychologist notified.\n8:00 am: S.Skipper-Scott, AW and [redacted] Captain arrives at institution.\n8:10 am: SIS Lt arrives at institution.\n8:10 am: CMC and SCSS notified.\n8:34 am: FBI notified.\n9:00 am: AUSA notified.\n9:00 am: C. Edge arrives at institution.\nCont. Saturday, August 10, 2019\n9:00 am: SIS Lt. Reports to SHU. Interviews will be conducted with inmates assigned to tier.\n9:15 am: CMC arrives at institution.\n9:30 am: Acting Chief Psychologist arrived to the institution.\n9:50 am: SCSS arrives at institution.\n9:55 am: CMC and IDO depart institution enroute to Beekman Hospital.\n10:00 am: CMC and IDO arrive at Beekman Hospital, fingerprints and photographs taken of inmate Epstein. Inmate clothing secured and brought back to institution.\n10:00 am: Judge Berman notified.\n10:15 am: CMC returns to institution.",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "7:20 am: SIS Lt notified.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "7:30 am: L. N'Diaye, Warden arrives at institution. C.Edge, AW notified.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "7:32 am: PIO notified of incident by the Warden.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "7:36 am: Official time of death reported by ER physician.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "7:40 am: Acting Chief Psychologist notified.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "8:00 am: S.Skipper-Scott, AW and [redacted] Captain arrives at institution.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "8:10 am: SIS Lt arrives at institution.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "8:10 am: CMC and SCSS notified.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "8:34 am: FBI notified.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "9:00 am: AUSA notified.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "9:00 am: C. Edge arrives at institution.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Cont. Saturday, August 10, 2019",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "9:00 am: SIS Lt. Reports to SHU. Interviews will be conducted with inmates assigned to tier.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "9:15 am: CMC arrives at institution.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "9:30 am: Acting Chief Psychologist arrived to the institution.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "9:50 am: SCSS arrives at institution.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "9:55 am: CMC and IDO depart institution enroute to Beekman Hospital.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "10:00 am: CMC and IDO arrive at Beekman Hospital, fingerprints and photographs taken of inmate Epstein. Inmate clothing secured and brought back to institution.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "10:00 am: Judge Berman notified.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "10:15 am: CMC returns to institution.",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "L. N'Diaye",
+      "C.Edge",
+      "S.Skipper-Scott",
+      "C. Edge",
+      "Epstein",
+      "Judge Berman"
+    ],
+    "organizations": [
+      "FBI",
+      "AUSA",
+      "CMC",
+      "SCSS",
+      "IDO",
+      "Beekman Hospital",
+      "ER"
+    ],
+    "locations": [
+      "institution",
+      "SHU",
+      "Beekman Hospital"
+    ],
+    "dates": [
+      "Saturday, August 10, 2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00025101"
+    ]
+  },
+  "additional_notes": "The document appears to be a log of events related to the death of inmate Epstein. The log includes timestamps and descriptions of various actions taken by different individuals and organizations. The document is typed and contains some redacted information."
+}

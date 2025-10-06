@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "1352",
+    "document_number": "DOJ-OGR-00023605",
+    "date": null,
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Friday with [b](6), [b](7)(C) and Mr. Pluorde, where Mr. Pluorde told our client that he would be allowed to use the bathroom once every hour on the third floor when meeting his attorneys. Yesterday, Officer [b](6) told my client and I that he would not be allowed to use the bathroom unless a Lieutenant could come or unless he sees a memo from Lieutenant [b](6), [b](7)(C) or Mr. Pluorde allowing the staff to allow our client to use the bathroom. Can Mr. Pluorde or anyone else make this memo available?\n\nOur client also informed us that in that meeting he was told that he was going to have 2 phone calls. So far, no phone calls.\n\nAlso, can he be allowed to eat in the client attorney room? He spends all of the day meeting with his legal team and an officer told him that if he wanted to eat, he would have to go back to 9south and then he would not be allowed back downstairs. So for the last few days, he's been eating snacks from the vending machines and no proper meal.\n\nThank you in advance for your help.\n\nSincerely,\n\n[b](6), [b](7)(C)\n\nNOTICE: This message may contain information that is privileged or confidential. If you receive this transmission in error, please notify the sender by reply e-mail and delete the message and any attachments.",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Friday with [b](6), [b](7)(C) and Mr. Pluorde, where Mr. Pluorde told our client that he would be allowed to use the bathroom once every hour on the third floor when meeting his attorneys. Yesterday, Officer [b](6) told my client and I that he would not be allowed to use the bathroom unless a Lieutenant could come or unless he sees a memo from Lieutenant [b](6), [b](7)(C) or Mr. Pluorde allowing the staff to allow our client to use the bathroom. Can Mr. Pluorde or anyone else make this memo available?",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Our client also informed us that in that meeting he was told that he was going to have 2 phone calls. So far, no phone calls.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Also, can he be allowed to eat in the client attorney room? He spends all of the day meeting with his legal team and an officer told him that if he wanted to eat, he would have to go back to 9south and then he would not be allowed back downstairs. So for the last few days, he's been eating snacks from the vending machines and no proper meal.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Thank you in advance for your help.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Sincerely,",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "[b](6), [b](7)(C)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "NOTICE: This message may contain information that is privileged or confidential. If you receive this transmission in error, please notify the sender by reply e-mail and delete the message and any attachments.",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Mr. Pluorde",
+      "Lieutenant [b](6), [b](7)(C)",
+      "Officer [b](6]"
+    ],
+    "organizations": [],
+    "locations": [
+      "9south",
+      "third floor"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00023605"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as [b](6) and [b](7)(C), indicating potentially sensitive or confidential information."
+}

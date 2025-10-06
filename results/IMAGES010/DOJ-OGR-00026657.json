@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00026657",
+    "date": "12/01/19",
+    "document_type": "Official Count Slip",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Metropolitan Correctional Center Official Count Slip Unit: Count: Print Name: Signature: Print Name: Signature: Date: 12/01/19 Time: 8:41:19 (b)(7)(a) (b)(7)(a) Metropolitan Correctional Center Official Count Slip Unit: HOSF Count: Print Name: Signature: Print Name: Signature: Date: 12/01/19 Time: 8:41:19 (b)(7)(a) (b)(7)(a) Page 310 DOJ-OGR-00026657",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Metropolitan Correctional Center Official Count Slip",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "12/01/19 8:41:19",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Unit: Count: Print Name: Signature: Print Name: Signature: Date: Time:",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "HOSF",
+      "position": "middle"
+    },
+    {
+      "type": "other",
+      "content": "(b)(7)(a)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 310 DOJ-OGR-00026657",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Metropolitan Correctional Center"
+    ],
+    "locations": [],
+    "dates": [
+      "12/01/19"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026657"
+    ]
+  },
+  "additional_notes": "The document contains redacted information marked as '(b)(7)(a)'. The image quality is generally clear, but some parts are slightly distorted or cropped."
+}

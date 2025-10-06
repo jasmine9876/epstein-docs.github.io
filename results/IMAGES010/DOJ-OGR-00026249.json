@@ -1,0 +1,136 @@
+{
+  "document_metadata": {
+    "page_number": "2589",
+    "document_number": "76318-054",
+    "date": "07/09/2019",
+    "document_type": "Inmate Medical Record",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 2589 Inmate Name: EPSTEIN, JEFFREY EDWARD Date of Birth: 01/20/1953 Sex: M Race: WHITE Reg #: 76318-054 Encounter Date: 07/09/2019 12:35 Provider: [redacted] MLP Facility: NYM Unit: H01 Date Time Inches Cm Provider Weight: Date Time Lbs Kg Waist Circum. Provider 07/09/2019 12:49 NYM 194.4 88.2 [redacted] MLP Prosthetic Devices/Equipment: Denied Tobacco Usage: Denied General Social History: Foreign Travel: Born in USA: Yes Country of Birth: USA Patient Education Assessments: Date Ed Yrs Occupation Learns Best By Primary Language Barriers to Education 07/09/2019 12 Banker Speaking/Listening English None Family History - Father: Age at Death: 74 Cause of Death: Diabetes complications Significant Illnesses: Diabetes Heart Disease Comments: Family History - Mother: Age at Death: 81 Cause of Death: Kidney Failure Significant Illnesses: Heart Disease Comments: Family History - Sibling: Number of Siblings: 1 Significant Illnesses: Comments: Past Hospitalization: Reason Location When Acute Appendicitis Mount Sinai Hospital 1990 Complications: None Comments: Head: Normal: Yes Comments: Generated 07/09/2019 13:03 by [redacted] MLP Bureau of Prisons - NYM Page 7 of 13 DOJ-OGR-00026249",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Inmate Name: EPSTEIN, JEFFREY EDWARD",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Date of Birth: 01/20/1953",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Encounter Date: 07/09/2019 12:35",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Weight: 194.4 Lbs",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Prosthetic Devices/Equipment: Denied",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Tobacco Usage: Denied",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "General Social History:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Family History - Father:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Age at Death: 74",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Cause of Death: Diabetes complications",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Significant Illnesses: Diabetes Heart Disease",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Family History - Mother:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Age at Death: 81",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Cause of Death: Kidney Failure",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Significant Illnesses: Heart Disease",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Past Hospitalization:",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Reason: Acute Appendicitis",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Location: Mount Sinai Hospital",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "When: 1990",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Generated 07/09/2019 13:03 by [redacted] MLP Bureau of Prisons - NYM",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EDWARD EPSTEIN"
+    ],
+    "organizations": [
+      "Bureau of Prisons",
+      "Mount Sinai Hospital"
+    ],
+    "locations": [
+      "USA",
+      "NYM"
+    ],
+    "dates": [
+      "01/20/1953",
+      "07/09/2019",
+      "1990"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00026249"
+    ]
+  },
+  "additional_notes": "The document contains redacted information, likely for privacy or security reasons."
+}
