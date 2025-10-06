@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": "118 of 125",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "LM BEACH POLICE DEPARTME. PROPERTY RECEIPT DETECTIVE BUREAU PBPD Form #52 PROPERTY FOUND DECEASED (Probated) PERSONAL CONFISCATED DESTROY EVIDENCE TRIAL LABORATORY STOLEN/RECOVERED OTHER INCIDENT/CITATION NUMBER DATE/TIME RECOVERED PROPERTY NUMBER (Leave Blank) BIN NUMBER (Leave Blank) 05-268 04/11/03 0915 05-383 128552 ADDRESS WHERE PROPERTY IMPOUNDED 330 EL DICTADOR DISCOVERED BY /D.O.B. ADDRESS Street City Zip PHONE NUMBER PACIN 7059 OWNER'S NAME /D.O.B. ADDRESS Street City Zip PHONE NUMBER SUSPECT'S NAME /D.O.B. ADDRESS Street City Zip PHONE NUMBER 6-TORRES DEFOR 11/11/71 ADDT'NL. SUSPECT/D.O.B. ADDRESS Street City Zip PHONE NUMBER SPECIAL INSTRUCTIONS FOUND PROPERTY 90 DAYS CLAIM NOT CLAIM ITEM # QUANTITY VALUE DESCRIPTION 1 12 white paper - EXPENDITURES 2 1 will be there @ 1:30 3 1 DINNA FOR MEAL 200 4 1 CRISTINA TATOO 5 1 LEFT MESSAGE FOR INIE 6 1 CAN'T BE HERE 7 1 MACHIN WILL CALL @ 11:20 7 1 (561) 676-6766 TOTAL PACKAGE WEIGHT I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer. SIGNATURE DATE SIGNATURE ID# UNIT RECEIVED BY REASON DATE/TIME RECEIVED ALC 376 07/26/17 Page 118 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030918",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "LM BEACH POLICE DEPARTME. PROPERTY RECEIPT DETECTIVE BUREAU",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PBPD Form #52",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "05-268 04/11/03 0915 05-383 128552 330 EL DICTADOR PACIN 7059 6-TORRES DEFOR 11/11/71",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "white paper - EXPENDITURES will be there @ 1:30 DINNA FOR MEAL 200 CRISTINA TATOO LEFT MESSAGE FOR INIE CAN'T BE HERE MACHIN WILL CALL @ 11:20 (561) 676-6766",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TOTAL PACKAGE WEIGHT",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "ALC 376",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page 118 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030918",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "PACIN",
+      "TORRES"
+    ],
+    "organizations": [
+      "LM BEACH POLICE DEPARTME.",
+      "DETECTIVE BUREAU"
+    ],
+    "locations": [
+      "330 EL DICTADOR"
+    ],
+    "dates": [
+      "04/11/03",
+      "11/11/71",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "05-268",
+      "05-383",
+      "128552",
+      "17-295",
+      "DOJ-OGR-00030918"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the LM Beach Police Department. It contains handwritten notes and appears to be a scanned copy. Some information is redacted."
+}

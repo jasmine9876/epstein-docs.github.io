@@ -1,0 +1,67 @@
+{
+  "document_metadata": {
+    "page_number": "29",
+    "document_number": "153497",
+    "date": "12/14/2005",
+    "document_type": "Billed Usage",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "153497 12/14/2005 BILLED USAGE 3G Cingular Run Date: 12/19/05 Run Time: 11:43:35 ATLY$ Voice Usage For (917)855-3363 Account Number 0043811863 Bill Cycle: 2 Item Date Time Number Called Calls To Mins Used Rate Charge Description Charge 443 09/19/05 02:55P (917)855-3363 1 0.00 UNLIM MOBL TO MOBL  443 09/19/05 05:11P (917)855-3363 NEW YORK NY 0.00 MESSAGE RETRIEVAL  444 09/19/05 05:42P (212)535-3030 INCOMING 2 0.00 UNLIM MOBL TO MOBL  445 09/19/05 06:53P (212)879-2670 INCOMING 1 0.00 400 ADD'L ANYTIME MIN  446 09/19/05 09:09P (917)855-3363 NEW YORK NY 1 0.00 MESSAGE RETRIEVAL  447 09/19/05 09:15P (917)855-3363 NEW YORK NY 1 0.00 UNLIMITED N/WKND MIN  447 09/19/05 09:15P (917)855-3363  0.00 DROP CALL CREDIT  448 09/20/05 12:10A (561) 635-3454 INCOMING 1 0.00 UNLIMITED N/WKND MIN  449 09/20/05 08:59A (917) 868-6145 QUEENS NY 2 0.00 UNLIM MOBL TO MOBL  450 09/20/05 09:25A (212) 750-9791 INCOMING 1 0.00 400 ADD'L ANYTIME MIN  451 09/20/05 09:27A (212) 838-9514 INCOMING 2 0.00 400 ADD'L ANYTIME MIN  452 09/20/05 09:39A (786) 246-6607 INCOMING 1 0.00 400 ADD'L ANYTIME MIN  453 09/20/05 09:47A (212) 750-1176 INCOMING 1 0.00 400 ADD'L ANYTIME MIN  454 09/20/05 10:41A (646) 369-7984 INCOMING 2 0.00 400 ADD'L ANYTIME MIN  455 09/20/05 10:44A (212) 750-9894 INCOMING 1 0.00 400 ADD'L ANYTIME MIN  456 09/20/05 11:18A (917) 855-3363 NEW YORK NY 2 0.00 MESSAGE RETRIEVAL  457 09/20/05 11:56A (516) 759-2661 INCOMING 2 0.00 UNLIM MOBL TO MOBL  458 09/20/05 11:59A (212) 750-9895 NEW YORK NY 3 0.00 400 ADD'L ANYTIME MIN  459 09/20/05 12:24P (917) 855-3363 NEW YORK NY  0.00 MESSAGE RETRIEVAL  MAT PROPRIETARY AND CONFIDENTIAL Not for use or disclosure outside Cingular Wireless and its Affiliates except under written agreement. Page 29 of 82 07/26/17 Page 24 Public Records Request No.: 17-295 DOJ-OGR-00030747",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "153497 12/14/2005 BILLED USAGE 3G Cingular",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Run Date: 12/19/05 Run Time: 11:43:35 ATLY$ Voice Usage For (917)855-3363 Account Number 0043811863 Bill Cycle: 2",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Item Date Time Number Called Calls To Mins Used Rate Charge Description Charge",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "443 09/19/05 02:55P (917)855-3363 1 0.00 UNLIM MOBL TO MOBL",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "MAT PROPRIETARY AND CONFIDENTIAL Not for use or disclosure outside Cingular Wireless and its Affiliates except under written agreement.",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 29 of 82 07/26/17 Page 24 Public Records Request No.: 17-295 DOJ-OGR-00030747",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Cingular Wireless"
+    ],
+    "locations": [
+      "NEW YORK NY",
+      "QUEENS NY"
+    ],
+    "dates": [
+      "12/14/2005",
+      "12/19/05",
+      "09/19/05",
+      "09/20/05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "153497",
+      "0043811863",
+      "17-295",
+      "DOJ-OGR-00030747"
+    ]
+  },
+  "additional_notes": "The document appears to be a billed usage report from Cingular Wireless. It contains detailed call records, including dates, times, numbers called, and charges. The document is marked as 'PROPRIETARY AND CONFIDENTIAL' and is not for use or disclosure outside Cingular Wireless and its affiliates without written agreement."
+}

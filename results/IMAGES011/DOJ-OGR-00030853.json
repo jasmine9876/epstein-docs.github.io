@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": "2 of 2",
+    "document_number": null,
+    "date": "2005",
+    "document_type": "webpage footer",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Myspace.com Page 2 of 2 About | FAQ | Terms | Privacy | Safety Tips | Contact Myspace | Promote! | Advertise | MySpace Shop ©2003-2005 MySpace.com All Rights Reserved. http://viewmorepics.myspace.com/index.cfm?fuseaction=viewImage&friendID=2023569&RequestId=141/2005 DOJ-OGR-00030853",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Myspace.com",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Page 2 of 2",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "About | FAQ | Terms | Privacy | Safety Tips | Contact Myspace | Promote! | Advertise | MySpace Shop",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "©2003-2005 MySpace.com All Rights Reserved.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "http://viewmorepics.myspace.com/index.cfm?fuseaction=viewImage&friendID=2023569&RequestId=141/2005",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00030853",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "MySpace.com",
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "2003",
+      "2005",
+      "11/14/2005"
+    ],
+    "reference_numbers": [
+      "2023569",
+      "DOJ-OGR-00030853"
+    ]
+  },
+  "additional_notes": "The document appears to be a footer section from a Myspace webpage, with a copyright notice and links to various Myspace pages. The URL at the bottom suggests that it is related to viewing images on Myspace. The 'DOJ-OGR-00030853' at the bottom right may indicate that this document was part of a collection or investigation by the Department of Justice."
+}

@@ -1,0 +1,76 @@
+{
+  "document_metadata": {
+    "page_number": "104",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "V'M BEACH POLICE DEPARTM PROPERTY RECEIPT DETECTIVE BUREAU PBPD Form #52 PROPERTY FOUND DECEASED (Probated) PERSONAL CONFISCATED DESTROY EVIDENCE TRIAL LABORATORY STOLEN/RECOVERED OTHER INCIDENT/CITATION NUMBER DATE/TIME RECOVERED PROPERTY NUMBER (Leave Blank) BIN NUMBER (Leave Blank) 05-2100 03/21/05 15-25 ADDRESS WHERE PROPERTY IMPOUNDED 11383 FERGINAI BLVD DISCOVERED BY /D.O.B. ADDRESS Street City Zip PHONE NUMBER FAGINA OWNER'S NAME /D.O.B. ADDRESS Street City Zip PHONE NUMBER 3/4/7 6/0/342-7712 SUSPECT'S NAME /D.O.B. ADDRESS Street City Zip PHONE NUMBER 1-2-83 ADD'T'NL SUSPECT/D.O.B. ADDRESS Street City Zip PHONE NUMBER 21-20-17 SPECIAL INSTRUCTIONS FOUND PROPERTY 90 DAYS CLAIM NOT CLAIM ITEM # QUANTITY VALUE DESCRIPTION 1 1 RIFLE - WIN - MODEL 1910 SERIAL # 638416 TOTAL PACKAGE WEIGHT I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer. SIGNATURE DATE SIGNATURE ID# UNIT RECEIVED BY REASON DATE/TIME RECEIVED 07/26/17 Page 104 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030904",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "V'M BEACH POLICE DEPARTM PROPERTY RECEIPT DETECTIVE BUREAU",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PBPD Form #52",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "05-2100 03/21/05 15-25 11383 FERGINAI BLVD FAGINA 3/4/7 6/0/342-7712 1-2-83 21-20-17",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TOTAL PACKAGE WEIGHT",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt.",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer.",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "07/26/17",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 104 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030904",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "FAGINA"
+    ],
+    "organizations": [
+      "V'M BEACH POLICE DEPARTM",
+      "DETECTIVE BUREAU"
+    ],
+    "locations": [
+      "FERGINAI BLVD"
+    ],
+    "dates": [
+      "03/21/05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "05-2100",
+      "15-25",
+      "17-295",
+      "DOJ-OGR-00030904"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the V'M Beach Police Department. It contains handwritten information about the property, including the incident/citation number, date/time recovered, property number, and address where the property was impounded. The document also includes the name and contact information of the owner and suspect. The property is described as a rifle with the serial number 638416."
+}

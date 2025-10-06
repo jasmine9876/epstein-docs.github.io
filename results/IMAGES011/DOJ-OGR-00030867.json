@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "2 of 6",
+    "document_number": "05-1024",
+    "date": "10-20-05",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "PBPD Form #52\nPA'LM BEACH POLICE DEPARTMENT\nPROPERTY RECEIPT\nSEARCH WARRANT RETURN\nDETECTIVE BUREAU\nPROPERTY\nFOUND\nDECEASED (Probated)\nPERSONAL\nCONFISCATED\nDESTROY\nEVIDENCE\nTRIAL\nLABORATORY\nSTOLEN/RECOVERED\nOTHER\nlab\nINCIDENT/CITATION NUMBER\n05.368\nDATE/TIME RECOVERED\n10-20-05\nPROPERTY NUMBER (Leave Blank)\n05-1024\nBIN NUMBER (Leave Blank)\nADDRESS WHERE PROPERTY IMPOUNDED\n358 EL-Brillo\nDISCOVERED BY /D.O.B.\nADDRESS\nStreet\nCity\nZip\nPHONE NUMBER\nOWNER / VICTIM'S NAME / D.O.B.\nADDRESS\nStreet\nCity\nZip\nPHONE NUMBER\nSUSPECT'S NAME /D.O.B.\n20-1-53\nFastein Jeff\n358 El Brillo\nADDITIONAL SUSPECT/D.O.B.\nADDRESS\nStreet\nCity\nZip\nPHONE NUMBER\nSPECIAL INSTRUCTIONS\nFOUND PROPERTY 90 DAYS\nCLAIM\nNOT CLAIM\nITEM#\nQUANTITY\nVALUE\nDESCRIPTION\nR.S#\n213\n2\nVHS tapes from credenza By Rd\n214\n2\nCD's marked Huga Briddy\nCedinza\n215\n3\nPhotos framed 'from Cabrera'\n216\n1\nmessage book 1st floor S/W corner (top)\n217\n1\nmessage book (from inside)\n218\n3\nCD's from desk\n219\n1\nDVD from desk\nItems # 16-19, 20, 21\n220\nunframed Photos from desk\nfrom 1st floor S.W.\n221\n2\nframed Photos from desk\n222\n2\nframed Photos from table in S/W corner office\n223\n3\nSoap on Rope\nNE Bedroom (whole room)\n224\n2\nTulip Torpedo in Brown box\n225\n2\nWax in Rope (Middle Bedroom)\n226\n1\nlarge framed Picture (from four into Pink Bedroom)\nTOTAL PACKAGE WEIGHT\nI hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt.\nI hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer.\nSIGNATURE\nDATE\nSIGNATURE\n7915 D2\nID#\nUNIT\nRECEIVED BY\nREASON\nDATE/TIME RECEIVED\n07/26/17\nPage 67 of 125\nPublic Records Request No.: 17-295\nDOJ-OGR-00030867",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PBPD Form #52\nPA'LM BEACH POLICE DEPARTMENT\nPROPERTY RECEIPT\nSEARCH WARRANT RETURN\nDETECTIVE BUREAU",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Fastein Jeff\n358 El Brillo",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SPECIAL INSTRUCTIONS\nFOUND PROPERTY 90 DAYS\nCLAIM\nNOT CLAIM",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "VHS tapes from credenza By Rd\nCD's marked Huga Briddy\nPhotos framed 'from Cabrera'\nmessage book 1st floor S/W corner (top)\nmessage book (from inside)\nCD's from desk\nDVD from desk\nunframed Photos from desk\nframed Photos from desk\nframed Photos from table in S/W corner office\nSoap on Rope\nTulip Torpedo in Brown box\nWax in Rope (Middle Bedroom)\nlarge framed Picture (from four into Pink Bedroom)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt.\nI hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer.",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "7915 D2",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Fastein Jeff"
+    ],
+    "organizations": [
+      "Palm Beach Police Department"
+    ],
+    "locations": [
+      "358 El-Brillo"
+    ],
+    "dates": [
+      "10-20-05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "05.368",
+      "05-1024",
+      "17-295",
+      "DOJ-OGR-00030867"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the Palm Beach Police Department, detailing items seized during a search warrant execution. The document contains handwritten notes and appears to be a scanned copy."
+}

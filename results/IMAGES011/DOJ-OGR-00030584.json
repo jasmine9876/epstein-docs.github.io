@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": "117",
+    "document_number": "DOJ-OGR-00030584",
+    "date": "07/26/17",
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Danielle 6462261463 Jeffrey E. Epstein 07/26/17 Page 117 DOJ-OGR-00030584",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "Danielle 6462261463",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Jeffrey E. Epstein",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 117",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00030584",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey E. Epstein",
+      "Danielle"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "6462261463",
+      "DOJ-OGR-00030584"
+    ]
+  },
+  "additional_notes": "The document appears to be a photocopy or scan with some degradation at the bottom edge. The handwritten text is likely a note added to the document."
+}

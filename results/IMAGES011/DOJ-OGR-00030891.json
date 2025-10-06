@@ -1,0 +1,67 @@
+{
+  "document_metadata": {
+    "page_number": "91",
+    "document_number": "PBPD Form #52",
+    "date": "04/13/05",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "PBPD Form #52\nM BEACH POLICE DEPARTME.\nPROPERTY RECEIPT\nDETECTIVE BUREAU\nPROPERTY\nFOUND\nDECEASED (Probated)\nPERSONAL\nCONFISCATED\nDESTROY\nEVIDENCE\nTRIAL\nLABORATORY\nSTOLEN/RECOVERED\nOTHER\nINCIDENT/CITATION NUMBER\nDATE/TIME RECOVERED\nPROPERTY NUMBER (Leave Blank)\nBIN NUMBER (Leave Blank)\n05 - 217\n0413/05 9:15\nC5-325\n128552\nADDRESS WHERE PROPERTY IMPOUNDED\nDISCOVERED BY / D.O.B.\nPAGAN 8059\nOWNER'S NAME / D.O.B.\nADDRESS\nStreet\nCity\nZip\nPHONE NUMBER\nADDRESS\nStreet\nCity\nZip\nPHONE NUMBER\nSUSPECT'S NAME / D.O.B.\n1.70.22\nF PTein, Jeff ... in\nADDRESS\nStreet\nCity\nZip\nPHONE NUMBER\nADDT'NL. SUSPECT / D.O.B.\nADDRESS\nStreet\nCity\nZip\nPHONE NUMBER\nSPECIAL INSTRUCTIONS\n04/13/05\nFOUND PROPERTY\n90 DAYS\nCLAIM\nNOT CLAIM\nITEM #\nQUANTITY\nVALUE\nDESCRIPTION\n1\n1\nwhite paper - (917) 4960606\n2\n1\n\"\n3\n1\n\"EVA'S LITTLE GIRL ON THE BOAT\"\n4\n1\n\"\n\"STEFANIE BYRNE\"\n5\n1\n\"\n6\n4\nTOTAL PACKAGE WEIGHT\nI hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt.\nI hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer.\nSIGNATURE\nDATE\nSIGNATURE\nID#\nUNIT\nRECEIVED BY\nREASON\nDATE/TIME RECEIVED\nP.B.\n6\nC\n0413/05\n6700\n07/26/17\nPage 91 of 125\nPublic Records Request No.: 17-295\nDOJ-OGR-00030891",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PBPD Form #52\nM BEACH POLICE DEPARTME.\nPROPERTY RECEIPT\nDETECTIVE BUREAU",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "PAGAN 8059\n1.70.22\nF PTein, Jeff ... in",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SPECIAL INSTRUCTIONS\nFOUND PROPERTY\n90 DAYS\nCLAIM\nNOT CLAIM",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "white paper - (917) 4960606\n\"EVA'S LITTLE GIRL ON THE BOAT\"\n\"STEFANIE BYRNE\"",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TOTAL PACKAGE WEIGHT\nI hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt.\nI hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer.",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "P.B.\n6\nC",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "PAGAN",
+      "F PTein, Jeff"
+    ],
+    "organizations": [
+      "M BEACH POLICE DEPARTME.",
+      "DETECTIVE BUREAU"
+    ],
+    "locations": [],
+    "dates": [
+      "04/13/05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "PBPD Form #52",
+      "05 - 217",
+      "C5-325",
+      "128552",
+      "17-295",
+      "DOJ-OGR-00030891"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the M Beach Police Department. It contains handwritten notes and appears to be related to a criminal investigation. Some information is redacted."
+}

@@ -1,0 +1,91 @@
+{
+  "document_metadata": {
+    "page_number": "97",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT DETECTIVE BUREAU PBPD Form #52 PROPERTY EVIDENCE FOUND DECEASED (Probated) PERSONAL CONFISCATED DESTROY TRIAL LABORATORY STOLEN/RECOVERED OTHER INCIDENT/CITATION NUMBER DATE/TIME RECOVERED PROPERTY NUMBER (Leave Blank) BIN NUMBER (Leave Blank) 05 366 10-5-05 1000 11 21472 ADDRESS WHERE PROPERTY IMPOUNDED 315 COUNTY ROAD PBVD DISCOVERED BY / D.O.B. ADDRESS Street City Zip PHONE NUMBER 12/1/1241 Ailey ADDRESS Street City Zip PHONE NUMBER OWNER'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER SUSPECT'S NAME / D.O.B. -TOSS 1555 Jellicol ADDRESS 1558 El Bamboo Street City Zip PHONE NUMBER ADDT'NL SUSPECT / D.O.B. ADDRESS Street City Zip PHONE NUMBER SPECIAL INSTRUCTIONS FOUND PROPERTY 90 DAYS CLAIM NOT CLAIM ITEM # QUANTITY VALUE DESCRIPTION 1 MISC PAPERWORK (Trial 10-5-05) TOTAL PACKAGE WEIGHT I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. SIGNATURE DATE I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer. SIGNATURE ID# UNIT RECEIVED BY REASON DATE/TIME RECEIVED 07/26/17 Page 97 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030897",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT DETECTIVE BUREAU",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PBPD Form #52",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "315 COUNTY ROAD PBVD",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "12/1/1241 Ailey",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "-TOSS 1555 Jellicol",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1558 El Bamboo",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1 MISC PAPERWORK (Trial 10-5-05)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TOTAL PACKAGE WEIGHT",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "D2",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 97 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030897",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ailey",
+      "TOSS",
+      "Jellicol"
+    ],
+    "organizations": [
+      "PALM BEACH POLICE DEPARTMENT",
+      "DETECTIVE BUREAU"
+    ],
+    "locations": [
+      "315 COUNTY ROAD",
+      "PBVD",
+      "1558 El Bamboo"
+    ],
+    "dates": [
+      "10-5-05",
+      "12/1/1241",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "05 366",
+      "11 21472",
+      "17-295",
+      "DOJ-OGR-00030897"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the Palm Beach Police Department. It contains handwritten information about the property, including the address where it was impounded, the person who discovered it, and the suspect. The document also includes a section for special instructions and a list of items with their quantity and value."
+}

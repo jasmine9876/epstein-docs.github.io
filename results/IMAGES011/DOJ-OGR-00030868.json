@@ -1,0 +1,84 @@
+{
+  "document_metadata": {
+    "page_number": "3 of 6",
+    "document_number": "PBPD Form #52",
+    "date": "10-20-05",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "PBPD Form #52\nPalm Beach Police Department\nProperty Receipt\nSearch Warrant Return\nDetective Bureau\nPage 3 of 6\n\nProperty Evidence Trial Laboratory Stolen/Recovered Other\nIncident/Citation Number Date/Time Recovered Property Number (Leave Blank) Bin Number (Leave Blank)\n05-368 10-20-05 05-10241\nAddress Where Property Impounded\n358 El Brillo\nDiscovered By/D.O.B. Address Street City Zip Phone Number\nOwner/Victim's Name/D.O.B. Address Street City Zip Phone Number\nSuspect's Name/D.O.B. of 20-53 Address Street City Zip Phone Number\nEpstein Jeff 358 El Brillo\nAdditional Suspect/D.O.B. Address Street City Zip Phone Number\nSpecial Instructions\nFound Property Claim Not Claim\n90 Days\n\nItem# Quantity Value Description\n27 1 NCV Shulman/Schrift, Alexander Hall, Master Bedroom Desk\n28 1 NCV Bottle of Joy Jelly, Master Bedroom Creamer & Master Bedroom Pumts\n29 3 NCV Videotapes 1/2, Sexincity, Latin Lairine, Ilove Lesbians Four, Bedroom\n30 6 NCV Framed Photos from Men's Bathroom - Master Bathroom\n31 1 NCV Green Massage Table, Men's Bathroom - Master Bedroom Testing\n32 1 NCV Thrift Rental Agreement from Chekita Suburban (Copied)\n33 1 NCV Note from Johanna from Chekita Suburban\n34 NCV 11 CD's from office of kitchen\n35 6 Zip CD's from Bookcase Return\n36 2 8 mm Video tapes from Bookcase Return\n37 4 Compact flash cards from Bookcase Return\n38 1 Flash card from Camera on bookcase - Return to Owner\n39 3 Zip CD's from Bookcase Return\n40 30 CD's from Bookcase (items 35-40 from Guest house Return)\nTotal Package Weight\n\nI hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt.\nI hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer.\nSignature Date Signature ID# Unit\nReceived By Reason Date/Time Received\n\n07/26/17 Page 68 of 125 Public Records Request No.: 17-295\nDOJ-OGR-00030868",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PBPD Form #52\nPalm Beach Police Department\nProperty Receipt\nSearch Warrant Return\nDetective Bureau",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "05-368\n10-20-05\n05-10241\n358 El Brillo\nEpstein Jeff\n358 El Brillo",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Item# Quantity Value Description",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "27 1 NCV Shulman/Schrift, Alexander Hall, Master Bedroom Desk\n28 1 NCV Bottle of Joy Jelly, Master Bedroom Creamer & Master Bedroom Pumts\n29 3 NCV Videotapes 1/2, Sexincity, Latin Lairine, Ilove Lesbians Four, Bedroom\n30 6 NCV Framed Photos from Men's Bathroom - Master Bathroom\n31 1 NCV Green Massage Table, Men's Bathroom - Master Bedroom Testing\n32 1 NCV Thrift Rental Agreement from Chekita Suburban (Copied)\n33 1 NCV Note from Johanna from Chekita Suburban\n34 NCV 11 CD's from office of kitchen\n35 6 Zip CD's from Bookcase Return\n36 2 8 mm Video tapes from Bookcase Return\n37 4 Compact flash cards from Bookcase Return\n38 1 Flash card from Camera on bookcase - Return to Owner\n39 3 Zip CD's from Bookcase Return\n40 30 CD's from Bookcase (items 35-40 from Guest house Return)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt.\nI hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer.",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "07/26/17",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 68 of 125 Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00030868",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Alexander Hall",
+      "Jeff Epstein",
+      "Johanna"
+    ],
+    "organizations": [
+      "Palm Beach Police Department",
+      "Chekita Suburban"
+    ],
+    "locations": [
+      "Palm Beach",
+      "358 El Brillo",
+      "Master Bedroom",
+      "Men's Bathroom",
+      "Guest house",
+      "Bookcase",
+      "Office of kitchen"
+    ],
+    "dates": [
+      "10-20-05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "05-368",
+      "05-10241",
+      "17-295",
+      "DOJ-OGR-00030868"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the Palm Beach Police Department, detailing items seized during a search warrant execution. The document contains handwritten notes and appears to be a scanned copy."
+}

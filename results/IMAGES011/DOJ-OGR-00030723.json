@@ -1,0 +1,75 @@
+{
+  "document_metadata": {
+    "page_number": "5",
+    "document_number": "153497",
+    "date": "12/14/2005",
+    "document_type": "SUBSCRIBER INFORMATION",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "153497\n12/14/2005\nSUBSCRIBER INFORMATION cingular\n0043811863 7.5\nFinancially Liable Party\nName: JEFFREY E EPSTEIN\nCredit Address: 457 MADISON AVE, NEW YORK NY 10022-6843\nCustomer Since: 04/03/2004\nPhoto ID Type: \nPhoto ID Number: \nPhoto ID State: \nDOB: 05/05/1950\nSSN: --\nContact Name: SARAH KELLEN\nContact Home Phone: (212) 750-9895\nContact Work Phone: (212) 750-9895\nContact Home Email: \nContact Work Email: \nBilling Party\nAccount Number: 0043811863\nName: JEFFREY E EPSTEIN\nBilling Address: 457 MADISON AVE, NEW YORK NY 10022-6843\nAccount Status: Active\nBilling Cycle: 2\nUser Information\nMSISDN: (917) 855-3363\nMSISDN Active: 04/03/2004 - Current\nIMSI: 310380040129624\nName: SARAH KELLEN\nUser Address: 457 MADISON AVE, NEW YORK NY 10022-6843\nIMEI/ESN: 351985009251058/\nService Start Date: 04/03/2004\nDealer Info: AINBC Lakeside Center-CC\nPayment Type: PostPaid\nContact Name: SARAH KELLEN\nContact Home Phone: (212) 750-9895\nContact Work Phone: (212) 750-9895\nContact Home Email: \nContact Work Email: \nStatus Change History\nStatus Change Reason: 2G 3G Migration\nStatus Change Date: 04/03/2004\nMAT PROPRIETARY AND CONFIDENTIAL Page 1\nNot for use or disclosure outside Cingular Wireless and its Affiliates except under written agreement.\n07/26/17 Page 5 of 82 Public Records Request No.: 17-295\nDOJ-OGR-00030723",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "153497\n12/14/2005\nSUBSCRIBER INFORMATION cingular",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Financially Liable Party\nName: JEFFREY E EPSTEIN\nCredit Address: 457 MADISON AVE, NEW YORK NY 10022-6843\nCustomer Since: 04/03/2004\nPhoto ID Type: \nPhoto ID Number: \nPhoto ID State: \nDOB: 05/05/1950\nSSN: --\nContact Name: SARAH KELLEN\nContact Home Phone: (212) 750-9895\nContact Work Phone: (212) 750-9895\nContact Home Email: \nContact Work Email: ",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Billing Party\nAccount Number: 0043811863\nName: JEFFREY E EPSTEIN\nBilling Address: 457 MADISON AVE, NEW YORK NY 10022-6843\nAccount Status: Active\nBilling Cycle: 2",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "User Information\nMSISDN: (917) 855-3363\nMSISDN Active: 04/03/2004 - Current\nIMSI: 310380040129624\nName: SARAH KELLEN\nUser Address: 457 MADISON AVE, NEW YORK NY 10022-6843\nIMEI/ESN: 351985009251058/\nService Start Date: 04/03/2004\nDealer Info: AINBC Lakeside Center-CC\nPayment Type: PostPaid\nContact Name: SARAH KELLEN\nContact Home Phone: (212) 750-9895\nContact Work Phone: (212) 750-9895\nContact Home Email: \nContact Work Email: ",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Status Change History\nStatus Change Reason: 2G 3G Migration\nStatus Change Date: 04/03/2004",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "MAT PROPRIETARY AND CONFIDENTIAL Page 1\nNot for use or disclosure outside Cingular Wireless and its Affiliates except under written agreement.",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 5 of 82 Public Records Request No.: 17-295\nDOJ-OGR-00030723",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY E EPSTEIN",
+      "SARAH KELLEN"
+    ],
+    "organizations": [
+      "Cingular Wireless",
+      "AINBC Lakeside Center-CC"
+    ],
+    "locations": [
+      "NEW YORK",
+      "MADISON AVE"
+    ],
+    "dates": [
+      "12/14/2005",
+      "04/03/2004",
+      "05/05/1950",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "153497",
+      "0043811863",
+      "17-295",
+      "DOJ-OGR-00030723"
+    ]
+  },
+  "additional_notes": "The document appears to be a subscriber information sheet from Cingular Wireless, containing details about the account holder JEFFREY E EPSTEIN and the user SARAH KELLEN. The document is marked as 'PROPRIETARY AND CONFIDENTIAL' and has a public records request number."
+}

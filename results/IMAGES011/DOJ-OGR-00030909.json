@@ -1,0 +1,91 @@
+{
+  "document_metadata": {
+    "page_number": "109",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT DETECTIVE BUREAU PBPD Form #52 PROPERTY FOUND DECEASED (Probated) PERSONAL CONFISCATED DESTROY EVIDENCE TRIAL LABORATORY STOLEN/RECOVERED OTHER INCIDENT/CITATION NUMBER 05 368 DATE/TIME RECOVERED 010406 1:20pm PROPERTY NUMBER (Leave Blank) 06 - 21 BIN NUMBER (Leave Blank) 1251011 ADDRESS WHERE PROPERTY IMPOUNDED 345 S COUNTRY ROAD PALM BEACH, FL DISCOVERED BY D.O.B. DET. RECAREY ADDRESS Street City Zip PHONE NUMBER OWNER'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER SUSPECT'S NAME / D.O.B. D1 2013 COSTIEN J715 ADDRESS 3585 EL LIDO PHONE NUMBER ADDT'NL. SUSPECT/D.O.B. ADDRESS Street City Zip PHONE NUMBER SPECIAL INSTRUCTIONS FOUND PROPERTY 90 DAYS CLAIM NOT CLAIM ITEM # QUANTITY VALUE DESCRIPTION 1 1 SONY MICROCASSETTE (TAPED) STATEMENT ALFREDO VORIGUEZ DIB (4-12.5V) TOTAL PACKAGE WEIGHT I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer. SIGNATURE DATE SIGNATURE ID# UNIT RECEIVED BY REASON DATE/TIME RECEIVED 07/26/17 Page 109 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030909",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT DETECTIVE BUREAU",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PBPD Form #52",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "DET. RECAREY",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "D1 2013 COSTIEN J715",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "SONY MICROCASSETTE (TAPED) STATEMENT ALFREDO VORIGUEZ DIB (4-12.5V)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TOTAL PACKAGE WEIGHT",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7915 V3",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page 109 of 125",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00030909",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "DET. RECAREY",
+      "ALFREDO VORIGUEZ",
+      "COSTIEN J715"
+    ],
+    "organizations": [
+      "PALM BEACH POLICE DEPARTMENT",
+      "DETECTIVE BUREAU"
+    ],
+    "locations": [
+      "PALM BEACH",
+      "345 S COUNTRY ROAD",
+      "3585 EL LIDO"
+    ],
+    "dates": [
+      "01/04/06",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "05 368",
+      "06 - 21",
+      "1251011",
+      "17-295",
+      "DOJ-OGR-00030909"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the Palm Beach Police Department. It contains handwritten information about the property recovered, including a Sony microcassette with a statement from Alfredo Voriguez. The document is part of a larger case file, as indicated by the page number (109 of 125) and the public records request number (17-295)."
+}

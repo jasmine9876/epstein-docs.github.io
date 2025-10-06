@@ -1,0 +1,39 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00030599",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "49 207 93300 8200 GHISLAINE MAXWELL",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "49 207 93300 8200",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "GHISLAINE MAXWELL",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "GHISLAINE MAXWELL"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "49",
+      "207",
+      "93300",
+      "8200",
+      "DOJ-OGR-00030599"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned image with a black background and a white note containing handwritten numbers and a printed name. The image quality is clear, but the context of the document is unclear."
+}

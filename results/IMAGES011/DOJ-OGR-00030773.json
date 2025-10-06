@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": "55",
+    "document_number": "153497",
+    "date": "12/14/2005",
+    "document_type": "Billed Usage 3G",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "153497 12/14/2005 BILLED USAGE 3G cingular Run Date: 12/19/05 Run Time: 11:43:35 ATlys GPRS Usage For (917)855-3363 Account Number 0043811863 Bill Cycle: 2 Item Date Qty Used Charge Description Charge 1 09/22/05 57 KB NO DETAIL $0.00 2 10/01/05 1 KB INCLUDED IN PLAN MB $0.00 3 10/01/05 105 KB INCLUDED IN PLAN MB $0.00 MAT PROPRIETARY AND CONFIDENTIAL Page 50 Not for use or disclosure outside Cingular Wireless and its Affiliates except under written agreement. 07/26/17 Page 55 of 82 Public Records Request No.: 17-295 DOJ-OGR-00030773",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "153497 12/14/2005 BILLED USAGE 3G cingular",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Run Date: 12/19/05 Run Time: 11:43:35 ATlys GPRS Usage For (917)855-3363 Account Number 0043811863 Bill Cycle: 2",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Item Date Qty Used Charge Description Charge 1 09/22/05 57 KB NO DETAIL $0.00 2 10/01/05 1 KB INCLUDED IN PLAN MB $0.00 3 10/01/05 105 KB INCLUDED IN PLAN MB $0.00",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "MAT PROPRIETARY AND CONFIDENTIAL Page 50 Not for use or disclosure outside Cingular Wireless and its Affiliates except under written agreement.",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 55 of 82 Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00030773",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Cingular Wireless"
+    ],
+    "locations": [],
+    "dates": [
+      "12/14/2005",
+      "12/19/05",
+      "09/22/05",
+      "10/01/05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "153497",
+      "0043811863",
+      "17-295",
+      "DOJ-OGR-00030773"
+    ]
+  },
+  "additional_notes": "The document appears to be a billed usage report for a Cingular Wireless account. It contains usage details and charges for a specific period. The document is marked as 'PROPRIETARY AND CONFIDENTIAL' and has a public records request number."
+}

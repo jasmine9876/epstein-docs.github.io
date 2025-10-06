@@ -1,0 +1,91 @@
+{
+  "document_metadata": {
+    "page_number": "78",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT DETECTIVE BUREAU PBPD Form #52 PROPERTY EVIDENCE FOUND DECEASED (Probated) PERSONAL CONFISCATED DESTROY TRIAL LABORATORY STOLEN/RECOVERED OTHER INCIDENT/CITATION NUMBER DATE/TIME RECOVERED PROPERTY NUMBER (Leave Blank) BIN NUMBER (Leave Blank) 05 368 10/4/05 1617 15 1277 3 4191 ADDRESS WHERE PROPERTY IMPOUNDED 2265 S. COUNTY ROAD Palm Beach FL DISCOVERED BY / D.O.B. ART KENNEY PBPD Street City Zip PHONE NUMBER OWNER'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER SUSPECT'S NAME / D.O.B. 1-1-2022 ERSIN JEFF 1-1-2022 BALLS City Zip PHONE NUMBER ADDT'NL SUSPECT / D.O.B. ADDRESS Street City Zip PHONE NUMBER SPECIAL INSTRUCTIONS FOUND PROPERTY 90 DAYS CLAIM NOT CLAIM ITEM # QUANTITY VALUE DESCRIPTION 1 1 SONY MICROCASSETTE STATEMENT F... 1-1-19- 63057 2 1 SONY MICROCASSETTE ... VOICE MAIL 3 1 SONY MICROCASSETTE VOICE MAIL MESSAGE (WRITTEN) 4 1 SONY MICROCASSETTE FOLLOW UP PHONE CALL ... 7-28-68 TOTAL PACKAGE WEIGHT I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer. SIGNATURE DATE SIGNATURE ID# UNIT RECEIVED BY REASON DATE/TIME RECEIVED 07/26/17 Page 78 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030878",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT DETECTIVE BUREAU",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PBPD Form #52",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "ART KENNEY PBPD",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "ERSIN JEFF 1-1-2022",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SPECIAL INSTRUCTIONS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "SONY MICROCASSETTE STATEMENT F... 1-1-19- 63057",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TOTAL PACKAGE WEIGHT",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "796 D2",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00030878",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "ART KENNEY",
+      "ERSIN JEFF"
+    ],
+    "organizations": [
+      "PALM BEACH POLICE DEPARTMENT",
+      "PBPD"
+    ],
+    "locations": [
+      "Palm Beach",
+      "FL"
+    ],
+    "dates": [
+      "10/4/05",
+      "1-1-2022",
+      "07/26/17",
+      "7-28-68"
+    ],
+    "reference_numbers": [
+      "05 368",
+      "15 1277",
+      "3 4191",
+      "17-295",
+      "DOJ-OGR-00030878"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the Palm Beach Police Department. It contains handwritten information about the property, including the items seized and the suspect's name. The document is dated 07/26/17 and is page 78 of 125."
+}

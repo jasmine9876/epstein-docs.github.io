@@ -1,0 +1,72 @@
+{
+  "document_metadata": {
+    "page_number": "96",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT DETECTIVE BUREAU PBPD Form #52 PROPERTY FOUND DECEASED (Probated) PERSONAL CONFISCATED DESTROY EVIDENCE TRIAL LABORATORY STOLEN/RECOVERED OTHER INCIDENT/CITATION NUMBER DATE/TIME RECOVERED PROPERTY NUMBER (Leave Blank) BIN NUMBER (Leave Blank) 092305 07/25/15 1030 05-814K 191141 ADDRESS WHERE PROPERTY IMPOUNDED DISCOVERED BY / D.O.B. ADDRESS Street City Zip PHONE NUMBER K.F. 06/12/1978 OWNER'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER SUSPECT'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER EPPSTEIN 09/09/1978 ADDT'NL SUSPECT/D.O.B. ADDRESS Street City Zip PHONE NUMBER SPECIAL INSTRUCTIONS FOUND PROPERTY 90 DAYS CLAIM NOT CLAIM ITEM # QUANTITY VALUE DESCRIPTION 1 MACE VAPORWALE T/GAU 092305 TOTAL PACKAGE WEIGHT I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer. SIGNATURE DATE SIGNATURE ID# UNIT RECEIVED BY REASON DATE/TIME RECEIVED 07/25/15 1630 07/26/17 Page 96 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030896",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT DETECTIVE BUREAU",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PBPD Form #52",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "092305 07/25/15 1030 05-814K 191141",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "K.F. 06/12/1978 EPPSTEIN 09/09/1978",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "MACE VAPORWALE T/GAU 092305",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "07/25/15 1630",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page 96 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030896",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "K.F.",
+      "EPPSTEIN"
+    ],
+    "organizations": [
+      "PALM BEACH POLICE DEPARTMENT"
+    ],
+    "locations": [],
+    "dates": [
+      "07/25/15",
+      "07/26/17",
+      "06/12/1978",
+      "09/09/1978"
+    ],
+    "reference_numbers": [
+      "092305",
+      "05-814K",
+      "191141",
+      "17-295",
+      "DOJ-OGR-00030896"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the Palm Beach Police Department. It contains handwritten information about the property, the person it was discovered by, and the suspect. The document is dated 07/26/17 and is page 96 of 125."
+}

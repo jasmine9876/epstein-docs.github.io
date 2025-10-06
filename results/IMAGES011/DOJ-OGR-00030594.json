@@ -1,0 +1,75 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "1184",
+    "date": "8/20/05",
+    "document_type": "Important Message",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR J.E. DATE 8/20/05 TIME 8:45 A.M. M Tony OF PHONE/MOBILE 561/790-5475 TELEPHONED PLEASE CALL X CAME TO SEE YOU WANTS TO SEE YOU RETURNED YOUR CALL WILL CALL AGAIN RUSH SPECIAL ATTENTION MESSAGE SIGNED J.",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "J.E.",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "8/20/05",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "8:45 A.M.",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Tony",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "561/790-5475",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TELEPHONED PLEASE CALL CAME TO SEE YOU WANTS TO SEE YOU RETURNED YOUR CALL WILL CALL AGAIN RUSH SPECIAL ATTENTION",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "X",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "J.",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "J.E.",
+      "Tony",
+      "J."
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "8/20/05"
+    ],
+    "reference_numbers": [
+      "561/790-5475",
+      "1184"
+    ]
+  },
+  "additional_notes": "The document is a photocopy or scan of an original message slip. The image quality is poor, with visible speckles and a bright spot at the bottom. The document has been annotated with handwritten text."
+}

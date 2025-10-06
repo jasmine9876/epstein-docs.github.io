@@ -1,0 +1,76 @@
+{
+  "document_metadata": {
+    "page_number": "115",
+    "document_number": "PBPD Form #52",
+    "date": "07/26/17",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "PALM BEACH POLICE DEPARTMENT DETECTIVE BUREAU PROPERTY RECEIPT PROPERTY FOUND DECEASED (Probated) PERSONAL CONFISCATED DESTROY EVIDENCE TRIAL LABORATORY STOLEN/RECOVERED OTHER INCIDENT/CITATION NUMBER DATE/TIME RECOVERED PROPERTY NUMBER (Leave Blank) BIN NUMBER (Leave Blank) 15-0027 06/06/15 1552 ADDRESS WHERE PROPERTY IMPOUNDED DISCOVERED BY / D.O.B. ADDRESS Street City Zip PHONE NUMBER OWNER'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER SUSPECT'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER ADD'TNL. SUSPECT/D.O.B. ADDRESS Street City Zip PHONE NUMBER SPECIAL INSTRUCTIONS FOUND PROPERTY 90 DAYS CLAIM NOT CLAIM ITEM # QUANTITY VALUE DESCRIPTION 15 1 Microfiber Turtle gloves 16 1 brown quilted Rx 17 1 white pants - Chinese 18 1 19 1 white sweater - Juicy 20 1 21 1 (117) 512- 22 1 23 1 Blue t- shirt TOTAL PACKAGE WEIGHT I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer. SIGNATURE DATE SIGNATURE ID# UNIT RECEIVED BY REASON DATE/TIME RECEIVED 155328 release 06/06/15 0700 07/26/17 Page 115 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030915",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PALM BEACH POLICE DEPARTMENT DETECTIVE BUREAU PROPERTY RECEIPT",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PROPERTY FOUND DECEASED (Probated) PERSONAL CONFISCATED DESTROY EVIDENCE TRIAL LABORATORY STOLEN/RECOVERED OTHER",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "15-0027 06/06/15 1552",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "INCIDENT/CITATION NUMBER DATE/TIME RECOVERED PROPERTY NUMBER (Leave Blank) BIN NUMBER (Leave Blank)",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Microfiber Turtle gloves brown quilted Rx white pants - Chinese white sweater - Juicy (117) 512- Blue t- shirt",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SPECIAL INSTRUCTIONS FOUND PROPERTY 90 DAYS CLAIM NOT CLAIM",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TOTAL PACKAGE WEIGHT",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer.",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "155328 release 06/06/15 0700",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "PALM BEACH POLICE DEPARTMENT"
+    ],
+    "locations": [],
+    "dates": [
+      "06/06/15",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "15-0027",
+      "1552",
+      "17-295",
+      "DOJ-OGR-00030915"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the Palm Beach Police Department. It contains handwritten information about the items seized, including clothing and gloves. The document is dated 07/26/17 and is page 115 of 125."
+}

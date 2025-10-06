@@ -1,0 +1,98 @@
+{
+  "document_metadata": {
+    "page_number": "102",
+    "document_number": "PBPD Form #52",
+    "date": "07/26/17",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "PALM BEACH POLICE DEPARTMENT DETECTIVE BUREAU PROPERTY RECEIPT PBPD Form #52 PROPERTY FOUND DECEASED (Probated) PERSONAL CONFISCATED DESTROY EVIDENCE TRIAL LABORATORY STOLEN/RECOVERED OTHER INCIDENT/CITATION NUMBER DATE/TIME RECOVERED PROPERTY NUMBER (Leave Blank) BIN NUMBER (Leave Blank) 05-368 10-03-05/0515 05-9444 129542 #2 ADDRESS WHERE PROPERTY IMPOUNDED 350 EL BRILLWAY PALM BEACH, FL 33480 DISCOVERED BY/D.O.B. ADDRESS 1. KRAUEL 8266 POB PHONE NUMBER 878-4474 OWNER'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER Street City Zip Street City Zip PHONE NUMBER SUSPECT'S NAME /D.O.B.012057 ADDRESS 330 EL Brilloway FC 33480 PHONE NUMBER ADDITIONAL SUSPECT/D.O.B. ADDRESS Street City Zip PHONE NUMBER SPECIAL INSTRUCTIONS FOUND PROPERTY 90 DAYS CLAIM NOT CLAIM ITEM # QUANTITY VALUE DESCRIPTION 1 1 clear piece of plastic w/ rounded curves 2 2 many pieces of documentation removed from trash at 330 EL Brilloway TOTAL PACKAGE WEIGHT I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. SIGNATURE DATE I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer. SIGNATURE ID# UNIT RECEIVED BY REASON DATE/TIME RECEIVED 07/26/17 Page 102 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030902",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PALM BEACH POLICE DEPARTMENT DETECTIVE BUREAU PROPERTY RECEIPT",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PBPD Form #52",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "05-368 10-03-05/0515 05-9444 129542 #2",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "350 EL BRILLWAY PALM BEACH, FL 33480",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1. KRAUEL 8266 POB 878-4474",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "FREDRIN JEFFREY 012057 330 EL Brilloway FC 33480",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "clear piece of plastic w/ rounded curves many pieces of documentation removed from trash at 330 EL Brilloway",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "fn1 10/3/05 fhh V2",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/16/05",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page 102 of 125",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00030902",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "J. KRAUEL",
+      "FREDRIN JEFFREY"
+    ],
+    "organizations": [
+      "PALM BEACH POLICE DEPARTMENT"
+    ],
+    "locations": [
+      "350 EL BRILLWAY PALM BEACH, FL 33480",
+      "330 EL Brilloway FC 33480"
+    ],
+    "dates": [
+      "10-03-05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "05-368",
+      "05-9444",
+      "129542 #2",
+      "17-295",
+      "DOJ-OGR-00030902"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the Palm Beach Police Department. It contains handwritten information about the property impounded, including the address, suspect's name, and description of the items. The document is signed by the officer and has a date of 07/26/17."
+}

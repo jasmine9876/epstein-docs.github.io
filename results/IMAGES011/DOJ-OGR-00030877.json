@@ -1,0 +1,109 @@
+{
+  "document_metadata": {
+    "page_number": "77",
+    "document_number": "PBPD Form #52",
+    "date": "07/26/17",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT DETECTIVE BUREAU PBPD Form #52 PROPERTY EVIDENCE FOUND TRIAL DECEASED (Probated) PERSONAL CONFISCATED DESTROY LABORATORY STOLEN/RECOVERED OTHER INCIDENT/CITATION NUMBER 05-368 DATE/TIME RECOVERED 10-05-05 17:03 PROPERTY NUMBER (Leave Blank) BIN NUMBER (Leave Blank) ADDRESS WHERE PROPERTY IMPOUNDED 345 S COUNTY ROAD PB DISCOVERED BY / D.O.B. W.T. KERWIN ADDRESS 2911 Street City Zip PHONE NUMBER OWNER'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER SUSPECT'S NAME / D.O.B. EVAN N. JEFF ADDRESS 358 EL RIO Street City Zip PHONE NUMBER ADD'L. SUSPECT / D.O.B. ADDRESS Street City Zip PHONE NUMBER SPECIAL INSTRUCTIONS VERI COM FOUND PROPERTY 90 DAYS CLAIM NOT CLAIM ITEM # QUANTITY VALUE DESCRIPTION 1 1 SONY MICROCASSETTE S/N 2887 2 1 SONY MICROCASSETTE S/N 358 TOTAL PACKAGE WEIGHT I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer. SIGNATURE DATE SIGNATURE ID# UNIT RECEIVED BY REASON DATE/TIME RECEIVED 794 D2 07/26/17 Page 77 of 125 Public Records Request No. 17-295 DOJ-OGR-00030877",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT DETECTIVE BUREAU",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PBPD Form #52",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "05-368",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "10-05-05 17:03",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "345 S COUNTY ROAD PB",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "W.T. KERWIN",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "2911",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "EVAN N. JEFF",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "358 EL RIO",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "VERI COM",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "SONY MICROCASSETTE S/N 2887",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "SONY MICROCASSETTE S/N 358",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "794 D2",
+      "position": "bottom"
+    },
+    {
+      "type": "stamp",
+      "content": "",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "W.T. KERWIN",
+      "EVAN N. JEFF"
+    ],
+    "organizations": [
+      "PALM BEACH POLICE DEPARTMENT"
+    ],
+    "locations": [
+      "345 S COUNTY ROAD PB",
+      "2911",
+      "358 EL RIO"
+    ],
+    "dates": [
+      "10-05-05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "05-368",
+      "17-295",
+      "DOJ-OGR-00030877",
+      "2887",
+      "358"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the Palm Beach Police Department. It contains handwritten information about the property impounded, including the incident/citation number, date/time recovered, address where property impounded, and the suspect's name. The document also includes a section for special instructions and a list of items impounded. The document is stamped and signed by a police officer."
+}

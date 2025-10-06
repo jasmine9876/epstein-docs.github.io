@@ -1,0 +1,67 @@
+{
+  "document_metadata": {
+    "page_number": "98",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT PBPD Form #52 PROPERTY EVIDENCE FOUND DECEASED (Probated) PERSONAL CONFISCATED DESTROY TRIAL LABORATORY STOLEN/RECOVERED OTHER INCIDENT/CITATION NUMBER DATE/TIME RECOVERED PROPERTY NUMBER (Leave Blank) BIN NUMBER (Leave Blank) 201368 1/1/1 ADDRESS WHERE PROPERTY IMPOUNDED DISCOVERED BY /D.O.B. ADDRESS Street City Zip PHONE NUMBER 345 S. County Rd Palm Beach 06/27/77 Palm Beach Police OWNER'S NAME /D.O.B. ADDRESS Street City Zip PHONE NUMBER SUSPECT'S NAME /D.O.B. ADDRESS Street City Zip PHONE NUMBER Jeffrey Kenneth Skilling 1 Frill St N/A ADDT'NL. SUSPECT/D.O.B. ADDRESS Street City Zip PHONE NUMBER SPECIAL INSTRUCTIONS FOUND PROPERTY 90 DAYS CLAIM NOT CLAIM ITEM # QUANTITY VALUE DESCRIPTION 1 1 MAXELL VHS TAPE OF SURVEILLANCE April 1, 2000 4 2 1 VHS TAPE B 3 1 VHS 03-03-05 4 1 VHS 03-03-05 5 1 VHS 03-03-05 6 1 VHS 03-03-05 7 1 VHS 06-21/22-05 TOTAL PACKAGE WEIGHT I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer. SIGNATURE DATE SIGNATURE ID# UNIT RECEIVED BY REASON DATE/TIME RECEIVED 07/26/17 Page 98 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030898",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffrey Kenneth Skilling",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TOTAL PACKAGE WEIGHT",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "MAXELL VHS TAPE OF SURVEILLANCE",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SIGNATURE DATE SIGNATURE ID# UNIT",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "06/27/77",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Kenneth Skilling"
+    ],
+    "organizations": [
+      "Palm Beach Police Department"
+    ],
+    "locations": [
+      "Palm Beach"
+    ],
+    "dates": [
+      "1/1/1",
+      "07/26/17",
+      "03-03-05",
+      "06-21/22-05",
+      "April 1, 2000"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "201368",
+      "DOJ-OGR-00030898"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the Palm Beach Police Department. It contains handwritten information about the property impounded, including a VHS tape labeled 'MAXELL VHS TAPE OF SURVEILLANCE'. The document is dated 07/26/17 and is page 98 of 125."
+}

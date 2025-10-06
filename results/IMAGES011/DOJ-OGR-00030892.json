@@ -1,0 +1,89 @@
+{
+  "document_metadata": {
+    "page_number": "92",
+    "document_number": "PBPD Form #52",
+    "date": "07/26/17",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "LM BEACH POLICE DEPARTMENT PROPERTY RECEIPT DETECTIVE BUREAU PBPD Form #52 PROPERTY FOUND DECEASED (Probated) PERSONAL CONFISCATED DESTROY EVIDENCE TRIAL LABORATORY STOLEN/RECOVERED OTHER INCIDENT/CITATION NUMBER DATE/TIME RECOVERED PROPERTY NUMBER (Leave Blank) BIN NUMBER (Leave Blank) 01/26/17 2am A5-6666 129521 ADDRESS WHERE PROPERTY IMPOUNDED 357 E. DR ML 32811 DISCOVERED BY /D.O.B. ADDRESS Street City Zip PHONE NUMBER RALPH 6/5/51 OWNER'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER SUSPECT'S NAME /D.O.B. ADDRESS Street City Zip PHONE NUMBER 1/5/1/01 ADDITIONAL SUSPECT /D.O.B. ADDRESS Street City Zip PHONE NUMBER SPECIAL INSTRUCTIONS hold, Do Not Destroy - contact Det PACAN FOUND PROPERTY 90 DAYS CLAIM NOT CLAIM ITEM # QUANTITY VALUE DESCRIPTION 1 5 RAGS w/music paraphernalia TOTAL PACKAGE WEIGHT I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer. SIGNATURE DATE SIGNATURE ID# UNIT RECEIVED BY REASON DATE/TIME RECEIVED 07/26/17 Page 92 of 125 Public Records Request No: 17-295 DOJ-OGR-00030892",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "LM BEACH POLICE DEPARTMENT PROPERTY RECEIPT DETECTIVE BUREAU",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PBPD Form #52",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "A PROPERTY FOUND DECEASED (Probated) PERSONAL CONFISCATED DESTROY EVIDENCE TRIAL LABORATORY STOLEN/RECOVERED OTHER",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "01/26/17 2am A5-6666 129521",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "357 E. DR ML 32811",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "RALPH 6/5/51",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1/5/1/01",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "hold, Do Not Destroy - contact Det PACAN",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1 5 RAGS w/music paraphernalia",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "07/26/17",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "RALPH",
+      "PACAN"
+    ],
+    "organizations": [
+      "LM BEACH POLICE DEPARTMENT",
+      "DETECTIVE BUREAU"
+    ],
+    "locations": [
+      "357 E. DR ML 32811"
+    ],
+    "dates": [
+      "01/26/17",
+      "07/26/17",
+      "6/5/51",
+      "1/5/1/01"
+    ],
+    "reference_numbers": [
+      "A5-6666",
+      "129521",
+      "17-295",
+      "DOJ-OGR-00030892"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the LM Beach Police Department. It contains handwritten information about the property, including the date and time it was recovered, the address where it was impounded, and the description of the property. The document also includes the signature of the person who received the property and the date it was received."
+}

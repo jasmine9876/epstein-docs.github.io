@@ -1,0 +1,87 @@
+{
+  "document_metadata": {
+    "page_number": "88",
+    "document_number": "PBPD Form #52",
+    "date": "10/12/17",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT DETECTIVE BUREAU PROPERTY EVIDENCE INCIDENT/CITATION NUMBER 2015-006398 DATE/TIME RECOVERED 10/12/17 0170 PROPERTY NUMBER (Leave Blank) 05-7712 BIN NUMBER (Leave Blank) 122741 ADDRESS WHERE PROPERTY IMPOUNDED 5614 COUNCIL RD WPB 33407 DISCOVERED BY / D.O.B. Jim 1st Calkins ADDRESS 1234 Street WPB City Zip PHONE NUMBER OWNER'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER SUSPECT'S NAME / D.O.B. EASTLIN JEFF ADDRESS 358 El Beile PB City Zip PHONE NUMBER ADDT'NL SUSPECT / D.O.B. ADDRESS Street City Zip PHONE NUMBER SPECIAL INSTRUCTIONS PLEASE COPY FOUND PROPERTY 90 DAYS CLAIM NOT CLAIM ITEM # QUANTITY VALUE DESCRIPTION 1 1 SONY MICROCASSETTES TAPE Deck 12 ostb 2 1 SONY MICROCASSETTE KATHI LAUREN MURPHY DOS 6/1/86 TOTAL PACKAGE WEIGHT I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer. SIGNATURE DATE SIGNATURE ID# UNIT RECEIVED BY REASON DATE/TIME RECEIVED 07/26/17 Page 88 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030888",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "2015-006398 10/12/17 0170 05-7712 122741",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jim 1st Calkins 1234 Street WPB",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "EASTLIN JEFF 358 El Beile PB",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "PLEASE COPY",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1 SONY MICROCASSETTES TAPE Deck 12 ostb 2 1 SONY MICROCASSETTE KATHI LAUREN MURPHY DOS 6/1/86",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt.",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer.",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "THIS DATE 10/12/17",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jim 1st Calkins",
+      "EASTLIN JEFF",
+      "KATHI LAUREN MURPHY"
+    ],
+    "organizations": [
+      "PALM BEACH POLICE DEPARTMENT"
+    ],
+    "locations": [
+      "5614 COUNCIL RD WPB",
+      "1234 Street WPB",
+      "358 El Beile PB"
+    ],
+    "dates": [
+      "10/12/17",
+      "10/12/17 0170",
+      "6/1/86",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "2015-006398",
+      "05-7712",
+      "122741",
+      "17-295",
+      "DOJ-OGR-00030888"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the Palm Beach Police Department. It contains handwritten information about the property impounded, including the incident/citation number, date/time recovered, property number, and description of the items. The document also includes the names of the suspect and owner, as well as the address where the property was impounded. There is a blacked-out section in the description field."
+}

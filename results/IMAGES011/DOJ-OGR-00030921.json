@@ -1,0 +1,69 @@
+{
+  "document_metadata": {
+    "page_number": "121",
+    "document_number": "PBPD Form #52",
+    "date": "10-20-05",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "ANN BLAIN POLICE DEPARTMENT Page 5 of 6 PROPERTY RECEIPT SEARCH WARRANT RETURN DETECTIVE BUREAU PROPERTY EVIDENCE INCIDENT/CITATION NUMBER 15-368 DATE/TIME RECOVERED 10-20-05 PROPERTY NUMBER (Leave Blank) 15-103 PROPERTY NUMBER (Leave Blank) BIN NUMBER (Leave Blank) ADDRESS WHERE PROPERTY IMPOUNDED 258 DISCOVERED BY / D.O.B. ADDRESS Street City Zip PHONE NUMBER OWNER / VICTIM'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER SUSPECT'S NAME / D.O.B. 01- KASTING 12-12-82 250 ELKWOOD Street City Zip PHONE NUMBER ADDITIONAL SUSPECT / D.O.B. ADDRESS Street City Zip PHONE NUMBER SPECIAL INSTRUCTIONS FOUND PROPERTY 90 DAYS CLAIM NOT CLAIM ITEM # QUANTITY VALUE DESCRIPTION 27 1 NEW Shirt/shirtment ALLEN HALL WRESTLING DEPT 28 1 NEW Nike of TROY Male Condition Code 29 3 NEW Wrestling Extra Large 5XL XXXL XXX 30 6 NEW Hummel of America Condition 31 1 NEW GRASSMACKER LIKE NEW Male Condition 32 1 HI Identity Label Agreement and not surrender (COPIED) 33 1 NEW Nike 34 WR 11 Coin for 35 6 ZIP ( ) from RETURN 36 2 Nike V neck shirts from RETURN 37 4 Contact flash cards from RETURN 38 1 return to owner 39 3 ZIP ( ) RETURN 40 3- return TOTAL PACKAGE WEIGHT I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. SIGNATURE DATE I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer. SIGNATURE ID# UNIT RECEIVED BY REASON DATE/TIME RECEIVED 07/26/17 Page 121 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030921",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "ANN BLAIN POLICE DEPARTMENT PROPERTY RECEIPT SEARCH WARRANT RETURN DETECTIVE BUREAU",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "15-368 10-20-05 15-103 258 KASTING 01-12-82 250 ELKWOOD",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SPECIAL INSTRUCTIONS FOUND PROPERTY 90 DAYS CLAIM NOT CLAIM",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "27 1 NEW Shirt/shirtment ALLEN HALL WRESTLING DEPT 28 1 NEW Nike of TROY Male Condition Code 29 3 NEW Wrestling Extra Large 5XL XXXL XXX 30 6 NEW Hummel of America Condition 31 1 NEW GRASSMACKER LIKE NEW Male Condition 32 1 HI Identity Label Agreement and not surrender (COPIED) 33 1 NEW Nike 34 WR 11 Coin for 35 6 ZIP ( ) from RETURN 36 2 Nike V neck shirts from RETURN 37 4 Contact flash cards from RETURN 38 1 return to owner 39 3 ZIP ( ) RETURN 40 3- return",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. SIGNATURE DATE I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer. SIGNATURE ID# UNIT RECEIVED BY REASON DATE/TIME RECEIVED",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "ABS 82",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "KASTING"
+    ],
+    "organizations": [
+      "ALLEN HALL WRESTLING DEPT",
+      "NIKE",
+      "HUMMEL OF AMERICA",
+      "GRASSMACKER"
+    ],
+    "locations": [
+      "ELKWOOD"
+    ],
+    "dates": [
+      "10-20-05",
+      "01-12-82",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "15-368",
+      "15-103",
+      "17-295",
+      "DOJ-OGR-00030921"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the Ann Blair Police Department. It contains handwritten information about the property impounded, including descriptions and quantities of various items. The document has been scanned and appears to be a copy."
+}

@@ -1,0 +1,101 @@
+{
+  "document_metadata": {
+    "page_number": "100",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT DETECTIVE BUREAU PBPD Form #52 PROPERTY EVIDENCE FOUND DECEASED (Probated) PERSONAL CONFISCATED DESTROY TRIAL LABORATORY STOLEN/RECOVERED OTHER INCIDENT/CITATION NUMBER DATE/TIME RECOVERED PROPERTY NUMBER (Leave Blank) BIN NUMBER (Leave Blank) 05-1005 129407 ADDRESS WHERE PROPERTY IMPOUNDED 2085 JUNIPER ROAD WEST PALM BEACH DISCOVERED BY/D.O.B. LEVEL 11 DSD Street City Zip PHONE NUMBER OWNER'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER SUSPECT'S NAME / D.O.B. EDDIE JEFF 275 LEBANON ADDRESS Street City Zip PHONE NUMBER ADDT'NL SUSPECT/D.O.B. ADDRESS Street City Zip PHONE NUMBER SPECIAL INSTRUCTIONS FOUND PROPERTY 90 DAYS CLAIM NOT CLAIM ITEM # QUANTITY VALUE DESCRIPTION 1 WIRE WIREWORK (TRAIL 100505 12FT CABLE TOTAL PACKAGE WEIGHT I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer. SIGNATURE DATE SIGNATURE ID# UNIT RECEIVED BY REASON DATE/TIME RECEIVED 07/26/17 Page 100 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030900",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT DETECTIVE BUREAU",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PBPD Form #52",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "05-1005",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "129407",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "2085 JUNIPER ROAD WEST PALM BEACH",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "LEVEL 11",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "EDDIE JEFF",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "275 LEBANON",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "WIRE WIREWORK (TRAIL 100505 12FT CABLE)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "372",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt.",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer.",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "07/26/17",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "EDDIE JEFF"
+    ],
+    "organizations": [
+      "PALM BEACH POLICE DEPARTMENT"
+    ],
+    "locations": [
+      "JUNIPER ROAD",
+      "WEST PALM BEACH",
+      "LEBANON"
+    ],
+    "dates": [
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "05-1005",
+      "129407",
+      "17-295",
+      "DOJ-OGR-00030900"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the Palm Beach Police Department. It contains handwritten information about the property, including the incident/citation number, date/time recovered, and description of the property. The document also includes signatures and dates."
+}

@@ -1,0 +1,130 @@
+{
+  "document_metadata": {
+    "page_number": "112 of 125",
+    "document_number": "PBPD Form #52",
+    "date": "04-01-05",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT DETECTIVE BUREAU PROPERTY FOUND DECEASED (Probated) PERSONAL CONFISCATED DESTROY EVIDENCE TRIAL LABORATORY STOLEN/RECOVERED OTHER INCIDENT/CITATION NUMBER DATE/TIME RECOVERED PROPERTY NUMBER (Leave Blank) BIN NUMBER (Leave Blank) 05-108 04.01.05 05-3791 128552 ADDRESS WHERE PROPERTY IMPOUNDED e.l e. 213 DISCOVERED BY /D.O.B. PAGN 8/29 ADDRESS Street City Zip PHONE NUMBER OWNER'S NAME /D.O.B. ADDRESS Street City Zip PHONE NUMBER SUSPECT'S NAME /D.O.B. 1-0-22 EREEN, JEFFREY, JR ADDRESS Street City Zip PHONE NUMBER ADD'TNL. SUSPECT /D.O.B. ADDRESS Street City Zip PHONE NUMBER SPECIAL INSTRUCTIONS FOUND PROPERTY 90 DAYS CLAIM NOT CLAIM ITEM # QUANTITY VALUE DESCRIPTION 1 1 white paper - 10:30 2 1 FLIGHT INFO 3 3 - PREMIO COMPUTER INC TOTAL PACKAGE WEIGHT I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer. SIGNATURE DATE SIGNATURE ID# UNIT RECEIVED BY REASON DATE/TIME RECEIVED fns 727 04-2105 0200hs 07/26/17 Page 112 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030912",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DETECTIVE BUREAU",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "05-108",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "04.01.05",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "05-3791",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "128552",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "e.l e. 213",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "PAGN 8/29",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1-0-22",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "EREEN, JEFFREY, JR",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "white paper - 10:30",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "FLIGHT INFO",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "3",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "- PREMIO COMPUTER INC",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "fns 727",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "04-2105 0200hs",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EREEN JR",
+      "PAGN"
+    ],
+    "organizations": [
+      "PALM BEACH POLICE DEPARTMENT",
+      "PREMIO COMPUTER INC"
+    ],
+    "locations": [
+      "PALM BEACH"
+    ],
+    "dates": [
+      "04-01-05",
+      "04-21-05",
+      "07/26/17",
+      "8/29"
+    ],
+    "reference_numbers": [
+      "05-108",
+      "05-3791",
+      "128552",
+      "17-295",
+      "DOJ-OGR-00030912"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the Palm Beach Police Department. It contains handwritten information about the property, including the incident/citation number, date/time recovered, property number, and description of the items. The document also includes signatures and dates."
+}

@@ -1,0 +1,104 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "PBPD Form #52",
+    "date": "03/30/05",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "PBPD Form #52\nPalm Beach Police Department Property Receipt\nEVIDENCE CUSTODIAN 022669\nPROPERTY FOUND DECEASED (Probated) PERSONAL CONFISCATED DESTROY\nEVIDENCE TRIAL LABORATORY STOLEN/RECOVERED OTHER\nINCIDENT/CITATION NUMBER DATE/TIME RECOVERED PROPERTY NUMBER (Leave Blank) BIN NUMBER (Leave Blank)\n05368 033005 4:00 pm 05-294 8128137\nADDRESS WHERE PROPERTY IMPOUNDED\n4200 Australian Ave. WPB FL (Highridge Family Center)\nDISCOVERED BY/D.O.B. ADDRESS City Zip PHONE NUMBER\nPAGAN 8059\nOWNER'S NAME/D.O.B. ADDRESS Street City Zip PHONE NUMBER\nLF 5-13-90 Same As Above\nSUSPECT'S NAME/D.O.B. ADDRESS Street City Zip PHONE NUMBER\nun un\nADDT'NL SUSPECT/D.O.B. ADDRESS Street City Zip PHONE NUMBER\nSPECIAL INSTRUCTIONS\nFOUND PROPERTY 90 DAYS CLAIM NOT CLAIM\nITEM # QUANTITY VALUE DESCRIPTION\n1 1 Audio Tape \"Maxell\" Control Call #2 S-H\n2 1 Micro Tape-\nTOTAL PACKAGE WEIGHT\nI hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt.\nI hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer.\nSIGNATURE DATE SIGNATURE ID# UNIT\nRECEIVED BY REASON DATE/TIME RECEIVED\nAB 8338 GS 03-31-05 0700 hrs\nWP 8055 Invest 08 02 05 1000\nPBC #220 Before handcuff Rn. 8-16-05 1530\nAB 8338 Wiped both 'for Set Fricke for filing 09-20-05 1445 hrs\nMystery 8717 Copy on St Track 9-20-05 2:15PM Page 74 of 125 Public Records Request No.: 17-295\nDOJ-OGR-00030874",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Palm Beach Police Department Property Receipt",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "PAGAN 8059",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "LF 5-13-90",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "un un",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Audio Tape \"Maxell\" Control Call #2 S-H",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Micro Tape-",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Note # 2 is blank",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "AB 8338 GS 03-31-05 0700 hrs",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "WP 8055 Invest 08 02 05 1000",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "PBC #220 Before handcuff Rn. 8-16-05 1530",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "AB 8338 Wiped both 'for Set Fricke for filing 09-20-05 1445 hrs",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "Mystery 8717 Copy on St Track 9-20-05 2:15PM",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "PAGAN",
+      "LF",
+      "Set Fricke"
+    ],
+    "organizations": [
+      "Palm Beach Police Department",
+      "Highridge Family Center"
+    ],
+    "locations": [
+      "4200 Australian Ave. WPB FL"
+    ],
+    "dates": [
+      "03/30/05",
+      "5-13-90",
+      "03-31-05",
+      "08/02/05",
+      "8-16-05",
+      "09-20-05"
+    ],
+    "reference_numbers": [
+      "05368",
+      "05-294",
+      "8128137",
+      "PBC #220",
+      "17-295",
+      "DOJ-OGR-00030874"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the Palm Beach Police Department. It contains handwritten notes and stamps. The document is in good condition, with some minor damage to the edges."
+}

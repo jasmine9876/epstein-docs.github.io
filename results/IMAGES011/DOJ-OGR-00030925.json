@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": "07/26/17",
+    "document_type": "Priority Mail Envelope",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "Print postage online - Go to usps.com/postageonline\nPLEASE PRESS FIRMLY\nPRIORITY MAIL\nUNITED STATES POSTAL SERVICE\nFlat Rate Mailing Envelope For Domestic and International Use\nVisit us at usps.com\nLIMITATIONS ON CONTENT: When using Priority Mail, cash or cash equivalents and all hazardous materials are prohibited.\nWHEN USED INTERNATIONALLY 4 POUND WEIGHT LIMIT APPLIES. Additional country-specific prohibitions/restrictions may apply. See International Mail Manual (IMM) country pages for details.\nCUSTOMS: For International use affix customs declaration PS Form 2976 using PS Form 2976-E customs form pouch.\nHOW TO USE:\n1. Complete Address Area Type or Print required return address and addressee information in customer block area or on label.\n2. Payment Method Affix postage or meter strip to area indicated in upper right hand corner.\n3. Acceptance Bring your Flat Rate Priority Mail envelope to a Post Office, or to schedule pickup of your postage paid envelopes visit us at usps.com/pickup.\n07/26/17 We Deliver!\nLabel 228, February 2006\nCradle to Cradle Certification is awarded to products that pursue an innovative vision of ecologically-intelligent design that eliminates the eagepoint of waste. This USPS packaging has been certified Records Request No.: 17-295 for its material content, recyclability, and manufacturing characteristics.\nFrom: LANNA COMBAT TO: Mr. Erich State Attorney 401 North Dixie Hwy WPB, FL 33401",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Print postage online - Go to usps.com/postageonline\nPLEASE PRESS FIRMLY\nPRIORITY MAIL\nUNITED STATES POSTAL SERVICE\nFlat Rate Mailing Envelope For Domestic and International Use\nVisit us at usps.com",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "LIMITATIONS ON CONTENT: When using Priority Mail, cash or cash equivalents and all hazardous materials are prohibited.\nWHEN USED INTERNATIONALLY 4 POUND WEIGHT LIMIT APPLIES. Additional country-specific prohibitions/restrictions may apply. See International Mail Manual (IMM) country pages for details.\nCUSTOMS: For International use affix customs declaration PS Form 2976 using PS Form 2976-E customs form pouch.",
+      "position": "left"
+    },
+    {
+      "type": "printed",
+      "content": "HOW TO USE:\n1. Complete Address Area Type or Print required return address and addressee information in customer block area or on label.\n2. Payment Method Affix postage or meter strip to area indicated in upper right hand corner.\n3. Acceptance Bring your Flat Rate Priority Mail envelope to a Post Office, or to schedule pickup of your postage paid envelopes visit us at usps.com/pickup.",
+      "position": "left"
+    },
+    {
+      "type": "handwritten",
+      "content": "LANNA COMBAT TO Mr. Erich State Attorney 401 North Dixie Hwy WPB, FL 33401",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Label 228, February 2006\nCradle to Cradle Certification is awarded to products that pursue an innovative vision of ecologically-intelligent design that eliminates the eagepoint of waste. This USPS packaging has been certified Records Request No.: 17-295 for its material content, recyclability, and manufacturing characteristics.",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "LANNA COMBAT",
+      "Mr. Erich"
+    ],
+    "organizations": [
+      "UNITED STATES POSTAL SERVICE",
+      "USPS"
+    ],
+    "locations": [
+      "WPB, FL"
+    ],
+    "dates": [
+      "07/26/17",
+      "February 2006"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00030925"
+    ]
+  },
+  "additional_notes": "The document is a Priority Mail Envelope with handwritten address information. The envelope has a barcode and postage information in the top right corner."
+}

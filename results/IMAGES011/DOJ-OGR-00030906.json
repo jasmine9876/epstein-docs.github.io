@@ -1,0 +1,88 @@
+{
+  "document_metadata": {
+    "page_number": "106",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT DETECTIVE BUR ERTY FOUND DECEASED (Probated) PERSONAL CONFISCATED DESTR DENCE TRIAL LABORATORY STOLEN/RECOVERED OTHER EVENT/CITATION NUMBER DATE/TIME RECOVERED PROPERTY NUMBER (Leave Blank) BIN NUMBER (Leave Blank) 05-368 120905 1530 05-219 1521 ADDRESS WHERE PROPERTY IMPOUNDED 345 S COUNTY ROAD DISCOVERED BY/D.O.B. DET RECALEV ADDRESS PBD Street City Zip PHONE NUMBER OWNER'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER SUSPECT'S NAME /D.O.B. 1-20-53 EPSTEIN, JEFF ADDRESS 358 EL BRIZO PB Zip PHONE NUMBER ADDT'NL. SUSPECT / D.O.B. ADDRESS Street City Zip PHONE NUMBER SPECIAL INSTRUCTIONS FOUND PROPERTY 90 DAYS CLAIM NOT CLAIM ITEM # QUANTITY VALUE DESCRIPTION 1 16 DVD-12 DISCS FROM PBSO CASE 05 250067 LABELED EPSTEIN ENC ASE FILES TOTAL PACKAGE WEIGHT I hereby acknowledge that the above list represents all property taken by me in the official performance of my duty as a police officer. RE DATE SIGNATURE ID# UNIT RECEIVED BY REASON DATE/TIME RECEIVED 07/26/17 Page 106 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030906",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "345 S COUNTY ROAD",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "DET RECALEV",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "EPSTEIN, JEFF",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "358 EL BRIZO PB",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "DVD-12 DISCS FROM PBSO CASE 05 250067 LABELED EPSTEIN ENC ASE FILES",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Sg-Sgt",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "2915",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page 106 of 125",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFF EPSTEIN"
+    ],
+    "organizations": [
+      "PALM BEACH POLICE DEPARTMENT",
+      "PBSO"
+    ],
+    "locations": [
+      "PALM BEACH"
+    ],
+    "dates": [
+      "07/26/17",
+      "1-20-53",
+      "120905"
+    ],
+    "reference_numbers": [
+      "05-368",
+      "05-219",
+      "17-295",
+      "05 250067",
+      "DOJ-OGR-00030906"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the Palm Beach Police Department. It contains handwritten information about the property impounded, including the address where it was found, the person who discovered it, and the suspect's name. The document also includes a list of the property taken, which includes 16 DVD-12 discs from PBSO labeled 'EPSTEIN ENC ASE FILES'."
+}

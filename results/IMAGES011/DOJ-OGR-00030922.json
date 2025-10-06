@@ -1,0 +1,78 @@
+{
+  "document_metadata": {
+    "page_number": "122 of 125",
+    "document_number": "PBPD Form #52",
+    "date": "07/26/17",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "PBPD Form #52 PROPERTY RECEIPT DETECTIVE BUREAU PROPERTY FOUND DECEASED (Probated) PERSONAL CONFISCATED DESTROY EVIDENCE TRIAL LABORATORY STOLEN/RECOVERED OTHER INCIDENT/CITATION NUMBER DATE/TIME RECOVERED PROPERTY NUMBER (Leave Blank) BIN NUMBER (Leave Blank) 05-368 10-20-05 05-1021 ADDRESS WHERE PROPERTY IMPOUNDED 158 E. B'nolo DISCOVERED BY /D.O.B. ADDRESS Street City Zip PHONE NUMBER OWNER'S NAME /D.O.B. ADDRESS Street City Zip PHONE NUMBER SUSPECT'S NAME /D.O.B. 2/25/78 Eastern Jeff ADDRESS 158 Street City Zip PHONE NUMBER ADD'L. SUSPECT/D.O.B. ADDRESS Street City Zip PHONE NUMBER SPECIAL INSTRUCTIONS FOUND PROPERTY 90 DAYS CLAIM NOT CLAIM ITEM # QUANTITY VALUE DESCRIPTION 41 1 Floppy disks from desk middle Shelf Return 42 1 2 1/2\" drive disk from first room Return 43 1 Power Cord for CPU from first room 44 1 CPU from Guest Bedroom 45 10 8 mm video tapes in first Bedroom Return 46 1 miscell CD-R Return 47 min Diskettes from first Bedroom Return 48 7 ZIP Disks from first room Return Iomega ZIP 350-48 from first/second bedroom 49 1 Mssage bank - Rm outside office Return 50 1 cable lock Returned 51 2 contact -flash cards from 52 6 CDs Return #49-51 inclusive 53 1 CPU -from Guest house office Return TOTAL PACKAGE WEIGHT I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. SIGNATURE DATE I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer. SIGNATURE ID# UNIT RECEIVED BY REASON DATE/TIME RECEIVED 7655 07/26/17 Page 122 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030922",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PBPD Form #52 PROPERTY RECEIPT DETECTIVE BUREAU",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PROPERTY FOUND DECEASED (Probated) PERSONAL CONFISCATED DESTROY EVIDENCE TRIAL LABORATORY STOLEN/RECOVERED OTHER",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "05-368 10-20-05 05-1021 158 E. B'nolo 2/25/78 Eastern Jeff 158",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SPECIAL INSTRUCTIONS FOUND PROPERTY 90 DAYS CLAIM NOT CLAIM",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "41 1 Floppy disks from desk middle Shelf Return ... 53 1 CPU -from Guest house office Return",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TOTAL PACKAGE WEIGHT I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. SIGNATURE DATE I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer. SIGNATURE ID# UNIT RECEIVED BY REASON DATE/TIME RECEIVED",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "7655 07/26/17",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Eastern Jeff"
+    ],
+    "organizations": [
+      "PBPD",
+      "Detective Bureau",
+      "DOJ"
+    ],
+    "locations": [
+      "158 E. B'nolo",
+      "Guest Bedroom",
+      "first room",
+      "first Bedroom",
+      "Guest house office"
+    ],
+    "dates": [
+      "10-20-05",
+      "07/26/17",
+      "2/25/78"
+    ],
+    "reference_numbers": [
+      "05-368",
+      "05-1021",
+      "17-295",
+      "DOJ-OGR-00030922",
+      "7655"
+    ]
+  },
+  "additional_notes": "The document is a property receipt form filled out by hand. It contains a list of items seized or impounded, along with details about the incident and the individuals involved. The form includes signatures and dates, indicating that it was completed and acknowledged by the parties involved."
+}

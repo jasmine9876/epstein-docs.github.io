@@ -1,0 +1,100 @@
+{
+  "document_metadata": {
+    "page_number": "75",
+    "document_number": "PBPD Form #52",
+    "date": "07/26/17",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT DETECTIVE BUREAU PBPD Form #52 PROPERTY FOUND DECEASED (Probated) PERSONAL CONFISCATED DESTROY EVIDENCE TRIAL LABORATORY STOLEN/RECOVERED OTHER INCIDENT/CITATION NUMBER DATE/TIME RECOVERED PROPERTY NUMBER (Leave Blank) BIN NUMBER (Leave Blank) 05-368 11/05/17 4:05pm 151532 121119-001 ADDRESS WHERE PROPERTY IMPOUNDED DISCOVERED BY / D.O.B. OWNER'S NAME / D.O.B. SUSPECT'S NAME / D.O.B. ADD'TNL SUSPECT / D.O.B. 345 S COUNTY ROAD PALM BEACH, FL 33480 DET. KECAN PBPD KESTIN, JEFF 1-26-53 730 EL. BALLS SPECIAL INSTRUCTIONS FOUND PROPERTY 90 DAYS CLAIM NOT CLAIM ITEM # QUANTITY VALUE DESCRIPTION 1 1 MAXELL VHS VIDEOCASSETTE (labeled 8-24-01) 2 1 CONY VHS VIDEOCASSETTE MC-90 (labeled all) TOTAL PACKAGE WEIGHT I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer. SIGNATURE DATE SIGNATURE ID# UNIT RECEIVED BY REASON DATE/TIME RECEIVED 07/26/17 Page 75 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030875",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT DETECTIVE BUREAU",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PBPD Form #52",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "05-368 11/05/17 4:05pm 151532 121119-001",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "345 S COUNTY ROAD PALM BEACH, FL 33480",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "DET. KECAN PBPD",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "KESTIN, JEFF 1-26-53 730 EL. BALLS",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SPECIAL INSTRUCTIONS FOUND PROPERTY 90 DAYS CLAIM NOT CLAIM",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1 1 MAXELL VHS VIDEOCASSETTE (labeled 8-24-01) 2 1 CONY VHS VIDEOCASSETTE MC-90 (labeled all)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TOTAL PACKAGE WEIGHT",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "07/26/17",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 75 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030875",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "DET. KECAN",
+      "KESTIN, JEFF"
+    ],
+    "organizations": [
+      "PALM BEACH POLICE DEPARTMENT",
+      "PBPD"
+    ],
+    "locations": [
+      "PALM BEACH",
+      "FL"
+    ],
+    "dates": [
+      "11/05/17",
+      "8-24-01",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "05-368",
+      "151532",
+      "121119-001",
+      "17-295",
+      "DOJ-OGR-00030875"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the Palm Beach Police Department. It contains handwritten information about the property impounded, including the incident/citation number, date/time recovered, and description of the property. The document also includes signatures and dates."
+}

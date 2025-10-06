@@ -1,0 +1,91 @@
+{
+  "document_metadata": {
+    "page_number": "73",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT DETECTIVE BUREAU PBPD Form #52 PROPERTY EVIDENCE TRIAL INCIDENT/CITATION NUMBER 05-368 DATE/TIME RECOVERED 110705 1240 PROPERTY NUMBER (Leave Blank) 05-10641 BIN NUMBER (Leave Blank) 129542 ADDRESS WHERE PROPERTY IMPOUNDED 345 S COUNTY ROAD DISCOVERED BY / D.O.B. DET RECMEY ADDRESS PBPD Street City Zip PHONE NUMBER OWNER'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER SUSPECT'S NAME / D.O.B. 12053 EPSTEIN JEFF ADDRESS 258 EL BRIDGE VB 33480 PHONE NUMBER ADDT'NL. SUSPECT / D.O.B. ADDRESS Street City Zip PHONE NUMBER SPECIAL INSTRUCTIONS FOUND PROPERTY 90 DAYS CLAIM NOT CLAIM ITEM # QUANTITY VALUE DESCRIPTION 1 1 SONY MICROCASSETTE NC90 STATEMENT 4-19-88 2 3 EMAIL FROM COUNTY OF HONOLULU DIV. OF MOTOR VEHICLES/DRIVERS LICENSE TOTAL PACKAGE WEIGHT I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer. SIGNATURE DATE SIGNATURE ID# UNIT RECEIVED BY REASON DATE/TIME RECEIVED 07/26/17 Page 73 of 125 Public Records Request No.: 17-295",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT DETECTIVE BUREAU",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PBPD Form #52",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "EVIDENCE TRIAL",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "05-368 110705 1240 05-10641 129542",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "345 S COUNTY ROAD DET RECMEY 258 EL BRIDGE VB 33480",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "SONY MICROCASSETTE NC90 STATEMENT 4-19-88 EMAIL FROM COUNTY OF HONOLULU DIV. OF MOTOR VEHICLES/DRIVERS LICENSE",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TOTAL PACKAGE WEIGHT",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "RECEIVED BY REASON DATE/TIME RECEIVED",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "07/26/17",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 73 of 125 Public Records Request No.: 17-295",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "EPSTEIN JEFF",
+      "DET RECMEY"
+    ],
+    "organizations": [
+      "PALM BEACH POLICE DEPARTMENT",
+      "COUNTY OF HONOLULU DIV. OF MOTOR VEHICLES/DRIVERS LICENSE"
+    ],
+    "locations": [
+      "PALM BEACH",
+      "HONOLULU",
+      "EL BRIDGE",
+      "COUNTY ROAD"
+    ],
+    "dates": [
+      "110705",
+      "4-19-88",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "05-368",
+      "05-10641",
+      "129542",
+      "17-295"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the Palm Beach Police Department. It contains handwritten information about the property impounded, including a Sony microcassette and emails from the County of Honolulu. The document is signed and dated."
+}

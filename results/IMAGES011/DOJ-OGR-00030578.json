@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": "111",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Public Records Request",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "07/26/17- TRASH PULL ON 9-21-05 - DAY AFTER KEPSTEN LEFT - Page 111 of 131 Public Records Request No.: 17-295 DOJ-OGR-00030578",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "07/26/17-",
+      "position": "bottom left"
+    },
+    {
+      "type": "handwritten",
+      "content": "- TRASH PULL ON 9-21-05 -",
+      "position": "top center"
+    },
+    {
+      "type": "handwritten",
+      "content": "DAY AFTER KEPSTEN LEFT",
+      "position": "top right"
+    },
+    {
+      "type": "printed",
+      "content": "Page 111 of 131",
+      "position": "bottom center"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295",
+      "position": "bottom right"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00030578",
+      "position": "bottom right"
+    }
+  ],
+  "entities": {
+    "people": [
+      "KEPSTEN"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "9-21-05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00030578"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned page from a public records request. The page contains handwritten notes and printed text. The overall quality is good, with no visible redactions or significant damage."
+}

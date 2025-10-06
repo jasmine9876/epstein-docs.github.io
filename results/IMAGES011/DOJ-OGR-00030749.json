@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": "31",
+    "document_number": "153497",
+    "date": "12/14/2005",
+    "document_type": "Billed Usage",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "153497 12/14/2005 BILLED USAGE 3G Run Date: 12/19/05 Run Time: 11:43:35 ATYS Voice Usage For (917)855-3363 Account Number 004381863 Bill Cycle: 2 Item Date Time Number Called Calls To Mins Used Rate Charge Description Charge 09/20/05 05:16P (917)855-3363 1 0.00 UNLIM MOBL TO MOBL 479 09/20/05 05:16P (917)868-6145 QUEENS NY 1 0.00 UNLIM MOBL TO MOBL 480 09/20/05 07:20P (561)317-5844 INCOMING 1 0.00 481 09/20/05 07:21P (740)802-4061 MARION OH 1 0.00 482 09/20/05 07:22P (561)317-5844 INCOMING 0.00 CALL WAITING 483 09/20/05 07:22P (561)317-5844 INCOMING 1 0.00 484 09/20/05 10:38P (917)855-3363 NEW YORK NY 0.00 MESSAGE RETRIEVAL 485 09/20/05 10:41P (646)552-2805 NY ZONE 1 NY 1 0.00 UNLIMITED N/WKND MIN 486 09/21/05 12:14A (000)000-0000 INCOMING 2 3.49 $3.49 487 09/21/05 12:19A (000)000-0000 INCOMING 1 3.49 $3.49 488 09/21/05 12:45A (917)855-3363 NEW YORK NY 0.00 MESSAGE RETRIEVAL 489 09/21/05 06:51A (000)000-0000 INCOMING 1 3.49 $3.49 490 09/21/05 10:47A (917)855-3363 NEW YORK NY 1 0.00 400 ADD'L ANYTIME MIN 491 09/21/05 10:48A (917)855-3363 NEW YORK NY 0.00 MESSAGE RETRIEVAL 492 09/21/05 01:24P (917)406-0001 INCOMING 2 0.00 400 ADD'L ANYTIME MIN 493 09/21/05 01:27P (917)406-0001 INCOMING 1 3.49 $3.49 494 09/21/05 01:46P (561)818-8361 INCOMING 1 3.49 $3.49 495 09/21/05 01:47P (561)655-7626 INCOMING 1 3.49 $3.49 MAT PROPRIETARY AND CONFIDENTIAL Not for use or disclosure outside Cingular Wireless and its Affiliates except under written agreement. Page 31 of 82 07/26/17 Public Records Request No.: 17-295 Page 26 DOJ-OGR-00030749",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "153497 12/14/2005 BILLED USAGE 3G",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Run Date: 12/19/05 Run Time: 11:43:35 ATYS Voice Usage For (917)855-3363 Account Number 004381863 Bill Cycle: 2",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Item Date Time Number Called Calls To Mins Used Rate Charge Description Charge",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "MAT PROPRIETARY AND CONFIDENTIAL Not for use or disclosure outside Cingular Wireless and its Affiliates except under written agreement.",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 31 of 82 07/26/17 Public Records Request No.: 17-295 Page 26 DOJ-OGR-00030749",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Cingular Wireless"
+    ],
+    "locations": [
+      "QUEENS NY",
+      "MARION OH",
+      "NEW YORK NY",
+      "NY ZONE 1 NY"
+    ],
+    "dates": [
+      "12/14/2005",
+      "12/19/05",
+      "09/20/05",
+      "09/21/05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "153497",
+      "004381863",
+      "17-295",
+      "DOJ-OGR-00030749"
+    ]
+  },
+  "additional_notes": "The document appears to be a billed usage report from Cingular Wireless. It contains a list of calls made on a specific phone number, along with details such as date, time, number called, and charge description. The document is marked as 'PROPRIETARY AND CONFIDENTIAL' and is not for use or disclosure outside Cingular Wireless and its affiliates except under written agreement."
+}

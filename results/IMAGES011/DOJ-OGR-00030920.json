@@ -1,0 +1,82 @@
+{
+  "document_metadata": {
+    "page_number": "120 of 125",
+    "document_number": "PBPD Form #52",
+    "date": "04/15/05",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "LM BEACH POLICE DEPARTME PROPERTY RECEIPT DETECTIVE BUREAU PBPD Form #52 PROPERTY FOUND DECEASED (Probated) PERSONAL CONFISCATED DESTROY EVIDENCE TRIAL LABORATORY STOLEN/RECOVERED OTHER INCIDENT/CITATION NUMBER DATE/TIME RECOVERED PROPERTY NUMBER (Leave Blank) BIN NUMBER (Leave Blank) 05-386 128552 ADDRESS WHERE PROPERTY IMPOUNDED DISCOVERED BY / D.O.B. Pagan 2004 ADDRESS Street City Zip PHONE NUMBER OWNER'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER SUSPECT'S NAME / D.O.B. 2/12/62 Evansville, IN ADD'TNL. SUSPECT / D.O.B. ADDRESS Street City Zip PHONE NUMBER SPECIAL INSTRUCTIONS FOUND PROPERTY 90 DAYS CLAIM NOT CLAIM ITEM # QUANTITY VALUE DESCRIPTION 1 1 medical supplies 2 1 '727' letterhead 3 1 Injuries #029103 4 1 Amazon.com Adriana Mucinska 5 1 white paper - 'Toniuc' 6 1 message from Joanna Junior 7 1 ' ' Toniuc Junior 2 1 white paper - 681-2118 / 655-7626 9 1 ' ' - 917-783-4102 TOTAL PACKAGE WEIGHT I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer. SIGNATURE DATE SIGNATURE ID# UNIT RECEIVED BY REASON DATE/TIME RECEIVED 158322 75 3259 D1 04-21-05 0700R 07/26/17 Page 120 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030920",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "LM BEACH POLICE DEPARTME PROPERTY RECEIPT DETECTIVE BUREAU",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PBPD Form #52",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "05-386",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "128552",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Pagan 2004",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "2/12/62 Evansville, IN",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "medical supplies '727' letterhead Injuries #029103 Amazon.com Adriana Mucinska white paper - 'Toniuc' message from Joanna Junior ' ' Toniuc Junior white paper - 681-2118 / 655-7626 ' ' - 917-783-4102",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "158322 75 3259 D1 04-21-05 0700R",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Pagan",
+      "Adriana Mucinska",
+      "Joanna Junior",
+      "Toniuc Junior"
+    ],
+    "organizations": [
+      "Amazon.com",
+      "LM BEACH POLICE DEPARTME"
+    ],
+    "locations": [
+      "Evansville, IN"
+    ],
+    "dates": [
+      "04/15/05",
+      "04/21/05",
+      "07/26/17",
+      "2/12/62"
+    ],
+    "reference_numbers": [
+      "05-386",
+      "128552",
+      "PBPD Form #52",
+      "17-295",
+      "DOJ-OGR-00030920"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the LM Beach Police Department. It contains handwritten information about the property recovered, including a list of items and their descriptions. The document also includes signatures and dates."
+}

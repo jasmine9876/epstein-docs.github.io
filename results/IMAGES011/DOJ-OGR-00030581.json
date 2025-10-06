@@ -1,0 +1,36 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00030581",
+    "date": null,
+    "document_type": "note",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Larry recommendo leaving Jeffrey E. Epstein",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "Larry recommendo leaving",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Jeffrey E. Epstein",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Larry",
+      "Jeffrey E. Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00030581"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned note with handwritten text on a torn piece of paper. The quality is somewhat degraded, likely due to the scanning process or the original condition of the document."
+}

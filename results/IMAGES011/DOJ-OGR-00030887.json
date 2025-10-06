@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": "87",
+    "document_number": "PBPD Form #52",
+    "date": "07/26/17",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT DETECTIVE BUREAU PROPERTY EVIDENCE FOUND DECEASED (Probated) PERSONAL CONFISCATED DESTROY TRIAL LABORATORY STOLEN/RECOVERED OTHER INCIDENT/CITATION NUMBER DATE/TIME RECOVERED PROPERTY NUMBER (Leave Blank) BIN NUMBER (Leave Blank) 05-368 100605 512 05-145 128411 ADDRESS WHERE PROPERTY IMPOUNDED 345 SUNNY ROAD PALM BEACH DISCOVERED BY / D.O.B. DET RECALE OWNER'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER ADDRESS Street City Zip PHONE NUMBER SUSPECT'S NAME / D.O.B. 1/23/82 EISTEIN JEFF 2/9/81 358 R BILLION ADDRESS Street City Zip PHONE NUMBER ADDT'NL. SUSPECT / D.O.B. ADDRESS Street City Zip PHONE NUMBER SPECIAL INSTRUCTIONS FOUND PROPERTY 90 DAYS CLAIM NOT CLAIM ITEM # QUANTITY VALUE DESCRIPTION 1 2 SONY MICROCASSETTES STATEMENT DOB 06.06.87 2 1 TOTAL PACKAGE WEIGHT I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer. SIGNATURE DATE SIGNATURE ID# UNIT RECEIVED BY REASON DATE/TIME RECEIVED 1005 7-01 07/26/17 7911 02 Page 87 of 125 Public Records Request No. 17-295 DOJ-OGR-00030887",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT DETECTIVE BUREAU",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "05-368 100605 512 05-145 128411 345 SUNNY ROAD PALM BEACH DET RECALE 1/23/82 EISTEIN JEFF 2/9/81 358 R BILLION SONY MICROCASSETTES STATEMENT DOB 06.06.87",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer.",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "7911 02 1005 7-01",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "EISTEIN JEFF"
+    ],
+    "organizations": [
+      "PALM BEACH POLICE DEPARTMENT"
+    ],
+    "locations": [
+      "PALM BEACH",
+      "SUNNY ROAD"
+    ],
+    "dates": [
+      "100605",
+      "07/26/17",
+      "1/23/82",
+      "2/9/81",
+      "06.06.87"
+    ],
+    "reference_numbers": [
+      "05-368",
+      "05-145",
+      "128411",
+      "7911 02",
+      "17-295",
+      "DOJ-OGR-00030887"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the Palm Beach Police Department. It contains handwritten information about the property impounded, including the incident/citation number, date/time recovered, property number, and suspect's name. The document also includes a section for special instructions and a signature block. The overall quality of the document is good, with some minor handwritten notes and corrections."
+}

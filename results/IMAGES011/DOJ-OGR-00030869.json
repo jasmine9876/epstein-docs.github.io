@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": "4 of 6",
+    "document_number": "05-1024",
+    "date": "10-20-05",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "PBPD Form #52\n\nPA'M BEACH POLICE DEPARTMENT\nPROPERTY RECEIPT\nSEARCH WARRANT RETURN\nDETECTIVE BUREAU\n\nPROPERTY FOUND DECEASED (Probated) PERSONAL CONFISCATED DESTROY\nEVIDENCE TRIAL LABORATORY STOLEN/RECOVERED OTHER lab\nINCIDENT/CITATION NUMBER DATE/TIME RECOVERED PROPERTY NUMBER (Leave Blank) BIN NUMBER (Leave Blank)\n05-368 10-20-05 05-1024\nADDRESS WHERE PROPERTY IMPOUNDED\n358 E1 Brillo\nDISCOVERED BY / D.O.B. ADDRESS Street City Zip PHONE NUMBER\nOWNER'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER\nSUSPECT'S NAME / D.O.B. Epstein, Jeff 358 E1 Brillo ADDRESS Street City Zip PHONE NUMBER\nADDITIONAL SUSPECT / D.O.B. ADDRESS Street City Zip PHONE NUMBER\nSPECIAL INSTRUCTIONS\nFOUND PROPERTY 90 DAYS CLAIM NOT CLAIM\n\nITEM # QUANTITY VALUE DESCRIPTION\n41 1 Floppy disks from desk middle Shelf Return\n42 1 2P1 drive disk from Guest room Return\n43 1 Power Cord for CPU from Guest room\n44 1 CPU from Guest Bedroom\n45 10 8 mm video Tapes in Guest Bedroom Return\n46 1 maxell CD-R in desk drawer Return (copies)\n48 7 ZIP Disks from Guest room Return\nitems # 35-48 from Guest bedroom\n49 1 message book from Guesthouse office Return\n50 1 message book Return\n51 2 Compact flash cards from\n52 6 CD's Return #49-53 Guesthouse office\n53 1 CPU from Guest house office Return\nTOTAL PACKAGE WEIGHT\n\nI hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt.\nI hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer.\n\nSIGNATURE DATE SIGNATURE\nRECEIVED BY REASON DATE/TIME RECEIVED\n\n07/26/17 Page 69 of 125 Public Records Request No.: 17-295\nDOJ-OGR-00030869",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PBPD Form #52\n\nPA'M BEACH POLICE DEPARTMENT\nPROPERTY RECEIPT\nSEARCH WARRANT RETURN\nDETECTIVE BUREAU",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "05-368\n10-20-05\n05-1024\n358 E1 Brillo\nEpstein, Jeff\n358 E1 Brillo",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "ITEM # QUANTITY VALUE DESCRIPTION",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "41 1 Floppy disks from desk middle Shelf Return\n42 1 2P1 drive disk from Guest room Return\n43 1 Power Cord for CPU from Guest room\n44 1 CPU from Guest Bedroom\n45 10 8 mm video Tapes in Guest Bedroom Return\n46 1 maxell CD-R in desk drawer Return (copies)\n48 7 ZIP Disks from Guest room Return\nitems # 35-48 from Guest bedroom\n49 1 message book from Guesthouse office Return\n50 1 message book Return\n51 2 Compact flash cards from\n52 6 CD's Return #49-53 Guesthouse office\n53 1 CPU from Guest house office Return",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt.\nI hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer.",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "07/26/17",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeff Epstein"
+    ],
+    "organizations": [
+      "Palm Beach Police Department",
+      "DOJ"
+    ],
+    "locations": [
+      "Palm Beach"
+    ],
+    "dates": [
+      "10-20-05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "05-368",
+      "05-1024",
+      "17-295",
+      "DOJ-OGR-00030869"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the Palm Beach Police Department, detailing items seized during a search warrant execution. The document contains handwritten notes and appears to be a scanned copy."
+}

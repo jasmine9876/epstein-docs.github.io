@@ -1,0 +1,103 @@
+{
+  "document_metadata": {
+    "page_number": "113",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "PBPD Form #52\n\nPROPERTY RECEIPT\n\nDETECTIVE BUREAU\n\nPROPERTY EVIDENCE TRIAL\nFOUND DECEASED (Probated) PERSONAL\nLABORATORY STOLEN/RECOVERED\nINCIDENT/CITATION NUMBER DATE/TIME RECOVERED PROPERTY NUMBER (Leave Blank) BIN NUMBER (Leave Blank)\nADDRESS WHERE PROPERTY IMPOUNDED\n\nDISCOVERED BY/D.O.B. ADDRESS Street City Zip PHONE NUMBER\nOWNER'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER\nSUSPECT'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER\nADDT'NL. SUSPECT/D.O.B. ADDRESS Street City Zip PHONE NUMBER\nSPECIAL INSTRUCTIONS\n\nITEM # QUANTITY VALUE DESCRIPTION\n1 1 A/X mail - NADA SALIKOVA\n2 1 LITE GREEN CRYSTAL\n3 1 RECEIPT - BEST BUY\n4 1 WHITE PLATE\n5 1 MONTBLANC FILLER - TAN/ZINC finish\nTOTAL PACKAGE WEIGHT\nI hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt.\nI hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer.\nSIGNATURE DATE SIGNATURE ID# UNIT\nRECEIVED BY REASON DATE/TIME RECEIVED\n07/26/17 Page 113 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030913",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PBPD Form #52\n\nPROPERTY RECEIPT\n\nDETECTIVE BUREAU",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "PROPERTY EVIDENCE TRIAL",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "INCIDENT/CITATION NUMBER DATE/TIME RECOVERED PROPERTY NUMBER (Leave Blank) BIN NUMBER (Leave Blank)",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "05-218",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "ADDRESS WHERE PROPERTY IMPOUNDED",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1.1.1",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SPECIAL INSTRUCTIONS",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "ITEM # QUANTITY VALUE DESCRIPTION",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1 1 A/X mail - NADA SALIKOVA\n2 1 LITE GREEN CRYSTAL\n3 1 RECEIPT - BEST BUY\n4 1 WHITE PLATE\n5 1 MONTBLANC FILLER - TAN/ZINC finish",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TOTAL PACKAGE WEIGHT",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt.\nI hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer.",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "A1B 2025",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "SIGNATURE DATE SIGNATURE ID# UNIT\nRECEIVED BY REASON DATE/TIME RECEIVED",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 113 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030913",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "NADA SALIKOVA"
+    ],
+    "organizations": [
+      "PBPD",
+      "DETECTIVE BUREAU",
+      "BEST BUY"
+    ],
+    "locations": [],
+    "dates": [
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00030913",
+      "05-218"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the Palm Beach Police Department. It contains handwritten information about the property impounded, including a list of items and their descriptions. The document has been redacted in one area."
+}

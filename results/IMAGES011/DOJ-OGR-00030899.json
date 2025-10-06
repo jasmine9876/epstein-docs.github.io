@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "99",
+    "document_number": "PBPD Form #52",
+    "date": "10-21-05",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT DETECTIVE BUREAU PROPERTY FOUND DECEASED (Probated) PERSONAL CONFISCATED DESTROY EVIDENCE TRIAL LABORATORY STOLEN/RECOVERED OTHER INCIDENT/CITATION NUMBER DATE/TIME RECOVERED PROPERTY NUMBER (Leave Blank) BIN NUMBER (Leave Blank) 65 368 10-21-05 10:45 05-1027 129541 ADDRESS WHERE PROPERTY IMPOUNDED 345 S. COUNTY ROAD DISCOVERED BY/D.O.B. KIZARL/RECALL OWNER'S NAME /D.O.B. ADDRESS Street City Zip PHONE NUMBER ADDRESS Street City Zip PHONE NUMBER SUSPECT'S NAME /D.O.B. 12055 EPSTEIN, JEFF ADDRESS Street City Zip PHONE NUMBER ADDT'NL SUSPECT/D.O.B. ADDRESS Street City Zip PHONE NUMBER SPECIAL INSTRUCTIONS FOUND PROPERTY 90 DAYS CLAIM NOT CLAIM ITEM # QUANTITY VALUE DESCRIPTION 1 MISC PHONE MESSAGES FROM TT2ASH (10-21-05) TOTAL PACKAGE WEIGHT I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. SIGNATURE DATE I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer. SIGNATURE ID# UNIT RECEIVED BY REASON DATE/TIME RECEIVED 07/26/17 Page 99 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030899",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT DETECTIVE BUREAU",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "65 368 10-21-05 10:45 05-1027 129541 345 S. COUNTY ROAD KIZARL/RECALL 12055 EPSTEIN, JEFF 1 MISC PHONE MESSAGES FROM TT2ASH (10-21-05)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. SIGNATURE DATE I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer. SIGNATURE ID# UNIT RECEIVED BY REASON DATE/TIME RECEIVED",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "791R 02",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 99 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030899",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "KIZARL",
+      "EPSTEIN, JEFF"
+    ],
+    "organizations": [
+      "PALM BEACH POLICE DEPARTMENT",
+      "DETECTIVE BUREAU"
+    ],
+    "locations": [
+      "345 S. COUNTY ROAD"
+    ],
+    "dates": [
+      "10-21-05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "65 368",
+      "05-1027",
+      "129541",
+      "17-295",
+      "DOJ-OGR-00030899"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the Palm Beach Police Department. It contains handwritten information about the property, including the incident/citation number, date/time recovered, property number, and BIN number. The document also includes the name of the suspect, Jeff Epstein, and the person who discovered the property, Kizarl. The property is described as 'MISC PHONE MESSAGES FROM TT2ASH' and was recovered on 10-21-05."
+}

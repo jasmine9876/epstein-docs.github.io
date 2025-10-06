@@ -1,0 +1,85 @@
+{
+  "document_metadata": {
+    "page_number": "85",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "PBPD Form #52\nPAM BEACH POLICE DEPARTMENT\nPROPERTY RECEIPT\nDETECTIVE BUREAU\nPROPERTY EVIDENCE FOUND TRIAL LABORATORY STOLEN/RECOVERED OTHER\nINCIDENT/CITATION NUMBER DATE/TIME RECOVERED PROPERTY NUMBER (Leave Blank) BIN NUMBER (Leave Blank)\n05 368 11 1505 1830 12 215242\nADDRESS WHERE PROPERTY IMPOUNDED\n305 S COUNTY ROAD PAM BEACH FL\nDISCOVERED BY /D.O.B. ADDRESS City Zip PHONE NUMBER\nJ.T. KECANEY PBPD Street\nOWNER'S NAME /D.O.B. ADDRESS Street City Zip PHONE NUMBER\nSUSPECT'S NAME /D.O.B. ADDRESS Street City Zip PHONE NUMBER\nE P STEN , JEFF 358 FZL BLVD\nADDT'NL. SUSPECT /D.O.B. ADDRESS Street City Zip PHONE NUMBER\nSPECIAL INSTRUCTIONS\nFOUND PROPERTY 90 DAYS CLAIM NOT CLAIM\nITEM # QUANTITY VALUE DESCRIPTION\n1 1 SONY MICROCASSETTE STATEMENT W/F 06.07.86\n2 1 PHOTO LINE UP (NASA MARKINGS)\nTOTAL PACKAGE WEIGHT\nI hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt.\nI hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer.\nSIGNATURE DATE SIGNATURE ID# UNIT\nRECEIVED BY REASON DATE/TIME RECEIVED\n07/26/17 Page 85 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030885",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PBPD Form #52\nPAM BEACH POLICE DEPARTMENT\nPROPERTY RECEIPT\nDETECTIVE BUREAU",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PROPERTY EVIDENCE FOUND TRIAL LABORATORY STOLEN/RECOVERED OTHER",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "305 S COUNTY ROAD PAM BEACH FL",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SPECIAL INSTRUCTIONS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1 1 SONY MICROCASSETTE STATEMENT W/F 06.07.86\n2 1 PHOTO LINE UP (NASA MARKINGS)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TOTAL PACKAGE WEIGHT",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt.\nI hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer.",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "07/26/17",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 85 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030885",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "J.T. KECANEY",
+      "E P STEN , JEFF"
+    ],
+    "organizations": [
+      "PAM BEACH POLICE DEPARTMENT",
+      "NASA"
+    ],
+    "locations": [
+      "PAM BEACH",
+      "305 S COUNTY ROAD"
+    ],
+    "dates": [
+      "11/15/05",
+      "06/07/86",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "05 368",
+      "12",
+      "215242",
+      "17-295",
+      "DOJ-OGR-00030885"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the Palm Beach Police Department. It contains handwritten information about the property impounded, including a Sony microcassette statement and a photo lineup with NASA markings. The document is page 85 of 125 and is related to a public records request No.: 17-295."
+}

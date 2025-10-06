@@ -1,0 +1,138 @@
+{
+  "document_metadata": {
+    "page_number": "83",
+    "document_number": "PBPD Form #52",
+    "date": "07/26/17",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT DETECTIVE BUREAU PROPERTY EVIDENCE TRIAL INCIDENT/CITATION NUMBER 05 563 DATE/TIME RECOVERED 11/10/05 1005 ADDRESS WHERE PROPERTY IMPOUNDED 2745 County Road 1/3/05 DISCOVERED BY /D.O.B. DET RILEY OWNER'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER ADDRESS Street City Zip PHONE NUMBER SUSPECT'S NAME / D.O.B. ERNEST JEFF 3/8/65 ADDRESS 1381 El Brabo Street City Zip PHONE NUMBER ADDT'NL. SUSPECT/D.O.B. ADDRESS Street City Zip PHONE NUMBER SPECIAL INSTRUCTIONS PLEASE County Road and Return FOUND PROPERTY 90 DAYS CLAIM NOT CLAIM ITEM # QUANTITY VALUE DESCRIPTION 1 1 PANASONIC RR US 360 DIGITAL RECORDER TO DET RILEY - MAIGNED STATEMENT 1 - ALFREDO PROHIBITED WIN 4-12-50 RECEIVER 2 - DET RILEY PROVIDING DATE AND TIME OF CALL COLLECTOR 3 - JUAN ALESSI WIN 2-12-50 CD - COPY OF TRANSCRIPT #1 2 1 TOTAL PACKAGE WEIGHT I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer. SIGNATURE DATE SIGNATURE ID# UNIT RECEIVED BY REASON DATE/TIME RECEIVED 07/26/17 Page 83 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030883",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DETECTIVE BUREAU",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PROPERTY EVIDENCE TRIAL",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "05 563",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "11/10/05 1005",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "2745 County Road 1/3/05",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "DET RILEY",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "ERNEST JEFF 3/8/65 1381 El Brabo",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SPECIAL INSTRUCTIONS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "PLEASE County Road and Return",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "ITEM # QUANTITY VALUE DESCRIPTION",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1 1 PANASONIC RR US 360 DIGITAL RECORDER TO DET RILEY - MAIGNED STATEMENT 1 - ALFREDO PROHIBITED WIN 4-12-50 RECEIVER 2 - DET RILEY PROVIDING DATE AND TIME OF CALL COLLECTOR 3 - JUAN ALESSI WIN 2-12-50 CD - COPY OF TRANSCRIPT #1",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TOTAL PACKAGE WEIGHT",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt.",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer.",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "SIGNATURE DATE SIGNATURE ID# UNIT",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "RECEIVED BY REASON DATE/TIME RECEIVED",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page 83 of 125 Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00030883",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "DET RILEY",
+      "ERNEST JEFF",
+      "ALFREDO",
+      "JUAN ALESSI"
+    ],
+    "organizations": [
+      "PALM BEACH POLICE DEPARTMENT",
+      "DETECTIVE BUREAU"
+    ],
+    "locations": [
+      "County Road",
+      "El Brabo"
+    ],
+    "dates": [
+      "11/10/05",
+      "1/3/05",
+      "3/8/65",
+      "4-12-50",
+      "2-12-50",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "05 563",
+      "17-295",
+      "DOJ-OGR-00030883"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the Palm Beach Police Department. It contains handwritten information about the property impounded, including a digital recorder and statements. The document is dated 07/26/17 and is page 83 of 125."
+}

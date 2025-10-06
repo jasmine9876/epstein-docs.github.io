@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": "65",
+    "document_number": "153497",
+    "date": "12/14/2005",
+    "document_type": "Billed Usage 3G",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "153497\n12/14/2005\nBILLED USAGE 3G\n\nRun Date: 12/19/05\nRun Time: 11:43:35\nATLYS Text/Multimedia Msgs For (917)855-3363\nAccount Number 0043811863 Bill Cycle: 2\n\nItem Date Time Sent To Rcvd From Charge Description Charge\n208 10/05/05 07:15P (917)913-6283 (917)855-3363 100 INCL. MSGS SENT $0.00\n209 10/05/05 07:18P (917)913-6283 (917)855-3363 100 INCL. MSGS SENT $0.00\n210 10/05/05 08:07P (917)913-6283 (917)855-3363 100 INCL. MSGS SENT $0.00\n\nMAT PROPRIETARY AND CONFIDENTIAL Page 60\nNot for use or disclosure outside Cingular Wireless and its Affiliates\nexcept under written agreement.\n\n07/26/17 Page 65 of 82 Public Records Request No.: 17-295\nDOJ-OGR-00030783",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "153497\n12/14/2005\nBILLED USAGE 3G",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Run Date: 12/19/05\nRun Time: 11:43:35\nATLYS Text/Multimedia Msgs For (917)855-3363\nAccount Number 0043811863 Bill Cycle: 2",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Item Date Time Sent To Rcvd From Charge Description Charge\n208 10/05/05 07:15P (917)913-6283 (917)855-3363 100 INCL. MSGS SENT $0.00\n209 10/05/05 07:18P (917)913-6283 (917)855-3363 100 INCL. MSGS SENT $0.00\n210 10/05/05 08:07P (917)913-6283 (917)855-3363 100 INCL. MSGS SENT $0.00",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "MAT PROPRIETARY AND CONFIDENTIAL Page 60\nNot for use or disclosure outside Cingular Wireless and its Affiliates\nexcept under written agreement.",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 65 of 82 Public Records Request No.: 17-295\nDOJ-OGR-00030783",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Cingular Wireless"
+    ],
+    "locations": [],
+    "dates": [
+      "12/14/2005",
+      "12/19/05",
+      "10/05/05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "153497",
+      "0043811863",
+      "17-295",
+      "DOJ-OGR-00030783"
+    ]
+  },
+  "additional_notes": "The document appears to be a confidential and proprietary billing statement from Cingular Wireless. It contains details about text/multimedia messages sent and received, along with associated charges. The document is marked as 'PROPRIETARY AND CONFIDENTIAL' and is not for use or disclosure outside Cingular Wireless and its affiliates without written agreement."
+}

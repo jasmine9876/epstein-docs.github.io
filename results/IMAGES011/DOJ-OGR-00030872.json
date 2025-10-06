@@ -1,0 +1,91 @@
+{
+  "document_metadata": {
+    "page_number": "72",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT DETECTIVE BUREAU PBPD Form #52 PROPERTY FOUND DECEASED (Probated) PERSONAL CONFISCATED DESTROY EVIDENCE TRIAL LABORATORY STOLEN/RECOVERED OTHER VIDEO INCIDENT/CITATION NUMBER DATE/TIME RECOVERED PROPERTY NUMBER (Leave Blank) BIN NUMBER (Leave Blank) 05 368 11/08/05 1521 00 1061 158719 ADDRESS WHERE PROPERTY IMPOUNDED 345 S COUNTY ROAD PB DISCOVERED BY / D.O.B. DET. DEANEY ADDRESS Street City Zip PHONE NUMBER OWNER'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER SUSPECT'S NAME / D.O.B. 1-23-53 FSTEIN, JEFF ADDRESS 558 FEL BRIDGE Street City Zip PHONE NUMBER ADDT'NL. SUSPECT / D.O.B. ADDRESS Street City Zip PHONE NUMBER SPECIAL INSTRUCTIONS FOUND PROPERTY 90 DAYS CLAIM NOT CLAIM ITEM # QUANTITY VALUE DESCRIPTION 1 1 MAXELL VHS VIDEOCASSETTE STATEMENT 9.21-86 WF 2 1 MAXELL VHS VIDEOCASSETTE STATEMENT 10-10-87 WF TOTAL PACKAGE WEIGHT I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer. SIGNATURE DATE SIGNATURE ID# UNIT RECEIVED BY REASON DATE/TIME RECEIVED 7915 02 07/26/17 Page 72 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030872",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT DETECTIVE BUREAU",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PBPD Form #52",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "05 368 11/08/05 1521 00 1061 158719",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "345 S COUNTY ROAD PB",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "DET. DEANEY",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1-23-53 FSTEIN, JEFF 558 FEL BRIDGE",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "MAXELL VHS VIDEOCASSETTE STATEMENT 9.21-86 WF MAXELL VHS VIDEOCASSETTE STATEMENT 10-10-87 WF",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7915 02",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page 72 of 125 Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00030872",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "DEANEY",
+      "FSTEIN, JEFF"
+    ],
+    "organizations": [
+      "PALM BEACH POLICE DEPARTMENT"
+    ],
+    "locations": [
+      "COUNTY ROAD",
+      "FEL BRIDGE"
+    ],
+    "dates": [
+      "11/08/05",
+      "9.21-86",
+      "10-10-87",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "05 368",
+      "00 1061",
+      "158719",
+      "17-295",
+      "7915 02",
+      "DOJ-OGR-00030872"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the Palm Beach Police Department. It contains handwritten information about the property, including the incident citation number, date and time recovered, and the description of the property. The document also includes the names of the detective and suspect, as well as the date and signature of the officer."
+}

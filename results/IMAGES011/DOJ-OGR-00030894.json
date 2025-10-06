@@ -1,0 +1,93 @@
+{
+  "document_metadata": {
+    "page_number": "94",
+    "document_number": "PBPD Form #52",
+    "date": "09/27/05",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "PBPD Form #52\nPalm Beach Police Department\nProperty Receipt\nDetective Bureau\nPROPERTY FOUND DECEASED (Probated) PERSONAL CONFISCATED DESTROY\nEVIDENCE TRIAL LABORATORY STOLEN/RECOVERED OTHER\nINCIDENT/CITATION NUMBER DATE/TIME RECOVERED PROPERTY NUMBER (Leave Blank) BIN NUMBER (Leave Blank)\n05 368 09/27/05 1000 121726\nADDRESS WHERE PROPERTY IMPOUNDED\n345 S County Road Palm Beach FL\nDISCOVERED BY D.O.B. ADDRESS PHONE NUMBER\nDET R CAREY PBPD\nOWNER'S NAME / D.O.B. ADDRESS PHONE NUMBER\nSUSPECT'S NAME / D.O.B. 6/2013 ADDRESS PHONE NUMBER\nERSTEIN JEFF 3575 Eldridlo VB\nADDT'NL. SUSPECT/D.O.B. ADDRESS PHONE NUMBER\nSPECIAL INSTRUCTIONS\nFOUND PROPERTY 90 DAYS CLAIM NOT CLAIM\nITEM # QUANTITY VALUE DESCRIPTION\n1 2 MAGAZINES, ONE IDENTIFIED FROM MAYWELL HARRIS FROM 1970S TRASH\nTOTAL PACKAGE WEIGHT\nI hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt.\nI hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer.\nSIGNATURE DATE SIGNATURE ID# UNIT\nRECEIVED BY REASON DATE/TIME RECEIVED\n07/26/17 Page 94 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030894",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PBPD Form #52\nPalm Beach Police Department\nProperty Receipt\nDetective Bureau",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PROPERTY FOUND DECEASED (Probated) PERSONAL CONFISCATED DESTROY\nEVIDENCE TRIAL LABORATORY STOLEN/RECOVERED OTHER",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "05 368 09/27/05 1000 121726",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "345 S County Road Palm Beach FL",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "DET R CAREY PBPD",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "ERSTEIN JEFF 3575 Eldridlo VB",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "2 MAGAZINES, ONE IDENTIFIED FROM MAYWELL HARRIS FROM 1970S TRASH",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TOTAL PACKAGE WEIGHT",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt.\nI hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer.",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "07/26/17",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 94 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030894",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "DET R CAREY",
+      "ERSTEIN JEFF",
+      "MAYWELL HARRIS"
+    ],
+    "organizations": [
+      "Palm Beach Police Department"
+    ],
+    "locations": [
+      "Palm Beach",
+      "VB"
+    ],
+    "dates": [
+      "09/27/05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "05 368",
+      "121726",
+      "17-295",
+      "DOJ-OGR-00030894"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the Palm Beach Police Department. It contains handwritten information about the property impounded, including the incident/citation number, date/time recovered, address where property impounded, and description of the property. The document also includes signatures and dates."
+}

@@ -1,0 +1,67 @@
+{
+  "document_metadata": {
+    "page_number": "3 of 6",
+    "document_number": "PBPD Form #52",
+    "date": "10-20-05",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "PBI 'BEACH POLICE DEPARTMENT PAGE 3 OF 6 PROPERTY RECEIPT SEARCH WARRANT RETURN DETECTIVE BUREAU PROPERTY EVIDENCE FOUND TRIAL LABORATORY STOLEN/RECOVERED DECEASED (Probated) PERSONAL CONFISCATED DESTROY OTHER INCIDENT/CITATION NUMBER 05-368 DATE/TIME RECOVERED 10-20-05 PROPERTY NUMBER (Leave Blank) 05-10241 ADDRESS WHERE PROPERTY IMPOUNDED 358 El Brillo DISCOVERED BY/D.O.B. ADDRESS Street City Zip PHONE NUMBER OWNER / VICTIM'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER SUSPECT'S NAME / D.O.B. 01-20-53 ADDRESS 358 El Brillo Street City Zip PHONE NUMBER ADDITIONAL SUSPECT/D.O.B. ADDRESS Street City Zip PHONE NUMBER SPECIAL INSTRUCTIONS FOUND PROPERTY 90 DAYS CLAIM NOT CLAIM ITEM # QUANTITY VALUE DESCRIPTION 27 1 NCV Script, Alexander Hall, Master Bedroom Desk 28 1 Bottle of Toy Jelly, Master Bedroom Creamer 29 3 NCV Videotapes 1/2, SexinCity, Eatin Janine, Ilove Lesbians Four, Bedroom 30 6 NCV Framed Photos from Men's Bathroom-Master Bedroom 31 1 NCV Green Massage Table, Men's Bathroom-Master Bedroom DNA tests 32 1 NCV THRIFTY RENTAL AGREEMENT from CHEVRONT SUBURBAN (COPIED) 33 1 NCV NOTE from Johanna from Emeriot, Sue Reban 34 11 CD's from office of kitchen 35 6 ZIP CD's from Bookcase RETURN 36 2 8mm Video tapes from Bookcase RETURN 37 4 Compact flash cards from Bookcase RETURN 38 1 Flash card from Camera on book case RETURN TO OWNER 39 3 ZIP CD's from Bookcase RETURN 40 30 CD's from Bookcase (items 36-40 from Guest house TOTAL PACKAGE WEIGHT I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer. SIGNATURE DATE SIGNATURE ID# UNIT RECEIVED BY REASON DATE/TIME RECEIVED 07/26/17 Page 62 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030862",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PBI 'BEACH POLICE DEPARTMENT PAGE 3 OF 6 PROPERTY RECEIPT SEARCH WARRANT RETURN DETECTIVE BUREAU",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "05-368 10-20-05 05-10241 358 El Brillo 01-20-53 358 El Brillo",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SPECIAL INSTRUCTIONS FOUND PROPERTY 90 DAYS CLAIM NOT CLAIM",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Script, Alexander Hall, Master Bedroom Desk Bottle of Toy Jelly, Master Bedroom Creamer Videotapes 1/2, SexinCity, Eatin Janine, Ilove Lesbians Four, Bedroom Framed Photos from Men's Bathroom-Master Bedroom Green Massage Table, Men's Bathroom-Master Bedroom DNA tests THRIFTY RENTAL AGREEMENT from CHEVRONT SUBURBAN (COPIED) NOTE from Johanna from Emeriot, Sue Reban CD's from office of kitchen ZIP CD's from Bookcase RETURN 8mm Video tapes from Bookcase RETURN Compact flash cards from Bookcase RETURN Flash card from Camera on book case RETURN TO OWNER ZIP CD's from Bookcase RETURN CD's from Bookcase (items 36-40 from Guest house",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer.",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "07/26/17",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeff Epstein"
+    ],
+    "organizations": [
+      "PBI Beach Police Department",
+      "Detective Bureau"
+    ],
+    "locations": [
+      "358 El Brillo"
+    ],
+    "dates": [
+      "10-20-05",
+      "01-20-53",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "05-368",
+      "05-10241",
+      "17-295",
+      "DOJ-OGR-00030862"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the PBI Beach Police Department, detailing items seized during a search warrant execution. The document contains handwritten notes and appears to be a scanned copy."
+}

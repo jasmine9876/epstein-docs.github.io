@@ -1,0 +1,78 @@
+{
+  "document_metadata": {
+    "page_number": "51",
+    "document_number": "153497",
+    "date": "12/14/2005",
+    "document_type": "Billed Usage 3G",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "153497 12/14/2005 BILLED USAGE 3G Run Date: 12/19/05 Run Time: 11:43:35 ATLY$ Voice Usage For (917)855-3363 Account Number 004381863 Bill Cycle: 2 Item Date Time Number Called Calls To Mins Used Rate Charge Description Charge 879 10/04/05 09:48A (561)655-7626 WPALMBEACH FL 3 0.00 400 ADD'L ANYTIME MIN 880 10/04/05 09:54A (212)750-9895 NEW YORK NY 2 0.00 400 ADD'L ANYTIME MIN 881 10/04/05 10:32A (917)855-3363 NEW YORK NY 1 0.00 UNLIM MOBL TO MOBL 882 10/04/05 10:33A (561)655-7626 WPALMBEACH FL 1 0.00 400 ADD'L ANYTIME MIN 883 10/04/05 10:34A (740)802-4061 MARION OH 2 0.00 400 ADD'L ANYTIME MIN 884 10/04/05 10:35A (212)750-9895 NEW YORK NY 1 0.00 400 ADD'L ANYTIME MIN 885 10/04/05 10:37A (917)855-3363 NEW YORK NY 4 0.00 UNLIM MOBL TO MOBL 886 10/04/05 10:43A (740)802-4061 MARION OH 1 0.00 400 ADD'L ANYTIME MIN 887 10/04/05 10:45A (212)519-5600 INCOMING 3 0.00 400 ADD'L ANYTIME MIN 888 10/04/05 10:53A (212)750-9896 INCOMING 4 0.00 400 ADD'L ANYTIME MIN 889 10/04/05 10:58A LAKE WORTH FL 2 0.00 UNLIM MOBL TO MOBL 890 10/04/05 11:08A (561)655-7626 INCOMING 1 0.00 400 ADD'L ANYTIME MIN 891 10/04/05 11:14A (212)750-9895 INCOMING 1 0.00 400 ADD'L ANYTIME MIN 892 10/04/05 11:15A INCOMING 1 0.00 UNLIM MOBL TO MOBL 893 10/04/05 11:16A (561)655-0995 WPALMBEACH FL 1 0.00 400 ADD'L ANYTIME MIN 894 10/04/05 11:21A (212)879-9366 INCOMING 2 0.00 400 ADD'L ANYTIME MIN 895 10/04/05 11:26A (212)327-3200 NEW YORK NY 1 0.00 400 ADD'L ANYTIME MIN 896 10/04/05 11:26A (914)555-1212 6 0.00 400 ADD'L ANYTIME MIN 1.50 $1.50 897 10/04/05 11:33A (917)406-0001 INCOMING 3 0.00 UNLIM MOBL TO MOBL 898 10/04/05 11:36A (917)406-0001 NEW YORK NY 1 0.00 UNLIM MOBL TO MOBL 899 10/04/05 11:37A (917)406-0001 NEW YORK NY 2 0.00 UNLIM MOBL TO MOBL 900 10/04/05 01:48P (212)249-8510 INCOMING 2 0.00 400 ADD'L ANYTIME MIN MAT PROPRIETARY AND CONFIDENTIAL Not for use or disclosure outside Cingular Wireless and its Affiliates except under written agreement. Page 51 of 82 Page 46 07/26/17 Public Records Request No.: 17-295 DOJ-OGR-00030769",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "153497 12/14/2005 BILLED USAGE 3G",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Run Date: 12/19/05 Run Time: 11:43:35 ATLY$ Voice Usage For (917)855-3363 Account Number 004381863 Bill Cycle: 2",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Item Date Time Number Called Calls To Mins Used Rate Charge Description Charge",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "879 10/04/05 09:48A (561)655-7626 WPALMBEACH FL 3 0.00 400 ADD'L ANYTIME MIN",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "880 10/04/05 09:54A (212)750-9895 NEW YORK NY 2 0.00 400 ADD'L ANYTIME MIN",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "881 10/04/05 10:32A (917)855-3363 NEW YORK NY 1 0.00 UNLIM MOBL TO MOBL",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "PROPRIETARY AND CONFIDENTIAL Not for use or disclosure outside Cingular Wireless and its Affiliates except under written agreement.",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 51 of 82 Page 46 07/26/17 Public Records Request No.: 17-295 DOJ-OGR-00030769",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Cingular Wireless"
+    ],
+    "locations": [
+      "WPALMBEACH FL",
+      "NEW YORK NY",
+      "MARION OH",
+      "LAKE WORTH FL"
+    ],
+    "dates": [
+      "12/14/2005",
+      "12/19/05",
+      "10/04/05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "153497",
+      "004381863",
+      "17-295",
+      "DOJ-OGR-00030769"
+    ]
+  },
+  "additional_notes": "The document appears to be a billed usage report from Cingular Wireless. It contains a list of calls made on a specific date, including the call duration, rate, and charge description. The document is marked as 'PROPRIETARY AND CONFIDENTIAL' and is not for use or disclosure outside Cingular Wireless and its affiliates except under written agreement."
+}

@@ -1,0 +1,89 @@
+{
+  "document_metadata": {
+    "page_number": "73",
+    "document_number": "17-295",
+    "date": "2003 FEB 11",
+    "document_type": "Envelope",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "ATTERBURY GOLDBERGER WEISS, One Clearlake Centre, Suite 1400 250 Australian Avenue South West Palm Beach, FL 33401 2003 FEB 11 AM 8 58 Office of the State Attorney Lanna Belohlavek, Esquire 410 North Dixie Highway West Palm Beach, Florida 33401 3340134210 0021 FEB 08 08 3843979 $0.410 $0.410 $0.410 $0.410 $0.41 METER FL 33401 USPS POSTAGE 07/26/17 Page 73 of 131 Public Records Request No.: 17-295 DOJ-OGR-00030540",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "ATTERBURY GOLDBERGER WEISS,",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "One Clearlake Centre, Suite 1400 250 Australian Avenue South West Palm Beach, FL 33401",
+      "position": "header"
+    },
+    {
+      "type": "stamp",
+      "content": "2003 FEB 11 AM 8 58",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Office of the State Attorney Lanna Belohlavek, Esquire 410 North Dixie Highway West Palm Beach, Florida 33401",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "3340134210 0021",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "FEB 08 08 3843979 $0.410 $0.410 $0.410 $0.410 $0.41 METER FL 33401 USPS POSTAGE",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 73 of 131",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00030540",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Lanna Belohlavek"
+    ],
+    "organizations": [
+      "Office of the State Attorney",
+      "ATTERBURY GOLDBERGER WEISS",
+      "USPS"
+    ],
+    "locations": [
+      "West Palm Beach",
+      "Florida"
+    ],
+    "dates": [
+      "2003 FEB 11",
+      "FEB 08 08",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00030540",
+      "3340134210 0021",
+      "3843979"
+    ]
+  },
+  "additional_notes": "The document is an envelope with a postage stamp and a printed return address. The envelope is addressed to Lanna Belohlavek at the Office of the State Attorney. The document is part of a larger collection, as indicated by the 'Page 73 of 131' notation."
+}

@@ -1,0 +1,46 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00030587",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "NYD - NAG Desk Enrs Howardt Jen William Mossy ? Posesky Ken Desk Kosel Jeffrey E. Epstein",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "NYD - NAG Desk Enrs Howardt Jen William Mossy ? Posesky Ken Desk Kosel",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Jeffrey E. Epstein",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00030587",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey E. Epstein",
+      "William Mossy",
+      "Ken Desk",
+      "NAG",
+      "Howardt Jen",
+      "Posesky",
+      "Kosel"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00030587"
+    ]
+  },
+  "additional_notes": "The document appears to be a photocopy or scan with some smudges and marks. The handwritten text is likely a list of names or initials with some unclear abbreviations."
+}

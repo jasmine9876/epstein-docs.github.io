@@ -1,0 +1,68 @@
+{
+  "document_metadata": {
+    "page_number": "93",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "PBPD Form #52 PROPERTY RECEIPT DETECTIVE BUREAU PROPERTY EVIDENCE FOUND TRIAL DECEASED (Probated) LABORATORY PERSONAL STOLEN/RECOVERED CONFISCATED DESTROY OTHER INCIDENT/CITATION NUMBER DATE/TIME RECOVERED PROPERTY NUMBER (Leave Blank) BIN NUMBER (Leave Blank) ADDRESS WHERE PROPERTY IMPOUNDED DISCOVERED BY / D.O.B. ADDRESS Street City Zip PHONE NUMBER OWNER'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER SUSPECT'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER ADDT'NL. SUSPECT / D.O.B. ADDRESS Street City Zip PHONE NUMBER SPECIAL INSTRUCTIONS FOUND PROPERTY 90 DAYS CLAIM NOT CLAIM ITEM # QUANTITY VALUE DESCRIPTION TOTAL PACKAGE WEIGHT I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer. SIGNATURE DATE SIGNATURE ID# UNIT RECEIVED BY REASON DATE/TIME RECEIVED 07/26/17 Page 93 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030893",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PBPD Form #52 PROPERTY RECEIPT DETECTIVE BUREAU",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "05-26-16",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "34th & CURTIS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "DERRICK DOBBS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "BLACK SMITH & WESSON",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "07/26/17",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "DERRICK DOBBS"
+    ],
+    "organizations": [
+      "Detective Bureau"
+    ],
+    "locations": [
+      "34th & CURTIS"
+    ],
+    "dates": [
+      "05-26-16",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00030893"
+    ]
+  },
+  "additional_notes": "The document is a property receipt form filled out by hand. It contains information about the incident, the property impounded, and the person who received it. The form is dated 07/26/17 and is page 93 of 125."
+}

@@ -1,0 +1,101 @@
+{
+  "document_metadata": {
+    "page_number": "116",
+    "document_number": "PBPD Form #52",
+    "date": "07/26/17",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "LM BEACH POLICE DEPARTME PROPERTY RECEIPT DETECTIVE BUREAU PBPD Form #52 PROPERTY FOUND DECEASED (Probated) PERSONAL CONFISCATED DESTROY EVIDENCE TRIAL LABORATORY STOLEN/RECOVERED OTHER INCIDENT/CITATION NUMBER DATE/TIME RECOVERED PROPERTY NUMBER (Leave Blank) BIN NUMBER (Leave Blank) 3-31 09/06/17 0115 5821 168557 ADDRESS WHERE PROPERTY IMPOUNDED DISCOVERED BY / D.O.B. ADDRESS Street City Zip PHONE NUMBER Mohn 6/11 OWNER'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER SUSPECT'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER Keith 6/11/77 ADD'TNL. SUSPECT / D.O.B. ADDRESS Street City Zip PHONE NUMBER SPECIAL INSTRUCTIONS Page 1 of 2 FOUND PROPERTY 90 DAYS CLAIM NOT CLAIM ITEM # QUANTITY VALUE DESCRIPTION 1 1 white pan 2 1 Jet Blue receipt 3 1 4 1 5 1 NEGATIVE 6 1 white paper 7 1 8 1 9 1 10 1 11 1 NEGATIVE 12 1 13 1 white 14 1 NEGATIVE TOTAL PACKAGE WEIGHT I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer. SIGNATURE DATE SIGNATURE ID# UNIT RECEIVED BY REASON DATE/TIME RECEIVED 07/26/17 Page 116 of 125 Public Records Request No.: 17-295 DOJ-OGR-000309016",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "LM BEACH POLICE DEPARTME PROPERTY RECEIPT DETECTIVE BUREAU",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PBPD Form #52",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "3-31 09/06/17 0115 5821 168557",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Mohn 6/11 Keith 6/11/77",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SPECIAL INSTRUCTIONS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Page 1 of 2",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "white pan Jet Blue receipt NEGATIVE white paper NEGATIVE",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TOTAL PACKAGE WEIGHT",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt.",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer.",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "07/26/17",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page 116 of 125 Public Records Request No.: 17-295 DOJ-OGR-000309016",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Mohn",
+      "Keith"
+    ],
+    "organizations": [
+      "LM BEACH POLICE DEPARTMENT",
+      "DET"
+    ],
+    "locations": [
+      "LM BEACH"
+    ],
+    "dates": [
+      "09/06/17",
+      "07/26/17",
+      "6/11/77",
+      "6/11"
+    ],
+    "reference_numbers": [
+      "PBPD Form #52",
+      "3-31",
+      "5821",
+      "168557",
+      "17-295",
+      "DOJ-OGR-000309016"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the LM Beach Police Department. It contains handwritten information about the property, including descriptions and quantities. The document is dated 07/26/17 and is page 116 of 125."
+}

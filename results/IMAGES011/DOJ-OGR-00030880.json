@@ -1,0 +1,88 @@
+{
+  "document_metadata": {
+    "page_number": "80",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "PBPD Form #52\nM BEACH POLICE DEPARTML PROPERTY RECEIPT DETECTIVE BUREAU\nPROPERTY EVIDENCE FOUND DECEASED (Probated) PERSONAL CONFISCATED DESTROY TRIAL LABORATORY STOLEN/RECOVERED OTHER\nINCIDENT/CITATION NUMBER DATE/TIME RECOVERED PROPERTY NUMBER (Leave Blank) BIN NUMBER (Leave Blank)\n05-368 4/1/05 05-313 128148\nADDRESS WHERE PROPERTY IMPOUNDED\n305 S. 20th Ave. 1st Ct.\nDISCOVERED BY / D.O.B. ADDRESS Street City Zip PHONE NUMBER\nOWNER'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER\n5/3/90 1234-78th St. 561-233-7195\nSUSPECT'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER\nJ 2/05/53 2100-78th St.\nADDT'NL. SUSPECT / D.O.B. ADDRESS Street City Zip PHONE NUMBER\nmale 4/05 12-17\nSPECIAL INSTRUCTIONS\nFOUND PROPERTY 90 DAYS CLAIM NOT CLAIM\nITEM # QUANTITY VALUE DESCRIPTION\n1 1 marijuana cigarette - white envelope\n(3/31/05, 4/1/05)\nTOTAL PACKAGE WEIGHT\nI hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt.\nI hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer.\nSIGNATURE DATE SIGNATURE ID# UNIT\nRECEIVED BY REASON DATE/TIME RECEIVED\nPalmateer LC 4/1/05 1630\n07/26/17 Page 80 of 125 Public Records Request No.: 17-295\nDOJ-OGR-00030880",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PBPD Form #52\nM BEACH POLICE DEPARTML PROPERTY RECEIPT DETECTIVE BUREAU",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "05-368 4/1/05 05-313 128148",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "305 S. 20th Ave. 1st Ct.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "5/3/90 1234-78th St. 561-233-7195",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "J 2/05/53 2100-78th St.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "male 4/05 12-17",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1 1 marijuana cigarette - white envelope",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(3/31/05, 4/1/05)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Palmateer LC 4/1/05 1630",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Palmateer"
+    ],
+    "organizations": [
+      "M Beach Police Department",
+      "Detective Bureau"
+    ],
+    "locations": [
+      "305 S. 20th Ave.",
+      "1234-78th St.",
+      "2100-78th St."
+    ],
+    "dates": [
+      "4/1/05",
+      "3/31/05",
+      "07/26/17",
+      "5/3/90",
+      "2/05/53",
+      "4/05"
+    ],
+    "reference_numbers": [
+      "05-368",
+      "05-313",
+      "128148",
+      "17-295",
+      "DOJ-OGR-00030880"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the M Beach Police Department. It contains handwritten information about the property, including the incident/citation number, date/time recovered, property number, and BIN number. The document also includes the name and address of the owner and suspect, as well as a description of the property. The document is signed by the receiving officer and includes a date and time received."
+}

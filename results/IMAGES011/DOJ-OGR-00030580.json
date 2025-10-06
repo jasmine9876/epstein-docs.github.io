@@ -1,0 +1,47 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00030580",
+    "date": "9/19/2005",
+    "document_type": "receipt",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "BICE RISTORANTE Time: 17:37:38 9/19/2005 1 CUSTOMER TELE # 1 --- Customer 1 --- 1 PROSCIUTTO 1 FAPPARDELE 1 GNOCCHI PESTO 1 VEAL PARMEGIAN w P.M. sub: 00 TAX 00 TOTAL 00 ##########################################",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "BICE RISTORANTE",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Time: 17:37:38 9/19/2005 1 CUSTOMER TELE # 1",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "--- Customer 1 --- 1 PROSCIUTTO 1 FAPPARDELE 1 GNOCCHI PESTO 1 VEAL PARMEGIAN w P.M. sub: 00 TAX 00 TOTAL 00",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "##########################################",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "BICE RISTORANTE"
+    ],
+    "locations": [],
+    "dates": [
+      "9/19/2005"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00030580"
+    ]
+  },
+  "additional_notes": "The image is a black and white photocopy of a receipt. The receipt appears to be from BICE RISTORANTE and lists several food items. The total cost is $0.00."
+}

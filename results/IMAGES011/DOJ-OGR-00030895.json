@@ -1,0 +1,92 @@
+{
+  "document_metadata": {
+    "page_number": "95",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT DETECTIVE BUREAU PBPD Form #52 PROPERTY FOUND DECEASED (Probated) PERSONAL CONFISCATED DESTROY EVIDENCE TRIAL LABORATORY STOLEN/RECOVERED OTHER INCIDENT/CITATION NUMBER DATE/TIME RECOVERED PROPERTY NUMBER (Leave Blank) BIN NUMBER (Leave Blank) 05 368 09/30/05 940h ADDRESS WHERE PROPERTY IMPOUNDED 345 COUNTY LINE RD W. PALM BEACH DISCOVERED BY /D.O.B. ADDRESS Street City Zip PHONE NUMBER DET. REED OWNER'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER SUSPECT'S NAME / D.O.B. 1/20/53 ADDRESS Street City Zip PHONE NUMBER ERIC JEROME 6/4/xx 78 ADD'TNL. SUSPECT / D.O.B. ADDRESS Street City Zip PHONE NUMBER SPECIAL INSTRUCTIONS FOUND PROPERTY 90 DAYS CLAIM NOT CLAIM ITEM # QUANTITY VALUE DESCRIPTION 1 1 Piece of PAPER with ANONYMOUS NAME (TRAX 43005) TOTAL PACKAGE WEIGHT I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. SIGNATURE DATE I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer. SIGNATURE ID# UNIT RECEIVED BY REASON DATE/TIME RECEIVED 07/26/17 Page 95 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030895",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT DETECTIVE BUREAU",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PBPD Form #52",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "05 368 09/30/05 940h",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "345 COUNTY LINE RD W. PALM BEACH",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "DET. REED",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1/20/53 ERIC JEROME 6/4/xx 78",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Piece of PAPER with ANONYMOUS NAME (TRAX 43005)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt.",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer.",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 95 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030895",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "DET. REED",
+      "ERIC JEROME"
+    ],
+    "organizations": [
+      "PALM BEACH POLICE DEPARTMENT"
+    ],
+    "locations": [
+      "PALM BEACH"
+    ],
+    "dates": [
+      "09/30/05",
+      "07/26/17",
+      "1/20/53",
+      "6/4/xx"
+    ],
+    "reference_numbers": [
+      "05 368",
+      "17-295",
+      "DOJ-OGR-00030895"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the Palm Beach Police Department. It contains handwritten information about the property, including the incident/citation number, date/time recovered, address where property impounded, and suspect's name and date of birth. The document also includes a section for special instructions and a list of items seized."
+}

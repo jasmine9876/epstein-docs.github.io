@@ -1,0 +1,52 @@
+{
+  "document_metadata": {
+    "page_number": "111",
+    "document_number": "PBPD Form #52",
+    "date": "10/20/05",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "PBPD Form #52 PROPERTY RECEIPT SEARCH WARRANT RETURN DETECTIVE BUREAU PROPERTY FOUND DECEASED (Probated) PERSONAL CONFISCATED DESTROY EVIDENCE TRIAL LABORATORY STOLEN/RECOVERED OTHER INCIDENT/CITATION NUMBER DATE/TIME RECOVERED PROPERTY NUMBER (Leave Blank) BIN NUMBER (Leave Blank) 10/20/05 05-1003 129443 ADDRESS WHERE PROPERTY IMPOUNDED 358 EL-Brillo DISCOVERED BY / D.O.B. ADDRESS Street City Zip PHONE NUMBER Residence room of attic 358 EL-Brillo OWNER'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER Schelleen Douglas SUSPECT'S NAME / D.O.B. 1-20-53 ADDRESS Street City Zip PHONE NUMBER EPSTEIN, Jeffrey 358 EL-Brillo ADD'L. SUSPECT/D.O.B. ADDRESS Street City Zip PHONE NUMBER SPECIAL INSTRUCTIONS FOUND PROPERTY 90 DAYS CLAIM NOT CLAIM ITEM # QUANTITY VALUE DESCRIPTION 1 3 fbx pkgs (box 1st/2nd Cabana) TOTAL PACKAGE WEIGHT I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer. SIGNATURE DATE SIGNATURE ID# UNIT P.A. Chabot 10-20-05 784 D2 RECEIVED BY REASON DATE/TIME RECEIVED Karin receipt 10/20/05 11:49am 07/26/17 Page 111 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030911",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PBPD Form #52 PROPERTY RECEIPT SEARCH WARRANT RETURN DETECTIVE BUREAU",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Residence room of attic 358 EL-Brillo Schelleen Douglas EPSTEIN, Jeffrey 1-20-53 358 EL-Brillo 1 3 fbx pkgs (box 1st/2nd Cabana) P.A. Chabot 10-20-05 784 D2 Karin receipt 10/20/05 11:49am",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer.",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Schelleen Douglas",
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "Detective Bureau"
+    ],
+    "locations": [
+      "358 EL-Brillo"
+    ],
+    "dates": [
+      "10/20/05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "PBPD Form #52",
+      "05-1003",
+      "129443",
+      "17-295",
+      "DOJ-OGR-00030911"
+    ]
+  },
+  "additional_notes": "The document is a property receipt form filled out by hand. It contains information about the property impounded, the suspect, and the officer who impounded it. The form is dated 10/20/05 and has a public records request number of 17-295."
+}

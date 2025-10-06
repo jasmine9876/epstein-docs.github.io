@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": "53",
+    "document_number": "153497",
+    "date": "12/14/2005",
+    "document_type": "Billed Usage 3G",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "153497 BILLED USAGE 3G 12/14/2005 Run Date: 12/19/05 Run Time: 11:43:35 ATYS Voice Usage For (917)855-3363 Account Number 0043811863 Bill Cycle: 2 Item Date Time Number Called Calls To Mins Used Rate Charge Description Charge 924 10/05/05 09:48A (340)774-1611 CHTAMSTTHS VI 2 0.00 400 ADD'L ANYTIME MIN 925 10/05/05 10:32A (212)535-3030 INCOMING 2 0.00 400 ADD'L ANYTIME MIN 926 10/05/05 10:57A (212)319-7775 INCOMING 3 0.00 400 ADD'L ANYTIME MIN 927 10/05/05 11:01A (212)535-6833 NEW YORK NY 1 0.00 400 ADD'L ANYTIME MIN 928 10/05/05 11:01A (212)750-9895 NEW YORK NY 7 0.00 400 ADD'L ANYTIME MIN 929 10/05/05 11:11A (212)750-9895 NEW YORK NY 6 0.00 400 ADD'L ANYTIME MIN 930 10/05/05 11:17A (212)535-6833 NEW YORK NY 1 0.00 400 ADD'L ANYTIME MIN 931 10/05/05 11:17A (917)855-3363 NEW YORK NY 1 0.00 UNLIM MOBL TO MOBL 932 10/05/05 11:19A (917)520-3106 NEW YORK NY 1 0.00 UNLIM MOBL TO MOBL 933 10/05/05 11:20A (212)879-9366 NEW YORK NY 2 0.00 400 ADD'L ANYTIME MIN 934 10/05/05 11:36A (212)750-9895 NEW YORK NY 1 0.00 400 ADD'L ANYTIME MIN 935 10/05/05 11:58A (212)750-9895 NEW YORK NY 3 0.00 400 ADD'L ANYTIME MIN 936 10/05/05 12:01P (212)535-6831 INCOMING 0.00 CALL WAITING 937 10/05/05 12:04P (212)879-9366 NEW YORK NY 2 0.00 400 ADD'L ANYTIME MIN 938 10/05/05 12:07P (917)855-3363 NEW YORK NY 3 0.00 400 ADD'L ANYTIME MIN 939 10/05/05 12:45P (212)997-1516 INCOMING 1 0.00 400 ADD'L ANYTIME MIN 940 10/05/05 12:49P (740)802-4061 INCOMING 3 0.00 400 ADD'L ANYTIME MIN 941 10/05/05 01:48P (212)750-9791 INCOMING 3 0.00 400 ADD'L ANYTIME MIN 942 10/05/05 01:51P (212)746-5410 NEW YORK NY 2 0.00 400 ADD'L ANYTIME MIN 943 10/05/05 03:33P (212)750-9895 NEW YORK NY 1 0.00 400 ADD'L ANYTIME MIN 944 10/05/05 03:37P (917)855-3363 NEW YORK NY 1 0.00 UNLIM MOBL TO MOBL 945 10/05/05 03:38P (212)750-9895 NEW YORK NY 1 0.00 400 ADD'L ANYTIME MIN MAT PROPRIETARY AND CONFIDENTIAL Page 48 Not for use or disclosure outside Cingular Wireless and its Affiliates except under written agreement. 07/26/17 Page 53 of 82 Public Records Request No.: 17-295 DOJ-OGR-00030771",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "153497 BILLED USAGE 3G 12/14/2005",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Run Date: 12/19/05 Run Time: 11:43:35 ATYS Voice Usage For (917)855-3363 Account Number 0043811863 Bill Cycle: 2",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Item Date Time Number Called Calls To Mins Used Rate Charge Description Charge",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "924 10/05/05 09:48A (340)774-1611 CHTAMSTTHS VI 2 0.00 400 ADD'L ANYTIME MIN ... 945 10/05/05 03:38P (212)750-9895 NEW YORK NY 1 0.00 400 ADD'L ANYTIME MIN",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "MAT PROPRIETARY AND CONFIDENTIAL Page 48 Not for use or disclosure outside Cingular Wireless and its Affiliates except under written agreement.",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 53 of 82 Public Records Request No.: 17-295 DOJ-OGR-00030771",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Cingular Wireless"
+    ],
+    "locations": [
+      "NEW YORK NY",
+      "CHTAMSTTHS VI"
+    ],
+    "dates": [
+      "12/14/2005",
+      "12/19/05",
+      "10/05/05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "153497",
+      "0043811863",
+      "17-295",
+      "DOJ-OGR-00030771"
+    ]
+  },
+  "additional_notes": "The document appears to be a billed usage report for a Cingular Wireless account. The report details various calls made on October 5, 2005, including the date, time, number called, and charge description. The document is marked as 'PROPRIETARY AND CONFIDENTIAL' and is not for use or disclosure outside Cingular Wireless and its affiliates except under written agreement."
+}

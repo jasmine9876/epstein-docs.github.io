@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "105",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "V'M BEACH POLICE DEPARTME PROPERTY RECEIPT DETECTIVE BUREAU PBPD Form #52 PROPERTY FOUND DECEASED (Probated) PERSONAL CONFISCATED DESTROY EVIDENCE TRIAL LABORATORY STOLEN/RECOVERED OTHER INCIDENT/CITATION NUMBER DATE/TIME RECOVERED PROPERTY NUMBER (Leave Blank) BIN NUMBER (Leave Blank) 05-24 2100 13 ADDRESS WHERE PROPERTY IMPOUNDED 1234 N. 1st St. DISCOVERED BY / D.O.B. ADDRESS Street City Zip PHONE NUMBER OWNER'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER SUSPECT'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER ADDT'NL. SUSPECT / D.O.B. ADDRESS Street City Zip PHONE NUMBER SPECIAL INSTRUCTIONS FOUND PROPERTY 90 DAYS CLAIM NOT CLAIM ITEM # QUANTITY VALUE DESCRIPTION 1 1 2 1 TOTAL PACKAGE WEIGHT I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer. SIGNATURE DATE SIGNATURE ID# UNIT RECEIVED BY REASON DATE/TIME RECEIVED 07/26/17 Page 105 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030905",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "V'M BEACH POLICE DEPARTME PROPERTY RECEIPT DETECTIVE BUREAU",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PBPD Form #52",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "05-24 2100 13",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1234 N. 1st St.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1 1",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "2 1",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "07/26/17",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "V'M Beach Police Department",
+      "Detective Bureau"
+    ],
+    "locations": [
+      "1234 N. 1st St."
+    ],
+    "dates": [
+      "05-24",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00030905",
+      "05-24",
+      "2100",
+      "13"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the V'M Beach Police Department. It contains handwritten information in various fields, including incident/citation number, date/time recovered, address where property impounded, and item descriptions. The document is dated 07/26/17 and is page 105 of 125."
+}

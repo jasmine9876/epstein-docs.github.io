@@ -1,0 +1,104 @@
+{
+  "document_metadata": {
+    "page_number": "86",
+    "document_number": "PBPD Form #52",
+    "date": "10-11-05",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT DETECTIVE BUREAU PBPD Form #52 PROPERTY FOUND DECEASED (Probated) PERSONAL CONFISCATED DESTROY EVIDENCE TRIAL LABORATORY STOLEN/RECOVERED OTHER INCIDENT/CITATION NUMBER 05 368 DATE/TIME RECOVERED 10-11-05 1700 PROPERTY NUMBER (Leave Blank) BIN NUMBER (Leave Blank) 12 ADDRESS WHERE PROPERTY IMPOUNDED 345 S. COUNTY ROAD DISCOVERED BY/D.O.B. DET. RECARLY ADDRESS PBPD Street City Zip PHONE NUMBER OWNER'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER SUSPECT'S NAME / D.O.B. 1-7057 EPSTEIN JEFF ADDRESS 358 EL BRALLO Street City Zip PHONE NUMBER ADDT'NL. SUSPECT/D.O.B. ADDRESS Street City Zip PHONE NUMBER SPECIAL INSTRUCTIONS FOUND PROPERTY 90 DAYS CLAIM NOT CLAIM ITEM # QUANTITY VALUE DESCRIPTION 1 1 DRAWING BY (12-30-86) DRS TOTAL PACKAGE WEIGHT I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer. SIGNATURE DATE SIGNATURE 7915 D2 ID# UNIT RECEIVED BY REASON DATE/TIME RECEIVED 07/26/17 Page 86 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030886",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DETECTIVE BUREAU",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PBPD Form #52",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "05 368",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "10-11-05 1700",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "12",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "345 S. COUNTY ROAD",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "DET. RECARLY",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "PBPD",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1-7057 EPSTEIN JEFF",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "358 EL BRALLO",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1 1 DRAWING BY (12-30-86) DRS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7915 D2",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "DET. RECARLY",
+      "EPSTEIN JEFF"
+    ],
+    "organizations": [
+      "PALM BEACH POLICE DEPARTMENT"
+    ],
+    "locations": [
+      "345 S. COUNTY ROAD",
+      "358 EL BRALLO"
+    ],
+    "dates": [
+      "10-11-05",
+      "12-30-86",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "05 368",
+      "1-7057",
+      "PBPD Form #52",
+      "17-295",
+      "DOJ-OGR-00030886"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the Palm Beach Police Department. It contains handwritten information about the property, including the incident/citation number, date/time recovered, address where property impounded, and suspect's name. The document also includes a section for special instructions and a list of items seized."
+}

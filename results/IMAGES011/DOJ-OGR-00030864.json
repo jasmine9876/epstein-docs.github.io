@@ -1,0 +1,112 @@
+{
+  "document_metadata": {
+    "page_number": "5 of 6",
+    "document_number": "PBPD Form #52",
+    "date": "10-20-05",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Palm Beach Police Department Property Receipt Page 5 of 6 Detective Bureau SEARCH WARRANT RETURN PROPERTY FOUND DECEASED (Probated) PERSONAL CONFISCATED DESTROY EVIDENCE TRIAL LABORATORY STOLEN/RECOVERED OTHER INCIDENT/CITATION NUMBER 05-368 DATE/TIME RECOVERED 10-20-05 PROPERTY NUMBER (Leave Blank) 05-1024 BIN NUMBER (Leave Blank) ADDRESS WHERE PROPERTY IMPOUNDED 358 EL-Brillo Palm Beach DISCOVERED BY / D.O.B. ADDRESS Street City Zip PHONE NUMBER OWNER'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER SUSPECT'S NAME/D.O.B. 07/20/53 Epstein Jeff 358 EL Brillo ADDRESS Street City Zip PHONE NUMBER ADD'T'NL SUSPECT/D.O.B. ADDRESS Street City Zip PHONE NUMBER SPECIAL INSTRUCTIONS FOUND PROPERTY 80 DAYS CLAIM NOT CLAIM ITEM # QUANTITY VALUE DESCRIPTION 54 1 Power cord to CPU #53 55 1 CPU from office off kitchen (Haly Return) 56 1 Power cord to item #55 57 3 CD's Jhum #55-57 from office off Kitchen Return Peach message table upstairs Bedroom Return general Return Return Return TOTAL PACKAGE WEIGHT I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer. SIGNATURE DATE SIGNATURE ID# UNIT RECEIVED BY REASON DATE/TIME RECEIVED 07/26/17 Page 64 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030864",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Palm Beach Police Department Property Receipt Page 5 of 6 Detective Bureau",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "SEARCH WARRANT RETURN",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "05-368",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "10-20-05",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "05-1024",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "358 EL-Brillo Palm Beach",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "07/20/53 Epstein Jeff 358 EL Brillo",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "54 1 Power cord to CPU #53",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "55 1 CPU from office off kitchen (Haly Return)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "56 1 Power cord to item #55",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "57 3 CD's Jhum #55-57 from office off Kitchen Return",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Peach message table upstairs Bedroom Return",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "general Return",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7915 D2",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "07/26/17",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeff Epstein"
+    ],
+    "organizations": [
+      "Palm Beach Police Department"
+    ],
+    "locations": [
+      "Palm Beach",
+      "358 EL-Brillo"
+    ],
+    "dates": [
+      "10-20-05",
+      "07/20/53",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "05-368",
+      "05-1024",
+      "17-295",
+      "DOJ-OGR-00030864"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the Palm Beach Police Department. It contains handwritten notes and appears to be a scanned copy. The document is in good condition, with some minor damage to the edges."
+}

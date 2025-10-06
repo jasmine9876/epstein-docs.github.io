@@ -1,0 +1,77 @@
+{
+  "document_metadata": {
+    "page_number": "90 of 125",
+    "document_number": "PBPD Form #52",
+    "date": "07/26/17",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT DETECTIVE BUREAU PBPD Form #52 PROPERTY FOUND DECEASED (Probated) PERSONAL CONFISCATED DESTROY EVIDENCE TRIAL LABORATORY STOLEN/RECOVERED OTHER INCIDENT/CITATION NUMBER DATE/TIME RECOVERED PROPERTY NUMBER (Leave Blank) BIN NUMBER (Leave Blank) 05 308 11/15/05 1:00pm ADDRESS WHERE PROPERTY IMPOUNDED 245 county road mokena DISCOVERED BY / D.O.B. ADDRESS Street City Zip PHONE NUMBER DET 9/28/05 OWNER'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER SUSPECT'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER EBROWN 9/28/05 ADDITIONAL SUSPECT / D.O.B. ADDRESS Street City Zip PHONE NUMBER SPECIAL INSTRUCTIONS COURT COPY FOUND PROPERTY 90 DAYS CLAIM NOT CLAIM ITEM # QUANTITY VALUE DESCRIPTION 1 1 20mg MICROCASSIE STATMENT 1 1 1/2 UNF 42188 (JUVENILE) TOTAL PACKAGE WEIGHT I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer. SIGNATURE DATE SIGNATURE ID# UNIT RECEIVED BY REASON DATE/TIME RECEIVED 07/26/17 Page 90 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030890",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT DETECTIVE BUREAU",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PBPD Form #52",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "05 308 11/15/05 1:00pm 245 county road mokena DET 9/28/05 EBROWN 9/28/05",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TOTAL PACKAGE WEIGHT",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1 1 20mg MICROCASSIE STATMENT 1 1 1/2 UNF 42188 (JUVENILE)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer.",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "07/26/17",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 90 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030890",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "EBROWN"
+    ],
+    "organizations": [
+      "PALM BEACH POLICE DEPARTMENT",
+      "DETECTIVE BUREAU"
+    ],
+    "locations": [
+      "245 county road mokena"
+    ],
+    "dates": [
+      "11/15/05",
+      "9/28/05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "05 308",
+      "PBPD Form #52",
+      "17-295",
+      "DOJ-OGR-00030890"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the Palm Beach Police Department. It contains handwritten information about the property impounded, including the incident/citation number, date/time recovered, address where property impounded, and suspect's name. The document also includes a section for special instructions and a table for listing the items impounded."
+}

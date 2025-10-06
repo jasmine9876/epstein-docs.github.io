@@ -1,0 +1,59 @@
+{
+  "document_metadata": {
+    "page_number": "23",
+    "document_number": "153497",
+    "date": "12/14/2005",
+    "document_type": "Billed Usage",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "153497\n12/14/2005\nBILLED USAGE 3G\nRun Date: 12/19/05\nRun Time: 11:43:35\nATLYS Voice Usage For (917)855-3363\nAccount Number 004381863 Bill Cycle: 2\nItem Date Time Number Called Calls To Mins Used Rate Charge Description Charge\n327 09/17/05 04:11P (212)472-6991 NEW YORK NY 3 0.00 UNLIMITED N/WKND MIN\n328 09/17/05 04:14P (201)363-2336 INCOMING 3 0.00 UNLIMITED N/WKND MIN\n329 09/17/05 04:17P (740)802-4061 MARION OH 4 0.00 UNLIMITED N/WKND MIN\n330 09/17/05 04:20P (212)472-6991 NEW YORK NY 1 0.00 UNLIMITED N/WKND MIN\n331 09/17/05 05:20P (917)855-3363 NEW YORK NY 2 0.00 UNLIMITED N/WKND MIN\n0.00 MESSAGE RETRIEVAL\n332 09/17/05 05:25P (917)855-3363 NEW YORK NY 0.00 MESSAGE RETRIEVAL\n333 09/17/05 05:35P (212)643-1274 NEW YORK NY 1 0.00 UNLIMITED N/WKND MIN\n334 09/17/05 05:38P (740)802-4061 MARION OH 1 0.00 UNLIMITED N/WKND MIN\n335 09/17/05 05:48P (808)754-0079 HONOLULU HI 2 0.00 UNLIMITED N/WKND MIN\n336 09/17/05 05:55P (646)232-3311 NWYRCYZN01 NY 7 0.00 UNLIMITED N/WKND MIN\n337 09/17/05 05:59P (917)855-3363 NEW YORK NY 0.00 MESSAGE RETRIEVAL\n338 09/17/05 06:01P (212)772-9416 NEW YORK NY 1 0.00 UNLIMITED N/WKND MIN\n339 09/17/05 06:02P (646)369-7984 NEW YORK NY 2 0.00 UNLIMITED N/WKND MIN\n340 09/17/05 06:04P (212)772-9416 INCOMING 1 0.00 UNLIMITED N/WKND MIN\n341 09/17/05 06:13P (646)232-3311 NWYRCYZN01 NY 1 0.00 UNLIMITED N/WKND MIN\n342 09/17/05 06:38P (917)806-5903 NEW YORK NY 9 0.00 UNLIMITED N/WKND MIN\n343 09/17/05 06:38P (212)879-2670 INCOMING 7 0.00 UNLIMITED N/WKND MIN\n0.00 CALL WAITING\n344 09/17/05 07:20P (917)855-3363 NEW YORK NY 6 0.00 UNLIMITED N/WKND MIN\n1 0.00 UNLIMITED N/WKND MIN\n0.00 MESSAGE RETRIEVAL\nMAT PROPRIETARY AND CONFIDENTIAL Not for use or disclosure outside Cingular Wireless and its Affiliates except under written agreement. Page 18\n07/26/17 Page 23 of 82 Public Records Request No.: 17-295 DOJ-OGR-00030741",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "153497\n12/14/2005\nBILLED USAGE 3G",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Run Date: 12/19/05\nRun Time: 11:43:35\nAT...",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "MAT PROPRIETARY AND CONFIDENTIAL Not for use or disclosure outside Cingular Wireless and its Affiliates except under written agreement.",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 23 of 82 Public Records Request No.: 17-295 DOJ-OGR-00030741",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Cingular Wireless"
+    ],
+    "locations": [
+      "New York",
+      "Marion",
+      "Ohio",
+      "Honolulu",
+      "HI"
+    ],
+    "dates": [
+      "12/14/2005",
+      "12/19/05",
+      "09/17/05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "153497",
+      "004381863",
+      "17-295",
+      "DOJ-OGR-00030741"
+    ]
+  },
+  "additional_notes": "The document appears to be a billed usage report from Cingular Wireless. It contains a detailed list of calls made on a specific account, including dates, times, numbers called, and charges. The document is marked as 'PROPRIETARY AND CONFIDENTIAL' and is not for use or disclosure outside Cingular Wireless and its affiliates except under written agreement."
+}

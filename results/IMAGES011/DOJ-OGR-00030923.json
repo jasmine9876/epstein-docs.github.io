@@ -1,0 +1,93 @@
+{
+  "document_metadata": {
+    "page_number": "123 of 125",
+    "document_number": "PBPD Form #52",
+    "date": "10-20-05",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "PALM BEACH POLICE DEPARTMENT DETECTIVE BUREAU PROPERTY RECEIPT PBPD Form #52 PROPERTY EVIDENCE FOUND TRIAL DECEASED (Probated) LABORATORY PERSONAL STOLEN/RECOVERED OTHER CONFISCATED DESTROY INCIDENT/CITATION NUMBER 05-368 DATE/TIME RECOVERED 10-20-05 PROPERTY NUMBER (Leave Blank) 05-1021 BIN NUMBER (Leave Blank) ADDRESS WHERE PROPERTY IMPOUNDED 358 EL-Brillo Palm Beach DISCOVERED BY / D.O.B. ADDRESS Street City Zip PHONE NUMBER OWNER'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER SUSPECT'S NAME / D.O.B. 1-10-75 Erin Jeff ADDRESS 550 EL-Brillo Street City Zip PHONE NUMBER ADDT'NL. SUSPECT / D.O.B. ADDRESS Street City Zip PHONE NUMBER SPECIAL INSTRUCTIONS FOUND PROPERTY 90 DAYS CLAIM NOT CLAIM ITEM # QUANTITY VALUE DESCRIPTION 54 1 Power cord to CPU #53 55 1 CPE from office off Kitchen 56 1 Power cord to item #55 57 3 CD's Return #55-57 from Office off Kitchen 58 1 Peach message table upstands broken TOTAL PACKAGE WEIGHT I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. SIGNATURE DATE I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer. SIGNATURE ID# UNIT RECEIVED BY REASON DATE/TIME RECEIVED 07/26/17 Page 123 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030923",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PALM BEACH POLICE DEPARTMENT DETECTIVE BUREAU PROPERTY RECEIPT",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PBPD Form #52",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "05-368",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "10-20-05",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "05-1021",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "358 EL-Brillo Palm Beach",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1-10-75 Erin Jeff 550 EL-Brillo",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "54 1 Power cord to CPU #53 55 1 CPE from office off Kitchen 56 1 Power cord to item #55 57 3 CD's Return #55-57 from Office off Kitchen 58 1 Peach message table upstands broken",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt.",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer.",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "RETURN RETURN RETURN",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Erin Jeff"
+    ],
+    "organizations": [
+      "Palm Beach Police Department",
+      "Detective Bureau"
+    ],
+    "locations": [
+      "Palm Beach",
+      "EL-Brillo"
+    ],
+    "dates": [
+      "10-20-05",
+      "1-10-75",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "05-368",
+      "05-1021",
+      "17-295",
+      "DOJ-OGR-00030923"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the Palm Beach Police Department. It contains handwritten information about the property impounded, including the incident/citation number, date/time recovered, property number, and description of the items. The document also includes signatures and dates."
+}

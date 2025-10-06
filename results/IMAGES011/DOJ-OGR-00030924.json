@@ -1,0 +1,97 @@
+{
+  "document_metadata": {
+    "page_number": "124 of 125",
+    "document_number": "PBPD Form #52",
+    "date": "10/20/05",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT DETECTIVE BUREAU PBPD Form #52 PROPERTY FOUND DECEASED (Probated) PERSONAL CONFISCATED DESTROY EVIDENCE TRIAL LABORATORY STOLEN/RECOVERED OTHER INCIDENT/CITATION NUMBER DATE/TIME RECOVERED PROPERTY NUMBER (Leave Blank) BIN NUMBER (Leave Blank) 05 1024 ADDRESS WHERE PROPERTY IMPOUNDED 358 hwy blu to DISCOVERED BY / D.O.B. ADDRESS Street City Zip PHONE NUMBER OWNER'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER SUSPECT'S NAME / D.O.B. KEISHA JOLE ADDRESS 358 hwy blu to City Zip PHONE NUMBER ADDT'NL SUSPECT / D.O.B. ADDRESS Street City Zip PHONE NUMBER SPECIAL INSTRUCTIONS FOUND PROPERTY 90 DAYS CLAIM NOT CLAIM ITEM # QUANTITY VALUE DESCRIPTION GUN 1 * GLock 10 mm Frame and slide unloaded 6/6/09 TOTAL PACKAGE WEIGHT I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer. SIGNATURE DATE SIGNATURE ID# UNIT RECEIVED BY REASON DATE/TIME RECEIVED AP 329 07/26/17 Page 124 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030924",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT DETECTIVE BUREAU",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PBPD Form #52",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "05-1024",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "10/20/05 140",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "358 hwy blu to",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "KEISHA JOLE",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "358 hwy blu to",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "GUN 1 * GLock 10 mm Frame and slide unloaded 6/6/09",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TOTAL PACKAGE WEIGHT",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "AP 329",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00030924",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "KEISHA JOLE"
+    ],
+    "organizations": [
+      "PALM BEACH POLICE DEPARTMENT",
+      "DETECTIVE BUREAU"
+    ],
+    "locations": [
+      "358 hwy blu to"
+    ],
+    "dates": [
+      "10/20/05",
+      "6/6/09",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "05-1024",
+      "PBPD Form #52",
+      "17-295",
+      "DOJ-OGR-00030924"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the Palm Beach Police Department. It contains handwritten information about the property, including a gun, and the suspect's name. The document is dated 10/20/05 and was received on 07/26/17."
+}

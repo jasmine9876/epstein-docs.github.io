@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "101",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "PBPD Form #52 PROPERTY RECEIPT DETECTIVE BUREAU PROPERTY FOUND DECEASED (Probated) PERSONAL CONFISCATED DESTROY EVIDENCE TRIAL LABORATORY STOLEN/RECOVERED OTHER INCIDENT/CITATION NUMBER DATE/TIME RECOVERED PROPERTY NUMBER (Leave Blank) BIN NUMBER (Leave Blank) 05-2603 10/14/05/0228 05-943 12 1512 ADDRESS WHERE PROPERTY IMPOUNDED 3203 El Brilliant Way Palm Beach FL 33480 DISCOVERED BY /D.O.B. ADDRESS Street City Zip PHONE NUMBER V. Manuel 8/21/06 OWNER'S NAME /D.O.B. ADDRESS Street City Zip PHONE NUMBER SUSPECT'S NAME /D.O.B. 01/02/03 ADDRESS Street City Zip PHONE NUMBER Freeman Jeffrey 3203 El Brilliant Way Palm Beach Zip PHONE NUMBER ADDTNL. SUSPECT /D.O.B. ADDRESS Street City Zip PHONE NUMBER SPECIAL INSTRUCTIONS FOUND PROPERTY 90 DAYS CLAIM NOT CLAIM ITEM # QUANTITY VALUE DESCRIPTION 1 have. pieces of papers documentation removed from trash at 3203 El Brilliant Way TOTAL PACKAGE WEIGHT I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. SIGNATURE DATE I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer. SIGNATURE ID# UNIT RECEIVED BY REASON DATE/TIME RECEIVED 07/26/17 Page 101 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030901",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PBPD Form #52 PROPERTY RECEIPT DETECTIVE BUREAU",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "have. pieces of papers documentation removed from trash at 3203 El Brilliant Way",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt.",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "V. Manuel 8/21/06",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Freeman Jeffrey",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "3203 El Brilliant Way Palm Beach",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [
+      "V. Manuel",
+      "Freeman Jeffrey"
+    ],
+    "organizations": [
+      "Detective Bureau"
+    ],
+    "locations": [
+      "3203 El Brilliant Way",
+      "Palm Beach",
+      "FL"
+    ],
+    "dates": [
+      "10/14/05",
+      "8/21/06",
+      "01/02/03",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "05-2603",
+      "05-943",
+      "12 1512",
+      "17-295"
+    ]
+  },
+  "additional_notes": "The document is a property receipt form filled out by hand with some printed sections. It includes details about the property impounded, the person who discovered it, and the suspect. The document is dated 07/26/17 and is page 101 of 125."
+}

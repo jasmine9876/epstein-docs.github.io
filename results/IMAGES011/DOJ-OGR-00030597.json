@@ -1,0 +1,53 @@
+{
+  "document_metadata": {
+    "page_number": "130",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Public Records Request",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "can not come at 7am tomorrow b/c of soccon 07/26/17 Page 130 of 131 Public Records Request No.: 17-295 DOJ-OGR-00030597",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "can not come at 7am tomorrow b/c of soccon",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 130 of 131",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00030597",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ-OGR"
+    ],
+    "locations": [],
+    "dates": [
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00030597"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned page with handwritten notes and printed metadata. The handwritten text is somewhat difficult to read due to the quality of the scan and the presence of a blacked-out section. The document has a footer with date, page number, and reference information."
+}

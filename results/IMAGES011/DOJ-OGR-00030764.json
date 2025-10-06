@@ -1,0 +1,78 @@
+{
+  "document_metadata": {
+    "page_number": "46",
+    "document_number": "153497",
+    "date": "12/14/2005",
+    "document_type": "BILLED USAGE 3G",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "153497 12/14/2005 BILLED USAGE 3G cingular Run Date: 12/19/05 Run Time: 11:43:35 ATLYS Voice Usage For (917)855-3363 Account Number 0043811863 Bill Cycle: 2 Item Date Time Number Called Calls To Mins Used Rate Charge Description Charge 782 10/02/05 11:57A 447836747546 mobile UK 1 0.00 UNLIMITED N/WKND MIN 783 10/02/05 11:58A (917)957-5341 NY ZONE 1 NY 1 0.25 ENH DISC INT DL $0.25 784 10/02/05 11:58A (919)741-1869 RALEIGH NC 39 0.00 UNLIMITED N/WKND MIN 785 10/02/05 01:25P (917)855-3363 NEW YORK NY 0.00 MESSAGE RETRIEVAL 786 10/02/05 02:04P (646)496-3248 INCOMING 1 0.00 UNLIMITED N/WKND MIN 787 10/02/05 02:37P (917)855-3363 NEW YORK NY 1 0.00 MESSAGE RETRIEVAL 788 10/02/05 02:39P (646)496-3248 NEWYORKZN1 NY 1 0.00 UNLIMITED N/WKND MIN 789 10/02/05 02:45P (917)957-5341 NY ZONE 1 NY 2 0.00 UNLIMITED N/WKND MIN 790 10/02/05 03:03P (561)655-7626 WPALMBEACH FL 5 0.00 UNLIMITED N/WKND MIN 791 10/02/05 03:08P (917)913-6283 NEW YORK NY 3 0.00 UNLIMITED N/WKND MIN 792 10/02/05 03:30P (561)655-7626 INCOMING 2 0.00 UNLIMITED N/WKND MIN 793 10/02/05 03:36P (917)957-5341 NY ZONE 1 NY 2 0.00 UNLIMITED N/WKND MIN 794 10/02/05 03:37P (310)210-9944 INCOMING 1 0.00 UNLIMITED N/WKND MIN 795 10/02/05 03:40P (646)232-3311 NWYRCYZN01 NY 1 0.00 UNLIMITED N/WKND MIN 796 10/02/05 03:53P (917)957-5341 INCOMING 11 0.00 UNLIMITED N/WKND MIN 797 10/02/05 04:04P (917)855-3363 NEW YORK NY 0.00 MESSAGE RETRIEVAL 798 10/02/05 04:06P (917)855-3363 NEW YORK NY 1 0.00 UNLIMITED N/WKND MIN 0.00 MESSAGE RETRIEVAL 799 10/02/05 04:12P (646)232-3311 INCOMING 18 0.00 UNLIMITED N/WKND MIN MAT PROPRIETARY AND CONFIDENTIAL Not for use or disclosure outside Cingular Wireless and its Affiliates except under written agreement. Page 41 07/26/17 Page 46 of 82 Public Records Request No.: 17-295 DOJ-OGR-00030764",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "153497 12/14/2005 BILLED USAGE 3G",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Run Date: 12/19/05 Run Time: 11:43:35 ATLYS Voice Usage For (917)855-3363 Account Number 0043811863 Bill Cycle: 2",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Item Date Time Number Called Calls To Mins Used Rate Charge Description Charge",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "782 10/02/05 11:57A 447836747546 mobile UK 1 0.00 UNLIMITED N/WKND MIN",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "783 10/02/05 11:58A (917)957-5341 NY ZONE 1 NY 1 0.25 ENH DISC INT DL $0.25",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "784 10/02/05 11:58A (919)741-1869 RALEIGH NC 39 0.00 UNLIMITED N/WKND MIN",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "MAT PROPRIETARY AND CONFIDENTIAL Not for use or disclosure outside Cingular Wireless and its Affiliates except under written agreement.",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 41 07/26/17 Page 46 of 82 Public Records Request No.: 17-295 DOJ-OGR-00030764",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Cingular Wireless"
+    ],
+    "locations": [
+      "UK",
+      "New York",
+      "Raleigh",
+      "West Palm Beach"
+    ],
+    "dates": [
+      "12/14/2005",
+      "12/19/05",
+      "10/02/05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "153497",
+      "0043811863",
+      "17-295",
+      "DOJ-OGR-00030764"
+    ]
+  },
+  "additional_notes": "The document appears to be a billing statement from Cingular Wireless, detailing voice usage for a specific account. The document is marked as 'PROPRIETARY AND CONFIDENTIAL' and contains a public records request number."
+}

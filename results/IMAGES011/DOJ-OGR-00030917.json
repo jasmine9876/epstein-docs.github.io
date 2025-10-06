@@ -1,0 +1,126 @@
+{
+  "document_metadata": {
+    "page_number": "117",
+    "document_number": "PBPD Form #52",
+    "date": "04/21/05",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "PBPD Form #52\n\nLM BEACH POLICE DEPARTMENT\nPROPERTY RECEIPT\nDETECTIVE BUREAU\n\nPROPERTY FOUND DECEASED (Probated) PERSONAL CONFISCATED DESTROY\nEVIDENCE TRIAL LABORATORY STOLEN/RECOVERED OTHER\nINCIDENT/CITATION NUMBER DATE/TIME RECOVERED PROPERTY NUMBER (Leave Blank) BIN NUMBER (Leave Blank)\n04.11.05 1915 hrs 05-382 128552\nADDRESS WHERE PROPERTY IMPOUNDED\n\nDISCOVERED BY / D.O.B. ADDRESS Street City Zip PHONE NUMBER\n6.6. 1.1.5\nOWNER'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER\nSUSPECT'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER\nADD'L. SUSPECT / D.O.B. ADDRESS Street City Zip PHONE NUMBER\n\nSPECIAL INSTRUCTIONS\nFOUND PROPERTY 90 DAYS CLAIM NOT CLAIM\n\nITEM # QUANTITY VALUE DESCRIPTION\n1 15 Prescription Pills\n2 1 White T-Shirt - Victoria Secret\n3 1 White Shirt - Ralph Lauren\n4 1 Pink - Maidenform\n5 1 \"V\" Necklace w/ Diamond 774-1 12\n6 1 Yellow Gold Ring w/ Diamond 110-1 12\n7 1 Gold Ring w/ Diamond 110-1 12\n8 1 Ring\n\nTOTAL PACKAGE WEIGHT\n\nI hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt.\n\nI hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer.\n\nSIGNATURE DATE SIGNATURE ID# UNIT\nRECEIVED BY REASON DATE/TIME RECEIVED\n95878 04/21/05 0700\n\n07/26/17 Page 117 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030917",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PBPD Form #52",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "LM BEACH POLICE DEPARTMENT\nPROPERTY RECEIPT",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DETECTIVE BUREAU",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PROPERTY FOUND DECEASED (Probated) PERSONAL CONFISCATED DESTROY\nEVIDENCE TRIAL LABORATORY STOLEN/RECOVERED OTHER",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "04.11.05 1915 hrs 05-382 128552",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "INCIDENT/CITATION NUMBER DATE/TIME RECOVERED PROPERTY NUMBER (Leave Blank) BIN NUMBER (Leave Blank)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "ADDRESS WHERE PROPERTY IMPOUNDED",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "6.6. 1.1.5",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SPECIAL INSTRUCTIONS",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FOUND PROPERTY 90 DAYS CLAIM NOT CLAIM",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "ITEM # QUANTITY VALUE DESCRIPTION",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1 15 Prescription Pills\n2 1 White T-Shirt - Victoria Secret\n3 1 White Shirt - Ralph Lauren\n4 1 Pink - Maidenform\n5 1 \"V\" Necklace w/ Diamond 774-1 12\n6 1 Yellow Gold Ring w/ Diamond 110-1 12\n7 1 Gold Ring w/ Diamond 110-1 12\n8 1 Ring",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TOTAL PACKAGE WEIGHT",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt.",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer.",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "95878",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "04/21/05 0700",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 117 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030917",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "LM BEACH POLICE DEPARTMENT",
+      "DETECTIVE BUREAU"
+    ],
+    "locations": [
+      "LM Beach"
+    ],
+    "dates": [
+      "04/11/05",
+      "04/21/05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "PBPD Form #52",
+      "05-382",
+      "128552",
+      "17-295",
+      "DOJ-OGR-00030917"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the LM Beach Police Department. It contains handwritten information about the items seized, including prescription pills, clothing, and jewelry. The document is dated 04/21/05 and has a public records request number of 17-295."
+}

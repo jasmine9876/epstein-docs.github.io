@@ -1,0 +1,85 @@
+{
+  "document_metadata": {
+    "page_number": "110 of 125",
+    "document_number": "PBPD Form #52",
+    "date": "10-24-05",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT CONTRIBUTOR'S COPY PBPD Form #52 PROPERTY FOUND DECEASED (Probated) PERSONAL CONFISCATED DESTROY EVIDENCE TRIAL LABORATORY STOLEN/RECOVERED OTHER INCIDENT/CITATION NUMBER 05 368 DATE/TIME RECOVERED 10-24-05 1045 PROPERTY NUMBER (Leave Blank) BIN NUMBER (Leave Blank) ADDRESS WHERE PROPERTY IMPOUNDED 2745 Sunny Isles Blvd DISCOVERED BY / D.O.B. Krauc /et al ADDR Street City Zip PHONE NUMBER OWNER'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER SUSPECT'S NAME / D.O.B. Lisa N. Jet ADDRESS Street City Zip PHONE NUMBER ADDT'NL. SUSPECT / D.O.B. ADDRESS Street City Zip PHONE NUMBER SPECIAL INSTRUCTIONS FOUND PROPERTY 90 DAYS CLAIM NOT CLAIM ITEM # QUANTITY VALUE DESCRIPTION 1 MISS DIAL MESSAGES cell TO: LISA (10-24-05) TOTAL PACKAGE WEIGHT I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer. SIGNATURE DATE SIGNATURE ID# UNIT RECEIVED BY REASON DATE/TIME RECEIVED 07/26/17 Page 110 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030910",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT CONTRIBUTOR'S COPY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PBPD Form #52",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "05 368 10-24-05 1045",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "2745 Sunny Isles Blvd",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Krauc /et al",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Lisa N. Jet",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1 MISS DIAL MESSAGES cell TO: LISA (10-24-05)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TOTAL PACKAGE WEIGHT",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Zik 02",
+      "position": "signature"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 110 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030910",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Krauc",
+      "Lisa N. Jet"
+    ],
+    "organizations": [
+      "PALM BEACH POLICE DEPARTMENT"
+    ],
+    "locations": [
+      "Sunny Isles Blvd"
+    ],
+    "dates": [
+      "10-24-05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "05 368",
+      "17-295",
+      "DOJ-OGR-00030910"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the Palm Beach Police Department. It contains handwritten information about the incident, including the incident/citation number, date/time recovered, address where property impounded, and description of the property. The document also includes a signature and ID number of the officer who impounded the property."
+}

@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Cellphone usage records",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "SARAH KEILEN CELL\nSARAH KEILEN\nCELLPHONE USAGE\n9/05 - 10/05\n(DISCOVERY OF INVESTIGATION &\nPREPARATIONS TO\nCOME TO DAUM BEACH)\n07/26/17 Page 1 of 82 Public Records Request No.: 17-295 DOJ-OGR-00030719",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "SARAH KEILEN CELL",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "SARAH KEILEN\nCELLPHONE USAGE\n9/05 - 10/05\n(DISCOVERY OF INVESTIGATION &\nPREPARATIONS TO\nCOME TO DAUM BEACH)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 1 of 82 Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00030719",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Sarah Keilen"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [
+      "Daum Beach"
+    ],
+    "dates": [
+      "9/05",
+      "10/05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00030719"
+    ]
+  },
+  "additional_notes": "The document appears to be a cover page for a collection of cellphone usage records related to an investigation. The handwriting is clear, but the context suggests that the content may be related to a legal or law enforcement matter."
+}

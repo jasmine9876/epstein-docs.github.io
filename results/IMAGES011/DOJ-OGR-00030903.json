@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": "103",
+    "document_number": "17-295",
+    "date": "02/14/05",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT DETECTIV FOUND DECEASED (Probated) PERSONAL CONFISCATED TRIAL LABORATORY STOLEN/RECOVERED OTHER EVENT/CITATION NUMBER DATE/TIME RECOVERED PROPERTY NUMBER (Leave Blank) BIN NUMBER (Leave Blank) ADDRESS WHERE PROPERTY IMPOUNDED DISCOVERED BY/D.O.B. OWNER'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER SUSPECT'S NAME /D.O.B. ADDRESS Street City Zip PHONE NUMBER ADDT'NL. SUSPECT/D.O.B. ADDRESS Street City Zip PHONE NUMBER SPECIAL INSTRUCTIONS FOUND PROPERTY 90 DAYS CLAIM NOT CLAIM ITEM # QUANTITY VALUE DESCRIPTION 1 1 TAPED CONVERSATION - REF INCIDENT REPORT TOTAL PACKAGE WEIGHT nowledge that the above list represents all property taken that I have received a copy of this receipt. I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer. DATE SIGNATURE ID# UNIT RECEIVED BY REASON DATE/TIME RECEIVED 05-368 02/14/05 1616 05-237 12812 3155 SOUTH COUNTY ROAD PB FL 33480 (PBPD) PACAN #2059 7/4/80 1 2 07/26/17 Page 103 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030903",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "05-368 02/14/05 1616 05-237 12812 3155 SOUTH COUNTY ROAD PB FL 33480 (PBPD) PACAN #2059 7/4/80 1 2",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TOTAL PACKAGE WEIGHT",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "TAPED CONVERSATION - REF INCIDENT REPORT",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "07/26/17",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00030903",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "PACAN"
+    ],
+    "organizations": [
+      "PALM BEACH POLICE DEPARTMENT"
+    ],
+    "locations": [
+      "SOUTH COUNTY ROAD",
+      "PALM BEACH",
+      "FL"
+    ],
+    "dates": [
+      "02/14/05",
+      "07/26/17",
+      "7/4/80"
+    ],
+    "reference_numbers": [
+      "05-368",
+      "05-237",
+      "12812",
+      "17-295",
+      "DOJ-OGR-00030903"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the Palm Beach Police Department. It contains handwritten information and appears to be a scanned copy. The document is dated 02/14/05 and has a public records request number of 17-295."
+}

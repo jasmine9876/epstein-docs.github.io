@@ -1,0 +1,82 @@
+{
+  "document_metadata": {
+    "page_number": "76",
+    "document_number": "PBPD Form #52",
+    "date": "07/26/17",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT DETECTIVE BUREAU PBPD Form #52 PROPERTY FOUND DECEASED (Probated) PERSONAL CONFISCATED DESTROY EVIDENCE TRIAL LABORATORY STOLEN/RECOVERED OTHER INCIDENT/CITATION NUMBER DATE/TIME RECOVERED PROPERTY NUMBER (Leave Blank) BIN NUMBER (Leave Blank) 05-306 ADDRESS WHERE PROPERTY IMPOUNDED 315 DISCOVERED BY / D.O.B. ADDRESS Street City Zip PHONE NUMBER D7J1H7 OWNER'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER SUSPECT'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER EJ1H7 ADDT'NL. SUSPECT / D.O.B. ADDRESS Street City Zip PHONE NUMBER SPECIAL INSTRUCTIONS Seen Cow ITEM # QUANTITY VALUE DESCRIPTION 1 1 Whiskey bottle with some liquid in it 2 1 Whiskey bottle with some liquid TOTAL PACKAGE WEIGHT I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer. SIGNATURE DATE SIGNATURE ID# UNIT RECEIVED BY REASON DATE/TIME RECEIVED 07/26/17 Page 76 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030876",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PALM BEACH POLICE DEPARTMENT PROPERTY RECEIPT DETECTIVE BUREAU",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PBPD Form #52",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "05-306",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "315",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "D7J1H7 EJ1H7",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Seen Cow",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1 1 Whiskey bottle with some liquid in it 2 1 Whiskey bottle with some liquid",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer.",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "9342",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 76 of 125 Public Records Request No.: 17-295 DOJ-OGR-00030876",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Palm Beach Police Department"
+    ],
+    "locations": [
+      "Palm Beach"
+    ],
+    "dates": [
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "PBPD Form #52",
+      "05-306",
+      "17-295",
+      "DOJ-OGR-00030876"
+    ]
+  },
+  "additional_notes": "The document is a property receipt from the Palm Beach Police Department. It contains handwritten information about the property recovered, including a description of two whiskey bottles. The document is dated 07/26/17 and is page 76 of 125."
+}
