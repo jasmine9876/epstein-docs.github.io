@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "21",
+    "document_number": "675",
+    "date": "06/25/22",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 675 Filed 06/25/22 Page 21 of 21 Respectfully submitted, MARSH LAW FIRM PLLC /s/ Robert Y. Lewis 31 Hudson Yards, 11th Floor New York, New York 10001 Phone: 212-372-3030 Email: robertlewis@marsh.law /s/ Margaret E. Mabie 31 Hudson Yards, 11th Floor New York, New York 10001 Phone: 212-372-3030 Email: margaretmabie@marsh.law 21 DOJ-OGR-00010712",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 675 Filed 06/25/22 Page 21 of 21",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Respectfully submitted, MARSH LAW FIRM PLLC",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "/s/ Robert Y. Lewis 31 Hudson Yards, 11th Floor New York, New York 10001 Phone: 212-372-3030 Email: robertlewis@marsh.law",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "/s/ Margaret E. Mabie 31 Hudson Yards, 11th Floor New York, New York 10001 Phone: 212-372-3030 Email: margaretmabie@marsh.law",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "21",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00010712",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Robert Y. Lewis",
+      "Margaret E. Mabie"
+    ],
+    "organizations": [
+      "MARSH LAW FIRM PLLC"
+    ],
+    "locations": [
+      "New York",
+      "Hudson Yards"
+    ],
+    "dates": [
+      "06/25/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "675",
+      "DOJ-OGR-00010712"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with two signatures. The text is clear and legible."
+}

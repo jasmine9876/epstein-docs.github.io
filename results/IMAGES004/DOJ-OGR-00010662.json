@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "673",
+    "date": "06/24/22",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 673 Filed 06/24/22 Page 3 of 3 Respectfully submitted, DAMIAN WILLIAMS United States Attorney By: s/ Maurene Comey Alison Moe Lara Pomerantz Andrew Rohrbach Assistant United States Attorneys Southern District of New York Cc: Defense Counsel (by ECF) 3 DOJ-OGR-00010662",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 673 Filed 06/24/22 Page 3 of 3",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Respectfully submitted, DAMIAN WILLIAMS United States Attorney By: s/ Maurene Comey Alison Moe Lara Pomerantz Andrew Rohrbach Assistant United States Attorneys Southern District of New York Cc: Defense Counsel (by ECF)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "3",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00010662",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Damian Williams",
+      "Maurene Comey",
+      "Alison Moe",
+      "Lara Pomerantz",
+      "Andrew Rohrbach"
+    ],
+    "organizations": [
+      "United States Attorney",
+      "Southern District of New York"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "06/24/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "673",
+      "DOJ-OGR-00010662"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a signature block and a list of attorneys involved in the case. The document is well-formatted and legible."
+}

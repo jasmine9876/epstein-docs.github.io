@@ -1,0 +1,42 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00010157",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case: 20-00038-LT11 Doc#: 6448-20 Filed: 09/21/22 Page: 5874 of 1717 [PAGES A-5874 TO A-5902 INTENTIONALLY LEFT BLANK] DOJ-OGR-00010157",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case: 20-00038-LT11 Doc#: 6448-20 Filed: 09/21/22 Page: 5874 of 1717",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "[PAGES A-5874 TO A-5902 INTENTIONALLY LEFT BLANK]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00010157",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "09/21/22"
+    ],
+    "reference_numbers": [
+      "20-00038-LT11",
+      "6448-20",
+      "DOJ-OGR-00010157"
+    ]
+  },
+  "additional_notes": "The document is a blank page with a notice that it was intentionally left blank."
+}

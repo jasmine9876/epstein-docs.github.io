@@ -54,37 +54,53 @@ class EntityDeduplicator:
 
         if entity_type == "people":
             examples = """Examples:
-{
+{{
   "Jeffrey Epstein": ["Jeffrey Epstein", "JEFFREY EPSTEIN", "Epstein", "EPSTEIN", "J. Epstein", "Jeffrey E. Epstein", "J Epstein", "Jeffery Epstein", "Mr. Epstein", "Jeffrey E.", "Epstein's"],
   "Ghislaine Maxwell": ["Ghislaine Maxwell", "GHISLAINE MAXWELL", "Maxwell", "G. Maxwell", "Ghislane Maxwell", "Ghislain Maxwell", "Ms. Maxwell"],
   "Bill Clinton": ["Bill Clinton", "BILL CLINTON", "Clinton", "William Clinton", "William J. Clinton", "President Clinton", "William Jefferson Clinton"],
   "Prince Andrew": ["Prince Andrew", "PRINCE ANDREW", "Andrew", "Duke of York", "HRH Prince Andrew", "Prince Andrew, Duke of York"]
-}
+}}
+
+CORRECT handling of numbered identifiers:
+{{
+  "Accuser 1": ["Accuser 1", "Accuser-1", "Accuser 01", "ACCUSER 1"],
+  "Accuser 2": ["Accuser 2", "Accuser-2", "Accuser 02", "ACCUSER 2"],
+  "Accuser 3": ["Accuser 3", "Accuser-3", "Accuser 03"],
+  "Jane Doe 1": ["Jane Doe 1", "Jane Doe-1", "JANE DOE 1"],
+  "Jane Doe 2": ["Jane Doe 2", "Jane Doe-2"]
+}}
 
 WRONG EXAMPLES (DO NOT DO THIS):
-{
+{{
+  "Accusers 1-3": ["Accuser 1", "Accuser 2", "Accuser 3"] // WRONG - these are different people!
+  "Victims": ["Victim 1", "Victim 2", "Victim 3"] // WRONG - keep them separate
   "Mr. Epstein's brother": ["Jeffrey Epstein", "Epstein"] // WRONG - use actual name
   "The President": ["Bill Clinton"] // WRONG - use actual name
   "Plaintiff's attorney": ["John Smith"] // WRONG - use actual name
-}"""
+}}"""
         elif entity_type == "organizations":
             examples = """Examples:
-{
+{{
   "Federal Bureau of Investigation": ["Federal Bureau of Investigation", "FBI", "F.B.I.", "FEDERAL BUREAU OF INVESTIGATION", "Federal Bureau Of Investigation"],
   "United States District Court": ["United States District Court", "U.S. District Court", "USDC", "District Court"],
   "Victoria's Secret": ["Victoria's Secret", "VICTORIA'S SECRET", "Victorias Secret", "Victoria Secret"]
-}"""
+}}"""
         else:  # locations
             examples = """Examples:
-{
+{{
   "New York City": ["New York City", "NEW YORK CITY", "NYC", "New York", "New York, NY", "New York City, NY", "Manhattan"],
   "Little Saint James": ["Little Saint James", "LITTLE SAINT JAMES", "Little St. James", "Little St James", "LSJ"],
   "Palm Beach": ["Palm Beach", "PALM BEACH", "Palm Beach, Florida", "Palm Beach, FL"]
-}"""
+}}"""
 
         return f"""You are an expert at identifying and merging duplicate entities in legal documents.
 
 Given a list of {entity_type}, identify which names refer to the same entity and group them under their canonical name.
+
+⚠️⚠️⚠️ CRITICAL WARNING ⚠️⚠️⚠️
+The canonical name MUST be an actual person's PROPER NAME (First + Last).
+NEVER use descriptive phrases like "Mr. X's brother" or "The defendant".
+If you see "Jeffrey Epstein" in the list, that MUST be the canonical name, NOT "Mr. Epstein's brother".
 
 CRITICAL RULES FOR CANONICAL NAMES:
 
@@ -100,6 +116,13 @@ CRITICAL RULES FOR CANONICAL NAMES:
 - Possessive forms (e.g., "Epstein's", "Maxwell's")
 - Roles or relationships (e.g., "co-conspirator", "witness", "victim")
 - Generic references (e.g., "he", "she", "defendant")
+
+**CRITICAL: Do NOT merge numbered identifiers:**
+- "Accuser 1", "Accuser 2", "Accuser 3" are DIFFERENT people - keep them separate
+- "Victim 1", "Victim 2", "Victim 3" are DIFFERENT people - keep them separate
+- "Witness 1", "Witness 2", "Witness 3" are DIFFERENT people - keep them separate
+- "Jane Doe 1", "Jane Doe 2" are DIFFERENT people - keep them separate
+- ONLY merge if the NUMBER is the same (e.g., "Accuser 1" = "Accuser-1" = "Accuser-01")
 
 **Deduplication Rules:**
 1. **Use Proper Names Only**: The canonical name MUST be an actual person's name
@@ -143,9 +166,23 @@ VALIDATION:
 - Examples of GOOD canonical names: "Jeffrey Epstein", "Bill Clinton", "John Smith"
 - Examples of BAD canonical names: "Mr. Epstein's brother", "The defendant", "Plaintiff"
 
+STEP-BY-STEP PROCESS:
+1. Look at the list of variants
+2. Find the FULL PROPER NAME (e.g., "Jeffrey Epstein")
+3. Use that as the canonical name
+4. Add all other variants to the array
+5. NEVER use descriptive phrases as canonical names
+
+EXAMPLE THOUGHT PROCESS:
+Variants: ["Jeffrey Epstein", "Epstein", "Mr. Epstein", "Mr. Epstein's brother", "J. Epstein"]
+Question: Which is the actual person's full name?
+Answer: "Jeffrey Epstein" ✓
+NOT "Mr. Epstein's brother" ✗ (this is a description, not a name)
+Result: {{"Jeffrey Epstein": ["Jeffrey Epstein", "Epstein", "Mr. Epstein", "Mr. Epstein's brother", "J. Epstein"]}}
+
 Return ONLY valid JSON with NO extra text, markdown, or explanations."""
 
-    def deduplicate_entities(self, entities: List[str], entity_type: str, batch_size: int = 50) -> Dict[str, str]:
+    def deduplicate_entities(self, entities: List[str], entity_type: str, batch_size: int = 30) -> Dict[str, str]:
         """Use LLM to deduplicate entities, processing in batches"""
         if not entities:
             return {}
@@ -167,10 +204,10 @@ Return ONLY valid JSON with NO extra text, markdown, or explanations."""
                         },
                         {
                             "role": "user",
-                            "content": f"Identify duplicates in this list of {entity_type}:\n\n" + "\n".join(f"- {e}" for e in batch)
+                            "content": f"Identify duplicates in this list of {entity_type}:\n\n" + "\n".join(f"- {e}" for e in batch) + "\n\nRemember: Use FULL PROPER NAMES as canonical (e.g., 'Jeffrey Epstein'), NOT descriptions (e.g., 'Mr. Epstein's brother')."
                         }
                     ],
-                    temperature=0.1,
+                    temperature=0.0,  # Make it deterministic
                     max_tokens=4096
                 )
 
@@ -235,29 +272,55 @@ Return ONLY valid JSON with NO extra text, markdown, or explanations."""
                 for canonical, variants in groups.items():
                     # Validate canonical name for people
                     if entity_type == "people":
-                        # Check for bad canonical names
-                        bad_patterns = [
-                            r"'s\s+(brother|sister|friend|attorney|lawyer|associate)",
-                            r"^(the|a)\s+(defendant|plaintiff|witness|victim|judge|president)",
-                            r"^mr\.|^ms\.|^mrs\.|^dr\.\s*$",
-                            r"co-conspirator|witness\s+\d+|victim\s+\d+",
-                            r"'s$"  # ends with possessive
-                        ]
+                        # Check if this incorrectly merged numbered identifiers
+                        # e.g., "Accusers 1-3" should be split back into separate people
+                        if re.search(r'(accuser|victim|witness|jane doe|john doe)s?\s*\d+\s*-\s*\d+', canonical, re.IGNORECASE):
+                            # This is wrong - split it back
+                            print(f"  ⚠️  Incorrectly merged group: '{canonical}' - splitting back into individuals")
+                            # Map each variant to itself
+                            for variant in variants:
+                                all_mappings[variant] = variant
+                            continue
 
+                        # Check for bad canonical names - be very aggressive
                         canonical_lower = canonical.lower()
-                        for pattern in bad_patterns:
-                            if re.search(pattern, canonical_lower):
-                                # This is a bad canonical name - try to find a better one
-                                # Look for the longest actual name in the variants
-                                better_name = max(
-                                    (v for v in variants if len(v.split()) >= 2 and not re.search(pattern, v.lower())),
-                                    key=len,
-                                    default=canonical
-                                )
-                                if better_name != canonical:
+
+                        # Pattern: anything with 's brother/sister/friend/attorney/mother/father etc
+                        if re.search(r"'s\s+(brother|sister|friend|attorney|lawyer|associate|mother|father|son|daughter)", canonical_lower):
+                            # Find actual name from variants
+                            actual_names = [v for v in variants if not re.search(r"'s\s+(brother|sister|friend|attorney|lawyer|associate|mother|father|son|daughter)", v.lower())]
+                            if actual_names:
+                                # Prefer names with first and last name
+                                full_names = [n for n in actual_names if len(n.split()) >= 2]
+                                if full_names:
+                                    # Pick the longest/most complete
+                                    better_name = max(full_names, key=len)
                                     print(f"  ⚠️  Fixed bad canonical: '{canonical}' → '{better_name}'")
                                     canonical = better_name
-                                break
+
+                        # Pattern: "The X" or "A X" (defendant, plaintiff, etc)
+                        elif re.search(r"^(the|a)\s+(defendant|plaintiff|witness|victim|judge|president)", canonical_lower):
+                            actual_names = [v for v in variants if not re.search(r"^(the|a)\s+", v.lower()) and len(v.split()) >= 2]
+                            if actual_names:
+                                better_name = max(actual_names, key=len)
+                                print(f"  ⚠️  Fixed bad canonical: '{canonical}' → '{better_name}'")
+                                canonical = better_name
+
+                        # Pattern: ends with possessive
+                        elif canonical_lower.endswith("'s") or canonical_lower.endswith("'s"):
+                            non_possessive = [v for v in variants if not (v.lower().endswith("'s") or v.lower().endswith("'s"))]
+                            if non_possessive:
+                                better_name = max(non_possessive, key=len)
+                                print(f"  ⚠️  Fixed bad canonical: '{canonical}' → '{better_name}'")
+                                canonical = better_name
+
+                        # Pattern: just title (Mr., Ms., Dr.) alone
+                        elif re.match(r"^(mr|ms|mrs|dr|judge|president)\.?\s*$", canonical_lower):
+                            actual_names = [v for v in variants if len(v.split()) >= 2]
+                            if actual_names:
+                                better_name = max(actual_names, key=len)
+                                print(f"  ⚠️  Fixed bad canonical: '{canonical}' → '{better_name}'")
+                                canonical = better_name
 
                     for variant in variants:
                         all_mappings[variant] = canonical
@@ -288,7 +351,7 @@ Return ONLY valid JSON with NO extra text, markdown, or explanations."""
 
         return final_mappings
 
-    def process_all(self, batch_size: int = 50) -> Dict[str, Dict[str, str]]:
+    def process_all(self, batch_size: int = 30) -> Dict[str, Dict[str, str]]:
         """Process all entity types"""
         print("=" * 60)
         print("ENTITY DEDUPLICATION")
@@ -340,7 +403,7 @@ def main():
     parser.add_argument("--api-url", help="OpenAI-compatible API base URL")
     parser.add_argument("--api-key", help="API key")
     parser.add_argument("--model", help="Model name")
-    parser.add_argument("--batch-size", type=int, default=50, help="Entities per batch (default: 50)")
+    parser.add_argument("--batch-size", type=int, default=30, help="Entities per batch (default: 30)")
     parser.add_argument("--show-stats", action="store_true", help="Show current deduplication stats and exit")
 
     args = parser.parse_args()

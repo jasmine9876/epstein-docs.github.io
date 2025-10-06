@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "67",
+    "document_number": "663",
+    "date": "06/15/22",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 663 Filed 06/15/22 Page 67 of 77 EXHIBIT I DOJ-OGR-00010513",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 663 Filed 06/15/22 Page 67 of 77",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EXHIBIT I",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00010513",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "06/15/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "663",
+      "DOJ-OGR-00010513"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a header indicating the case number, document number, filing date, and page number. The main content is labeled 'EXHIBIT I' and has a unique identifier 'DOJ-OGR-00010513' at the bottom."
+}

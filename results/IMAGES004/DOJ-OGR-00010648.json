@@ -1,0 +1,49 @@
+{
+  "document_metadata": {
+    "page_number": "57",
+    "document_number": "672",
+    "date": "06/24/22",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 672 Filed 06/24/22 Page 57 of 68 EXHIBIT F ENTIRE EXHIBIT SHOULD BE PRECLUDED DOJ-OGR-00010648",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 672 Filed 06/24/22 Page 57 of 68",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EXHIBIT F",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "ENTIRE EXHIBIT SHOULD BE PRECLUDED",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00010648",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "06/24/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "672",
+      "DOJ-OGR-00010648"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear header and footer. The main content is centered and appears to be a title page for an exhibit."
+}

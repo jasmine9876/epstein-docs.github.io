@@ -32,12 +32,14 @@ This project automatically processes thousands of scanned document pages using A
 ```
 .
 ├── process_images.py       # Python script to OCR images using AI
+├── cleanup_failed.py       # Python script to clean up failed processing
 ├── deduplicate.py          # Python script to deduplicate entities
 ├── analyze_documents.py    # Python script to generate AI summaries
 ├── requirements.txt         # Python dependencies
 ├── .env.example            # Example environment configuration
 ├── downloads/              # Place document images here
 ├── results/                # Extracted JSON data per document
+├── processing_index.json   # Processing progress tracking (generated)
 ├── dedupe.json             # Entity deduplication mappings (generated)
 ├── analyses.json           # AI document analyses (generated)
 ├── src/                    # 11ty source files for website

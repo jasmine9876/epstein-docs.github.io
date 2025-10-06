@@ -1,0 +1,77 @@
+{
+  "document_metadata": {
+    "page_number": "66",
+    "document_number": "663",
+    "date": "06/15/22",
+    "document_type": "letter",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 663 Filed 06/15/22 Page 66 of 77\n\nHarriett Jagger\n1 Moore Park Road\nLondon, SW6 2JB\n\nis not Ghislaine.\n\nI can only plead for the court to show her some form of mercy and understanding with a sentence that is survivable as I honestly believe she has so much more in her life to give.\n\nYours sincerely,\nHarriett Jagger\nHarriett Jagger\n\n3\nDOJ-OGR-00010512",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 663 Filed 06/15/22 Page 66 of 77",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Harriett Jagger\n1 Moore Park Road\nLondon, SW6 2JB",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "is not Ghislaine.",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "I can only plead for the court to show her some form of mercy and understanding with a sentence that is survivable as I honestly believe she has so much more in her life to give.",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Yours sincerely,",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "Harriett Jagger",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Harriett Jagger",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "3",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00010512",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Harriett Jagger",
+      "Ghislaine"
+    ],
+    "organizations": [],
+    "locations": [
+      "London"
+    ],
+    "dates": [
+      "06/15/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "663",
+      "DOJ-OGR-00010512"
+    ]
+  },
+  "additional_notes": "The document appears to be a letter written by Harriett Jagger, pleading for mercy for an unnamed individual. The letter is typed except for the signature, which is handwritten."
+}

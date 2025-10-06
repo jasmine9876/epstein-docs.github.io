@@ -1,0 +1,53 @@
+{
+  "document_metadata": {
+    "page_number": "18 of 29",
+    "document_number": "674",
+    "date": "06/24/22",
+    "document_type": "court document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 674 Filed 06/24/22 Page 18 of 29 To Ghislaine I say - \"You broke me in unfathomable ways, to which only you, the Almighty God and I were witnesses. But you didn't break my spirit or dampen the internal flame of determination that now burns inside me brighter now than ever before!\" Sarah Kansome 31-05-2022 DOJ-OGR-00010680",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 674 Filed 06/24/22 Page 18 of 29",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "To Ghislaine I say - \"You broke me in unfathomable ways, to which only you, the Almighty God and I were witnesses. But you didn't break my spirit or dampen the internal flame of determination that now burns inside me brighter now than ever before!\"",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Sarah Kansome 31-05-2022",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00010680",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ghislaine",
+      "Sarah Kansome"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "06/24/22",
+      "31-05-2022"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "Document 674",
+      "DOJ-OGR-00010680"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a handwritten statement and signature. The quality is generally good, but there are some speckles and dots on the page, likely due to scanning or copying."
+}

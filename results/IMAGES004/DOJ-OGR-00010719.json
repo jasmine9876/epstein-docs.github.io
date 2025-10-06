@@ -1,0 +1,46 @@
+{
+  "document_metadata": {
+    "page_number": "5",
+    "document_number": "675-2",
+    "date": "06/25/22",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 675-2 Filed 06/25/22 Page 5 of 5\nTo Ghislaine I say, \"You broke me in unfathomable ways. But you didn't break is my spirit, nor did you dampen my internal flame that now burns brighter than ever before!\"\nDOJ-OGR-00010719",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 675-2 Filed 06/25/22 Page 5 of 5",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "To Ghislaine I say, \"You broke me in unfathomable ways. But you didn't break is my spirit, nor did you dampen my internal flame that now burns brighter than ever before!\"",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00010719",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ghislaine"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "06/25/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "675-2",
+      "DOJ-OGR-00010719"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a quote or statement addressed to Ghislaine. The content is likely part of a legal proceeding or testimony."
+}

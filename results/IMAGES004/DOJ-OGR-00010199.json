@@ -1,0 +1,41 @@
+{
+  "document_metadata": {
+    "page_number": "110",
+    "document_number": "2020-01-00006839",
+    "date": "February 3, 2022",
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Casas 2020-01-00006839-AES Nr1Dawwnlresitt 6b4f6320Firath 03/02/2022 Pageag 110 of 1717 [PAGES A-5944 TO A-6040 INTENTIONALLY LEFT BLANK] DOJ-OGR-00010199",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Casas 2020-01-00006839-AES Nr1Dawwnlresitt 6b4f6320Firath 03/02/2022 Pageag 110 of 1717",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "[PAGES A-5944 TO A-6040 INTENTIONALLY LEFT BLANK]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00010199",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "03/02/2022"
+    ],
+    "reference_numbers": [
+      "2020-01-00006839",
+      "DOJ-OGR-00010199"
+    ]
+  },
+  "additional_notes": "The document appears to be a placeholder page indicating that the pages between A-5944 and A-6040 are intentionally left blank."
+}

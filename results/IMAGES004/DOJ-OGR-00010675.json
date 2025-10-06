@@ -1,0 +1,73 @@
+{
+  "document_metadata": {
+    "page_number": "13",
+    "document_number": "674",
+    "date": "06/24/22",
+    "document_type": "court document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 674 Filed 06/24/22 Page 13 of 29 BSF Teresa J. Helm. Remember my face. Hear my voice. Remember my name. Respectfully, Sigrid S. McCawley 2 of 2 DOJ-OGR-00010675",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 674 Filed 06/24/22 Page 13 of 29",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "BSF",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Teresa J. Helm. Remember my face. Hear my voice. Remember my name.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Respectfully,",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Sigrid S. McCawley",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "2 of 2",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00010675",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Teresa J. Helm",
+      "Sigrid S. McCawley"
+    ],
+    "organizations": [
+      "BSF",
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "06/24/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "674",
+      "DOJ-OGR-00010675"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a signature from Sigrid S. McCawley. The content is mostly printed, with a handwritten signature."
+}

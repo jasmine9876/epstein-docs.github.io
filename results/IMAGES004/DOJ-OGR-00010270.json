@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "647",
+    "date": "03/11/22",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 647 Filed 03/11/22 Page 4 of 24\n\nOther Authorities\nFederal Rule of Criminal Procedure Rule 33................................................18\nFederal Rule of Criminal Procedure Rule 29................................................18, 19\niii\nDOJ-OGR-00010270",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 647 Filed 03/11/22 Page 4 of 24",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Other Authorities",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Federal Rule of Criminal Procedure Rule 33................................................18\nFederal Rule of Criminal Procedure Rule 29................................................18, 19",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "iii",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00010270",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "03/11/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "647",
+      "DOJ-OGR-00010270"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear and legible format. There are no visible redactions or damage."
+}

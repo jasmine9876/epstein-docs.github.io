@@ -1,0 +1,39 @@
+{
+  "document_metadata": {
+    "page_number": "38",
+    "document_number": "672",
+    "date": "06/24/22",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 672 Filed 06/24/22 Page 38 of 68 DOJ-OGR-00010629",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 672 Filed 06/24/22 Page 38 of 68",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00010629",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "06/24/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "672",
+      "DOJ-OGR-00010629"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a case number and document number. The image is mostly black, suggesting it may be a page with no content or a placeholder."
+}

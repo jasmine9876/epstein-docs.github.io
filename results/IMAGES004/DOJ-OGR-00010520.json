@@ -1,0 +1,49 @@
+{
+  "document_metadata": {
+    "page_number": "74 of 77",
+    "document_number": "663",
+    "date": "06/15/22",
+    "document_type": "Forensic-Psychiatric Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 663 Filed 06/15/22 Page 74 of 77 Forensic-Psychiatric Report Ghislaine Maxavell Page 5 of 8 DOJ-OGR-00010520",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 663 Filed 06/15/22 Page 74 of 77",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Forensic-Psychiatric Report Ghislaine Maxavell",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Page 5 of 8",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00010520",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ghislaine Maxavell"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "06/15/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "663",
+      "DOJ-OGR-00010520"
+    ]
+  },
+  "additional_notes": "The document contains redactions, making some of the original content unreadable."
+}

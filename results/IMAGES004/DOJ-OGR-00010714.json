@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "675-1",
+    "date": "06/25/22",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 675-1 Filed 06/25/22 Page 2 of 2\n7. On June 3, 2022, I emailed the Victim Impact Statement of Elizbeth Stein to Ms. Geiser.\nDated: June 23, 2022\nRobert Y. Lewis\nRobert Y. Lewis\nDOJ-OGR-00010714",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 675-1 Filed 06/25/22 Page 2 of 2",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "7. On June 3, 2022, I emailed the Victim Impact Statement of Elizbeth Stein to Ms. Geiser.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Dated: June 23, 2022",
+      "position": "middle"
+    },
+    {
+      "type": "signature",
+      "content": "Robert Y. Lewis",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Robert Y. Lewis",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00010714",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Elizbeth Stein",
+      "Ms. Geiser",
+      "Robert Y. Lewis"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "June 3, 2022",
+      "June 23, 2022",
+      "06/25/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "675-1",
+      "DOJ-OGR-00010714"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a signature block. The text is clear and legible."
+}

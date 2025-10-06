@@ -1,0 +1,79 @@
+{
+  "document_metadata": {
+    "page_number": "2 of 2",
+    "document_number": "544",
+    "date": "08/07/12",
+    "document_type": "Court Document",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "was the suspended lawyer, (ii) that a paralegal had generated a Westlaw report, and (iii) that the Brune lawyers had concluded that Conrad was not the suspended attorney and determined that there was no need to inform the Court. David Parse Sworn to before me this 3rd day of August, 2012 William B Kavanaugh Notary Public OFFICIAL SEAL WILLIAM B KAVANAUGH NOTARY PUBLIC - STATE OF ILLINOIS MY COMMISSION EXPIRES 12/14/12",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "was the suspended lawyer, (ii) that a paralegal had generated a Westlaw report, and (iii) that the Brune lawyers had concluded that Conrad was not the suspended attorney and determined that there was no need to inform the Court.",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "David Parse",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Sworn to before me this",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "3rd",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "day of August, 2012",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "William B Kavanaugh",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Notary Public",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "OFFICIAL SEAL WILLIAM B KAVANAUGH NOTARY PUBLIC - STATE OF ILLINOIS MY COMMISSION EXPIRES 12/14/12",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Parse",
+      "William B Kavanaugh",
+      "Conrad"
+    ],
+    "organizations": [
+      "Brune lawyers"
+    ],
+    "locations": [
+      "Illinois"
+    ],
+    "dates": [
+      "08/07/12",
+      "3rd day of August, 2012",
+      "12/14/12"
+    ],
+    "reference_numbers": [
+      "1:09-cr-00581-WHP",
+      "Document 544",
+      "A-5873",
+      "3689133.1",
+      "DOJ-OGR-00010156"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a notarized signature. The notary seal indicates that the notary's commission expires on 12/14/12."
+}

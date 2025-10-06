@@ -1,0 +1,46 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Casas3c2020-06-06T18:38:39.445Z 6d6e3f32Cf7440222P Raag#1308df1717 [PAGES A-6044 TO A-6073 INTENTIONALLY LEFT BLANK] DOJ-OGR-00010203",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Casas3c2020-06-06T18:38:39.445Z 6d6e3f32Cf7440222P Raag#1308df1717",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "[PAGES A-6044 TO A-6073 INTENTIONALLY LEFT BLANK]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00010203",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "2020-06-06T18:38:39.445Z"
+    ],
+    "reference_numbers": [
+      "6d6e3f32Cf7440222P",
+      "Raag#1308df1717",
+      "DOJ-OGR-00010203",
+      "A-6044",
+      "A-6073"
+    ]
+  },
+  "additional_notes": "The document appears to be a placeholder page indicating that the pages between A-6044 and A-6073 are intentionally left blank."
+}

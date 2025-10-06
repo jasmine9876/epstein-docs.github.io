@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "21",
+    "document_number": "672",
+    "date": "06/24/22",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 672 Filed 06/24/22 Page 21 of 68 EXHIBIT D DOJ-OGR-00010612",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 672 Filed 06/24/22 Page 21 of 68",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EXHIBIT D",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00010612",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "06/24/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "672",
+      "DOJ-OGR-00010612"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear header and footer. The main content is labeled 'EXHIBIT D'."
+}

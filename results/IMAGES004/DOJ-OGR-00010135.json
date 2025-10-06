@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "10",
+    "document_number": "522",
+    "date": "04/06/12",
+    "document_type": "Exhibit",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:09-cr-00581-WHP Document 522 Filed 04/06/12 Page 10 of 29\n\nEXHIBIT A\n\nDOJ-OGR-00010135",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:09-cr-00581-WHP Document 522 Filed 04/06/12 Page 10 of 29",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EXHIBIT A",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00010135",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "04/06/12"
+    ],
+    "reference_numbers": [
+      "1:09-cr-00581-WHP",
+      "522",
+      "DOJ-OGR-00010135"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear header and footer. The main content is labeled 'EXHIBIT A', but the actual exhibit content is not present on this page. The document is likely part of a larger case file."
+}

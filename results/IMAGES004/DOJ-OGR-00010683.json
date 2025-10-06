@@ -1,0 +1,39 @@
+{
+  "document_metadata": {
+    "page_number": "21",
+    "document_number": "674",
+    "date": "06/24/22",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 674 Filed 06/24/22 Page 21 of 29 DOJ-OGR-00010683",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 674 Filed 06/24/22 Page 21 of 29",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00010683",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "06/24/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "674",
+      "DOJ-OGR-00010683"
+    ]
+  },
+  "additional_notes": "The document is a court filing with a black and white image of a hospital scene. The image shows a man and a woman in a hospital bed with various medical equipment in the background."
+}
