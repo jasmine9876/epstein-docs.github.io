@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "632",
+    "date": "03/07/22",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 632 Filed 03/07/22 Page 4 of 8 Jennifer A.H. Hodge Deputy Assistant Attorney General DOJ-OGR-00009629",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 632 Filed 03/07/22 Page 4 of 8",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Jennifer A.H. Hodge Deputy Assistant Attorney General",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00009629",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jennifer A.H. Hodge"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "03/07/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "632",
+      "DOJ-OGR-00009629"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear header and footer. The content is mostly printed text with no visible handwriting or stamps."
+}

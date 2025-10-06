@@ -21,6 +21,8 @@ This project automatically processes thousands of scanned document pages using A
   - Locations
   - Dates
   - Reference numbers
+- **Entity Deduplication**: AI-powered merging of duplicate entities (e.g., "Epstein" → "Jeffrey Epstein")
+- **AI Document Analysis**: Generates summaries, key topics, key people, and significance for each document
 - **Document Reconstruction**: Groups scanned pages back into complete documents
 - **Searchable Interface**: Browse by person, organization, location, date, or document type
 - **Static Site**: Fast, lightweight, works anywhere
@@ -30,10 +32,14 @@ This project automatically processes thousands of scanned document pages using A
 ```
 .
 ├── process_images.py       # Python script to OCR images using AI
+├── deduplicate.py          # Python script to deduplicate entities
+├── analyze_documents.py    # Python script to generate AI summaries
 ├── requirements.txt         # Python dependencies
 ├── .env.example            # Example environment configuration
 ├── downloads/              # Place document images here
 ├── results/                # Extracted JSON data per document
+├── dedupe.json             # Entity deduplication mappings (generated)
+├── analyses.json           # AI document analyses (generated)
 ├── src/                    # 11ty source files for website
 ├── .eleventy.js            # Static site generator configuration
 └── _site/                  # Generated static website (after build)
@@ -80,8 +86,84 @@ The script will:
 - Extract text, entities, and metadata
 - Save results to `./results/{folder}/{imagename}.json`
 - Track progress in `processing_index.json` (resume-friendly)
+- Log failed files for later cleanup
 
-### 4. Generate Website
+**If processing fails or you need to retry failed files:**
+```bash
+# Check for failures (dry run)
+python cleanup_failed.py
+
+# Remove failed files from processed list (so they can be retried)
+python cleanup_failed.py --doit
+
+# Also delete corrupt JSON files
+python cleanup_failed.py --doit --delete-invalid-json
+```
+
+### 4. Deduplicate Entities (Optional but Recommended)
+
+The LLM may extract the same entity with different spellings (e.g., "Epstein", "Jeffrey Epstein", "J. Epstein"). Run the deduplication script to merge these:
+
+```bash
+python deduplicate.py
+
+# Options:
+# --batch-size N     # Process N entities per batch (default: 50)
+# --show-stats       # Show deduplication stats without processing
+```
+
+This will:
+- Scan all JSON files in `./results/`
+- Use AI to identify duplicate entities across people, organizations, and locations
+- Create a `dedupe.json` mapping file
+- The website build will automatically use this mapping
+
+**Example dedupe.json:**
+```json
+{
+  "people": {
+    "Epstein": "Jeffrey Epstein",
+    "J. Epstein": "Jeffrey Epstein",
+    "Jeffrey Epstein": "Jeffrey Epstein"
+  },
+  "organizations": {...},
+  "locations": {...}
+}
+```
+
+### 5. Analyze Documents (Optional but Recommended)
+
+Generate AI summaries and insights for each document:
+
+```bash
+python analyze_documents.py
+
+# Options:
+# --limit N          # Analyze only N documents (for testing)
+# --force            # Re-analyze all documents (ignore existing)
+```
+
+This will:
+- Group pages into documents (matching the website logic)
+- Send each document's full text to the AI
+- Generate summaries, key topics, key people, and significance analysis
+- Save results to `analyses.json`
+- Resume-friendly (skips already-analyzed documents)
+
+**Example analysis output:**
+```json
+{
+  "document_type": "deposition",
+  "key_topics": ["Flight logs", "Private aircraft", "Passenger manifests"],
+  "key_people": [
+    {"name": "Jeffrey Epstein", "role": "Aircraft owner"}
+  ],
+  "significance": "Documents flight records showing passenger lists...",
+  "summary": "This deposition contains testimony regarding..."
+}
+```
+
+### 6. Generate Website
 
 Build the static site from the processed data:
 
@@ -89,6 +171,11 @@ Build the static site from the processed data:
 npm run build    # Build static site to _site/
 npm start        # Development server with live reload
 ```
+
+The build process will automatically:
+- Apply deduplication if `dedupe.json` exists
+- Load document analyses if `analyses.json` exists
+- Generate a searchable analyses page
 
 ## How It Works
 
@@ -146,6 +233,45 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 The code in this repository is open source and free to use. The documents themselves are public records.
 
 **Repository**: https://github.com/epstein-docs/epstein-docs
+
+## Future: Relationship Graphs
+
+Once entities are deduplicated, the next step is to visualize relationships between people, organizations, and locations. Potential approaches:
+
+### Static Graph Generation
+
+1. **Pre-generate graph data** during the build process:
+   - Build a relationships JSON file showing connections (e.g., which people appear in the same documents)
+   - Generate D3.js/vis.js compatible graph data
+   - Include in static site for client-side rendering
+
+2. **Graph types to consider**:
+   - **Co-occurrence network**: People who appear together in documents
+   - **Document timeline**: Documents plotted by date with entity connections
+   - **Organization membership**: People connected to organizations
+   - **Location network**: People and organizations connected by locations
+
+3. **Implementation ideas**:
+   - Use D3.js force-directed graph for interactive visualization
+   - Use Cytoscape.js for more complex network analysis
+   - Generate static SVG graphs for each major entity
+   - Add graph pages to the 11ty build (e.g., `/graphs/people/`, `/graphs/timeline/`)
+
+### Data Structure for Graphs
+
+```json
+{
+  "nodes": [
+    {"id": "Jeffrey Epstein", "type": "person", "doc_count": 250},
+    {"id": "Ghislaine Maxwell", "type": "person", "doc_count": 180}
+  ],
+  "edges": [
+    {"source": "Jeffrey Epstein", "target": "Ghislaine Maxwell", "weight": 85, "shared_docs": 85}
+  ]
+}
+```
+
+The deduplication step is essential for accurate relationship mapping - without it, "Epstein" and "Jeffrey Epstein" would appear as separate nodes.
 
 ## Disclaimer
 

@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": "30",
+    "document_number": "2020-00000000",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case: 2020-00000000 Document: 6433-11 Filed: 02/03/2022 Page: 920 of 930\n\nJuror ID: 50\n\n-30-\nDOJ-OGR-00009787",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case: 2020-00000000 Document: 6433-11 Filed: 02/03/2022 Page: 920 of 930",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "50",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Juror ID:",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "-30-",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00009787",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "02/03/2022"
+    ],
+    "reference_numbers": [
+      "2020-00000000",
+      "6433-11",
+      "920",
+      "930",
+      "DOJ-OGR-00009787"
+    ]
+  },
+  "additional_notes": "The document appears to be a court document with a header containing case information and a footer with a document ID. The page is mostly blank with some lines for notes or text. The handwritten '50' is likely a juror ID number."
+}

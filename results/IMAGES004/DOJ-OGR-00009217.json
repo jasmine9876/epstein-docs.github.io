@@ -1,0 +1,49 @@
+{
+  "document_metadata": {
+    "page_number": "27",
+    "document_number": "616",
+    "date": "02/24/22",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 616 Filed 02/24/22 Page 27 of 32 The government also mischaracterizes the record regarding questions 22 DOJ-OGR-00009217",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 616 Filed 02/24/22 Page 27 of 32",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "The government also mischaracterizes the record regarding questions",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "22",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00009217",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "02/24/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "616",
+      "DOJ-OGR-00009217"
+    ]
+  },
+  "additional_notes": "The document contains redactions, likely due to sensitive information."
+}

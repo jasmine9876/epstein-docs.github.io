@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "238",
+    "document_number": "A-5681",
+    "date": "February 15, 2012",
+    "document_type": "Court Document",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "Case: 2:10-cv-00988-BAJ-MBN Document #: 645 Filed: 03/22/12 Page: 238 of 767 A-5681 UNITED STATES OF AMERICA, v PAUL M. DAUGERDAS, ET AL., February 15, 2012 ... (rest of the text as it appears on the page)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case: 2:10-cv-00988-BAJ-MBN Document #: 645 Filed: 03/22/12 Page: 238 of 767 A-5681",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "UNITED STATES OF AMERICA, v PAUL M. DAUGERDAS, ET AL.,",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "February 15, 2012",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "(the rest of the text on the page, including the list of words with their frequencies)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "SOUTHERN DISTRICT REPORTERS",
+      "position": "footer"
+    },
+    {
+      "type": "stamp",
+      "content": "DOJ-OGR-00009964",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "PAUL M. DAUGERDAS"
+    ],
+    "organizations": [
+      "UNITED STATES OF AMERICA"
+    ],
+    "locations": [
+      "SOUTHERN DISTRICT"
+    ],
+    "dates": [
+      "February 15, 2012",
+      "03/22/12"
+    ],
+    "reference_numbers": [
+      "2:10-cv-00988-BAJ-MBN",
+      "645",
+      "A-5681",
+      "DOJ-OGR-00009964"
+    ]
+  },
+  "additional_notes": "The document appears to be a court document from a legal case involving PAUL M. DAUGERDAS. The page contains a list of words with their frequencies, likely used for indexing or analysis purposes. The document is stamped with a reference number at the bottom."
+}

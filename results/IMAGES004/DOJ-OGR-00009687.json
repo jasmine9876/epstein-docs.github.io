@@ -1,0 +1,59 @@
+{
+  "document_metadata": {
+    "page_number": "26 of 29",
+    "document_number": "638",
+    "date": "03/09/22",
+    "document_type": "court document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 638 Filed 03/09/22 Page 26 of 29 Juror ID: 50 You may use these pages to finish any answers that you could not fit in the spaces provided above. If you write anything below, please indicate the number of the relevant question. -28- DOJ-OGR-00009687",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 638 Filed 03/09/22 Page 26 of 29",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "50",
+      "position": "inline"
+    },
+    {
+      "type": "printed",
+      "content": "Juror ID:",
+      "position": "inline"
+    },
+    {
+      "type": "printed",
+      "content": "You may use these pages to finish any answers that you could not fit in the spaces provided above. If you write anything below, please indicate the number of the relevant question.",
+      "position": "inline"
+    },
+    {
+      "type": "printed",
+      "content": "-28-",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00009687",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "03/09/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "638",
+      "DOJ-OGR-00009687"
+    ]
+  },
+  "additional_notes": "The document appears to be a court document related to a juror's notes or questionnaire. The page is mostly blank with lines for writing, and contains a juror ID number."
+}

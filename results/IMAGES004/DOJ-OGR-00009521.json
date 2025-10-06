@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "603-7",
+    "date": "03/15/13",
+    "document_type": "Exhibit",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:09-cr-00581-WHP Document 603-7 Filed 03/15/13 Page 1 of 3 EXHIBIT G DOJ-OGR-00009521",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:09-cr-00581-WHP Document 603-7 Filed 03/15/13 Page 1 of 3",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EXHIBIT G",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00009521",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "03/15/13"
+    ],
+    "reference_numbers": [
+      "1:09-cr-00581-WHP",
+      "603-7",
+      "DOJ-OGR-00009521"
+    ]
+  },
+  "additional_notes": "The document appears to be a court exhibit with a clear header and footer. The main content is the title 'EXHIBIT G'."
+}

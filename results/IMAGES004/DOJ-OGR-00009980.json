@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "A-5697",
+    "date": "February 15, 2012",
+    "document_type": "Court Document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "February 15, 2012\nUNITED STATES OF AMERICA, v PAUL M. DAUGERDAS, ET AL.,\n... (rest of the text from the image)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "February 15, 2012",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "UNITED STATES OF AMERICA, v PAUL M. DAUGERDAS, ET AL.,",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "... (rest of the text from the image)",
+      "position": "body"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Paul M. Daugerdas"
+    ],
+    "organizations": [
+      "United States of America"
+    ],
+    "locations": [],
+    "dates": [
+      "February 15, 2012"
+    ],
+    "reference_numbers": [
+      "A-5697"
+    ]
+  },
+  "additional_notes": "The document appears to be a court transcript or legal document with a list of words and their frequencies."
+}

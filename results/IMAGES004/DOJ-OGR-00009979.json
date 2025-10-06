@@ -1,0 +1,50 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "A-5696",
+    "date": "February 15, 2012",
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "UNITED STATES OF AMERICA, v PAUL M. DAUGERDAS, ET AL., February 15, 2012 ... (rest of the text as it appears on the page)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "UNITED STATES OF AMERICA, v PAUL M. DAUGERDAS, ET AL.",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "February 15, 2012",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "90:25;94:4;101:18; 159:12;203:20;232:6 testify (9) ...",
+      "position": "main content"
+    },
+    {
+      "type": "stamp",
+      "content": "DOJ-OGR-00009979",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "PAUL M. DAUGERDAS"
+    ],
+    "organizations": [
+      "UNITED STATES OF AMERICA"
+    ],
+    "locations": [],
+    "dates": [
+      "February 15, 2012"
+    ],
+    "reference_numbers": [
+      "A-5696",
+      "DOJ-OGR-00009979"
+    ]
+  },
+  "additional_notes": "The document appears to be a court transcript or a legal document with a list of words and their corresponding frequencies or references. The stamp at the bottom suggests it is an official document from the Department of Justice."
+}

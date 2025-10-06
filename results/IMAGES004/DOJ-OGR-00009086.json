@@ -1,0 +1,122 @@
+{
+  "document_metadata": {
+    "page_number": "19",
+    "document_number": "613-1",
+    "date": "02/24/22",
+    "document_type": "Juror Questionnaire",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 613-1 Filed 02/24/22 Page 19 of 30 Juror ID: 50 36. Based on anything that you have read, seen, or heard about Ms. Maxwell, including anything about criminal charges against Ms. Maxwell, have you formed any opinions about Ms. Maxwell that might make it difficult for you to be a fair and impartial juror in this case? Yes No Unsure Not applicable, I have not read/seen/heard about Ms. Maxwell Yes No 36a. If yes or unsure, please explain why it might be difficult for you to be a fair and impartial juror in this case: 37. Before today, had you read, seen, or heard anything about Jeffrey Epstein? Yes No Unsure Yes 37a. If yes or unsure, please state what you remember hearing, and how or from whom you may have heard (e.g., a friend, the newspaper, a website, social media). If you heard about Mr. Epstein from a media source, please identify the media source by name: CNN's source. Heard about his death and that he was in jail awaiting trial. 38. Have you verbally stated or posted your opinion on social media or online about Ms. Maxwell or Mr. Epstein? Yes No Not applicable, I have not read/seen/heard about Mr. Epstein/Ms. Maxwell No 38a. If yes, when and where did you state or post your opinion? -20- DOJ-OGR-00009086",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 613-1 Filed 02/24/22 Page 19 of 30",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "50",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "Juror ID:",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "36. Based on anything that you have read, seen, or heard about Ms. Maxwell, including anything about criminal charges against Ms. Maxwell, have you formed any opinions about Ms. Maxwell that might make it difficult for you to be a fair and impartial juror in this case?",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Yes No Unsure Not applicable, I have not read/seen/heard about Ms. Maxwell",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "No",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "36a. If yes or unsure, please explain why it might be difficult for you to be a fair and impartial juror in this case:",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "37. Before today, had you read, seen, or heard anything about Jeffrey Epstein?",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Yes No Unsure",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "Yes",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "37a. If yes or unsure, please state what you remember hearing, and how or from whom you may have heard (e.g., a friend, the newspaper, a website, social media). If you heard about Mr. Epstein from a media source, please identify the media source by name:",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "CNN's source. Heard about his death and that he was in jail awaiting trial.",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "38. Have you verbally stated or posted your opinion on social media or online about Ms. Maxwell or Mr. Epstein?",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Yes No Not applicable, I have not read/seen/heard about Mr. Epstein/Ms. Maxwell",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "No",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "38a. If yes, when and where did you state or post your opinion?",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "-20-",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00009086",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ms. Maxwell",
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "CNN"
+    ],
+    "locations": [],
+    "dates": [
+      "02/24/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "613-1",
+      "DOJ-OGR-00009086"
+    ]
+  },
+  "additional_notes": "The document is a juror questionnaire with some handwritten responses. The juror has answered 'No' to question 36, 'Yes' to question 37, and 'No' to question 38. The juror provided a handwritten response to question 37a, stating that they heard about Jeffrey Epstein's death and imprisonment from CNN."
+}

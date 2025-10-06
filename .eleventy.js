@@ -5,6 +5,26 @@ module.exports = function(eleventyConfig) {
   // Copy results directory to output
   eleventyConfig.addPassthroughCopy({ "./results": "documents" });
 
+  // Load deduplication mappings if available
+  let dedupeMappings = { people: {}, organizations: {}, locations: {} };
+  const dedupeFile = path.join(__dirname, 'dedupe.json');
+  if (fs.existsSync(dedupeFile)) {
+    try {
+      dedupeMappings = JSON.parse(fs.readFileSync(dedupeFile, 'utf8'));
+      console.log('✅ Loaded deduplication mappings from dedupe.json');
+    } catch (e) {
+      console.warn('⚠️  Could not load dedupe.json:', e.message);
+    }
+  } else {
+    console.log('ℹ️  No dedupe.json found - entities will not be deduplicated');
+  }
+
+  // Helper function to apply deduplication mapping
+  function applyDedupe(entityType, entityName) {
+    if (!entityName) return entityName;
+    return dedupeMappings[entityType]?.[entityName] || entityName;
+  }
+
   // Cache the documents data - only compute once
   let cachedDocuments = null;
 
@@ -118,6 +138,15 @@ module.exports = function(eleventyConfig) {
       // Get all unique raw document numbers (for display)
       const rawDocNums = [...new Set(docPages.map(p => p.document_metadata?.document_number).filter(Boolean))];
 
+      // Apply deduplication to document entities
+      const deduplicatedEntities = {
+        people: [...new Set(Array.from(allEntities.people).map(p => applyDedupe('people', p)))],
+        organizations: [...new Set(Array.from(allEntities.organizations).map(o => applyDedupe('organizations', o)))],
+        locations: [...new Set(Array.from(allEntities.locations).map(l => applyDedupe('locations', l)))],
+        dates: Array.from(allEntities.dates),
+        reference_numbers: Array.from(allEntities.reference_numbers)
+      };
+
       return {
         unique_id: normalizedDocNum,  // Normalized version for unique URLs
         document_number: rawDocNums.length === 1 ? rawDocNums[0] : normalizedDocNum, // Show original if consistent, else normalized
@@ -125,13 +154,7 @@ module.exports = function(eleventyConfig) {
         pages: docPages,
         page_count: docPages.length,
         document_metadata: firstPage.document_metadata,
-        entities: {
-          people: Array.from(allEntities.people),
-          organizations: Array.from(allEntities.organizations),
-          locations: Array.from(allEntities.locations),
-          dates: Array.from(allEntities.dates),
-          reference_numbers: Array.from(allEntities.reference_numbers)
-        },
+        entities: deduplicatedEntities,
         full_text: docPages.map(p => p.full_text).join('\n\n--- PAGE BREAK ---\n\n'),
         folder: folders.join(', '),  // Show all folders if document spans multiple
         folders: folders  // Keep array for reference
@@ -141,6 +164,23 @@ module.exports = function(eleventyConfig) {
     cachedDocuments = documents;
     return documents;
   }
+
+  // Load document analyses if available
+  eleventyConfig.addGlobalData("analyses", () => {
+    const analysesFile = path.join(__dirname, 'analyses.json');
+    if (fs.existsSync(analysesFile)) {
+      try {
+        const data = JSON.parse(fs.readFileSync(analysesFile, 'utf8'));
+        console.log(`✅ Loaded ${data.analyses?.length || 0} document analyses`);
+        return data.analyses || [];
+      } catch (e) {
+        console.warn('⚠️  Could not load analyses.json:', e.message);
+        return [];
+      }
+    }
+    console.log('ℹ️  No analyses.json found - run analyze_documents.py to generate');
+    return [];
+  });
 
   // Add global data - load all pages and group into documents
   eleventyConfig.addGlobalData("documents", getDocuments);
@@ -156,27 +196,30 @@ module.exports = function(eleventyConfig) {
     const documentTypes = new Map();
 
     documentsData.forEach(doc => {
-      // People
+      // People (with deduplication)
       if (doc.entities?.people) {
         doc.entities.people.forEach(person => {
-          if (!people.has(person)) people.set(person, []);
-          people.get(person).push(doc);
+          const canonicalName = applyDedupe('people', person);
+          if (!people.has(canonicalName)) people.set(canonicalName, []);
+          people.get(canonicalName).push(doc);
         });
       }
 
-      // Organizations
+      // Organizations (with deduplication)
       if (doc.entities?.organizations) {
         doc.entities.organizations.forEach(org => {
-          if (!organizations.has(org)) organizations.set(org, []);
-          organizations.get(org).push(doc);
+          const canonicalName = applyDedupe('organizations', org);
+          if (!organizations.has(canonicalName)) organizations.set(canonicalName, []);
+          organizations.get(canonicalName).push(doc);
         });
       }
 
-      // Locations
+      // Locations (with deduplication)
       if (doc.entities?.locations) {
         doc.entities.locations.forEach(loc => {
-          if (!locations.has(loc)) locations.set(loc, []);
-          locations.get(loc).push(doc);
+          const canonicalName = applyDedupe('locations', loc);
+          if (!locations.has(canonicalName)) locations.set(canonicalName, []);
+          locations.get(canonicalName).push(doc);
         });
       }
 
@@ -196,12 +239,42 @@ module.exports = function(eleventyConfig) {
       }
     });
 
+    // Deduplicate document arrays (remove duplicate document references)
+    const dedupeDocArray = (docs) => {
+      const seen = new Set();
+      return docs.filter(doc => {
+        if (seen.has(doc.unique_id)) return false;
+        seen.add(doc.unique_id);
+        return true;
+      });
+    };
+
     return {
-      people: Array.from(people.entries()).map(([name, docs]) => ({ name, docs, count: docs.length })).sort((a, b) => b.count - a.count),
-      organizations: Array.from(organizations.entries()).map(([name, docs]) => ({ name, docs, count: docs.length })).sort((a, b) => b.count - a.count),
-      locations: Array.from(locations.entries()).map(([name, docs]) => ({ name, docs, count: docs.length })).sort((a, b) => b.count - a.count),
-      dates: Array.from(dates.entries()).map(([name, docs]) => ({ name, docs, count: docs.length })).sort((a, b) => b.count - a.count),
-      documentTypes: Array.from(documentTypes.entries()).map(([name, docs]) => ({ name, docs, count: docs.length })).sort((a, b) => b.count - a.count)
+      people: Array.from(people.entries()).map(([name, docs]) => ({
+        name,
+        docs: dedupeDocArray(docs),
+        count: dedupeDocArray(docs).length
+      })).sort((a, b) => b.count - a.count),
+      organizations: Array.from(organizations.entries()).map(([name, docs]) => ({
+        name,
+        docs: dedupeDocArray(docs),
+        count: dedupeDocArray(docs).length
+      })).sort((a, b) => b.count - a.count),
+      locations: Array.from(locations.entries()).map(([name, docs]) => ({
+        name,
+        docs: dedupeDocArray(docs),
+        count: dedupeDocArray(docs).length
+      })).sort((a, b) => b.count - a.count),
+      dates: Array.from(dates.entries()).map(([name, docs]) => ({
+        name,
+        docs: dedupeDocArray(docs),
+        count: dedupeDocArray(docs).length
+      })).sort((a, b) => b.count - a.count),
+      documentTypes: Array.from(documentTypes.entries()).map(([name, docs]) => ({
+        name,
+        docs: dedupeDocArray(docs),
+        count: dedupeDocArray(docs).length
+      })).sort((a, b) => b.count - a.count)
     };
   });
 

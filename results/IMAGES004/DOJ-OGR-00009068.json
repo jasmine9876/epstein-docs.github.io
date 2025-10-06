@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "613-1",
+    "date": "02/24/22",
+    "document_type": "Exhibit",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 613-1 Filed 02/24/22 Page 1 of 30 EXHIBIT 1 DOJ-OGR-00009068",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 613-1 Filed 02/24/22 Page 1 of 30",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EXHIBIT 1",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00009068",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "02/24/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "613-1",
+      "DOJ-OGR-00009068"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear header and footer. The main content is labeled as 'EXHIBIT 1'."
+}

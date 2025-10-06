@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "58",
+    "document_number": "1:20-cr-00330",
+    "date": "02/24/22",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 1616-1 Filed 02/24/22 Page 58 of 117 [PAGES A-5874 TO A-5902 INTENTIONALLY LEFT BLANK] DOJ-OGR-00009478",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 1616-1 Filed 02/24/22 Page 58 of 117",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "[PAGES A-5874 TO A-5902 INTENTIONALLY LEFT BLANK]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00009478",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "02/24/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330",
+      "1616-1",
+      "DOJ-OGR-00009478"
+    ]
+  },
+  "additional_notes": "The document is a court filing with a blank page intentionally left blank."
+}

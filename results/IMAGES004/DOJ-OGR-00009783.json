@@ -1,0 +1,69 @@
+{
+  "document_metadata": {
+    "page_number": "26",
+    "document_number": "2020-00000000",
+    "date": null,
+    "document_type": "Jury Questionnaire",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case: 2020-00000000 Document: 6423-11 Filed: 0033/2021/2022 Page: 2525 of 030\nJuror ID: 50\n\n|   | CLOSING QUESTION |\n|---|---|\n| 51. | Do you wish for any particular answers to remain confidential and to not go beyond the Judge, counsel, and the Defendant, because the answer would embarrass you or otherwise seriously compromise your privacy? Yes No If yes, please list which question number(s): |\n\n-26-\nDOJ-OGR-00009783",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case: 2020-00000000 Document: 6423-11 Filed: 0033/2021/2022 Page: 2525 of 030",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "50",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Juror ID:",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CLOSING QUESTION",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "51. Do you wish for any particular answers to remain confidential and to not go beyond the Judge, counsel, and the Defendant, because the answer would embarrass you or otherwise seriously compromise your privacy? Yes No If yes, please list which question number(s):",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "No",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "-26-",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00009783",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "0033/2021/2022"
+    ],
+    "reference_numbers": [
+      "2020-00000000",
+      "6423-11",
+      "DOJ-OGR-00009783"
+    ]
+  },
+  "additional_notes": "The document appears to be a jury questionnaire with a single question answered. The juror ID is handwritten as '50'. The document has a header with case information and a footer with a page number and a reference number."
+}

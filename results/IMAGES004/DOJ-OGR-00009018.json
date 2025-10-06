@@ -1,0 +1,49 @@
+{
+  "document_metadata": {
+    "page_number": "17",
+    "document_number": "613",
+    "date": "02/24/22",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 613 Filed 02/24/22 Page 17 of 66",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 613 Filed 02/24/22 Page 17 of 66",
+      "position": "header"
+    },
+    {
+      "type": "other",
+      "content": "Multiple redacted sections with black bars",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "10",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00009018",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "02/24/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "613",
+      "DOJ-OGR-00009018"
+    ]
+  },
+  "additional_notes": "The document contains extensive redactions with black bars, making most of the content unreadable. The visible text includes a case number, document number, filing date, and page number."
+}

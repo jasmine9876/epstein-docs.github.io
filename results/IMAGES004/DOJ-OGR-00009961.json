@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": "630",
+    "document_number": "A-5678",
+    "date": "February 15, 2012",
+    "document_type": "Court Document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "UNITED STATES OF AMERICA, v PAUL M. DAUGERDAS, ET AL,, February 15, 2012\n\n... [concise representation of the rest of the text]",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "UNITED STATES OF AMERICA, v PAUL M. DAUGERDAS, ET AL,,",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "February 15, 2012",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "counsels (1) 69:2\ncounsel's (4) 35:13;129:8;177:23; 200:18\nCount (2) 201:1,2\ncounts (1) 74:24\ncounty (5) 144:6,24;145:18,21; 148:5\n... [rest of the content]",
+      "position": "main"
+    },
+    {
+      "type": "printed",
+      "content": "SOUTHERN DISTRICT REPORTERS",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "(7) counsels - deliberating",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "PAUL M. DAUGERDAS"
+    ],
+    "organizations": [
+      "UNITED STATES OF AMERICA",
+      "SOUTHERN DISTRICT REPORTERS"
+    ],
+    "locations": [],
+    "dates": [
+      "February 15, 2012",
+      "December"
+    ],
+    "reference_numbers": [
+      "A-5678",
+      "DOJ-OGR-00009961"
+    ]
+  },
+  "additional_notes": "The document appears to be a court transcript or a legal document with a list of words and their corresponding page and line numbers. The text is densely packed and contains legal terminology."
+}

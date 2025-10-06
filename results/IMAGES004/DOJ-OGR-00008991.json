@@ -1,0 +1,69 @@
+{
+  "document_metadata": {
+    "page_number": "12",
+    "document_number": "609",
+    "date": "02/24/22",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 609 Filed 02/24/22 Page 12 of 13\nDated: New York, New York January 10, 2022\nRespectfully Submitted,\n/S/\nTodd Spodek, Esq.\nSpodek Law Group P.C.\n85 Broad Street, 17th Floor\nNew York, NY 10004\nTel: (212) 300-5196\nFax: (212) 300-6371\nts@spodeklawgroup.com\nAttorney for Proposed Intervenor\n12\nDOJ-OGR-00008991",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 609 Filed 02/24/22 Page 12 of 13",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Dated: New York, New York January 10, 2022",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Respectfully Submitted,",
+      "position": "top"
+    },
+    {
+      "type": "signature",
+      "content": "/S/",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Todd Spodek, Esq.\nSpodek Law Group P.C.\n85 Broad Street, 17th Floor\nNew York, NY 10004\nTel: (212) 300-5196\nFax: (212) 300-6371\nts@spodeklawgroup.com\nAttorney for Proposed Intervenor",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "12",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00008991",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Todd Spodek"
+    ],
+    "organizations": [
+      "Spodek Law Group P.C."
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "January 10, 2022",
+      "02/24/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "609",
+      "DOJ-OGR-00008991"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a signature block and contact information for the attorney."
+}

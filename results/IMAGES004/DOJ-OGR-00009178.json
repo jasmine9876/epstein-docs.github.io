@@ -1,0 +1,50 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "1:20-cr-00840",
+    "date": "1/26/22",
+    "document_type": "news article",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "1/26/22, 3:30 PM Case 1:20-cr-00840 Ghislaine Maxwell juror says evidence convinced panel predator https://www.dailymail.co.uk/news/article-10370193/Ghislaine-Maxwell-juror-says-evidence-convinced-panel-predator.html 4/16 DOJ-OGR-00009178",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "1/26/22, 3:30 PM Case 1:20-cr-00840 Ghislaine Maxwell juror says evidence convinced panel predator",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "https://www.dailymail.co.uk/news/article-10370193/Ghislaine-Maxwell-juror-says-evidence-convinced-panel-predator.html",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "4/16",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00009178",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ghislaine Maxwell"
+    ],
+    "organizations": [
+      "Daily Mail"
+    ],
+    "locations": [],
+    "dates": [
+      "1/26/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00840",
+      "DOJ-OGR-00009178"
+    ]
+  },
+  "additional_notes": "The image appears to be a screenshot of a news article. The main content is an image of a man holding a cat, with a bookshelf and chair in the background. The text is mostly found in the header and footer."
+}

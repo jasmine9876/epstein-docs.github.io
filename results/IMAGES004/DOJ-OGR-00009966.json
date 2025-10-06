@@ -1,0 +1,55 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "A-5683",
+    "date": "February 15, 2012",
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "February 15, 2012\nUNITED STATES OF AMERICA, v PAUL M. DAUGERDAS, ET AL.,\nA-5683\nSOUTHERN DISTRICT REPORTERS\n... (rest of the text as it appears in the image)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "February 15, 2012",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "UNITED STATES OF AMERICA, v PAUL M. DAUGERDAS, ET AL.,",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "A-5683",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "SOUTHERN DISTRICT REPORTERS",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "... (rest of the text as it appears in the image)",
+      "position": "body"
+    }
+  ],
+  "entities": {
+    "people": [
+      "PAUL M. DAUGERDAS"
+    ],
+    "organizations": [
+      "UNITED STATES OF AMERICA",
+      "SOUTHERN DISTRICT REPORTERS"
+    ],
+    "locations": [],
+    "dates": [
+      "February 15, 2012"
+    ],
+    "reference_numbers": [
+      "A-5683"
+    ]
+  },
+  "additional_notes": "The document appears to be a court transcript or a legal document with a list of words and their frequencies."
+}

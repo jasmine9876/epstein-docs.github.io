@@ -1,0 +1,89 @@
+{
+  "document_metadata": {
+    "page_number": "11 of 30",
+    "document_number": "613-1",
+    "date": "02/24/22",
+    "document_type": "Juror Questionnaire",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 613-1 Filed 02/24/22 Page 11 of 30\nJuror ID: 50\n21a. If yes, is there anything about that experience that would prevent you from acting as a fair and impartial juror in this case?\nYes No\n21b. If yes to 21a, please explain:\n22. Have you, or has any relative or close friend, ever been subpoenaed for any inquiry or investigation?\nYes (self) Yes (friend or family member) No\n22a. If yes, is there anything about that experience that would prevent you from acting as a fair and impartial juror in this case?\nYes No\n22b. If yes to 22a, please explain:\n23. Have you, or has any relative or close friend, ever been arrested or charged with a crime?\nYes (self) Yes (friend or family member) No\n23a. If yes, is there anything about that experience that would prevent you from acting as a fair and impartial juror in this case?\nYes No\n23b. If yes to 23a, please explain:\n-12-\nDOJ-OGR-00009078",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 613-1 Filed 02/24/22 Page 11 of 30",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "50",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Juror ID:",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "21a. If yes, is there anything about that experience that would prevent you from acting as a fair and impartial juror in this case?\nYes No\n21b. If yes to 21a, please explain:",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "22. Have you, or has any relative or close friend, ever been subpoenaed for any inquiry or investigation?\nYes (self) Yes (friend or family member) No",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "X",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "22a. If yes, is there anything about that experience that would prevent you from acting as a fair and impartial juror in this case?\nYes No\n22b. If yes to 22a, please explain:",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "23. Have you, or has any relative or close friend, ever been arrested or charged with a crime?\nYes (self) Yes (friend or family member) No",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "X",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "23a. If yes, is there anything about that experience that would prevent you from acting as a fair and impartial juror in this case?\nYes No\n23b. If yes to 23a, please explain:",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "-12-",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00009078",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "02/24/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "613-1",
+      "DOJ-OGR-00009078"
+    ]
+  },
+  "additional_notes": "The document is a juror questionnaire with some handwritten marks indicating 'No' to questions 22 and 23. The juror ID is handwritten as '50'."
+}

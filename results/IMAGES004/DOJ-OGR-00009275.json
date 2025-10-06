@@ -1,0 +1,50 @@
+{
+  "document_metadata": {
+    "page_number": "53",
+    "document_number": "616",
+    "date": "02/24/22",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cv-03038-PAE Document 616 Filed 02/24/22 Page 53 of 67 A-5671 This Page Intentionally Left Blank DOJ-OGR-00009275",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cv-03038-PAE Document 616 Filed 02/24/22 Page 53 of 67",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "A-5671",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "This Page Intentionally Left Blank",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00009275",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "02/24/22"
+    ],
+    "reference_numbers": [
+      "1:20-cv-03038-PAE",
+      "616",
+      "A-5671",
+      "DOJ-OGR-00009275"
+    ]
+  },
+  "additional_notes": "The page is intentionally left blank."
+}

@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": "10",
+    "document_number": "1616220",
+    "date": "February 15, 2012",
+    "document_type": "Court Document",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 1616220 Filed 02/24/22 Page 10 of 130 A-5695 February 15, 2012 UNITED STATES OF AMERICA, v PAUL M. DAUGERDAS, ET AL., ... Sternheim - testified (24) SOUTHERN DISTRICT REPORTERS 3fn.1-4sm DOJ-OGR-00009299",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 1616220 Filed 02/24/22 Page 10 of 130",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "A-5695",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "February 15, 2012",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "UNITED STATES OF AMERICA, v PAUL M. DAUGERDAS, ET AL.,",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "...",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Sternheim - testified (24)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "SOUTHERN DISTRICT REPORTERS",
+      "position": "footer"
+    },
+    {
+      "type": "stamp",
+      "content": "DOJ-OGR-00009299",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Paul M. Daugerdas"
+    ],
+    "organizations": [
+      "United States of America",
+      "Southern District Reporters"
+    ],
+    "locations": [],
+    "dates": [
+      "February 15, 2012",
+      "02/24/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "1616220",
+      "A-5695",
+      "DOJ-OGR-00009299"
+    ]
+  },
+  "additional_notes": "The document appears to be a court transcript or legal document with a stamp indicating it was filed on February 24, 2022. The content includes a list of words with their frequencies and page references."
+}

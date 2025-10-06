@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": "6",
+    "document_number": "A-5686",
+    "date": "February 15, 2012",
+    "document_type": "Court Document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "UNITED STATES OF AMERICA, v PAUL M. DAUGERDAS, ET AL.,\nFebruary 15, 2012\n... (rest of the text from the image)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "UNITED STATES OF AMERICA, v PAUL M. DAUGERDAS, ET AL.,",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "February 15, 2012",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "A-5686",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "... (rest of the text from the image)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "SOUTHERN DISTRICT REPORTERS",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Paul M. Daugerdas"
+    ],
+    "organizations": [
+      "UNITED STATES OF AMERICA"
+    ],
+    "locations": [
+      "SOUTHERN DISTRICT"
+    ],
+    "dates": [
+      "February 15, 2012"
+    ],
+    "reference_numbers": [
+      "A-5686"
+    ]
+  },
+  "additional_notes": "The document appears to be a court transcript or legal document with a list of words and their corresponding references."
+}

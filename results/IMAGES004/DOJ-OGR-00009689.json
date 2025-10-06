@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "28 of 29",
+    "document_number": "638",
+    "date": "03/09/22",
+    "document_type": "Jury document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 638 Filed 03/09/22 Page 28 of 29 Juror ID: 50 -30- DOJ-OGR-00009689",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 638 Filed 03/09/22 Page 28 of 29",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Juror ID:",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "50",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "-30-",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00009689",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "03/09/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "638",
+      "DOJ-OGR-00009689"
+    ]
+  },
+  "additional_notes": "The document appears to be a jury document with a juror ID number filled in by hand. The page is mostly blank with lines for notes or comments."
+}

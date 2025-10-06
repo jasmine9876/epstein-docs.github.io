@@ -1,0 +1,45 @@
+{
+  "document_metadata": {
+    "page_number": "101",
+    "document_number": "61",
+    "date": "02/24/22",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cv-00330-RP Document 61 Filed 03/13/20 Page 101 of 117 [PAGES A-5944 TO A-6040 INTENTIONALLY LEFT BLANK] DOJ-OGR-00009520",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cv-00330-RP Document 61 Filed 03/13/20 Page 101 of 117",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "[PAGES A-5944 TO A-6040 INTENTIONALLY LEFT BLANK]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00009520",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "03/13/20",
+      "02/24/22"
+    ],
+    "reference_numbers": [
+      "1:20-cv-00330-RP",
+      "61",
+      "DOJ-OGR-00009520"
+    ]
+  },
+  "additional_notes": "The page is mostly blank with a header and footer containing metadata and a notice that certain pages are intentionally left blank."
+}

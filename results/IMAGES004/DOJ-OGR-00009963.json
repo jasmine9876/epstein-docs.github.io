@@ -1,0 +1,55 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "A-5680",
+    "date": "February 15, 2012",
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "UNITED STATES OF AMERICA, v PAUL M. DAUGERDAS, ET AL., February 15, 2012 ... (rest of the text as it appears on the page)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "UNITED STATES OF AMERICA, v PAUL M. DAUGERDAS, ET AL.,",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "February 15, 2012",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "... list of words with frequencies and page numbers ...",
+      "position": "main content"
+    },
+    {
+      "type": "printed",
+      "content": "SOUTHERN DISTRICT REPORTERS",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "(9) duty - experience",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "PAUL M. DAUGERDAS"
+    ],
+    "organizations": [
+      "UNITED STATES OF AMERICA",
+      "SOUTHERN DISTRICT REPORTERS"
+    ],
+    "locations": [],
+    "dates": [
+      "February 15, 2012"
+    ],
+    "reference_numbers": [
+      "A-5680"
+    ]
+  },
+  "additional_notes": "The document appears to be a court transcript or legal document with a list of words and their frequencies."
+}

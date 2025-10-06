@@ -1,0 +1,88 @@
+{
+  "document_metadata": {
+    "page_number": "104",
+    "document_number": "A-6043",
+    "date": "03/15/13",
+    "document_type": "Restitution Calculation",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:09-cr-00581-WHP Document 603-7 Filed 03/15/13 Page 3 of 3\nJenkins and Gilchrist Clients Restitution Calculation\nClient\tTransaction Type\tYear\tTax Benefit Taken per Return\tTax Deficiency per RAR\tInterest thru 12/31/2012\tTotal Interest\nMerchant, William\tSOS\t1999\t3,960,459\t1,615,692\t1,713,266\t1,711,234\nOwen, Dennis\tSOS\t1999\t8,851,863\t1,770,393\t1,853,421\t1,877,626\nPape, Mark\tSOS\t1999\t3,711,793\t1,472,861\t1,541,726\t1,561,453\nPeterson Ronald A.\tSOS\t1999\t2,971,727\t2,046,126\t512,439\t543,455\nPollitt, Hunter\tSOS\t1999\t5,445,673\t2,170,378\t2,142,399\t2,170,133\nPoncher, Lyle\tSOS\t1999\t1,584,257\t529,086\t560,595\t561,133\nPostonvo, Jr. Eugenio\tSOS\t1999\t3,958,180\t1,604,318\t1,679,557\t1,701,493\nPurcel, Morris\tSOS\t1999\t10,517,045\t4,284,575\t2,951,380\t4,544,699\nRagsdale, C&E\tShort Sale\t1999\t7,024,447\t2,782,080\t200,277\t200,245\nRagsdale, HV\tShort Sale\t1999\t517,475\t188,809\t200,290\t(32)\nRagsdale, T&\tShort Sale\t1999\t7,307,819\t2,798,322\t200,264\t2,957,817\nRagsdale, TS IV\tShort Sale\t1999\t517,475\t188,197\t390,969\t395,744\nSchmidt, Ralph F.\tSOS\t1999\t766,621\t320,848\t1,756,161\t1,779,092\nSchuett, Jr., William G.\tSOS\t1999\t8,162,118\t1,677,490\t1,712,951\t1,735,325\nSchuett, Jr., William G.\tSOS\t1999\t8,162,118\t1,636,216\t3,524,258\t3,570,780\nSmall, Richard & Arlene\tSOS\t1999\t16,831,914\t3,366,382\t834,770\t845,675\nSpector, Donald\tSOS\t2000\t2,012,684\t797,375\t633,363\t845,671\nStuart Thomas\tSOS\t1999\t4,628,056\t1,878,052\t1,566,751\t1,717,801\nTate, Joseph P.\tSOS\t1999\t39,573,286\t11,048,595\t11,566,751\t11,717,801\nVanek, Greg\tSOS\t1999\t992,081\t389,512\t407,570\t412,892\nWalsh, Carol\tSOS\t1999\t7,675,386\t3,054,180\t3,197,415\t3,229,352\nWiggins, Glenn\tSOS\t1999\t9,209,607\t1,941,921\t1,928,303\t1,993,486\nYang, Julie\tSOS\t1999\t180,876\t72,467\t75,866\t76,856\nTotal Clients - J&G\t\t\t348,930,116\t110,520,308\t119,951,466\t121,140,226\n** Interest on RAR was calculated through 3/16/2012\n>> Interest on RAR was calculated through 3/22/2012\n>> Interest on RAR was calculated through 3/23/2012",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:09-cr-00581-WHP Document 603-7 Filed 03/15/13 Page 3 of 3",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Jenkins and Gilchrist Clients Restitution Calculation",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Client\tTransaction Type\tYear\tTax Benefit Taken per Return\tTax Deficiency per RAR\tInterest thru 12/31/2012\tTotal Interest",
+      "position": "table header"
+    },
+    {
+      "type": "printed",
+      "content": "Merchant, William\tSOS\t1999\t3,960,459\t1,615,692\t1,713,266\t1,711,234",
+      "position": "table row"
+    },
+    {
+      "type": "printed",
+      "content": "Total Clients - J&G\t\t\t348,930,116\t110,520,308\t119,951,466\t121,140,226",
+      "position": "table footer"
+    },
+    {
+      "type": "printed",
+      "content": "** Interest on RAR was calculated through 3/16/2012\n>> Interest on RAR was calculated through 3/22/2012\n>> Interest on RAR was calculated through 3/23/2012",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Merchant, William",
+      "Owen, Dennis",
+      "Pape, Mark",
+      "Peterson Ronald A.",
+      "Pollitt, Hunter",
+      "Poncher, Lyle",
+      "Postonvo, Jr. Eugenio",
+      "Purcel, Morris",
+      "Ragsdale, C&E",
+      "Ragsdale, HV",
+      "Ragsdale, T&L",
+      "Ragsdale, TS IV",
+      "Schmidt, Ralph F.",
+      "Schuett, Jr., William G.",
+      "Small, Richard & Arlene",
+      "Spector, Donald",
+      "Stuart Thomas",
+      "Tate, Joseph P.",
+      "Vanek, Greg",
+      "Walsh, Carol",
+      "Wiggins, Glenn",
+      "Yang, Julie"
+    ],
+    "organizations": [
+      "Jenkins and Gilchrist"
+    ],
+    "locations": [],
+    "dates": [
+      "03/15/13",
+      "12/31/2012",
+      "3/16/2012",
+      "3/22/2012",
+      "3/23/2012",
+      "1999",
+      "2000"
+    ],
+    "reference_numbers": [
+      "1:09-cr-00581-WHP",
+      "A-6043",
+      "603-7"
+    ]
+  },
+  "additional_notes": "The document appears to be a restitution calculation for clients of Jenkins and Gilchrist. The table contains financial data for each client, including tax benefits, deficiencies, and interest. The document is page 3 of 3 and has a total of 117 pages in the document set."
+}

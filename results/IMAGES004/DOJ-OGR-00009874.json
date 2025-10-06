@@ -1,0 +1,59 @@
+{
+  "document_metadata": {
+    "page_number": "5",
+    "document_number": "644",
+    "date": "03/11/22",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 644 Filed 03/11/22 Page 5 of 32 Constitutional Provisions U.S. Const. amends. V ............................................................................................................................. 1, 6, 23 U.S. Const. amends. VI ............................................................................................................................. 1, 6, 23 v DOJ-OGR-00009874",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 644 Filed 03/11/22 Page 5 of 32",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Constitutional Provisions",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "U.S. Const. amends. V ............................................................................................................................. 1, 6, 23",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "U.S. Const. amends. VI ............................................................................................................................. 1, 6, 23",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "v",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00009874",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "03/11/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "644",
+      "DOJ-OGR-00009874"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with references to constitutional provisions. The text is mostly printed with no visible handwriting or stamps."
+}

@@ -6,6 +6,7 @@ Processes images from Downloads folder and extracts structured data.
 
 import os
 import json
+import re
 import base64
 from pathlib import Path
 from typing import Dict, List, Optional
@@ -48,13 +49,17 @@ class ImageProcessor:
                 return set()
         return set()
 
-    def save_index(self):
+    def save_index(self, failed_files=None):
         """Save the current index of processed files"""
+        data = {
+            'processed_files': sorted(list(self.processed_files)),
+            'last_updated': str(Path.cwd())
+        }
+        if failed_files:
+            data['failed_files'] = failed_files
+
         with open(self.index_file, 'w') as f:
-            json.dump({
-                'processed_files': sorted(list(self.processed_files)),
-                'last_updated': str(Path.cwd())
-            }, f, indent=2)
+            json.dump(data, f, indent=2)
 
     def mark_processed(self, filename: str):
         """Mark a file as processed and update index"""
@@ -169,17 +174,58 @@ Return ONLY valid JSON in this exact structure:
             # Parse response
             content = response.choices[0].message.content
 
-            # Parse JSON from content (strip markdown if present)
-            content = content.strip()
-            if content.startswith('```json'):
-                content = content[7:]
-            if content.startswith('```'):
-                content = content[3:]
-            if content.endswith('```'):
-                content = content[:-3]
+            # Robust JSON extraction
             content = content.strip()
 
-            extracted_data = json.loads(content)
+            # 1. Try to find JSON between markdown code fences
+            json_match = re.search(r'```(?:json)?\s*\n(.*?)\n```', content, re.DOTALL)
+            if json_match:
+                content = json_match.group(1).strip()
+            else:
+                # 2. Try to find JSON between curly braces
+                json_match = re.search(r'\{.*\}', content, re.DOTALL)
+                if json_match:
+                    content = json_match.group(0).strip()
+                else:
+                    # 3. Strip markdown manually
+                    if content.startswith('```json'):
+                        content = content[7:]
+                    elif content.startswith('```'):
+                        content = content[3:]
+                    if content.endswith('```'):
+                        content = content[:-3]
+                    content = content.strip()
+
+            # Try to parse JSON
+            try:
+                extracted_data = json.loads(content)
+            except json.JSONDecodeError as e:
+                # Try to salvage by finding the first complete JSON object
+                try:
+                    # Find first { and matching }
+                    start = content.find('{')
+                    if start == -1:
+                        raise ValueError("No JSON object found")
+
+                    brace_count = 0
+                    end = start
+                    for i in range(start, len(content)):
+                        if content[i] == '{':
+                            brace_count += 1
+                        elif content[i] == '}':
+                            brace_count -= 1
+                            if brace_count == 0:
+                                end = i + 1
+                                break
+
+                    if end > start:
+                        content = content[start:end]
+                        extracted_data = json.loads(content)
+                    else:
+                        raise ValueError("Could not find complete JSON object")
+                except Exception:
+                    # If we can't salvage it, raise the original error
+                    raise e
 
             return ProcessingResult(
                 filename=self.get_relative_path(image_path),
@@ -216,6 +262,8 @@ Return ONLY valid JSON in this exact structure:
             return []
 
         results = []
+        failed_files = []
+
         with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
             futures = {executor.submit(self.process_image, img): img for img in image_files}
 
@@ -227,16 +275,24 @@ Return ONLY valid JSON in this exact structure:
                     # Save individual result to file
                     if result.success:
                         self.save_individual_result(result)
+                        tqdm.write(f"✅ Processed: {result.filename}")
+                    else:
+                        # Track failed files
+                        failed_files.append({
+                            'filename': result.filename,
+                            'error': result.error
+                        })
+                        tqdm.write(f"❌ Failed: {result.filename} - {result.error}")
 
                     # Mark as processed regardless of success/failure
                     self.mark_processed(result.filename)
 
                     pbar.update(1)
 
-                    if not result.success:
-                        tqdm.write(f"❌ Failed: {result.filename} - {result.error}")
-                    else:
-                        tqdm.write(f"✅ Processed: {result.filename}")
+        # Save failed files to index for reference
+        if failed_files:
+            self.save_index(failed_files=failed_files)
+            print(f"\n⚠️  {len(failed_files)} files failed - logged in {self.index_file}")
 
         return results
 

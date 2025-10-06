@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "6443-11",
+    "date": "2023/01/23",
+    "document_type": "Exhibit",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case: 20-000839-MAEIN Document: 6443-11 Filed: 2023/01/23 Page: 1 of 757\n\nEXHIBIT 3\n\nDOJ-OGR-00009902",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case: 20-000839-MAEIN Document: 6443-11 Filed: 2023/01/23 Page: 1 of 757",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EXHIBIT 3",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00009902",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "2023/01/23"
+    ],
+    "reference_numbers": [
+      "20-000839-MAEIN",
+      "6443-11",
+      "DOJ-OGR-00009902"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear header and footer. The main content is labeled as 'EXHIBIT 3'. The document is likely part of a larger legal case."
+}

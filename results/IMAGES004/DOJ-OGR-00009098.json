@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "613-2",
+    "date": "02/24/22",
+    "document_type": "Exhibit",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 613-2 Filed 02/24/22 Page 1 of 10 EXHIBIT 2 DOJ-OGR-00009098",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 613-2 Filed 02/24/22 Page 1 of 10",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EXHIBIT 2",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00009098",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "02/24/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "613-2",
+      "DOJ-OGR-00009098"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear header and footer. The main content is labeled as 'EXHIBIT 2'. The document is likely part of a larger legal case."
+}

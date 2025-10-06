@@ -1,0 +1,201 @@
+---
+layout: base.njk
+title: Document Analyses
+---
+
+<h1>Document Analyses</h1>
+<p class="subtitle">AI-generated summaries and insights for {{ analyses.length }} documents</p>
+
+<div class="search-box">
+  <input type="text" id="search" placeholder="Search analyses...">
+</div>
+
+<div id="results">
+  {% for item in analyses %}
+  <div class="analysis-card" data-content="{{ [item.document_number, item.analysis.document_type, item.analysis.summary, item.analysis.significance, item.analysis.key_topics | join(' ')] | join(' ') | lower }}">
+    <div class="analysis-header">
+      <h3>
+        <a href="/document/{{ item.document_id | slugify }}/">Document {{ item.document_number }}</a>
+      </h3>
+      <span class="doc-type-badge">{{ item.analysis.document_type }}</span>
+    </div>
+
+    <div class="analysis-summary">
+      <strong>Summary:</strong> {{ item.analysis.summary }}
+    </div>
+
+    <div class="analysis-significance">
+      <strong>Significance:</strong> {{ item.analysis.significance }}
+    </div>
+
+    {% if item.analysis.key_topics.length > 0 %}
+    <div class="analysis-topics">
+      <strong>Key Topics:</strong>
+      <ul>
+        {% for topic in item.analysis.key_topics %}
+        <li>{{ topic }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+
+    {% if item.analysis.key_people.length > 0 %}
+    <div class="analysis-people">
+      <strong>Key People:</strong>
+      <ul>
+        {% for person in item.analysis.key_people %}
+        <li><strong>{{ person.name }}</strong> - {{ person.role }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+
+    <div class="analysis-meta">
+      <span>{{ item.page_count }} {{ "page" if item.page_count == 1 else "pages" }}</span>
+      <a href="/document/{{ item.document_id | slugify }}/" class="view-doc-link">View full document →</a>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+<style>
+  .analysis-card {
+    background: white;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    transition: all 0.2s;
+  }
+
+  .analysis-card:hover {
+    border-color: #3498db;
+    box-shadow: 0 4px 12px rgba(52, 152, 219, 0.15);
+  }
+
+  .analysis-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  .analysis-header h3 {
+    margin: 0;
+    font-size: 1.25rem;
+  }
+
+  .analysis-header h3 a {
+    color: #2c3e50;
+    text-decoration: none;
+  }
+
+  .analysis-header h3 a:hover {
+    color: #3498db;
+  }
+
+  .doc-type-badge {
+    display: inline-block;
+    padding: 0.25rem 0.75rem;
+    background: #3498db;
+    color: white;
+    border-radius: 12px;
+    font-size: 0.8rem;
+    font-weight: 500;
+    text-transform: capitalize;
+  }
+
+  .analysis-summary {
+    background: #f8f9fa;
+    padding: 1rem;
+    border-radius: 6px;
+    margin-bottom: 1rem;
+    border-left: 3px solid #3498db;
+  }
+
+  .analysis-significance {
+    margin-bottom: 1rem;
+    font-style: italic;
+    color: #555;
+  }
+
+  .analysis-topics {
+    margin-bottom: 1rem;
+  }
+
+  .analysis-topics ul {
+    margin: 0.5rem 0 0 1.5rem;
+    padding: 0;
+  }
+
+  .analysis-topics li {
+    margin-bottom: 0.25rem;
+  }
+
+  .analysis-people {
+    margin-bottom: 1rem;
+  }
+
+  .analysis-people ul {
+    margin: 0.5rem 0 0 1.5rem;
+    padding: 0;
+  }
+
+  .analysis-people li {
+    margin-bottom: 0.5rem;
+  }
+
+  .analysis-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 1rem;
+    border-top: 1px solid #e0e0e0;
+    font-size: 0.9rem;
+    color: #666;
+  }
+
+  .view-doc-link {
+    color: #3498db;
+    text-decoration: none;
+    font-weight: 500;
+  }
+
+  .view-doc-link:hover {
+    text-decoration: underline;
+  }
+
+  @media (max-width: 600px) {
+    .analysis-card {
+      padding: 1rem;
+    }
+
+    .analysis-header {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    .analysis-meta {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 0.5rem;
+    }
+  }
+</style>
+
+<script>
+  const search = document.getElementById('search');
+  const results = document.getElementById('results');
+  const allCards = Array.from(results.querySelectorAll('.analysis-card'));
+
+  search.addEventListener('input', (e) => {
+    const query = e.target.value.toLowerCase().trim();
+
+    allCards.forEach(card => {
+      const content = card.dataset.content;
+      card.style.display = content.includes(query) ? 'block' : 'none';
+    });
+  });
+</script>

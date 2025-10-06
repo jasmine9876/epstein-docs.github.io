@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "260",
+    "document_number": "A-5678",
+    "date": "February 15, 2012",
+    "document_type": "Court Document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-c1-00630-PAE Document 6166120 Filed 02/24/22 Page 260 of 67 A-5678 UNITED STATES OF AMERICA, v PAUL M. DAUGERDAS, ET AL., February 15, 2012 ... (rest of the text as it appears on the page)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-c1-00630-PAE Document 6166120 Filed 02/24/22 Page 260 of 67 A-5678",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "UNITED STATES OF AMERICA, v PAUL M. DAUGERDAS, ET AL.,",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "February 15, 2012",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "counsels (1) 69:2 counsel's (4) 35:13;129:8;177:23; 200:18 Count (2) 201:1,2 counts (1) 74:24 county (5) 144:6,24;145:18.21; 148:5 couple (5) 22:1;67:3;156:1; 177:7;226:21 ...",
+      "position": "main content"
+    },
+    {
+      "type": "printed",
+      "content": "SOUTHERN DISTRICT REPORTERS (7) counsels - deliberating",
+      "position": "footer"
+    },
+    {
+      "type": "stamp",
+      "content": "DOJ-OGR-00009282",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "PAUL M. DAUGERDAS"
+    ],
+    "organizations": [
+      "UNITED STATES OF AMERICA",
+      "SOUTHERN DISTRICT REPORTERS"
+    ],
+    "locations": [],
+    "dates": [
+      "February 15, 2012",
+      "02/24/22",
+      "December 27"
+    ],
+    "reference_numbers": [
+      "1:20-c1-00630-PAE",
+      "6166120",
+      "A-5678",
+      "DOJ-OGR-00009282"
+    ]
+  },
+  "additional_notes": "The document appears to be a court transcript or a legal document with a list of words and their corresponding page numbers. The text is in a tabular format with multiple columns."
+}

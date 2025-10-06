@@ -1,0 +1,52 @@
+{
+  "document_metadata": {
+    "page_number": "29",
+    "document_number": "2020-0000000-AEN",
+    "date": "03/24/2022",
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case: 2020-0000000-AEN Document: 6433-11 Filed: 03/24/2022 Page: 826 of 830\n\nJuror ID: 50\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n-29-\nDOJ-OGR-00009786",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case: 2020-0000000-AEN Document: 6433-11 Filed: 03/24/2022 Page: 826 of 830",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Juror ID: 50",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "-29-",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00009786",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "03/24/2022"
+    ],
+    "reference_numbers": [
+      "2020-0000000-AEN",
+      "6433-11",
+      "826",
+      "830",
+      "50",
+      "DOJ-OGR-00009786"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a header containing case information and a footer with a page number. The main content is a blank form with a 'Juror ID' field filled in with '50'."
+}
