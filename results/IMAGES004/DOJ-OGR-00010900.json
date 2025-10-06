@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "147",
+    "document_number": "688",
+    "date": "06/29/22",
+    "document_type": "court document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 688 Filed 06/29/22 Page 147 of 353 Juror ID: 37 You may use these pages to finish any answers that you could not fit in the spaces provided above. If you write anything below, please indicate the number of the relevant question. -28- DOJ-OGR-00010900",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 688 Filed 06/29/22 Page 147 of 353",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "37",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "Juror ID:",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "You may use these pages to finish any answers that you could not fit in the spaces provided above. If you write anything below, please indicate the number of the relevant question.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "-28-",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00010900",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "06/29/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "688",
+      "37",
+      "DOJ-OGR-00010900"
+    ]
+  },
+  "additional_notes": "The document appears to be a court document with a juror ID and a page for additional notes. The document is mostly blank except for the header and footer information."
+}

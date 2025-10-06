@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "265",
+    "document_number": "688",
+    "date": "06/29/22",
+    "document_type": "court document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 688 Filed 06/29/22 Page 265 of 353 Junior ID: 70 -30- DOJ-OGR-00011018",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 688 Filed 06/29/22 Page 265 of 353",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Junior ID:",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "70",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "-30-",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00011018",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "06/29/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "688",
+      "DOJ-OGR-00011018"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a handwritten junior ID number. The page is mostly blank with lines for notes or text."
+}

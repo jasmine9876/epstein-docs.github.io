@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "293",
+    "document_number": "688",
+    "date": "06/29/22",
+    "document_type": "court document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 688 Filed 06/29/22 Page 293 of 353\n\nJunior ID: 89\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n-29-\n\nDOJ-OGR-00011046",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 688 Filed 06/29/22 Page 293 of 353",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Junior ID:",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "89",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "-29-",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00011046",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "06/29/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "688",
+      "DOJ-OGR-00011046"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a handwritten junior ID number. The page is mostly blank with printed lines for notes or text."
+}

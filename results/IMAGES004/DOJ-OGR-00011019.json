@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "266",
+    "document_number": "688",
+    "date": "06/29/22",
+    "document_type": "court document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 688 Filed 06/29/22 Page 266 of 353 Juror ID: 70 -31- DOJ-OGR-00011019",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 688 Filed 06/29/22 Page 266 of 353",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Juror ID:",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "70",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "-31-",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00011019",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "06/29/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "688",
+      "DOJ-OGR-00011019"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a juror ID number handwritten on it. The page is mostly blank with printed lines, suggesting it may be a template for notes or testimony."
+}

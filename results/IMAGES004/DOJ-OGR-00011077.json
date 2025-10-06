@@ -1,0 +1,55 @@
+{
+  "document_metadata": {
+    "page_number": "324",
+    "document_number": "688",
+    "date": "06/29/22",
+    "document_type": "court document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 688 Filed 06/29/22 Page 324 of 353 Juror ID: 119 -31- DOJ-OGR-00011077",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 688 Filed 06/29/22 Page 324 of 353",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Juror ID:",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "119",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "-31-",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00011077",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "06/29/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "688",
+      "119",
+      "DOJ-OGR-00011077"
+    ]
+  },
+  "additional_notes": "The document appears to be a court document with a juror ID number handwritten on it. The page contains a graph or chart with no visible data points or labels."
+}

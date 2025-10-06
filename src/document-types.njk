@@ -12,37 +12,38 @@ title: Document Types
 
 <div id="results">
   {% for type in indices.documentTypes %}
-  <div class="section" id="{{ type.name | slugify }}">
-    <h2>{{ type.name }}</h2>
-    <p>{{ type.count }} documents</p>
-
-    <div style="margin-top: 1rem;">
+  <details class="entity-item" data-name="{{ type.name }}" id="{{ type.name | slugify }}">
+    <summary class="entity-summary">
+      <span class="entity-name">{{ type.name }}</span>
+      <span class="entity-count">{{ type.count }} {{ "document" if type.count == 1 else "documents" }}</span>
+    </summary>
+    <div class="entity-content">
       {% for doc in type.docs %}
-      <div class="document-card">
-        <h4>Document {{ doc.document_number }}</h4>
-        <div class="meta">
-          {% if doc.document_metadata.date %}Date: {{ doc.document_metadata.date }} | {% endif %}
-          Pages: {{ doc.page_count }}
+      <div class="document-card-compact">
+        <a href="/document/{{ doc.unique_id | slugify }}/" class="doc-link">
+          <strong>Document {{ doc.document_number }}</strong>
+        </a>
+        <div class="meta-compact">
+          {% if doc.document_metadata.date %}{{ doc.document_metadata.date }} · {% endif %}
+          {{ doc.page_count }} {{ "page" if doc.page_count == 1 else "pages" }}
         </div>
-        <a href="/document/{{ doc.unique_id | slugify }}/" style="font-size: 0.9rem;">View document →</a>
       </div>
       {% endfor %}
     </div>
-  </div>
+  </details>
   {% endfor %}
 </div>
 
 <script>
   const search = document.getElementById('search');
   const results = document.getElementById('results');
+  const allItems = results.querySelectorAll('.entity-item');
 
   search.addEventListener('input', (e) => {
     const query = e.target.value.toLowerCase();
-    const sections = results.querySelectorAll('.section');
-
-    sections.forEach(section => {
-      const title = section.querySelector('h2').textContent.toLowerCase();
-      section.style.display = title.includes(query) ? 'block' : 'none';
+    allItems.forEach(item => {
+      const name = item.dataset.name.toLowerCase();
+      item.style.display = name.includes(query) ? 'block' : 'none';
     });
   });
 </script>

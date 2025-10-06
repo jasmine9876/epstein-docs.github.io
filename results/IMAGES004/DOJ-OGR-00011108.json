@@ -1,0 +1,59 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "689",
+    "date": "June 29, 2022",
+    "document_type": "Court Document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 689 Filed 06/29/22 Page 2 of 2\nDated: June 29, 2022 New York, New York\nAlison J. Nathan\nUnited States Circuit Judge\nSitting by Designation",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 689 Filed 06/29/22 Page 2 of 2",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Dated: June 29, 2022 New York, New York",
+      "position": "left"
+    },
+    {
+      "type": "handwritten",
+      "content": "Alison J. Nathan",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "ALISON J. NATHAN United States Circuit Judge Sitting by Designation",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00011108",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Alison J. Nathan"
+    ],
+    "organizations": [
+      "United States Circuit Court"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "June 29, 2022",
+      "06/29/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "689",
+      "DOJ-OGR-00011108"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a signature from a judge. The quality is clear, and there are no visible redactions or damage."
+}

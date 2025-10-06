@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": "145",
+    "document_number": "688",
+    "date": "06/29/22",
+    "document_type": "Juror Questionnaire",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 688 Filed 06/29/22 Page 145 of 353 Juror ID: 37 CLOSING QUESTION 51. Do you wish for any particular answers to remain confidential and to not go beyond the Judge, counsel, and the Defendant, because the answer would embarrass you or otherwise seriously compromise your privacy? Yes No If yes, please list which question number(s): -26- DOJ-OGR-00010898",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 688 Filed 06/29/22 Page 145 of 353",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "37",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CLOSING QUESTION",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "51. Do you wish for any particular answers to remain confidential and to not go beyond the Judge, counsel, and the Defendant, because the answer would embarrass you or otherwise seriously compromise your privacy?",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Yes No",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "If yes, please list which question number(s):",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "-26-",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00010898",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "06/29/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "688",
+      "DOJ-OGR-00010898"
+    ]
+  },
+  "additional_notes": "The document is a juror questionnaire with a single question answered 'No'. The document is in good condition with clear text."
+}

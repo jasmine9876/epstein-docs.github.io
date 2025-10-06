@@ -1,0 +1,59 @@
+{
+  "document_metadata": {
+    "page_number": "234",
+    "document_number": "688",
+    "date": "06/29/22",
+    "document_type": "court document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 688 Filed 06/29/22 Page 234 of 353 Juror ID: 50 You may use these pages to finish any answers that you could not fit in the spaces provided above. If you write anything below, please indicate the number of the relevant question. -28- DOJ-OGR-00010987",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 688 Filed 06/29/22 Page 234 of 353",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "50",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Juror ID:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "You may use these pages to finish any answers that you could not fit in the spaces provided above. If you write anything below, please indicate the number of the relevant question.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "-28-",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00010987",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "06/29/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "688",
+      "DOJ-OGR-00010987"
+    ]
+  },
+  "additional_notes": "The document appears to be a court document related to a criminal case. The page contains a section for jurors to provide additional information. The document is in good condition, with clear text and no visible redactions or damage."
+}

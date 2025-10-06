@@ -1,0 +1,85 @@
+{
+  "document_metadata": {
+    "page_number": "226",
+    "document_number": "688",
+    "date": "06/29/22",
+    "document_type": "Juror Questionnaire",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 688 Filed 06/29/22 Page 226 of 353 Juror ID: 50 36. Based on anything that you have read, seen, or heard about Ms. Maxwell, including anything about criminal charges against Ms. Maxwell, have you formed any opinions about Ms. Maxwell that might make it difficult for you to be a fair and impartial juror in this case? Yes No Unsure Not applicable, I have not read/seen/heard about Ms. Maxwell If yes or unsure, please explain why it might be difficult for you to be a fair and impartial juror in this case: 37. Before today, had you read, seen, or heard anything about Jeffrey Epstein? Yes No Unsure If yes or unsure, please state what you remember hearing, and how or from whom you may have heard (e.g., a friend, the newspaper, a website, social media). If you heard about Mr. Epstein from a media source, please identify the media source by name: CNN's source. Heard about his death and that he was in jail awaiting trial. 38. Have you verbally stated or posted your opinion on social media or online about Ms. Maxwell or Mr. Epstein? Yes No Not applicable, I have not read/seen/heard about Mr. Epstein/Ms. Maxwell If yes, when and where did you state or post your opinion? -20- DOJ-OGR-00010979",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 688 Filed 06/29/22 Page 226 of 353",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Juror ID: 50",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "36. Based on anything that you have read, seen, or heard about Ms. Maxwell, including anything about criminal charges against Ms. Maxwell, have you formed any opinions about Ms. Maxwell that might make it difficult for you to be a fair and impartial juror in this case?",
+      "position": "main"
+    },
+    {
+      "type": "handwritten",
+      "content": "No",
+      "position": "main"
+    },
+    {
+      "type": "printed",
+      "content": "37. Before today, had you read, seen, or heard anything about Jeffrey Epstein?",
+      "position": "main"
+    },
+    {
+      "type": "handwritten",
+      "content": "Yes",
+      "position": "main"
+    },
+    {
+      "type": "handwritten",
+      "content": "CNN's source. Heard about his death and that he was in jail awaiting trial.",
+      "position": "main"
+    },
+    {
+      "type": "printed",
+      "content": "38. Have you verbally stated or posted your opinion on social media or online about Ms. Maxwell or Mr. Epstein?",
+      "position": "main"
+    },
+    {
+      "type": "handwritten",
+      "content": "No",
+      "position": "main"
+    },
+    {
+      "type": "printed",
+      "content": "-20- DOJ-OGR-00010979",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ms. Maxwell",
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "CNN"
+    ],
+    "locations": [],
+    "dates": [
+      "06/29/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "688",
+      "226",
+      "353",
+      "50",
+      "DOJ-OGR-00010979"
+    ]
+  },
+  "additional_notes": "The document is a juror questionnaire from a court case involving Ms. Maxwell and Jeffrey Epstein. The juror has answered questions about their exposure to information about the case and their ability to remain impartial."
+}

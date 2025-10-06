@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": "321 of 353",
+    "document_number": "688",
+    "date": "06/29/22",
+    "document_type": "court document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 688 Filed 06/29/22 Page 321 of 353 Juror ID: 119 You may use these pages to finish any answers that you could not fit in the spaces provided above. If you write anything below, please indicate the number of the relevant question. -28- DOJ-OGR-00011074",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 688 Filed 06/29/22 Page 321 of 353",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Juror ID:",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "119",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "You may use these pages to finish any answers that you could not fit in the spaces provided above. If you write anything below, please indicate the number of the relevant question.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "-28-",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00011074",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "06/29/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "688",
+      "321 of 353",
+      "119",
+      "DOJ-OGR-00011074"
+    ]
+  },
+  "additional_notes": "The document appears to be a court document with a handwritten juror ID and a mostly blank page for additional notes. There is a diagonal line drawn on the page, possibly indicating that it was intentionally left blank or marked as unused."
+}
