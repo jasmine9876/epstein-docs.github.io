@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "569",
+    "date": "01/05/22",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 569 Filed 01/05/22 Page 3 of 3 The Honorable Alison J. Nathan January 5, 2021 Page 3 New York, New York 10022 (212) 957-7600 cc: All Counsel of Record (By Email) 2070301.1 DOJ-OGR-00008803",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 569 Filed 01/05/22 Page 3 of 3",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "The Honorable Alison J. Nathan January 5, 2021 Page 3",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "New York, New York 10022 (212) 957-7600",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "cc: All Counsel of Record (By Email)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "2070301.1 DOJ-OGR-00008803",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Alison J. Nathan"
+    ],
+    "organizations": [],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "January 5, 2021",
+      "01/05/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "Document 569",
+      "2070301.1",
+      "DOJ-OGR-00008803"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a header indicating the case number and document number. The content is a formal letter addressed to a judge, with a carbon copy notation to all counsel of record. The document is well-formatted and legible."
+}

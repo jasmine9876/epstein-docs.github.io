@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "9",
+    "document_number": "593",
+    "date": "02/04/22",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 593 Filed 02/04/22 Page 9 of 30\n18. Bennett Gershman\n19. Lesley Groff\n20. Dr. Ryan Hall\n21. Annie Farmer\n22. Maria Farmer\n23. Janice Farmer\n24. Jordana Feldman\n25. Tony Figueroa\n26. Stephen Flatley\n27. Dorothy [redacted]\n28. [redacted]\n29. Shawn\n30. Nicole Hesse\n31. Paul Kane\n32. Robert Kelso\n33. Sarah Kellen Vickers\n34. Elizabeth Nesbitt Kuyrkendall\n35. Gerald LaPorte\n36. Amanda Lazlo\n37. Dr. Elizabeth Loftus\n38. John Lopez\n39. Nadia Marcinkova\n40. Kelly Maguire\n2\nDOJ-OGR-00008871",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 593 Filed 02/04/22 Page 9 of 30",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "18. Bennett Gershman\n19. Lesley Groff\n20. Dr. Ryan Hall\n21. Annie Farmer\n22. Maria Farmer\n23. Janice Farmer\n24. Jordana Feldman\n25. Tony Figueroa\n26. Stephen Flatley\n27. Dorothy [redacted]\n28. [redacted]\n29. Shawn\n30. Nicole Hesse\n31. Paul Kane\n32. Robert Kelso\n33. Sarah Kellen Vickers\n34. Elizabeth Nesbitt Kuyrkendall\n35. Gerald LaPorte\n36. Amanda Lazlo\n37. Dr. Elizabeth Loftus\n38. John Lopez\n39. Nadia Marcinkova\n40. Kelly Maguire",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "2",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00008871",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Bennett Gershman",
+      "Lesley Groff",
+      "Dr. Ryan Hall",
+      "Annie Farmer",
+      "Maria Farmer",
+      "Janice Farmer",
+      "Jordana Feldman",
+      "Tony Figueroa",
+      "Stephen Flatley",
+      "Dorothy",
+      "Shawn",
+      "Nicole Hesse",
+      "Paul Kane",
+      "Robert Kelso",
+      "Sarah Kellen Vickers",
+      "Elizabeth Nesbitt Kuyrkendall",
+      "Gerald LaPorte",
+      "Amanda Lazlo",
+      "Dr. Elizabeth Loftus",
+      "John Lopez",
+      "Nadia Marcinkova",
+      "Kelly Maguire"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "02/04/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "593",
+      "DOJ-OGR-00008871"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a list of names. Two names (27 and 28) are redacted."
+}

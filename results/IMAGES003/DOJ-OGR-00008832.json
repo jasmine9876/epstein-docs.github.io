@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "582",
+    "date": "January 24, 2022",
+    "document_type": "Letter",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 582 Filed 01/25/22 Page 4 of 4 January 24, 2022 Page 4 Sincerely, DAVIS WRIGHT TREMAINE LLP /s/ Nathan Siegel Nathan Siegel Attorneys for American Broadcasting Companies, Inc. and NBCUniversal News Group 4863-7911-5787v.1 0019918-000033 DOJ-OGR-00008832",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 582 Filed 01/25/22 Page 4 of 4",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "January 24, 2022 Page 4",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Sincerely, DAVIS WRIGHT TREMAINE LLP /s/ Nathan Siegel Nathan Siegel Attorneys for American Broadcasting Companies, Inc. and NBCUniversal News Group",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "4863-7911-5787v.1 0019918-000033 DOJ-OGR-00008832",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Nathan Siegel"
+    ],
+    "organizations": [
+      "Davis Wright Tremaine LLP",
+      "American Broadcasting Companies, Inc.",
+      "NBCUniversal News Group"
+    ],
+    "locations": [],
+    "dates": [
+      "January 24, 2022",
+      "01/25/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "582",
+      "4863-7911-5787v.1",
+      "0019918-000033",
+      "DOJ-OGR-00008832"
+    ]
+  },
+  "additional_notes": "The document appears to be a formal letter from a law firm, Davis Wright Tremaine LLP, signed by Nathan Siegel on behalf of American Broadcasting Companies, Inc. and NBCUniversal News Group. The document is related to a court case with the reference number 1:20-cr-00330-PAE."
+}

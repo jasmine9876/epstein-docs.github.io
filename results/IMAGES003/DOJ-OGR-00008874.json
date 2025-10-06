@@ -1,0 +1,76 @@
+{
+  "document_metadata": {
+    "page_number": "12 of 30",
+    "document_number": "593",
+    "date": "02/04/22",
+    "document_type": "Court Document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 593 Filed 02/04/22 Page 12 of 30 COURT EXHIBIT# 4 DATE: 11/16/21 TIME: CASE: 20cr330 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK United States of America, -v- 20-CR-330 (AJN) Ghislaine Maxwell, Defendant. Locations and Entities for Voir Dire Please answer only yes or no (and do not state out loud the name of the program): Do you have specific familiarity with this television program, other than having heard the name of the program? DOJ-OGR-00008874",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 593 Filed 02/04/22 Page 12 of 30",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "COURT EXHIBIT# 4 DATE: 11/16/21 TIME: CASE: 20cr330",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "United States of America, -v- Ghislaine Maxwell, Defendant.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "20-CR-330 (AJN) Locations and Entities for Voir Dire",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Please answer only yes or no (and do not state out loud the name of the program):",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Do you have specific familiarity with this television program, other than having heard the name of the program?",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00008874",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ghislaine Maxwell"
+    ],
+    "organizations": [
+      "UNITED STATES DISTRICT COURT",
+      "SOUTHERN DISTRICT OF NEW YORK"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "02/04/22",
+      "11/16/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "Document 593",
+      "20-CR-330 (AJN)",
+      "DOJ-OGR-00008874"
+    ]
+  },
+  "additional_notes": "The document appears to be a court exhibit from the case against Ghislaine Maxwell, containing a question for voir dire regarding familiarity with a television program."
+}

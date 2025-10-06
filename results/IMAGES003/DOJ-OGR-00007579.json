@@ -1,0 +1,113 @@
+{
+  "document_metadata": {
+    "page_number": "86",
+    "document_number": "499-1",
+    "date": "11/23/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 499-1 Filed 11/23/21 Page 86 of 375\nPark Dietz, M.D., M.P.H., Ph.D.\nPage 24\n\nPeople of California v. Elizabeth Broderick (San Diego, California)\nTestified at trial, 11/26/91 and 11/27/91\n\nSenyard v. Radisson Hotel Stemmons (Dallas, Texas)\nTestified by telephone deposition, 1/3/92\n\nWilliam George Bonin v. Vasquez (Los Angeles, California)\nTestified at federal habeas hearing, 1/29/92\n\nState of Wisconsin v. Jeffrey L. Dahmer (Milwaukee, Wisconsin)\nTestified at trial, 2/12/92 and 2/13/92\n\nGregorio Garcia, et al. v. Avala of Texas, Inc., et al. (Houston, Texas)\nTestified at deposition, 1/21/92\nTestified at trial, 3/10/92 and 3/11/92\n\nMoore et al. v. Serrano (Houston, Texas)\nTestified at trial, 4/30/92\n\nMcWhorter and Daneker v. Burroughs Wellcome Company (Seattle, Washington)\nTestified at deposition, 5/28/92\n\nU.S. v. Loren Bellrichard (Minneapolis, Minnesota)\nTestified at sentencing, 6/29/92 and 6/30/92\n\nK.P./S.D. v. YMCA of Greater Miami (Miami, Florida)\nTestified at deposition, 11/23/92\n\nState of South Carolina v. Johnnie Kenneth Register, II (Conway, South Carolina)\nTestified at trial, 1/22/93\n\nCommonwealth of Massachusetts v. Kenneth G. Sequin (Cambridge, Massachusetts)\nTestified at trial, 1/27/93 and 1/28/93\n\nPeople of California v. Dale Akiki (San Diego, California)\nTestified at trial, 11/1/93\n\nEconomy Fire & Casualty Co. v. Betty Ann Haste, et al. (Springfield, Missouri)\nTestified at deposition, 11/18/93\n\nDOJ-OGR-00007579",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 499-1 Filed 11/23/21 Page 86 of 375",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Park Dietz, M.D., M.P.H., Ph.D.\nPage 24",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "People of California v. Elizabeth Broderick (San Diego, California)\nTestified at trial, 11/26/91 and 11/27/91\n\nSenyard v. Radisson Hotel Stemmons (Dallas, Texas)\nTestified by telephone deposition, 1/3/92\n\nWilliam George Bonin v. Vasquez (Los Angeles, California)\nTestified at federal habeas hearing, 1/29/92\n\nState of Wisconsin v. Jeffrey L. Dahmer (Milwaukee, Wisconsin)\nTestified at trial, 2/12/92 and 2/13/92\n\nGregorio Garcia, et al. v. Avala of Texas, Inc., et al. (Houston, Texas)\nTestified at deposition, 1/21/92\nTestified at trial, 3/10/92 and 3/11/92\n\nMoore et al. v. Serrano (Houston, Texas)\nTestified at trial, 4/30/92\n\nMcWhorter and Daneker v. Burroughs Wellcome Company (Seattle, Washington)\nTestified at deposition, 5/28/92\n\nU.S. v. Loren Bellrichard (Minneapolis, Minnesota)\nTestified at sentencing, 6/29/92 and 6/30/92\n\nK.P./S.D. v. YMCA of Greater Miami (Miami, Florida)\nTestified at deposition, 11/23/92\n\nState of South Carolina v. Johnnie Kenneth Register, II (Conway, South Carolina)\nTestified at trial, 1/22/93\n\nCommonwealth of Massachusetts v. Kenneth G. Sequin (Cambridge, Massachusetts)\nTestified at trial, 1/27/93 and 1/28/93\n\nPeople of California v. Dale Akiki (San Diego, California)\nTestified at trial, 11/1/93\n\nEconomy Fire & Casualty Co. v. Betty Ann Haste, et al. (Springfield, Missouri)\nTestified at deposition, 11/18/93",
+      "position": "main content"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00007579",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Elizabeth Broderick",
+      "Jeffrey L. Dahmer",
+      "Loren Bellrichard",
+      "Johnnie Kenneth Register, II",
+      "Kenneth G. Sequin",
+      "Dale Akiki",
+      "Betty Ann Haste",
+      "Park Dietz",
+      "William George Bonin",
+      "Gregorio Garcia",
+      "Senyard",
+      "Vasquez",
+      "Avala",
+      "Moore",
+      "Serrano",
+      "McWhorter",
+      "Daneker",
+      "K.P.",
+      "S.D."
+    ],
+    "organizations": [
+      "Radisson Hotel Stemmons",
+      "Avala of Texas, Inc.",
+      "Burroughs Wellcome Company",
+      "YMCA of Greater Miami",
+      "Economy Fire & Casualty Co."
+    ],
+    "locations": [
+      "San Diego",
+      "California",
+      "Dallas",
+      "Texas",
+      "Los Angeles",
+      "Milwaukee",
+      "Wisconsin",
+      "Houston",
+      "Seattle",
+      "Washington",
+      "Minneapolis",
+      "Minnesota",
+      "Miami",
+      "Florida",
+      "Conway",
+      "South Carolina",
+      "Cambridge",
+      "Massachusetts",
+      "Springfield",
+      "Missouri"
+    ],
+    "dates": [
+      "11/23/21",
+      "11/26/91",
+      "11/27/91",
+      "1/3/92",
+      "1/29/92",
+      "2/12/92",
+      "2/13/92",
+      "1/21/92",
+      "3/10/92",
+      "3/11/92",
+      "4/30/92",
+      "5/28/92",
+      "6/29/92",
+      "6/30/92",
+      "11/23/92",
+      "1/22/93",
+      "1/27/93",
+      "1/28/93",
+      "11/1/93",
+      "11/18/93"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "499-1",
+      "DOJ-OGR-00007579"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a list of cases and testimony dates. The text is clear and legible, with no visible redactions or damage."
+}

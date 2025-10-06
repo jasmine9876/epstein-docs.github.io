@@ -1,0 +1,51 @@
+{
+  "document_metadata": {
+    "page_number": "13",
+    "document_number": "593",
+    "date": "02/04/22",
+    "document_type": "court document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 593 Filed 02/04/22 Page 13 of 30 We're Leaving @ 5:30 thanks COURT EXHIBIT # 5 DATE: 12/20/2021 TIME: CASE: 20 CR 330 AJN DOJ-OGR-00008875",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 593 Filed 02/04/22 Page 13 of 30",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "We're Leaving @ 5:30 thanks",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "COURT EXHIBIT # 5 DATE: 12/20/2021 TIME: CASE: 20 CR 330 AJN",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00008875",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "12/20/2021",
+      "02/04/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "593",
+      "20 CR 330 AJN",
+      "DOJ-OGR-00008875"
+    ]
+  },
+  "additional_notes": "The document appears to be a court exhibit with a handwritten note about leaving at 5:30. The document is well-preserved with clear text."
+}

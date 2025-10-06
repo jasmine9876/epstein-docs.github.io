@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": "25 of 30",
+    "document_number": "593",
+    "date": "02/04/22",
+    "document_type": "Court Exhibit",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 593 Filed 02/04/22 Page 25 of 30\nCOURT EXHIBIT # 17\nDATE: 12/28/2021\nTIME:\nCASE: U.S. v. Maxwell\n20 CR 330 (AJN)\nHello Judge Nathan,\nOur deliberations are moving along. We are making progress. We are at a good point and would like to end today at 5PM and continue tomorrow morning at 9AM.\nThank You\n#26\n12/28/2021\nDOJ-OGR-00008887",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 593 Filed 02/04/22 Page 25 of 30",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "COURT EXHIBIT # 17\nDATE: 12/28/2021\nTIME:\nCASE: U.S. v. Maxwell\n20 CR 330 (AJN)",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Hello Judge Nathan,\nOur deliberations are moving along. We are making progress. We are at a good point and would like to end today at 5PM and continue tomorrow morning at 9AM.\nThank You\n#26\n12/28/2021",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00008887",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Judge Nathan",
+      "Maxwell"
+    ],
+    "organizations": [
+      "U.S."
+    ],
+    "locations": [],
+    "dates": [
+      "12/28/2021",
+      "02/04/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "593",
+      "20 CR 330 (AJN)",
+      "17",
+      "26",
+      "DOJ-OGR-00008887"
+    ]
+  },
+  "additional_notes": "The document contains handwritten text with some minor redactions."
+}

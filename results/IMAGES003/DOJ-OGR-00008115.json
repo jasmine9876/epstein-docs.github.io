@@ -1,0 +1,51 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "509-1",
+    "date": "11/24/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 509-1 Filed 11/24/21 Page 4 of 10 3 The defendant's supplementary citation to adds nothing to her opposition, since there is no evidence that website reflects Dr. Hall's views. 3 DOJ-OGR-00008115",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 509-1 Filed 11/24/21 Page 4 of 10",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "3 The defendant's supplementary citation to adds nothing to her opposition, since there is no evidence that website reflects Dr. Hall's views.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "3",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00008115",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Dr. Hall"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "11/24/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "509-1",
+      "DOJ-OGR-00008115"
+    ]
+  },
+  "additional_notes": "The document contains redactions, likely to protect sensitive information."
+}

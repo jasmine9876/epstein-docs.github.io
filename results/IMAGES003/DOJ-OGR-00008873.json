@@ -1,0 +1,91 @@
+{
+  "document_metadata": {
+    "page_number": "13",
+    "document_number": "593",
+    "date": "02/04/22",
+    "document_type": "Court Document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 593 Filed 02/04/22 Page 13 of 30\nDATE: 11/16/21\nTIME:\nCASE: 20 cr 330\nUNITED STATES DISTRICT COURT\nSOUTHERN DISTRICT OF NEW YORK\nUnited States of America,\n-v-\nGhislaine Maxwell,\nDefendant.\n20-CR-330 (AJN)\nLocations and Entities for\nVoir Dire\nList of Locations:\nA. 358 El Brillo Way, Palm Beach, Florida\nB. Zorro Ranch, 39 Zorro Ranch Road, Stanley, New Mexico\nC. 9 East 71st Street, New York, New York\nD. 116 East 65th Street, New York, New York\nE. 457 Madison Avenue, New York, New York\nF. Little St. James Island, U.S. Virgin Islands\nG. 44 Kinnerton Street, London\nH. Interlochen Arts Camp, Traverse City, Michigan\nList of Entities:\nI. Interlochen Arts Camp\nJ. Professional Children's School\nK. Survivor's Charter School\nL. West Palm Beach School of the Arts\nM. Mar-a-Lago\nDOJ-OGR-00008873",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 593 Filed 02/04/22 Page 13 of 30",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "DATE: 11/16/21\nTIME:\nCASE: 20 cr 330",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "UNITED STATES DISTRICT COURT\nSOUTHERN DISTRICT OF NEW YORK\nUnited States of America,\n-v-\nGhislaine Maxwell,\nDefendant.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "20-CR-330 (AJN)\nLocations and Entities for\nVoir Dire",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "List of Locations:\nA. 358 El Brillo Way, Palm Beach, Florida\nB. Zorro Ranch, 39 Zorro Ranch Road, Stanley, New Mexico\nC. 9 East 71st Street, New York, New York\nD. 116 East 65th Street, New York, New York\nE. 457 Madison Avenue, New York, New York\nF. Little St. James Island, U.S. Virgin Islands\nG. 44 Kinnerton Street, London\nH. Interlochen Arts Camp, Traverse City, Michigan",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "List of Entities:\nI. Interlochen Arts Camp\nJ. Professional Children's School\nK. Survivor's Charter School\nL. West Palm Beach School of the Arts\nM. Mar-a-Lago",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00008873",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ghislaine Maxwell"
+    ],
+    "organizations": [
+      "United States District Court",
+      "Professional Children's School",
+      "Survivor's Charter School",
+      "West Palm Beach School of the Arts",
+      "Interlochen Arts Camp"
+    ],
+    "locations": [
+      "New York",
+      "Florida",
+      "New Mexico",
+      "Palm Beach",
+      "Stanley",
+      "Little St. James Island",
+      "U.S. Virgin Islands",
+      "London",
+      "Traverse City",
+      "Michigan",
+      "El Brillo Way",
+      "Zorro Ranch",
+      "Zorro Ranch Road",
+      "East 71st Street",
+      "East 65th Street",
+      "Madison Avenue",
+      "Kinnerton Street",
+      "Mar-a-Lago"
+    ],
+    "dates": [
+      "02/04/22",
+      "11/16/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "Document 593",
+      "20-CR-330 (AJN)",
+      "DOJ-OGR-00008873"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing related to the case of Ghislaine Maxwell. It contains lists of locations and entities relevant to the voir dire process. The document is stamped with a date and case number."
+}

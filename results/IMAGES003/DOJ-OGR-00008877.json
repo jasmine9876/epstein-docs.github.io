@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": "15 of 30",
+    "document_number": "593",
+    "date": "02/04/22",
+    "document_type": "Court Exhibit",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 593 Filed 02/04/22 Page 15 of 30\n\nCOURT EXHIBIT # 7\nDATE: 12/21/2021\nTIME: 2:56 pm\nCASE: U.S. v. Maxwell 20 Cr 330 (AJN)\n\nHello Your Honor,\nWe would like the FBI deposition (3505-005) referred to by the defense witness during the examination \"cross\" of Carolyn\n\nDawn Vu\n#26\n12/21/2021\n\nDOJ-OGR-00008877",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 593 Filed 02/04/22 Page 15 of 30",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "COURT EXHIBIT # 7\nDATE: 12/21/2021\nTIME: 2:56 pm\nCASE: U.S. v. Maxwell 20 Cr 330 (AJN)",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Hello Your Honor,\nWe would like the FBI deposition (3505-005) referred to by the defense witness during the examination \"cross\" of Carolyn\n\nDawn Vu\n#26\n12/21/2021",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00008877",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Maxwell",
+      "Carolyn",
+      "Dawn Vu"
+    ],
+    "organizations": [
+      "FBI",
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "12/21/2021",
+      "02/04/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "593",
+      "20 Cr 330 (AJN)",
+      "3505-005",
+      "DOJ-OGR-00008877"
+    ]
+  },
+  "additional_notes": "The document contains handwritten notes and a redacted section. The overall quality is good, but there is a blacked-out area that appears to be a signature or other sensitive information."
+}

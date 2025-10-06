@@ -1,0 +1,39 @@
+{
+  "document_metadata": {
+    "page_number": "281",
+    "document_number": "499-1",
+    "date": "11/23/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 499-1 Filed 11/23/21 Page 281 of 375 DOJ-OGR-00007774",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 499-1 Filed 11/23/21 Page 281 of 375",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00007774",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "11/23/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "499-1",
+      "DOJ-OGR-00007774"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a case number and document number. The image is mostly blank, with text only at the top and bottom."
+}

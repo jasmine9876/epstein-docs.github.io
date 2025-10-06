@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": "16 of 30",
+    "document_number": "593",
+    "date": "02/04/22",
+    "document_type": "court document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 593 Filed 02/04/22 Page 16 of 30\nHello Judge Nathan\nWe would like to end today at 5pm, deliberate from 9-4:30 tomorrow and have lunch at 12 noon, if possible.\nThank you\n#26 12/21/2021\nCOURT EXHIBIT # 8\nDATE: 12/21/2021\nTIME: 4:06 pm.\nCASE: U.S. v. Maxwell 20 CR 330 (AJN)\nDOJ-OGR-00008878",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 593 Filed 02/04/22 Page 16 of 30",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Hello Judge Nathan\nWe would like to end today at 5pm, deliberate from 9-4:30 tomorrow and have lunch at 12 noon, if possible.\nThank you",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "#26 12/21/2021",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "COURT EXHIBIT # 8",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "12/21/2021",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "4:06 pm.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "U.S. v. Maxwell 20 CR 330 (AJN)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00008878",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Nathan",
+      "Maxwell"
+    ],
+    "organizations": [
+      "U.S."
+    ],
+    "locations": [],
+    "dates": [
+      "02/04/22",
+      "12/21/2021"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "593",
+      "20 CR 330 (AJN)",
+      "DOJ-OGR-00008878"
+    ]
+  },
+  "additional_notes": "The document appears to be a court exhibit with handwritten notes. The handwriting is generally legible, but there are some minor variations in writing quality."
+}

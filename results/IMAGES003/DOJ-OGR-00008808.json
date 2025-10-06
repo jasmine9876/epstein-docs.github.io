@@ -1,0 +1,77 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "571",
+    "date": "01/05/22",
+    "document_type": "court document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 571 Filed 01/05/22 Page 2 of 2\n- Defense motion: February 4, 2022\n- Government opposition: February 18, 2022\n- Defense reply: March 4, 2022\nSO ORDERED.\nDated: January 5, 2022 New York, New York\nALISON J. NATHAN\nUnited States District Judge\n2\nDOJ-OGR-00008808",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 571 Filed 01/05/22 Page 2 of 2",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "- Defense motion: February 4, 2022\n- Government opposition: February 18, 2022\n- Defense reply: March 4, 2022",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "SO ORDERED.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Dated: January 5, 2022\nNew York, New York",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Alison J. Nathan",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "ALISON J. NATHAN\nUnited States District Judge",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "2",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00008808",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Alison J. Nathan"
+    ],
+    "organizations": [
+      "United States District Court"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "February 4, 2022",
+      "February 18, 2022",
+      "March 4, 2022",
+      "January 5, 2022",
+      "01/05/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "571",
+      "DOJ-OGR-00008808"
+    ]
+  },
+  "additional_notes": "The document appears to be a court order signed by Judge Alison J. Nathan. The document is well-formatted and legible."
+}

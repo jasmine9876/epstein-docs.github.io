@@ -1,0 +1,89 @@
+{
+  "document_metadata": {
+    "page_number": "19",
+    "document_number": "593",
+    "date": "02/04/22",
+    "document_type": "Court Document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 593 Filed 02/04/22 Page 19 of 30 COURT EXHIBIT # 11 DATE: 12/22/21 TIME: CASE: US v. Maxwell 20 cr 330 (AJN) Hello Jury - If your deliberations are not completed today, Do you Wish to deliberate tomorrow (Thrs. Dec 23)? Yes No Thank you (please check yes or no) If yes, what time would you like to deliberate? From : Am. to : P.M. Thank you Judge Nathan * Jurors have made plans for tomorrow DOJ-OGR-0000881",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 593 Filed 02/04/22 Page 19 of 30",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "COURT EXHIBIT # 11",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "DATE: 12/22/21",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "TIME:",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "CASE: US v. Maxwell 20 cr 330 (AJN)",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Hello Jury - If your deliberations are not completed today, Do you Wish to deliberate tomorrow (Thrs. Dec 23)?",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Yes No Thank you (please check yes or no)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "If yes, what time would you like to deliberate? From : Am. to : P.M.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Thank you Judge Nathan",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "* Jurors have made plans for tomorrow",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-0000881",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Maxwell",
+      "AJN",
+      "Nathan"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "12/22/21",
+      "02/04/22",
+      "Dec 23"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "593",
+      "20 cr 330",
+      "DOJ-OGR-0000881"
+    ]
+  },
+  "additional_notes": "The document is a handwritten note from Judge Nathan to the jury in the case US v. Maxwell. The note asks if the jury wishes to deliberate on December 23 if they are not finished on December 22. The jury has responded by checking 'No'. The document is part of a larger court filing."
+}

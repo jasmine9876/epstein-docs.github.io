@@ -1,0 +1,53 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "488",
+    "date": "11/22/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 488 Filed 11/22/21 Page 4 of 6 Page 4 Each of these certifications is a certification by a custodian sufficient to satisfy the Rule. See Ratajack v. Brewster Fire Dept., 178 F. Supp. 3d 118, 128 n.3 (S.D.N.Y. 2016) (concluding that a transcript was self-authenticating based on a court reporter's certification that it contained a \"true record\"). DOJ-OGR-00007404",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 488 Filed 11/22/21 Page 4 of 6",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Page 4",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Each of these certifications is a certification by a custodian sufficient to satisfy the Rule. See Ratajack v. Brewster Fire Dept., 178 F. Supp. 3d 118, 128 n.3 (S.D.N.Y. 2016) (concluding that a transcript was self-authenticating based on a court reporter's certification that it contained a \"true record\").",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00007404",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Brewster Fire Dept.",
+      "DOJ"
+    ],
+    "locations": [
+      "S.D.N.Y."
+    ],
+    "dates": [
+      "11/22/21",
+      "2016"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "488",
+      "DOJ-OGR-00007404"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a header indicating the case number, document number, filing date, and page number. The main content discusses the sufficiency of certifications under a specific rule, referencing a court case. The document is well-formatted and legible."
+}

@@ -1,0 +1,83 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "593",
+    "date": "02/04/2022",
+    "document_type": "Court Document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 593 Filed 02/04/2022 Page 3 of 30\nDATE: 11/16/21 TIME: CASE: 20cr330\nUNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK\nUnited States of America, -v- Ghislaine Maxwell, Defendant. 20-CR-330 (AJN) Names for Voir Dire\n1. Juan Alessi\n2. Maria Alessi\n3. Carolyn Andriano\n4. Janusz Banasiak\n5. [REDACTED]\n6. Daniel Besselsen\n7. [REDACTED]\n8. [REDACTED]\n9. [REDACTED]\n10. Michael Buscemi\n11. Paul Byrne\n12. Tracy Chappell\n13. Michael Dawson\n14. Dr. Park Dietz\n15. Eva Anderson Dubin\n16. Glen Dubin\n17. [REDACTED]\nDOJ-OGR-00008870",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 593 Filed 02/04/2022 Page 3 of 30",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "DATE: 11/16/21 TIME: CASE: 20cr330",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "United States of America, -v- Ghislaine Maxwell, Defendant.",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "20-CR-330 (AJN) Names for Voir Dire",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "1. Juan Alessi\n2. Maria Alessi\n3. Carolyn Andriano\n4. Janusz Banasiak\n5. [REDACTED]\n6. Daniel Besselsen\n7. [REDACTED]\n8. [REDACTED]\n9. [REDACTED]\n10. Michael Buscemi\n11. Paul Byrne\n12. Tracy Chappell\n13. Michael Dawson\n14. Dr. Park Dietz\n15. Eva Anderson Dubin\n16. Glen Dubin\n17. [REDACTED]",
+      "position": "main"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00008870",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ghislaine Maxwell",
+      "Juan Alessi",
+      "Maria Alessi",
+      "Carolyn Andriano",
+      "Janusz Banasiak",
+      "Daniel Besselsen",
+      "Michael Buscemi",
+      "Paul Byrne",
+      "Tracy Chappell",
+      "Michael Dawson",
+      "Dr. Park Dietz",
+      "Eva Anderson Dubin",
+      "Glen Dubin"
+    ],
+    "organizations": [
+      "UNITED STATES DISTRICT COURT",
+      "SOUTHERN DISTRICT OF NEW YORK"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "02/04/2022",
+      "11/16/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "593",
+      "20-CR-330 (AJN)",
+      "DOJ-OGR-00008870"
+    ]
+  },
+  "additional_notes": "The document contains redactions, indicated by blacked-out text."
+}

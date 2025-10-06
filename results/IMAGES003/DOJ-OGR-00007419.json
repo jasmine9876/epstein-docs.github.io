@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "492",
+    "date": "11/22/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 492 Filed 11/22/21 Page 2 of 13 Page 2 DOJ-OGR-00007419",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 492 Filed 11/22/21 Page 2 of 13",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Page 2",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00007419",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "11/22/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "492",
+      "DOJ-OGR-00007419"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with redactions throughout the body. The text is mostly obscured by black bars, indicating sensitive or confidential information has been redacted."
+}

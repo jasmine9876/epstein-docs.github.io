@@ -1,0 +1,52 @@
+{
+  "document_metadata": {
+    "page_number": "17",
+    "document_number": "562",
+    "date": "12/17/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 562 Filed 12/17/21 Page 17 of 82\n1 Count Six of the Indictment charges the Defendant with sex trafficking of minors. Count\n2 Six relates to Carolyn and the time period 2001 to 2004.\n16\nDOJ-OGR-00008473",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 562 Filed 12/17/21 Page 17 of 82",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "1 Count Six of the Indictment charges the Defendant with sex trafficking of minors. Count\n2 Six relates to Carolyn and the time period 2001 to 2004.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "16",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00008473",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Carolyn",
+      "Defendant"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "2001",
+      "2004",
+      "12/17/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "562",
+      "DOJ-OGR-00008473"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing related to a sex trafficking case. The text is clear and legible, with no visible redactions or damage."
+}

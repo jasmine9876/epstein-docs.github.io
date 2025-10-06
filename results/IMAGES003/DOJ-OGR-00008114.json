@@ -1,0 +1,49 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "509-1",
+    "date": "11/24/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 509-1 Filed 11/24/21 Page 3 of 10",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 509-1 Filed 11/24/21 Page 3 of 10",
+      "position": "header"
+    },
+    {
+      "type": "other",
+      "content": "[Multiple redacted sections]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "2",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00008114",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "11/24/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "509-1",
+      "DOJ-OGR-00008114"
+    ]
+  },
+  "additional_notes": "The document is heavily redacted, with most of the content obscured."
+}

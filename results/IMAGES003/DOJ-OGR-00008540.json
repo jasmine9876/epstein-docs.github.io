@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "563",
+    "date": "12/18/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:18-cr-00330-PAE Document 563 Filed 12/18/21 Page 2 of 167\nUNITED STATES DISTRICT COURT\nSOUTHERN DISTRICT OF NEW YORK\nUNITED STATES OF AMERICA,\n-v.-\nS2 20 Cr. 330 (AJN)\nGHISLAINE MAXWELL,\nDefendant.\n[DRAFT] JURY CHARGE\nDOJ-OGR-00008540",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "UNITED STATES DISTRICT COURT\nSOUTHERN DISTRICT OF NEW YORK",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "UNITED STATES OF AMERICA,\n-v.-\nGHISLAINE MAXWELL,\nDefendant.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "S2 20 Cr. 330 (AJN)",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "[DRAFT] JURY CHARGE",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00008540",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "Case 1:18-cr-00330-PAE Document 563 Filed 12/18/21 Page 2 of 167",
+      "position": "header"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ghislain Maxwell"
+    ],
+    "organizations": [
+      "United States District Court",
+      "United States of America"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "12/18/21"
+    ],
+    "reference_numbers": [
+      "1:18-cr-00330-PAE",
+      "Document 563",
+      "S2 20 Cr. 330 (AJN)",
+      "DOJ-OGR-00008540"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a draft jury charge. The header is handwritten, while the rest of the text is printed."
+}

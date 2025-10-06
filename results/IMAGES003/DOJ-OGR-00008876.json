@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": "14 of 30",
+    "document_number": "593",
+    "date": "02/04/22",
+    "document_type": "court document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 593 Filed 02/04/22 Page 14 of 30 We would like the testimony (transcripts) of Jane, Annie and Carolyn. #26 12/21/2021 COURT EXHIBIT # 6 DATE: 12/21/2021 TIME: CASE: U.S. v. Maxwell 20 CR 330 (AJN) DOJ-OGR-00008876",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 593 Filed 02/04/22 Page 14 of 30",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "We would like the testimony (transcripts) of Jane, Annie and Carolyn.",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "#26 12/21/2021",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "COURT EXHIBIT #",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "6",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DATE: TIME: CASE:",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "12/21/2021 U.S. v. Maxwell 20 CR 330 (AJN)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00008876",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jane",
+      "Annie",
+      "Carolyn",
+      "Maxwell"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "12/21/2021",
+      "02/04/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "593",
+      "20 CR 330 (AJN)",
+      "DOJ-OGR-00008876"
+    ]
+  },
+  "additional_notes": "The document contains handwritten notes and a redacted section. The case is U.S. v. Maxwell."
+}

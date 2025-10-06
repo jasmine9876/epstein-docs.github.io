@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "507-2",
+    "date": "11/24/21",
+    "document_type": "Exhibit",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 507-2 Filed 11/24/21 Page 1 of 1 Exhibit B (Under Seal) DOJ-OGR-00008085",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 507-2 Filed 11/24/21 Page 1 of 1",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Exhibit B (Under Seal)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00008085",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "11/24/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "507-2",
+      "DOJ-OGR-00008085"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a header and footer containing case information and a unique identifier. The main content is labeled as 'Exhibit B' and is marked as 'Under Seal'."
+}

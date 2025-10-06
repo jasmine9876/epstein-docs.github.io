@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "9",
+    "document_number": "523",
+    "date": "12/04/21",
+    "document_type": "Court Document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 523 Filed 12/04/21 Page 9 of 9 Respectfully submitted, DAMIAN WILLIAMS United States Attorney By: s/ Maurene Comey Alison Moe Lara Pomerantz Andrew Rohrbach Assistant United States Attorneys Southern District of New York Cc: Defense Counsel (by ECF) 9 DOJ-OGR-00008222",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 523 Filed 12/04/21 Page 9 of 9",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Respectfully submitted, DAMIAN WILLIAMS United States Attorney By: s/ Maurene Comey Alison Moe Lara Pomerantz Andrew Rohrbach Assistant United States Attorneys Southern District of New York",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Cc: Defense Counsel (by ECF)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "9",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00008222",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Damian Williams",
+      "Maurene Comey",
+      "Alison Moe",
+      "Lara Pomerantz",
+      "Andrew Rohrbach"
+    ],
+    "organizations": [
+      "United States Attorney",
+      "Southern District of New York"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "12/04/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "523",
+      "DOJ-OGR-00008222"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a signature block and a cc section. The text is clear and legible."
+}

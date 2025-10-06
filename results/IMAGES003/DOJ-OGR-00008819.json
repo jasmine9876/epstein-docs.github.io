@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "577",
+    "date": "January 14, 2022",
+    "document_type": "Court Document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 577 Filed 01/14/22 Page 2 of 2\nDated: January 14, 2022 New York, New York\nALISON J. NATHAN United States District Judge\n2\nDOJ-OGR-00008819",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 577 Filed 01/14/22 Page 2 of 2",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Dated: January 14, 2022 New York, New York",
+      "position": "left margin"
+    },
+    {
+      "type": "handwritten",
+      "content": "Alison J. Nathan",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "ALISON J. NATHAN United States District Judge",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "2",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00008819",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Alison J. Nathan"
+    ],
+    "organizations": [
+      "United States District Court"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "January 14, 2022",
+      "01/14/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "577",
+      "DOJ-OGR-00008819"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a signature from a United States District Judge. The quality is clear, and there are no visible redactions or damage."
+}

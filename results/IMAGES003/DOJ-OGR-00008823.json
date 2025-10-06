@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "580",
+    "date": "01/19/22",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-AJN Document 580 Filed 01/19/22 Page 2 of 2 2 DOJ-OGR-00008823",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-AJN Document 580 Filed 01/19/22 Page 2 of 2",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "2",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00008823",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "01/19/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-AJN",
+      "580",
+      "DOJ-OGR-00008823"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a case number and document number. The page is blank except for the header and footer information."
+}

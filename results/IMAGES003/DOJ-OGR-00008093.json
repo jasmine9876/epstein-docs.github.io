@@ -1,0 +1,51 @@
+{
+  "document_metadata": {
+    "page_number": "8",
+    "document_number": "508",
+    "date": "11/24/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 508 Filed 11/24/21 Page 8 of 25 Finally, regarding the government's allegations in this case, Dr. Hall's report reveals that 4 DOJ-OGR-00008093",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 508 Filed 11/24/21 Page 8 of 25",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Finally, regarding the government's allegations in this case, Dr. Hall's report reveals that",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "4",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00008093",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Dr. Hall"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "11/24/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "508",
+      "DOJ-OGR-00008093"
+    ]
+  },
+  "additional_notes": "The document contains redactions in the form of black bars covering most of the text on the page."
+}

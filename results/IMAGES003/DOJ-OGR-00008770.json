@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "64",
+    "document_number": "565",
+    "date": "12/19/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 565 Filed 12/19/21 Page 64 of 83\n1 received significant attention in the media. I instruct you again that this process should not bear\n2 in any way on your evaluation of the evidence or credibility of any witness in this case.\n63\nDOJ-OGR-00008770",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 565 Filed 12/19/21 Page 64 of 83",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "1 received significant attention in the media. I instruct you again that this process should not bear",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "2 in any way on your evaluation of the evidence or credibility of any witness in this case.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "63",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00008770",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "12/19/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "565",
+      "DOJ-OGR-00008770"
+    ]
+  },
+  "additional_notes": "The document appears to be a court transcript or legal document. The text is clear and legible, with no visible redactions or damage."
+}

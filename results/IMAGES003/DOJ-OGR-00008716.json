@@ -1,0 +1,49 @@
+{
+  "document_metadata": {
+    "page_number": "10",
+    "document_number": "565",
+    "date": "12/19/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 565 Filed 12/19/21 Page 10 of 83\n1 comment, question, or instruction of mine. Nor should you infer that I have any views as to the\n2 credibility of any witness, as to the weight of the evidence, or as to how you should decide any\n3 issue that is before you. That is entirely your role.\n9\nDOJ-OGR-00008716",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 565 Filed 12/19/21 Page 10 of 83",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "1 comment, question, or instruction of mine. Nor should you infer that I have any views as to the\n2 credibility of any witness, as to the weight of the evidence, or as to how you should decide any\n3 issue that is before you. That is entirely your role.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "9",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00008716",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "12/19/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "565",
+      "DOJ-OGR-00008716"
+    ]
+  },
+  "additional_notes": "The document appears to be a court transcript or legal document. The text is clear and legible, with no visible redactions or damage."
+}

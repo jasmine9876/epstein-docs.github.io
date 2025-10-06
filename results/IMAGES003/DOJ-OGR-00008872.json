@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": "10",
+    "document_number": "593",
+    "date": "02/04/22",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 593 Filed 02/04/22 Page 10 of 30\n41. Pat McHugh\n42. Tatum [REDACTED]\n43. David Mulligan\n44. Jennifer Naso\n45. Greg Parkinson\n46. Joseph Recarey\n47. Virginia Roberts Giuffre\n48. David Rodgers\n49. Alfredo Rodriguez\n50. Dr. Lisa Rocchio\n51. Adriana Ross Salazar\n52. Susan Shelling\n53. Timothy Slater\n54. Emmy Taylor\n55. Melissa [REDACTED]\n56. Lawrence Visoski\n57. Les Wexner\n58. Amanda Young\n3\nDOJ-OGR-00008872",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 593 Filed 02/04/22 Page 10 of 30",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "41. Pat McHugh\n42. Tatum [REDACTED]\n43. David Mulligan\n44. Jennifer Naso\n45. Greg Parkinson\n46. Joseph Recarey\n47. Virginia Roberts Giuffre\n48. David Rodgers\n49. Alfredo Rodriguez\n50. Dr. Lisa Rocchio\n51. Adriana Ross Salazar\n52. Susan Shelling\n53. Timothy Slater\n54. Emmy Taylor\n55. Melissa [REDACTED]\n56. Lawrence Visoski\n57. Les Wexner\n58. Amanda Young",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "3",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00008872",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Pat McHugh",
+      "Tatum",
+      "David Mulligan",
+      "Jennifer Naso",
+      "Greg Parkinson",
+      "Joseph Recarey",
+      "Virginia Roberts Giuffre",
+      "David Rodgers",
+      "Alfredo Rodriguez",
+      "Dr. Lisa Rocchio",
+      "Adriana Ross Salazar",
+      "Susan Shelling",
+      "Timothy Slater",
+      "Emmy Taylor",
+      "Melissa",
+      "Lawrence Visoski",
+      "Les Wexner",
+      "Amanda Young"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "02/04/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "593",
+      "DOJ-OGR-00008872"
+    ]
+  },
+  "additional_notes": "The document contains redactions for the names 'Tatum' and 'Melissa'. The document appears to be a court filing with a list of names."
+}

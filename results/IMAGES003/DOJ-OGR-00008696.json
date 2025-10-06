@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "158",
+    "document_number": "563",
+    "date": "12/18/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 563 Filed 12/18/21 Page 158 of 167\n1\nInstruction No. 56: Redaction Of Evidentiary Items\n2 We have, among the exhibits received in evidence, some documents that are redacted.\n3 \"Redacted\" means that part of the document has been taken out. Material may be redacted for any\n4 number of reasons, including that it is not relevant to the issues you must decide in this case, among\n5 other reasons. You are to concern yourself only with the part of the item that has been admitted\n6 into evidence, and you should not consider any possible reason for the redactions.\n75\nDOJ-OGR-00008696",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 563 Filed 12/18/21 Page 158 of 167",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Instruction No. 56: Redaction Of Evidentiary Items",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "We have, among the exhibits received in evidence, some documents that are redacted. \"Redacted\" means that part of the document has been taken out. Material may be redacted for any number of reasons, including that it is not relevant to the issues you must decide in this case, among other reasons. You are to concern yourself only with the part of the item that has been admitted into evidence, and you should not consider any possible reason for the redactions.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "75",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00008696",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "12/18/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "563",
+      "DOJ-OGR-00008696"
+    ]
+  },
+  "additional_notes": "The document appears to be a court instruction regarding redacted evidentiary items. It is a printed document with no handwritten text or stamps."
+}

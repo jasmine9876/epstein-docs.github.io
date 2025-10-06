@@ -1,0 +1,49 @@
+{
+  "document_metadata": {
+    "page_number": "9",
+    "document_number": "507",
+    "date": "11/24/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 507 Filed 11/24/21 Page 9 of 28\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n7\n\nDOJ-OGR-00008050",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 507 Filed 11/24/21 Page 9 of 28",
+      "position": "header"
+    },
+    {
+      "type": "other",
+      "content": "Multiple blacked-out text blocks",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "7",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00008050",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "11/24/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "507",
+      "DOJ-OGR-00008050"
+    ]
+  },
+  "additional_notes": "The document is heavily redacted with multiple blacked-out text blocks. The original text is not visible."
+}

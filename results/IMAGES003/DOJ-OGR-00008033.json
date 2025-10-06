@@ -1,0 +1,71 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "501-1",
+    "date": "11/24/21",
+    "document_type": "Court Order",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 501-1 Filed 11/24/21 Page 2 of 2 collectively with the Government, \"the Parties\") shall be treated as \"Confidential Information\" within the meaning of the Protective Order (Dkt. No. 36 ¶ 7) and shall be subject to the provisions thereof. 2. At the discretion of the Court, the Court may designate certain materials as \"Highly Confidential\" within the meaning of the Protective Order (Dkt. No. 36 ¶ 11) and subject to the provisions thereof. SO ORDERED: Dated: New York, New York November __, 2021 HONORABLE ALISON J. NATHAN United States District Judge 2 DOJ-OGR-00008033",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 501-1 Filed 11/24/21 Page 2 of 2",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "collectively with the Government, \"the Parties\") shall be treated as \"Confidential Information\" within the meaning of the Protective Order (Dkt. No. 36 ¶ 7) and shall be subject to the provisions thereof. 2. At the discretion of the Court, the Court may designate certain materials as \"Highly Confidential\" within the meaning of the Protective Order (Dkt. No. 36 ¶ 11) and subject to the provisions thereof.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "SO ORDERED:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Dated: New York, New York November __, 2021",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "HONORABLE ALISON J. NATHAN United States District Judge",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "2",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00008033",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Alison J. Nathan"
+    ],
+    "organizations": [
+      "Government",
+      "United States District Court"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "11/24/21",
+      "2021"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "501-1",
+      "36",
+      "DOJ-OGR-00008033"
+    ]
+  },
+  "additional_notes": "The document appears to be a court order with a missing date in the 'November __, 2021' field. The overall quality is clear and legible."
+}
