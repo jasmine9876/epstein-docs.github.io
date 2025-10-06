@@ -1,0 +1,119 @@
+{
+  "document_metadata": {
+    "page_number": "11",
+    "document_number": "4-495-75031",
+    "date": "Dec 23, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx\nInvoice Number: 4-495-75031\nInvoice Date: Dec 23, 2002\nAccount Number: 1144-2081-6\nPage: 11 of 21\nFedEx Express Shipment Detail By Payment Type (Original)\nPicked up: Dec 13, 2002\nPayer: Shipper\nReference: NO REFERENCE INFORMATION\nFuel Surcharge FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 6\nRelease signature on file.\nInternetShip\nTracking ID 791995168935\nService Type FedEx Standard Overnight\nPackage Type Customer Packaging\nZone 6\nPackages 1\nWeight 10.0 lbs. 4.5 kgs\nDelivered Dec 16, 2002 14:56\nSvc Area AA\nSigned by E PSTEIN\nFedEx Use 523568020/01371/02\nSender CECILIA STEEN\nJEFFREY E EPSTEIN\nRecipient JEFFREY E EPSTEIN\n358 EL BRILLO WAY\nPALM BEACH FL 33480 US\n457 MADISON AVE\nNEW YORK NY 10022-6843 US\nTransportation Charge 43.50\nDiscount 4.35\nFuel Surcharge 1.57\nResidential Delivery 1.35\nTotal Transportation Charges USD $ 42.07\nDropped off: Dec 13, 2002\nPayer: Shipper\nReference: NO REFERENCE INFORMATION\nFuel Surcharge FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 7\nPackage sent from: 87056 zip code\nRelease signature on file.\nTracking ID 82748051377\nService Type FedEx Priority Overnight\nPackage Type FedEx Pak\nZone 7\nPackages 1\nWeight 1.0 lbs. 0.5 kgs\nDelivered Dec 14, 2002 11:06\nSvc Area AA\nSigned by E PSTIEN1\nFedEx Use 351043160/01596/02\nSender SHANNON\nJEFFREY E EPSTEIN\nRecipient EVELYN C/O JEFFREY EPSTON\n457 MADISON AVE\nNEW YORK NY 10022-6843 US\nTransportation Charge 25.25\nDiscount -2.53\nSaturday Delivery 10.00\nFuel Surcharge 0.91\nResidential Delivery 1.35\nTotal Transportation Charges USD $ 34.98\nDOJ-OGR-00016074",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Number: 4-495-75031\nInvoice Date: Dec 23, 2002\nAccount Number: 1144-2081-6\nPage: 11 of 21",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Picked up: Dec 13, 2002\nPayer: Shipper\nReference: NO REFERENCE INFORMATION",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Fuel Surcharge FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 6\nRelease signature on file.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "InternetShip\nTracking ID 791995168935\nService Type FedEx Standard Overnight\nPackage Type Customer Packaging\nZone 6\nPackages 1\nWeight 10.0 lbs. 4.5 kgs\nDelivered Dec 16, 2002 14:56\nSvc Area AA\nSigned by E PSTEIN\nFedEx Use 523568020/01371/02",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Sender CECILIA STEEN\nJEFFREY E EPSTEIN\n457 MADISON AVE\nNEW YORK NY 10022-6843 US\nRecipient JEFFREY E EPSTEIN\n358 EL BRILLO WAY\nPALM BEACH FL 33480 US",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Transportation Charge 43.50\nDiscount 4.35\nFuel Surcharge 1.57\nResidential Delivery 1.35\nTotal Transportation Charges USD $ 42.07",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Dropped off: Dec 13, 2002\nPayer: Shipper\nReference: NO REFERENCE INFORMATION",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Fuel Surcharge FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 7\nPackage sent from: 87056 zip code\nRelease signature on file.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Tracking ID 82748051377\nService Type FedEx Priority Overnight\nPackage Type FedEx Pak\nZone 7\nPackages 1\nWeight 1.0 lbs. 0.5 kgs\nDelivered Dec 14, 2002 11:06\nSvc Area AA\nSigned by E PSTIEN1\nFedEx Use 351043160/01596/02",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Sender SHANNON\nJEFFREY E EPSTEIN\n457 MADISON AVE\nNEW YORK NY 10022-6843 US\nRecipient EVELYN C/O JEFFREY EPSTON",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Transportation Charge 25.25\nDiscount -2.53\nSaturday Delivery 10.00\nFuel Surcharge 0.91\nResidential Delivery 1.35\nTotal Transportation Charges USD $ 34.98",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00016074",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "CECILIA STEEN",
+      "JEFFREY E EPSTEIN",
+      "SHANNON",
+      "EVELYN"
+    ],
+    "organizations": [
+      "FedEx"
+    ],
+    "locations": [
+      "NEW YORK",
+      "PALM BEACH",
+      "FL",
+      "NY",
+      "US",
+      "EL BRILLO WAY",
+      "MADISON AVE"
+    ],
+    "dates": [
+      "Dec 13, 2002",
+      "Dec 23, 2002",
+      "Dec 16, 2002",
+      "Dec 14, 2002"
+    ],
+    "reference_numbers": [
+      "4-495-75031",
+      "1144-2081-6",
+      "791995168935",
+      "523568020/01371/02",
+      "82748051377",
+      "351043160/01596/02",
+      "DOJ-OGR-00016074"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx invoice with two shipment details. The shipments were sent by Jeffrey E Epstein and received by Jeffrey E Epstein and Evelyn C/O Jeffrey Epston respectively."
+}

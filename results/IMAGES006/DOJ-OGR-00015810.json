@@ -1,0 +1,94 @@
+{
+  "document_metadata": {
+    "page_number": "13",
+    "document_number": null,
+    "date": "1992",
+    "document_type": "Pilot's Logbook Page",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE AIRCRAFT MAKE AND MODEL AIRCRAFT IDENTIFICATION MARK POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FLOWN FLT. NO. REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS NO. LDG. AIRCRAFT CATEGORY AIRPLANE COMPLEX TYPE 1992 Aug 24 HS125-700 N9083K GRI TEB 199 1 29 29 2 26 \" TEB CMH 4.0 200 1 1 1 27 \" CMH TEB 9.0 201 1 14 14 1 27 \" TEB DAB 202 1 22 22 2 27 \" DAB PBI 203 6 6 6 28 \" PBI DAB 3.0 204 5 5 5 29 \" DAB PBI 4.0 205 6 6 6 30 \" PBI DAB 15.0 206 6 6 6 30 \" DAB HFD 207 2 21 21 2 30 \" HFD TEB 208 1 1 1 30 \" TEB CMH 209 1 13 13 1 SEP 2 \" CMH SPI 10.5 210 9 9 9 17 \" SPI CMH 7.0 211 1 10 10 1 19 \" CMH SAF 8.2 212 3 33 33 3 24 \" SAF PBI 9.0 213 3 36 36 3 27 \" PBI TEB 5.5 214 2 26 26 2 28 \" TEB BOS 215 7 7 7 28 \" BOS TEB 216 9 9 9 I certify that the statements made by me on this form are true. Daniel Redefie PILOT'S SIGNATURE PAGE TOTAL 13 269 269 26 AMT. FORWARD 5063 5 4633 2024 TOTAL TO DATE 5321 5690 4 4059 2051",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE AIRCRAFT MAKE AND MODEL AIRCRAFT IDENTIFICATION MARK POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FLOWN FLT. NO. REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS NO. LDG. AIRCRAFT CATEGORY AIRPLANE COMPLEX TYPE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "1992 Aug 24 HS125-700 N9083K GRI TEB 199 1 29 29 2 26 \" TEB CMH 4.0 200 1 1 1 27 \" CMH TEB 9.0 201 1 14 14 1 27 \" TEB DAB 202 1 22 22 2 27 \" DAB PBI 203 6 6 6 28 \" PBI DAB 3.0 204 5 5 5 29 \" DAB PBI 4.0 205 6 6 6 30 \" PBI DAB 15.0 206 6 6 6 30 \" DAB HFD 207 2 21 21 2 30 \" HFD TEB 208 1 1 1 30 \" TEB CMH 209 1 13 13 1 SEP 2 \" CMH SPI 10.5 210 9 9 9 17 \" SPI CMH 7.0 211 1 10 10 1 19 \" CMH SAF 8.2 212 3 33 33 3 24 \" SAF PBI 9.0 213 3 36 36 3 27 \" PBI TEB 5.5 214 2 26 26 2 28 \" TEB BOS 215 7 7 7 28 \" BOS TEB 216 9 9 9",
+      "position": "main"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Daniel Redefie PILOT'S SIGNATURE",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE TOTAL 13 269 269 26 AMT. FORWARD 5063 5 4633 2024 TOTAL TO DATE 5321 5690 4 4059 2051",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Daniel Redefie"
+    ],
+    "organizations": [],
+    "locations": [
+      "GRI",
+      "TEB",
+      "CMH",
+      "DAB",
+      "PBI",
+      "HFD",
+      "SPI",
+      "SAF",
+      "BOS"
+    ],
+    "dates": [
+      "1992",
+      "Aug 24",
+      "Aug 26",
+      "Aug 27",
+      "Aug 28",
+      "Aug 29",
+      "Aug 30",
+      "SEP 2",
+      "SEP 17",
+      "SEP 19",
+      "SEP 24",
+      "SEP 27",
+      "SEP 28"
+    ],
+    "reference_numbers": [
+      "N9083K",
+      "199",
+      "200",
+      "201",
+      "202",
+      "203",
+      "204",
+      "205",
+      "206",
+      "207",
+      "208",
+      "209",
+      "210",
+      "211",
+      "212",
+      "213",
+      "214",
+      "215",
+      "216",
+      "5063",
+      "4633",
+      "2024",
+      "5321",
+      "5690",
+      "4059",
+      "2051"
+    ]
+  },
+  "additional_notes": "The document is a pilot's logbook page with handwritten entries. The page contains a table with columns for date, aircraft make and model, aircraft identification mark, points of departure and arrival, miles flown, flight number, remarks, and aircraft category. The page is signed by the pilot, Daniel Redefie."
+}

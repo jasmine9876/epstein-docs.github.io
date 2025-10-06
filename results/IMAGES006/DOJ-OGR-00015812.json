@@ -1,0 +1,126 @@
+{
+  "document_metadata": {
+    "page_number": "15",
+    "document_number": null,
+    "date": "1942",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE 1942 NOV 9 12 12 14 16 17 19 20 22 26 29 DEC 3 3 3 5 5 5 11 11 | AIRCRAFT MAKE AND MODEL HS125-700 N702SE | AIRCRAFT IDENTIFICATION MARK N702SE | POINTS OF DEPARTURE & ARRIVAL FROM TCB TCB CMH CMH PBE TCB CMH TCB PBE CMH PBE TCB CMH ABQ CMH ABQ SMO ABQ CMH TCB PBE | TO TCB DCA CMH PBE TCB CMH TCB PBE CMH TCB CMH ABQ SMO ABQ CMH TCB PBE | MILES FLOWN 455 100 V 37 50 45 30 70 40 40 50 120 V V 63 V 40 240 | FLT. NO. 237 239 234 240 241 242 243 244 245 246 247 248 249 250 251 252 253 254 | REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS | NO. LDG. | AIRCRAFT CATEGORY AEROLINK COMPLEX TUR 25 25 11 3 8 22 22 25 25 14 14 11 11 23 23 23 23 26 26 14 14 41 41 20 20 14 14 26 26 11 11 24 24 | PAGE TOTAL AMT. FORWARD TOTAL TO DATE 363 95 5795 363 2403 4123 31 2 7 207 0 2115 | I certify that the statements made by me on this form are true. PILOT'S SIGNATURE (1) on Roddy",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE 1942 NOV",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "AIRCRAFT MAKE AND MODEL",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "AIRCRAFT IDENTIFICATION MARK",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "POINTS OF DEPARTURE & ARRIVAL",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "MILES FLOWN",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "FLT. NO.",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NO. LDG.",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "AIRCRAFT CATEGORY",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "HS125-700 N702SE",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. (1) on Roddy",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Roddy"
+    ],
+    "organizations": [],
+    "locations": [
+      "TCB",
+      "DCA",
+      "CMH",
+      "PBE",
+      "ABQ",
+      "SMO"
+    ],
+    "dates": [
+      "1942",
+      "Nov 9",
+      "Nov 12",
+      "Nov 12",
+      "Nov 14",
+      "Nov 16",
+      "Nov 17",
+      "Nov 19",
+      "Nov 20",
+      "Nov 22",
+      "Nov 26",
+      "Nov 29",
+      "Dec 3",
+      "Dec 3",
+      "Dec 3",
+      "Dec 5",
+      "Dec 5",
+      "Dec 5",
+      "Dec 11",
+      "Dec 11"
+    ],
+    "reference_numbers": [
+      "N702SE",
+      "237",
+      "239",
+      "234",
+      "240",
+      "241",
+      "242",
+      "243",
+      "244",
+      "245",
+      "246",
+      "247",
+      "248",
+      "249",
+      "250",
+      "251",
+      "252",
+      "253",
+      "254"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log from 1942, detailing various flights with corresponding dates, aircraft information, departure and arrival points, miles flown, and flight numbers. The log includes a certification statement signed by the pilot."
+}

@@ -1,0 +1,108 @@
+{
+  "document_metadata": {
+    "page_number": "9",
+    "document_number": "DOJ-OGR-00016011",
+    "date": "1982",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Right No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... From To Private Citizen Veteran 1982 31 B-727-31H N903JC LFPB EGBB 131 JG,NICOLE JUNKERMANN 1/1 1 0  SEP 82 \" \" CGBB LFPB 132 JG,NICOLE JUNKERMANN 1/1 1 0 3 \" \" LFPB JFK 133 JG,SK,CINDY LOPEZ, JOAN LUC BRUNEL 1/1 7 5 4 \" \" JFK PDB 134 JG,1 FEMALE 2 5 8 G-1159B N909JC PBI TGB 1592 JG,ANDREA, 2 FEMALES 2 7 9 \" \" TGB BED 1593 JG,SHELLEY LEWIS V1 9 9 \" \" BED TGB 1594 JG,SHELLEY LEWIS 9 9 10 \" \" TGB TIST 1595 JG,SHELLEY LEWIS, AMILG? 3 8 15 \" \" TIST PBI 1596 JG,SK,DEANE FLEETWOOD 1/1 2 6 21 B-727-31H N903JC JFK LPAZ 136 PRESIDENT WILLIAM J. CLINTON, KEVIN O'DONNELL, CHRISS TUCKER V@ 5 2 22 \" \" LPAZ DGAA 137 DOG BRAIN, DAVID SL, JEM KENNA V1 5 7 23 \" \" DGAA DJNAA 138 ROGER NOLASCO, RODRICK,LEE GARRISON, SAMMY G 1 7 24 \" \" DNAA HRYR 139 SAME AS ABOVE LESS RON TURKLE 4 0 25 \" \" HRYR FQMA 140 SAME AS ABOVE PLUS ERA AIRCRAFT 3 3 26 \" \" FQMA FACT 141 SAME AS ABOVE 1/1 2 4 27 \" \" FACT FAJS 142 (JC)(CM)(SK)(CL) CHILD PORN DAVIES, ANDREA MEREDITH 2 1 28 \" \" FAJS FACT 143 SAME AS ABOVE LEGGATE LEGGANCE SMITH, ERA MACZENZIE 2 0 29 \" \" FACT DGAA 144 (JC)(CM)(SK)(CL) SAME AS ABOVE 3D(JC)(CM)(SK)(CL) 6 2 29 \" \" DGAA LFPB 145 SAME AS ABOVE V1 6 5 I certify that the statements made by me on this form are true. Pilot's Signature: 24.20.Rodriguez Page Total 5/6 625 Amount Forward 6533 6208 8784 1 33113 Total to Date 6538 6206 8846 6 33113",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Right No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... From To Private Citizen Veteran",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "1982 31 B-727-31H N903JC LFPB EGBB 131 JG,NICOLE JUNKERMANN 1/1 1 0  SEP 82 \" \" CGBB LFPB 132 JG,NICOLE JUNKERMANN 1/1 1 0 3 \" \" LFPB JFK 133 JG,SK,CINDY LOPEZ, JOAN LUC BRUNEL 1/1 7 5 4 \" \" JFK PDB 134 JG,1 FEMALE 2 5 8 G-1159B N909JC PBI TGB 1592 JG,ANDREA, 2 FEMALES 2 7 9 \" \" TGB BED 1593 JG,SHELLEY LEWIS V1 9 9 \" \" BED TGB 1594 JG,SHELLEY LEWIS 9 9 10 \" \" TGB TIST 1595 JG,SHELLEY LEWIS, AMILG? 3 8 15 \" \" TIST PBI 1596 JG,SK,DEANE FLEETWOOD 1/1 2 6 21 B-727-31H N903JC JFK LPAZ 136 PRESIDENT WILLIAM J. CLINTON, KEVIN O'DONNELL, CHRISS TUCKER V@ 5 2 22 \" \" LPAZ DGAA 137 DOG BRAIN, DAVID SL, JEM KENNA V1 5 7 23 \" \" DGAA DJNAA 138 ROGER NOLASCO, RODRICK,LEE GARRISON, SAMMY G 1 7 24 \" \" DNAA HRYR 139 SAME AS ABOVE LESS RON TURKLE 4 0 25 \" \" HRYR FQMA 140 SAME AS ABOVE PLUS ERA AIRCRAFT 3 3 26 \" \" FQMA FACT 141 SAME AS ABOVE 1/1 2 4 27 \" \" FACT FAJS 142 (JC)(CM)(SK)(CL) CHILD PORN DAVIES, ANDREA MEREDITH 2 1 28 \" \" FAJS FACT 143 SAME AS ABOVE LEGGATE LEGGANCE SMITH, ERA MACZENZIE 2 0 29 \" \" FACT DGAA 144 (JC)(CM)(SK)(CL) SAME AS ABOVE 3D(JC)(CM)(SK)(CL) 6 2 29 \" \" DGAA LFPB 145 SAME AS ABOVE V1 6 5",
+      "position": "main"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature: 24.20.Rodriguez",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total 5/6 625 Amount Forward 6533 6208 8784 1 33113 Total to Date 6538 6206 8846 6 33113",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "NICOLE JUNKERMANN",
+      "CINDY LOPEZ",
+      "JOAN LUC BRUNEL",
+      "ANDREA",
+      "SHELLEY LEWIS",
+      "DEANE FLEETWOOD",
+      "WILLIAM J. CLINTON",
+      "KEVIN O'DONNELL",
+      "CHRISS TUCKER",
+      "DOG BRAIN",
+      "DAVID SL",
+      "JEM KENNA",
+      "ROGER NOLASCO",
+      "RODRICK",
+      "LEE GARRISON",
+      "SAMMY G",
+      "RON TURKLE",
+      "ANDREA MEREDITH",
+      "LEGGATE LEGGANCE SMITH",
+      "Rodriguez"
+    ],
+    "organizations": [],
+    "locations": [
+      "LFPB",
+      "EGBB",
+      "CGBB",
+      "JFK",
+      "PDB",
+      "PBI",
+      "TGB",
+      "BED",
+      "TIST",
+      "LPAZ",
+      "DGAA",
+      "DJNAA",
+      "DNAA",
+      "HRYR",
+      "FQMA",
+      "FACT",
+      "FAJS"
+    ],
+    "dates": [
+      "1982",
+      "SEP 82",
+      "24.20"
+    ],
+    "reference_numbers": [
+      "N903JC",
+      "G-1159B",
+      "N909JC",
+      "131",
+      "132",
+      "133",
+      "134",
+      "1592",
+      "1593",
+      "1594",
+      "1595",
+      "1596",
+      "136",
+      "137",
+      "138",
+      "139",
+      "140",
+      "141",
+      "142",
+      "143",
+      "144",
+      "145",
+      "DOJ-OGR-00016011"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log from 1982. It contains handwritten entries detailing flights, including dates, aircraft information, departure and arrival points, miles flown, and remarks. The log includes notable passengers such as President William J. Clinton. The document is signed by the pilot, Rodriguez, and includes a certification that the statements made are true. The page is numbered 9 and has a document number DOJ-OGR-00016011."
+}

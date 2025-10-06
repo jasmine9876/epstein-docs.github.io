@@ -1,0 +1,37 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "photograph",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "GOVERNMENT EXHIBIT 232 5220 Cr. 330 (AJN) DOJ-OGR-00015573",
+  "text_blocks": [
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 232 5220 Cr. 330 (AJN)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015573",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ",
+      "OGR"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00015573",
+      "5220 Cr. 330 (AJN)"
+    ]
+  },
+  "additional_notes": "The image is a photograph of an interior room with a doorway leading to another room. The text is found in the bottom-right corner of the image, within a yellow box labeled 'GOVERNMENT EXHIBIT 232'."
+}

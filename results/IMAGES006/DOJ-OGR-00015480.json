@@ -1,0 +1,81 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00015480",
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "IMPORTANT MESSAGE FOR TF DATE 02/08/03 TIME 2h 30 A.M. P.M. M DOJ REDACTION OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE 689 FDF SIGNED 1184 IMPORTANT MESSAGE FOR JE DATE DOJ REDACTION TIME 10 00 A.M. P.M. M OF PHONE 212 249 AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE 3 0 498 RETURN MY = YOUR CALL SIGNED 1184 IMPORTANT MESSAGE FOR TF DATE 02/08/03 TIME 2:30 AM P.M. M OF Tony PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 1184 IMPORTANT MESSAGE FOR JE DATE DOJ REDACTION TIME 12:52 A.M. P.M. M OF PHONE 646 237 AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE PLEASE RETURN Call when you return A Clarence - DOJ REDACTION SIGNED GOVERNMENT EXHIBIT 2-L-R S2 20 Cr. 330 (AJN) 1184 DOJ-OGR-00015480",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "TF",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "02/08/03",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "FOR DATE TIME A.M. P.M. M OF PHONE AREA CODE NUMBER EXTENSION",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "689 FDF",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "RETURN MY = YOUR CALL",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Tony",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "PLEASE RETURN Call when you return A Clarence -",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 2-L-R S2 20 Cr. 330 (AJN)",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "TF",
+      "JE",
+      "Tony",
+      "Clarence"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "02/08/03",
+      "DOJ REDACTION"
+    ],
+    "reference_numbers": [
+      "689",
+      "3 0 498",
+      "212 249",
+      "646 237",
+      "DOJ-OGR-00015480",
+      "S2 20 Cr. 330 (AJN)"
+    ]
+  },
+  "additional_notes": "The document contains four 'Important Message' forms with various handwritten notes and redactions. The forms are stamped with a 'GOVERNMENT EXHIBIT' label."
+}

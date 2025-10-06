@@ -1,0 +1,85 @@
+{
+  "document_metadata": {
+    "page_number": "31",
+    "document_number": "DOJ-OGR-00015760",
+    "date": "2/14/2005",
+    "document_type": "Shopping List",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "SHOPPING LIST\nThe following items should be in stock at all times\n** Regardless of quantity used, all open packets must be replaced after each visit **\nBeverages\nFiji water (large and small)\nMaxwell House coffee\nStarbucks ground Colombian coffee\nDiet Coke\nCoke\nSprite\nDiet Sprite\nPepsi\nDiet Pepsi\nTonic Water\nClub Soda\nPerrier Water\nVitamin Water\nCranberry juice\nEnglish breakfast tea (packets and tea leaves)\nEarl Grey tea (packets and tea leaves)\nMint tea\nChamomile tea\nWhite wine - Chablis Premier Cru (6 bottles)\nRed wine - Broully (6 bottles)\nVeuve-Clicquot champagne (4 bottles)\nAbsolut Vodka\nTanqueray Gin\nWhiskey\nHeineken Beer (6 pack)\nCorona Beer (6 pack)\nSpices and condiments\nHellmann's mayonnaise\nDijon mustard\n6 Low sodium chicken stock\nColivita extra virgin olive oil\nSea salt\nSugar (White, Brown)\nSweet & Low\nEqual\nCanned goods\nPomi tomatoes chopped and strained\nTomato paste\n2/14/2005\n31\nDOJ-OGR-00015760",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "SHOPPING LIST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "The following items should be in stock at all times",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "** Regardless of quantity used, all open packets must be replaced after each visit **",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Beverages\nFiji water (large and small)\nMaxwell House coffee\nStarbucks ground Colombian coffee\nDiet Coke\nCoke\nSprite\nDiet Sprite\nPepsi\nDiet Pepsi\nTonic Water\nClub Soda\nPerrier Water\nVitamin Water\nCranberry juice\nEnglish breakfast tea (packets and tea leaves)\nEarl Grey tea (packets and tea leaves)\nMint tea\nChamomile tea\nWhite wine - Chablis Premier Cru (6 bottles)\nRed wine - Broully (6 bottles)\nVeuve-Clicquot champagne (4 bottles)\nAbsolut Vodka\nTanqueray Gin\nWhiskey\nHeineken Beer (6 pack)\nCorona Beer (6 pack)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Spices and condiments\nHellmann's mayonnaise\nDijon mustard\n6 Low sodium chicken stock\nColivita extra virgin olive oil\nSea salt\nSugar (White, Brown)\nSweet & Low\nEqual",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Canned goods\nPomi tomatoes chopped and strained\nTomato paste",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "2/14/2005",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "31",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015760",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Starbucks",
+      "Hellmann's",
+      "Veuve-Clicquot",
+      "Absolut",
+      "Tanqueray",
+      "Heineken",
+      "Corona",
+      "Colivita",
+      "Pomi"
+    ],
+    "locations": [
+      "Fiji",
+      "Maxwell House",
+      "Chablis",
+      "Broully"
+    ],
+    "dates": [
+      "2/14/2005"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00015760"
+    ]
+  },
+  "additional_notes": "The document appears to be a shopping list for beverages, spices and condiments, and canned goods. It is dated 2/14/2005 and has a document number DOJ-OGR-00015760."
+}

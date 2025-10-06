@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": "110",
+    "document_number": "DOJ-OGR-00015907",
+    "date": "2004",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... AIRPLANE GLIDER HELICOPTER 10-1 2004 11 G-1159B N909JE TEB MOW 1718 1/1 19 12 \" MOW PBI 1719 2 7 13 B-727-311 N908JE PBI JFK 272 2 5 15 \" JFK TIST 273 1/1 3 5 20 \" TIST PBI 274 1/1 2 5 21 G-1159B N909JE PBI TEB 1719 2 6 23 \" TEB SAF 1720 1/1 4 4 25 \" SAF LAS 1721 1 6 2 \" LAS SAF 1722 1 3 4 \" SAF ASE 1723 9 4 \" ASE PBI 1724 1/0 3 8 11 \" PBI TEB 1725 2 7 15 \" TEB PBI 1726 1 2 6 19 B-727-311 N908JE PBI TIST 275 2 6 22 \" TIST PBI 276 2 6 25 \" PBI JFK 277 1/1 2 4 29 \" JFK LFPB 278 6 6 30 \" LFPB LFPA 279 1/1 1 7 3 \" LFPA LPAZ 280 1/1 3 6 I certify that the statements made by me on this form are true. Pilot's Signature David Redeker Amount Forward 6766 94798 331250 Total to Date 6771 95323 331250",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... AIRPLANE GLIDER HELICOPTER",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "10-1 2004 11 G-1159B N909JE TEB MOW 1718 1/1 19 ... 3 \" LFPA LPAZ 280 1/1 3 6",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "David Redeker",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Amount Forward Total to Date",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Redeker"
+    ],
+    "organizations": [],
+    "locations": [
+      "TEB",
+      "MOW",
+      "PBI",
+      "JFK",
+      "TIST",
+      "SAF",
+      "LAS",
+      "ASE",
+      "LFPB",
+      "LFPA",
+      "LPAZ"
+    ],
+    "dates": [
+      "10-1 2004"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00015907",
+      "N909JE",
+      "N908JE"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The log includes details such as date, aircraft make and model, identification mark, points of departure and arrival, miles flown, flight number, remarks, and number of landings. The pilot has signed the document certifying the accuracy of the information."
+}

@@ -1,0 +1,80 @@
+{
+  "document_metadata": {
+    "page_number": "89",
+    "document_number": "DOJ-OGR-00015886",
+    "date": null,
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Nov Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... 4 C-421B N909GM ZORRO SBF ZORRO 1 5 4 \"\" \"\" \"\" \"\" 1 5 4 \"\" \"\" \"\" \"\" 1 5 30 DEC B-727-31 N909JC HPN PBI 33 2 5 4 \"\" \"\" ISP PBI 34 2 5 4 \"\" \"\" PBI TEST 35 2 7 9 \"\" \"\" TEST HPN 36 2 2 13 \"\" \"\" HPN CMH 37 4 0 15 \"\" \"\" CMH PBI 38 1 5 16 \"\" \"\" PBI TEST 39 2 1 17 \"\" \"\" TEST TLPL 40 2 6 26 \"\" \"\" TLPL PBI 41 1 1 26 \"\" \"\" PBI TEST 42 3 6 30 2007 JAN \"\" \"\" TEST EWR 43 2 4 16 \"\" \"\" EWR PBI 44 4 1 13 G-11598 N909JC PBI MPV 1557 1 5 13 \"\" \"\" MPV PBI 1558 1 7 14 B-727-31 N909JC PBI LGA 46 2 2 I certify that the statements made by me on this form are true. Pilot's Signature David Reddge Page Total 157 408 Amount Forward 6443 6153 8450 1 33 112 4 Total to Date 6507 6162 8490 9 33 112 6",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Nov Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "4 C-421B N909GM ZORRO SBF ZORRO 1 5 4 \"\" \"\" \"\" \"\" 1 5 4 \"\" \"\" \"\" \"\" 1 5 30 DEC B-727-31 N909JC HPN PBI 33 2 5 4 \"\" \"\" ISP PBI 34 2 5 4 \"\" \"\" PBI TEST 35 2 7 9 \"\" \"\" TEST HPN 36 2 2 13 \"\" \"\" HPN CMH 37 4 0 15 \"\" \"\" CMH PBI 38 1 5 16 \"\" \"\" PBI TEST 39 2 1 17 \"\" \"\" TEST TLPL 40 2 6 26 \"\" \"\" TLPL PBI 41 1 1 26 \"\" \"\" PBI TEST 42 3 6 30 2007 JAN \"\" \"\" TEST EWR 43 2 4 16 \"\" \"\" EWR PBI 44 4 1 13 G-11598 N909JC PBI MPV 1557 1 5 13 \"\" \"\" MPV PBI 1558 1 7 14 B-727-31 N909JC PBI LGA 46 2 2",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David Reddge",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total 157 408 Amount Forward 6443 6153 8450 1 33 112 4 Total to Date 6507 6162 8490 9 33 112 6",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Reddge"
+    ],
+    "organizations": [],
+    "locations": [
+      "ZORRO",
+      "SBF",
+      "HPN",
+      "PBI",
+      "ISP",
+      "TEST",
+      "CMH",
+      "TLPL",
+      "EWR",
+      "MPV",
+      "LGA"
+    ],
+    "dates": [
+      "4",
+      "30 DEC",
+      "4",
+      "4",
+      "9",
+      "13",
+      "15",
+      "16",
+      "17",
+      "26",
+      "26",
+      "30 2007 JAN",
+      "16",
+      "13",
+      "13",
+      "14"
+    ],
+    "reference_numbers": [
+      "N909GM",
+      "N909JC",
+      "G-11598",
+      "DOJ-OGR-00015886",
+      "1557",
+      "1558",
+      "46"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The image is of good quality, but some information is obscured by a black rectangle."
+}

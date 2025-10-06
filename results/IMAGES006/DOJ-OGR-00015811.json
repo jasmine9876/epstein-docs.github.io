@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "14",
+    "document_number": "DOJ-OGR-00015811",
+    "date": "19 SEP",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE AIRCRAFT MAKE AND MODEL AIRCRAFT IDENTIFICATION MARK POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FLOWN FLT. NO. REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS NO. LDG. AIRCRAFT CATEGORY AIRPLANE COMPLEX TURBI 19 SEP 5 C-172 FRH FRH 6 C-172 FRH FRH 9 115125-76C (a) CLOW a) HOUR (b) AVAIL a) 2nd ILC ILC 10 \" \" \" ILC ILC 11 \" \" \" ILC ILC 13 \" 119085C SQT TCB CATH POS 55 217 4 \" \" PBI TCB 4.0 218 7 \" \" TCB CMH 13.2 219 13 \" \" BOS TCB 14.2 229 23 \" \" TCB PSI 1.7 228 26 \" \" PBI TCB 60 229 28 \" \" TCB DCA 120 230 28 \" \" DCA TCB 231 28 \" \" TCB CMH 232 31 \" \" CMH TCB 40 233 1 \" \" TCB CMH 70 234 8 \" \" CMH TCB 70 235 8 \" \" JFK PBI 236 PAGE TOTAL 26.8 25 4 25 AMT. FORWARD 5.339 5692 4054 2051 TOTAL TO DATE 55.12 5717.2 4085.7 2077 I certify that the statements made by me on this form are true. PILOT'S SIGNATURE David Roddy",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE AIRCRAFT MAKE AND MODEL AIRCRAFT IDENTIFICATION MARK POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FLOWN FLT. NO. REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS NO. LDG. AIRCRAFT CATEGORY AIRPLANE COMPLEX TURBI",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "19 SEP 5 C-172 FRH FRH 6 C-172 FRH FRH 9 115125-76C (a) CLOW a) HOUR (b) AVAIL a) 2nd ILC ILC 10 \" \" \" ILC ILC 11 \" \" \" ILC ILC 13 \" 119085C SQT TCB CATH POS 55 217 4 \" \" PBI TCB 4.0 218 7 \" \" TCB CMH 13.2 219 13 \" \" BOS TCB 14.2 229 23 \" \" TCB PSI 1.7 228 26 \" \" PBI TCB 60 229 28 \" \" TCB DCA 120 230 28 \" \" DCA TCB 231 28 \" \" TCB CMH 232 31 \" \" CMH TCB 40 233 1 \" \" TCB CMH 70 234 8 \" \" CMH TCB 70 235 8 \" \" JFK PBI 236",
+      "position": "main"
+    },
+    {
+      "type": "printed",
+      "content": "I certify that the statements made by me on this form are true.",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "PILOT'S SIGNATURE David Roddy",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE TOTAL 26.8 25 4 25 AMT. FORWARD 5.339 5692 4054 2051 TOTAL TO DATE 55.12 5717.2 4085.7 2077",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Roddy"
+    ],
+    "organizations": [],
+    "locations": [
+      "FRH",
+      "ILC",
+      "SQT",
+      "TCB",
+      "PBI",
+      "CMH",
+      "BOS",
+      "PSI",
+      "DCA",
+      "JFK"
+    ],
+    "dates": [
+      "19 SEP"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00015811",
+      "115125-76C",
+      "119085C"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The log includes details such as date, aircraft make and model, points of departure and arrival, miles flown, and flight numbers. The document is signed by the pilot, David Roddy."
+}

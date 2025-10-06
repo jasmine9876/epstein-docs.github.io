@@ -1,0 +1,82 @@
+{
+  "document_metadata": {
+    "page_number": "55",
+    "document_number": "DOJ-OGR-00015852",
+    "date": null,
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... 1998 G1159B N908JC PBI PBI 1098 1/1 1 6 C421 N908GM PBI X21 9 17 C421 \" X21 TIX 1 17 \" TIX CRG 6 18 \" CRG LAL 8 18 \" LAL PBI 1 1 19 G1159B N908JC PBI CMH 1099 2 0 20 \" \" CMH LUK 1100 3 20 \" \" LUK TCB 1101 1 1 24 \" \" TCB PBI 1102 2 2 25 C172 N75RR LNA-PBI-LNA 4/4 1 0 25 \" \" LNA LNA 6/6 0 26 \" \" LNA-PBI-LNA 5/5 9 26 G1159B N908JC PBI TCB 1103 1 2 3 \" \" TCB PBI 1104 2 5 May 4 C172 N75RR LNA-PBI-LNA check wheel 1 5 3 G1159B N908JC PBI TCB 1105 2 3 5 \" \" TCB BCD 1106 6 5 \" \" BCD TCB 1107 7 I certify that the statements made by me on this form are true. Pilot's Signature David Rodgers Page Total 40 2 22 8 Amount Forward 6024 7184 1 Total to Date 5806 7206 9",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "1998 G1159B N908JC PBI PBI 1098 1/1 1 6 C421 N908GM PBI X21 9 17 C421 \" X21 TIX 1 17 \" TIX CRG 6 18 \" CRG LAL 8 18 \" LAL PBI 1 1 19 G1159B N908JC PBI CMH 1099 2 0 20 \" \" CMH LUK 1100 3 20 \" \" LUK TCB 1101 1 1 24 \" \" TCB PBI 1102 2 2 25 C172 N75RR LNA-PBI-LNA 4/4 1 0 25 \" \" LNA LNA 6/6 0 26 \" \" LNA-PBI-LNA 5/5 9 26 G1159B N908JC PBI TCB 1103 1 2 3 \" \" TCB PBI 1104 2 5 May 4 C172 N75RR LNA-PBI-LNA check wheel 1 5 3 G1159B N908JC PBI TCB 1105 2 3 5 \" \" TCB BCD 1106 6 5 \" \" BCD TCB 1107 7",
+      "position": "main"
+    },
+    {
+      "type": "printed",
+      "content": "I certify that the statements made by me on this form are true.",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "David Rodgers",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "40 2 22 8 6024 7184 1 5806 7206 9",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rodgers"
+    ],
+    "organizations": [],
+    "locations": [
+      "PBI",
+      "X21",
+      "TIX",
+      "CRG",
+      "LAL",
+      "CMH",
+      "LUK",
+      "TCB",
+      "LNA",
+      "BCD"
+    ],
+    "dates": [
+      "1998",
+      "May"
+    ],
+    "reference_numbers": [
+      "N908JC",
+      "N908GM",
+      "N75RR",
+      "1098",
+      "1099",
+      "1100",
+      "1101",
+      "1102",
+      "1103",
+      "1104",
+      "1105",
+      "1106",
+      "1107",
+      "DOJ-OGR-00015852"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The log includes details such as date, aircraft make and model, identification mark, points of departure and arrival, miles flown, flight number, remarks, number of landings, and aircraft category. The document is signed by the pilot, David Rodgers."
+}

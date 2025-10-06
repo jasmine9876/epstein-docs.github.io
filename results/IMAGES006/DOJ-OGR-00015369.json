@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "7-152-41155",
+    "date": "Nov 21, 2002",
+    "document_type": "Invoice",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Invoice Number: 7-152-41155 Invoice Date: Nov 21, 2002 Account Number: 1144-2081-6 Page: 2 of 5 Please indicate change in address for the account # listed below: Physical Address Billing Address Mailing Address Account Number: 1144-2081-6 Name: Apt./Suite#: Address: City: State: Zip: Phone: ( ) Fax: ( ) Authorizing Signature: CONFIDENTIAL SDNY_GM_00342904 60 DOJ-OGR-00015369",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Number: 7-152-41155 Invoice Date: Nov 21, 2002 Account Number: 1144-2081-6 Page: 2 of 5",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Please indicate change in address for the account # listed below: Physical Address Billing Address Mailing Address",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Account Number: 1144-2081-6 Name: Apt./Suite#: Address: City: State: Zip: Phone: ( ) Fax: ( ) Authorizing Signature:",
+      "position": "middle"
+    },
+    {
+      "type": "other",
+      "content": "CONFIDENTIAL",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "SDNY_GM_00342904 60 DOJ-OGR-00015369",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "FedEx"
+    ],
+    "locations": [],
+    "dates": [
+      "Nov 21, 2002"
+    ],
+    "reference_numbers": [
+      "7-152-41155",
+      "1144-2081-6",
+      "SDNY_GM_00342904",
+      "DOJ-OGR-00015369"
+    ]
+  },
+  "additional_notes": "The document is a FedEx invoice with a 'CONFIDENTIAL' watermark. It appears to be a standard invoice template with fields for account information and address changes."
+}

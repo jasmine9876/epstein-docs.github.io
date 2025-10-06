@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": "180",
+    "document_number": "745",
+    "date": "08/10/22",
+    "document_type": "court transcript",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 745 Filed 08/10/22 Page 180 of 264 591 LC1VMAX5 Jane - cross 1 Q. You played a prostitute? 2 A. Not my favorite storyline. 3 Q. You ran a restaurant? 4 A. Yes. 5 Q. You took down a Mexican drug cartel? 6 A. Yes. 7 Q. Essentially, there's no melodramatic role that you haven't played? 8 9 A. If you want to call it melodramatic. I just say dramatic, but yeah. 10 11 Q. It involves a significant amount of drama; correct? 12 A. Yes. 13 Q. You're able to cry on command? 14 A. No, not always. It's not really how it works. 15 Q. You express pain through your characters? 16 A. Yeah, of course. 17 Q. Vulnerability? 18 A. Yes. 19 Q. The job you've trained for for a long time, right? 20 A. Yes. 21 Q. You've been hired to work on other TV shows and series, right? 22 23 A. Yes. 24 Q. A feature-length movie? 25 A. Yes. SOUTHERN DISTRICT REPORTERS, P.C. (212) 805-0300 DOJ-OGR-00012200",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 745 Filed 08/10/22 Page 180 of 264 591",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "LC1VMAX5 Jane - cross",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Q. You played a prostitute?\nA. Not my favorite storyline.\nQ. You ran a restaurant?\nA. Yes.\nQ. You took down a Mexican drug cartel?\nA. Yes.\nQ. Essentially, there's no melodramatic role that you haven't played?\nA. If you want to call it melodramatic. I just say dramatic, but yeah.\nQ. It involves a significant amount of drama; correct?\nA. Yes.\nQ. You're able to cry on command?\nA. No, not always. It's not really how it works.\nQ. You express pain through your characters?\nA. Yeah, of course.\nQ. Vulnerability?\nA. Yes.\nQ. The job you've trained for for a long time, right?\nA. Yes.\nQ. You've been hired to work on other TV shows and series, right?\nA. Yes.\nQ. A feature-length movie?\nA. Yes.",
+      "position": "main"
+    },
+    {
+      "type": "printed",
+      "content": "SOUTHERN DISTRICT REPORTERS, P.C. (212) 805-0300",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00012200",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jane"
+    ],
+    "organizations": [
+      "SOUTHERN DISTRICT REPORTERS, P.C.",
+      "Mexican drug cartel"
+    ],
+    "locations": [],
+    "dates": [
+      "08/10/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "745",
+      "DOJ-OGR-00012200"
+    ]
+  },
+  "additional_notes": "The document appears to be a court transcript with a clear Q&A format. The content discusses the acting career of the individual being questioned, touching on various roles they've played. The footer contains information about the reporting agency and a reference number."
+}

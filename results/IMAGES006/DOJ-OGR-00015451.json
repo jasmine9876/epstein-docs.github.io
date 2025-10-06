@@ -1,0 +1,77 @@
+{
+  "document_metadata": {
+    "page_number": "9 of 9",
+    "document_number": "4-495-45970",
+    "date": "Dec 16, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\nPicked up: Dec 11, 2002 Payor: Recipient Reference: SHIPMENT\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nUndeliverable Package.\nTracking D 803946332479\nService Type FedEx Intl Priority\nPackage Type Customer Packaging\nZone I\nOrig/Dest FPI/STT\nPackages 4\nWeight 170.0 lbs, 77 3 kgs\nDelivered Dec 11, 20022028\nSigned by RETURN AB80394633247\nFedEx Use _/US010/14\nSender ANNE MULLDROW MCLAUGHLIN GORMLEY KING CO\nRecipient MILES ALEXANDER FINANCIAL TRUST CO 6100 RD HOOK QTRS B3 ST THOMAS VI 00802 VI\nTransportation Charge 795.60\nFuel Surcharge 30.87\nDiscount -23.80\nInaccessible Dangerous Goods 45.00\nTotal Transportation Charges USD $ 847.67\nShipment Detail Subtotal ...............................................USD $ 899.75\nCONFIDENTIAL",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Picked up: Dec 11, 2002 Payor: Recipient Reference: SHIPMENT",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Fuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nUndeliverable Package.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Tracking D 803946332479\nService Type FedEx Intl Priority\nPackage Type Customer Packaging\nZone I\nOrig/Dest FPI/STT\nPackages 4\nWeight 170.0 lbs, 77 3 kgs\nDelivered Dec 11, 20022028\nSigned by RETURN AB80394633247\nFedEx Use _/US010/14",
+      "position": "left"
+    },
+    {
+      "type": "printed",
+      "content": "Sender ANNE MULLDROW MCLAUGHLIN GORMLEY KING CO\nRecipient MILES ALEXANDER FINANCIAL TRUST CO 6100 RD HOOK QTRS B3 ST THOMAS VI 00802 VI",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Transportation Charge 795.60\nFuel Surcharge 30.87\nDiscount -23.80\nInaccessible Dangerous Goods 45.00\nTotal Transportation Charges USD $ 847.67\nShipment Detail Subtotal ...............................................USD $ 899.75",
+      "position": "right"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "ANNE MULLDROW",
+      "MILES ALEXANDER"
+    ],
+    "organizations": [
+      "FedEx",
+      "MCLAUGHLIN GORMLEY KING CO",
+      "FINANCIAL TRUST CO"
+    ],
+    "locations": [
+      "FPI",
+      "STT",
+      "ST THOMAS VI",
+      "6100 RD HOOK QTRS B3"
+    ],
+    "dates": [
+      "Dec 11, 2002",
+      "Dec 16, 2002"
+    ],
+    "reference_numbers": [
+      "4-495-45970",
+      "803946332479",
+      "1144-2081-6",
+      "SDNY_GM_00340803",
+      "DOJ-OGR-00015451"
+    ]
+  },
+  "additional_notes": "The document is a FedEx shipment detail report with a 'CONFIDENTIAL' watermark at the bottom."
+}

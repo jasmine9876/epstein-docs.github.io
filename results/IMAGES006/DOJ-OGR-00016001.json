@@ -1,0 +1,79 @@
+{
+  "document_metadata": {
+    "page_number": "86",
+    "document_number": null,
+    "date": "2004",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... 19 Aug 24 B-727-31 N908JC PBE HPN 7 JG,GM,ET,NO FLOWER POTRATUL 1/1 2 5 24 HPN PBI 8 JG,GM,BANDARORKKUYLU 1/1 2 4 27 PBE HPN 9 JG,GM,BK 1/1 2 6 29 HPN TISS 10 JG,GM,ET,AP,BK 1/1 3 7 30 G-1159A N908JC PBI PBI 3 ILS (GROOVES) now VISIBLE LALLY 3/3 6 SEP 3 B-727-31 N908JC TISS HPN 11 JG,GM,ET,GK SARAH KELLEN, 1/1 3 7 6 HPN PBE 12 JG,GM,ET,GK,1 FEMALE 2 4 9 PBE HPN 13 JG,GM,ET,BK 1/1 2 7 15 HPN PBI 14 JG,GM,ET,KARGN CASEY, LJSP 1/1 2 6 17N C-172 N144LV LNP LNP ALL PGI-REGLA - TAKE, TAXI,GEE, TRANS CLODS, DESCENTS 4/4 2 9 19 B-727-31 N908JC PBE HPN 15 JG,GM,ET 1/1 2 7 21 HPN CYQX 16 JG,GM,ET 2 2 22 CYQX LFPB 17 JG,ES,ENTUTLC 4 9 25 LFPB CYQX 18 JG,ES,ENTUTLC 5 5 26 CYQX HPN 19 JG,ES,PARA EPSCSTN 2 7 28 HPN PBI 20 JG,ES 2 7 29 PBI AYBQ 21 JG,GM,SARAH KELLEN 1/1 4 0 4 AYBQ HPN 22 JG,GM,SK,2 FEMBLS 1/1 3 7 8 HPN JAX 23 NO PASSENGERS 2 2 I certify that the statements made by me on this form are true. Pilot's Signature David Rodger Page Total 17 14 55 0 Amount Forward 6490 8327 6 33112 Total to Date 6133 8382 6 33112 DOJ-OGR-00016001",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "19 Aug 24 B-727-31 N908JC PBE HPN 7 JG,GM,ET,NO FLOWER POTRATUL 1/1 2 5 ...",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David Rodger",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00016001",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rodger",
+      "SARAH KELLEN",
+      "KARGN CASEY"
+    ],
+    "organizations": [],
+    "locations": [
+      "PBE",
+      "HPN",
+      "PBI",
+      "TISS",
+      "LNP",
+      "CYQX",
+      "LFPB",
+      "AYBQ",
+      "JAX"
+    ],
+    "dates": [
+      "19 Aug 2004",
+      "24 Aug 2004",
+      "27 Aug 2004",
+      "29 Aug 2004",
+      "30 Aug 2004",
+      "3 Sep 2004",
+      "6 Sep 2004",
+      "9 Sep 2004",
+      "15 Sep 2004",
+      "17 Sep 2004",
+      "19 Sep 2004",
+      "21 Sep 2004",
+      "22 Sep 2004",
+      "25 Sep 2004",
+      "26 Sep 2004",
+      "28 Sep 2004",
+      "29 Sep 2004",
+      "4 Sep 2004",
+      "8 Sep 2004"
+    ],
+    "reference_numbers": [
+      "N908JC",
+      "N144LV",
+      "DOJ-OGR-00016001"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The log includes details such as flight dates, aircraft make and model, identification marks, departure and arrival points, miles flown, flight numbers, remarks, and the number of landings. The document is signed by the pilot, David Rodger."
+}

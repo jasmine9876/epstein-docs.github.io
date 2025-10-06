@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "13",
+    "document_number": "804",
+    "date": "08/06/25",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 804 Filed 08/06/25 Page 13 of 27 Tab 3 DOJ-OGR-00015108",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 804 Filed 08/06/25 Page 13 of 27",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Tab 3",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015108",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "08/06/25"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "804",
+      "DOJ-OGR-00015108"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear header and footer. The content is mostly blank with a tab label 'Tab 3' in the middle of the page."
+}

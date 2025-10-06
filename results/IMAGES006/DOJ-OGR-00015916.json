@@ -1,0 +1,103 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "GOVERNMENT EXHIBIT 662-RR",
+    "date": "1991 Apr",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "GOVERNMENT EXHIBIT 662-RR S2 20 Cr. 330 (AJN) DATE AIRCRAFT MAKE AND MODEL AIRCRAFT IDENTIFICATION MARK POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FCOWN FLT. NO. REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS NO. LDG. NIGHT APP. COMPLEX TURE 1991 Apr 25 HS125-400F N1251G PSP - CLG - PSP 135 7.5 NCLT MR MARTIN 4 1/2 4 2 4 2 L 30 \" \" \" CMH PSP 135 7.0 NCL COLEMAN 4 1/2 5 1 5 1 S 1 MAY \" \" \" PSP -MDW -BKL-CMH 135 7.0 NCL COLEMAN 4 1/2 4 5\" 4 5 L 2 \" \" \" CMH -PSS -CCR-CMH 135 7.0 PAUL LEVY 4 3/4 5 1 5 1 S 6 \" \" \" CMH CPS 16.0 TO MEMPHIS, OVER THE FUEL FARM, BEAR XNVS, FOLLOW BOND, SOME HASTE... 4 1 13 13 1 21 \" \" \" CPS CMH 8.0  N1 1 10 10 1 30 \" \" \" CMH -ROV -CMH 135 9.5  N1 1 2 0 2 0 2 JUL 17 \" \" \" CMH-BKL- CMH 8.0  1/2  2 1/2  09  09 22 \" \" \" CMH -M33 -CMH 7.5 HERDS - SHOW PLANE TO ROGER MCINTIRE 2 1/2 1 7 1 7 1 25 \" \" \" CMH -LGF- CMH 4.0 RAN TO INTERVIEW FOR PREPOSITIONS 2 1/2 2 1 4 1 4 22 HS125-100 N404CH ATW ATW   2 1 2 1 23 \" \" \" ATW ATW   1 1 8 0 9 24 \" \" \" ATW ISP   1 1 8 1 8 25 \" \" \" ISP -ISP -ILG   TO THE COCKPIT. RETURN TO ISP FOR FUEL. PROBLEM WITH FUEL OUT TO THE DUCT EFFUSER 2 1/4 1 6 1 6 1 26 \" \" \" ILG TEB 15.0 1 FUELLED TO THE AIRCRAFT IN PLANE 1 1 5  5  26 \" \" \" TEB TEB   2 2 5 2 5 2 28 \" \" \" TEB TEB 20.3 3 ROLLOUT 2 1/4 2 4 2 4 2 29 \" \" \" TEB CQT 1 1/2 1 3 1 3 1 I certify that the statements made by me on this form are true. PILOT'S SIGNATURE Samuel Derafas PAGE TOTAL 53380 37090 1700 AMT. FORWARD 3574 37495 741 TOTAL TO DATE  1 DOJ-OGR-00015916",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "GOVERNMENT EXHIBIT 662-RR S2 20 Cr. 330 (AJN)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DATE AIRCRAFT MAKE AND MODEL AIRCRAFT IDENTIFICATION MARK POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FCOWN FLT. NO. REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS NO. LDG. NIGHT APP. COMPLEX TURE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "1991 Apr 25 HS125-400F N1251G PSP - CLG - PSP 135 7.5 NCLT MR MARTIN 4 1/2 4 2 4 2 L",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. PILOT'S SIGNATURE Samuel Derafas",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE TOTAL AMT. FORWARD TOTAL TO DATE",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "53380 37090 1700 3574 37495 741",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015916",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "MR MARTIN",
+      "NCL COLEMAN",
+      "PAUL LEVY",
+      "ROGER MCINTIRE",
+      "Samuel Derafas"
+    ],
+    "organizations": [],
+    "locations": [
+      "PSP",
+      "CLG",
+      "CMH",
+      "MDW",
+      "BKL",
+      "PSS",
+      "CCR",
+      "CPS",
+      "ROV",
+      "LGF",
+      "M33",
+      "ATW",
+      "ISP",
+      "ILG",
+      "TEB",
+      "CQT"
+    ],
+    "dates": [
+      "1991 Apr 25",
+      "1991 Apr 30",
+      "1991 May 1",
+      "1991 May 2",
+      "1991 May 6",
+      "1991 May 21",
+      "1991 May 30",
+      "1991 Jul 17",
+      "1991 Jul 22",
+      "1991 Jul 25",
+      "1991 Jul 22",
+      "1991 Jul 23",
+      "1991 Jul 24",
+      "1991 Jul 25",
+      "1991 Jul 26",
+      "1991 Jul 28",
+      "1991 Jul 29"
+    ],
+    "reference_numbers": [
+      "GOVERNMENT EXHIBIT 662-RR",
+      "S2 20 Cr. 330 (AJN)",
+      "N1251G",
+      "N404CH",
+      "DOJ-OGR-00015916"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log from 1991, detailing various flights with handwritten remarks and endorsements. The log includes information on aircraft make and model, identification mark, departure and arrival points, flight numbers, and other relevant details. The document has a stamp indicating it is a government exhibit."
+}

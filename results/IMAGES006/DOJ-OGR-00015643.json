@@ -1,0 +1,42 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "321",
+    "date": null,
+    "document_type": "Government Exhibit",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "GOVERNMENT EXHIBIT 321 S2 20 Cr. 330 (AJN) DOJ-OGR-00015643",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "GOVERNMENT EXHIBIT 321",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "S2 20 Cr. 330 (AJN)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015643",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Department of Justice"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "321",
+      "S2 20 Cr. 330 (AJN)",
+      "DOJ-OGR-00015643"
+    ]
+  },
+  "additional_notes": "The image is a photograph of a man and woman in a formal setting. The text is printed on a yellow label in the bottom-right corner of the image."
+}

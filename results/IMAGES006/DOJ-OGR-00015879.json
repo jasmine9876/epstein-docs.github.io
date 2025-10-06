@@ -1,0 +1,85 @@
+{
+  "document_metadata": {
+    "page_number": "82",
+    "document_number": "DOJ-OGR-00015879",
+    "date": null,
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... Apr 4 G-1159B N909JG TEB TGB 1478 1487 9 5 Apr 5 \" \" \" TEB PBI 1487 2 3 6 C-421B N909GM PBE FLL 1/1 7 6 \" \" \" FLL PBI 1/1 6 9 G-1159B N909JG PBE ACY 1488 2 4 9 \" \" \" ACY TEB 1489 7 11 \" \" \" TEB TST 1490 3 5 16 \" \" \" TST PBE 1491 2 7 17 \" \" \" PBE TEB 1492 2 5 20 \" \" \" TEB PBI 1493 2 3 23 \" \" \" PBE ORL 1494 8 23 \" \" \" ORL TEB 1495 2 2 27 \" \" \" TEB SAF 1496 3 9 29 \" \" \" SAF VNY 1497 1 7 May 2 \" \" \" VNY SAN 1498 7 2 \" \" \" SAN LIT 1499 3 0 3 \" \" \" LIT ADS 1500 9 3 \" \" \" ADS SAT 1501 9 5 \" \" \" SAT PBE 1502 2 4 I certify that the statements made by me on this form are true. Pilot's Signature: David Hudepohl Page Total 1411 351 Amount Forward 6394 8165 3 33112 6 6967 Total to Date 6073 8208 4 33112 6",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "David Hudepohl",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Hudepohl"
+    ],
+    "organizations": [],
+    "locations": [
+      "TEB",
+      "TGB",
+      "PBI",
+      "FLL",
+      "ACY",
+      "TST",
+      "PBE",
+      "ORL",
+      "SAF",
+      "VNY",
+      "SAN",
+      "LIT",
+      "ADS",
+      "SAT"
+    ],
+    "dates": [
+      "Apr 4",
+      "Apr 5",
+      "Apr 6",
+      "Apr 9",
+      "Apr 11",
+      "Apr 16",
+      "Apr 17",
+      "Apr 20",
+      "Apr 23",
+      "Apr 27",
+      "Apr 29",
+      "May 2",
+      "May 3",
+      "May 5"
+    ],
+    "reference_numbers": [
+      "G-1159B",
+      "N909JG",
+      "C-421B",
+      "N909GM",
+      "1487",
+      "1488",
+      "1489",
+      "1490",
+      "1491",
+      "1492",
+      "1493",
+      "1494",
+      "1495",
+      "1496",
+      "1497",
+      "1498",
+      "1499",
+      "1500",
+      "1501",
+      "1502",
+      "DOJ-OGR-00015879"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries and a signature at the bottom. The log includes details such as date, aircraft make and model, identification mark, points of departure and arrival, miles flown, flight number, and remarks."
+}

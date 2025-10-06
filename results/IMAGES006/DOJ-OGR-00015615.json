@@ -1,0 +1,48 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "image",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "N908GM Ghislaine Maxwell GOVERNMENT EXHIBIT 285-R S2 20 Cr. 330 (AJN) DOJ-OGR-00015615",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "N908GM",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Ghislaine Maxwell",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "GOVERNMENT EXHIBIT 285-R S2 20 Cr. 330 (AJN)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015615",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ghislaine Maxwell"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "N908GM",
+      "285-R",
+      "S2 20 Cr. 330 (AJN)",
+      "DOJ-OGR-00015615"
+    ]
+  },
+  "additional_notes": "The image appears to be a photograph of a desk with various items, including a model airplane, a framed picture, and a notepad with the name 'Ghislaine Maxwell' printed on it. The image is likely related to a government exhibit or evidence in a court case."
+}

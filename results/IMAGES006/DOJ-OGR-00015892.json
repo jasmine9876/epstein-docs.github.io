@@ -1,0 +1,86 @@
+{
+  "document_metadata": {
+    "page_number": "95",
+    "document_number": "DOJ-OGR-00015892",
+    "date": "June 2002",
+    "document_type": "Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... From To Night IFR Other June 13 B-727-311 N908JG LFMN GMTJ 120 2 1 June 13 \" GMTJ GMMG 121 7 June 13 \" GMMG LPAZ 122 2 4 June 13 \" LPAZ JFK 123 5 8 June 18 \" JFK PBI 124 2 2 June 19 \" PBI JAX 125 1 0 June 4 G-1159B N909JG PBI MVY 1583 2 0 June 4 \" MVY BED 1584 7 June 4 \" BED TEB 1585 9 June 5 \" TEB SAF 1586 1/1 3 9 June 6 C-172XP N739SP ACG ACG 3/3 9 June 6 206213 N914AW LORNO ACG June 15 B-727-311 N908JG JAX TPA 126 1/1 9 June 16 \" JAX PBI 127 June 17 G-1159-B N909JG SAF TEB 1589 3 7 June 18 \" TEB PBI 1590 2 4 June 21 B-727-311 N908JG PBI TEST 128 2 3 June 25 \" PISS JFK 129 1/1 3 6 June 28 \" JFK LFPB 130 6 4 I certify that the statements made by me on this form are true. Pilot's Signature Daniel Redgate Page Total 6 44 0 Amount Forward 6547 8740 1 33 112 6 6194 6553 8784 1 33 113 1 Total to Date 6208",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... From To Night IFR Other",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "June 13 B-727-311 N908JG LFMN GMTJ 120 2 1 ...",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature Daniel Redgate",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Daniel Redgate"
+    ],
+    "organizations": [],
+    "locations": [
+      "LFMN",
+      "GMTJ",
+      "GMMG",
+      "LPAZ",
+      "JFK",
+      "PBI",
+      "JAX",
+      "MVY",
+      "BED",
+      "TEB",
+      "SAF",
+      "ACG",
+      "LORNO",
+      "TPA",
+      "PISS",
+      "LFPB"
+    ],
+    "dates": [
+      "June 13, 2002",
+      "June 18, 2002",
+      "June 19, 2002",
+      "June 4, 2002",
+      "June 5, 2002",
+      "June 6, 2002",
+      "June 15, 2002",
+      "June 16, 2002",
+      "June 17, 2002",
+      "June 18, 2002",
+      "June 21, 2002",
+      "June 25, 2002",
+      "June 28, 2002"
+    ],
+    "reference_numbers": [
+      "N908JG",
+      "N909JG",
+      "N739SP",
+      "N914AW",
+      "1583",
+      "1584",
+      "1585",
+      "1586",
+      "1589",
+      "1590",
+      "DOJ-OGR-00015892"
+    ]
+  },
+  "additional_notes": "The document is a flight log with handwritten entries. The pilot's signature is present at the bottom."
+}

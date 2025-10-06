@@ -1,0 +1,80 @@
+{
+  "document_metadata": {
+    "page_number": "29",
+    "document_number": "DOJ-OGR-00015944",
+    "date": "1994",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date 1994 Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category Aug 28 HS125-700 N988JE TEB DCA 555 JEFFREY EPSTEIN, SALENA 1/1 8 28 \" \" \" DCA IAD 556 REPOSITION 3 28 \" \" IAD TEB 557 JE, SALENA, 1 FEMALE 3/0 6 30 \" \" TEB CMH 558 JE, DAWN DEVITO, IMPEL, 2 COCKPIT 1/1 14 30 \" \" CMH PBI 559 JE, DAWN, 1 FEMALE 1/1 25 Aug 7 G1159B N908JE SAV SAV B WARNING 2/2 22 8 \" \" \" \" C VIRGIL WOLFE-TEST PILOT 3/4 5 9 \" \" \" \" D VIRGIL WOLFE - YST PILOT 2/2 11 11 \" \" \" \" E VIRGIL WOLFE-TEST PILOT 2/2 5 11 \" \" PBI F SEAN LANCASTER 1/1 9 14 \" \" PBI MDW 569 JE,GM 1/1 25 14 \" \" MDW CMH 570 JE,GM 7 16 \" \" CMH MDW 571 JE,SOPHIE BIDDLE 1/1 7 16 \" \" MDW ASE 572 JE, SOPHIE BIDDLE, FANS IN THE ONES 1/1 23 18 \" \" ASE TVC 573 JE, SOPHIE BIDDLE, ROMANS + ARIANS 1/1 23 20 \" \" TVC TEB 574 JE,GM, DAWN DEVITO 14 30 \" \" TEB SAF 575 JE,GM 1/1 41 Sep 1 \" \" SAF ASE 576 JE,GM, J. ROBERTSON 1/1 6 1 \" \" ASE PBI 577 JE, GM 1/1 34 I certify that the statements made by me on this form are true. Pilot's Signature David Rodgers Page Total 540=531 2889 Amount Forward 5703 6196 Total to Date 5719 6225",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date 1994 Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Aug 28 HS125-700 N988JE TEB DCA 555 JEFFREY EPSTEIN, SALENA 1/1 8",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David Rodgers",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN",
+      "SALENA",
+      "DAWN DEVITO",
+      "IMPEL",
+      "VIRGIL WOLFE",
+      "SEAN LANCASTER",
+      "SOPHIE BIDDLE",
+      "J. ROBERTSON",
+      "DAVID RODGERS"
+    ],
+    "organizations": [],
+    "locations": [
+      "TEB",
+      "DCA",
+      "IAD",
+      "CMH",
+      "PBI",
+      "SAV",
+      "MDW",
+      "ASE",
+      "TVC",
+      "SAF"
+    ],
+    "dates": [
+      "Aug 28",
+      "Aug 30",
+      "Aug 7",
+      "Aug 8",
+      "Aug 9",
+      "Aug 11",
+      "Aug 14",
+      "Aug 16",
+      "Aug 18",
+      "Aug 20",
+      "Aug 30",
+      "Sep 1"
+    ],
+    "reference_numbers": [
+      "N988JE",
+      "G1159B",
+      "N908JE",
+      "DOJ-OGR-00015944"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log from 1994, containing handwritten entries detailing various flights, including departure and arrival points, flight numbers, and remarks. The log includes flights with notable individuals such as Jeffrey Epstein and Sophie Biddle."
+}

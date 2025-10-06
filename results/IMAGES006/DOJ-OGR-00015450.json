@@ -1,0 +1,69 @@
+{
+  "document_metadata": {
+    "page_number": "8 of 9",
+    "document_number": "4-495-45970",
+    "date": "Dec 16, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\n\nPicked up: Dec 10, 2002\nPayor: Shipper\nReference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\n\nTracking D\nService Type\nPackage Type\nZone\nOrig./Dest.\nPackages\nWeight\nDelivered\nSigned by\nFedEx Use\n828821138207\nFedEx Intl Economy\nCustomer Packaging\nD\nFLU/LON\n1\n1.0 lbs, 0.5 kgs\nDec 13, 2002 10:46\nT.MAXWELL\n_/USO1O/_\nSender\nG MAXWELL\nJEFFREY E EPSTEIN\n457 MADISON AVE\nNEW YORK NY 10022-6843 US\n\nRecipient\nTARA MAXWELL\n\n\nTransportation Charge\nFuel Surcharge\nDiscount\n38.45\n1.49\n-1.15\nTotal Transportation Charges\nUSD $\n38.79\n\nPicked up: Dec 10, 2002\nPayor: Shipper\nReference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\n\nTracking D\nService Type\nPackage Type\nZone\nOrig./Dest.\nPackages\nWeight\nDelivered\nSigned by\nFedEx Use\n828821138218\nFedEx Intl Economy\nCustomer Packaging\nD\nFLU/LON\n1\n2.0 lbs, 0.9 kgs\nDec 13, 2002 11:04\nO.OPING\n_/USO1O/_\nSender\nG MAXWELL\nJEFFREY E EPSTEIN\n457 MADISON AVE\nNEW YORK NY 10022-6843 US\n\nRecipient\nELIZABETH MAXWELL\n\n\nTransportation Charge\nFuel Surcharge\nDiscount\n45.55\n1.77\n-1.37\nTotal Transportation Charges\nUSD $\n45.95\n\nShipment Detail Subtotal\nUSD $\n1,249.67\n\nPicked up: Dec 11, 2002\nPayor: Recipient\nReference: AARON\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nFedEx has audited this airbill for correct pieces, weight, and service. Any changes made are reflected in the invoice amount.\n\nTracking D\nService Type\nPackage Type\nZone\nOrig./Dest.\nPackages\nWeight\nDelivered\nSigned by\nDec. Value\nFedEx Use\n791993540378\nFedEx Intl Priority\nCustomer Packaging\nI\nCHL/STT\n1\n2.0 lbs, 0.9 kgs\nDec 12, 2002 17:17\nI.SCHBERT\nUSD 54.00\n_/USO1O/_\nSender\nPARTS\n\nRecipient\nAARON\nLSJ, LLC.\nC/O AMERICAN YACHT HARBOR\n6100 RED HOOK QUARTERS #2\nST. THOMAS VI 00802-453 VI\n\nTransportation Charge\nFuel Surcharge\nDiscount\n51.63\n2.00\n-1.55\nTotal Transportation Charges\nUSD $\n52.08\n\nCONFIDENTIAL\nSDNY_GM_00340802 141\nDOJ-OGR-00015450",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "G MAXWELL",
+      "JEFFREY E EPSTEIN",
+      "TARA MAXWELL",
+      "ELIZABETH MAXWELL",
+      "AARON",
+      "T.MAXWELL",
+      "O.OPING",
+      "I.SCHBERT"
+    ],
+    "organizations": [
+      "FedEx",
+      "LSJ, LLC.",
+      "AMERICAN YACHT HARBOR"
+    ],
+    "locations": [
+      "NEW YORK",
+      "NY",
+      "FLU",
+      "LON",
+      "MADISON AVE",
+      "ST. THOMAS",
+      "VI",
+      "CHL",
+      "STT"
+    ],
+    "dates": [
+      "Dec 10, 2002",
+      "Dec 13, 2002 10:46",
+      "Dec 13, 2002 11:04",
+      "Dec 11, 2002",
+      "Dec 12, 2002 17:17",
+      "Dec 16, 2002"
+    ],
+    "reference_numbers": [
+      "4-495-45970",
+      "1144-2081-6",
+      "828821138207",
+      "828821138218",
+      "791993540378",
+      "SDNY_GM_00340802",
+      "DOJ-OGR-00015450"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx shipment detail report, containing information about three separate shipments. The document is marked 'CONFIDENTIAL' at the bottom."
+}

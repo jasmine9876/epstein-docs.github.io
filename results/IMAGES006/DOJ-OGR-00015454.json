@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "4-495-86910",
+    "date": "Dec 23, 2002",
+    "document_type": "Invoice",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Invoice Number: 4-495-86910 Invoice Date: Dec 23, 2002 Account Number: 1144-2081-6 Page: 3 of 10 FedEx Express Shipment Summary by Payment Type Original Shipper Number of Shipments 18 Transportation Charges 899.12 Base Discount -26.98 Special Handling Charges 34.88 TOTAL USD $ 907.02 Number of Shipments 18 Total Charges USD $ 907.02 Third Party Number of Shipments 1 Transportation Charges 1,427.40 Base Discount -42.70 Special Handling Charges 72.59 TOTAL USD $ 1,457.29 Number of Shipments 1 Total Charges USD $ 1,457.29 TOTAL SHIPMENTS 19 TOTAL CHARGES USD $ 2,364.31 CONFIDENTIAL SDNY_GM_00340827 145 DOJ-OGR-00015454",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Number: 4-495-86910 Invoice Date: Dec 23, 2002 Account Number: 1144-2081-6 Page: 3 of 10",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Summary by Payment Type",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Original Shipper Number of Shipments 18 Transportation Charges 899.12 Base Discount -26.98 Special Handling Charges 34.88 TOTAL USD $ 907.02 Number of Shipments 18 Total Charges USD $ 907.02 Third Party Number of Shipments 1 Transportation Charges 1,427.40 Base Discount -42.70 Special Handling Charges 72.59 TOTAL USD $ 1,457.29 Number of Shipments 1 Total Charges USD $ 1,457.29 TOTAL SHIPMENTS 19 TOTAL CHARGES USD $ 2,364.31",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "SDNY_GM_00340827 145 DOJ-OGR-00015454",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "FedEx"
+    ],
+    "locations": [],
+    "dates": [
+      "Dec 23, 2002"
+    ],
+    "reference_numbers": [
+      "4-495-86910",
+      "1144-2081-6",
+      "SDNY_GM_00340827",
+      "DOJ-OGR-00015454"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx invoice with a summary of shipments by payment type. The document is marked as 'CONFIDENTIAL' and contains reference numbers and a total charge amount."
+}

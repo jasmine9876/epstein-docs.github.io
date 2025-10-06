@@ -1,0 +1,38 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "image",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "GOVERNMENT EXHIBIT 278 SZ 20 Cr. 330 (AJN) DOJ-OGR-00015610",
+  "text_blocks": [
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 278 SZ 20 Cr. 330 (AJN)",
+      "position": "bottom right"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015610",
+      "position": "bottom center"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ",
+      "Government"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "278",
+      "20 Cr. 330",
+      "DOJ-OGR-00015610"
+    ]
+  },
+  "additional_notes": "The image appears to be a photograph of a luxurious bathroom, potentially used as evidence in a court case. The 'GOVERNMENT EXHIBIT' stamp and reference number suggest its use in a legal proceeding."
+}

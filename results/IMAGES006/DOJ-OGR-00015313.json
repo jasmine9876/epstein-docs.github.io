@@ -1,0 +1,73 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "4-447-12299",
+    "date": "Nov 04, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type (Original)",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\n\nInvoice Number: 4-447-12299\nInvoice Date: Nov 04, 2002\nAccount Number: 1144-2081-6\nPage: 4 of 8\n\nPicked up: Oct 28, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 3.00% to this shipment.\nFedEx has audited this airbill for correct pieces, weight, and service. Any changes made are reflected in the invoice amount.\n\nTracking D 792764582118 Sender CECILIA STEEN JEFFREY E. EPSTE N 457 MADISON AVENUE 4TH FLOOR NEW YORK NY 10022 US Recipient JEANNE BRENNAN FINANCIAL TRUST COMPANY 6100 RED HOOK QUARTER SUITE B-3 ST. THOMAS 00802 VI\nService Type FedEx Intl Priority\nPackage Type FedEx Pak\nZone I\nOrig./Dest. JRB/STT\nPackages 1\nWeight 4.0 lbs, 1.8 kgs\nDelivered Oct 29, 2002 17:22\nSigned by J RUAN\nFedEx Use _/US01O/_\n\nTransportation Charge 65.03\nFuel Surcharge 1.89\nDiscount -1.95\n\nTotal Transportation Charges USD $ 64.97\n\nPicked up: Oct 28, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 3.00% to this shipment.\n\nTracking D 790126974691 Sender CECILIA STEEN JEFFREY E. EPSTE N 457 MADISON AVENUE 4TH FLOOR NEW YORK NY 10022 US Recipient MAR E JOSEPH EXPERTON BERLIOZ & CO.\nService Type FedEx Intl Priority\nPackage Type FedEx Envelope\nZone D\nOrig./Dest. JRB/KNO\nPackages 1\nWeight 0.5 lbs, 0.2 kgs\nDelivered Oct 30, 2002 10:38\nSigned by M.TIMNERI\nFedEx Use _/US01O/_\n\nTransportation Charge 28.00\nFuel Surcharge 0.81\nDiscount -0.84\n\nTotal Transportation Charges USD $ 27.97\n\nPicked up: Oct 28, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 3.00% to this shipment.\n\nTracking D 792764538497 Sender CECILIA STEEN JEFFREY E. EPSTE N 457 MADISON AVENUE 4TH FLOOR NEW YORK NY 10022 US Recipient MYLENE JAMPANOI\nService Type FedEx Intl Priority\nPackage Type FedEx Envelope\nZone D\nOrig./Dest. JRB/PAR\nPackages 1\nWeight 0.5 lbs, 0.2 kgs\nDelivered Oct 30, 2002 10:17\nSigned by .GARDIEN\nFedEx Use _/US01O/_\n\nTransportation Charge 28.00\nFuel Surcharge 0.81\nDiscount -0.84\n\nTotal Transportation Charges USD $ 27.97\n\nCONFIDENTIAL\nSDNY_GM_00340674 4\nDOJ-OGR-00015313",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Number: 4-447-12299\nInvoice Date: Nov 04, 2002\nAccount Number: 1144-2081-6\nPage: 4 of 8",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "SDNY_GM_00340674 4\nDOJ-OGR-00015313",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "CECILIA STEEN",
+      "JEFFREY E. EPSTE N",
+      "JEANNE BRENNAN",
+      "MAR E JOSEPH EXPERTON",
+      "MYLENE JAMPANOI",
+      "J RUAN",
+      "M.TIMNERI",
+      ".GARDIEN"
+    ],
+    "organizations": [
+      "FedEx",
+      "FINANCIAL TRUST COMPANY",
+      "BERLIOZ & CO."
+    ],
+    "locations": [
+      "NEW YORK NY 10022 US",
+      "ST. THOMAS 00802 VI",
+      "457 MADISON AVENUE 4TH FLOOR",
+      "6100 RED HOOK QUARTER SUITE B-3"
+    ],
+    "dates": [
+      "Oct 28, 2002",
+      "Nov 04, 2002",
+      "Oct 29, 2002 17:22",
+      "Oct 30, 2002 10:38",
+      "Oct 30, 2002 10:17"
+    ],
+    "reference_numbers": [
+      "4-447-12299",
+      "1144-2081-6",
+      "792764582118",
+      "790126974691",
+      "792764538497",
+      "SDNY_GM_00340674",
+      "DOJ-OGR-00015313"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx shipment detail report, containing information about three separate shipments. The report includes details such as tracking numbers, sender and recipient information, package details, and transportation charges. The document is marked as 'CONFIDENTIAL' at the bottom."
+}

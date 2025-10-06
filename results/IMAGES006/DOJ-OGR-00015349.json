@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": "5",
+    "document_number": "4-447-80862",
+    "date": "Nov 18, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\n\nPicked up: Nov 06, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 8\n\nTracking D 837657308265 Sender GHISLAINE MAXWELL Recipient L NDA STONE\nService Type FedEx Priority Overnight JEFFREY E EPSTEIN\nPackage Type FedEx Pak 457 MADISON AVE NEW YORK NY 10022-6843 US\nZone 8\nPackages 1\nWeight 1.0 lbs, 0.5 kgs\nDelivered Nov 07, 2002 09:41\nSvc Area A1\nSigned by J K RCHNER\nFedEx Use 312167510/01618/_\n\nTransportation Charge 25.75\nDiscount -2.58\nFuel Surcharge 0.93\nTotal Transportation Charges USD $ 24.10\n\nPicked up: Nov 06, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 3\nRelease signature on file.\n\nTracking D 837657308276 Sender GHISLAINE MAXWELL Recipient HENRY ROSOVSKY\nService Type FedEx Priority Overnight JEFFREY E EPSTEIN HARVARD UNIVERSITY\nPackage Type FedEx Pak 457 MADISON AVE NEW YORK NY 10022-6843 US\nZone 3\nPackages 1\nWeight 1.0 lbs, 0.5 kgs\nDelivered Nov 07, 2002 10:00\nSvc Area A1\nSigned by M.MAXWEL\nFedEx Use 312164050/01508/02\n\nTransportation Charge 17.75\nDiscount -1.78\nFuel Surcharge 0.64\nResidential Delivery 1.35\nTotal Transportation Charges USD $ 17.96\n\nDropped off: Nov 07, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 7\nPackage sent from: 87505 zip code\nRelease signature on file.\n\nTracking D 827487048451 Sender KATE JEFFREY E EPSTEIN Recipient G MAXWELL\nService Type FedEx Standard Overnight ZORRO\nPackage Type Customer Packaging 457 MADISON AVE 358 EL BR LLO\nZone 7 NEW YORK NY 10022-6843 US PALM BEACH FL 33480 US\nPackages 1\nWeight 3.0 lbs, 1.4 kgs\nDelivered Nov 08, 2002 10:54\nSvc Area AA\nSigned by M.AXWELL.1\nFedEx Use 313016020/01393/02\n\nTransportation Charge 28.00\nDiscount -2.80\nFuel Surcharge 1.01\nResidential Delivery 1.35\nTotal Transportation Charges USD $ 27.56\n\nCONFIDENTIAL\n\nSDNY_GM_00340702 40\nDOJ-OGR-00015349",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "GHISLAINE MAXWELL",
+      "JEFFREY E EPSTEIN",
+      "L NDA STONE",
+      "HENRY ROSOVSKY",
+      "KATE JEFFREY E EPSTEIN",
+      "G MAXWELL",
+      "J K RCHNER",
+      "M.MAXWEL",
+      "M.AXWELL.1",
+      "ZORRO"
+    ],
+    "organizations": [
+      "FedEx",
+      "HARVARD UNIVERSITY"
+    ],
+    "locations": [
+      "NEW YORK",
+      "PALM BEACH FL",
+      "457 MADISON AVE",
+      "358 EL BR LLO"
+    ],
+    "dates": [
+      "Nov 06, 2002",
+      "Nov 07, 2002",
+      "Nov 08, 2002",
+      "Nov 18, 2002"
+    ],
+    "reference_numbers": [
+      "4-447-80862",
+      "837657308265",
+      "837657308276",
+      "827487048451",
+      "1144-2081-6",
+      "312167510/01618/",
+      "312164050/01508/02",
+      "313016020/01393/02",
+      "SDNY_GM_00340702",
+      "DOJ-OGR-00015349"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx shipment detail report, containing information about three separate shipments. The report includes details such as tracking numbers, sender and recipient information, package details, and transportation charges. The document is marked 'CONFIDENTIAL' at the bottom."
+}

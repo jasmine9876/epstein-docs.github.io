@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "5",
+    "document_number": null,
+    "date": "June 01, 2007 - June 29, 2007",
+    "document_type": "Bank Statement",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "June 01, 2007 June 29, 2007 Ghislaine Maxwell JPMorgan Private Bank Page 5 of 8 Primary Account Number: 6312 Premier Checking 6312 CHECK NO. 1070 $27,409.53 PAID 06/22",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "June 01, 2007 June 29, 2007 Ghislaine Maxwell JPMorgan Private Bank",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Page 5 of 8 Primary Account Number: 6312",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Premier Checking 6312",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "CHECK NO. 1070 $27,409.53 PAID 06/22",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Marcy Lee",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Confidential Treatment Requested by JPMorgan Chase JPM-SDNY-00052162 DOJ-OGR-00015695",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ghislaine Maxwell",
+      "Thomas D. Sjoblom"
+    ],
+    "organizations": [
+      "JPMorgan Private Bank",
+      "American Express",
+      "JPMorgan Chase Bank"
+    ],
+    "locations": [
+      "New York, NY"
+    ],
+    "dates": [
+      "June 01, 2007",
+      "June 29, 2007",
+      "06/22"
+    ],
+    "reference_numbers": [
+      "6312",
+      "1070",
+      "$27,409.53",
+      "JPM-SDNY-00052162",
+      "DOJ-OGR-00015695"
+    ]
+  },
+  "additional_notes": "The document appears to be a bank statement from JPMorgan Private Bank for Ghislaine Maxwell's account. It includes a check image and details about a transaction."
+}

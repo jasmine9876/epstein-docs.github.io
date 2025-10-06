@@ -1,0 +1,67 @@
+{
+  "document_metadata": {
+    "page_number": "109",
+    "document_number": "DOJ-OGR-00015906",
+    "date": "2004",
+    "document_type": "Pilot's Logbook Page",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... Airplane Glider Helicopter 19-May-04 B-727-31H N9083JC PBI JFK 263 22 27-May-04 \" \" \" JFK PBI 26 2 6 4 \" \" \" PBI JFK 265 2 6 5 \" \" \" JFK LFPB 266 2 4 8 \" \" \" LFPB EGGW 267 6 9 10 \" \" \" EGGW LKPR 268 9 12 \" \" \" LKPR LFPB 269 1 8 14 \" \" \" LFPB CYQX 270 1 4 14 \" \" \" CYQX PBI 271 5 8 15 G-1159B N909JC PBI PBI 1707 4 2 17 \" \" \" PBI TGB 1708 3 2 21 \" \" \" TGB PBI 1709 2 4 24 \" \" \" PBI TSS 1710 2 4 31 \" \" \" TSS TGB 1711 2 5 4-Jun-04 \" \" \" TGB HVN 1712 4 2 4 \" \" \" HVN PBI 1713 5 7 \" \" \" PBI TGB 1714 2 7 9 \" \" \" TGB BED 1715 2 5 9 \" \" \" BED TGB 1716 9 I certify that the statements made by me on this form are true. David Redafe Pilot's Signature Page Total 7 7 487 Amount Forward 6759 639 9431 1 33125 0 Total to Date 7566 6387 9479 8 33125 0",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... Airplane Glider Helicopter",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "19-May-04 B-727-31H N9083JC PBI JFK 263 22 ...",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. David Redafe",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Pilot's Signature",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "7 7 487 6759 639 9431 1 33125 0 7566 6387 9479 8 33125 0",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Redafe"
+    ],
+    "organizations": [],
+    "locations": [
+      "PBI",
+      "JFK",
+      "LFPB",
+      "EGGW",
+      "LKPR",
+      "CYQX",
+      "TGB",
+      "TSS",
+      "HVN",
+      "BED"
+    ],
+    "dates": [
+      "19-May-04",
+      "27-May-04",
+      "4-Jun-04"
+    ],
+    "reference_numbers": [
+      "N9083JC",
+      "N909JC",
+      "DOJ-OGR-00015906"
+    ]
+  },
+  "additional_notes": "The document is a photocopy of a pilot's logbook page with handwritten entries. The page is numbered 109 and has a document number DOJ-OGR-00015906."
+}

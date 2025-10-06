@@ -1,0 +1,100 @@
+{
+  "document_metadata": {
+    "page_number": "16 of 21",
+    "document_number": "4-495-75031",
+    "date": "Dec 23, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type (Original)",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx\nInvoice Number: 4-495-75031\nInvoice Date: Dec 23, 2002\nAccount Number: 1144-2081-6\nPage: 16 of 21\nFedEx Express Shipment Detail By Payment Type (Original)\nPicked up: Dec 18, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\nFuel Surcharge FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 3\nWeather delay Thunderstorm.\nRelease signature on file.\nInternetShip Sender Recipient\nTracking ID 792794801284 HELEN H KIM ELLA DERSHOWITZ\nService Type FedEx Priority Overnight JEFFREY E EPSTEIN\nPackage Type FedEx Box 457 MADISON AVE\nZone 3 NEW YORK NY 10022-6843 US\nPackages 1\nWeight 2.0 lbs, 0.9 kgs\nDelivered Dec 19, 2002 11:10 Transportation Charge 18.75\nSvc Area A1 Discount -1.88\nSigned by 805899 Fuel Surcharge 0.67\nFedEx Use 523220718/01508/02 Residential Delivery 1.35\nTotal Transportation Charges USD $ 18.89\nPicked up: Dec 19, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\nFuel Surcharge FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 6\nWeather delay Thunderstorm.\nInternetShip Sender Recipient\nTracking ID 792795331100 CECIL J STEEN DOTTIE\nService Type FedEx Priority Overnight JEFFREY E EPSTEIN COLONIAL BANK\nPackage Type FedEx Envelope 457 MADISON AVE\nZone 6 NEW YORK NY 10022-6843 US\nPackages 1\nWeight 1.0 lbs, 0.5 kgs\nDelivered Dec 20, 2002 13:36 Transportation Charge 16.00\nSvc Area AA Discount -2.56\nSigned by M.BROWN Fuel Surcharge 0.54\nFedEx Use 523413915/00230/TS\nTotal Transportation Charges USD $ 13.98\nShipment Detail Subtotal USD $ 642.11\nDOJ-OGR-00016079",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx\nInvoice Number: 4-495-75031\nInvoice Date: Dec 23, 2002\nAccount Number: 1144-2081-6\nPage: 16 of 21",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Picked up: Dec 18, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Fuel Surcharge FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 3\nWeather delay Thunderstorm.\nRelease signature on file.",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "InternetShip Sender Recipient\nTracking ID 792794801284 HELEN H KIM ELLA DERSHOWITZ\nService Type FedEx Priority Overnight JEFFREY E EPSTEIN\nPackage Type FedEx Box 457 MADISON AVE\nZone 3 NEW YORK NY 10022-6843 US\nPackages 1\nWeight 2.0 lbs, 0.9 kgs\nDelivered Dec 19, 2002 11:10 Transportation Charge 18.75\nSvc Area A1 Discount -1.88\nSigned by 805899 Fuel Surcharge 0.67\nFedEx Use 523220718/01508/02 Residential Delivery 1.35\nTotal Transportation Charges USD $ 18.89",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Picked up: Dec 19, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Fuel Surcharge FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 6\nWeather delay Thunderstorm.",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "InternetShip Sender Recipient\nTracking ID 792795331100 CECIL J STEEN DOTTIE\nService Type FedEx Priority Overnight JEFFREY E EPSTEIN COLONIAL BANK\nPackage Type FedEx Envelope 457 MADISON AVE\nZone 6 NEW YORK NY 10022-6843 US\nPackages 1\nWeight 1.0 lbs, 0.5 kgs\nDelivered Dec 20, 2002 13:36 Transportation Charge 16.00\nSvc Area AA Discount -2.56\nSigned by M.BROWN Fuel Surcharge 0.54\nFedEx Use 523413915/00230/TS\nTotal Transportation Charges USD $ 13.98",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Shipment Detail Subtotal USD $ 642.11",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00016079",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "HELEN H KIM",
+      "ELLA DERSHOWITZ",
+      "JEFFREY E EPSTEIN",
+      "CECIL J STEEN",
+      "DOTTIE",
+      "M.BROWN",
+      "805899"
+    ],
+    "organizations": [
+      "FedEx",
+      "COLONIAL BANK"
+    ],
+    "locations": [
+      "NEW YORK",
+      "NY",
+      "US",
+      "MADISON AVE"
+    ],
+    "dates": [
+      "Dec 18, 2002",
+      "Dec 19, 2002",
+      "Dec 20, 2002",
+      "Dec 23, 2002"
+    ],
+    "reference_numbers": [
+      "4-495-75031",
+      "1144-2081-6",
+      "792794801284",
+      "523220718/01508/02",
+      "792795331100",
+      "523413915/00230/TS",
+      "DOJ-OGR-00016079"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx invoice with details about two shipments. The document is clear and legible, with no visible damage or redactions."
+}

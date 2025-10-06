@@ -1,0 +1,91 @@
+{
+  "document_metadata": {
+    "page_number": "34",
+    "document_number": null,
+    "date": "1945",
+    "document_type": "Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date 1945 Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... From To 8 G1159B N908JK SAV TCB 653 POSITION JIM 1/1 18 9 \" TCB PBI 644 JG,CM,ANDY 2 2 12 \" PBI TCB 655 JG,CM,ANDY 2 5 16 \" TCB PBI 666 JG, RUPERT,DAVID RUTH, 4 PAX 2 4 19 \" PBI TCB 667 JG, RUPERT, LUBA, 4 PAX 2 3 21 \" TCB DCA 668 JG, JANIS KEVEY 1/1 6 21 \" DCA TCB 669 JG, JANIS KEVEY 6 22 \" TCB PBI 670 JG, GM 2 6 26 \" PBI TCB 682 JG, GM, ANDY, JEFFERYS AUNT 1/1 2 3 13 \" TCB PBI 683 JG, CM, ANDY, JONATHAN, STEVE 1 2 3 16 \" PBI TCB 684 JG, ANDY, JONATHAN, DAISY, 1 FEMALE 2 4 26 \" TCB PBI 685 JG, GM, ANDY 2 2 24 \" PBI TCB 686 JG, ANDY 1/1 2 1 27 \" TCB SAF 687 JG, GM, ANDY 4 0 29 \" SAF NEW 688 JG, CM, ANDY 1/1 19 29 \" NEW PBI 689 JG, GM, ANDY 1/1 13 1 \" PBI TCB 690 JG, ANDY 1/1 2 1 4 \" TCB PBI 691 JG 1 2 5 7 \" PBI TCB 692 JG, GM 2 5 I certify that the statements made by me on this form are true. Pilot's Signature David Rodgers Page Total 116 400 Amount Forward 5782547 6378 7 Total to Date 5732545 6418 7",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date 1945 Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... From To",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "8 G1159B N908JK SAV TCB 653 POSITION JIM 1/1 18 9 \" TCB PBI 644 JG,CM,ANDY 2 2 12 \" PBI TCB 655 JG,CM,ANDY 2 5 16 \" TCB PBI 666 JG, RUPERT,DAVID RUTH, 4 PAX 2 4 19 \" PBI TCB 667 JG, RUPERT, LUBA, 4 PAX 2 3 21 \" TCB DCA 668 JG, JANIS KEVEY 1/1 6 21 \" DCA TCB 669 JG, JANIS KEVEY 6 22 \" TCB PBI 670 JG, GM 2 6 26 \" PBI TCB 682 JG, GM, ANDY, JEFFERYS AUNT 1/1 2 3 13 \" TCB PBI 683 JG, CM, ANDY, JONATHAN, STEVE 1 2 3 16 \" PBI TCB 684 JG, ANDY, JONATHAN, DAISY, 1 FEMALE 2 4 26 \" TCB PBI 685 JG, GM, ANDY 2 2 24 \" PBI TCB 686 JG, ANDY 1/1 2 1 27 \" TCB SAF 687 JG, GM, ANDY 4 0 29 \" SAF NEW 688 JG, CM, ANDY 1/1 19 29 \" NEW PBI 689 JG, GM, ANDY 1/1 13 1 \" PBI TCB 690 JG, ANDY 1/1 2 1 4 \" TCB PBI 691 JG 1 2 5 7 \" PBI TCB 692 JG, GM 2 5",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "I certify that the statements made by me on this form are true.",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "David Rodgers",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "116 400 5782547 6378 7 5732545 6418 7",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JIM",
+      "RUPERT",
+      "DAVID",
+      "RUTH",
+      "LUBA",
+      "JANIS KEVEY",
+      "GM",
+      "ANDY",
+      "JEFFERYS AUNT",
+      "JONATHAN",
+      "STEVE",
+      "DAISY",
+      "David Rodgers"
+    ],
+    "organizations": [],
+    "locations": [
+      "SAV",
+      "TCB",
+      "PBI",
+      "DCA",
+      "SAF",
+      "NEW"
+    ],
+    "dates": [
+      "1945-08",
+      "1945-09",
+      "1945-12",
+      "1945-16",
+      "1945-19",
+      "1945-21",
+      "1945-22",
+      "1945-26",
+      "1945-24",
+      "1945-27",
+      "1945-29",
+      "1945-01",
+      "1945-04",
+      "1945-07"
+    ],
+    "reference_numbers": [
+      "G1159B",
+      "N908JK",
+      "DOJ-OGR-00015949"
+    ]
+  },
+  "additional_notes": "The document is a flight log from 1945, containing handwritten entries detailing various flights, including dates, aircraft information, departure and arrival points, miles flown, and remarks. The log is signed by David Rodgers."
+}

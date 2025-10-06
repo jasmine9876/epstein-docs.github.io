@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "20",
+    "document_number": "DOJ-OGR-00015935",
+    "date": "1993 JUN",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE AIRCRAFT MAKE AND MODEL AIRCRAFT IDENTIFICATION MARK POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FLOWN FLT. NO. REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS NO. LDG. AIRCRAFT CATEGORY 1993 JUN 20 HS125-700 N408LRE PBA TCB 137 TCKRY 1 6 1 TUR 22 HS125-700 N408LRE TCB AHN 513 335 2 TCKRY 1 6 1 23 TCB PBI 331 TCKT 1 12 1 2 27 PBI CMH  TCKT, CONDONE, SOFAE 1 22 2 2 2 27 CMH TCB 341 TCKRY, CONDONE, SOFAE 1 11 1 1 28 TCB PBA 342 TCKRY, SOFAE, TOUCH & GO, TCKT 1 7 1 7 28 PBA TCB 343 TCKT, SOFAE, TOUCH & GO, TCKT 1 7 1 7 29 TCB PBI 344 TCKT, SOFAE, TOUCH & GO, TCKT 1 24 2 24 2 5 PBI HSO 1.7 345 TCKT, SOFAE, TOUCH & GO, TCKT 1 24 2 24 2 5 HSO PVD 346 TCKT, SOFAE, TOUCH & GO, TCKT 1 4 2 4 2 5 PVD DPH 347 TCKT, SOFAE, TOUCH & GO, TCKT 1 4 2 4 2 6 DPH TCB 348 TCKT, SOFAE, TOUCH & GO, TCKT 1 13 1 13 1 7 TCB MNW 349 TCKRY, R P GOOD 1 13 1 13 1 7 MNW TCB 350 TCKRY, R P GOOD 1 16 1 16 1 11 TCB ALY 351 TCKT TO TWR UP TCKT 1 4 1 4 1 11 ALY AHN 352 TCKRY 1 16 1 16 1 11 AHN PBI 353 TCKT 1 14 1 14 1 11 PBI TCB 354 TCKRY 1 25 2 25 2 I certify that the statements made by me on this form are true. PILOT'S SIGNATURE Donald P. Parkyns PAGE TOTAL 16 251 251 11 25 AMT. FORWARD 545 525 1 4255 5 2241 TOTAL TO DATE 5412 1 4260 6 2212",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE AIRCRAFT MAKE AND MODEL AIRCRAFT IDENTIFICATION MARK POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FLOWN FLT. NO. REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS NO. LDG. AIRCRAFT CATEGORY",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "1993 JUN 20 HS125-700 N408LRE PBA TCB 137 TCKRY 1 6 1 TUR ...",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. PILOT'S SIGNATURE Donald P. Parkyns",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Donald P. Parkyns"
+    ],
+    "organizations": [],
+    "locations": [
+      "PBA",
+      "TCB",
+      "AHN",
+      "PBI",
+      "CMH",
+      "HSO",
+      "PVD",
+      "DPH",
+      "MNW",
+      "ALY"
+    ],
+    "dates": [
+      "1993 JUN"
+    ],
+    "reference_numbers": [
+      "N408LRE",
+      "DOJ-OGR-00015935"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log from June 1993. It contains handwritten entries detailing flight information, including dates, aircraft details, departure and arrival points, miles flown, flight numbers, remarks, and landing counts. The log is signed by the pilot, Donald P. Parkyns."
+}

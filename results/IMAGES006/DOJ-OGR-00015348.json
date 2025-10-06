@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "4-447-80862",
+    "date": "Nov 18, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\n\nDropped off: Nov 06, 2002    Payor: Shipper    Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 7\nPackage sent from: 87505 zip code\nFedEx has audited this shipment for correct packages, weight, and service. Any changes made are reflected in the invoice amount.\nWe calculated your charges based on a dimensional weight of 12.0 lbs., 13\" x 12\" x 15\", divided by 194.\n\nTracking D 827487048462    Sender    Recipient\nService Type FedEx Standard Overnight    KATE    G MAXWELL\nPackage Type Customer Packaging    JEFFREY E EPSTEIN    116 E 65TH STREET\nZone 7    457 MADISON AVE    NEW YORK NY 10021 US\nPackages 1    NEW YORK NY 10022-6843 US\nWeight 6.0 lbs, 2.7 kgs    Transportation Charge    49.75\nDelivered Nov 07, 2002 12 08    Discount    -4.98\nSvc Area A1    Fuel Surcharge    1.79\nSigned by .WASH    Total Transportation Charges    USD $    46.56\nFedEx Use 312040210/01393/_\n\nPicked up: Nov 06, 2002    Payor: Shipper    Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 8\n1st attempt not Nov 07, 2002 at 08 32 AM.\nRecipient not in/business closed.\n\nTracking D 837657308200    Sender    Recipient\nService Type FedEx Priority Overnight    GHISLAINE MAXWELL    KELLY BOV NO\nPackage Type FedEx Pak    JEFFREY E EPSTEIN    \nZone 8    457 MADISON AVE    \nPackages 1    NEW YORK NY 10022-6843 US\nWeight 1.0 lbs, 0.5 kgs    Transportation Charge    25.75\nDelivered Nov 08, 2002 14 24    Discount    -2.58\nSvc Area A1    Fuel Surcharge    0.93\nSigned by B.OVINO    Residential Delivery    1.35\nFedEx Use 312164050/01618/08    Total Transportation Charges    USD $    25.45\n\nPicked up: Nov 06, 2002    Payor: Shipper    Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 7\n\nTracking D 837657308243    Sender    Recipient\nService Type FedEx Priority Overnight    GHISLAWNE MAXWELL    MURRAY GELLMAN\nPackage Type FedEx Pak    JEFFREY E EPSTEIN    SANTA FE NSTITUTE\nZone 7    457 MADISON AVE    \nPackages 1    NEW YORK NY 10022-6843 US\nWeight 1.0 lbs, 0.5 kgs    Transportation Charge    25.25\nDelivered Nov 07, 2002 09 50    Discount    -2.53\nSvc Area A2    Fuel Surcharge    0.91\nSigned by P.BRUNELLO    Total Transportation Charges    USD $    23.63\nFedEx Use 312167510/01596/_\n\nCONFIDENTIAL\nSDNY_GM_00340701 39\nDOJ-OGR-00015348",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Dropped off: Nov 06, 2002    Payor: Shipper    Reference: NO REFERENCE INFORMATION",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "KATE",
+      "G MAXWELL",
+      "JEFFREY E EPSTEIN",
+      "GHISLAINE MAXWELL",
+      "KELLY BOV NO",
+      "GHISLAWNE MAXWELL",
+      "MURRAY GELLMAN",
+      ".WASH",
+      "B.OVINO",
+      "P.BRUNELLO"
+    ],
+    "organizations": [
+      "FedEx",
+      "SANTA FE NSTITUTE"
+    ],
+    "locations": [
+      "NEW YORK",
+      "457 MADISON AVE",
+      "116 E 65TH STREET"
+    ],
+    "dates": [
+      "Nov 06, 2002",
+      "Nov 07, 2002",
+      "Nov 08, 2002",
+      "Nov 18, 2002"
+    ],
+    "reference_numbers": [
+      "4-447-80862",
+      "827487048462",
+      "837657308200",
+      "837657308243",
+      "1144-2081-6",
+      "312040210/01393/",
+      "312164050/01618/08",
+      "312167510/01596/_",
+      "SDNY_GM_00340701",
+      "DOJ-OGR-00015348"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx invoice with multiple shipment details. It contains information about the sender, recipient, package details, and transportation charges. The document is marked as 'CONFIDENTIAL' at the bottom."
+}

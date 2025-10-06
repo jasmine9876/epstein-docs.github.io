@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "S2 20 Cr. 330 (AJN)",
+    "date": null,
+    "document_type": "Important Message",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "IMPORTANT MESSAGE FOR JEFF DATE DOJ REDACTION TIME 11:15 A.M. OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED a 1184 IMPORTANT MESSAGE FOR Jeffery DATE 6/9/05 TIME 11:26 A.M. M Chishlaine OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Just that she has called. It's not important SIGNED a 1184 IMPORTANT MESSAGE FOR Jeffery DATE 6/9/05 TIME 1:30 P.M. M Cecilia OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Yes she called SIGNED AM a 1184 IMPORTANT MESSAGE FOR Jeffery DATE 2/9/05 TIME 12:25 P.M. M Darrien OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Just that he called. GOVERNMENT EXHIBIT 3-EE S2 20 Cr. 330 (AJN) DOJ-OGR-00015500 a 1184",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "JEFF",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "FOR DATE TIME OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Just that she has called. It's not important",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 3-EE S2 20 Cr. 330 (AJN) DOJ-OGR-00015500",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeff",
+      "Jeffery",
+      "Chishlaine",
+      "Cecilia",
+      "Darrien"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "6/9/05",
+      "2/9/05"
+    ],
+    "reference_numbers": [
+      "S2 20 Cr. 330 (AJN)",
+      "DOJ-OGR-00015500"
+    ]
+  },
+  "additional_notes": "The document appears to be a set of four 'Important Message' forms, likely used for recording phone messages. The forms are filled out with handwritten notes and contain various dates and names. One of the dates is redacted by the DOJ. The document is stamped as a 'GOVERNMENT EXHIBIT' with a reference number."
+}

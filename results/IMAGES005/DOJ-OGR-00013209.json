@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": "196",
+    "document_number": "753",
+    "date": "08/10/22",
+    "document_type": "court transcript",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 753 Filed 08/10/22 Page 196 of 264 1637\nLC7Cmax6 Carolyn - cross\n1 (Jury not present)\n2 MR. PAGLIUCA: Your Honor, should I sit or stand?\n3 THE COURT: I don't mind. I just want to hear you.\n4 MR. PAGLIUCA: C4 was the state complaint, your Honor.\n5 And I'm not sure what the objection was.\n6 MS. COMEY: The objection was that it is not inconsistent with the witness's testimony, your Honor. I believe your Honor sustained that objection.\n9 THE COURT: That's what I'm hearing you on now.\n10 Mr. Pagliuca, you're seeking the admission of the whole document?\n11 MR. PAGLIUCA: I am, your Honor. Alternatively, the factual paragraphs. This does not have a lot of legalese in it. It didn't seem to be too complicated to me.\n15 THE COURT: Okay. So let's pick up the first factual paragraph.\n17 So just by way of background, you inquired about this document and asked if Ms. Maxwell is mentioned anywhere in the complaint; correct?\n20 MR. PAGLIUCA: Yes.\n21 THE COURT: And the answer to that was no?\n22 MR. PAGLIUCA: Correct.\n23 THE COURT: So what I think we then need is to take individual statements to determine if there is some inconsistency with the testimony. So point me to the first\nSOUTHERN DISTRICT REPTERS, P.C. (212) 805-0300\nDOJ-OGR-00013209",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 753 Filed 08/10/22 Page 196 of 264 1637",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "LC7Cmax6 Carolyn - cross",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "(Jury not present) ... So point me to the first",
+      "position": "main body"
+    },
+    {
+      "type": "printed",
+      "content": "SOUTHERN DISTRICT REPTERS, P.C. (212) 805-0300",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00013209",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "PAGLIUCA",
+      "COMEY",
+      "Maxwell"
+    ],
+    "organizations": [
+      "SOUTHERN DISTRICT REPTERS, P.C."
+    ],
+    "locations": [],
+    "dates": [
+      "08/10/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "753",
+      "DOJ-OGR-00013209"
+    ]
+  },
+  "additional_notes": "The document appears to be a court transcript with some handwritten notes in the header. The text is mostly clear, but there may be some minor issues with OCR accuracy due to the font and formatting."
+}

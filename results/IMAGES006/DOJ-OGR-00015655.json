@@ -1,0 +1,52 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "337",
+    "date": null,
+    "document_type": "Government Exhibit",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "EXIT NO SMOKING in lavatory EXIT GOVERNMENT EXHIBIT 337 S2 20 Cr. 330 (AJN) DOJ-OGR-00015655",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "EXIT",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "NO SMOKING in lavatory",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "EXIT",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 337 S2 20 Cr. 330 (AJN)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015655",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "337",
+      "S2 20 Cr. 330 (AJN)",
+      "DOJ-OGR-00015655"
+    ]
+  },
+  "additional_notes": "The image appears to be a photograph of a person on an airplane, with a government exhibit stamp on the bottom right corner. The stamp indicates that this is a government exhibit with the number 337, related to a court case S2 20 Cr. 330 (AJN)."
+}

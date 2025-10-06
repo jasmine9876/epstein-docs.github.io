@@ -1,0 +1,90 @@
+{
+  "document_metadata": {
+    "page_number": "64",
+    "document_number": "DOJ-OGR-00015861",
+    "date": null,
+    "document_type": "Pilot Logbook Page",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Piloted Aircraft Make and Model Aircraft Identification Aircraft Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... 3/23 206L3 500JP PMP-Norwalk-PMP 6 3/24 206L3 500JP PMP-SNA-ZIS-AMP 22 3/24 206L3 500JP PMP-XS1-PMP 15 3/25 G1159B N908JC TGB PBI 125 1.5 3/26 206L3 500JP PMP-LNA-PMP 20 3/27 206L3 500JP PMP-PHK-PMP 16 3/27 G1159B N908JC PBI TIST 126 23 3/29 11 TIST PBI 127 29 3/30 11 PBI TGB 128 25 3/31 11 TGB TIST 129 35 3/31 11 TIST PBI 130 27 4/2 11 PBI ABQ 131 40 4/4 11 ABQ TGB 132 35 4/5 206L3 500JP PMP PMP 6 4/5 206L3 500JP PMP-LA-PMP 12 4/6 206L3 500JP PMP-BCK-PMP 17 4/7 206L3 500JP PMP PMP 26 4/8 G1159B N908JC TGB PBI 133 23 4/10 206L3 500JP PMP-LAX-PBI-PMP 19 I certify that the statements made by me on this form are true. Pilot's Signature David Wodger Page Total 87 262 158 Amount Forward 6140 74568 33 323 Total to Date 6598 74830 33 481",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Piloted Aircraft Make and Model Aircraft Identification Aircraft Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "3/23 206L3 500JP PMP-Norwalk-PMP 6 3/24 206L3 500JP PMP-SNA-ZIS-AMP 22 3/24 206L3 500JP PMP-XS1-PMP 15 3/25 G1159B N908JC TGB PBI 125 1.5 3/26 206L3 500JP PMP-LNA-PMP 20 3/27 206L3 500JP PMP-PHK-PMP 16 3/27 G1159B N908JC PBI TIST 126 23 3/29 11 TIST PBI 127 29 3/30 11 PBI TGB 128 25 3/31 11 TGB TIST 129 35 3/31 11 TIST PBI 130 27 4/2 11 PBI ABQ 131 40 4/4 11 ABQ TGB 132 35 4/5 206L3 500JP PMP PMP 6 4/5 206L3 500JP PMP-LA-PMP 12 4/6 206L3 500JP PMP-BCK-PMP 17 4/7 206L3 500JP PMP PMP 26 4/8 G1159B N908JC TGB PBI 133 23 4/10 206L3 500JP PMP-LAX-PBI-PMP 19",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "I certify that the statements made by me on this form are true.",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "David Wodger",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "87 262 158 6140 74568 33 323 6598 74830 33 481",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Wodger"
+    ],
+    "organizations": [],
+    "locations": [
+      "PMP",
+      "Norwalk",
+      "SNA",
+      "ZIS",
+      "AMP",
+      "XS1",
+      "TGB",
+      "PBI",
+      "LNA",
+      "PHK",
+      "TIST",
+      "ABQ",
+      "LA",
+      "BCK",
+      "LAX"
+    ],
+    "dates": [
+      "3/23",
+      "3/24",
+      "3/25",
+      "3/26",
+      "3/27",
+      "3/29",
+      "3/30",
+      "3/31",
+      "4/2",
+      "4/4",
+      "4/5",
+      "4/6",
+      "4/7",
+      "4/8",
+      "4/10"
+    ],
+    "reference_numbers": [
+      "500JP",
+      "N908JC",
+      "500JP",
+      "N908JC"
+    ]
+  },
+  "additional_notes": "The document is a pilot logbook page with handwritten entries. The page is filled with flight records, including dates, aircraft information, and flight details. The pilot's signature is present at the bottom of the page."
+}

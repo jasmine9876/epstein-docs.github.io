@@ -1,0 +1,43 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00015645",
+    "date": null,
+    "document_type": "Government Exhibit",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "GOVERNMENT EXHIBIT 323 S2 20 Cr. 330 (AJN) DOJ-OGR-00015645",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "GOVERNMENT EXHIBIT 323",
+      "position": "bottom right"
+    },
+    {
+      "type": "printed",
+      "content": "S2 20 Cr. 330 (AJN)",
+      "position": "bottom right"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015645",
+      "position": "bottom right"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ",
+      "OGR"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00015645",
+      "S2 20 Cr. 330 (AJN)",
+      "323"
+    ]
+  },
+  "additional_notes": "The image is an aerial photograph of a large estate. The text is limited to the exhibit label in the bottom right corner."
+}

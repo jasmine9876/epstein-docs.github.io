@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "IMPORTANT MESSAGE FOR MR Epstein DATE 02/03/03 TIME 12456 A.M. P.M. M Tony OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Please Return your call SIGNED Eve 1184 IMPORTANT MESSAGE FOR JE Epstein DATE 02/03/03 TIME 12:46 A.M. P.M. M Miss Rva OF PHONE 0192 664 AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED Eve 1184 IMPORTANT MESSAGE FOR JE DATE 3/02/02 TIME 15h00 A.M. P.M. M EVA OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 1184 IMPORTANT MESSAGE FOR DATE TIME A.M. P.M. M Sara OF 91- PHONE 733 AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Sro SIGNED GOVERNMENT EXHIBIT 2-I-R 52 20 Cr. 330 (AJN) 1184 DOJ-OGR-00015477",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "MR Epstein 02/03/03 12456 Tony Please Return your call Eve",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "JE Epstein 02/03/03 12:46 Miss Rva 0192 664 Eve",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "JE 3/02/02 15h00 EVA",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Sara 91- 733 Sro",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 2-I-R 52 20 Cr. 330 (AJN)",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "MR Epstein",
+      "Tony",
+      "Eve",
+      "JE Epstein",
+      "Miss Rva",
+      "Sara"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "02/03/03",
+      "3/02/02"
+    ],
+    "reference_numbers": [
+      "0192 664",
+      "91- 733",
+      "52 20 Cr. 330 (AJN)",
+      "DOJ-OGR-00015477"
+    ]
+  },
+  "additional_notes": "The document appears to be a collection of 'Important Message' forms, likely used for recording phone messages or visitor information. The forms are filled out with various handwritten notes and contain different dates and names. One of the forms has a stamp indicating it is a 'GOVERNMENT EXHIBIT' with a reference number."
+}

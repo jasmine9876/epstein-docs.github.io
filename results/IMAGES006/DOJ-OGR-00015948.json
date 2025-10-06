@@ -1,0 +1,85 @@
+{
+  "document_metadata": {
+    "page_number": "33",
+    "document_number": "DOJ-OGR-00015948",
+    "date": null,
+    "document_type": "Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... 1945 JAN 23 G1159B N908JC TEB CMH 643 JG 1/1 12 23 \" CMH TEB 644 JG 14 28 \" TEB DCA 645 JG, LUBA 1/1 7 28 \" DCA IAD 646 REPOSITION 2 28 \" IAD CMH 647 REPOSITION 7 28 \" CMH PBI 648 JG 20 1-30-25 \" SIMULATED G1159 RECURRENT TRAINING - SAV 60 24 FEB 6 \" N908JC PBI TEB 651 JG, ANDY STEWART 1/1 24 9 \" TEB BOS 652 GM, ANDY 1/1 7 9 \" BOS TEB 653 GM ANDY, HENRY ROSOVSKY 10 9 \" TEB PBI 654 JG, GM, ANDY, HENRY ROSOVSKY,LUCIA 23 12 \" PBI TEB 655 JG, GM, ANDY, HENRY ROSOVSKY 23 12 \" TEB BOS 656 HENRY ROSOVSKY 3 12 \" BOS SAV 657 REPOSITION FOR 9 MONTH INSPECTION 23 MAR 1 \" SAV TEB 658 REPOSITION 1/1 15 1 \" TEB SAF 659 JG, GM, ANDY, JACK 41 2 \" SAF PBI 660 JG, GM, ANDY 29 6 \" PBI TEB 661 JG, GM, ANDY JSM WITNESSED 1/1 23 7 \" TEB SAV 662 REPOSITION FOR NOSE GEAR DUE 1/1 26 I certify that the statements made by me on this form are true. David Rodgers Pilot's Signature Page Total 3/6 374 Amount Forward 25541 63413 Total to Date 5762 5547 63787",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "1945 JAN 23 G1159B N908JC TEB CMH 643 JG 1/1 12 ...",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. David Rodgers",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rodgers",
+      "Andy Stewart",
+      "Henry Rosovsky",
+      "Jack",
+      "Andy",
+      "Lucia"
+    ],
+    "organizations": [],
+    "locations": [
+      "TEB",
+      "CMH",
+      "DCA",
+      "IAD",
+      "PBI",
+      "BOS",
+      "SAV",
+      "SAF"
+    ],
+    "dates": [
+      "1945 JAN 23",
+      "1-30-25",
+      "FEB 6",
+      "9",
+      "12",
+      "MAR 1",
+      "1",
+      "2",
+      "6",
+      "7"
+    ],
+    "reference_numbers": [
+      "G1159B",
+      "N908JC",
+      "643",
+      "644",
+      "645",
+      "646",
+      "647",
+      "648",
+      "651",
+      "652",
+      "653",
+      "654",
+      "655",
+      "656",
+      "657",
+      "658",
+      "659",
+      "660",
+      "661",
+      "662",
+      "DOJ-OGR-00015948"
+    ]
+  },
+  "additional_notes": "The document is a flight log with handwritten entries. The pilot's signature is present at the bottom."
+}

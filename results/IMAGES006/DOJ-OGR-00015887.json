@@ -1,0 +1,88 @@
+{
+  "document_metadata": {
+    "page_number": "90",
+    "document_number": "DOJ-OGR-00015887",
+    "date": "2002",
+    "document_type": "Pilot's Logbook Page",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... AIRPLANE GLIDER HELICOPTER JAN 15 B-727-31 N909RJ LGA BED 47 V1 1 15 \" \" \" BED HPN 48 1 8 17 \" \" \" HPN TST 49 34 20 \" \" \" TST PBI 50 KSFO 26 22 \" \" \" PBI HPN 51 V 25 2 5 25 \" \" \" HPN PBI 52 27 27 \" \" \" PBI TST 53 24 30 \" \" \" TST JFK 54 37 FEB 5 \" \" \" JFK PBI 55 V1 28 9 \" \" \" PBI MIA 56 3 9 \" \" \" MIA HPN 57 26 10 \" \" \" HPN LFPB 58 V1 65 13 \" \" \" LFPB ESSA 59 22 14 \" \" \" ESSA LEML 60 24 15 \" \" \" LEML EGGW 61 18 15 \" \" \" EGGW BGR 62 72 16 \" \" \" BGR PBI 63 35 18 G-1159A N909RJ PBI ABY 559 1 1 14 18 \" \" \" ABY PBI 560 1 1 11 I certify that the statements made by me on this form are true. Pilot's Signature David Rodriguez Page Total 10 7 51 0 Amount Forward 6597 6163 8490 99 33112 6 Total to Date 6577 6169 8541 9 33112 6",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... AIRPLANE GLIDER HELICOPTER",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "JAN 15 B-727-31 N909RJ LGA BED 47 V1 1 ... FEB 18 \" \" \" ABY PBI 560 1 1 11",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "David Rodriguez",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "10 7 51 0 6597 6163 8490 99 33112 6 6577 6169 8541 9 33112 6",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rodriguez"
+    ],
+    "organizations": [],
+    "locations": [
+      "LGA",
+      "BED",
+      "HPN",
+      "TST",
+      "PBI",
+      "JFK",
+      "MIA",
+      "LFPB",
+      "ESSA",
+      "LEML",
+      "EGGW",
+      "BGR",
+      "ABY",
+      "KSFO"
+    ],
+    "dates": [
+      "JAN 15",
+      "JAN 17",
+      "JAN 20",
+      "JAN 22",
+      "JAN 25",
+      "JAN 27",
+      "JAN 30",
+      "FEB 5",
+      "FEB 9",
+      "FEB 10",
+      "FEB 13",
+      "FEB 14",
+      "FEB 15",
+      "FEB 16",
+      "FEB 18"
+    ],
+    "reference_numbers": [
+      "N909RJ",
+      "G-1159A",
+      "DOJ-OGR-00015887"
+    ]
+  },
+  "additional_notes": "The document is a photocopy of a pilot's logbook page with handwritten entries. The image quality is generally good, but some handwritten text is difficult to read due to the quality of the scan or photocopy."
+}

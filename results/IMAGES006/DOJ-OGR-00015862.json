@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "65",
+    "document_number": "DOJ-OGR-00015862",
+    "date": "1819",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date 1819 Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... From To 11 G1159B N908JC PBI TGB 1224 1 3 2 13 206L-3 N908JC PMP \" 14 206L-3 N908JC PMP \" 16 G1159B N908JC TGB PBI/MVY 1225 1 7 16 G1159B \" MVY BOS 1216 1 5 16 \" BOS PBI 1227 1 3 1 20 \" PBI TIST 1228 1 2 4 25 \" TIST TGB 1229 1 4 0 27 \" TGB TIST 1230 1 3 4 3/2 \" TIST TGB 1231 1/0 3 7 6 \" TGB PBI 122 1 2 3 27 206L-3 N908JA PBI PBI 9 1 7 \" PBI-LNA-PBI 1 7 \" PBI PMP 8 1 8 \" PMP-LNA-PBI 1 8 \" PBI-LNA-PMP 1 10 G1159B N908JC PBI BED 1233 1 2 4 10 \" BED TGB 1234 1 2 9 16 206L-3 N908JA PMP PMP I certify that the statements made by me on this form are true. Pilot's Signature David Wilefen Page Total 24 269 Amount Forward 6198 14830 33 481 Total to Date 6787 75094 313 595",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date 1819 Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "11 G1159B N908JC PBI TGB 1224 1 3 2 13 206L-3 N908JC PMP \" 14 206L-3 N908JC PMP \" 16 G1159B N908JC TGB PBI/MVY 1225 1 7 16 G1159B \" MVY BOS 1216 1 5 16 \" BOS PBI 1227 1 3 1 20 \" PBI TIST 1228 1 2 4 25 \" TIST TGB 1229 1 4 0 27 \" TGB TIST 1230 1 3 4 3/2 \" TIST TGB 1231 1/0 3 7 6 \" TGB PBI 122 1 2 3 27 206L-3 N908JA PBI PBI 9 1 7 \" PBI-LNA-PBI 1 7 \" PBI PMP 8 1 8 \" PMP-LNA-PBI 1 8 \" PBI-LNA-PMP 1 10 G1159B N908JC PBI BED 1233 1 2 4 10 \" BED TGB 1234 1 2 9 16 206L-3 N908JA PMP PMP",
+      "position": "main"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. David Wilefen",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Pilot's Signature",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "Page Total 24 269 Amount Forward 6198 14830 33 481 Total to Date 6787 75094 313 595",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Wilefen"
+    ],
+    "organizations": [],
+    "locations": [
+      "PBI",
+      "TGB",
+      "PMP",
+      "MVY",
+      "BOS",
+      "TIST",
+      "LNA",
+      "BED"
+    ],
+    "dates": [
+      "1819"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00015862",
+      "N908JC",
+      "N908JA",
+      "G1159B",
+      "206L-3"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The image is mostly clear, but there is a black rectangle covering part of the 'Remarks, Procedures, Maneuvers, Endorsements' column."
+}

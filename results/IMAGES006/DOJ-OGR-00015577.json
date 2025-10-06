@@ -1,0 +1,37 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "photograph",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "GOVERNMENT EXHIBIT 236 S2 20 Cr. 330 (AJN) DOJ-OGR-00015577",
+  "text_blocks": [
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 236 S2 20 Cr. 330 (AJN)",
+      "position": "bottom right"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015577",
+      "position": "bottom right"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Department of Justice"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00015577",
+      "S2 20 Cr. 330 (AJN)",
+      "236"
+    ]
+  },
+  "additional_notes": "The image is a photograph of an office interior. The text is found in a yellow stamp at the bottom right corner of the image."
+}

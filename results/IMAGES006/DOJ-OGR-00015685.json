@@ -1,0 +1,71 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": "8/27/06",
+    "document_type": "product label",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "BODYWORK EMPORIUM 414 BROADWAY SANTA MONICA, CA 90401 (310) 394-4475 EARTHLITE 3213 Executive Ridge Dr * Vista, California 92083 800-872-0560 / 760-599-1111 T 131634 Massage Table Number: Model: SPIRIT Color: TEAL DS Description: 32\" RX / SHIATSU Production Date: 8/27/06 Ins. by: enjp Dealer Information Manufactured For: Bodywork Emporium Santa Monica: (310) 394-4475 Costa Mesa: (714) 548-0220 Sherman Oaks: (818) 990-6155 Leucadia: (760) 942-9585 San Diego: (619) 276-2608 UL LISTED EASA 450 Pound Maximum Working Weight GOVERNMENT EXHIBIT 51-B S2 20 Cr. 330 (AJN) DOJ-OGR-00015685",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "BODYWORK EMPORIUM 414 BROADWAY SANTA MONICA, CA 90401 (310) 394-4475",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "EARTHLITE 3213 Executive Ridge Dr * Vista, California 92083 800-872-0560 / 760-599-1111 T 131634",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Massage Table Number: Model: Color: Description: Production Date: Ins. by: Dealer Information Manufactured For: Bodywork Emporium",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "SPIRIT TEAL DS 32\" RX / SHIATSU 8/27/06 enjp",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Santa Monica: (310) 394-4475 Costa Mesa: (714) 548-0220 Sherman Oaks: (818) 990-6155 Leucadia: (760) 942-9585 San Diego: (619) 276-2608 UL LISTED EASA 450 Pound Maximum Working Weight",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 51-B S2 20 Cr. 330 (AJN)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015685",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "BODYWORK EMPORIUM",
+      "EARTHLITE"
+    ],
+    "locations": [
+      "SANTA MONICA, CA",
+      "Vista, California",
+      "Costa Mesa",
+      "Sherman Oaks",
+      "Leucadia",
+      "San Diego"
+    ],
+    "dates": [
+      "8/27/06"
+    ],
+    "reference_numbers": [
+      "T 131634",
+      "DOJ-OGR-00015685"
+    ]
+  },
+  "additional_notes": "The image appears to be a product label on a massage table. The label contains both printed and handwritten text. There is a government exhibit stamp in the bottom-right corner."
+}

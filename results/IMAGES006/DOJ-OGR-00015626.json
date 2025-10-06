@@ -1,0 +1,68 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "298",
+    "date": "2-4-98",
+    "document_type": "Floor Plan",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "GOVERNMENT EXHIBIT 298 S2 20 Cr. 330 (AJN) EPSTEIN RESIDENCE 358 El Brillo Way Palm Beach, Florida ROGER WM. SAHLI ARCHITECT 53 EAST OCEAN AVENUE SUITE 305 WEST PALM BEACH, FLORIDA 33401 PHONE 561 833 5054 FAX 561 833 9196 MICHAEL J. JOHNSON ASSOCIATED ARCHITECT 1137 CLARE AVENUE WEST PALM BEACH, FLA. DRAWING TITLE FIRST FLOOR PLAN DRAWING NO. A-1 SCALE 1/4\" = 1'-0\" DATE 2-4-98 PROJECT NO. DOJ-OGR-00015626",
+  "text_blocks": [
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 298 S2 20 Cr. 330 (AJN)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "EPSTEIN RESIDENCE 358 El Brillo Way Palm Beach, Florida",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "ROGER WM. SAHLI ARCHITECT 53 EAST OCEAN AVENUE SUITE 305 WEST PALM BEACH, FLORIDA 33401 PHONE 561 833 5054 FAX 561 833 9196",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "MICHAEL J. JOHNSON ASSOCIATED ARCHITECT 1137 CLARE AVENUE WEST PALM BEACH, FLA.",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DRAWING TITLE FIRST FLOOR PLAN DRAWING NO. A-1 SCALE 1/4\" = 1'-0\" DATE 2-4-98 PROJECT NO.",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "Various handwritten notes on the floor plan",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein",
+      "Roger Wm. Sahli",
+      "Michael J. Johnson"
+    ],
+    "organizations": [],
+    "locations": [
+      "Palm Beach",
+      "Florida",
+      "West Palm Beach",
+      "El Brillo Way",
+      "East Ocean Avenue",
+      "Clare Avenue"
+    ],
+    "dates": [
+      "2-4-98"
+    ],
+    "reference_numbers": [
+      "298",
+      "S2 20 Cr. 330 (AJN)",
+      "DOJ-OGR-00015626"
+    ]
+  },
+  "additional_notes": "The document is a floor plan of Epstein's residence with various handwritten notes. The stamp indicates it is a government exhibit."
+}

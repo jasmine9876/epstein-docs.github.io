@@ -1,0 +1,69 @@
+{
+  "document_metadata": {
+    "page_number": "75",
+    "document_number": "DOJ-OGR-00015990",
+    "date": null,
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date 29&30 Jul Aircraft Make and Model G-1159B Aircraft Identification Mark N908JC Points of Departure & Arrival From To Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... 30 PBI TIST 1356 Reposition 1/1 2 8 30 TIST PBI 1357 JG,GM,ET,AP,Sophie Biddle 2 5 31 PBI TCB 1358 ET,AP,GM,Sophie Biddle 1/1 2 5 5 TCB LFPB 1359 JG,GM /1 6 9 6 LFPB LIEO 120 JG,GM 1/1 2 6 9 LIEO GMMX 134 JG,GM V1 2 9 11 GMMX GMFF 142 JK,GM 1/1 1 9 11 GMFF LGBB 1363 JG,GM 1/1 1 9 11 LGBB EGGW 1364 JG,GM V1 1 7 12 EGGW EGAA 1365 JG,GM V1 1 6 12 EGAA BGR 136 JG,GM 1/1 6 4 12 BGR TCB 1367 JG,GM 1/1 1 1 14 TCB PBI 1368 JG,Shelley Lewis 1/1 2 5 19 PBI TCB 1369 JG,Shelley Lewis 1/1 2 5 19 TCB SAF 1370 JG,GM,ET,AP,Sophie,Jamie 1/1 4 1 Aug 29 Simulation JFK JFK 3 9 3 JFK TCB-SWF 4 0 4 JFK-SWF-JFK 4 1 21 PBI SAF 1378 JG,GM,ET,AP 1/1 3 5 I certify that the statements made by me on this form are true. Pilot's Signature: David Redlinger Page Total 127 51 2 Amount Forward 6306 7818.7 3 3 112.6 Total to Date 6318 7875.9 3 3 112.6",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date 29&30 Jul",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "David Redlinger",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Redlinger",
+      "Sophie Biddle",
+      "Shelley Lewis",
+      "Jamie"
+    ],
+    "organizations": [],
+    "locations": [
+      "PBI",
+      "TIST",
+      "TCB",
+      "LFPB",
+      "LIEO",
+      "GMMX",
+      "GMFF",
+      "LGBB",
+      "EGGW",
+      "EGAA",
+      "BGR",
+      "JFK",
+      "SAF",
+      "SWF"
+    ],
+    "dates": [
+      "29&30 Jul",
+      "31 Jul",
+      "5",
+      "6",
+      "9",
+      "11",
+      "12",
+      "14",
+      "19",
+      "29 Aug",
+      "3",
+      "4",
+      "21"
+    ],
+    "reference_numbers": [
+      "N908JC",
+      "G-1159B",
+      "DOJ-OGR-00015990"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The log includes details such as flight dates, aircraft identification, departure and arrival points, miles flown, and remarks. The pilot's signature is present at the bottom of the page."
+}

@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": "254",
+    "document_number": "745",
+    "date": "08/10/22",
+    "document_type": "court transcript",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 745 Filed 08/10/22 Page 254 of 264 665 LC1VMAX7 Besselsen - direct 1 Ms. Sternheim? 2 MS. STERNHEIM: No objection. 3 THE COURT: And you said 744? 4 MR. ROHRBACH: 744. 5 THE COURT: You may look at in the large binder, 6 GX-744, please. 7 BY MR. ROHRBACH: 8 Q. Mr. Besselsen, you testified earlier that you generated this record from Interlochen's database? 9 10 A. Yes. 11 Q. How did you do that? 12 A. I logged into Salesforce and went to the reports section in Salesforce and modified the filters. This is a report that -- 13 14 the title of the report is MJS Report. Went to that report and created these filters that you see at the top, the last name. 15 16 Q. Just to be clear, without saying the last name, is that the filter you ran to generate this report? 17 18 A. Yes. 19 Q. Thank you, Mr. Besselsen. 20 21 What does this report show about people with this last name's attendance at Interlochen? 22 A. It shows which -- which years that they came to either the 23 arts camp, which is the education type, the far right column. 24 And that would be the summer then, if it relates to arts camp. 25 So the summer of '94, '95, and '96. And then the arts academy SOUTHERN DISTRICT REPORTERS, P.C. (212) 805-0300 DOJ-OGR-00017863",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 745 Filed 08/10/22 Page 254 of 264 665 LC1VMAX7 Besselsen - direct",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "1 Ms. Sternheim? 2 MS. STERNHEIM: No objection. 3 THE COURT: And you said 744? 4 MR. ROHRBACH: 744. 5 THE COURT: You may look at in the large binder, 6 GX-744, please. 7 BY MR. ROHRBACH: 8 Q. Mr. Besselsen, you testified earlier that you generated this record from Interlochen's database? 9 10 A. Yes. 11 Q. How did you do that? 12 A. I logged into Salesforce and went to the reports section in Salesforce and modified the filters. This is a report that -- 13 14 the title of the report is MJS Report. Went to that report and created these filters that you see at the top, the last name. 15 16 Q. Just to be clear, without saying the last name, is that the filter you ran to generate this report? 17 18 A. Yes. 19 Q. Thank you, Mr. Besselsen. 20 21 What does this report show about people with this last name's attendance at Interlochen? 22 A. It shows which -- which years that they came to either the 23 arts camp, which is the education type, the far right column. 24 And that would be the summer then, if it relates to arts camp. 25 So the summer of '94, '95, and '96. And then the arts academy",
+      "position": "main"
+    },
+    {
+      "type": "printed",
+      "content": "SOUTHERN DISTRICT REPORTERS, P.C. (212) 805-0300",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00017863",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Sternheim",
+      "Besselsen",
+      "Rohrbach"
+    ],
+    "organizations": [
+      "Interlochen",
+      "Salesforce",
+      "SOUTHERN DISTRICT REPORTERS, P.C."
+    ],
+    "locations": [],
+    "dates": [
+      "08/10/22",
+      "'94",
+      "'95",
+      "'96"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "745",
+      "254",
+      "264",
+      "665",
+      "LC1VMAX7",
+      "744",
+      "GX-744",
+      "DOJ-OGR-00017863"
+    ]
+  },
+  "additional_notes": "The document appears to be a court transcript with a clear and readable format. There are no visible redactions or damage."
+}

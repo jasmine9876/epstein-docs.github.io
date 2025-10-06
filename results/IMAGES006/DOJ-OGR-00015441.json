@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": "14 of 15",
+    "document_number": "4-495-33932",
+    "date": "Dec 16, 2002",
+    "document_type": "Invoice",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Invoice Number: 4-495-33932 Invoice Date: Dec 16, 2002 Account Number: 1144-2081-6 Page: 14 of 15 FedEx Ground Prepaid Detail Purchase Order Number Customer Reference Tracking D Svc Code Dest Zip Zone Weight Base Charge Other Charge Total Charge Pickup Date: 12/05 068 27571000358 019 94538 008 3.0 5.15 0.06(35) 5.21 CONFIDENTIAL SDNY_GM_00340793 132 DOJ-OGR-00015441",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Invoice Number: 4-495-33932 Invoice Date: Dec 16, 2002 Account Number: 1144-2081-6 Page: 14 of 15",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "FedEx Ground Prepaid Detail Purchase Order Number Customer Reference Tracking D Svc Code Dest Zip Zone Weight Base Charge Other Charge Total Charge",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Pickup Date: 12/05 068 27571000358 019 94538 008 3.0 5.15 0.06(35) 5.21",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "SDNY_GM_00340793 132 DOJ-OGR-00015441",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "FedEx"
+    ],
+    "locations": [],
+    "dates": [
+      "Dec 16, 2002",
+      "12/05"
+    ],
+    "reference_numbers": [
+      "4-495-33932",
+      "1144-2081-6",
+      "068 27571000358",
+      "SDNY_GM_00340793",
+      "DOJ-OGR-00015441"
+    ]
+  },
+  "additional_notes": "The document is marked as 'CONFIDENTIAL' and contains a FedEx invoice with details about a shipment."
+}

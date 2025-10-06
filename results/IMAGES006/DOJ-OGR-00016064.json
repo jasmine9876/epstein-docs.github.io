@@ -1,0 +1,78 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "4-495-75031",
+    "date": "Dec 23, 2002",
+    "document_type": "Invoice",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "FedEx\nJEFFREY E EPSTEIN\n457 MADISON AVE\nNEW YORK NY 10022 6843\nBilling Account Shipping Address:\nJEFFREY E EPSTEIN\n457 MADISON AVE\nNEW YORK NY 10022 6843 US\nInvoice Number: 4-495-75031\nInvoice Date: Dec 23, 2002\nAccount Number: 1144 2081 6\nPage: 1 of 21\nFedEx Tax ID: 71-0427007\nInvoice Questions?\nContact FedEx Revenue Services\nPhone: (800) 622 1147 M F 7 6 (CST)\nFax: (800) 548 3020\nInternet: www.fedex.com\nInvoice Summary Dec 23, 2002\nFedEx Express Services\nTransportation Charges 683.05\nBase Discount 73.84\nSpecial Handling Charges 126.78\nTotal Charges USD $. 735.99\nFedEx Ground Services\nBase Charges 2015\nOther Charges 16.25\nTotal Charges USD $ 36.40\nTOTAL THIS INVOICE USD $ 772.39\nYou saved $73.84 in discounts this period!\nThe FedEx Ground accounts referenced in this invoice have been transferred and assigned to, are owned by, and are payable to FedEx Express.\nTo ensure proper credit, please return this portion with your payment to FedEx.\nPlease do not staple or fold. Please make your check payable to FedEx.\nFor change of address, check here and complete form on reverse side.\nRemittance Advice\nYour payment is due by Jan 07, 2003\nInvoice Number | Account Number | Amount Due\n4 495 75031 | 1144 2081 6 | USD $ 772.39\n1 1 4 4 2 0 8 1 4 4 9 5 7 5 0 3 3 1 9 3 0 0 0 0 7 7 2 3 9 2 4\nSP01 000001 9782 A 1 ASNGLP\nJEFFREY E EPSTEIN\n457 MADISON AVE\nNEW YORK NY 100226843\nFedEx\nP.O. Box 371461\nPittsburgh PA 15250 7461\nGOVERNMENT EXHIBIT 802-R S2 20 Cr. 330 (AJN)\nDOJ-OGR-00016064",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "JEFFREY E EPSTEIN\n457 MADISON AVE\nNEW YORK NY 10022 6843",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Number: 4-495-75031\nInvoice Date: Dec 23, 2002\nAccount Number: 1144 2081 6\nPage: 1 of 21\nFedEx Tax ID: 71-0427007",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Summary Dec 23, 2002",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TOTAL THIS INVOICE USD $ 772.39",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Remittance Advice\nYour payment is due by Jan 07, 2003",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "JEFFREY E EPSTEIN\n457 MADISON AVE\nNEW YORK NY 100226843",
+      "position": "bottom"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 802-R S2 20 Cr. 330 (AJN)\nDOJ-OGR-00016064",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY E EPSTEIN"
+    ],
+    "organizations": [
+      "FedEx"
+    ],
+    "locations": [
+      "NEW YORK",
+      "Pittsburgh"
+    ],
+    "dates": [
+      "Dec 23, 2002",
+      "Jan 07, 2003"
+    ],
+    "reference_numbers": [
+      "4-495-75031",
+      "1144 2081 6",
+      "71-0427007",
+      "802-R",
+      "S2 20 Cr. 330 (AJN)",
+      "DOJ-OGR-00016064"
+    ]
+  },
+  "additional_notes": "The document is a FedEx invoice with a stamp indicating it is a government exhibit."
+}

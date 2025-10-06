@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": "21",
+    "document_number": "DOJ-OGR-00015801",
+    "date": "1991",
+    "document_type": "Pilot's Logbook Page",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE 1991 AIRCRAFT MAKE AND MODEL AIRCRAFT IDENTIFICATION MARK POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FLOWN FLT. NO. REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS NO. LDG. AIRCRAFT CATEGORY AIRPLANE COMPLEX TURBINE 30 HS25-20 N1685G CMH TEB 41 1 13 13 1 25 C172 CMH CMH 1 1 1 24 HS25-700 N405SC TEB BKL 28 42 27 27 2 5 11 N11 BKL CMH 1 44 1 5 5 7 11 CMH TEB 50 45 12 12 1 10 11 TEB TEB 40 46 10 10 1 11 11 TEB DCA 145 47 8 8 8 11 DCA CMH 1 48 1 9 9 12 11 BXL 60 49 5 5 5 12 11 BXL CMH 1 50 1 5 5 14 11 CMH BKL 65 51 4 4 4 14 11 BXL TEB 1 52 11 11 11 15 11 TEB CMH 40 53 12 12 1 19 11 CMH BKL 50 54 4 4 4 20 11 BKL TEB 1 55 10 10 1 20 11 TEB B05 1 56 15 15 20 11 B05 TEB 1 57 7 7 I certify that the statements made by me on this form are true. PILOT'S SIGNATURE David Rockyn PAGE TOTAL 180 175 17 AMT. FORWARD 5439 3798 1742 TOTAL TO DATE 5627 5437 3800 1749",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE 1991 AIRCRAFT MAKE AND MODEL AIRCRAFT IDENTIFICATION MARK POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FLOWN FLT. NO. REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS NO. LDG. AIRCRAFT CATEGORY AIRPLANE COMPLEX TURBINE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "30 HS25-20 N1685G CMH TEB 41 1 13 13 1 25 C172 CMH CMH 1 1 1 24 HS25-700 N405SC TEB BKL 28 42 27 27 2 5 11 N11 BKL CMH 1 44 1 5 5 7 11 CMH TEB 50 45 12 12 1 10 11 TEB TEB 40 46 10 10 1 11 11 TEB DCA 145 47 8 8 8 11 DCA CMH 1 48 1 9 9 12 11 BXL 60 49 5 5 5 12 11 BXL CMH 1 50 1 5 5 14 11 CMH BKL 65 51 4 4 4 14 11 BXL TEB 1 52 11 11 11 15 11 TEB CMH 40 53 12 12 1 19 11 CMH BKL 50 54 4 4 4 20 11 BKL TEB 1 55 10 10 1 20 11 TEB B05 1 56 15 15 20 11 B05 TEB 1 57 7 7",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "I certify that the statements made by me on this form are true. PILOT'S SIGNATURE",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "David Rockyn",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE TOTAL AMT. FORWARD TOTAL TO DATE",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "180 175 17 5439 3798 1742 5627 5437 3800 1749",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rockyn"
+    ],
+    "organizations": [],
+    "locations": [
+      "CMH",
+      "TEB",
+      "BKL",
+      "DCA",
+      "BXL",
+      "B05"
+    ],
+    "dates": [
+      "1991"
+    ],
+    "reference_numbers": [
+      "N1685G",
+      "N405SC",
+      "DOJ-OGR-00015801"
+    ]
+  },
+  "additional_notes": "The document is a pilot's logbook page with handwritten entries. The page is numbered 21 and has a document number DOJ-OGR-00015801."
+}

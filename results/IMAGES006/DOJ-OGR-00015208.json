@@ -1,0 +1,84 @@
+{
+  "document_metadata": {
+    "page_number": "2/3",
+    "document_number": null,
+    "date": "7/19/2021",
+    "document_type": "Student Info",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "7/19/2021 Student Info Race: White N - No Race: Black or African American N - No Race: Asian N - No Race: American Indian or Alaska Native N - No Race: Native Hawaiian or Other Pacific Islander N - No Language Information Home Language Survey Date 06/15/2000 Is a language other than English used in the home? Does the Student have a first language other than English? Does the Student most frequently speak a language other than English? Parent Language EN - English Student Language EN - English Preferred Oral Language Preferred Written Language EN - English Dual Language Has Dual Lang Dual Language No Records Found Permissions Publish Block Flag (Do Not Release Info) Military Publish Block Permission to Photo/video Permission for Activity Permission to Survey Permission for Internet Permission for Directory Information Permission for Sodium Fluoride Participation Miscellaneous https://sis.palmbeachschools.org/focus/Modules.php?modname=Students/Student.php&search_modfunc=result&student_id=DOJ Redacted&LO_index=1&school_id=549#125 2/3 DOJ-OGR-00015208",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "7/19/2021",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Student Info",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Race: White N - No Race: Black or African American N - No Race: Asian N - No Race: American Indian or Alaska Native N - No Race: Native Hawaiian or Other Pacific Islander N - No",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Language Information",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Home Language Survey Date 06/15/2000 Is a language other than English used in the home? Does the Student have a first language other than English? Does the Student most frequently speak a language other than English? Parent Language EN - English Student Language EN - English Preferred Oral Language Preferred Written Language EN - English",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Dual Language Has Dual Lang Dual Language No Records Found",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Permissions Publish Block Flag (Do Not Release Info) Military Publish Block Permission to Photo/video Permission for Activity Permission to Survey Permission for Internet Permission for Directory Information Permission for Sodium Fluoride Participation",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Miscellaneous",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "https://sis.palmbeachschools.org/focus/Modules.php?modname=Students/Student.php&search_modfunc=result&student_id=DOJ Redacted&LO_index=1&school_id=549#125",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "2/3",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015208",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Palm Beach Schools"
+    ],
+    "locations": [],
+    "dates": [
+      "7/19/2021",
+      "06/15/2000"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00015208",
+      "549#125"
+    ]
+  },
+  "additional_notes": "The document appears to be a student information page with various sections including race, language information, dual language, permissions, and miscellaneous. The student ID has been redacted."
+}

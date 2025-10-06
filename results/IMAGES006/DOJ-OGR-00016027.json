@@ -1,0 +1,72 @@
+{
+  "document_metadata": {
+    "page_number": "112",
+    "document_number": "DOJ-OGR-00016027",
+    "date": null,
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... 2 2004 16 B-727-31H N908JE TIST PBI 300 JG,JK SK, LH ANDREW LM 24 17 \" \" PBI JFK 301 JG,GM,JK OREW LV 25 20 \" \" JFK LFPB 322 JG,JK SK, LM 68 25 \" \" LFPB JFK 303 JK,SK,DM LM 76 25 \" \" JFK JAX 304 LV 21 29 G-1159B N909JE PBI TEB 1725 LV 26 29 \" \" TEB PBI 1730 JE,JK NATALIE LV 23 29 \" \" PBI TIST 1731 JE, LV 26 1 BHT-467 N491GM TIST LSJ LV 1 \" \" LSJ TIST LV 2 G-1159B N909JE TIST TEB 1732 JE, LV 40 7 \" \" SIMULATOR DFW DFW STEEP TURNS, STALL, JGHT UPSET, ICING SLS, ILS APPROACH, GNGEME ECRL HOLDING, MECH ALTITUDE AIRPORTS, EMERGENCY DESCENT, 160 NORMAN REMBLE 40 8 \" \" \" \" 1734 JE,SK PIA TRUSSELL 27 10 \" \" TEB PBI 1735 JE,SK PIA PRUSSELL 24 14 \" \" PBI ABY 1736 JE SK,TD,NC LV 13 14 \" \" ABY TEB 1737 JE SK,TD,NC LV 21 16 \" \" TEB BED 1738 JE, ANDREA LV 8 16 \" \" BED TEB 1739 JE, ANDREA LV 8 I certify that the statements made by me on this form are true. Pilot's Signature David Redding Page Total 43 510 Amount Forward 6783 95874 33 127 2 Total to Date 6787 96384 33 128 1",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "2 2004 16 B-727-31H N908JE TIST PBI 300 JG,JK SK, LH ANDREW LM 24 17 \" \" PBI JFK 301 JG,GM,JK OREW LV 25 20 \" \" JFK LFPB 322 JG,JK SK, LM 68 25 \" \" LFPB JFK 303 JK,SK,DM LM 76 25 \" \" JFK JAX 304 LV 21 29 G-1159B N909JE PBI TEB 1725 LV 26 29 \" \" TEB PBI 1730 JE,JK NATALIE LV 23 29 \" \" PBI TIST 1731 JE, LV 26 1 BHT-467 N491GM TIST LSJ LV 1 \" \" LSJ TIST LV 2 G-1159B N909JE TIST TEB 1732 JE, LV 40 7 \" \" SIMULATOR DFW DFW STEEP TURNS, STALL, JGHT UPSET, ICING SLS, ILS APPROACH, GNGEME ECRL HOLDING, MECH ALTITUDE AIRPORTS, EMERGENCY DESCENT, 160 NORMAN REMBLE 40 8 \" \" \" \" 1734 JE,SK PIA TRUSSELL 27 10 \" \" TEB PBI 1735 JE,SK PIA PRUSSELL 24 14 \" \" PBI ABY 1736 JE SK,TD,NC LV 13 14 \" \" ABY TEB 1737 JE SK,TD,NC LV 21 16 \" \" TEB BED 1738 JE, ANDREA LV 8 16 \" \" BED TEB 1739 JE, ANDREA LV 8",
+      "position": "main"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David Redding",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "43 510 6783 95874 33 127 2 6787 96384 33 128 1",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Redding",
+      "Natalie",
+      "Andrea",
+      "LH Andrew",
+      "Norman Remble",
+      "PIA Trussell",
+      "PIA Prussell"
+    ],
+    "organizations": [],
+    "locations": [
+      "PBI",
+      "JFK",
+      "LFPB",
+      "JAX",
+      "TEB",
+      "TIST",
+      "LSJ",
+      "DFW",
+      "ABY",
+      "BED"
+    ],
+    "dates": [
+      "2 2004"
+    ],
+    "reference_numbers": [
+      "N908JE",
+      "N909JE",
+      "N491GM",
+      "DOJ-OGR-00016027"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. Some information is redacted."
+}

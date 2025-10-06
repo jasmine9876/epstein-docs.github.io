@@ -1,0 +1,91 @@
+{
+  "document_metadata": {
+    "page_number": "5",
+    "document_number": "DOJ-OGR-00015177",
+    "date": "10/3/2020",
+    "document_type": "General Release",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "IN WITNESS WHEREOF, Claimant has executed this General Release on the date below her signature.\nDOJ REDACTION\n(Signature: Claimant)\n10/3/2020\n(Date)\nSTATE OF Texas )\nCOUNTY OF Travis ) ss:\nOn October 3 , 2020 before me personally came\nDOJ REDACTION\nme known, who, by me duly sworn, did depose and say that deponent is the Releasor who executed the foregoing General Release.\nYANET ALVARADO\nMY COMMISSION EXPIRES\nJULY 16, 2023\nNOTARY ID: 132089050\nYanet Alvarado\nNotary Public\nReviewed and approved:\nType (or print) Name of Claimant:\nDOJ REDACTION\nAttorney for Releasor:\nType (or print) Name of Attorney: Sigrid McCawley\nSignature:\nDOJ-OGR-00015177",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IN WITNESS WHEREOF, Claimant has executed this General Release on the date below her signature.",
+      "position": "top"
+    },
+    {
+      "type": "stamp",
+      "content": "DOJ REDACTION",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "10/3/2020",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "STATE OF Texas )\nCOUNTY OF Travis ) ss:",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "October 3 , 2020",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "DOJ REDACTION",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "YANET ALVARADO\nMY COMMISSION EXPIRES\nJULY 16, 2023\nNOTARY ID: 132089050",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Yanet Alvarado",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Reviewed and approved:\nType (or print) Name of Claimant:",
+      "position": "bottom"
+    },
+    {
+      "type": "stamp",
+      "content": "DOJ REDACTION",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Attorney for Releasor:\nType (or print) Name of Attorney: Sigrid McCawley\nSignature:",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Sigrid McCawley",
+      "Yanet Alvarado"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [
+      "Texas",
+      "Travis"
+    ],
+    "dates": [
+      "10/3/2020",
+      "July 16, 2023",
+      "October 3, 2020"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00015177",
+      "132089050"
+    ]
+  },
+  "additional_notes": "The document contains redactions and a notary stamp."
+}

@@ -1,0 +1,38 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "image",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "GOVERNMENT EXHIBIT 228 5220 Cr. 330 (AJN) DOJ-OGR-00015569",
+  "text_blocks": [
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 228 5220 Cr. 330 (AJN)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015569",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ",
+      "Government"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "228",
+      "5220 Cr. 330",
+      "DOJ-OGR-00015569"
+    ]
+  },
+  "additional_notes": "The image appears to be a photograph of an interior room with a view of an outdoor patio area. The room contains various pieces of furniture and several photographs on the floor. The image includes a government exhibit stamp in the bottom-right corner."
+}

@@ -1,0 +1,55 @@
+{
+  "document_metadata": {
+    "page_number": "7",
+    "document_number": null,
+    "date": "June 01, 2007 - June 29, 2007",
+    "document_type": "Bank Statement",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "June 01, 2007 June 29, 2007 Ghislaine Maxwell JPMorgan Private Bank Page 7 of 8 Primary Account Number: 6312 Premier Checking 6312 CHECK NO. 1065 $190.00 PAID 06/12 CHECK NO. 1066 $4,947.00 PAID 06/12 CHECK NO. 1067 $1,133.00 PAID 06/12 CHECK NO. 1068 $1,396.00 PAID 06/12 CHECK NO. 1069 $1,842.00 PAID 06/14 Confidential Treatment Requested by JPMorgan Chase JPM-SDNY-00052164 DOJ-OGR-00015697",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "June 01, 2007 June 29, 2007 Ghislaine Maxwell JPMorgan Private Bank Page 7 of 8 Primary Account Number: 6312 Premier Checking 6312",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CHECK NO. 1065 $190.00 PAID 06/12 CHECK NO. 1066 $4,947.00 PAID 06/12 CHECK NO. 1067 $1,133.00 PAID 06/12 CHECK NO. 1068 $1,396.00 PAID 06/12 CHECK NO. 1069 $1,842.00 PAID 06/14",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Confidential Treatment Requested by JPMorgan Chase JPM-SDNY-00052164 DOJ-OGR-00015697",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ghislaine Maxwell"
+    ],
+    "organizations": [
+      "JPMorgan Private Bank",
+      "JPMorgan Chase"
+    ],
+    "locations": [],
+    "dates": [
+      "June 01, 2007",
+      "June 29, 2007",
+      "06/12",
+      "06/14"
+    ],
+    "reference_numbers": [
+      "6312",
+      "1065",
+      "1066",
+      "1067",
+      "1068",
+      "1069",
+      "JPM-SDNY-00052164",
+      "DOJ-OGR-00015697"
+    ]
+  },
+  "additional_notes": "The document appears to be a bank statement from JPMorgan Private Bank for Ghislaine Maxwell's account. The statement lists several checks paid in June 2007. Some account numbers and check details are redacted."
+}

@@ -1,0 +1,99 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "GOVERNMENT EXHIBIT 662",
+    "date": "1991",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "GOVERNMENT EXHIBIT 662 S2 20 Cr. 330 (AJN) DATE 1991 APR AIRCRAFT MAKE AND MODEL AIRCRAFT IDENTIFICATION MARK POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FLOWN REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS AIRCRAFT CATEGORY NO. LDG. AERODYNAMIC COMPLEX TURE 25 HS125-400F N1251G PSP - CLE - CMH 135 7.5 4/2 4/2 4/2 2 30 \" \" \" CMH PSP 135 7.0 3/1 5/1 5/1 S MAY 1 \" \" \" PSP - MDW - BKL-CMH 135 7.0 3/2 4/5 4/5 L 2 \" \" \" CMH - PDS - CCF-CMH 135 7.0 3/3 5/1 5/1 S 6 \" \" \" CMH CPS 16.0 4/1 1/3 1/3 21 \" \" \" CPS CMH 8.0 1/1 1/0 1/0 1 30 \" \" \" CMH - ROU - CMH 135 9.5 1/1 2/0 2/0 2 JUN 17 \" \" \" CMH-BKL- CMH 8.0 1/2 0/9 0/9 22 \" \" \" CMH - M33 - CMH 7.5 1/2 1/7 1/7 1 25 \" \" \" CMH - LGX - CMH 4.0 1/2 4/2 4/2 2 JUL 22 HS125-700 N404CH ATW ATW 2/2 2/2 2/2 2 23 \" \" \" ATW ATW 1/1 0/8 0/8 24 \" \" \" ATW ISP 1/1 1/8 1/8 1 25 \" \" \" ISP - ISP - ILG 2/2 1/6 1/6 1 26 \" \" \" ILG TEB 15.0 1 1/1 0/5 0/5 26 \" \" \" TEB PSE 2 2/5 2/5 2 28 \" \" \" PSE TEB 1/1 2/6 2/6 2 29 \" \" \" TEB CMH 1/1 1/3 1/3 1 I certify that the statements made by me on this form are true. PILOT'S SIGNATURE Daniel DeLapa PAGE TOTAL 83 10 53380 37090 1700 AMT. FORWARD 51 79 TOTAL TO DATE 3573 5 2749 5 741 DOJ-OGR-00015798",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "GOVERNMENT EXHIBIT 662 S2 20 Cr. 330 (AJN)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DATE 1991 APR",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "AIRCRAFT MAKE AND MODEL AIRCRAFT IDENTIFICATION MARK POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FLOWN REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS AIRCRAFT CATEGORY NO. LDG. AERODYNAMIC COMPLEX TURE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "25 HS125-400F N1251G PSP - CLE - CMH 135 7.5 4/2 4/2 4/2 2",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. PILOT'S SIGNATURE Daniel DeLapa",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE TOTAL 83 10 53380 37090 1700 AMT. FORWARD 51 79 TOTAL TO DATE 3573 5 2749 5 741",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015798",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Daniel DeLapa"
+    ],
+    "organizations": [],
+    "locations": [
+      "PSP",
+      "CLE",
+      "CMH",
+      "MDW",
+      "BKL",
+      "PDS",
+      "CCF",
+      "CPS",
+      "ROU",
+      "LGX",
+      "ATW",
+      "ISP",
+      "ILG",
+      "TEB",
+      "PSE"
+    ],
+    "dates": [
+      "1991",
+      "April 25",
+      "April 30",
+      "May 1",
+      "May 2",
+      "May 6",
+      "May 21",
+      "May 30",
+      "June 17",
+      "June 22",
+      "June 25",
+      "July 22",
+      "July 23",
+      "July 24",
+      "July 25",
+      "July 26",
+      "July 28",
+      "July 29"
+    ],
+    "reference_numbers": [
+      "GOVERNMENT EXHIBIT 662",
+      "S2 20 Cr. 330 (AJN)",
+      "N1251G",
+      "N404CH",
+      "DOJ-OGR-00015798"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log from 1991, containing handwritten entries and a certification statement signed by the pilot, Daniel DeLapa. The log includes details of flights, including dates, aircraft information, departure and arrival points, and flight times. The document is stamped as 'GOVERNMENT EXHIBIT 662' and has a reference number 'S2 20 Cr. 330 (AJN)'. The document quality is generally good, with clear handwriting and printing."
+}

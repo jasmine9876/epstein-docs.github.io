@@ -1,0 +1,49 @@
+{
+  "document_metadata": {
+    "page_number": "22",
+    "document_number": "DOJ-OGR-00015751",
+    "date": "2/14/2005",
+    "document_type": "Checklist",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "VEHICLES AND BICYCLES\nDrive all vehicles to make sure that they are in good running condition. No flat batteries.\nCheck that cars are full of petrol (never below ¼).\nPlace $100 in the glove compartment or center console of each car.\nTwo bottles of water.\nJE and GM telephone directories.\nReading glasses.\nJeffrey Epstein large and small notepads with pens.\nBox of tissues.\nTwo pairs of sunglasses.\nCheck that bicycles are clean and tire pressure is correct.\nDATE: 2/14/2005 SIGNATURE:",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "VEHICLES AND BICYCLES",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Drive all vehicles to make sure that they are in good running condition. No flat batteries.\nCheck that cars are full of petrol (never below ¼).\nPlace $100 in the glove compartment or center console of each car.\nTwo bottles of water.\nJE and GM telephone directories.\nReading glasses.\nJeffrey Epstein large and small notepads with pens.\nBox of tissues.\nTwo pairs of sunglasses.\nCheck that bicycles are clean and tire pressure is correct.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DATE: 2/14/2005 SIGNATURE:",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015751",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "JE",
+      "GM"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "2/14/2005"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00015751"
+    ]
+  },
+  "additional_notes": "The document appears to be a checklist related to vehicles and bicycles, with a list of tasks to be completed. The document is typed and contains no handwritten text. The date '2/14/2005' is printed at the bottom, and there is a signature line that is blank."
+}

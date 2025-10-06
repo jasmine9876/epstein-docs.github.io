@@ -1,0 +1,76 @@
+{
+  "document_metadata": {
+    "page_number": "9",
+    "document_number": "DOJ-OGR-00016009",
+    "date": "2002-06",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date +9-2002 Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... Jun 8 B-727-31F N909JC EIDW JFK 111 JG,GM,SK 1/1 69 8 \" JFK PBI 112 JG,SK 1/1 23 12 G-1159B N909JC PBI PBI 1957 GMU FLIGHTS-SCAN REELY, GRC 1/1 27 14 B727-31F N909JC PBI BOS 113 REPOSITION 1/1 26 14 \" \" BOS TEST 114 JG,SK,CINDY LOREZ,LAWRENCE HAMES 1/1 37 16 \" \" TEST JFK 115 JG,GM,SK,CINDY LOREZ, LAWRENCE 1/1 30 19 G-1159B N909JC PBI TEB 1560 REPOSITION 1/1 32 19 \" \" TEB PBI 1564 JG,GM,SK,CINDY LOREZ 1/1 25 21 \" \" PBI MYGF 1570 JG,GM,SK,CL JEAN LUC BERNARD, RICHARD TURGONER 1/1 11 21 \" \" MYGF PBI (1571) REPOSITION 0/0 12 23 \" \" PBI MYGF 1574 REPOSITION 0/0 11 23 \" \" MYGF TEB 1572 JG,GM,SK,CL,JULIANA JORGE 1/1 26 23 \" \" TEB PBI 1574 REPOSITION 1/1 25 27 B-727-31F N909JC JFK LFPB 116 JG,GM,SK,AP, FABIO GRC, FKA PILOTING, DATA LINK, DATA OWN PROCESS DULE CIRRUS GRN-LA-LIF-VALLE, AM PILOT GIMBALO 1/1 71 29 \" \" LFPB LGTH 117 ARINC PS 110 1/1 13 30 \" \" LGTH LFPB 118 JG,JRRC CONCEBAUG# 1/1 15 13 \" \" LFPB LFMN 114 JG 0/0 12 I certify that the statements made by me on this form are true. Pilot's Signature David Redfern Page Total 31 476 Amount Forward 6539 86925 33 112 6 Total to Date 6547 87401 33 112 6",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date +9-2002 Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jun 8 B-727-31F N909JC EIDW JFK 111 JG,GM,SK 1/1 69 ...",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David Redfern",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Redfern",
+      "Cindy Lorez",
+      "Jean Luc Bernard",
+      "Richard Turgoner",
+      "Juliana Jorge",
+      "Fabio"
+    ],
+    "organizations": [],
+    "locations": [
+      "EIDW",
+      "JFK",
+      "PBI",
+      "BOS",
+      "TEST",
+      "TEB",
+      "MYGF",
+      "LFPB",
+      "LGTH",
+      "LFMN",
+      "GRC"
+    ],
+    "dates": [
+      "2002-06-08",
+      "2002-06-12",
+      "2002-06-14",
+      "2002-06-16",
+      "2002-06-19",
+      "2002-06-21",
+      "2002-06-23",
+      "2002-06-27",
+      "2002-06-29",
+      "2002-06-30"
+    ],
+    "reference_numbers": [
+      "N909JC",
+      "B-727-31F",
+      "G-1159B",
+      "DOJ-OGR-00016009"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log from June 2002. It contains handwritten entries detailing flight information, including dates, aircraft models, departure and arrival points, miles flown, and remarks. The log is signed by the pilot, David Redfern."
+}

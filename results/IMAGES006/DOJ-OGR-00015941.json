@@ -1,0 +1,89 @@
+{
+  "document_metadata": {
+    "page_number": "26",
+    "document_number": null,
+    "date": "1968",
+    "document_type": "Pilot's Logbook Page",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE 1968 FEB AIRCRAFT MAKE AND MODEL AIRCRAFT IDENTIFICATION MARK POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FLOWN FLT. NO. REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS NO. LDG. AIRCRAFT CATEGORY JETPLAN COMPLEX TURB 4 H5125-700 N703RN TGB PBI 462 JE, SB, 1 FCMAR 1/ 2 5 2 5 2 7 \" \" PBI TGB 463 \" \" 2 5 2 5 2 8 \" TGB-IAD PBI 495 JE, CM, many misrout \" 3 0 3 0 3 13 \" PBI TGB 466 JE, CM, SB, Tom Barlow \" 2 4 2 4 2 15 TGB BOS 457 JE \" 6 \" 6 \" 16 BOS TGB 463 JE \" 7 \" 7 \" 17 TGB-BCT PBI 459 JE, RD. Barry Kennedy, Buddy Kennedy, etc. 1 water \" 2 4 2 4 2 21 PBI TGB 471 JE, CM, RR, Barry Kennedy, etc. Pat Cline, 1st Lt. 1/ 2 6 2 6 2 23 TGB SDF 412 JE, GM \" 5 0 5 0 5 24 SDF PBI 473 JE, CM \" 3 2 3 2 3 27 PBI TGB 474 JE, CM, SB, Barry Kennedy, etc. Bobbi/s 1/ 2 7 2 7 2 MAR 5 \" TGB PBI 496 JE, GM, 1st Lt. \" 2 1 2 1 2 6 PBI TGB 476 JE, GM 1/ 2 7 2 7 2 10 TGB-BDN PBI 479 JE \" 3 7 3 7 3 13 PBI TGB 479 JE \" 2 5 2 5 2 14 TGB CMH 480 JE 1/ 1 3 1 3 1 15 CMH LUK 481 JE 1/ 3 \" 3 \" 15 LUK TGB 482 JE 1 1 5 1 5 1 I certify that the statements made by me on this form are true. PILOT'S SIGNATURE Carl Roderfer PAGE TOTAL 19 42 2 42 2 42 AMT. FORWARD 513 679 7 4448 2 2321 TOTAL TO DATE 532 321 9 8440 4 2482",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE 1968 FEB AIRCRAFT MAKE AND MODEL AIRCRAFT IDENTIFICATION MARK POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FLOWN FLT. NO. REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS NO. LDG. AIRCRAFT CATEGORY JETPLAN COMPLEX TURB",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "4 H5125-700 N703RN TGB PBI 462 JE, SB, 1 FCMAR 1/ 2 5 2 5 2",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. PILOT'S SIGNATURE Carl Roderfer",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE TOTAL 19 42 2 42 2 42 AMT. FORWARD 513 679 7 4448 2 2321 TOTAL TO DATE 532 321 9 8440 4 2482",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Carl Roderfer",
+      "Tom Barlow",
+      "Barry Kennedy",
+      "Buddy Kennedy",
+      "Pat Cline",
+      "Bobbi"
+    ],
+    "organizations": [],
+    "locations": [
+      "TGB",
+      "PBI",
+      "BOS",
+      "TGB-IAD",
+      "PBI",
+      "TGB-BCT",
+      "PBI",
+      "SDF",
+      "TGB",
+      "PBI",
+      "TGB-BDN",
+      "PBI",
+      "TGB",
+      "CMH",
+      "LUK",
+      "TGB",
+      "LUK"
+    ],
+    "dates": [
+      "1968",
+      "FEB 4",
+      "FEB 7",
+      "FEB 8",
+      "FEB 13",
+      "FEB 15",
+      "FEB 16",
+      "FEB 17",
+      "FEB 21",
+      "FEB 23",
+      "FEB 24",
+      "FEB 27",
+      "MAR 5",
+      "MAR 6",
+      "MAR 10",
+      "MAR 13",
+      "MAR 14",
+      "MAR 15",
+      "MAR 15"
+    ],
+    "reference_numbers": [
+      "N703RN",
+      "H5125-700"
+    ]
+  },
+  "additional_notes": "The document is a pilot's logbook page with handwritten entries and printed headers and footers. The logbook appears to be from 1968, and the pilot has certified the statements made on the form as true."
+}

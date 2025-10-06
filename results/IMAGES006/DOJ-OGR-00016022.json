@@ -1,0 +1,108 @@
+{
+  "document_metadata": {
+    "page_number": "107",
+    "document_number": "DOJ-OGR-00016022",
+    "date": null,
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... Jan 20 B-727-31H N908JE PBI JFK 243 JG,BT SK, TD LV 2 6 Jan 23 \" JFK PBI 244 JE BT,HOUNTAgE DAVEg TD, ANDREW MEIRWETCH LV 2 6 Jan 26 G-1159B N909JE PBI TEB 1691 BT, TD LV 1/ 2 4 Jan 28 \" TEB TIST 1672 JE,BT SK,TD LV 3 6 Feb 2 \" TIST TEB 1633 JE,BT,JLB TD,SK, ALENE WEBR LV 1/ 4 1 \" TEB BED 1654 LV 8 \" BED TEB 1655 ALAN Dershowitz LV 1 1 \" TEB PBI 1656 JE,AD,SK LV 2 6 Feb 9 B-727-31H N908JE PBI JFK 245 JE,BT,SK, ER 1/ 2 5 Feb 12 \" JFK LFPB 246 JE,GM,JLB,ALENE WEBR, N MARKGI LV 7 0 Feb 17 \" LFPB BGR 247 JE,GM,JLB TD,AW LV 6 9 \" BGR JFK 248 JE,GM,JLB,TD, AW LM 1 5 Feb 19 \" JFK PBI 249 JE,BT, SK, TD, LV 2 4 Feb 22 \" PBI JFK 250 JE,BT TD,AW LV 1/ 3 0 Feb 24 \" JFK MRY 251 JE,SK,TD FOREST gawYER LV 5 9 Feb 27 \" MRY VNY 252 JE SK,TD LV 1/ 8 Feb 29 \" VNY ABQ 253 JE SK,TD LV 1 6 Mar 1 \" ABQ JFK 254 JE,GM SK,TD LV 1/ 3 4 \" JFK PBI 255 JE TD,VALDSON COTn LV 2 5 I certify that the statements made by me on this form are true. Pilot's Signature David Pedgeon Page Total 6 1 573 Amount Forward 6744 93315 331250 Total to Date 6756 93888 331250",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jan 20 B-727-31H N908JE PBI JFK 243 JG,BT SK, TD LV 2 6 ... Mar 3 \" JFK PBI 255 JE TD,VALDSON COTn LV 2 5",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David Pedgeon",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "6 1 573 6744 93315 331250 6756 93888 331250",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Pedgeon",
+      "ALAN Dershowitz",
+      "ANDREW MEIRWETCH",
+      "ALENE WEBR",
+      "N MARKGI",
+      "VALDSON COTn",
+      "HOUNTAgE DAVEg",
+      "FOREST gawYER"
+    ],
+    "organizations": [],
+    "locations": [
+      "PBI",
+      "JFK",
+      "TEB",
+      "TIST",
+      "BED",
+      "LFPB",
+      "BGR",
+      "MRY",
+      "VNY",
+      "ABQ"
+    ],
+    "dates": [
+      "Jan 20",
+      "Jan 23",
+      "Jan 26",
+      "Jan 28",
+      "Feb 2",
+      "Feb 5",
+      "Feb 9",
+      "Feb 12",
+      "Feb 17",
+      "Feb 19",
+      "Feb 22",
+      "Feb 24",
+      "Feb 27",
+      "Feb 29",
+      "Mar 1",
+      "Mar 3"
+    ],
+    "reference_numbers": [
+      "243",
+      "244",
+      "1691",
+      "1672",
+      "1633",
+      "1654",
+      "1655",
+      "1656",
+      "245",
+      "246",
+      "247",
+      "248",
+      "249",
+      "250",
+      "251",
+      "252",
+      "253",
+      "254",
+      "255",
+      "N908JE",
+      "N909JE",
+      "G-1159B",
+      "B-727-31H",
+      "DOJ-OGR-00016022"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. Some information in the 'Remarks, Procedures, Maneuvers, Endorsements' column is redacted."
+}

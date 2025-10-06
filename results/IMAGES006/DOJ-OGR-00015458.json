@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": "7",
+    "document_number": "4-495-86910",
+    "date": "Dec 23, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\n\nPicked up: Dec 13, 2002    Payor: Shipper    Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\n\nTracking D    828821138104    Sender    DARREN INDYKE    Recipient    SERGE BOQUET\nService Type    FedEx Intl Priority    JEFFREY E EPSTEIN    ALBERTO PINTO\nPackage Type    FedEx Envelope    457 MADISON AVE    HOTEL DE LA VICTOIRE\nZone    D    NEW YORK NY 10022-6843 US        \nOrig./Dest.    JRB/PAR    \nPackages    1    \nWeight    0.5 lbs, 0.2 kgs    Transportation Charge    28.00\nDelivered    Dec 16, 2002 10:15    Fuel Surcharge    1.09\nSigned by    K RIEF    Discount    -0.84\nFedEx Use    _/US01O/_    \n\n    Total Transportation Charges    USD $    28.25\n\nDropped off: Dec 16, 2002    Payor: Shipper    Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDiscount applied is the greater of volume discount or dropoff discount. No additional discount applies.\n\nTracking D    790163815102    Sender    CECILIA STEEN    Recipient    ALBERTO PINTO\nService Type    FedEx Intl Priority    JEFFREY E. EPSTE N    HOTEL DE LA VICTOIRE\nPackage Type    Customer Packaging    457 MADISON AVENUE    \nZone    D    4TH FLOOR    \nOrig./Dest.    JRB/PAR    NEW YORK NY 10022 US        \nPackages    1    \nWeight    3.0 lbs, 1.4 kgs    Transportation Charge    60.76\nDelivered    Dec 18, 200209 54    Fuel Surcharge    2.36\nSigned by    M.ACCUEIL    Discount    -1.82\nFedEx Use    _/US01O/_    \n\n    Total Transportation Charges    USD $    61.30\n\nPicked up: Dec 16, 2002    Payor: Shipper    Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\n\nTracking D    790655260744    Sender    CECILIA STEEN    Recipient    JEANNE BRENNAN\nService Type    FedEx Intl Priority    JEFFREY E. EPSTE N    FINANCIAL TRUST COMPANY\nPackage Type    FedEx Pak    457 MADISON AVENUE    6100 RED HOOK QUARTER\nZone    I    4TH FLOOR    SUITE B-3\nOrig./Dest.    JRB/STT    NEW YORK NY 10022 US    ST. THOMAS 00802 VI\nPackages    1    Transportation Charge    38.00\nWeight    2.0 lbs, 0.9 kgs    Fuel Surcharge    1.47\nDelivered    Dec 17, 200216 55    Discount    -1.14\nSigned by    L.CASSEY    \nFedEx Use    _/US01O/_    \n\n    Total Transportation Charges    USD $    38.33\n\nCONFIDENTIAL",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "DARREN INDYKE",
+      "JEFFREY E EPSTEIN",
+      "SERGE BOQUET",
+      "ALBERTO PINTO",
+      "CECILIA STEEN",
+      "JEANNE BRENNAN"
+    ],
+    "organizations": [
+      "FedEx",
+      "HOTEL DE LA VICTOIRE",
+      "FINANCIAL TRUST COMPANY"
+    ],
+    "locations": [
+      "NEW YORK",
+      "JRB/PAR",
+      "ST. THOMAS",
+      "JRB/STT"
+    ],
+    "dates": [
+      "Dec 13, 2002",
+      "Dec 16, 2002",
+      "Dec 18, 2002",
+      "Dec 17, 2002",
+      "Dec 23, 2002"
+    ],
+    "reference_numbers": [
+      "4-495-86910",
+      "828821138104",
+      "790163815102",
+      "790655260744",
+      "1144-2081-6",
+      "SDNY_GM_00340831",
+      "DOJ-OGR-00015458"
+    ]
+  },
+  "additional_notes": "The document appears to be a shipment detail report from FedEx, containing information about three separate shipments. The document is marked as 'CONFIDENTIAL' at the bottom."
+}

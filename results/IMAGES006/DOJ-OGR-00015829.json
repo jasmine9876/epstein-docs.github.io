@@ -1,0 +1,75 @@
+{
+  "document_metadata": {
+    "page_number": "32",
+    "document_number": "DOJ-OGR-00015829",
+    "date": "1944-1945",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... 1944 DEC 25 G1159B N908JE SAEZ SARI 621 1 1 5 25 \" \" SARI TNCC 621 1 5 1 25 \" \" TNCC PBI 621 2 6 29 \" \" PBI TGB 621 2 3 30 HS125-700 N988JC PBI PBI 620 1 3 10 G1159B N908JE SAN TGB 627 1 5 10 \" \" TGB PBI 628 2 4 16 HS125-700 N988JC PBI SAT 631 1 3 2 19 G1159B N908JE PBI TGB 632 2 4 21 \" \" TGB PBI 633 2 4 1945 JAN 3 \" \" PBI TGB 634 2 2 5 \" \" TGB CMH 635 1 2 5 \" \" CMH PBI 636 2 0 8 \" \" PBI IAD 637 1 9 8 \" \" IAD TGB 638  7 13 \" \" TGB PBI 639 2 4 17 \" \" PBI TGB 640 2 3 19 \" \" TGB PBI 641 2 3 21 \" \" PBI TGB 642 2 2 I certify that the statements made by me on this form are true. Pilot's Signature: David Rodger Page Total 7 4 4 1 5 Amount Forward 3177 6249 8 Total to Date 35541 6341 3",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "1944 DEC 25 G1159B N908JE SAEZ SARI 621 1 1 5 ...",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature: David Rodger",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "7 4 4 1 5 3177 6249 8 35541 6341 3",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rodger"
+    ],
+    "organizations": [],
+    "locations": [
+      "SAEZ",
+      "SARI",
+      "TNCC",
+      "PBI",
+      "TGB",
+      "SAN",
+      "SAT",
+      "CMH",
+      "IAD"
+    ],
+    "dates": [
+      "1944-12-25",
+      "1944-12-29",
+      "1944-12-30",
+      "1945-01-03",
+      "1945-01-05",
+      "1945-01-08",
+      "1945-01-13",
+      "1945-01-17",
+      "1945-01-19",
+      "1945-01-21"
+    ],
+    "reference_numbers": [
+      "N908JE",
+      "N988JC",
+      "G1159B",
+      "HS125-700",
+      "DOJ-OGR-00015829"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The log includes details such as date, aircraft make and model, identification mark, points of departure and arrival, miles flown, flight number, remarks, and number of landings. The pilot has signed the document certifying the statements made."
+}

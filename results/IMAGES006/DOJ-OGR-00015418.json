@@ -1,0 +1,89 @@
+{
+  "document_metadata": {
+    "page_number": "5",
+    "document_number": "7-153-78512",
+    "date": "Dec 12, 2002",
+    "document_type": "Invoice",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx\nInvoice Number: 7-153-78512\nInvoice Date: Dec 12, 2002\nAccount Number: 1144-2081-6\nAir Waybill: 828821139729\nPage: 5 of 5\nDOCUMENT JUSTIFICATIF DE LA REALISATION DES\nDROITS DE DOUANE ET DE LA TVA\nDECLARANT/REPRESENTANT\nFEDERAL EXPRESS\n125, AVENUE LOUIS ROCHE\n92238 GENNEVILLIERS CEDEX\nTEL: 01 40 85 39 00\n\n| N° AWB | ORG/DEST | DATE D'ENTREE | DOSSIER DOUANE | DECLARATION | DATE DE DEDOUANEMENT |\n| --- | --- | --- | --- | --- | --- |\n| 828821139729 | FLU/TNF EXPEDITEUR | 07/12/2002 | 343-FX5060 | 052545 | 11/12/2002 |\n| JEFFREY E EPSTEIN S KERLEN 457 MADISON AVE NEW YORK 100226843 | 22 AVENUE FOCH APT 2DD PARIS 75166 SIRET: |\n\nREFERENCE FACTURE EXPEDITEUR\n\n| MONNAIE DE FACTURATION | VALEUR FACTURE (FFR) | VALEUR FRET (FFR) | FRET % | TAUX DE CHANGE |\n| --- | --- | --- | --- | --- |\n| USD | 142 | 99.81 | 071 | 1.001900 |\n| POIDS | ARTICLES | COLIS | LIVRAISON | PROVENANCE |\n| 11.3 | 1 | 1 | EXW | US |\n\n| ARTICLE N° | DESIGNATION COMMERCIALE | NOMENCLATURE | PREFERENCE |\n| --- | --- | --- | --- |\n| 001 | WRITNG PENS | 960810 | |\n| VALEUR DECLAREE | VALEUR FRET | ORIGINE | USUP | POIDS | PIECES JOINTES |\n| 100.00 | 142.00 | US | 0 | 11.3 | |\n| DESCRIPTION DES DROITS ET TAXES | TAUX | MONTANT |\n| DROITS ANTIDUMPING SUR DROITS DE DOUANE SUR TAXES ADDITIONELLES SUR TVA SUR | 0.00 3.70 0.00 19.60 | 0.00 7.00 0.00 49.00 56.00 |\n| LIQUIDATION TOTALE |  |  |\n\nPlease note: Claims for refund of the Duties and Taxes from French customs, must be submitted by the importer, by mail.\nDue immediately: Charges on this invoice include Duties and Taxes which Federal Express has paid on French Customs on your behalf.\nErrors and omissions must be reported in writing immediately upon receipt of invoice.\n\nCONFIDENTIAL\nSDNY_GM_00342912 109\nDOJ-OGR-00015418",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Number: 7-153-78512\nInvoice Date: Dec 12, 2002\nAccount Number: 1144-2081-6\nAir Waybill: 828821139729\nPage: 5 of 5",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DOCUMENT JUSTIFICATIF DE LA REALISATION DES\nDROITS DE DOUANE ET DE LA TVA",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "DECLARANT/REPRESENTANT\nFEDERAL EXPRESS\n125, AVENUE LOUIS ROCHE\n92238 GENNEVILLIERS CEDEX\nTEL: 01 40 85 39 00",
+      "position": "left"
+    },
+    {
+      "type": "printed",
+      "content": "JEFFREY E EPSTEIN S KERLEN 457 MADISON AVE NEW YORK 100226843",
+      "position": "left"
+    },
+    {
+      "type": "printed",
+      "content": "22 AVENUE FOCH APT 2DD PARIS 75166 SIRET:",
+      "position": "right"
+    },
+    {
+      "type": "printed",
+      "content": "REFERENCE FACTURE EXPEDITEUR",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Please note: Claims for refund of the Duties and Taxes from French customs, must be submitted by the importer, by mail.\nDue immediately: Charges on this invoice include Duties and Taxes which Federal Express has paid on French Customs on your behalf.\nErrors and omissions must be reported in writing immediately upon receipt of invoice.",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY E EPSTEIN"
+    ],
+    "organizations": [
+      "FedEx",
+      "Federal Express"
+    ],
+    "locations": [
+      "GENNEVILLIERS CEDEX",
+      "NEW YORK",
+      "PARIS"
+    ],
+    "dates": [
+      "Dec 12, 2002",
+      "07/12/2002",
+      "11/12/2002"
+    ],
+    "reference_numbers": [
+      "7-153-78512",
+      "1144-2081-6",
+      "828821139729",
+      "343-FX5060",
+      "052545",
+      "100226843",
+      "75166",
+      "SDNY_GM_00342912",
+      "DOJ-OGR-00015418"
+    ]
+  },
+  "additional_notes": "The document is an invoice from FedEx with detailed information about a shipment, including duties and taxes paid on behalf of the importer. The document is marked as 'CONFIDENTIAL'."
+}

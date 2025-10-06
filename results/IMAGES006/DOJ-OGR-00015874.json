@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": "7",
+    "document_number": "DOJ-OGR-00015874",
+    "date": null,
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... Aeroplane Glider Helicopter 19-Oct G-1159B N908TE BGR LGA 1308 1 1 3 18 \" PBI MIA 1400 6 21 \" MIA TIST 1401 2 3 23 \" TIST EWR 1402 1 1 3 9 25 \" EWR EGGW 1403 1 6 4 28 \" EGGW BGR 1404 7 1 29 \" BGR PBI 1405 3 0 30 \" PBI TKB 1406 1 1 2 7 31 \" TKB PBI 1407 1 9 Nov 5 \" PBI TIST 1408 1 1 2 4 7 \" TIST TKB 1409 1 1 4 4 9 \" TKB PBI 1410 1 1 2 4 12 \" PBI CMH 1411 1 1 2 2 12 \" CMH PBI 1412 1 1 2 3 15 \" PBI SAF 1413 4 2 16 \" SAF VNY 1414 1 1 1 9 17 \" VNY SAN 1415 1 7 17 \" SAN PBI 1416 4 0 19 \" PBI BED 1417 1 1 2 6 I certify that the statements made by me on this form are true. Pilot's Signature David Bridge Page Total 11 69 563 Amount Forward 63315 79356 3 3 112 6 6015 Total to Date 63477 79119 3 3 112 6",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... Aeroplane Glider Helicopter",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "19-Oct G-1159B N908TE BGR LGA 1308 1 1 3 ...",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true.",
+      "position": "footer"
+    },
+    {
+      "type": "signature",
+      "content": "David Bridge",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Bridge"
+    ],
+    "organizations": [],
+    "locations": [
+      "BGR",
+      "LGA",
+      "PBI",
+      "MIA",
+      "TIST",
+      "EWR",
+      "EGGW",
+      "TKB",
+      "CMH",
+      "SAF",
+      "VNY",
+      "SAN",
+      "BED"
+    ],
+    "dates": [
+      "19-Oct",
+      "Nov 5"
+    ],
+    "reference_numbers": [
+      "G-1159B",
+      "N908TE",
+      "DOJ-OGR-00015874"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries and a signature at the bottom. The log includes details such as date, aircraft make and model, points of departure and arrival, miles flown, and number of landings."
+}

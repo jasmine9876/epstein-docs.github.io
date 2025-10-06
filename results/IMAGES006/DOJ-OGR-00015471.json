@@ -1,0 +1,119 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00015471",
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "IMPORTANT MESSAGE FOR Jeffrey DATE 9/30/03 TIME 10:20 A.M. TONY M. OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE He has turned his cell phone back on same # (XXX) XXX-XXXX SIGNED Nicole Hess 1184 IMPORTANT MESSAGE FOR Jeffrey DATE 11/22 TIME 12:00 A.M. P.M. PHLA M. OF PHONE  AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED  1184 IMPORTANT MESSAGE FOR Jeffrey DATE 9/30/03 TIME 2:00 A.M. P.M. DOJ REDACTION M OF PHONE  AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED Nicole Hess 1184 IMPORTANT MESSAGE FOR Jeff DATE May 4 TIME 1:00 A.M. P.M. your bro M OF PHONE 242-XXXX AREA CODE NUMBER PLEASE CALL TELEPHONED CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED  1184 GOVERNMENT EXHIBIT 2-C-R S2 20 Cr. 330 (AJN) DOJ-OGR-00015471",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffrey 9/30/03 10:20 TONY",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "He has turned his cell phone back on same # (XXX) XXX-XXXX",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Nicole Hess",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffrey 11/22 12:00 PHLA",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffrey 9/30/03 2:00 DOJ REDACTION",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Nicole Hess",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeff May 4 1:00 your bro",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "242-XXXX",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "",
+      "position": "bottom"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 2-C-R S2 20 Cr. 330 (AJN)",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey",
+      "TONY",
+      "PHLA",
+      "Jeff",
+      "Nicole Hess"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "9/30/03",
+      "11/22",
+      "May 4"
+    ],
+    "reference_numbers": [
+      "242-XXXX",
+      "DOJ-OGR-00015471"
+    ]
+  },
+  "additional_notes": "The document contains four 'Important Message' forms with handwritten notes and a government exhibit stamp. Some phone numbers are redacted."
+}

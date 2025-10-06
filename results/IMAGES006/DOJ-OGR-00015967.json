@@ -1,0 +1,114 @@
+{
+  "document_metadata": {
+    "page_number": "52",
+    "document_number": "DOJ-OGR-00015967",
+    "date": "January 1998",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date 1998 DEC 14 G1159B N908JC PBI TEB 1028 JE GLEN GUB, GLENDA, JOK DAN DYLAN 1/1 2 1 AIRPLANE\n17 \" \" \" TEB BCT 1057 JE JIMMY ELLIOT, GWENDOLYN BECK 2 5\n17 \" \" \" BCT PBI 1058 JE MANDY GILSON, GWENDOLYN BECK 1\n1998 JAN 3 \" \" \" PBI TEB 1059 JG, ET, GLEN DJ BEM, JIMMY + MRS G (sic) WHATTS, MARGARET WHEELER 2 3\n8 \" \" \" TEB SAF 1060 JG, ET, DOUG SCHOETTLE 3 8\n10 \" \" \" SAF PBI 1061 JE, ET, DOUG SCHOETTLE 2 7\n13 \" \" \" PBI TEB 1062 JE, ET 2 3\n18 \" \" \" TEB PBI 1063 JE, ET, 1 FEMALE 2 4\n20 \" \" \" PBI TIST 1064 JE, ET, GWENDOLYN BECK, SHERRY 2 0\n25 \" \" \" TIST TNCM 1065 JE, ET, MELINDA LUNTZ, SHERRY 4\n25 \" \" \" TNCM TEB 1066 JE, ET, ML, SC 4 2\n30 \" \" \" TEB PBI 1067 JE 2 3\n31 \" \" \" PBI JAX 1068 JE 1 8\n31 \" \" \" JAX APF 1069 JE, ELLEN SPENCER 1\n31 \" \" \" APF BBI 1070 JE, ELLEN SPENCER 1 4\nFEB \" \" \" PBI TEB 1071 JE, SOPHIE BIDDLE 2 2\n6 \" \" \" TEB PBI 1072 JE, ET, SOPHIE BIDDLE, GWA, GREG 2 6\n9 \" \" \" PBI TEB 1073 JE, ET, CLARKE BOSTLY, JOEL PASHKOW, JEMIMA, ALAN DASHOWITZ, MANOH 2 4\n12 \" \" \" TEB PBI 1074 JE, ET, JOEL PASHKOW, JENNY PASHKOW, SEM + MRS CAYNE, GWENLYN SHERER 2 6\nI certify that the statements made by me on this form are true.\nPilot's Signature David Rodey\nPage Total 14 - 38 9\nAmount Forward 5475 7095 3\nTotal to Date 5729 7134 2",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "1998 DEC 14 G1159B N908JC PBI TEB 1028 JE GLEN GUB, GLENDA, JOK DAN DYLAN 1/1 2 1 AIRPLANE",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true.\nPilot's Signature David Rodey",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Glen Gub",
+      "Glenda",
+      "Jok Dan Dylan",
+      "Jimmy Elliot",
+      "Gwendolyn Beck",
+      "Mandy Gilson",
+      "Jimmy",
+      "Margaret Wheeler",
+      "Doug Schoettle",
+      "Melinda Luntz",
+      "Sherry",
+      "ML",
+      "SC",
+      "Ellen Spencer",
+      "Sophie Biddle",
+      "Clarke Bostly",
+      "Joel Pashkow",
+      "Jemima",
+      "Alan Dashowitz",
+      "Manoh",
+      "Jenny Pashkow",
+      "Sem",
+      "Mrs Cayne",
+      "Gwenlyn Sherer",
+      "David Rodey"
+    ],
+    "organizations": [],
+    "locations": [
+      "PBI",
+      "TEB",
+      "BCT",
+      "SAF",
+      "TIST",
+      "TNCM",
+      "JAX",
+      "APF",
+      "BBI"
+    ],
+    "dates": [
+      "1998 DEC 14",
+      "1998 DEC 17",
+      "1998 JAN 3",
+      "1998 JAN 8",
+      "1998 JAN 10",
+      "1998 JAN 13",
+      "1998 JAN 18",
+      "1998 JAN 20",
+      "1998 JAN 25",
+      "1998 JAN 30",
+      "1998 JAN 31",
+      "1998 FEB 6",
+      "1998 FEB 9",
+      "1998 FEB 12"
+    ],
+    "reference_numbers": [
+      "G1159B",
+      "N908JC",
+      "1028",
+      "1057",
+      "1058",
+      "1059",
+      "1060",
+      "1061",
+      "1062",
+      "1063",
+      "1064",
+      "1065",
+      "1066",
+      "1067",
+      "1068",
+      "1069",
+      "1070",
+      "1071",
+      "1072",
+      "1073",
+      "1074",
+      "5475",
+      "7095",
+      "5729",
+      "7134",
+      "DOJ-OGR-00015967"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log from January 1998. It contains handwritten entries detailing flight information, including dates, aircraft details, flight routes, and passenger names. The log is signed by the pilot, David Rodey."
+}

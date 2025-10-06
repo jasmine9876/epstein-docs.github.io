@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "6",
+    "document_number": null,
+    "date": "June 01, 2007 - June 29, 2007",
+    "document_type": "Bank Statement",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "June 01, 2007 June 29, 2007 Ghislaine Maxwell JPMorgan Private Bank Page 6 of 8 Primary Account Number: 6312 Premier Checking 6312 CHECK NO. 1060 $620.00 PAID 06/06 CHECK NO. 1061 $7.00 PAID 06/08 CHECK NO. 1062 $400.00 PAID 06/06 CHECK NO. 1063 $40,000.00 PAID 06/22 CHECK NO. 1064 $10,000.00 PAID 06/20 Confidential Treatment Requested by JPMorgan Chase JPM-SDNY-00052163 DOJ-OGR-00015696",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "June 01, 2007 June 29, 2007 Ghislaine Maxwell JPMorgan Private Bank Page 6 of 8 Primary Account Number: 6312 Premier Checking 6312",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CHECK NO. 1060 $620.00 PAID 06/06 CHECK NO. 1061 $7.00 PAID 06/08 CHECK NO. 1062 $400.00 PAID 06/06 CHECK NO. 1063 $40,000.00 PAID 06/22 CHECK NO. 1064 $10,000.00 PAID 06/20",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Various check details and signatures",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Confidential Treatment Requested by JPMorgan Chase JPM-SDNY-00052163 DOJ-OGR-00015696",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ghislaine Maxwell"
+    ],
+    "organizations": [
+      "JPMorgan Private Bank",
+      "JPMorgan Chase",
+      "U.S. Treasury"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "June 01, 2007",
+      "June 29, 2007",
+      "06/06",
+      "06/08",
+      "06/22",
+      "06/20"
+    ],
+    "reference_numbers": [
+      "6312",
+      "1060",
+      "1061",
+      "1062",
+      "1063",
+      "1064",
+      "JPM-SDNY-00052163",
+      "DOJ-OGR-00015696"
+    ]
+  },
+  "additional_notes": "The document appears to be a bank statement for Ghislaine Maxwell's account with JPMorgan Private Bank. It includes details of checks paid between June 1, 2007, and June 29, 2007. The document has been redacted in some areas, and there are handwritten signatures on the check images."
+}

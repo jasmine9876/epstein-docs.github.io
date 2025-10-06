@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "20",
+    "document_number": "4-495-75031",
+    "date": "Dec 23, 2002",
+    "document_type": "Invoice",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Ground Address Correction Invoice Number: 4-495-75031 Invoice Date Dec 23, 2002 Account Number 1144 2081 6 Page 20 of 21 Original Address Corrected Address Original Address Corrected Address TRACKING ID: 068 275710000358 VIALTA INC 48461 FREMONT BL FREMONT CA 94538 US VIALTA INC 48461 FREMONT BL FREMONT CA 94538 US DOJ-OGR-00016083",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Ground Address Correction",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Number: 4-495-75031 Invoice Date Dec 23, 2002 Account Number 1144 2081 6 Page 20 of 21",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Original Address Corrected Address Original Address Corrected Address",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TRACKING ID: 068 275710000358",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "VIALTA INC 48461 FREMONT BL FREMONT CA 94538 US VIALTA INC 48461 FREMONT BL FREMONT CA 94538 US",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00016083",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "FedEx",
+      "VIALTA INC"
+    ],
+    "locations": [
+      "FREMONT",
+      "CA",
+      "US"
+    ],
+    "dates": [
+      "Dec 23, 2002"
+    ],
+    "reference_numbers": [
+      "4-495-75031",
+      "1144 2081 6",
+      "068 275710000358",
+      "DOJ-OGR-00016083"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx invoice with address correction information. The document is clean and legible, with no visible damage or redactions."
+}

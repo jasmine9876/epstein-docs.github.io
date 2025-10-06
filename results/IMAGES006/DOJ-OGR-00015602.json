@@ -1,0 +1,41 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "image",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "GOVERNMENT EXHIBIT 267 S2 20 Cr. 330 (AJN) DOJ-OGR-00015602",
+  "text_blocks": [
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 267 S2 20 Cr. 330 (AJN)",
+      "position": "bottom right"
+    },
+    {
+      "type": "printed",
+      "content": "Jeffrey E. Epstein",
+      "position": "middle right"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015602",
+      "position": "bottom right"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey E. Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "S2 20 Cr. 330 (AJN)",
+      "DOJ-OGR-00015602"
+    ]
+  },
+  "additional_notes": "The image appears to be a photograph of a desk with various office supplies and a label indicating it is a government exhibit. The label includes a reference number and a case number."
+}

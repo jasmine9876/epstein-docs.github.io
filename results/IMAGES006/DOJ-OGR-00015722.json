@@ -1,0 +1,47 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "601",
+    "date": null,
+    "document_type": "Government Exhibit",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "GOVERNMENT EXHIBIT 601 S2 20 Cr. 330 (AJN) FIL A LA GRANDE SOEUR R & C DOJ-OGR-00015722",
+  "text_blocks": [
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 601 S2 20 Cr. 330 (AJN)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "FIL A LA GRANDE SOEUR",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "R & C",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015722",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "601",
+      "S2 20 Cr. 330 (AJN)",
+      "DOJ-OGR-00015722"
+    ]
+  },
+  "additional_notes": "The image appears to be a photograph of a vintage advertisement or book cover with a government exhibit stamp on it. The stamp is likely related to a court case or legal proceeding."
+}

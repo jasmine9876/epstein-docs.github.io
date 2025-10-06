@@ -1,0 +1,73 @@
+{
+  "document_metadata": {
+    "page_number": "5 of 10",
+    "document_number": "4-495-86910",
+    "date": "Dec 23, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type (Original)",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\n\nDropped off: Dec 09, 2002    Payor: Shipper    Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nFedEx has audited this airbill for correct pieces, weight, and service. Any changes made are reflected in the invoice amount.\nDiscount applied is the greater of volume discount or dropoff discount. No additional discount applies.\n\nTracking D 824109124786    Sender    SHANNON    Recipient    JEANNE/SAMIE\nService Type FedEx Intl Economy    JEFFREY E EPSTEIN    6100 RED MOOK QUARTERS\nPackage Type Customer Packaging    457 MADISON AVE    B J\nZone    1    NEW YORK NY 10022-6843 US    ST THOMAS 00802 VI\nOrig./Dest.    ABQ/STT    Transportation Charge    37 60\nPackages    1    Fuel Surcharge    1.46\nWeight    0.8 lbs, 0.4 kgs    Discount    -1.13\nDelivered    Dec 10, 2002 17 37    Total Transportation Charges    USD $    37.93\nSigned by    J RUAN\nFedEx Use    _/US01O/_\n\nPicked up: Dec 10, 2002    Payor: Shipper    Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nIncorrect recipient address.\n\nTracking D 828821138402    Sender    G MAXWELL    Recipient    KEVIN MAXWELL\nService Type FedEx Intl Priority    JEFFREY E EPSTEIN\nPackage Type FedEx Pak    457 MADISON AVE\nZone    D    NEW YORK NY 10022-6843 US\nOrig./Dest.    FLU/XRE    Transportation Charge    38 00\nPackages    1    Fuel Surcharge    1.47\nWeight    1.0 lbs, 0.5 kgs    Discount    -1.14\nDelivered    Dec 17, 2002 10 39    Total Transportation Charges    USD $    38.33\nSigned by    M.AXWELL\nFedEx Use    _/US01O/03\n\nPicked up: Dec 11, 2002    Payor: Shipper    Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\n\nTracking D 791993568223    Sender    CECILIA STEEN    Recipient    DAV D BYRNE\nService Type FedEx Intl Economy    JEFFREY E. EPSTE N\nPackage Type Customer Packaging    457 MADISON AVENUE    \nZone    D    4TH FLOOR\nOrig./Dest.    JRB/WEM    NEW YORK NY 10022 US    \nPackages    1    Transportation Charge    45 55\nWeight    2.0 lbs, 0.9 kgs    Fuel Surcharge    1.77\nDelivered    Dec 16, 2002 11 33    Discount    -1 37\nSigned by    D.BRYNE    Total Transportation Charges    USD $    45.95\nFedEx Use    _/US01O/_\n\nCONFIDENTIAL",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Dropped off: Dec 09, 2002    Payor: Shipper    Reference: NO REFERENCE INFORMATION",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "SHANNON",
+      "JEFFREY E EPSTEIN",
+      "JEANNE/SAMIE",
+      "G MAXWELL",
+      "KEVIN MAXWELL",
+      "CECILIA STEEN",
+      "DAV D BYRNE",
+      "J RUAN",
+      "M.AXWELL",
+      "D.BRYNE"
+    ],
+    "organizations": [
+      "FedEx"
+    ],
+    "locations": [
+      "NEW YORK",
+      "ST THOMAS",
+      "ABQ",
+      "STT",
+      "FLU",
+      "XRE",
+      "JRB",
+      "WEM"
+    ],
+    "dates": [
+      "Dec 09, 2002",
+      "Dec 10, 2002",
+      "Dec 17, 2002",
+      "Dec 11, 2002",
+      "Dec 16, 2002",
+      "Dec 23, 2002"
+    ],
+    "reference_numbers": [
+      "4-495-86910",
+      "824109124786",
+      "828821138402",
+      "791993568223",
+      "1144-2081-6",
+      "SDNY_GM_00340829",
+      "DOJ-OGR-00015456"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx shipment detail report, containing information about three separate shipments. The document is marked 'CONFIDENTIAL' at the bottom."
+}

@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": "64",
+    "document_number": "753",
+    "date": "08/10/22",
+    "document_type": "Court Transcript",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 753 Filed 08/10/22 Page 64 of 264 1490 LC7Cmax2 Flatley - direct and 422 saved? Q. Were they saved under any user account? A. They were on Government Exhibit 54. Q. Were they saved under any user account? A. Just give me one second. Yes, they were saved under -- in the documents folder for a user, Ghislaine. Q. When you say they were saved under a user account, what does that mean? MS. MENNINGER: Objection, your Honor. The user account was outside the scope. THE COURT: Overruled. A. So when you have a computer, a Windows computer, when you have a sign-in, a log-in ID username and password, it creates a folder structure under that name to organize the different data on it in case there is other users that are also on the machine. So, these particular documents were saved under the documents folder under the user Ghislaine. Q. What kind of files are Government Exhibits 418, 420, 421, and 422? A. They're Microsoft Word documents. Q. Where are properties stored in a Word document? A. So Word documents are actually not just one file, there are several files that are kind of cobbled together and one of those files maintains the properties of the document. Q. Just put simply, how can someone determine the properties in a Word document? SOUTHERN DISTRICT REPORTERS, P.C. (212) 805-0300 DOJ-OGR-00013077",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 753 Filed 08/10/22 Page 64 of 264 1490 LC7Cmax2 Flatley - direct",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "and 422 saved? Q. Were they saved under any user account? A. They were on Government Exhibit 54. Q. Were they saved under any user account? A. Just give me one second. Yes, they were saved under -- in the documents folder for a user, Ghislaine. Q. When you say they were saved under a user account, what does that mean? MS. MENNINGER: Objection, your Honor. The user account was outside the scope. THE COURT: Overruled. A. So when you have a computer, a Windows computer, when you have a sign-in, a log-in ID username and password, it creates a folder structure under that name to organize the different data on it in case there is other users that are also on the machine. So, these particular documents were saved under the documents folder under the user Ghislaine. Q. What kind of files are Government Exhibits 418, 420, 421, and 422? A. They're Microsoft Word documents. Q. Where are properties stored in a Word document? A. So Word documents are actually not just one file, there are several files that are kind of cobbled together and one of those files maintains the properties of the document. Q. Just put simply, how can someone determine the properties in a Word document?",
+      "position": "main"
+    },
+    {
+      "type": "printed",
+      "content": "SOUTHERN DISTRICT REPORTERS, P.C. (212) 805-0300",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00013077",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ghislaine",
+      "MS. MENNINGER"
+    ],
+    "organizations": [
+      "SOUTHERN DISTRICT REPORTERS, P.C."
+    ],
+    "locations": [],
+    "dates": [
+      "08/10/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "753",
+      "418",
+      "420",
+      "421",
+      "422",
+      "54",
+      "DOJ-OGR-00013077"
+    ]
+  },
+  "additional_notes": "The document appears to be a court transcript with a clear and legible format. There are no visible redactions or damage."
+}

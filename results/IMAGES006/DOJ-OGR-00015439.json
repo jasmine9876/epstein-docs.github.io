@@ -1,0 +1,75 @@
+{
+  "document_metadata": {
+    "page_number": "12 of 15",
+    "document_number": "4-495-33932",
+    "date": "Dec 16, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\n\nInvoice Number: 4-495-33932\nInvoice Date: Dec 16, 2002\nAccount Number: 1144-2081-6\nPage: 12 of 15\n\nDropped off: Dec 11, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 3\nPackage sent from: 02155 zip code\n\nTracking D 836663864956 Sender Recipient\nService Type FedEx Standard Overnight ALAN DERSHOWITZ EDWINA SIMMONDS\nPackage Type FedEx Envelope JEFFREY E EPSTEIN\nZone 3 457 MADISON AVE\nPackages 1 NEW YORK NY 10022-6843 US\nWeight 1.0 lbs, 0.5 kgs\nDelivered Dec 12, 2002 12:10 Transportation Charge 12.50\nSvc Area A1 Discount -2.00\nSigned by MAXWELL Fuel Surcharge 0.42\nFedEx Use 345268500/00211/_ Residential Delivery 1.35\n\nTotal Transportation Charges USD $ 12.27\n\nShipment Detail Subtotal ....................................................USD $ 357.55\n\nPicked up: Dec 04, 2002 Payor: Third Party Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 5\n1st attempt Dec 05, 2002 at 12 01 A.M.\nWeather delay - Snow.\n\nTracking D 809045736255 Sender Recipient\nService Type FedEx Priority Overnight B BONNETT NICK SIMMONS\nPackage Type Customer Packaging LONDON FOG COMPANY EPSHEIN INTEREST\nZone 5 457 MADISON AVE\nPackages 1 NEW YORK NY 10022 US\nWeight 25.0 lbs, 11.4 kgs\nDelivered Dec 05, 2002 13 05 Transportation Charge 75.25\nSvc Area A1 Discount -7.53\nSigned by W.WALTER BOU N Fuel Surcharge 2.71\nFedEx Use 341178410/01552/SN Courier Pickup Charge 0.00\n\nTotal Transportation Charges USD $ 70.43\n\nShipment Detail Subtotal ....................................................USD $ 70.43\n\nCONFIDENTIAL\nSDNY_GM_00340791 130\nDOJ-OGR-00015439",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Number: 4-495-33932\nInvoice Date: Dec 16, 2002\nAccount Number: 1144-2081-6\nPage: 12 of 15",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Dropped off: Dec 11, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Picked up: Dec 04, 2002 Payor: Third Party Reference: NO REFERENCE INFORMATION",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "ALAN DERSHOWITZ",
+      "JEFFREY E EPSTEIN",
+      "EDWINA SIMMONDS",
+      "B BONNETT",
+      "NICK SIMMONS",
+      "MAXWELL",
+      "W.WALTER BOU N"
+    ],
+    "organizations": [
+      "FedEx",
+      "LONDON FOG COMPANY"
+    ],
+    "locations": [
+      "NEW YORK",
+      "457 MADISON AVE"
+    ],
+    "dates": [
+      "Dec 11, 2002",
+      "Dec 16, 2002",
+      "Dec 12, 2002",
+      "Dec 04, 2002",
+      "Dec 05, 2002"
+    ],
+    "reference_numbers": [
+      "4-495-33932",
+      "1144-2081-6",
+      "836663864956",
+      "809045736255",
+      "345268500/00211/_",
+      "341178410/01552/SN",
+      "SDNY_GM_00340791",
+      "DOJ-OGR-00015439"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx shipment detail report, containing information about two shipments. The document is marked as 'CONFIDENTIAL' at the bottom."
+}

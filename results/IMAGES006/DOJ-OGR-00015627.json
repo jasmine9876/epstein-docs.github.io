@@ -1,0 +1,75 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "299",
+    "date": "3-25-96",
+    "document_type": "Government Exhibit",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "GOVERNMENT EXHIBIT 299 S2 20 Cr. 330 (AJN) E. STATE RESIDENCE ROGER WM. SAHLI ARCHITECT MICHAEL J. JOHNSEN NEW TRANSLUCENT WINDOWS SWIMMING POOL EXTERIOR PAVING PW CABANA PLAN SCALE 1/4\" = 10'-0\" DATE 3-25-96 PROJECT NO. DRAWING NO. A-15 DOJ-OGR-00015627",
+  "text_blocks": [
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 299 S2 20 Cr. 330 (AJN)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "ROGER WM. SAHLI ARCHITECT",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "E. STATE RESIDENCE",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "MICHAEL J. JOHNSEN 131 CLARK AVENUE WEST (PALM BEACH FLA 407-662-2500",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "NEW TRANSLUCENT WINDOWS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "SWIMMING POOL",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "EXTERIOR PAVING PW CABANA PLAN SCALE 1/4\" = 10'-0\" DATE 3-25-96 PROJECT NO. DRAWING NO. A-15",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015627",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Roger Wm. Sahli",
+      "Michael J. Johnsen"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [
+      "Palm Beach",
+      "Florida"
+    ],
+    "dates": [
+      "3-25-96"
+    ],
+    "reference_numbers": [
+      "299",
+      "S2 20 Cr. 330 (AJN)",
+      "DOJ-OGR-00015627"
+    ]
+  },
+  "additional_notes": "The document appears to be a blueprint or architectural drawing with handwritten notes. The image is of good quality, but the paper is wrinkled and creased."
+}

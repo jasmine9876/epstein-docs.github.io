@@ -1,0 +1,79 @@
+{
+  "document_metadata": {
+    "page_number": "53",
+    "document_number": null,
+    "date": null,
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... 19 FEB 1 C172 N75RR LNA - F45 LNA CHECKOUT IN CGS N# 172 5/5 8 7 C172 N75RR LNA - NO 331-LNA SWRD WAGNER, 1000 SOL, CONFIDENT ARRIVAL 3/3 20 14 G1159B N908JK PBI SAF 1075 JG,ET 1/1 39 15 \" \" \" \" SAF LAS 1076 JG 1/1 13 15 \" \" \" LAS VNY 1077 JG 1/1 7 18 \" \" \" VNY MRY 1078 JG, BOB, KST, 3 FEMALES, 1 MALE 1/1 8 21 \" \" \" MRY SAF 1079 JG,ET 1/1 15 22 \" \" \" SAF TEB 1080 JG,ET 1/1 33 27 \" \" \" TEB DCA 1081 JG,ET, GWENDOLYN BECK 1/1 6 27 \" \" \" DCA TIST 1082 JG,ET, GWENDOLYN BECK 1/1 32 28 \" \" \" TIST PBI 1083 JG,ET, GB, GARY KERNY 1/1 21 MAR C421 N9086M PBI AVO CHECKOUT FSS, POLITICS 1/1 7 4 C421 \" \" AVO LCE 1/1 7 4 \" \" \" LCE PBI KARR SERVICES, ARTC, CLSS B CLEARANCE 1/1 6 11 \" \" \" PBI AVO CHRIS WAGNER - X-LOCAL TOWN 1/1 8 11 \" \" \" AVO PBI CHRIS WAGNER - 1000 TEMC, PILOTAGE 1/1 8 12 \" \" \" PBI EYW CHRIS WAGNER - VOR NAVIGATION, CURTAILED PORTIONS OPERATIONS 1/1 11 12 \" \" \" EYW PBI CHRIS WAGNER - ROPES PROCEDURE, PILOTAGE TOOK LUCKIER F 1/1 11 20 G1159B N908JC PBI PBI 1084 ET FLIGHTS AFTER OPS 1/1 4 I certify that the statements made by me on this form are true. Pilot's Signature David Rodafe Page Total 20 273 Amount Forward 5982 71342 Total to Date 6000 71615 DOJ-OGR-00015968",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "19 FEB 1 C172 N75RR LNA - F45 LNA CHECKOUT IN CGS N# 172 5/5 8",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David Rodafe",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "20 273 5982 71342 6000 71615",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rodafe",
+      "Gwendolyn Beck",
+      "Gary Kerny",
+      "Chris Wagner"
+    ],
+    "organizations": [
+      "FSS",
+      "ARTC",
+      "Karr Services"
+    ],
+    "locations": [
+      "LNA",
+      "F45",
+      "NO 331",
+      "PBI",
+      "SAF",
+      "LAS",
+      "VNY",
+      "MRY",
+      "TEB",
+      "DCA",
+      "TIST",
+      "LCE",
+      "EYW"
+    ],
+    "dates": [
+      "19 FEB",
+      "MAR"
+    ],
+    "reference_numbers": [
+      "N75RR",
+      "N908JK",
+      "N9086M",
+      "N908JC",
+      "CGS N# 172",
+      "DOJ-OGR-00015968"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The log includes details such as date, aircraft make and model, identification mark, points of departure and arrival, miles flown, flight number, remarks, and number of landings. The document has a signature at the bottom and includes various locations and people's names."
+}

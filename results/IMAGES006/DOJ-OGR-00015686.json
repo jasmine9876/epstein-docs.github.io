@@ -1,0 +1,49 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Exhibit Label",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "EARTHLITE MADE IN USA VISTA, CALIFORNIA NOTICE MATERIALS CONTAINED IN THIS ARTICLE MEET CALIFORNIA FURNITURE & BEDDING FLAMMABILITY REQUIRMENTS. CARE SHOULD BE EXERCISED NEAR OPEN FLAME OR BURNING CIGARETTE. GOVERNMENT EXHIBIT 51-C S2 20 Cr. 330 (AJN) DOJ-OGR-00015686",
+  "text_blocks": [
+    {
+      "type": "stamp",
+      "content": "EARTHLITE MADE IN USA VISTA, CALIFORNIA",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "NOTICE MATERIALS CONTAINED IN THIS ARTICLE MEET CALIFORNIA FURNITURE & BEDDING FLAMMABILITY REQUIRMENTS. CARE SHOULD BE EXERCISED NEAR OPEN FLAME OR BURNING CIGARETTE.",
+      "position": "right"
+    },
+    {
+      "type": "printed",
+      "content": "GOVERNMENT EXHIBIT 51-C S2 20 Cr. 330 (AJN)",
+      "position": "bottom left"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015686",
+      "position": "bottom right"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [
+      "USA",
+      "California",
+      "Vista"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "51-C",
+      "S2 20 Cr. 330 (AJN)",
+      "DOJ-OGR-00015686"
+    ]
+  },
+  "additional_notes": "The image appears to be a photograph of a wooden cabinet or furniture piece with various labels and stickers attached. The overall quality is clear, but the text on some labels is small."
+}

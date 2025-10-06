@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": "5 of 11",
+    "document_number": "4-447-40902",
+    "date": "Nov 11, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\n\nPicked up: Nov 01, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 3.00% to this shipment.\nDistance Based Pricing, Zone 6\nRelease signature on file.\n\nPowersh\nTracking D 790623160540\nService Type FedEx Priority Overnight\nPackage Type Customer Packaging\nZone 6\nPackages 1\nWeight 15.0 lbs, 6.8 kgs\nDelivered Nov 02, 200209 36\nSvc Area AA\nSigned by E PSTIEN1\nFedEx Use 001758425/01574/02\n\nSender Recipient\nCECILIA STEEN JEFFREY E EPSTEIN\nJEFFREY E EPSTEIN 358 EL LLO WAY\n457 MADISON AVE PALM BEACH FL 33480 US\nNEW YORK NY 10022-6843 US\n\nTransportation Charge 62.25\nDiscount -6.23\nSaturday Delivery 10.00\nFuel Surcharge 1.68\nResidential Delivery 1.35\n\nTotal Transportation Charges USD $ 69.05\n\nPicked up: Nov 01, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 3.00% to this shipment.\nDistance Based Pricing, Zone 6\nRelease signature on file.\n\nPowersh\nTracking D 791222660072\nService Type FedEx Priority Overnight\nPackage Type Customer Packaging\nZone 6\nPackages 1\nWeight 10.0 lbs, 4.5 kgs\nDelivered Nov 02, 200209 36\nSvc Area AA\nSigned by E PSTIEN1\nFedEx Use 001758425/01574/02\n\nSender Recipient\nCECILIA STEEN JEFFREY E EPSTEIN\nJEFFREY E EPSTEIN 358 EL LLO WAY\n457 MADISON AVE PALM BEACH FL 33480 US\nNEW YORK NY 10022-6843 US\n\nTransportation Charge 50.00\nDiscount -5.00\nSaturday Delivery 10.00\nFuel Surcharge 1.35\nResidential Delivery 1.35\n\nTotal Transportation Charges USD $ 57.70\n\nPicked up: Nov 01, 2002 Payor: Shipper Reference: FUEL QTY WD CORE\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 3.00% to this shipment.\nDistance Based Pricing, Zone 2\nPackage sent from: 33461 zip code\n\nTracking D 82864901668\nService Type FedEx 2Day\nPackage Type Customer Packaging\nZone 2\nPackages 1\nWeight 3.0 lbs, 1.4 kgs\nDelivered Nov 04, 200211 09\nSvc Area A2\nSigned by L.NOVA\nFedEx Use 306008320/05980/_\n\nSender Recipient\nLARRY MORRISON CAROLA\nJEFFREY E EPSTEIN TRADE A R\n457 MADISON AVE\nNEW YORK NY 10022-6843 US\n\nTransportation Charge 8.50\nDiscount -0.85\nFuel Surcharge 0.23\n\nTotal Transportation Charges USD $ 7.88\n\nCONFIDENTIAL\n\nSDNY_GM_00340683 21\nDOJ-OGR-00015330",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "CECILIA STEEN",
+      "JEFFREY E EPSTEIN",
+      "LARRY MORRISON",
+      "CAROLA",
+      "E PSTIEN1",
+      "L.NOVA"
+    ],
+    "organizations": [
+      "FedEx"
+    ],
+    "locations": [
+      "NEW YORK",
+      "PALM BEACH",
+      "FL",
+      "NY",
+      "US"
+    ],
+    "dates": [
+      "Nov 01, 2002",
+      "Nov 02, 2002",
+      "Nov 04, 2002",
+      "Nov 11, 2002"
+    ],
+    "reference_numbers": [
+      "4-447-40902",
+      "790623160540",
+      "791222660072",
+      "82864901668",
+      "1144-2081-6",
+      "001758425/01574/02",
+      "306008320/05980/_",
+      "SDNY_GM_00340683",
+      "DOJ-OGR-00015330"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx shipment detail report, containing information about three separate shipments. The report includes details such as tracking numbers, sender and recipient information, package weights, and transportation charges. The document is marked 'CONFIDENTIAL' at the bottom."
+}

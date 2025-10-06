@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": "7 of 8",
+    "document_number": "4-447-52055",
+    "date": "Nov 11, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type (Original)",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\n\nPicked up: Nov 06, 2002    Payor: Shipper    Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\n\nTracking D 790626598360    Sender    CECILIA STEEN    Recipient    ELIZABETH MAXWELL\nService Type FedEx Intl Priority    JEFFREY E. EPSTE N        \nPackage Type FedEx Envelope    457 MADISON AVENUE        \nZone D    4TH FLOOR        \nOrig./Dest. JRB/LON    NEW YORK NY 10022 US        \nPackages 1            \nWeight 0.5 lbs, 0.2 kgs        \nDelivered Nov 08, 2002 11 37    Transportation Charge    28.00\nSigned by T.FLYNN    Fuel Surcharge    1.09\nFedEx Use _/US01O/_    Discount    -0.84\n                Total Transportation Charges    USD $    28.25\n\nDropped off: Nov 06, 2002    Payor: Shipper    Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDiscount applied is the greater of volume discount or dropoff discount. No additional discount applies.\n\nTracking D 831051480228    Sender    KATE    Recipient    JEANNE BRENNAN\nService Type FedEx Intl Economy    JEFFREY E EPSTEIN    FINANCIAL TRUST\nPackage Type Customer Packaging    457 MADISON AVE    6100 RED HOOK QUARTERS\nZone I    NEW YORK NY 10022-6843 US    STE B-3\nOrig./Dest. SAF/STT    ST THOMAS VI        \nPackages 1            \nWeight 1.0 lbs, 0.5 kgs        \nDelivered Nov 07, 2002 16 01    Transportation Charge    37.60\nSigned by D.WALLACE    Fuel Surcharge    1.46\nDec. Value USD 1 00    Discount    -1.13\nFedEx Use _/US01O/_        \n                Total Transportation Charges    USD $    37.93\n\nPicked up: Nov 07, 2002    Payor: Shipper    Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nFedEx has audited this airbill for correct pieces, weight, and service. Any changes made are reflected in the invoice amount.\n\nTracking D 790627365223    Sender    CECILIA STEEN    Recipient    JEANNE BRENNAN\nService Type FedEx Intl Priority    JEFFREY E. EPSTE N    FINANCIAL TRUST COMPANY\nPackage Type FedEx Pak    457 MADISON AVENUE    6100 RED HOOK QUARTER\nZone I    4TH FLOOR    SUITE B-3\nOrig./Dest. JRB/STT    NEW YORK NY 10022 US    ST. THOMAS 00802 VI\nPackages 1        \nWeight 4.9 lbs, 2.2 kgs        \nDelivered Nov 08, 2002 17 23    Transportation Charge    71.73\nSigned by J RUAN    Fuel Surcharge    2.78\nFedEx Use _/US01O/_    Discount    -2.15\n                Total Transportation Charges    USD $    72.36\n\nShipment Detail Subtotal ......................................................USD $    531.36\n\nCONFIDENTIAL\nSDNY_GM_00340696 34\nDOJ-OGR-00015343",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "CECILIA STEEN",
+      "JEFFREY E. EPSTE N",
+      "ELIZABETH MAXWELL",
+      "KATE",
+      "JEANNE BRENNAN",
+      "T.FLYNN",
+      "D.WALLACE",
+      "J RUAN"
+    ],
+    "organizations": [
+      "FedEx",
+      "FINANCIAL TRUST",
+      "FINANCIAL TRUST COMPANY"
+    ],
+    "locations": [
+      "NEW YORK",
+      "ST THOMAS",
+      "ST. THOMAS",
+      "JRB",
+      "LON",
+      "SAF",
+      "STT",
+      "VI"
+    ],
+    "dates": [
+      "Nov 06, 2002",
+      "Nov 08, 2002",
+      "Nov 07, 2002",
+      "Nov 11, 2002"
+    ],
+    "reference_numbers": [
+      "4-447-52055",
+      "790626598360",
+      "831051480228",
+      "790627365223",
+      "1144-2081-6",
+      "SDNY_GM_00340696",
+      "DOJ-OGR-00015343"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx shipment detail report, containing information about three separate shipments. The report includes details such as tracking numbers, sender and recipient information, package details, and transportation charges. The document is marked as 'CONFIDENTIAL' at the bottom."
+}

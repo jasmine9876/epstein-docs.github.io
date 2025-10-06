@@ -1,0 +1,59 @@
+{
+  "document_metadata": {
+    "page_number": "42",
+    "document_number": "DOJ-OGR-00015839",
+    "date": null,
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... 19Jun30 G1159B N908JC TEB PBI 847 AERPLANE 2 0 2 G1159B \" PBI TEB 848 2 5 5 \" \" TEB PBI 849 2 3 18 \" \" PBI TEB 850 2 2 19 \" \" TEB PBI 851 2 1 24-Jul \" SIMULATOR SAV SAV 6 0 9 \" \" N908JC SAF CMH 860 2 5 10 \" \" CMH TEB 861 1 2 12 \" \" TEB MVY 862 6 12 \" \" MVY TEB 863 9 12 \" \" TEB PBI 864 2 4 15 \" \" PBI TEB 865 2 3 16 \" \" TEB PBI 866 2 1 17 \" \" PBI SAV 867 9 25 \" \" SAV GWR 869 1 7 19 \" \" PBI TEB 873 2 3 14 \" \" TEB TVC 874 1 5 16 \" \" TVC TEB 875 1 4 18 \" \" TEB MVY 876 6 I certify that the statements made by me on this form are true. Pilot's Signature David Rodger Page Total 13 12 375 Amount Forward 5846 561 6702.6 Total to Date 5851 373 6740.1",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "19Jun30 G1159B N908JC TEB PBI 847 AERPLANE 2 0 ...",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David Rodger",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total 13 12 375 Amount Forward 5846 561 6702.6 Total to Date 5851 373 6740.1",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rodger"
+    ],
+    "organizations": [],
+    "locations": [
+      "TEB",
+      "PBI",
+      "SAV",
+      "SAF",
+      "CMH",
+      "MVY",
+      "GWR",
+      "TVC"
+    ],
+    "dates": [
+      "19Jun30",
+      "24-Jul"
+    ],
+    "reference_numbers": [
+      "N908JC",
+      "G1159B",
+      "DOJ-OGR-00015839"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries and a signature at the bottom. The 'Remarks, Procedures, Maneuvers, Endorsements' column is partially redacted."
+}

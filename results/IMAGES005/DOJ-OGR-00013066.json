@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "53",
+    "document_number": "753",
+    "date": "08/10/22",
+    "document_type": "Court Transcript",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 753 Filed 08/10/22 Page 53 of 264 1479 LC7Cmax2 Flatley - direct 1 Q. What is AccessData's lab? 2 A. It's a piece of forensic software. 3 Q. Did there come a time when you were asked to review the 4 image you made of Government Exhibit 54? 5 A. Yes, there did. 6 MS. POMERANTZ: Ms. Drescher, could we please pull up 7 for the witness, the Court, and the parties what's been marked 8 for identification as Government Exhibit 419. 9 Q. Mr. Flatley, do you recognize this? 10 A. Yes, I do. 11 Q. What is it? 12 A. It is a piece of the software registry information for 13 government's 54. 14 Q. And what is registry software information? 15 A. So the registry is a database, a hierarchical database that 16 Windows uses to store all its settings. 17 Q. Does Government Exhibit 419 fairly and accurately reflect 18 the registry software information for Government Exhibit 54? 19 A. Yes, it does. 20 MS. POMERANTZ: Your Honor, the government offers 21 Government Exhibit 419. 22 MS. MENNINGER: No objection, your Honor. 23 THE COURT: Thank you. GX419 is admitted. You may 24 publish. 25 (Government's Exhibit 419 received in evidence) SOUTHERN DISTRICT REPORTERS, P.C. (212) 805-0300 DOJ-OGR-00013066",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 753 Filed 08/10/22 Page 53 of 264 1479",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "LC7Cmax2 Flatley - direct",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "1 Q. What is AccessData's lab? 2 A. It's a piece of forensic software. 3 Q. Did there come a time when you were asked to review the 4 image you made of Government Exhibit 54? 5 A. Yes, there did. 6 MS. POMERANTZ: Ms. Drescher, could we please pull up 7 for the witness, the Court, and the parties what's been marked 8 for identification as Government Exhibit 419. 9 Q. Mr. Flatley, do you recognize this? 10 A. Yes, I do. 11 Q. What is it? 12 A. It is a piece of the software registry information for 13 government's 54. 14 Q. And what is registry software information? 15 A. So the registry is a database, a hierarchical database that 16 Windows uses to store all its settings. 17 Q. Does Government Exhibit 419 fairly and accurately reflect 18 the registry software information for Government Exhibit 54? 19 A. Yes, it does. 20 MS. POMERANTZ: Your Honor, the government offers 21 Government Exhibit 419. 22 MS. MENNINGER: No objection, your Honor. 23 THE COURT: Thank you. GX419 is admitted. You may 24 publish. 25 (Government's Exhibit 419 received in evidence)",
+      "position": "main"
+    },
+    {
+      "type": "printed",
+      "content": "SOUTHERN DISTRICT REPORTERS, P.C. (212) 805-0300",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00013066",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Flatley",
+      "Pomerantz",
+      "Drescher",
+      "Menninger"
+    ],
+    "organizations": [
+      "AccessData",
+      "SOUTHERN DISTRICT REPORTERS, P.C."
+    ],
+    "locations": [],
+    "dates": [
+      "08/10/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "753",
+      "54",
+      "419",
+      "GX419",
+      "DOJ-OGR-00013066"
+    ]
+  },
+  "additional_notes": "The document appears to be a court transcript with a clear and legible format. There are no visible redactions or damage."
+}

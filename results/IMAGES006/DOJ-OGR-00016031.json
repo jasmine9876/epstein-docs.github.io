@@ -1,0 +1,107 @@
+{
+  "document_metadata": {
+    "page_number": "116",
+    "document_number": "DOJ-OGR-00016031",
+    "date": null,
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... From To Helicopter Glider Airplane\nJUN 5 G-1159B N909JC PBI TEB 1857 JC, AM, SK LV 2 5\n10 \" \" \" TIST TEB 2012 JC, AM, DB BH 1/1 4 5\n18 \" \" \" PBI TEB 1902 JC, DB, SK LV 1/1 2 6\n20 \" \" \" TEB BKL 1793 GM, IAN JIM DOWD 1/1 1 2\n20 \" \" \" BKL TEB 1794 GM, IAN \" \" 1/1 1 2\n22 \" \" \" TEB PBI 1856 JC, SK, DB, TATIANNA BH 2 5\n25 \" \" \" PBI TEB 2013 JC, SK, DB, TATIANNA BH 1/1 2 6\n28 \" \" \" TEB TIST 1847 JC JK BH 1/1 3 9\nAUG 1 \" \" \" TIST TEB 1818 TEB, JK BH 1/1 3 8\n2 \" \" \" TEB SAF 1799 JC, SK, DB, AM, ALEX, NATALIE BH 1/1 3 6\n18 \" \" \" TEB PBI 1802 JC, AM, TRACY, MUCINSKA, LV 1/1 2 3\n22 \" \" \" PBI TEB 1888 JC LV 2 5\n24 K \" \" TEB FDK 1857 JC, DB LV 1/1 8\n24 \" \" \" FDK TEB 1828 JC, DB LV 1/1 3\n26 \" \" \" TEB MVY 1809 JC, DB, SK, DM LV  3\n26 \" \" \" MVY TIST 1810 JC, DB, DM, SK LV  3 3\n27 \" \" \" TIST PBI 1811 JC LV 1/1 2 6\nSEP 5 \" \" \" PBI TEB 1914 JC, DB, GM, AM BH 2 4\n8 B-727-200 SEMUCLER MFA MFA  HDL LGTO - INSTR ACTR LM 2 0\nI certify that the statements made by me on this form are true.\nPilot's Signature David Rodge\nPage Total 12/1 45 4\nAmount Forward 6813 4 419 9767 4 3 3 129 4\nTotal to Date 6825 6430 9812 8 3 3 129 4",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... From To Helicopter Glider Airplane",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "JUN 5 G-1159B N909JC PBI TEB 1857 JC, AM, SK LV 2 5",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true.",
+      "position": "bottom"
+    },
+    {
+      "type": "signature",
+      "content": "David Rodge",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rodge",
+      "JIM DOWD",
+      "TATIANNA",
+      "JK",
+      "ALEX",
+      "NATALIE",
+      "TRACY",
+      "MUCINSKA",
+      "GM",
+      "IAN",
+      "JC",
+      "AM",
+      "SK",
+      "DB",
+      "DM"
+    ],
+    "organizations": [],
+    "locations": [
+      "PBI",
+      "TEB",
+      "TIST",
+      "BKL",
+      "SAF",
+      "FDK",
+      "MVY",
+      "MFA"
+    ],
+    "dates": [
+      "JUN 5",
+      "JUN 10",
+      "JUN 18",
+      "JUN 20",
+      "JUN 22",
+      "JUN 25",
+      "JUN 28",
+      "AUG 1",
+      "AUG 2",
+      "AUG 18",
+      "AUG 22",
+      "AUG 24",
+      "AUG 26",
+      "AUG 27",
+      "SEP 5",
+      "SEP 8"
+    ],
+    "reference_numbers": [
+      "G-1159B",
+      "N909JC",
+      "1857",
+      "2012",
+      "1902",
+      "1793",
+      "1794",
+      "1856",
+      "2013",
+      "1847",
+      "1818",
+      "1799",
+      "1802",
+      "1888",
+      "1857",
+      "1828",
+      "1809",
+      "1810",
+      "1811",
+      "1914",
+      "B-727-200",
+      "SEMUCLEP",
+      "DOJ-OGR-00016031"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. Some information in the 'Remarks, Procedures, Maneuvers, Endorsements' column is redacted."
+}

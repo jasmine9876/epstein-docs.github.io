@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "5 of 6",
+    "document_number": "4-494-58432",
+    "date": "Dec 02, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\n\nPicked up: Nov 26, 2002    Payor: Shipper    Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 2\nPackage sent from: 11236 zip code\n\nTracking D 837540428114\nService Type FedEx Priority Overnight\nPackage Type FedEx Envelope\nZone 2\nPackages 1\nWeight 1.0 lbs, 0.5 kgs\nDelivered Nov 27, 2002 09:41\nSvc Area A1\nSigned by MAXWELL\nFedEx Use 330308060/00186/\n\nSender FRANCES GOLDMAN\nJEFFREY E EPSTEIN\n457 MADISON AVE\nNEW YORK NY 10022-6843 US\n\nRecipient GH BLA NE MAXWELL\n16 TH EAST ST\nNEW YORK NY 10021 US\n\nTransportation Charge 13.10\nDiscount -2.10\nFuel Surcharge 0.44\nCourier Pickup Charge 0.00\n\nTotal Transportation Charges USD $ 11.44\n\nShipment Detail Subtotal ...............................................USD $ 135.15\n\nDropped off: Nov 15, 2002    Payor: Recipient    Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 6\n\nTracking D 006087420625\nService Type FedEx Priority Overnight\nPackage Type FedEx Envelope\nZone 6\nPackages 1\nWeight 1.0 lbs, 0.5 kgs\nDelivered Nov 18, 2002 09:20\nSvc Area A1\nSigned by S.GR FFIS\nFedEx Use 320082040/00230/\n\nSender KATHY ELLIOTT\nCHARLOTS OF PALM BEACH NC\n\nRecipient ERIC GANY\nJ EPSTEIN & CO\n457 MADISON AVENUE 4TH FL\nNEW YORK NY 10022 US\n\nTransportation Charge 16.00\nDiscount -2.56\nFuel Surcharge 0.54\n\nTotal Transportation Charges USD $ 13.98\n\nShipment Detail Subtotal ...............................................USD $ 13.98\n\nCONFIDENTIAL\nSDNY_GM_00340753 88\nDOJ-OGR-00015397",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "FRANCES GOLDMAN",
+      "JEFFREY E EPSTEIN",
+      "GH BLA NE MAXWELL",
+      "KATHY ELLIOTT",
+      "ERIC GANY",
+      "MAXWELL",
+      "S.GR FFIS"
+    ],
+    "organizations": [
+      "FedEx",
+      "J EPSTEIN & CO",
+      "CHARLOTS OF PALM BEACH"
+    ],
+    "locations": [
+      "NEW YORK",
+      "PALM BEACH",
+      "NC",
+      "US"
+    ],
+    "dates": [
+      "Nov 26, 2002",
+      "Nov 27, 2002",
+      "Dec 02, 2002",
+      "Nov 15, 2002",
+      "Nov 18, 2002"
+    ],
+    "reference_numbers": [
+      "4-494-58432",
+      "1144-2081-6",
+      "837540428114",
+      "330308060/00186/",
+      "006087420625",
+      "320082040/00230/",
+      "SDNY_GM_00340753",
+      "DOJ-OGR-00015397"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx shipment detail report, containing information about two separate shipments. The document is marked 'CONFIDENTIAL' at the bottom."
+}

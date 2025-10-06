@@ -1,0 +1,45 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "23",
+    "date": "09/10/2020",
+    "document_type": "Exhibit",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 20-3061, Document 23, 09/10/2020, 2928294, Page1 of 6\n\nEXHIBIT F\n\nDOJ-OGR-00019327",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 20-3061, Document 23, 09/10/2020, 2928294, Page1 of 6",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EXHIBIT F",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00019327",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "09/10/2020"
+    ],
+    "reference_numbers": [
+      "20-3061",
+      "23",
+      "2928294",
+      "DOJ-OGR-00019327"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear header and footer. The content is mostly printed text with no visible handwriting or stamps."
+}

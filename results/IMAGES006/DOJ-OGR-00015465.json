@@ -1,0 +1,89 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00015465",
+    "date": "12/04/04",
+    "document_type": "Important Message",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "IMPORTANT MESSAGE FOR Mr. J.E. DATE 12/09/04 TIME 240 A.M. P.M. Mr. Goldsmith OF PHONE/ MOBILE (772) 971- TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Please call him SIGNED IMPORTANT MESSAGE FOR Mr. J.E. DATE 12/04/04 TIME 420 A.M. P.M. Ms G. Maxwell OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Please Call her. SIGNED IMPORTANT MESSAGE FOR Mr. J.E. DATE 12/04/09 TIME 3:30 A.M. P.M. Ms G. Maxwell OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Please call her SIGNED GOVERNMENT EXHIBIT 1-J-R S2 20 Cr. 330 (AJN) IMPORTANT MESSAGE FOR Mr. J.E. DATE 12/04/04 TIME 545 A.M. P.M. DOJ REDACTION OF PHONE/ MOBILE (561) 719- TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Please Call her SIGNED DOJ-OGR-00015465",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Mr. J.E.",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "12/09/04",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "240",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Mr. Goldsmith",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "PHONE/ MOBILE",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "(772) 971-",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Please call him",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "SIGNED",
+      "position": "bottom"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 1-J-R S2 20 Cr. 330 (AJN)",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Mr. J.E.",
+      "Mr. Goldsmith",
+      "Ms G. Maxwell"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "12/04/04",
+      "12/04/09",
+      "12/09/04"
+    ],
+    "reference_numbers": [
+      "(772) 971-",
+      "(561) 719-",
+      "DOJ-OGR-00015465",
+      "S2 20 Cr. 330 (AJN)"
+    ]
+  },
+  "additional_notes": "The document contains four 'Important Message' forms with handwritten notes and a government exhibit stamp. Some phone numbers are redacted."
+}

@@ -1,0 +1,87 @@
+{
+  "document_metadata": {
+    "page_number": "109",
+    "document_number": "DOJ-OGR-00016024",
+    "date": "2004",
+    "document_type": "Pilot's Logbook Page",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... Airplane Glider Weight 27 MAY B-727-31F N9083C PBI JFK 263 JE,BT TD 2 2 4 JFK PBI 264 JG SK 2 6 5 JFK LFPB 266 JG,GM TD SK 2 4 8 LFPB EGGW 267 JG,GM SK 1 6 9 10 EGGW LKPR 268 JG,GM ISK 9 12 LKPR LFPB 269 JG,GM,JLB 1 8 14 LFPB CYQX 270 JG SK 1 4 14 CYQX PBI 271 JG SK 5 8 15 G-1159B N909JS PBI PBI 1709 RN 4 2 17 PBI TGB 1708 JE,BT TD 3 2 21 TGB PBI 1708 JE,BT TD 2 4 24 PBI TSS 1710 JE SK,TD 2 4 31 TSS TGB 1711 JE SK,TD 2 5 4 TGB HVN 1712 BT 4 2 4 HVN PBI 1713 JE,BT,MS TD 5 7 PBI TGB 1714 JE,BT,MS TD 2 7 9 TGB BED 1715 JE,MS,SK 2 5 9 BED TGB 1716 JE,MS,SK 8 I certify that the statements made by me on this form are true. David Redding Pilot's Signature Page Total 7 487 Amount Forward 6759 94311 331250 Total to Date 7566 94798 331250",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... Airplane Glider Weight",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "27 MAY B-727-31F N9083C PBI JFK 263 JE,BT TD 2 2 ...",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. David Redding",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Redding"
+    ],
+    "organizations": [],
+    "locations": [
+      "PBI",
+      "JFK",
+      "LFPB",
+      "EGGW",
+      "LKPR",
+      "CYQX",
+      "TGB",
+      "TSS",
+      "HVN",
+      "BED"
+    ],
+    "dates": [
+      "27 MAY 2004",
+      "4 JUN 2004",
+      "5 JUN 2004",
+      "8 JUN 2004",
+      "10 JUN 2004",
+      "12 JUN 2004",
+      "14 JUN 2004",
+      "15 JUN 2004",
+      "17 JUN 2004",
+      "21 JUN 2004",
+      "24 JUN 2004",
+      "31 JUN 2004",
+      "4 JUL 2004",
+      "7 JUL 2004",
+      "9 JUL 2004"
+    ],
+    "reference_numbers": [
+      "N9083C",
+      "N909JS",
+      "263",
+      "264",
+      "265",
+      "266",
+      "267",
+      "268",
+      "269",
+      "270",
+      "271",
+      "1709",
+      "1708",
+      "1710",
+      "1711",
+      "1712",
+      "1713",
+      "1714",
+      "1715",
+      "1716",
+      "DOJ-OGR-00016024"
+    ]
+  },
+  "additional_notes": "The document is a pilot's logbook page with handwritten entries. The page is numbered 109 and has a total of 7 pages. The logbook entries are for flights made in May, June, and July 2004."
+}

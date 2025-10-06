@@ -1,0 +1,79 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "DOJ-OGR-00015800",
+    "date": "1941 Aug",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE 1941 Aug | AIRCRAFT MAKE AND MODEL | AIRCRAFT IDENTIFICATION MARK | POINTS OF DEPARTURE & ARRIVAL | MILES FLOWN | FLT. NO. | REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS | AIRCRAFT CATEGORY\n27 | 4525-700 | N9085E | CMH TCB | 50 | 23 |  | 1 3 | 1 3 | 1 | 11\n29 | \" | \" | TCB NEW | 120 | 24 |  | 2 0 | 2 0 | 2 | 11\n29 | \" | \" | NEW PST |  | 25 |  | 5 | 5 | 1 | 11\n30 | \" | \" | PST TEB | 60 | 26 |  | 2 7 | 2 7 | 2 | 11\n5 | \" | \" | TEB CMH |  | 27 |  | 1 5 | 1 5 | 1 | 11\n8 | \" | \" | CMH LGA | 65 | 28 |  | 1 3 | 1 3 | 1 | 11\n8 | \" | \" | LGA HTO |  | 29 |  | 3 | 3 |  | 11\n10 | \" | \" | HTO TEB | 50 | 30 |  | 1 6 | 1 6 |  | 11\n12 | \" | \" | TEB CMH |  | 31 |  | 1 4 | 1 4 | 1 | 11\n13 | \" | \" | CMH BKL |  | 32 |  | 5 | 5 |  | 11\n13 | \" | \" | BKL CMH |  | 33 |  | 1 4 | 1 4 | 1 | 11\n17 | \" | \" | CMH BKL |  | 34 |  | 5 | 5 |  | 11\n17 | \" | \" | BKL TEB |  | 35 |  |  |  | 1 | 11\n18 | \" | \" | TEB BKL |  | 36 |  | 1 3 | 1 3 | 1 | 11\n19 | \" | \" | BKL CMH |  | 37 |  | 5 | 5 |  | 11\n19 | \" | \" | CMH BKL |  | 38 |  | 1 4 | 1 4 |  | 11\n19 | \" | \" | BKL CMH |  | 39 |  | 1 |  | 1 | 11\n30 | \" | \" | CMH CMH | 30 | 40 |  | 1 |  |  | 11\nI certify that the statements made by me on this form are true.\nPILOT'S SIGNATURE autograph\nAMT. FORWARD 3317 5214 | TOTAL TO DATE 5335 5225 | 5419 3790 1782 | 1763",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE 1941 Aug | AIRCRAFT MAKE AND MODEL | AIRCRAFT IDENTIFICATION MARK | POINTS OF DEPARTURE & ARRIVAL | MILES FLOWN | FLT. NO. | REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS | AIRCRAFT CATEGORY",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "27 | 4525-700 | N9085E | CMH TCB | 50 | 23 |  | 1 3 | 1 3 | 1 | 11\n29 | \" | \" | TCB NEW | 120 | 24 |  | 2 0 | 2 0 | 2 | 11\n29 | \" | \" | NEW PST |  | 25 |  | 5 | 5 | 1 | 11\n30 | \" | \" | PST TEB | 60 | 26 |  | 2 7 | 2 7 | 2 | 11\n5 | \" | \" | TEB CMH |  | 27 |  | 1 5 | 1 5 | 1 | 11\n8 | \" | \" | CMH LGA | 65 | 28 |  | 1 3 | 1 3 | 1 | 11\n8 | \" | \" | LGA HTO |  | 29 |  | 3 | 3 |  | 11\n10 | \" | \" | HTO TEB | 50 | 30 |  | 1 6 | 1 6 |  | 11\n12 | \" | \" | TEB CMH |  | 31 |  | 1 4 | 1 4 | 1 | 11\n13 | \" | \" | CMH BKL |  | 32 |  | 5 | 5 |  | 11\n13 | \" | \" | BKL CMH |  | 33 |  | 1 4 | 1 4 | 1 | 11\n17 | \" | \" | CMH BKL |  | 34 |  | 5 | 5 |  | 11\n17 | \" | \" | BKL TEB |  | 35 |  |  |  | 1 | 11\n18 | \" | \" | TEB BKL |  | 36 |  | 1 3 | 1 3 | 1 | 11\n19 | \" | \" | BKL CMH |  | 37 |  | 5 | 5 |  | 11\n19 | \" | \" | CMH BKL |  | 38 |  | 1 4 | 1 4 |  | 11\n19 | \" | \" | BKL CMH |  | 39 |  | 1 |  | 1 | 11\n30 | \" | \" | CMH CMH | 30 | 40 |  | 1 |  |  | 11",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "I certify that the statements made by me on this form are true.",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "autograph",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "PILOT'S SIGNATURE",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "AMT. FORWARD 3317 5214 | TOTAL TO DATE 5335 5225 | 5419 3790 1782 | 1763",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "autograph"
+    ],
+    "organizations": [],
+    "locations": [
+      "CMH",
+      "TCB",
+      "NEW",
+      "PST",
+      "TEB",
+      "LGA",
+      "HTO",
+      "BKL"
+    ],
+    "dates": [
+      "1941 Aug 27",
+      "1941 Aug 29",
+      "1941 Aug 30",
+      "1941 Sep 5",
+      "1941 Sep 8",
+      "1941 Sep 10",
+      "1941 Sep 12",
+      "1941 Sep 13",
+      "1941 Sep 17",
+      "1941 Sep 18",
+      "1941 Sep 19",
+      "1941 Sep 30"
+    ],
+    "reference_numbers": [
+      "4525-700",
+      "N9085E",
+      "DOJ-OGR-00015800"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log from August 1941. The log contains handwritten entries detailing flight information, including dates, aircraft make and model, identification marks, departure and arrival points, miles flown, and flight numbers. The document is signed by the pilot."
+}

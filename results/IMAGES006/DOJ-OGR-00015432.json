@@ -1,0 +1,67 @@
+{
+  "document_metadata": {
+    "page_number": "5",
+    "document_number": "4-495-33932",
+    "date": "Dec 16, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx\nInvoice Number: 4-495-33932\nInvoice Date: Dec 16, 2002\nAccount Number: 1144-2081-6\nPage: 5 of 15\nFedEx Express Shipment Detail By Payment Type (Original)\nPicked up: Dec 03, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nThe delivery commitment for FedEx 2day to homes or private residences (Including home offices) is 7 P M. the second business day for A1, A2, AA, A3, AM, PM, 01 and RM service areas.\nDistance Based Pricing, Zone 6\nPackage sent from: 10021 zip code\nFedEx has audited this shipment for correct packages, weight, and service. Any changes made are reflected in the invoice amount.\nTracking ID 837133955277 Sender S KELLEN Recipient JEFFREY E EPSTEIN\nService Type FedEx 2Day JEFFREY E EPSTEIN\nPackage Type FedEx Pak 457 MADISON AVE\nZone 6 NEW YORK NY 10022-6843 US\nPackages 1\nWeight 2.0 lbs, 0.9 kgs\nDelivered Dec 05, 2002 16:35 Transportation Charge 10.50\nSvc Area 2R Discount -1.05\nSigned by Fuel Surcharge 0.38\nFedEx Use 340115650/06068/_ Residential Delivery 1.35\nTotal Transportation Charges USD $ 11.18\nPicked up: Dec 03, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 7\nPackage sent from: 10021 zip code\nRelease signature on file.\nTracking ID 837133955288 Sender E SIMMONDS Recipient S PASCUZZI\nService Type FedEx Priority Overnight JEFFREY E EPSTEIN ZORRO RANCH\nPackage Type Customer Packaging 457 MADISON AVE 49 ZORRO RANCH ROAD\nZone 7 NEW YORK NY 10022-6843 US STANLEY NM 87056 US\nPackages 1\nWeight 10.0 lbs, 4.5 kgs\nDelivered Dec 04, 2002 17:14 Transportation Charge 51.75\nSvc Area RM Discount -5.18\nSigned by 7279236 Fuel Surcharge 1.86\nFedEx Use 340115640/01596/02 Residential Delivery 1.35\nDelivery Area Surcharge 1.50\nTotal Transportation Charges USD $ 51.28\nCONFIDENTIAL\nSDNY_GM_00340784 123\nDOJ-OGR-00015432",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx\nInvoice Number: 4-495-33932\nInvoice Date: Dec 16, 2002\nAccount Number: 1144-2081-6\nPage: 5 of 15",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SDNY_GM_00340784 123\nDOJ-OGR-00015432",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY E EPSTEIN",
+      "S KELLEN",
+      "E SIMMONDS",
+      "S PASCUZZI"
+    ],
+    "organizations": [
+      "FedEx"
+    ],
+    "locations": [
+      "NEW YORK",
+      "STANLEY",
+      "457 MADISON AVE",
+      "49 ZORRO RANCH ROAD"
+    ],
+    "dates": [
+      "Dec 03, 2002",
+      "Dec 05, 2002",
+      "Dec 04, 2002",
+      "Dec 16, 2002"
+    ],
+    "reference_numbers": [
+      "4-495-33932",
+      "1144-2081-6",
+      "837133955277",
+      "837133955288",
+      "340115650/06068/_",
+      "340115640/01596/02",
+      "SDNY_GM_00340784",
+      "DOJ-OGR-00015432"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx invoice with two shipment details. The document is marked as 'CONFIDENTIAL' and has a footer with reference numbers."
+}

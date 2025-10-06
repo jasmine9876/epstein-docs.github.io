@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "1:20-mj-00132-AJ Document 2",
+    "date": "07/02/20",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-mj-00132-AJ Document 2 Filed 07/02/20 Page 4 of 7 33 state. Further, in New Hampshire approximately 3,475 people are being monitored for signs of COVID-19 infection, over 120,307 total tests have been reported (both positive and negative test results), and community-based transmission has been confirmed.4 Nationally, the number of confirmed cases has grown to over 2,797,737, with 130,984 cases resulting in death.5 Given the contagious nature of the virus and the exponential growth in cases, COVID-19 presents an enormous danger to the health and safety of the public, including the litigants, security, and court personnel involved in this proceeding. The court's interest in preventing the spread of COVID-19 and preserving the health of all hearing participants, including the public, is a weighty and substantial interest that would likely be prejudiced if the court were not to impose this partial closure. See United States v. Smith, 426 F.3d 567, 572-73 (2d Cir. 2005) (finding that U.S. Marshal's policy after September 11th of requiring unknown visitors to court to produce photo identification constituted partial closure of courtroom 4 COVID-19, N.H. Dep't of Health and Human Servs., https://www.nh.gov/covid19/ (last visited 12:00 p.m. July 2, 2020); Explore the Data: Tracking COVID-19 in New Hampshire, N.H. Pub. Radio, https://www.nhpr.org/post/updated-tracking-covid-19-cases-and-testing-new-hampshire#stream/0 (last visited 12:00 p.m. July 2, 2020). 5 Real Clear Politics, https://www.realclearpolitics.com/ (last visited 12:45 p.m. July 2, 2020). 4 DOJ-OGR-00019226",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-mj-00132-AJ Document 2 Filed 07/02/20 Page 4 of 7 33",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "state. Further, in New Hampshire approximately 3,475 people are being monitored for signs of COVID-19 infection, over 120,307 total tests have been reported (both positive and negative test results), and community-based transmission has been confirmed.4 Nationally, the number of confirmed cases has grown to over 2,797,737, with 130,984 cases resulting in death.5 Given the contagious nature of the virus and the exponential growth in cases, COVID-19 presents an enormous danger to the health and safety of the public, including the litigants, security, and court personnel involved in this proceeding. The court's interest in preventing the spread of COVID-19 and preserving the health of all hearing participants, including the public, is a weighty and substantial interest that would likely be prejudiced if the court were not to impose this partial closure. See United States v. Smith, 426 F.3d 567, 572-73 (2d Cir. 2005) (finding that U.S. Marshal's policy after September 11th of requiring unknown visitors to court to produce photo identification constituted partial closure of courtroom",
+      "position": "main body"
+    },
+    {
+      "type": "printed",
+      "content": "4 COVID-19, N.H. Dep't of Health and Human Servs., https://www.nh.gov/covid19/ (last visited 12:00 p.m. July 2, 2020); Explore the Data: Tracking COVID-19 in New Hampshire, N.H. Pub. Radio, https://www.nhpr.org/post/updated-tracking-covid-19-cases-and-testing-new-hampshire#stream/0 (last visited 12:00 p.m. July 2, 2020). 5 Real Clear Politics, https://www.realclearpolitics.com/ (last visited 12:45 p.m. July 2, 2020).",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "4",
+      "position": "page number"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00019226",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Smith"
+    ],
+    "organizations": [
+      "N.H. Dep't of Health and Human Servs.",
+      "N.H. Pub. Radio",
+      "Real Clear Politics",
+      "U.S. Marshal"
+    ],
+    "locations": [
+      "New Hampshire",
+      "United States"
+    ],
+    "dates": [
+      "July 2, 2020",
+      "September 11th"
+    ],
+    "reference_numbers": [
+      "1:20-mj-00132-AJ",
+      "426 F.3d 567"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing related to COVID-19. The text is mostly printed, with no handwritten content or stamps visible. The document is from a legal proceeding and includes references to court cases and external sources."
+}

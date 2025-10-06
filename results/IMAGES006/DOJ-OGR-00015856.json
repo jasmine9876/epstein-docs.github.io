@@ -1,0 +1,87 @@
+{
+  "document_metadata": {
+    "page_number": "59",
+    "document_number": null,
+    "date": "1945",
+    "document_type": "Pilot's Logbook Page",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date 1945 Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... From To AIRPLANE GLIDER 9-4 G1159B N909JC TCB TIST 1154 1/1 37 4 11 TISS PBI 1155 1/1 25 8 \" \" PBI TCB 1156 1/1 27 13 \" \" TCB SAF 1171 1/1 40 9/15 GROB 1037A N307DG OED ccc 3 9/15 G103 S/A \" \" ccc 4 9/15 G103MG \" \" ccc 5 9/15 G1038A \" 7 ccc 3 9/15 \" \" 4 ccc 6 9/15 \" \" 4 ccc 3 10/10 G1159B N909JC SAF ASC 1158 1/1 6 19 \" \" ASC IAD 1159 1/2 36 30 19 \" \" IAD TCB 1160 6 6 25 \" \" TCB DCA 1161 1/1 7 7 25 \" \" DCA IAD 1162 1 1 25 \" \" IAD TCB 1163 7 7 26 \" \" TCB PBI 1164 i/1 21 6/5 \" \" PBI TCB 1165 2/2 22 Page Total 516 224 24 Amount Forward 6138 73055 9 Total to Date 6196 73254 33 I certify that the statements made by me on this form are true. Pilot's Signature David M. Podgore",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date 1945 Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... From To AIRPLANE GLIDER",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "9-4 G1159B N909JC TCB TIST 1154 1/1 37 4 11 TISS PBI 1155 1/1 25 8 \" \" PBI TCB 1156 1/1 27 13 \" \" TCB SAF 1171 1/1 40 9/15 GROB 1037A N307DG OED ccc 3 9/15 G103 S/A \" \" ccc 4 9/15 G103MG \" \" ccc 5 9/15 G1038A \" 7 ccc 3 9/15 \" \" 4 ccc 6 9/15 \" \" 4 ccc 3 10/10 G1159B N909JC SAF ASC 1158 1/1 6 19 \" \" ASC IAD 1159 1/2 36 30 19 \" \" IAD TCB 1160 6 6 25 \" \" TCB DCA 1161 1/1 7 7 25 \" \" DCA IAD 1162 1 1 25 \" \" IAD TCB 1163 7 7 26 \" \" TCB PBI 1164 i/1 21 6/5 \" \" PBI TCB 1165 2/2 22",
+      "position": "main"
+    },
+    {
+      "type": "printed",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "David M. Podgore",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "516 224 24 6138 73055 9 6196 73254 33",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David M. Podgore"
+    ],
+    "organizations": [],
+    "locations": [
+      "TCB",
+      "TIST",
+      "PBI",
+      "SAF",
+      "OED",
+      "ASC",
+      "IAD",
+      "DCA"
+    ],
+    "dates": [
+      "9-4",
+      "9/15",
+      "10/10",
+      "6/5"
+    ],
+    "reference_numbers": [
+      "G1159B",
+      "N909JC",
+      "GROB 1037A",
+      "N307DG",
+      "G103 S/A",
+      "G103MG",
+      "G1038A",
+      "1154",
+      "1155",
+      "1156",
+      "1171",
+      "1158",
+      "1159",
+      "1160",
+      "1161",
+      "1162",
+      "1163",
+      "1164",
+      "1165"
+    ]
+  },
+  "additional_notes": "The document is a pilot's logbook page with handwritten entries. The page is partially obscured by a black rectangle, but the visible text has been transcribed accurately."
+}

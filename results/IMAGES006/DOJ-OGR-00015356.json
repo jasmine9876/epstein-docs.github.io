@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": "12 of 14",
+    "document_number": "4-447-80862",
+    "date": "Nov 18, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\n\nPicked up: Nov 14, 2002    Payor: Shipper    Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 6\n\nInternetShip    Tracking D    790632119515    Service Type    FedEx Priority Overnight    Package Type    FedEx Envelope    Zone    6    Packages    1    Weight    1.0 lbs, 0.5 kgs    Delivered    Nov 15, 2002 09:49    Svc Area    AA    Signed by    BELL    FedEx Use    523375744/00230/_\n\nSender    CECILIA STEEN    JEFFREY E EPSTEIN    457 MADISON AVE    NEW YORK NY 10022-6843 US    Recipient    ALLTEL IND OF SOUTH FLOR DA\n\nTransportation Charge    16.00    Discount    -2.56    Fuel Surcharge    0.54    Total Transportation Charges    USD $    13.98\n\nPicked up: Nov 14, 2002    Payor: Shipper    Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 6\n\nInternetShip    Tracking D    791979186386    Service Type    FedEx Priority Overnight    Package Type    FedEx Envelope    Zone    6    Packages    1    Weight    1.0 lbs, 0.5 kgs    Delivered    Nov 15, 2002 09:14    Svc Area    AA    Signed by    M BROWN    FedEx Use    523419512/00230/_\n\nSender    CECILIA STEEN    JEFFREY E EPSTEIN    457 MADISON AVE    NEW YORK NY 10022-6843 US    Recipient    DOTT E WILSON    PALM BEACH NATIONAL BANK & TRU\n\nTransportation Charge    16.00    Discount    -2.56    Fuel Surcharge    0.54    Total Transportation Charges    USD $    13.98\n\nShipment Detail Subtotal    USD $    665.26\n\nCONFIDENTIAL\n\nSDNY_GM_00340709    47\nDOJ-OGR-00015356",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "CECILIA STEEN",
+      "JEFFREY E EPSTEIN",
+      "BELL",
+      "M BROWN",
+      "DOTT E WILSON"
+    ],
+    "organizations": [
+      "FedEx",
+      "ALLTEL IND OF SOUTH FLOR DA",
+      "PALM BEACH NATIONAL BANK & TRU"
+    ],
+    "locations": [
+      "NEW YORK NY 10022-6843 US"
+    ],
+    "dates": [
+      "Nov 14, 2002",
+      "Nov 15, 2002 09:49",
+      "Nov 15, 2002 09:14",
+      "Nov 18, 2002"
+    ],
+    "reference_numbers": [
+      "4-447-80862",
+      "790632119515",
+      "791979186386",
+      "1144-2081-6",
+      "523375744/00230/",
+      "523419512/00230/",
+      "SDNY_GM_00340709",
+      "DOJ-OGR-00015356"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx shipment detail report, containing information about two shipments made on November 14, 2002. The report includes details such as tracking numbers, package weights, delivery dates, and transportation charges. The document is marked 'CONFIDENTIAL' at the bottom."
+}

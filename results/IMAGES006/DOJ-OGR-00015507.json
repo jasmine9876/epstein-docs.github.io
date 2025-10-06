@@ -1,0 +1,53 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00015507",
+    "date": "6/2/2004",
+    "document_type": "Important Message",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "IMPORTANT MESSAGE FOR: DOJ REDACTION DATE: TIME: A.M. P.M. M. OF: PHONE/MOBILE: TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE: SIGNED: IMPORTANT MESSAGE FOR: SARAH DATE: 6/2/2004 TIME: 3:50 A.M. P.M. M. OF: PHONE/MOBILE: 967 975 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE: CALLED. SAYING SOME ONE CALLED FROM PALM BEACH SIGNED: IMPORTANT MESSAGE FOR: DOJ REDACTION DATE: TIME: A.M. P.M. M. OF: PHONE/MOBILE: TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE: SIGNED: IMPORTANT MESSAGE FOR: YR Epstein DATE: TIME: A.M. P.M. M. YR. Haxwot OF: PHONE/MOBILE: TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE: She'll be here at 5:30 SIGNED: GOVERNMENT EXHIBIT 3-H-R S220 Cr. 330 (AJN) DOJ-OGR-00015507",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE FOR: DATE: TIME: A.M. P.M. M. OF: PHONE/MOBILE: TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE: SIGNED:",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "SARAH 6/2/2004 3:50 967 975 CALLED. SAYING SOME ONE CALLED FROM PALM BEACH",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "YR Epstein YR. Haxwot She'll be here at 5:30",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 3-H-R S220 Cr. 330 (AJN) DOJ-OGR-00015507",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "SARAH",
+      "YR Epstein",
+      "YR. Haxwot"
+    ],
+    "organizations": [],
+    "locations": [
+      "PALM BEACH"
+    ],
+    "dates": [
+      "6/2/2004"
+    ],
+    "reference_numbers": [
+      "967 975",
+      "DOJ-OGR-00015507",
+      "S220 Cr. 330 (AJN)"
+    ]
+  },
+  "additional_notes": "The document contains four 'Important Message' forms, with two having handwritten messages. The document has been redacted in some areas, and there is a government exhibit stamp on the bottom right."
+}

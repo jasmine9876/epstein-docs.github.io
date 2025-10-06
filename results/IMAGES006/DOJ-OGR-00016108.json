@@ -1,0 +1,43 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "932",
+    "date": null,
+    "document_type": "Government Exhibit",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "GOVERNMENT EXHIBIT 932 52 20 Cr. 330 (AJN) DOJ-OGR-00016108",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "GOVERNMENT EXHIBIT 932",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "52 20 Cr. 330 (AJN)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00016108",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ",
+      "OGR"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "932",
+      "52 20 Cr. 330 (AJN)",
+      "DOJ-OGR-00016108"
+    ]
+  },
+  "additional_notes": "The image appears to be a photograph of a building with a yellow label in the bottom-right corner containing the text 'GOVERNMENT EXHIBIT 932' and other reference numbers. The image is likely a court exhibit."
+}

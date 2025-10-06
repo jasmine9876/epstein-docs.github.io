@@ -1,0 +1,101 @@
+{
+  "document_metadata": {
+    "page_number": "117",
+    "document_number": null,
+    "date": null,
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Manuevers, Endorsements Number of Landings Aircraft Category... From To 26 SEP 11 G-1159B N909JK PBI TIST 1816 JE AM MOL LERO 26 13 \" \" \" TIST TEB 1817 JE AM BH V1 38 14 \" \" \" TEB BED 1818 JE AM,SK BH 8 14 \" \" \" BED HPN 1819 JE AM,SK LARRY SUMMERS BH 8 20 \" \" \" PBI TIST 1821 JE,DB SK,JIM LV V1 25 24 \" \" \" TIST TEB 1822 JE,DB SK,TATIANA SEMIANN LV 37 25 \" \" \" TEB CMH 1823 JE SK PAUL HALDOF LV V1 14 25 \" \" \" CMH TEB 1824 JE SK LV V1 14 27 \" \" \" TEB BED 1825 JE,AM LV 8 27 \" \" \" BED TEB 1826 JE,AM LV 10 2 OCT B-727-31H N908JK LCQ LCQ 243 JE GEORGE LV 17 22 \" \" \" TIST JFK 248 JE,AM BH LM 0/D 3 2 NOV G-1159B N909JK TEB BED 1834 JE,GM,SK,TATEANNA,DB LV 8 2 \" \" \" BED OQU 1835 JE GM LV 5 2 \" \" \" OQU BED 1836 QS GM LV 5 2 \" \" \" BED TEB 1837 JE,DB,GM,SK,TATEANNA LV 4 3 B-727-31H N908JK JFK TIST 351 JE SK LV 44 8 \" \" \" TIST JFK 352 JE ANDREA MELLOVICH, SK,GENNARO WHITAKER LV 39 I certify that the statements made by me on this form are true. Pilot's Signature David Redding Page Total 5/4 372 Amount Forward 6130 98128 331294 Total to Date 6830 9800 331294",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Manuevers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "26 SEP 11 G-1159B N909JK PBI TIST 1816 JE AM MOL LERO 26",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true.",
+      "position": "footer"
+    },
+    {
+      "type": "signature",
+      "content": "David Redding",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Redding",
+      "LARRY SUMMERS",
+      "JIM",
+      "PAUL HALDOF",
+      "GEORGE",
+      "TATIANA SEMIANN",
+      "TATEANNA",
+      "ANDREA MELLOVICH",
+      "GENNARO WHITAKER"
+    ],
+    "organizations": [],
+    "locations": [
+      "PBI",
+      "TIST",
+      "TEB",
+      "BED",
+      "HPN",
+      "CMH",
+      "LCQ",
+      "JFK",
+      "OQU"
+    ],
+    "dates": [
+      "26 SEP 11",
+      "13",
+      "14",
+      "14",
+      "20",
+      "24",
+      "25",
+      "25",
+      "27",
+      "27",
+      "2 OCT",
+      "22",
+      "2 NOV",
+      "2",
+      "2",
+      "2",
+      "3",
+      "8"
+    ],
+    "reference_numbers": [
+      "N909JK",
+      "N908JK",
+      "1816",
+      "1817",
+      "1818",
+      "1819",
+      "1821",
+      "1822",
+      "1823",
+      "1824",
+      "1825",
+      "1826",
+      "243",
+      "248",
+      "1834",
+      "1835",
+      "1836",
+      "1837",
+      "351",
+      "352"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. Some information is redacted."
+}

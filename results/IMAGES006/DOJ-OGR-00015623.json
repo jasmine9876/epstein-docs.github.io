@@ -1,0 +1,42 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "image",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "TWIN TORPEDOS TWIN TORPEDOS ALL NEW POWER PACK ALL NEW POWER PACK GOVERNMENT EXHIBIT 294 S2 20 Cr. 330 (AJN)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "TWIN TORPEDOS",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "ALL NEW POWER PACK",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 294 S2 20 Cr. 330 (AJN)",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [
+      "USA"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00015623",
+      "S2 20 Cr. 330 (AJN)",
+      "294"
+    ]
+  },
+  "additional_notes": "The image appears to be a photograph of a cardboard box containing two packages labeled 'TWIN TORPEDOS' with a government exhibit stamp in the corner."
+}

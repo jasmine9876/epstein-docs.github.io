@@ -1,0 +1,83 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00015469",
+    "date": null,
+    "document_type": "Important Message",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "IMPORTANT MESSAGE FOR Jeffery DATE 02/26/05 TIME 11:15 A.M. P.M. DOJ REDACTION M OF PHONE/MOBILE 750 802 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Please call her back in 16:30 she is on the way to the gym SIGNED a 1184 IMPORTANT MESSAGE FOR Jeffery DATE 02/25/05 TIME 05:38 A.M. P.M. M Karen-hsu OF PHONE/MOBILE Karen Hsu TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Coming back to lunch section I kept about Tom on Saturday? SIGNED a 1184 IMPORTANT MESSAGE FOR Jeffery DATE 02/26/05 TIME 3:00 A.M. P.M. DOJ Redaction M OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Please call me SIGNED a 1184 IMPORTANT MESSAGE FOR Jeffery DATE DOJ REDACTION TIME 12:21 A.M. P.M. M OF PHONE/MOBILE 646.436 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Please call her back SIGNED GOVERNMENT EXHIBIT 1-P-R S2 20 Cr. 330 (AJN) DOJ-OGR-00015469 a 1184",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffery",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "FOR",
+      "position": "top"
+    },
+    {
+      "type": "stamp",
+      "content": "DOJ REDACTION",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "02/26/05",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "11:15",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Please call her back in 16:30 she is on the way to the gym",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SIGNED",
+      "position": "bottom"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 1-P-R S2 20 Cr. 330 (AJN) DOJ-OGR-00015469",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffery",
+      "Karen-hsu",
+      "Tom"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "02/26/05",
+      "02/25/05"
+    ],
+    "reference_numbers": [
+      "750 802",
+      "646.436",
+      "S2 20 Cr. 330 (AJN)",
+      "DOJ-OGR-00015469"
+    ]
+  },
+  "additional_notes": "The document contains four 'Important Message' forms with handwritten notes and redactions. The forms are likely related to a government or legal case, given the presence of a 'GOVERNMENT EXHIBIT' stamp."
+}

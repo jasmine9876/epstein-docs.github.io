@@ -1,0 +1,77 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "4-494-31285",
+    "date": "Nov 25, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\nInvoice Number: 4-494-31285\nInvoice Date: Nov 25, 2002\nAccount Number: 1144-2081-6\nPage: 4 of 6\nDropped off: Nov 13, 2002\nPayor: Shipper\nReference: NO REFERENCE INFORMATION\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDiscount applied is the greater of volume discount or dropoff discount. No additional discount applies.\nStill in bond cage.\nTracking ID 831051480239\nService Type FedEx Intl Economy\nPackage Type Customer Packaging\nZone D\nOrig./Dest. SAF/TNF\nPackages 1\nWeight 20.0 lbs, 9.1 kgs\nDelivered Nov 18, 2002 10:12\nSigned by .COTRIN\nFedEx Use _/US01O/60\nSender MRS SHERMAN\nJEFFREY E EPSTEIN\n457 MADISON AVE\nNEW YORK NY 10022-6843 US\nRecipient VALDSON COTRIN\nEPSTEIN & CO\n22 AVE FACH\nPARIS 75116 FR\nTransportation Charge 125.44\nFuel Surcharge 4.87\nDiscount -3.76\nTotal Transportation Charges USD $ 126.55\nDropped off: Nov 13, 2002\nPayor: Shipper\nReference: NO REFERENCE INFORMATION\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDiscount applied is the greater of volume discount or dropoff discount. No additional discount applies.\nRecipient not in/business closed.\nTracking ID 831051480364\nService Type FedEx Intl Economy\nPackage Type Customer Packaging\nZone D\nOrig./Dest. SAF/LON\nPackages 1\nWeight 25.0 lbs, 11.4 kgs\nDelivered Nov 19, 2002 13:37\nSigned by R.PERKINS\nFedEx Use _/US01O/08\nSender KATE BALERUD\nJEFFREY E EPSTEIN\n457 MADISON AVE\nNEW YORK NY 10022-6843 US\nRecipient KAT E ORCHARD\nEPSTEIN & CO\n44 KINNERTON ST\nLONDON 347 GB\nTransportation Charge 141.31\nFuel Surcharge 5.48\nDiscount -4.24\nTotal Transportation Charges USD $ 142.55\nPicked up: Nov 15, 2002\nPayor: Shipper\nReference: NO REFERENCE INFORMATION\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nFedEx has audited this airbill for correct pieces, weight, and service. Any changes made are reflected in the invoice amount.\nTracking ID 79063374094\nService Type FedEx Intl Priority\nPackage Type FedEx Pak\nZone I\nOrig./Dest. JRB/STT\nPackages 1\nWeight 3.5 lbs, 1.6 kgs\nDelivered Nov 18, 2002 17:36\nSigned by M.STEWART\nFedEx Use _/US01O/_\nSender CECILIA STEEN\nJEFFREY E. EPSTEIN\n4TH FLOOR\nNEW YORK NY 10022 US\nRecipient JEFFREY EPSTEIN\nF NANCIAL TRUST COMPANY\n6100 RED HOOK, QUARTERS\nSUITE B-3\nST. THOMAS 00802 VI\nTransportation Charge 65.03\nFuel Surcharge 2.52\nDiscount -1.95\nTotal Transportation Charges USD $ 65.60\nCONFIDENTIAL\nSDNY_GM_00340746 77\nDOJ-OGR-00015386",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Number: 4-494-31285\nInvoice Date: Nov 25, 2002\nAccount Number: 1144-2081-6\nPage: 4 of 6",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Dropped off: Nov 13, 2002\nPayor: Shipper\nReference: NO REFERENCE INFORMATION",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "MRS SHERMAN",
+      "VALDSON COTRIN",
+      "JEFFREY E EPSTEIN",
+      "KATE BALERUD",
+      "KAT E ORCHARD",
+      "R.PERKINS",
+      "CECILIA STEEN",
+      "JEFFREY EPSTEIN",
+      "M.STEWART"
+    ],
+    "organizations": [
+      "FedEx",
+      "EPSTEIN & CO",
+      "F NANCIAL TRUST COMPANY"
+    ],
+    "locations": [
+      "NEW YORK",
+      "PARIS",
+      "LONDON",
+      "ST. THOMAS",
+      "SAF/TNF",
+      "SAF/LON",
+      "JRB/STT"
+    ],
+    "dates": [
+      "Nov 13, 2002",
+      "Nov 18, 2002",
+      "Nov 19, 2002",
+      "Nov 15, 2002",
+      "Nov 25, 2002"
+    ],
+    "reference_numbers": [
+      "4-494-31285",
+      "1144-2081-6",
+      "831051480239",
+      "831051480364",
+      "79063374094",
+      "SDNY_GM_00340746",
+      "DOJ-OGR-00015386"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx shipment detail report, containing information about three separate shipments. The document is marked 'CONFIDENTIAL' at the bottom."
+}

@@ -1,0 +1,35 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00015596",
+    "date": null,
+    "document_type": "image",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "GOVERNMENT EXHIBIT 260 S2.20 Cr. 330 (AUN) DOJ-OGR-00015596",
+  "text_blocks": [
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 260 S2.20 Cr. 330 (AUN)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015596",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00015596",
+      "260",
+      "S2.20 Cr. 330"
+    ]
+  },
+  "additional_notes": "The image appears to be a photograph of a workspace with various items on a desk, including a computer monitor, papers, and a water bottle. The image is rotated 90 degrees clockwise. The stamp in the top-right corner indicates that it is a government exhibit."
+}

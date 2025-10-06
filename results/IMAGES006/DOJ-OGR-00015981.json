@@ -1,0 +1,79 @@
+{
+  "document_metadata": {
+    "page_number": "66",
+    "document_number": "DOJ-OGR-00015981",
+    "date": null,
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date 19-MAY Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... From To Aeroplane Glider Helicopter 17 G11593 N905JC TEB SAF 1235 JG,GM,GS 1/1 3 3 17 \" \" SAF ABE 1236 JG,GM 1/1 2 3 18 \" \" ABE DAL 1237 JS,GM,GS,TIFFANY GR2M2A 1/1 1 5 18 \" \" DAL PBI 1238 JS,GM,TIFFANY GR2M2A 1/1 2 3 19 R216TB N500JA PBI-LNG-PBI STRAIGHT IN + 1/2 AUTOROTATIONS 1 1 20 \" \" PMP PMP M,V, + Approaches to the surface, and noise sensitive area. 1 21 \" \" PMP DAB O-VIA SHORELINE 2 21 \" \" DAB PBI O-VIA 1-95 1 21 \" \" PBI PMP RETURN 22 G11593 N905JC PBI TEB 1238 JG,GM,GS,TIFFANY GR2M2A 1/1 2 7 ELEIGHT TIMES REPORTED TO INSURANCE COMPANY 27 G11593 N905JC TEB PBI 1240 JG,GM,GS,CUSTOMER DEALS,CLOCK DOME 1/1 2 3 29 \" \" PBI TST 1241 JG,GM,GS 2 3 30 \" \" TST PBI 1242 JG,GM,GS 1/1 2 8 31 \" \" PBI SAF 1243 JG,GM,GS 1/1 3 7 JUN 1 \" \" SAF PBI 1244 JG,GM,GS,TIFFANY GR2M2A 1/1 3 2 7 \" \" PBI TEB 1245 JG,GM,GS,TIFFANY GR2M2A 1/1 2 5 9 \" \" TEB PBI 1246 JG,GM,MANOT CUSSON,TIFFANY GR2M2A 2 3 15 \" \" PBI TEB 1247 JG,GM,TIFFANY GR2M2A,GOOD FLYING 1/1 2 5 I certify that the statements made by me on this form are true. Pilot's Signature: David Malekian Page Total 97 321 6 1 Amount Forward 6210 75099 33 595 Total to Date 5922 75420 33 656",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date 19-MAY Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... From To Aeroplane Glider Helicopter",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "17 G11593 N905JC TEB SAF 1235 JG,GM,GS 1/1 3 3 ...",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature: David Malekian",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total 97 321 6 1 Amount Forward 6210 75099 33 595 Total to Date 5922 75420 33 656",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Malekian"
+    ],
+    "organizations": [
+      "Insurance Company"
+    ],
+    "locations": [
+      "TEB",
+      "SAF",
+      "ABE",
+      "DAL",
+      "PBI",
+      "PMP",
+      "DAB",
+      "LNG",
+      "TST"
+    ],
+    "dates": [
+      "19-MAY",
+      "JUN 1",
+      "JUN 7",
+      "JUN 9",
+      "JUN 15"
+    ],
+    "reference_numbers": [
+      "G11593",
+      "N905JC",
+      "R216TB",
+      "N500JA",
+      "1235",
+      "1236",
+      "1237",
+      "1238",
+      "1240",
+      "1241",
+      "1242",
+      "1243",
+      "1244",
+      "1245",
+      "1246",
+      "1247",
+      "DOJ-OGR-00015981"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The log includes details such as flight dates, aircraft make and model, departure and arrival points, miles flown, and remarks on procedures and maneuvers performed during the flights. The document is signed by the pilot, David Malekian."
+}

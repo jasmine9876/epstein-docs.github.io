@@ -1,0 +1,91 @@
+{
+  "document_metadata": {
+    "page_number": "13 of 14",
+    "document_number": "4-447-80862",
+    "date": "Nov 18, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx\nInvoice Number: 4-447-80862\nInvoice Date: Nov 18, 2002\nAccount Number: 1144-2081-6\nPage: 13 of 14\nFedEx Express Shipment Detail By Payment Type (Original)\nPicked up: Nov 05, 2002 Payor: Recipient Reference: FR2, ORD. # 5546\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 8\n1st attempt Nov 07, 2002 at 07:45 AM.\nIncorrect recipient address.\nFedEx has audited this shipment for correct packages, weight, and service. Any changes made are reflected in the invoice amount.\nPowership Sender Recipient\nTracking D# 495221714342 BOGDAN DUCAN MEDSPACE NICK S MMONDS\nService Type FedEx 2Day J. EPSTE N & COMPANY\nPackage Type Customer Packaging 457 MADISON AVENUE\nZone 8 NEW YORK NY 10022 US\nPackages 1 Transportation Charge 26.75\nWeight 10.0 lbs, 4.5 kgs Discount -2.68\nDelivered Nov 07, 2002 13:52 Address Correction 10.00\nSvc Area A1 Fuel Surcharge 0.96\nSigned by K.SARAUW\nFedEx Use 047740627/06112/03 Total Transportation Charges USD $ 35.03\nShipment Detail Subtotal ......................................................USD $ 35.03\nCONFIDENTIAL\nSDNY_GM_00340710 48\nDOJ-OGR-00015357",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Number: 4-447-80862\nInvoice Date: Nov 18, 2002\nAccount Number: 1144-2081-6\nPage: 13 of 14",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Picked up: Nov 05, 2002 Payor: Recipient Reference: FR2, ORD. # 5546",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Fuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 8\n1st attempt Nov 07, 2002 at 07:45 AM.\nIncorrect recipient address.\nFedEx has audited this shipment for correct packages, weight, and service. Any changes made are reflected in the invoice amount.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Powership Sender Recipient\nTracking D# 495221714342 BOGDAN DUCAN MEDSPACE NICK S MMONDS\nService Type FedEx 2Day J. EPSTE N & COMPANY\nPackage Type Customer Packaging 457 MADISON AVENUE\nZone 8 NEW YORK NY 10022 US\nPackages 1 Transportation Charge 26.75\nWeight 10.0 lbs, 4.5 kgs Discount -2.68\nDelivered Nov 07, 2002 13:52 Address Correction 10.00\nSvc Area A1 Fuel Surcharge 0.96\nSigned by K.SARAUW\nFedEx Use 047740627/06112/03 Total Transportation Charges USD $ 35.03",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Shipment Detail Subtotal ......................................................USD $ 35.03",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "SDNY_GM_00340710 48\nDOJ-OGR-00015357",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "BOGDAN DUCAN",
+      "NICK S MMONDS",
+      "K.SARAUW",
+      "J. EPSTE N"
+    ],
+    "organizations": [
+      "FedEx",
+      "MEDSPACE",
+      "J. EPSTE N & COMPANY"
+    ],
+    "locations": [
+      "NEW YORK",
+      "457 MADISON AVENUE"
+    ],
+    "dates": [
+      "Nov 05, 2002",
+      "Nov 07, 2002",
+      "Nov 18, 2002"
+    ],
+    "reference_numbers": [
+      "4-447-80862",
+      "1144-2081-6",
+      "495221714342",
+      "047740627/06112/03",
+      "FR2",
+      "ORD. # 5546",
+      "SDNY_GM_00340710",
+      "DOJ-OGR-00015357"
+    ]
+  },
+  "additional_notes": "The document is a FedEx invoice with detailed shipment information. It includes sender and recipient details, shipment charges, and other relevant information. The document is marked as 'CONFIDENTIAL' at the bottom."
+}

@@ -1,0 +1,97 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00015526",
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "IMPORTANT MESSAGE FOR DOJ REDACTION DATE 9/1/08 TIME A.M. P.M. M your sister OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Your sister called. Call her on her cell. SIGNED NICOLE AKESU 1184 IMPORTANT MESSAGE FOR Jake DATE 9/11/08 TIME 3:30 A.M. P.M. M OF DOJ REDACTION PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 1184 IMPORTANT MESSAGE FOR Mr. J.E. DATE 2/13/04 TIME 2:11 A.M. P.M. M DOJ REDACTION OF PHONE/MOBILE 561-714- TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE I have am back in Toledo safely GOVERNMENT EXHIBIT 3-X-R S2 20 Cr. 330 (AJN) SIGNED 1184 IMPORTANT MESSAGE FOR J.E. DATE DOJ REDACTION TIME 8:00 A.M. P.M. M OF PHONE/MOBILE 561-718- TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE him/her I am will like to meet him SIGNED 1184 DOJ-OGR-00015526",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "9/1/08 your sister",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FOR DATE TIME M OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Your sister called. Call her on her cell. Nico(le) Akesu",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "DOJ REDACTION",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jake 9/11/08 3:30",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Mr. J.E. 2/13/04 2:11",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "I have am back in Toledo safely",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 3-X-R S2 20 Cr. 330 (AJN)",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "J.E. DOJ REDACTION 8:00",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "him/her I am will like to meet him",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [
+      "NICOLE AKESU",
+      "Jake",
+      "Mr. J.E.",
+      "J.E."
+    ],
+    "organizations": [],
+    "locations": [
+      "Toledo"
+    ],
+    "dates": [
+      "9/1/08",
+      "9/11/08",
+      "2/13/04"
+    ],
+    "reference_numbers": [
+      "561-714-",
+      "561-718-",
+      "S2 20 Cr. 330 (AJN)",
+      "DOJ-OGR-00015526"
+    ]
+  },
+  "additional_notes": "The document contains four 'Important Message' forms with handwritten notes and stamps. Some information is redacted with 'DOJ REDACTION' stamps. The document quality is generally good, but there are some variations in handwriting and ink color."
+}

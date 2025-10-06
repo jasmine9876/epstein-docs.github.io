@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "3 of 4",
+    "document_number": "4-474-29369",
+    "date": "Nov 18, 2002",
+    "document_type": "Invoice",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Invoice Number: 4-474-29369 Invoice Date: Nov 18, 2002 Account Number: 1814-9779-3 Page: 3 of 4 FedEx Express Shipment Summary by Payment Type Original Shipper Number of Shipments 1 Transportation Charges 13.25 Base Discount -3.18 Special Handling Charges 4.30 TOTAL USD $ 14.37 Number of Shipments 1 Total Charges USD $ 14.37 TOTAL SHIPMENTS 1 TOTAL CHARGES USD $ 14.37 CONFIDENTIAL SDNY_GM_00340719 57 DOJ-OGR-00015366",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Number: 4-474-29369 Invoice Date: Nov 18, 2002 Account Number: 1814-9779-3 Page: 3 of 4",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Summary by Payment Type",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Shipper Original Number of Shipments 1 Transportation Charges 13.25 Base Discount -3.18 Special Handling Charges 4.30 TOTAL USD $ 14.37 Number of Shipments 1 Total Charges USD $ 14.37 TOTAL SHIPMENTS 1 TOTAL CHARGES USD $ 14.37",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "SDNY_GM_00340719 57 DOJ-OGR-00015366",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "FedEx"
+    ],
+    "locations": [],
+    "dates": [
+      "Nov 18, 2002"
+    ],
+    "reference_numbers": [
+      "4-474-29369",
+      "1814-9779-3",
+      "SDNY_GM_00340719",
+      "DOJ-OGR-00015366"
+    ]
+  },
+  "additional_notes": "The document is a FedEx invoice with a 'CONFIDENTIAL' marking at the bottom. The invoice details a shipment summary by payment type, including charges and discounts. The document appears to be a photocopy or scan of an original invoice."
+}

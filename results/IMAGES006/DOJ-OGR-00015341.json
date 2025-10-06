@@ -1,0 +1,71 @@
+{
+  "document_metadata": {
+    "page_number": "5 of 8",
+    "document_number": "4-447-52055",
+    "date": "Nov 11, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Invoice Number: 4-447-52055 Invoice Date: Nov 11, 2002 Account Number: 1144-2081-6 Page: 5 of 8 FedEx Express Shipment Detail By Payment Type (Original) Picked up: Nov 01, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION Fuel Surcharge - FedEx has applied a fuel surcharge of 3.00% to this shipment. FedEx has audited this airbill for correct pieces, weight, and service. Any changes made are reflected in the invoice amount. Tracking D 792126946731 Sender CECILIA STEEN JEFFREY E. EPSTE N 457 MADISON AVENUE 4TH FLOOR NEW YORK NY 10022 US Recipient JEANNE BRENNAN FINANCIAL TRUST COMPANY 6100 RED HOOK QUARTER SUITE B-3 ST. THOMAS 00802 VI Service Type FedEx Intl Priority Package Type FedEx Pak Zone I Orig./Dest. JRB/STT Packages 1 Weight 1.8 lbs, 0.8 kgs Delivered Nov 04, 2002 16 03 Signed by J RUAN FedEx Use _/US01O/_ Transportation Charge 38.00 Fuel Surcharge 1.11 Discount -1.14 Total Transportation Charges USD $ 37.97 Picked up: Nov 01, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION Fuel Surcharge - FedEx has applied a fuel surcharge of 3.00% to this shipment. Tracking D 791223022439 Sender CECILIA STEEN JEFFREY E. EPSTE N 457 MADISON AVENUE 4TH FLOOR NEW YORK NY 10022 US Recipient ALEXIA WALLAERT Service Type FedEx Intl Priority Package Type FedEx Envelope Zone D Orig./Dest. JRB/TNF Packages 1 Weight 0.5 lbs, 0.2 kgs Delivered Nov 04, 2002 10 51 Signed by .WALLAERT FedEx Use _/US01O/_ Transportation Charge 28.00 Fuel Surcharge 0.81 Discount -0.84 Total Transportation Charges USD $ 27.97 Picked up: Nov 01, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION Fuel Surcharge - FedEx has applied a fuel surcharge of 3.00% to this shipment. Tracking D 791223036700 Sender CECILIA STEEN JEFFREY E. EPSTE N 457 MADISON AVENUE 4TH FLOOR NEW YORK NY 10022 US Recipient CELINA MIDELFART MIDELFART HOLDING Service Type FedEx Intl Priority Package Type FedEx Envelope Zone H Orig./Dest. JRB/OSL Packages 1 Weight 0.5 lbs, 0.2 kgs Delivered Nov 04, 2002 09:48 Signed by P EDERSNEN FedEx Use _/US01O/_ Transportation Charge 31.00 Fuel Surcharge 0.90 Discount -0.93 Total Transportation Charges USD $ 30.97 CONFIDENTIAL SDNY_GM_00340694 32 DOJ-OGR-00015341",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Invoice Number: 4-447-52055 Invoice Date: Nov 11, 2002 Account Number: 1144-2081-6 Page: 5 of 8",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "SDNY_GM_00340694 32 DOJ-OGR-00015341",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "CECILIA STEEN",
+      "JEFFREY E. EPSTE N",
+      "JEANNE BRENNAN",
+      "ALEXIA WALLAERT",
+      "CELINA MIDELFART",
+      "J RUAN",
+      ".WALLAERT",
+      "P EDERSNEN"
+    ],
+    "organizations": [
+      "FedEx",
+      "FINANCIAL TRUST COMPANY",
+      "MIDELFART HOLDING"
+    ],
+    "locations": [
+      "457 MADISON AVENUE",
+      "4TH FLOOR",
+      "NEW YORK NY 10022 US",
+      "6100 RED HOOK QUARTER",
+      "SUITE B-3",
+      "ST. THOMAS 00802 VI"
+    ],
+    "dates": [
+      "Nov 01, 2002",
+      "Nov 11, 2002",
+      "Nov 04, 2002"
+    ],
+    "reference_numbers": [
+      "4-447-52055",
+      "1144-2081-6",
+      "792126946731",
+      "791223022439",
+      "791223036700"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx invoice with multiple shipment details. The document is marked as 'CONFIDENTIAL' at the bottom."
+}

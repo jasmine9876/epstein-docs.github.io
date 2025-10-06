@@ -1,0 +1,71 @@
+{
+  "document_metadata": {
+    "page_number": "13 of 15",
+    "document_number": "4-495-33932",
+    "date": "Dec 16, 2002",
+    "document_type": "Invoice",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Ground Summary\nInvoice Number: 4-495-33932\nInvoice Date Dec 16, 2002\nAccount Number 1144 2081 6\nPage 13 of 15\nDate Packages Weight Base Charges Other Charges Total Charges\nPrepaid Ground\n12/05 1 3.0 5.15 0.06 5.21\nPackage Total 1 3.0 5.15 0.06 5.21\nWeekly Service Charge 12/06/2002 11.00 11.00\nTotal Charges 1 3.0 5.15 11.06 16.21\nDOJ-OGR-00016061",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Ground Summary",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Number: 4-495-33932\nInvoice Date Dec 16, 2002\nAccount Number 1144 2081 6\nPage 13 of 15",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Date Packages Weight Base Charges Other Charges Total Charges",
+      "position": "table header"
+    },
+    {
+      "type": "printed",
+      "content": "Prepaid Ground\n12/05 1 3.0 5.15 0.06 5.21",
+      "position": "table body"
+    },
+    {
+      "type": "printed",
+      "content": "Package Total 1 3.0 5.15 0.06 5.21",
+      "position": "table body"
+    },
+    {
+      "type": "printed",
+      "content": "Weekly Service Charge 12/06/2002 11.00 11.00",
+      "position": "table body"
+    },
+    {
+      "type": "printed",
+      "content": "Total Charges 1 3.0 5.15 11.06 16.21",
+      "position": "table footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00016061",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "FedEx"
+    ],
+    "locations": [],
+    "dates": [
+      "Dec 16, 2002",
+      "12/05",
+      "12/06/2002"
+    ],
+    "reference_numbers": [
+      "4-495-33932",
+      "1144 2081 6",
+      "DOJ-OGR-00016061"
+    ]
+  },
+  "additional_notes": "The document is a FedEx invoice with a clear and legible layout. The text is printed, and there are no visible stamps or handwritten notes."
+}

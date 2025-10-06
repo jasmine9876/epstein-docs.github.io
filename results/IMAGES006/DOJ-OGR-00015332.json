@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "7 of 11",
+    "document_number": "4-447-40902",
+    "date": "Nov 11, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\n\nPicked up: Nov 04, 2002    Payor: Shipper    Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 5\nPackage sent from: 33461 zip code\n\nTracking D 837574510812    Sender    Recipient\nService Type FedEx Priority Overnight    G MAXWELL    MARC LUMBERG\nPackage Type FedEx Envelope    JEFFREY E EPSTEIN    NA PROPERTY\nZone 5    457 MADISON AVE    \nPackages 1    NEW YORK NY 10022-6843 US    \nWeight 1.0 lbs, 0.5 kgs    \nDelivered Nov 05, 200209 33    Transportation Charge    15 50\nSvc Area A2    Discount    -2.48\nSigned by D.OAKLEY    Fuel Surcharge    0 52\nFedEx Use 310007530/00219/_    Courier Pickup Charge    0 00\n\nTotal Transportation Charges    USD $    13.54\n\nDropped off: Nov 05, 2002    Payor: Shipper    Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 4\n\nInternetShip    Sender    Recipient\nTracking D 790133272544    CECILIA STEEN    PEG UGLAND\nService Type FedEx Priority Overnight    JEFFREY E EPSTEIN    N. A. PROPERTY\nPackage Type FedEx Envelope    457 MADISON AVE    \nZone 4    NEW YORK NY 10022-6843 US    \nPackages 1    \nWeight 1.0 lbs, 0.5 kgs    Transportation Charge    15 25\nDelivered Nov 06, 200209 53    Discount    -2.44\nSvc Area A2    Fuel Surcharge    0 51\nSigned by D.OAKLEY    \nFedEx Use 523306552/00208/_    Total Transportation Charges    USD $    13.32\n\nPicked up: Nov 06, 2002    Payor: Shipper    Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 4\nFedEx has audited this shipment for correct packages, weight, and service. Any changes made are reflected in the invoice amount.\nWe calculated your charges based on a dimensional weight of 26.0 lbs.,24\" x 17\" x 12\", divided by 194.\n\nInternetShip    Sender    Recipient\nTracking D 790134104544    CECILIA STEEN    LESLIE H. WEXNER\nService Type FedEx Standard Overnight    JEFFREY E EPSTEIN    \nPackage Type Customer Packaging    457 MADISON AVE    \nZone 4    NEW YORK NY 10022-6843 US    \nPackages 1    \nWeight 15.0 lbs, 6.8 kgs    Transportation Charge    63 25\nDelivered Nov 07, 200210 28    Discount    -6 33\nSvc Area A2    Fuel Surcharge    2 28\nSigned by M ANDERSON    \nFedEx Use 523451822/01327/_    Total Transportation Charges    USD $    59.20\n\nCONFIDENTIAL\n\nSDNY_GM_00340685 23\nDOJ-OGR-00015332",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "G MAXWELL",
+      "JEFFREY E EPSTEIN",
+      "MARC LUMBERG",
+      "CECILIA STEEN",
+      "PEG UGLAND",
+      "LESLIE H. WEXNER",
+      "M ANDERSON",
+      "D.OAKLEY"
+    ],
+    "organizations": [
+      "FedEx"
+    ],
+    "locations": [
+      "NEW YORK NY 10022-6843 US"
+    ],
+    "dates": [
+      "Nov 04, 2002",
+      "Nov 05, 2002",
+      "Nov 06, 2002",
+      "Nov 11, 2002",
+      "Nov 05, 200209 33",
+      "Nov 06, 200209 53",
+      "Nov 07, 200210 28"
+    ],
+    "reference_numbers": [
+      "4-447-40902",
+      "1144-2081-6",
+      "837574510812",
+      "790133272544",
+      "790134104544",
+      "310007530/00219/_",
+      "523306552/00208/_",
+      "523451822/01327/_",
+      "SDNY_GM_00340685",
+      "DOJ-OGR-00015332"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx shipment detail report, containing information about three separate shipments. The document is marked 'CONFIDENTIAL' at the bottom."
+}

@@ -1,0 +1,104 @@
+{
+  "document_metadata": {
+    "page_number": "61",
+    "document_number": "DOJ-OGR-00015858",
+    "date": "1949",
+    "document_type": "Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date 1949 Nov Aircraft Make and Model G-11593 Aircraft Identification Mark N905JK Points of Departure & Arrival From To Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... Airplane Glider Helicopter 26 PBI TCB 1184 1 2 5 29 \" TCB PBI 1185 1 2 5 Dec 4 \" PBI TCB 1186 1 2 2 8 \" ABI TIST 1187 1 2 3 8 \" TIST SAN 1189 1 3 0 31 \" SAN PBI 1190 1 9 Jan 1 \" TIST PBI 1191 1 2 5 4 \" PBI TCB 1192 1 2 2 9 \" TCB ABY 1193 1 2 5 10 \" ABY SAF 1194 1 3 0 12 \" SAF VNY 1195 1 1 6 15 \" VNY PBI 1196 1 4 2 19 \" PBI TIST 1197 1 2 1 24 \" TIST TCB 1198 1 3 6 29 \" TCB PBI 1199 1 2 3 30 206B3 59PH PMP - PB - PMP 1 Feb 1 G11593 N905JK PBI TCB 1200 1 2 5 2 206B3 89PH PMP PMP 2 I certify that the statements made by me on this form are true. Pilot's Signature David Rodgers Page Total 148 420 33 20 Amount Forward 5892 73028 33 Total to Date 6172 74048 33 20",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date 1949 Nov Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival From To Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... Airplane Glider Helicopter",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Nov 26 G-11593 N905JK PBI TCB 1184 1 2 5 29 TCB PBI 1185 1 2 5 Dec 4 PBI TCB 1186 1 2 2 8 ABI TIST 1187 1 2 3 8 TIST SAN 1189 1 3 0 31 SAN PBI 1190 1 9 Jan 1 TIST PBI 1191 1 2 5 4 PBI TCB 1192 1 2 2 9 TCB ABY 1193 1 2 5 10 ABY SAF 1194 1 3 0 12 SAF VNY 1195 1 1 6 15 VNY PBI 1196 1 4 2 19 PBI TIST 1197 1 2 1 24 TIST TCB 1198 1 3 6 29 TCB PBI 1199 1 2 3 30 206B3 59PH PMP - PB - PMP 1 Feb 1 G11593 N905JK PBI TCB 1200 1 2 5 2 206B3 89PH PMP PMP 2",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "David Rodgers",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "148 420 33 20 5892 73028 33 6172 74048 33 20",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rodgers"
+    ],
+    "organizations": [],
+    "locations": [
+      "PBI",
+      "TCB",
+      "TIST",
+      "SAN",
+      "ABY",
+      "SAF",
+      "VNY",
+      "PMP"
+    ],
+    "dates": [
+      "1949",
+      "Nov 26",
+      "Nov 29",
+      "Dec 4",
+      "Dec 8",
+      "Dec 8",
+      "Dec 31",
+      "Jan 1",
+      "Jan 4",
+      "Jan 9",
+      "Jan 10",
+      "Jan 12",
+      "Jan 15",
+      "Jan 19",
+      "Jan 24",
+      "Jan 29",
+      "Jan 30",
+      "Feb 1",
+      "Feb 2"
+    ],
+    "reference_numbers": [
+      "G-11593",
+      "N905JK",
+      "206B3",
+      "59PH",
+      "89PH",
+      "1184",
+      "1185",
+      "1186",
+      "1187",
+      "1189",
+      "1190",
+      "1191",
+      "1192",
+      "1193",
+      "1194",
+      "1195",
+      "1196",
+      "1197",
+      "1198",
+      "1199",
+      "1200"
+    ]
+  },
+  "additional_notes": "The document is a flight log with handwritten entries. The pilot's signature is present at the bottom of the page."
+}

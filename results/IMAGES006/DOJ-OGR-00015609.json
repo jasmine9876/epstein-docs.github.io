@@ -1,0 +1,38 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Exhibit",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "GOVERNMENT EXHIBIT 277 S2 20 Cr. 330 (AJN) DOJ-OGR-00015609",
+  "text_blocks": [
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 277 S2 20 Cr. 330 (AJN)",
+      "position": "bottom right"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015609",
+      "position": "bottom right"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Government",
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "277",
+      "S2 20 Cr. 330",
+      "DOJ-OGR-00015609"
+    ]
+  },
+  "additional_notes": "The image appears to be a photograph of a dimly lit room with an open door leading to another room. The image is likely being used as evidence in a court case, as indicated by the 'GOVERNMENT EXHIBIT' stamp."
+}

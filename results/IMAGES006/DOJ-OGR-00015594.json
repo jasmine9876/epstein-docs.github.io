@@ -1,0 +1,38 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "image",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "GOVERNMENT EXHIBIT 256 S2 20 Cr. 330 (AJN) DOJ-OGR-00015594",
+  "text_blocks": [
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 256 S2 20 Cr. 330 (AJN)",
+      "position": "bottom right"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015594",
+      "position": "bottom right"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ",
+      "Government"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00015594",
+      "S2 20 Cr. 330 (AJN)",
+      "256"
+    ]
+  },
+  "additional_notes": "The image appears to be a photograph of a desk with various office supplies and a 'GOVERNMENT EXHIBIT' label in the bottom right corner. The label suggests that the image may be related to a court case or legal proceeding."
+}

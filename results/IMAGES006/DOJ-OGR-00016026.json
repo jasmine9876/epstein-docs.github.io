@@ -1,0 +1,83 @@
+{
+  "document_metadata": {
+    "page_number": "111",
+    "document_number": "DOJ-OGR-00016026",
+    "date": null,
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... SEP 3 B-727-31H N908JE LPBZ TST 281 JE,MS SK,TD 1 5 6 SEP 6 B-727-31H N908JE TST PBI 282 JE NAI ALTO MALY SHOV 2 4 SEP 10 B-727-31H N908JE PBI JFK 283 JE JOJO LYN FORTANELLI, 2 4 SEP 13 B-727-31H N908JE JFK ABQ 284 JE NAI MS, FLORA, 1/1 4 7 SEP 18 B-727-31H N908JE ABQ VNY 285 JE,MS JK 1 1 7 SEP 19 B-727-31H N908JE VNY PBI 286 JE,MS JK FRANK GIMBLE 4 7 SEP 24 B-727-31H N908JE PBI SEGU 287 JE,GM SK,TD LM 4 1 SEP 25 B-727-31H N908JE SEGU PBI 288 JE,GM SK,TD LM 1/1 4 3 SEP 29 B-727-31H N908JE PBI TST 289 JE SK,TD LM 3 2 OCT 2 G-1159B N909JE PBI TEB 172 KRI ROGERS LV 2 5 OCT 5 B-727-31H N908JE TST JFK 290 JE NAI ALTO MALY SHOV ROLPH PASCALE 3 8 OCT 16 B-727-31H N908JE JFK PBI 291 JE SK,JK, DAVID MULLEN LM 2 7 OCT 20 BHT-407 N401PR BELLSSCHOOL HURST,TX HANWJ, POWERS AUTO, OBSTACLE FANS-OFF 180 AUTO +2 1 2 OCT 21 BHT-467 N401PR OTE2 HURST,TX 180 AUTO +0 1 0 OCT 25 B-727-31H N908JE PBI JFK 292 JE SK 1/1 2 4 OCT 8 B-727-31H N908JE JFK PBI 293 JE and B and ALSSON 2 3 OCT 10 B-727-31H N908JE PBI JFK 294 JE and B and ALSSON 2 5 OCT 12 B-727-31H N908JE JFK TST 295 JE,JK SK LM 3 3 OCT 13 G-1159B N909JE TEB PBI 172 GM LV 2 5 I certify that the statements made by me on this form are true. Pilot's Signature David Podgurs Page Total 63 551 2 2 Amount Forward 677 3366 9532 3 3 125 0 Total to Date 6783 6399 9587 4 3 3 127 2",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "SEP 3 B-727-31H N908JE LPBZ TST 281 JE,MS SK,TD 1 5 6",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David Podgurs",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Podgurs",
+      "Frank Gimble",
+      "Rolph Pascale",
+      "David Mullen"
+    ],
+    "organizations": [],
+    "locations": [
+      "LPBZ",
+      "TST",
+      "PBI",
+      "JFK",
+      "ABQ",
+      "VNY",
+      "SEGU",
+      "TEB",
+      "BELLSSCHOOL",
+      "HURST,TX",
+      "OTC2"
+    ],
+    "dates": [
+      "SEP 3",
+      "SEP 6",
+      "SEP 10",
+      "SEP 13",
+      "SEP 18",
+      "SEP 19",
+      "SEP 24",
+      "SEP 25",
+      "SEP 29",
+      "OCT 2",
+      "OCT 5",
+      "OCT 16",
+      "OCT 20",
+      "OCT 21",
+      "OCT 25",
+      "OCT 8",
+      "OCT 10",
+      "OCT 12",
+      "OCT 13"
+    ],
+    "reference_numbers": [
+      "N908JE",
+      "N909JE",
+      "N401PR",
+      "DOJ-OGR-00016026"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries and some redacted information. The log includes details such as date, aircraft make and model, identification mark, points of departure and arrival, miles flown, flight number, remarks, and number of landings."
+}

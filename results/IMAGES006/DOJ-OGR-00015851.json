@@ -1,0 +1,67 @@
+{
+  "document_metadata": {
+    "page_number": "54",
+    "document_number": "DOJ-OGR-00015851",
+    "date": "March 1981",
+    "document_type": "Pilot's Logbook Page",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Aircraft Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... 19 MAR 23 G1159B N908JC PBI TCB 1085 1/1 2 2 25 11 TCB SAF 1086 4 4 27 11 SAF PBI 1287 1/0 2 9 31 C172 N5188B LNA LNA 3/3 3 31 11 LNA-PBI-LNA 1 3 16 C421 SIMULATED 17 11 19 G1159B N908JC PBI TCB 1/1 2 5 6 11 TCB W47 1089 1 7 6 11 W47 RIK 1090 1 5 6 11 RIK W47 1091 1 4 6 11 W47 TCB 1092 1 7 9 11 TCB BED 1093 1/1 6 9 11 BED TCB 1094 9 11 TCB PBI 1095 2 3 11 C172 N75RR LNA-FXE-LNA 1096 2/2 1 2 16 G1159B N908JC MBIN MYNN 1097 1/1 6 16 11 MYNN PBI 1097 1 6 I certify that the statements made by me on this form are true. Pilot's Signature David Rodgers Page Total 157 226 Amount Forward 6005 5748 7161 5 Total to Date 6024 5762 7184 1",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Aircraft Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "19 MAR 23 G1159B N908JC PBI TCB 1085 1/1 2 2",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "David Rodgers",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rodgers"
+    ],
+    "organizations": [],
+    "locations": [
+      "PBI",
+      "TCB",
+      "SAF",
+      "LNA",
+      "W47",
+      "RIK",
+      "BED",
+      "MBIN",
+      "MYNN",
+      "FXE"
+    ],
+    "dates": [
+      "March 23, 1981",
+      "March 25, 1981",
+      "March 27, 1981",
+      "March 31, 1981",
+      "April 5, 1981",
+      "April 6, 1981",
+      "April 9, 1981",
+      "April 11, 1981",
+      "April 16, 1981"
+    ],
+    "reference_numbers": [
+      "N908JC",
+      "N5188B",
+      "N75RR",
+      "G1159B",
+      "C172",
+      "C421",
+      "DOJ-OGR-00015851"
+    ]
+  },
+  "additional_notes": "The document is a pilot's logbook page with handwritten entries. The page is partially obscured by a black rectangle, but the surrounding text is still legible."
+}

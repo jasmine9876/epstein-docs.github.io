@@ -1,0 +1,38 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "image",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "GOVERNMENT EXHIBIT 248-R S2 20 Cr. 330 (AJN) DOJ-OGR-00015587",
+  "text_blocks": [
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 248-R S2 20 Cr. 330 (AJN)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015587",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "GOVERNMENT",
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "248-R",
+      "S2 20 Cr. 330",
+      "DOJ-OGR-00015587"
+    ]
+  },
+  "additional_notes": "The image appears to be a photograph of a bookshelf with various objects on it. The text is extracted from a yellow stamp in the bottom-right corner of the image."
+}

@@ -1,0 +1,68 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "4-495-45970",
+    "date": "Dec 16, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\n\nPicked up: Nov 27, 2002    Payor: Shipper    Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nFedEx has audited this airbill for correct pieces, weight, and service. Any changes made are reflected in the invoice amount.\nHoliday - Business closed.\n\nTracking D    831544845674    Sender    SHANNON JEFFREY E EPSTEIN    457 MADISON AVE    NEW YORK NY 10022-6843 US    Recipient    JEANNE BELNAN    FINANCIAL TRUST    6100 RIO HOOK QUARTERS    B-3    ST. THOMAS VI 453 VI\nService Type    FedEx Intl Priority    Zone    I\nPackage Type    FedEx Pak    Orig./Dest.    ABQ/STT    Packages    1    Weight    0.6 lbs, 0.3 kgs    Delivered    Dec 02, 2002 14:44    Signed by    D.WALLACE    FedEx Use    _/USO1O/42\n\nTransportation Charge    38.00    Fuel Surcharge    1.47    Discount    -1.14    Total Transportation Charges    USD $    38.33\n\nPicked up: Dec 02, 2002    Payor: Shipper    Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nRecipient not in/business closed.\n\nTracking D    830273245338    Sender    E SIMMONDS    JEFFREY E EPSTEIN    457 MADISON AVE    NEW YORK NY 10022-6843 US    Recipient    K VAUCHAN EDWARDS\nService Type    FedEx Intl Priority    Zone    D\nPackage Type    Customer Packaging    Orig./Dest.    FLU/BEQ    Packages    1    Weight    7.0 lbs, 3.2 kgs    Delivered    Dec 11, 2002 12 55    Signed by    R.PERKINS    FedEx Use    _/USO1O/08\n\nTransportation Charge    86.72    Fuel Surcharge    3.36    Discount    -2.60    Total Transportation Charges    USD $    87.48\n\nDropped off: Dec 04, 2002    Payor: Shipper    Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nFedEx has audited this airbill for correct pieces, weight, and service. Any changes made are reflected in the invoice amount.\nDiscount applied is the greater of volume discount or drop discount. No additional discount applies.\nRecipient not in/business closed.\n\nTracking D    828821338012    Sender    DAVE RODGERS    JEFFREY E EPSTEIN    457 MADISON AVE    NEW YORK NY 10022-6843 US    Recipient    JEANNE BRENNAN    FINANCIAL TRUCKS COMPANY    6100 RED HOOK QUARTERS    SUITEB 3    ST THOAMS 00902 VI\nService Type    FedEx Intl Priority    Zone    I\nPackage Type    FedEx Envelope    Orig./Dest.    LNA/STT    Packages    1    Weight    0.6 lbs, 0.3 kgs    Delivered    Dec 09, 2002 09 23    Signed by    W.HAGUE    Dec. Value    USD 1.00    FedEx Use    _/USO1O/08\n\nTransportation Charge    38.00    Fuel Surcharge    1.47    Discount    -1.14    Total Transportation Charges    USD $    38.33\n\nCONFIDENTIAL\nSDNY_GM_00340798 137\nDOJ-OGR-00015446",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "SHANNON JEFFREY E EPSTEIN",
+      "JEANNE BELNAN",
+      "E SIMMONDS",
+      "K VAUCHAN EDWARDS",
+      "DAVE RODGERS",
+      "JEANNE BRENNAN"
+    ],
+    "organizations": [
+      "FedEx",
+      "FINANCIAL TRUST",
+      "FINANCIAL TRUCKS COMPANY"
+    ],
+    "locations": [
+      "NEW YORK",
+      "ABQ",
+      "STT",
+      "FLU",
+      "BEQ",
+      "LNA",
+      "ST THOAMS",
+      "ST. THOMAS VI",
+      "RIO HOOK QUARTERS",
+      "RED HOOK QUARTERS"
+    ],
+    "dates": [
+      "Nov 27, 2002",
+      "Dec 02, 2002",
+      "Dec 11, 2002",
+      "Dec 04, 2002",
+      "Dec 09, 2002",
+      "Dec 16, 2002"
+    ],
+    "reference_numbers": [
+      "4-495-45970",
+      "831544845674",
+      "830273245338",
+      "828821338012",
+      "1144-2081-6",
+      "SDNY_GM_00340798",
+      "DOJ-OGR-00015446"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx shipment detail report, containing information about three separate shipments. The document is marked 'CONFIDENTIAL' at the bottom."
+}

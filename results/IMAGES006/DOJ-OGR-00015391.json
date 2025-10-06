@@ -1,0 +1,81 @@
+{
+  "document_metadata": {
+    "page_number": "3 of 4",
+    "document_number": "4-486-55100",
+    "date": "Nov 29, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\nDropped off: Nov 22, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 4\nTracking D 838319148606 Sender DARREN INDYKE\nService Type FedEx Priority Overnight NYSG LLC\nPackage Type FedEx Envelope 457 MADISON AVE\nZone 4 NEW YORK NY 10022-6843 US\nPackages 1 Recipient WALTER NOVEMBRE\nWeight 1.0 lbs, 0.5 kgs\nDelivered Nov 23, 200209 57\nSvc Area A2 Signed by R.SOUTHERS\nFedEx Use 331053100/08391/_\nTransportation Charge 6 94\nSaturday Delivery 10 00\nFuel Surcharge 0 28\nTotal Transportation Charges USD $ 17.22\nShipment Detail Subtotal .......................................USD $ 17.22\nCONFIDENTIAL\nSDNY_GM_00340723 82\nDOJ-OGR-00015391",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Dropped off: Nov 22, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Fuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Distance Based Pricing, Zone 4",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Tracking D 838319148606 Sender DARREN INDYKE\nService Type FedEx Priority Overnight NYSG LLC\nPackage Type FedEx Envelope 457 MADISON AVE\nZone 4 NEW YORK NY 10022-6843 US\nPackages 1 Recipient WALTER NOVEMBRE\nWeight 1.0 lbs, 0.5 kgs\nDelivered Nov 23, 200209 57\nSvc Area A2 Signed by R.SOUTHERS\nFedEx Use 331053100/08391/_",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Transportation Charge 6 94\nSaturday Delivery 10 00\nFuel Surcharge 0 28\nTotal Transportation Charges USD $ 17.22\nShipment Detail Subtotal .......................................USD $ 17.22",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "SDNY_GM_00340723 82\nDOJ-OGR-00015391",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "DARREN INDYKE",
+      "WALTER NOVEMBRE",
+      "R.SOUTHERS"
+    ],
+    "organizations": [
+      "FedEx",
+      "NYSG LLC"
+    ],
+    "locations": [
+      "NEW YORK NY 10022-6843 US"
+    ],
+    "dates": [
+      "Nov 22, 2002",
+      "Nov 23, 2002",
+      "Nov 29, 2002"
+    ],
+    "reference_numbers": [
+      "838319148606",
+      "4-486-55100",
+      "2292-0750-4",
+      "331053100/08391/_",
+      "SDNY_GM_00340723",
+      "DOJ-OGR-00015391"
+    ]
+  },
+  "additional_notes": "The document is a FedEx shipment detail report. It contains information about a shipment, including the sender, recipient, package details, and charges. The document is marked as 'CONFIDENTIAL' at the bottom."
+}

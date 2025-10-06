@@ -1,0 +1,96 @@
+{
+  "document_metadata": {
+    "page_number": "47",
+    "document_number": "DOJ-OGR-00015844",
+    "date": "1947 March",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date 1947 March Aircraft Make and Model G1159B Aircraft Identification Mark N908JC Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... 10 VNC PBI 956 1/1 17 15 PBI DCA 957 1/1 27 15 DCA TAD 958 2 15 TAD PBI 959 2 24 PBI TGB 960 1/1 23 27 TGB PBI 961 2 30 PBI SAF 962 3 29F SAF CMH 963 1/1 24 2 CMH TGB 964 1 10 TGB PBI 965 2 15 PBI DCA 966 1/1 2 15 DCA TGB 967 17 TGB PBI 968 1/1 24 21 PBI TGB 969 1/1 2 21 TGB BCD 970 1/1 22 TGB 971 7 22 TGB PBI 972 2 27 PBI TGB 973 1/1 24 29T TGB EGGW 974 1/1 65 I certify that the statements made by me on this form are true. Pilot's Signature David Rodge Page Total 9/9 378 Amount Forward 5969 5652.68872 Total to Date 5918 5670 69250",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date 1947 March Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "10 VNC PBI 956 1/1 17 15 PBI DCA 957 1/1 27 15 DCA TAD 958 2 15 TAD PBI 959 2 24 PBI TGB 960 1/1 23 27 TGB PBI 961 2 30 PBI SAF 962 3 29F SAF CMH 963 1/1 24 2 CMH TGB 964 1 10 TGB PBI 965 2 15 PBI DCA 966 1/1 2 15 DCA TGB 967 17 TGB PBI 968 1/1 24 21 PBI TGB 969 1/1 2 21 TGB BCD 970 1/1 22 TGB 971 7 22 TGB PBI 972 2 27 PBI TGB 973 1/1 24 29T TGB EGGW 974 1/1 65",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David Rodge",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "9/9 378 5969 5652.68872 5918 5670 69250",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rodge"
+    ],
+    "organizations": [],
+    "locations": [
+      "VNC",
+      "PBI",
+      "DCA",
+      "TAD",
+      "TGB",
+      "SAF",
+      "CMH",
+      "BCD",
+      "EGGW"
+    ],
+    "dates": [
+      "1947 March 10",
+      "1947 March 15",
+      "1947 March 24",
+      "1947 March 27",
+      "1947 March 30",
+      "1947 February 29",
+      "1947 March 2",
+      "1947 March 10",
+      "1947 March 15",
+      "1947 March 17",
+      "1947 March 21",
+      "1947 March 22",
+      "1947 March 27",
+      "1947 March 29"
+    ],
+    "reference_numbers": [
+      "N908JC",
+      "G1159B",
+      "956",
+      "957",
+      "958",
+      "959",
+      "960",
+      "961",
+      "962",
+      "963",
+      "964",
+      "965",
+      "966",
+      "967",
+      "968",
+      "969",
+      "970",
+      "971",
+      "972",
+      "973",
+      "974",
+      "DOJ-OGR-00015844"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log from March 1947. The log contains handwritten entries detailing flight information, including dates, aircraft identification, departure and arrival points, miles flown, flight numbers, and remarks. The document is signed by the pilot, David Rodge."
+}

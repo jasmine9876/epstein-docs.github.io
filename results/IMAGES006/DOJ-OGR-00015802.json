@@ -1,0 +1,72 @@
+{
+  "document_metadata": {
+    "page_number": "5",
+    "document_number": "DOJ-OGR-00015802",
+    "date": "1941-10",
+    "document_type": "Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE 1941 OCT AIRCRAFT MAKE AND MODEL AIRCRAFT IDENTIFICATION MARK POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FLYN Flt. No. REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS NO. LDG. AIRPLANE Complex TUR AIRCRAFT CATEGORY 23 HS125-700 N909JE TCB CMH 50.0 58 11 3 3 11 3 4 11 7 11 9 11 9 11 17 11 17 11 19 11 21 11 22 11 22 11 23 11 24 11 25 11 CMH BKL BKL TCB PBI DCA DCA TCB TCB CMH BKL BKL CMH PBI PBI TCB BOS BOS TCB CHO TCB TCB PBI 75.5 54 60 60 90 62 63 64 60 65 66 67 68 69 60 70 40 71 40 72 7.0 73 3.5 74 5.5 75 4 9 2 8 2 8 19 9 19 9 7 7 13 3 13 3 4 4 5 5 10 10 2 5 2 5 2 4 2 4 9 9 7 7 16 9 11 9 25 25 2 224 224 2 5437 3808 1 179 5410 2480 5 182 I certify that the statements made by me on this form are true. Pilot's Signature Eric Rodgers PAGE TOTAL AMT. FORWARD TOTAL TO DATE",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE 1941 OCT AIRCRAFT MAKE AND MODEL AIRCRAFT IDENTIFICATION MARK POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FLYN Flt. No. REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS NO. LDG. AIRPLANE Complex TUR AIRCRAFT CATEGORY",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "23 HS125-700 N909JE TCB CMH 50.0 58 11 3 3 11 3 4 11 7 11 9 11 9 11 17 11 17 11 19 11 21 11 22 11 22 11 23 11 24 11 25 11 CMH BKL BKL TCB PBI DCA DCA TCB TCB CMH BKL BKL CMH PBI PBI TCB BOS BOS TCB CHO TCB TCB PBI 75.5 54 60 60 90 62 63 64 60 65 66 67 68 69 60 70 40 71 40 72 7.0 73 3.5 74 5.5 75 4 9 2 8 2 8 19 9 19 9 7 7 13 3 13 3 4 4 5 5 10 10 2 5 2 5 2 4 2 4 9 9 7 7 16 9 11 9 25 25 2 224 224 2 5437 3808 1 179 5410 2480 5 182",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "Eric Rodgers",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE TOTAL AMT. FORWARD TOTAL TO DATE",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Eric Rodgers"
+    ],
+    "organizations": [],
+    "locations": [
+      "TCB",
+      "CMH",
+      "BKL",
+      "PBI",
+      "DCA",
+      "BOS",
+      "CHO"
+    ],
+    "dates": [
+      "1941-10-23",
+      "1941-10-03",
+      "1941-10-04",
+      "1941-10-07",
+      "1941-10-09",
+      "1941-10-17",
+      "1941-10-19",
+      "1941-10-21",
+      "1941-10-22",
+      "1941-10-23",
+      "1941-10-24",
+      "1941-10-25"
+    ],
+    "reference_numbers": [
+      "N909JE",
+      "DOJ-OGR-00015802"
+    ]
+  },
+  "additional_notes": "The document is a flight log with handwritten entries. The pilot's signature is present at the bottom of the page."
+}

@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "244",
+    "document_number": "745",
+    "date": "08/10/22",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 745 Filed 08/10/22 Page 244 of 264 655 LC1VMAX7 Besselsen - direct letter to a donor or to a foundation. Q. Is there any relationship between the level of donation given and the person writing the letter to the donor? A. Yes. Yup. For example, our vice president of advancement or even our president would handle a higher-end donor that might be capable of donating half a million dollars or more, for example. And we would have major gift officers that would be below that vice president of advancement that would handle folks with capacity to give $100,000, $200,000, something like that. Q. When these letters are written to donors, does Interlochen put them in any sort of file? A. Yes, yup. We keep track of all correspondence with donors. Nowadays, it's all electronic within Salesforce, which is the software we use to track fundraising and donations. Historically, we have hard copy letters, for example. Prior to using Salesforce, we've got manila folders or files that we kept for each donor that includes all of the correspondence over time with that donor. Q. How long are those records kept? A. They are kept forever. Q. And are they kept by Interlochen in the ordinary course of business? A. Yes. MR. ROHRBACH: Ms. Drescher, would you please display SOUTHERN DISTRICT REPORTERS, P.C. (212) 805-0300 DOJ-OGR-00017853",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 745 Filed 08/10/22 Page 244 of 264 655",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "LC1VMAX7 Besselsen - direct",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "letter to a donor or to a foundation. Q. Is there any relationship between the level of donation given and the person writing the letter to the donor? A. Yes. Yup. For example, our vice president of advancement or even our president would handle a higher-end donor that might be capable of donating half a million dollars or more, for example. And we would have major gift officers that would be below that vice president of advancement that would handle folks with capacity to give $100,000, $200,000, something like that. Q. When these letters are written to donors, does Interlochen put them in any sort of file? A. Yes, yup. We keep track of all correspondence with donors. Nowadays, it's all electronic within Salesforce, which is the software we use to track fundraising and donations. Historically, we have hard copy letters, for example. Prior to using Salesforce, we've got manila folders or files that we kept for each donor that includes all of the correspondence over time with that donor. Q. How long are those records kept? A. They are kept forever. Q. And are they kept by Interlochen in the ordinary course of business? A. Yes.",
+      "position": "main"
+    },
+    {
+      "type": "printed",
+      "content": "MR. ROHRBACH: Ms. Drescher, would you please display",
+      "position": "main"
+    },
+    {
+      "type": "printed",
+      "content": "SOUTHERN DISTRICT REPORTERS, P.C. (212) 805-0300",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00017853",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ms. Drescher",
+      "MR. ROHRBACH"
+    ],
+    "organizations": [
+      "Interlochen",
+      "SOUTHERN DISTRICT REPORTERS, P.C.",
+      "Salesforce"
+    ],
+    "locations": [],
+    "dates": [
+      "08/10/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "745",
+      "DOJ-OGR-00017853",
+      "(212) 805-0300"
+    ]
+  },
+  "additional_notes": "The document appears to be a court transcript with a clear structure and formatting. The text is mostly printed, with a small handwritten note at the top. There are no visible stamps or redactions."
+}

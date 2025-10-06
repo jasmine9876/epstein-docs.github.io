@@ -1,0 +1,42 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00015639",
+    "date": null,
+    "document_type": "photograph",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "NOBLE GOVERNMENT EXHIBIT 315 52 20 Cr. 330 (AJN) DOJ-OGR-00015639",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "NOBLE",
+      "position": "top"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 315 52 20 Cr. 330 (AJN)",
+      "position": "bottom right"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015639",
+      "position": "bottom right"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ",
+      "OGR"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00015639",
+      "52 20 Cr. 330"
+    ]
+  },
+  "additional_notes": "The image is a photograph of a man standing in front of an airplane with the word 'NOBLE' on its tail. The image has a yellow stamp in the bottom-right corner indicating it is a government exhibit."
+}

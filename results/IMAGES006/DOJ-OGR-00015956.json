@@ -1,0 +1,91 @@
+{
+  "document_metadata": {
+    "page_number": "41",
+    "document_number": "DOJ-OGR-00015956",
+    "date": "1996",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date 1996 APR 22 | Aircraft Make and Model G1159B | Aircraft Identification Mark N9083E | Points of Departure & Arrival From PBI To TCB | Miles Flown 828 | Flight No. 329 | Remarks, Procedures, Maneuvers, Endorsements JC, GM | Number of Landings 1/1 | Aircraft Category... AIRPLANE 22 | 26 | \" | \" | TCB PBI | 829 | JC, GM, 3 PAX | 2/3 | 29 | \" | \" | PBI TCB | 830 | JC, GM, MASS GRAB 1 MALE, 2 FEMALE | 2/3 | MAY 2 | \" | \" | TCB EIDW | 831 | JC, ELIZABETH JOHNSON S. DUBEYN E. G. MARSHALL A. TOLAL, ISRAELI SPECIAL GUESTS, CIRCULAR | 6/0 | 3 | \" | \" | EIDW EIWF | 832 | CAPTAL S. TEAL, O. TEAL | 1/1 | 5 | 3 | \" | \" | EIWF LFPB | 833 | JC, PAMELA JOHANAOFF | 1/3 | 6 | \" | \" | LFPB LSGG | 834 | JC, PAMELA JOHANAOFF | /7 | 6 | \" | \" | LSGG EINN | 835 | JC, PAMELA JOHANOFF | 1/8 | 6 | \" | \" | EINN TCB | 836 | JC, PAMELA JOHANANOFF | 6/5 | 8 | \" | \" | TCB MOLR | 837 | JC, GM, KATARZYNA KUTZIG | 3/3 | 9 | \" | \" | MOLR MBGT | 838 | JC, GM, KATARZYNA KUZIL | /7 | 9 | \" | \" | MBGT PBI | 839 | JC, GM, KATARZYNA KUTZIG | 1/5 | 13 | \" | \" | PBI CMB | 840 | JC, GM, PS 2 FEMALES | 2/1 | 13 | \" | \" | CMB PEB | 841 | JC, GM, PS, 1 FEMALE | 1/1 | 17 | \" | \" | TCB PBI | 842 | JC | 2/1 | 20 | \" | \" | PBI TCB | 843 | JC | 2/2 | 22 | \" | \" | TCB SAF | 844 | JC, GM | 4/0 | 24 | \" | \" | SAF PBI | 845 | JC, GM | 3/1 | 27 | \" | \" | PBI TCB | 846 | JC, GM, ANKLE | 2/3 | Page Total 14/10 | 460 | Amount Forward 583 1/2 | 6556 | Total to Date 585 1/2 | 6702 | I certify that the statements made by me on this form are true. Pilot's Signature David Radcliffe",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date 1996 APR 22 | Aircraft Make and Model G1159B | Aircraft Identification Mark N9083E | Points of Departure & Arrival From PBI To TCB | Miles Flown 828 | Flight No. 329 | Remarks, Procedures, Maneuvers, Endorsements JC, GM | Number of Landings 1/1 | Aircraft Category... AIRPLANE",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "David Radcliffe",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Radcliffe",
+      "Elizabeth Johnson",
+      "S. Dubeyn",
+      "E. G. Marshall",
+      "A. Tolal",
+      "Pamela Johanaoff",
+      "Katarzyna Kutzig",
+      "S. Teal",
+      "O. Teal"
+    ],
+    "organizations": [],
+    "locations": [
+      "PBI",
+      "TCB",
+      "EIDW",
+      "EIWF",
+      "LFPB",
+      "LSGG",
+      "EINN",
+      "MOLR",
+      "MBGT",
+      "CMB",
+      "PEB",
+      "SAF"
+    ],
+    "dates": [
+      "1996-04-22",
+      "1996-04-26",
+      "1996-04-29",
+      "1996-05-02",
+      "1996-05-03",
+      "1996-05-06",
+      "1996-05-08",
+      "1996-05-09",
+      "1996-05-13",
+      "1996-05-17",
+      "1996-05-20",
+      "1996-05-22",
+      "1996-05-24",
+      "1996-05-27"
+    ],
+    "reference_numbers": [
+      "N9083E",
+      "G1159B",
+      "329",
+      "830",
+      "831",
+      "832",
+      "833",
+      "834",
+      "835",
+      "836",
+      "837",
+      "838",
+      "839",
+      "840",
+      "841",
+      "842",
+      "843",
+      "844",
+      "845",
+      "846",
+      "DOJ-OGR-00015956"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log from 1996, detailing various flights with corresponding dates, aircraft information, departure and arrival points, miles flown, flight numbers, remarks, and number of landings. The log includes handwritten entries and a signature at the bottom."
+}

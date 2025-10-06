@@ -1,0 +1,69 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "S220 Cr. 330 (AJN)",
+    "date": "2005-12-25",
+    "document_type": "Important Message",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "IMPORTANT MESSAGE FOR Jeffery DATE 12/5/05 TIME 03:50 AM M Clewin OF Nathans Office PHONE/MOBILE 625 967 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Please call back. Nathan has a lunch meeting in 15min (particular time) It will TAKE 1h30min other than that at any time SIGNED  a 1184 IMPORTANT MESSAGE FOR Jeffery DATE 12/24/05 TIME 12: P.M. M Cecilia OF  PHONE/MOBILE  TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE - A Mitchell called back SIGNED  a 1184 IMPORTANT MESSAGE FOR Jeffery DATE 12/5/05 TIME 3:55 AM M Terry Goldsmith OF  PHONE/MOBILE You've got it TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Please call back SIGNED  a 1184 IMPORTANT MESSAGE FOR Jeffery DATE DOJ REDACTION TIME 12:00 AM M  OF  PHONE/MOBILE 1561 379 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE She is asking if you want her work today? The best time will be 2pm or 9:45pm SIGNED  a 1184 GOVERNMENT EXHIBIT 1-M-R S220 Cr. 330 (AJN) DOJ-OGR-00015467",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR Jeffery DATE 12/5/05 TIME 03:50 AM M Clewin OF Nathans Office PHONE/MOBILE 625 967 Please call back. Nathan has a lunch meeting in 15min (particular time) It will TAKE 1h30min other than that at any time",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR Jeffery DATE 12/24/05 TIME 12: P.M. M Cecilia - A Mitchell called back",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR Jeffery DATE 12/5/05 TIME 3:55 AM M Terry Goldsmith PHONE/MOBILE You've got it Please call back",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR Jeffery DATE DOJ REDACTION TIME 12:00 AM M  PHONE/MOBILE 1561 379 She is asking if you want her work today? The best time will be 2pm or 9:45pm",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 1-M-R S220 Cr. 330 (AJN) DOJ-OGR-00015467",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffery",
+      "Clewin",
+      "Nathan",
+      "Cecilia",
+      "A Mitchell",
+      "Terry Goldsmith"
+    ],
+    "organizations": [
+      "Nathans Office",
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "12/5/05",
+      "12/24/05"
+    ],
+    "reference_numbers": [
+      "625 967",
+      "1561 379",
+      "S220 Cr. 330 (AJN)",
+      "DOJ-OGR-00015467"
+    ]
+  },
+  "additional_notes": "The document appears to be a set of four 'Important Message' slips, likely from a legal or government context given the presence of a 'GOVERNMENT EXHIBIT' stamp. The messages are from various individuals to Jeffery, with some phone numbers and messages redacted or partially obscured."
+}

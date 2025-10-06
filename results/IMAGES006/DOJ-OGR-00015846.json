@@ -1,0 +1,99 @@
+{
+  "document_metadata": {
+    "page_number": "49",
+    "document_number": "DOJ-OGR-00015846",
+    "date": "1997-07",
+    "document_type": "Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date 1997 JUL Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... AIRPLANE 1 G1159B N908JC PBI TEB 994 1/1 25 10 \" CMH SAF 999 1/1 30 16 \" PBI SAF PBI 1000 1/1 32 22 \" SIMULATED DFW HOU 30 23 \" TEB HPN 35 24 \" DFW COS 30 13 C-421B N908GM ZOR- SAF-ZOR 57 4/4 7 15 \" ZOR SAF 58 1/1 2 AUG \" SAF ZOR 59 1/1 4 9 G1159B N908JC PBI TVC 142 1/1 27 10 \" TVC TEB 143 1/1 15 13 \" TEB PBI 1014 1/1 23 17 \" PBI MVY 1015 1/1 25 17 \" MVY TEB 1016 1/1 7 20 \" TEB SAF 1017 39 23 \" SAF TEB 1018 1/2 35 24 \" TEB FOK 1019 1/1 5 24 \" FOK MVY 1020 4 25 \" MVY PBI 1021 1/1 26 Page Total 1514 396 Amount Forward 5931 69643 Total to Date 5946 70039 I certify that the statements made by me on this form are true. Pilot's Signature David Rodgers",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date 1997 JUL Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... AIRPLANE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "1 G1159B N908JC PBI TEB 994 1/1 25 10 \" CMH SAF 999 1/1 30 16 \" PBI SAF PBI 1000 1/1 32 22 \" SIMULATED DFW HOU 30 23 \" TEB HPN 35 24 \" DFW COS 30 13 C-421B N908GM ZOR- SAF-ZOR 57 4/4 7 15 \" ZOR SAF 58 1/1 2 AUG \" SAF ZOR 59 1/1 4 9 G1159B N908JC PBI TVC 142 1/1 27 10 \" TVC TEB 143 1/1 15 13 \" TEB PBI 1014 1/1 23 17 \" PBI MVY 1015 1/1 25 17 \" MVY TEB 1016 1/1 7 20 \" TEB SAF 1017 39 23 \" SAF TEB 1018 1/2 35 24 \" TEB FOK 1019 1/1 5 24 \" FOK MVY 1020 4 25 \" MVY PBI 1021 1/1 26",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "1514 396 5931 69643 5946 70039",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David Rodgers",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rodgers"
+    ],
+    "organizations": [],
+    "locations": [
+      "PBI",
+      "TEB",
+      "CMH",
+      "SAF",
+      "DFW",
+      "HOU",
+      "HPN",
+      "COS",
+      "ZOR",
+      "TVC",
+      "MVY",
+      "FOK"
+    ],
+    "dates": [
+      "1997-07-01",
+      "1997-07-10",
+      "1997-07-16",
+      "1997-07-22",
+      "1997-07-23",
+      "1997-07-24",
+      "1997-08-01",
+      "1997-08-09",
+      "1997-08-10",
+      "1997-08-13",
+      "1997-08-17",
+      "1997-08-20",
+      "1997-08-23",
+      "1997-08-24",
+      "1997-08-25"
+    ],
+    "reference_numbers": [
+      "G1159B",
+      "N908JC",
+      "C-421B",
+      "N908GM",
+      "994",
+      "999",
+      "1000",
+      "57",
+      "58",
+      "59",
+      "142",
+      "143",
+      "1014",
+      "1015",
+      "1016",
+      "1017",
+      "1018",
+      "1019",
+      "1020",
+      "1021",
+      "DOJ-OGR-00015846"
+    ]
+  },
+  "additional_notes": "The document is a flight log with handwritten entries. The pilot's signature is present at the bottom."
+}

@@ -1,0 +1,76 @@
+{
+  "document_metadata": {
+    "page_number": "8 of 8",
+    "document_number": null,
+    "date": "June 01, 2007 - June 29, 2007",
+    "document_type": "Bank Statement",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "June 01, 2007 June 29, 2007 Ghislaine Maxwell JPMorgan Private Bank Page 8 of 8 Primary Account Number: 6312 Premier Checking 6312 CHECK NO. 1071 $464.42 PAID 06/27 Confidential Treatment Requested by JPMorgan Chase JPM-SDNY-00052165 DOJ-OGR-00015698",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "June 01, 2007 June 29, 2007 Ghislaine Maxwell JPMorgan Private Bank",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Page 8 of 8 Primary Account Number: 6312",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Premier Checking 6312",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CHECK NO. 1071 $464.42 PAID 06/27",
+      "position": "middle"
+    },
+    {
+      "type": "image",
+      "content": "Check image",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Confidential Treatment Requested by JPMorgan Chase",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "JPM-SDNY-00052165 DOJ-OGR-00015698",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ghislaine Maxwell",
+      "Douglas Wigdor"
+    ],
+    "organizations": [
+      "JPMorgan Private Bank",
+      "JPMorgan Chase",
+      "Chase Bank"
+    ],
+    "locations": [
+      "New York",
+      "Atlanta, GA"
+    ],
+    "dates": [
+      "June 01, 2007",
+      "June 29, 2007",
+      "6/27/2007"
+    ],
+    "reference_numbers": [
+      "6312",
+      "1071",
+      "$464.42",
+      "JPM-SDNY-00052165",
+      "DOJ-OGR-00015698"
+    ]
+  },
+  "additional_notes": "The document appears to be a bank statement from JPMorgan Private Bank for Ghislaine Maxwell's account. The check image shows a payment to Douglas Wigdor. Some account numbers are redacted."
+}

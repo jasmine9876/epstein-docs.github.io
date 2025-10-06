@@ -1,0 +1,80 @@
+{
+  "document_metadata": {
+    "page_number": "10",
+    "document_number": null,
+    "date": "1942",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE 1942 MAY AIRCRAFT MAKE AND MODEL AIRCRAFT IDENTIFICATION MARK POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FLOWN FLT. NO. REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS LDG. AIRPLANE COMPLEX TURE 20 MS125-7nn N9083E CMH TCB 60 144 1 3 1 3 1 20 \" TCB IZI √ 145 1 6 1 6 1 21 \" IZI PBI 40 146 1 1 1 1 25 \" PBI TCB 30 147 2 4 2 4 2 29 \" CMH PBI 45 149 2 4 2 4 2 31 \" PBI LGA 80 152 2 9 2 9 2 JUNE 1 \" LGA CMH 3.7 151 1 2 1 2 1 14 \" CMH TCB 5.0 152 1 2 1 2 1 18 \" TCB PBI 84 153 2 4 2 4 2 21 \" PBI TCB 70 154 2 6 2 6 2 21 \" TCB CMH 1 155 1 3 1 3 1 27 \" CMH BMI 45.5 151 9 27 \" BMI ACK √ 157 2 1 2 1 2 27 \" ACK TCB √ 153 8 1 \" TCB CMH 80 153 1 3 1 3 1 2 \" CMH SAC 100 160 3 7 3 7 3 4 \" SAC ASC 7.0 161 7 4 \" ASC GRS 10 162 1 1 1 1 I certify that the statements made by me on this form are true. PILOT'S SIGNATURE Qed Podegie PAGE TOTAL 31 0 3 0 31 AMT. FORWARD 5441 5586 9 3956 41948 TOTAL TO DATE 3262 5507 9 3487 41974 10 DOJ-OGR-00015807",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE 1942 MAY AIRCRAFT MAKE AND MODEL AIRCRAFT IDENTIFICATION MARK POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FLOWN FLT. NO. REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS LDG. AIRPLANE COMPLEX TURE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "20 MS125-7nn N9083E CMH TCB 60 144 1 3 1 3 1 ...",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. PILOT'S SIGNATURE Qed Podegie",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE TOTAL AMT. FORWARD TOTAL TO DATE",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "31 0 3 0 31 5441 5586 9 3956 41948 3262 5507 9 3487 41974",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015807",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Qed Podegie"
+    ],
+    "organizations": [],
+    "locations": [
+      "CMH",
+      "TCB",
+      "IZI",
+      "PBI",
+      "LGA",
+      "BMI",
+      "ACK",
+      "SAC",
+      "ASC",
+      "GRS"
+    ],
+    "dates": [
+      "1942",
+      "May 20",
+      "May 21",
+      "May 25",
+      "May 29",
+      "May 31",
+      "June 1",
+      "June 14",
+      "June 18",
+      "June 21",
+      "June 27"
+    ],
+    "reference_numbers": [
+      "N9083E",
+      "MS125-7nn",
+      "DOJ-OGR-00015807"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log from 1942. It contains handwritten entries for various flights, including dates, aircraft information, departure and arrival points, miles flown, and other remarks. The log is signed by the pilot, Qed Podegie. The document has some minor damage and wear, but the text is generally legible."
+}

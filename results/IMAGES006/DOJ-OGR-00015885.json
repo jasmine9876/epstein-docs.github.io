@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": "1988",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category.... From To Aero G-Expo HGLV 02 9 G-11598 N909JC LCQ PBI 1554 1/1 1 0 12 ' ' PBI TEB 1559 1/1 25 15 ' ' TEB PBS 1/1 25 17 B-727-31 N908JE LCQ PBI 25 1/1 9 9 18 ' ' PBI CYQX 26 1/1 43 18 ' ' CYQX LFPG 27 1/1 49 23 ' ' LFPG LIML 28 1/1 12 23 ' ' LIML LIPR 29 1/1 8 23 ' ' LIPR LIML 30 1/1 9 24 ' ' LIML EGGW 31 26 ' ' EGGW HPN 32 1/1 79 30 ' ' HPN PBI 33 1/1 25 Dec 4th ' ' PBE ISP 34 1/1 25 8 ' ' ISP PBI 35 1/1 22 9 ' ' PBI TST 36 1/1 40 13 ' ' TST HPN 37 1/1 40 15 ' ' HPN CMH 38 1/1 15 1 16 ' ' CMH PBS 39 1/1 21 I certify that the statements made by me on this form are true. Pilot's Signature David Rodgers FLIGHT TIMES REPORTED 88 OUT TO TANKER AIR (TOTALS) FIRE ANAL DOJ-OGR-00015885",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category.... From To Aero G-Expo HGLV",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "02 9 G-11598 N909JC LCQ PBI 1554 1/1 1 0 12 ' ' PBI TEB 1559 1/1 25 15 ' ' TEB PBS 1/1 25 17 B-727-31 N908JE LCQ PBI 25 1/1 9 9 18 ' ' PBI CYQX 26 1/1 43 18 ' ' CYQX LFPG 27 1/1 49 23 ' ' LFPG LIML 28 1/1 12 23 ' ' LIML LIPR 29 1/1 8 23 ' ' LIPR LIML 30 1/1 9 24 ' ' LIML EGGW 31 26 ' ' EGGW HPN 32 1/1 79 30 ' ' HPN PBI 33 1/1 25 Dec 4th ' ' PBE ISP 34 1/1 25 8 ' ' ISP PBI 35 1/1 22 9 ' ' PBI TST 36 1/1 40 13 ' ' TST HPN 37 1/1 40 15 ' ' HPN CMH 38 1/1 15 1 16 ' ' CMH PBS 39 1/1 21",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "I certify that the statements made by me on this form are true.",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "Pilot's Signature David Rodgers FLIGHT TIMES REPORTED 88 OUT TO TANKER AIR (TOTALS) FIRE ANAL",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rodgers"
+    ],
+    "organizations": [],
+    "locations": [
+      "LCQ",
+      "PBI",
+      "TEB",
+      "PBS",
+      "CYQX",
+      "LFPG",
+      "LIML",
+      "LIPR",
+      "EGGW",
+      "HPN",
+      "PBE",
+      "ISP",
+      "TST",
+      "CMH"
+    ],
+    "dates": [
+      "1988",
+      "Dec 4th"
+    ],
+    "reference_numbers": [
+      "N909JC",
+      "N908JE",
+      "DOJ-OGR-00015885"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The log includes details such as date, aircraft make and model, identification mark, points of departure and arrival, miles flown, flight number, remarks, and number of landings. The document is signed by the pilot, David Rodgers."
+}

@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00015527",
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "IMPORTANT MESSAGE EOR: Jeff cu DATE 8/16/65 TIME 10.6 A.M. P.M. M OF 4 531 PHONE/ MOBILE 6781 644 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Reimand called SIGNED IMPORTANT MESSAGE FOR Jeffrey DATE TIME 5.36 A.M. P.M. M. Ken David Copperfield OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE He will be arriving later. He will be jetting SIGNED IMPORTANT MESSAGE FOR Jeffrey DATE 01/07/05 TIME 3:10 A.M. P.M. M. Linda OF PHONE/ MOBILE 206 760 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Linda She would like to discuss something she is obtaining with you tomorrow Pacific time SIGNED P.S. IMPORTANT MESSAGE FOR DOJ REDACTION DATE TIME 2 A.M. P.M. M. OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED GOVERNMENT EXHIBIT 3-Y-R S2 20 Cr. 330 (AJN) DOJ-OGR-00015527",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeff cu 8/16/65 10.6 A.M. P.M. 4 531 6781 644 Reimand called",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffrey 5.36 A.M. P.M. Ken David Copperfield He will be arriving later. He will be jetting",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffrey 01/07/05 3:10 A.M. P.M. Linda 206 760 Linda She would like to discuss something she is obtaining with you tomorrow Pacific time P.S.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "DOJ REDACTION 2 A.M. P.M.",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 3-Y-R S2 20 Cr. 330 (AJN) DOJ-OGR-00015527",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey",
+      "Jeff cu",
+      "Ken David Copperfield",
+      "Linda"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "8/16/65",
+      "01/07/05"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00015527",
+      "S2 20 Cr. 330 (AJN)"
+    ]
+  },
+  "additional_notes": "The document contains four 'Important Message' forms with handwritten notes and a 'GOVERNMENT EXHIBIT' stamp at the bottom right. One of the forms is redacted with 'DOJ REDACTION'."
+}

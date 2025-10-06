@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "58",
+    "document_number": "DOJ-OGR-00015787",
+    "date": "2/14/2005",
+    "document_type": "Medical Emergency Form",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "MEDICAL EMERGENCY\nCall 911 as soon as possible. Give them as much information as you can. Tell them what happened and the current condition of the patient.\nIf you are unable to get help, drive the patient to the Good Samaritan Hospital, 1309 North Flagler Drive, West Palm Beach. Call the hospital on route and tell them that you are on your way.\nEMERGENCY CONTACT INFORMATION\nGUEST NAME: _____________________________________\nALLERGIES: _____________________________________\nCONTACT NAME: _____________________________________\nCONTACT TELEPHONE:\nHOME _____________________________________\nWORK _____________________________________\nPORTABLE _____________________________________\nTHANK YOU!\n2/14/2005\n58\nDOJ-OGR-00015787",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "MEDICAL EMERGENCY",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Call 911 as soon as possible. Give them as much information as you can. Tell them what happened and the current condition of the patient.\nIf you are unable to get help, drive the patient to the Good Samaritan Hospital, 1309 North Flagler Drive, West Palm Beach. Call the hospital on route and tell them that you are on your way.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "EMERGENCY CONTACT INFORMATION\nGUEST NAME: _____________________________________\nALLERGIES: _____________________________________\nCONTACT NAME: _____________________________________\nCONTACT TELEPHONE:\nHOME _____________________________________\nWORK _____________________________________\nPORTABLE _____________________________________\nTHANK YOU!",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "2/14/2005",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "58",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015787",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Good Samaritan Hospital"
+    ],
+    "locations": [
+      "West Palm Beach",
+      "North Flagler Drive"
+    ],
+    "dates": [
+      "2/14/2005"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00015787"
+    ]
+  },
+  "additional_notes": "The document is a medical emergency form with a section for emergency contact information. It appears to be a standard form used by a hotel or healthcare facility. The document is clean and free of damage or redactions."
+}

@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": "8",
+    "document_number": "4-495-33932",
+    "date": "Dec 16, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\n\nPicked up: Dec 10, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 8\nPackage sent from: 10021 zip code\n\nTracking D 837133955314 Sender G MAXWELL Recipient ISABEL MAXWELL\nService Type FedEx Standard Overnight JEFFREY E EPSTEIN\nPackage Type FedEx Box 457 MADISON AVE.\nZone 8 NEW YORK NY 10022-6843 US\nPackages 1\nWeight 3.0 lbs, 1.4 kgs\nDelivered Dec 11, 2002 13:40\nSvc Area A1\nSigned by I.MAXWELL\nDec. Value USD 20.00\nFedEx Use 346204710/01415_/\n\nTransportation Charge 28.75\nDiscount -2.88\nDeclared Value Charge 0.00\nFuel Surcharge 1.03\nCourier Pickup Charge 0.00\nResidential Delivery 1.35\nTotal Transportation Charges USD $ 28.25\n\nPicked up: Dec 10, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 8\nPackage sent from: 10021 zip code\n\nTracking D 837133955380 Sender G MAXWELL Recipient RON BURCKLE\nService Type FedEx 2Day JEFFREY E EPSTEIN\nPackage Type Customer Packaging 457 MADISON AVE.\nZone 8 NEW YORK NY 10022-6843 US\nPackages 1\nWeight 5.0 lbs, 2.3 kgs\nDelivered Dec 12, 2002 08:38\nSvc Area A1\nSigned by C.WOOD\nFedEx Use 346204710/06112_/\n\nTransportation Charge 16.75\nDiscount -1.68\nFuel Surcharge 0.60\nCourier Pickup Charge 0.00\nTotal Transportation Charges USD $ 15.67\n\nCONFIDENTIAL",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "G MAXWELL",
+      "JEFFREY E EPSTEIN",
+      "ISABEL MAXWELL",
+      "RON BURCKLE",
+      "I.MAXWELL",
+      "C.WOOD"
+    ],
+    "organizations": [
+      "FedEx"
+    ],
+    "locations": [
+      "NEW YORK",
+      "MADISON AVE"
+    ],
+    "dates": [
+      "Dec 10, 2002",
+      "Dec 11, 2002",
+      "Dec 12, 2002",
+      "Dec 16, 2002"
+    ],
+    "reference_numbers": [
+      "4-495-33932",
+      "837133955314",
+      "837133955380",
+      "346204710/01415_",
+      "346204710/06112_",
+      "1144-2081-6",
+      "SDNY_GM_00340787",
+      "DOJ-OGR-00015435"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx shipment detail report, containing information about two shipments sent on December 10, 2002. The report includes details such as tracking numbers, sender and recipient information, package details, and transportation charges. The document is marked as 'CONFIDENTIAL' at the bottom."
+}

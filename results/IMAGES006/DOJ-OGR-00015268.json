@@ -1,0 +1,83 @@
+{
+  "document_metadata": {
+    "page_number": "5",
+    "document_number": "DOJ-OGR-00015268",
+    "date": "November 30, 2020",
+    "document_type": "General Release",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "IN WITNESS WHEREOF, Claimant has executed this General Release on the date below her signature. STATE OF California COUNTY OF Los Angeles On November 30 2020 before me personally came me known, who, by me duly sworn, did depose and say that deponent is the Releasor who executed the foregoing General Release. Reviewed and approved: Type (or print) Name of Claimant: Type (or print) Name of Attorney: ROBERT GLASSMAN Signature: R.Glassman",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IN WITNESS WHEREOF, Claimant has executed this General Release on the date below her signature.",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "California",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Los Angeles",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "November 30",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "2020",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "JON PAUL FRONTINO Notary Public - California Los Angeles County Commission # 2243148 My Comm. Expires Jun 15, 2022",
+      "position": "middle"
+    },
+    {
+      "type": "signature",
+      "content": "JON PAUL FRONTINO",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Reviewed and approved: Type (or print) Name of Claimant: Type (or print) Name of Attorney: Signature:",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "ROBERT GLASSMAN",
+      "position": "bottom"
+    },
+    {
+      "type": "signature",
+      "content": "R.Glassman",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JON PAUL FRONTINO",
+      "ROBERT GLASSMAN"
+    ],
+    "organizations": [],
+    "locations": [
+      "California",
+      "Los Angeles"
+    ],
+    "dates": [
+      "November 30, 2020",
+      "Jun 15, 2022"
+    ],
+    "reference_numbers": [
+      "2243148",
+      "DOJ-OGR-00015268"
+    ]
+  },
+  "additional_notes": "The document contains a notary stamp and signatures. Some text is redacted."
+}

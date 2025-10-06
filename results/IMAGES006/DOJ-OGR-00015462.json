@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Product Packaging",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "GOVERNMENT EXHIBIT 1-A S2 20 Cr. 330 (AJN) adams Important Message Book 200 sets 8 1/16\" x 11\" (20.4 cm x 27.9 cm) CARBONLESS 2 PART ©2001 Cardinal Brands, Inc. Lawrence, KS 66044 Printed in U.S.A. www.cardinalbrands.com DOJ-OGR-00015462",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "GOVERNMENT EXHIBIT 1-A S2 20 Cr. 330 (AJN)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "adams",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Important Message Book 200 sets",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CARBONLESS 2 PART",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "8 1/16\" x 11\" (20.4 cm x 27.9 cm)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "©2001 Cardinal Brands, Inc. Lawrence, KS 66044 Printed in U.S.A. www.cardinalbrands.com",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015462",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Cardinal Brands, Inc."
+    ],
+    "locations": [
+      "Lawrence, KS",
+      "U.S.A."
+    ],
+    "dates": [
+      "2001"
+    ],
+    "reference_numbers": [
+      "S2 20 Cr. 330 (AJN)",
+      "DOJ-OGR-00015462"
+    ]
+  },
+  "additional_notes": "The image appears to be a product packaging for an 'Important Message Book' with a government exhibit label."
+}

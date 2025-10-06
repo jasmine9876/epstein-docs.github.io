@@ -1,0 +1,98 @@
+{
+  "document_metadata": {
+    "page_number": "40",
+    "document_number": "DOJ-OGR-00015837",
+    "date": null,
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... 1916 FEB 5 G1159B N908JE PBI TNCM 802 AIRPLANE 2 4 7 G1159B TNCM TEB 803 4 0 9 TEB PBI 804 2 1 12 PBI TEB 805 2 1 15 TEB BCT 806 2 4 19 BCT TEB 807 2 3 28 TEB PBI 808 2 2 MAR 4 PBI TEB 809 2 4 8 TEB PBI 810 2 6 11 PBI TEB 811 2 3 15 TEB PBI 812 2 1 18 PBI CMH 813 2 1 18 CMH TEB 814 1 1 22 TEB PBI 815 2 3 24 PBI TEB 816 2 3 26 TEB VNY 817 5 5 29 VNY SAF 818 1 5 APR 8 PBI TEB 821 2 1 100 Page Total 614 538 Amount Forward 334 591 6028 Total to Date 5332 5601 66566 I certify that the statements made by me on this form are true. Pilot's Signature David Roddy CESSPM 4210 SIMULATOR INITIAL TRAINING",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "1916 FEB 5 G1159B N908JE PBI TNCM 802 AIRPLANE 2 4 7 G1159B TNCM TEB 803 4 0 9 TEB PBI 804 2 1 12 PBI TEB 805 2 1 15 TEB BCT 806 2 4 19 BCT TEB 807 2 3 28 TEB PBI 808 2 2 MAR 4 PBI TEB 809 2 4 8 TEB PBI 810 2 6 11 PBI TEB 811 2 3 15 TEB PBI 812 2 1 18 PBI CMH 813 2 1 18 CMH TEB 814 1 1 22 TEB PBI 815 2 3 24 PBI TEB 816 2 3 26 TEB VNY 817 5 5 29 VNY SAF 818 1 5 APR 8 PBI TEB 821 2 1 100",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "614 538 334 591 6028 5332 5601 66566",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David Roddy CESSPM 4210 SIMULATOR INITIAL TRAINING",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Roddy"
+    ],
+    "organizations": [],
+    "locations": [
+      "PBI",
+      "TNCM",
+      "TEB",
+      "BCT",
+      "CMH",
+      "VNY",
+      "SAF"
+    ],
+    "dates": [
+      "1916 FEB 5",
+      "7",
+      "9",
+      "12",
+      "15",
+      "19",
+      "28",
+      "MAR 4",
+      "8",
+      "11",
+      "15",
+      "18",
+      "18",
+      "22",
+      "24",
+      "26",
+      "29",
+      "APR 8"
+    ],
+    "reference_numbers": [
+      "N908JE",
+      "G1159B",
+      "802",
+      "803",
+      "804",
+      "805",
+      "806",
+      "807",
+      "808",
+      "809",
+      "810",
+      "811",
+      "812",
+      "813",
+      "814",
+      "815",
+      "816",
+      "817",
+      "818",
+      "821",
+      "CESSPM 4210",
+      "DOJ-OGR-00015837"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The log includes details such as date, aircraft make and model, identification mark, points of departure and arrival, miles flown, flight number, remarks, and number of landings. The document has a certification statement signed by the pilot, David Roddy."
+}

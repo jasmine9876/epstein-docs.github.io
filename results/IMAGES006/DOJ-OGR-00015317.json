@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "8",
+    "document_number": "4-447-12299",
+    "date": "Nov 04, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\n\nPicked up: Oct 31, 2002    Payor: Recipient    Reference: AARON\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 3.00% to this shipment.\nFedEx has audited this airbill for correct pieces, weight, and service. Any changes made are reflected in the invoice amount.\nWe calculated your charges based on a dimensional weight of 102.7 lbs.(29\" x 28\" x 21\"). Chargeable weight based on IATA dimensional standards.\n\nTracking ID    790621663172    Sender    PARTS    Recipient    AARON\nService Type    FedEx Intl Priority    CESCO    LSJ, LLC.\nPackage Type    Customer Packaging    C/O AMERICAN YACHT HARBOR\nZone    1    6100 RED HOOK QUARTERS #2\nOrig./Dest.    CHL/STT    ST. THOMAS VI 00802-453 VI\nPackages    1    \nWeight    42.0 lbs, 19.1 kgs    Transportation Charge    482.04\nDelivered    Nov 01, 2002 17:05    Fuel Surcharge    14.03\nSigned by    M.STEWART    Discount    -14.42\nDec. Value    USD 150.00    Total Transportation Charges    USD $    481.65\nFedEx Use    _/US010/_    Shipment Detail Subtotal    USD $    551.82\n\nCONFIDENTIAL\n\nSDNY_GM_00340678    8\nDOJ-OGR-00015317",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Picked up: Oct 31, 2002    Payor: Recipient    Reference: AARON",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Fuel Surcharge - FedEx has applied a fuel surcharge of 3.00% to this shipment.\nFedEx has audited this airbill for correct pieces, weight, and service. Any changes made are reflected in the invoice amount.\nWe calculated your charges based on a dimensional weight of 102.7 lbs.(29\" x 28\" x 21\"). Chargeable weight based on IATA dimensional standards.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "AARON",
+      "M.STEWART"
+    ],
+    "organizations": [
+      "FedEx",
+      "PARTS",
+      "CESCO",
+      "LSJ, LLC.",
+      "AMERICAN YACHT HARBOR"
+    ],
+    "locations": [
+      "CHL",
+      "STT",
+      "ST. THOMAS VI",
+      "RED HOOK QUARTERS #2"
+    ],
+    "dates": [
+      "Oct 31, 2002",
+      "Nov 01, 2002 17:05",
+      "Nov 04, 2002"
+    ],
+    "reference_numbers": [
+      "4-447-12299",
+      "790621663172",
+      "1144-2081-6",
+      "SDNY_GM_00340678",
+      "DOJ-OGR-00015317"
+    ]
+  },
+  "additional_notes": "The document is a FedEx Express shipment detail by payment type. It contains information about the shipment, including the tracking ID, service type, package type, zone, origin and destination, packages, weight, delivery date and time, signed by, declared value, and FedEx use. The document also includes the sender and recipient information, transportation charges, fuel surcharge, discount, and total transportation charges. The document is marked as 'CONFIDENTIAL' at the bottom."
+}

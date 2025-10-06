@@ -1,0 +1,71 @@
+{
+  "document_metadata": {
+    "page_number": "107",
+    "document_number": "DOJ-OGR-00015904",
+    "date": null,
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... 19-Jan-04 B-727-31H N908JC PBI JFK 243 26 20-Jan-04 \" \" \" \" 244 26 23-Jan-04 G-1159B N909JC PBI TEB 169 24 26-Jan-04 \" \" \" \" 1692 36 28-Jan-04 \" \" \" \" 1693 41 2-Feb-04 \" \" \" \" 1694 8 5-Feb-04 \" \" \" \" 1695 11 5-Feb-04 \" \" \" \" 1696 26 9-Feb-04 B-727-31H N908JC PBI JFK 245 25 12-Feb-04 \" \" \" \" 246 70 17-Feb-04 \" \" \" \" 247 69 17-Feb-04 \" \" \" \" 248 15 19-Feb-04 \" \" \" \" 249 24 22-Feb-04 \" \" \" \" 250 30 24-Feb-04 \" \" \" \" 251 59 27-Feb-04 \" \" \" \" 252 8 29-Feb-04 \" \" \" \" 253 16 1-Mar-04 \" \" \" \" 254 34 3-Mar-04 \" \" \" \" 255 25 Page Total 671 573 Amount Forward 6745 93315 331250 Total to Date 6756 93888 331250 I certify that the statements made by me on this form are true. Pilot's Signature David Pedegs",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "19-Jan-04 B-727-31H N908JC PBI JFK 243 26 ...",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David Pedegs",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Pedegs"
+    ],
+    "organizations": [],
+    "locations": [
+      "PBI",
+      "JFK",
+      "TEB",
+      "TIST",
+      "BED",
+      "LFPB",
+      "BGR",
+      "MRY",
+      "VNY",
+      "ABQ"
+    ],
+    "dates": [
+      "19-Jan-04",
+      "20-Jan-04",
+      "23-Jan-04",
+      "26-Jan-04",
+      "28-Jan-04",
+      "2-Feb-04",
+      "5-Feb-04",
+      "9-Feb-04",
+      "12-Feb-04",
+      "17-Feb-04",
+      "19-Feb-04",
+      "22-Feb-04",
+      "24-Feb-04",
+      "27-Feb-04",
+      "29-Feb-04",
+      "1-Mar-04",
+      "3-Mar-04"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00015904",
+      "N908JC",
+      "N909JC"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The log includes details such as date, aircraft make and model, identification mark, points of departure and arrival, miles flown, flight number, remarks, and number of landings. The document is signed by the pilot, David Pedegs."
+}

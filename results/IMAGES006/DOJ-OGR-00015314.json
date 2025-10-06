@@ -1,0 +1,73 @@
+{
+  "document_metadata": {
+    "page_number": "5",
+    "document_number": "4-447-12299",
+    "date": "Nov 04, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\n\nDropped off: Oct 28, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 3.00% to this shipment.\nDiscount applied is the greater of volume discount or dropoff discount. No additional discount applies.\n\nTracking D 835084883486 Sender DAVE RODGERS Recipient JEANNE BRENNAN\nPackage Type FedEx Envelope JEFFREY E EPSTEIN FINANCIAL TRUST CO\nZone I 457 MADISON AVE 6100 RED HOOK QUARTERS\nOrig./Dest. SAV/STT NEW YORK NY 10022-6843 US STE B-3\nPackages 1 ST THOMAS 00802 VI\nWeight 0.5 lbs, 0.2 kgs\nDelivered Oct 29, 2002 17:22\nSigned by J RUAN\nFedEx Use _/US01O/_\n\nTransportation Charge 27.50\nFuel Surcharge 0.80\nDiscount -0.83\n\nTotal Transportation Charges USD $ 27.47\n\nPicked up: Oct 29, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 3.00% to this shipment.\nFedEx has audited this airbill for correct pieces, weight, and service. Any changes made are reflected in the invoice amount.\n\nTracking D 790127416235 Sender CECILIA STEEN Recipient ANN LAWESSON\nService Type FedEx Intl Priority GEMINI ERNST & YOUNG\nPackage Type FedEx Envelope JEFFREY E. EPSTEIN\nZone H 457 MADISON AVENUE 4TH FLOOR\nOrig./Dest. JRB/STO NEW YORK NY 10022 US\nPackages 1\nWeight 0.7 lbs, 0.3 kgs\nDelivered Oct 31, 2002 10:01\nSigned by C.ABO\nFedEx Use _/US01O/_\n\nTransportation Charge 43.75\nFuel Surcharge 1.27\nDiscount -1.31\n\nTotal Transportation Charges USD $ 43.71\n\nPicked up: Oct 29, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 3.00% to this shipment.\n\nTracking D 790619400952 Sender CECILIA STEEN Recipient CLARE HAZELL\nService Type FedEx Intl Priority ELVEDEN FARMS LIMITED\nPackage Type FedEx Envelope JEFFREY E. EPSTEIN\nZone D 457 MADISON AVENUE 4TH FLOOR\nOrig./Dest. JRB/BEB NEW YORK NY 10022 US\nPackages 1\nWeight 0.5 lbs, 0.2 kgs\nDelivered Oct 31, 2002 09:21\nSigned by P.ARRY\nFedEx Use _/US01O/_\n\nTransportation Charge 28.00\nFuel Surcharge 0.81\nDiscount -0.84\n\nTotal Transportation Charges USD $ 27.97\n\nCONFIDENTIAL",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Dropped off: Oct 28, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Fuel Surcharge - FedEx has applied a fuel surcharge of 3.00% to this shipment.\nDiscount applied is the greater of volume discount or dropoff discount. No additional discount applies.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "DAVE RODGERS",
+      "JEANNE BRENNAN",
+      "JEFFREY E EPSTEIN",
+      "CECILIA STEEN",
+      "ANN LAWESSON",
+      "CLARE HAZELL",
+      "J RUAN",
+      "C.ABO",
+      "P.ARRY"
+    ],
+    "organizations": [
+      "FedEx",
+      "FINANCIAL TRUST CO",
+      "GEMINI ERNST & YOUNG",
+      "ELVEDEN FARMS LIMITED"
+    ],
+    "locations": [
+      "NEW YORK",
+      "ST THOMAS",
+      "SAV/STT",
+      "JRB/STO",
+      "JRB/BEB"
+    ],
+    "dates": [
+      "Oct 28, 2002",
+      "Oct 29, 2002",
+      "Oct 31, 2002",
+      "Nov 04, 2002"
+    ],
+    "reference_numbers": [
+      "835084883486",
+      "790127416235",
+      "790619400952",
+      "4-447-12299",
+      "1144-2081-6"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx shipment detail report, containing information about three separate shipments. The document is marked 'CONFIDENTIAL' at the bottom."
+}

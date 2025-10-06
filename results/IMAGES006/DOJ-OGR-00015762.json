@@ -1,0 +1,55 @@
+{
+  "document_metadata": {
+    "page_number": "33",
+    "document_number": "DOJ-OGR-00015762",
+    "date": "2/14/2005",
+    "document_type": "Pharmaceuticals list",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Pharmaceuticals\n2 bottles Bayer aspirin\nTylenol\n2 Aleve\n2 Robitussin cough medicine\nNyquil\nRobitussin cough sweets\nHalls cough sweets\nBandages\nAntiseptic for cuts\nNeosporin\nEchinacea\nZinc lozengers\nVitamin C\nVitamin B\nVitamin E\nFolic Acid\nMulti vitamin twin tab 1 a day\nCalcium twin tab\nDATE: 2/14/2005\nSIGNATURE:\nDOJ-OGR-00015762",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Pharmaceuticals",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "2 bottles Bayer aspirin\nTylenol\n2 Aleve\n2 Robitussin cough medicine\nNyquil\nRobitussin cough sweets\nHalls cough sweets\nBandages\nAntiseptic for cuts",
+      "position": "left"
+    },
+    {
+      "type": "printed",
+      "content": "Neosporin\nEchinacea\nZinc lozengers\nVitamin C\nVitamin B\nVitamin E\nFolic Acid\nMulti vitamin twin tab 1 a day\nCalcium twin tab",
+      "position": "right"
+    },
+    {
+      "type": "printed",
+      "content": "DATE: 2/14/2005",
+      "position": "bottom left"
+    },
+    {
+      "type": "printed",
+      "content": "SIGNATURE:",
+      "position": "bottom middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015762",
+      "position": "bottom right"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "2/14/2005"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00015762"
+    ]
+  },
+  "additional_notes": "The document appears to be a list of pharmaceuticals with a date and signature field at the bottom. The document is likely related to a medical or pharmaceutical context."
+}

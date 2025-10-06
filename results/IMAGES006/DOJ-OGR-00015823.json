@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "26",
+    "document_number": "DOJ-OGR-00015823",
+    "date": "1994 FEB",
+    "document_type": "Pilot's Logbook Page",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE 1994 FEB AIRCRAFT MAKE AND MODEL HS125-700 AIRCRAFT IDENTIFICATION MARK N703RC POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FLOWN Flt. NO. REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS NO. LDG. AIRCRAFT CATEGORY AIRPLAN COMPLEX TURB 4 TGB PBI 462 1 1 2 5 2 5 2 7 11 11 2 5 2 5 2 8 TGB-IAD PBI 463 1 1 3 0 3 0 3 13 PBI TGB 460 1 1 2 4 2 4 2 15 TGB BOS 457 6 6 16 BOS TGB 455 7 7 17 TGB-BCT PBI 459 1 1 2 4 2 4 2 21 PBI TGB 471 1 1 2 6 2 6 2 23 TGB SDF 412 5 0 5 0 5 24 SDF PBI 473 3 2 3 2 3 27 PBI TGB 474 1 1 2 7 2 7 2 MAR 5 TGB PBI 470 2 1 2 1 2 6 PBI TGB 476 1 1 2 7 2 7 2 10 TGB-MDW PBI 479 3 7 3 7 3 13 PBI TGB 479 1 1 2 5 2 5 2 14 TGB CMH 480 1 1 3 1 3 1 15 CMH LUK 481 1 3 3 16 LUK TGB 482 1 1 1 5 1 5 1 I certify that the statements made by me on this form are true. PILOT'S SIGNATURE Carl Roderick PAGE TOTAL 10 422 422 42 AMT. FORWARD 5133 6797 4448 2 2321 TOTAL TO DATE 5012 6121 9 8440 4 2482",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE 1994 FEB AIRCRAFT MAKE AND MODEL AIRCRAFT IDENTIFICATION MARK POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FLOWN Flt. NO. REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS NO. LDG. AIRCRAFT CATEGORY AIRPLAN COMPLEX TURB",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "4 TGB PBI 462 1 1 2 5 2 5 2 7 11 11 2 5 2 5 2 8 TGB-IAD PBI 463 1 1 3 0 3 0 3 13 PBI TGB 460 1 1 2 4 2 4 2 15 TGB BOS 457 6 6 16 BOS TGB 455 7 7 17 TGB-BCT PBI 459 1 1 2 4 2 4 2 21 PBI TGB 471 1 1 2 6 2 6 2 23 TGB SDF 412 5 0 5 0 5 24 SDF PBI 473 3 2 3 2 3 27 PBI TGB 474 1 1 2 7 2 7 2 MAR 5 TGB PBI 470 2 1 2 1 2 6 PBI TGB 476 1 1 2 7 2 7 2 10 TGB-MDW PBI 479 3 7 3 7 3 13 PBI TGB 479 1 1 2 5 2 5 2 14 TGB CMH 480 1 1 3 1 3 1 15 CMH LUK 481 1 3 3 16 LUK TGB 482 1 1 1 5 1 5 1",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "I certify that the statements made by me on this form are true. PILOT'S SIGNATURE PAGE TOTAL AMT. FORWARD TOTAL TO DATE",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "Carl Roderick 10 422 422 42 5133 6797 4448 2 2321 5012 6121 9 8440 4 2482",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Carl Roderick"
+    ],
+    "organizations": [],
+    "locations": [
+      "TGB",
+      "PBI",
+      "IAD",
+      "BOS",
+      "BCT",
+      "SDF",
+      "MDW",
+      "CMH",
+      "LUK"
+    ],
+    "dates": [
+      "1994 FEB",
+      "MAR 5",
+      "MAR 6",
+      "MAR 10",
+      "MAR 13",
+      "MAR 14",
+      "MAR 15",
+      "MAR 16"
+    ],
+    "reference_numbers": [
+      "N703RC",
+      "DOJ-OGR-00015823"
+    ]
+  },
+  "additional_notes": "The document is a pilot's logbook page with handwritten entries. The page is partially filled with flight records, and there is a signature at the bottom."
+}

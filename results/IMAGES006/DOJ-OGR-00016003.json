@@ -1,0 +1,79 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": null,
+    "date": "1974",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category.... From To 9 G-11598 N909JC LCQ PBJ 1554 JG,AP,SK,JUJG 1/1 1 0 12 \" \" \" PBI TEB 1555 JG,GMAP,JOEL PASHCON, JOEL S/JC,GMSARAHX(UGH,MCLIND?LINT a REMARKS 1/1 2 5 15 \" \" \" TEB PBI 1552 JG,GM SARAH X(UGH,MCLIND?LINT a REMARKS 1/1 2 5 17 B-727-31 N908JE LCQ PBI 25 PRECEDING FROM PARENT (TASO) 1/1 9 9 18 \" \" \" PBI CYQX 26 JG,GM,SK 1/1 4 3 18 \" \" \" CYQX LFBB 27 JG,GM,SK /1 4 9 23 \" \" \" LFBB LIML 28 JG,GM,SK 1/1 1 2 23 \" \" \" LIML LIPR 29 JG,GM,SK,EDWARD 1/1 1 8 23 \" \" \" LIPR LIML 30 JG,GOWARDO 1/1 9 24 \" \" \" LIML EGGW 31 JG,GM,SK 1 7 26 \" \" \" EGGW HPN 32 JG,GM,SK 7 9 30 \" \" \" HPN PBI 33 JG,SK,GWENOLYN PASH,JOEL PASH 1/1 2 5 DEC 4th \" \" \" PBI ISB 34 JG,SK MARKED CRAFT 1/1 2 5 8 \" \" \" ISP PBI 35 JG,AP 1/1 2 9 \" \" \" PBI TIST 36 JG,GM,AP,1 FEMALE 1/1 2 2 13 \" \" \" TIST HPN 37 JG,GM,SK,AP,LEO TINTAY, a bstolc wathle chased magnum manners 1/1 4 0 15 \" \" \" HPN CMH 38 JG,SHELLYLEVIS,2 FEMALE,1942 1/1 1 5 1 16 \" \" \" CMH PBI 39 JG 2 1 I certify that the statements made by me on this form are true. Pilot's Signature DAVID RICHGERS FLIGHT TIMES REPORTED 88 OR TO Page Total 1/6 226 Amount Forward 6493 8425 33 1126 Total to Date 6492 84501 33 1126 TAJUKAR AIR(TOTALS) FIRE ANAL DOJ-OGR-00016003",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category.... From To",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "9 G-11598 N909JC LCQ PBJ 1554 JG,AP,SK,JUJG 1/1 1 0",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature DAVID RICHGERS FLIGHT TIMES REPORTED 88 OR TO",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "DAVID RICHGERS",
+      "JOEL PASHCON",
+      "JOEL PASH",
+      "LEO TINTAY",
+      "GWENOLYN PASH",
+      "SHELLY LEVIS"
+    ],
+    "organizations": [],
+    "locations": [
+      "LCQ",
+      "PBJ",
+      "PBI",
+      "TEB",
+      "CYQX",
+      "LFBB",
+      "LIML",
+      "LIPR",
+      "EGGW",
+      "HPN",
+      "ISP",
+      "ISB",
+      "TIST",
+      "CMH"
+    ],
+    "dates": [
+      "9",
+      "12",
+      "15",
+      "17",
+      "18",
+      "23",
+      "24",
+      "26",
+      "30",
+      "DEC 4th",
+      "8",
+      "9",
+      "13",
+      "15",
+      "16"
+    ],
+    "reference_numbers": [
+      "N909JC",
+      "N908JE",
+      "G-11598",
+      "B-727-31"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The log includes details such as date, aircraft make and model, identification mark, points of departure and arrival, miles flown, flight number, remarks, and number of landings. The pilot's signature is present at the bottom of the page."
+}

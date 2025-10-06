@@ -1,0 +1,51 @@
+{
+  "document_metadata": {
+    "page_number": "76",
+    "document_number": "753",
+    "date": "08/10/22",
+    "document_type": "court transcript",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 753 Filed 08/10/22 Page 76 of 264 1502 LC7Cmax2 Flatley - cross 1 A. Yes, that's correct. 2 Q. And so, when you examined these particular documents, you 3 were able to tell, and I think you told the jury about the user 4 that was associated with the computer, you testified was the 5 author; correct? 6 A. Correct. 7 Q. Because that's the piece of information that's contained in 8 the properties, author; right? 9 A. That's correct. 10 Q. An author is just drawn from the person who set up the 11 computer in the first place; right? 12 A. No. In that particular instance, the author is another 13 user inputtable field from Microsoft Word when you start using 14 it and it's saved to your account. So, where the account name 15 was Ghislaine, the author name was gmax. 16 Q. So when you first set up Word, you put in your name because 17 you're the person who's installing the Word; right? 18 A. Correct. 19 Q. And then when you create documents from that Word program, 20 it auto populates the name of the author from the person who 21 set it up; right? 22 A. That's correct. 23 Q. It doesn't actually mean a particular person is sitting in 24 front of Word on a particular time when they say new document; 25 right? SOUTHERN DISTRICT REPORTERS, P.C. (212) 805-0300 DOJ-OGR-00018674",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 753 Filed 08/10/22 Page 76 of 264 1502 LC7Cmax2 Flatley - cross",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "1 A. Yes, that's correct. 2 Q. And so, when you examined these particular documents, you 3 were able to tell, and I think you told the jury about the user 4 that was associated with the computer, you testified was the 5 author; correct? 6 A. Correct. 7 Q. Because that's the piece of information that's contained in 8 the properties, author; right? 9 A. That's correct. 10 Q. An author is just drawn from the person who set up the 11 computer in the first place; right? 12 A. No. In that particular instance, the author is another 13 user inputtable field from Microsoft Word when you start using 14 it and it's saved to your account. So, where the account name 15 was Ghislaine, the author name was gmax. 16 Q. So when you first set up Word, you put in your name because 17 you're the person who's installing the Word; right? 18 A. Correct. 19 Q. And then when you create documents from that Word program, 20 it auto populates the name of the author from the person who 21 set it up; right? 22 A. That's correct. 23 Q. It doesn't actually mean a particular person is sitting in 24 front of Word on a particular time when they say new document; 25 right?",
+      "position": "main"
+    },
+    {
+      "type": "printed",
+      "content": "SOUTHERN DISTRICT REPORTERS, P.C. (212) 805-0300",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00018674",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ghislaine"
+    ],
+    "organizations": [
+      "SOUTHERN DISTRICT REPORTERS, P.C."
+    ],
+    "locations": [],
+    "dates": [
+      "08/10/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "753",
+      "DOJ-OGR-00018674"
+    ]
+  },
+  "additional_notes": "The document appears to be a court transcript with a clear and legible format. There are no visible redactions or damage."
+}

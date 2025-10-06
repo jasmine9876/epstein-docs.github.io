@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": "198",
+    "document_number": "761",
+    "date": "08/10/22",
+    "document_type": "court transcript",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 761 Filed 08/10/22 Page 198 of 246 2493\nLGCmax6 Aznaran - direct\n1 BY MR. EVERDELL:\n2 Q. And just to be clear, when I refer to border crossing, what does that mean to you?\n3 A. That, it could mean either any international traveler coming into the United States at any international airport, seaport, or land border along the Mexican or northern border of Canada.\n4 Q. And the information you just listed is stored in the TECS system for those passengers that are entering through ports of entry; is that right?\n5 A. Yes.\n6 Q. How far back do the border crossing records go in the TECS system?\n7 A. It's hard to say. In my experience, I have not seen any border crossings any earlier than roughly the early '90s, mid '90s.\n8 Q. And how does the border crossing information that is stored in the TECS system get input into that database?\n9 A. So, there is another system, it's called APIS, Advanced Passenger Information System, and essentially what happens is international airlines or any airline that has international flights coming into or departing the United States, they're required to submit their manifest to us. The manifest gets loaded into APIS, which is then linked to text, and that's how we're able to see that information.\n10 SOUTHERN DISTRICT REPORTERS, P.C. (212) 805-0300\nDOJ-OGR-00016681",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 761 Filed 08/10/22 Page 198 of 246 2493\nLGCmax6 Aznaran - direct",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "BY MR. EVERDELL:\nQ. And just to be clear, when I refer to border crossing, what does that mean to you?\nA. That, it could mean either any international traveler coming into the United States at any international airport, seaport, or land border along the Mexican or northern border of Canada.\nQ. And the information you just listed is stored in the TECS system for those passengers that are entering through ports of entry; is that right?\nA. Yes.\nQ. How far back do the border crossing records go in the TECS system?\nA. It's hard to say. In my experience, I have not seen any border crossings any earlier than roughly the early '90s, mid '90s.\nQ. And how does the border crossing information that is stored in the TECS system get input into that database?\nA. So, there is another system, it's called APIS, Advanced Passenger Information System, and essentially what happens is international airlines or any airline that has international flights coming into or departing the United States, they're required to submit their manifest to us. The manifest gets loaded into APIS, which is then linked to text, and that's how we're able to see that information.",
+      "position": "main"
+    },
+    {
+      "type": "printed",
+      "content": "SOUTHERN DISTRICT REPORTERS, P.C. (212) 805-0300",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00016681",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "MR. EVERDELL"
+    ],
+    "organizations": [
+      "SOUTHERN DISTRICT REPORTERS, P.C."
+    ],
+    "locations": [
+      "United States",
+      "Canada",
+      "Mexico"
+    ],
+    "dates": [
+      "08/10/22",
+      "early '90s",
+      "mid '90s"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "761",
+      "DOJ-OGR-00016681"
+    ]
+  },
+  "additional_notes": "The document appears to be a court transcript with clear and legible text. There are no visible redactions or damage."
+}

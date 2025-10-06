@@ -1,0 +1,38 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Exhibit Label",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "GOVERNMENT EXHIBIT 249-R S2 20 Cr. 330 (AJN) DOJ-OGR-00015588",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "GOVERNMENT EXHIBIT 249-R S2 20 Cr. 330 (AJN)",
+      "position": "bottom right"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015588",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ",
+      "OGR"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "249-R",
+      "S2 20 Cr. 330",
+      "DOJ-OGR-00015588"
+    ]
+  },
+  "additional_notes": "The image appears to be a photograph of an exhibit label in a storage or evidence room. The label is for Government Exhibit 249-R in a criminal case S2 20 Cr. 330 (AJN). The image quality is good, and there are no visible redactions or damage."
+}

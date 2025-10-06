@@ -1,0 +1,43 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00015642",
+    "date": null,
+    "document_type": "Government Exhibit",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "GOVERNMENT EXHIBIT 320 S2 20 Cr. 330 (AJN) DOJ-OGR-00015642",
+  "text_blocks": [
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 320",
+      "position": "bottom right"
+    },
+    {
+      "type": "printed",
+      "content": "S2 20 Cr. 330 (AJN)",
+      "position": "bottom right"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015642",
+      "position": "bottom center"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ",
+      "OGR"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "320",
+      "S2 20 Cr. 330 (AJN)",
+      "DOJ-OGR-00015642"
+    ]
+  },
+  "additional_notes": "The image appears to be a photograph of two individuals in an aircraft, likely used as evidence in a court case. The image is labeled as 'Government Exhibit 320' and has a reference number 'DOJ-OGR-00015642'."
+}

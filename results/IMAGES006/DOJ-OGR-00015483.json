@@ -1,0 +1,43 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00015483",
+    "date": null,
+    "document_type": "Important Message",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "IMPORTANT MESSAGE FOR DATE M. OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 1184 IMPORTANT MESSAGE FOR DATE TIME A.M. P.M. M. OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE DOJ Redaction Brazil SIGNED 1184 IMPORTANT MESSAGE FOR DATE M. OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE was wondering if she could work tonight - she couldn't work yesterday b/c her mom had to go to hospital SIGNED 1184 IMPORTANT MESSAGE FOR DATE M. OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED GOVERNMENT EXHIBIT 2-O-R 52 20 Cr. 330 (AJN) 1184 DOJ-OGR-00015483",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "was wondering if she could work tonight - she couldn't work yesterday b/c her mom had to go to hospital",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 2-O-R 52 20 Cr. 330 (AJN)",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [
+      "Brazil"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00015483",
+      "52 20 Cr. 330 (AJN)"
+    ]
+  },
+  "additional_notes": "The document contains multiple 'Important Message' forms with some handwritten notes and redactions. The stamp 'GOVERNMENT EXHIBIT 2-O-R' is present on one of the forms."
+}

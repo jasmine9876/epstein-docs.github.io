@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "image",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "000001 RECEIPT 000002 RECEIPT 000003 CARBONLESS 000004 RECEIPT adams Money Sets CARBONLESS 2 PART GOVERNMENT EXHIBIT 262 S2 20 Cr. 330 (AJN) DOJ-OGR-00015597",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "000001 RECEIPT 000002 RECEIPT 000003 CARBONLESS 000004 RECEIPT",
+      "position": "left"
+    },
+    {
+      "type": "printed",
+      "content": "adams Money Sets",
+      "position": "left"
+    },
+    {
+      "type": "printed",
+      "content": "CARBONLESS 2 PART",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "GOVERNMENT EXHIBIT 262 S2 20 Cr. 330 (AJN)",
+      "position": "bottom right"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015597",
+      "position": "bottom right"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "adams"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "000001",
+      "000002",
+      "000003",
+      "000004",
+      "262",
+      "S2 20 Cr. 330 (AJN)",
+      "DOJ-OGR-00015597"
+    ]
+  },
+  "additional_notes": "The image appears to be a photograph of a file or drawer containing various documents and office supplies. The documents include carbonless receipt books and a notebook with a blue cover. The image quality is good, with clear text visible on the documents and labels."
+}

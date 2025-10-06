@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "506",
+    "date": "11/15/06",
+    "document_type": "Signature Form",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "The Morgan Account GOVERNMENT EXHIBIT 506 S2 20 Cr. 330 (AJN) Month Date Year Account title (SOURCE ONE BELOW) Social Security no. / Tax ID no. / Passport no. Account type Account number Account type Account number BAC # All Accountholders/Signers must sign this Signature Form exactly as the checks/instructions will be signed. Print (Accountholder/Signer, Trustee, Custodian, Director, etc.) Title Sign Here Ghislaine MAXwell, President X If facsimile signature, check box Print (Joint Accountholder/Signer, Trustee, Custodian, Director, etc.) Title Sign Here Harry Beller, Secretary X If facsimile signature, check box Print (other) Title Sign Here X If facsimile signature, check box Print (other) Title Sign Here X If facsimile signature, check box Is this an existing account? yes no If yes, does this card replace all other cards against this account? yes no Signing instructions (Please use back of card if necessary) The Morgan Account Month Date Year Account title (SOURCE ONE BELOW) Social Security no. / Tax ID no. / Passport no. Account type Account number Account type Account number BAC # All Accountholders/Signers must sign this Signature Form exactly as the checks/instructions will be signed. Print (Accountholder/Signer, Trustee, Custodian, Director, etc.) Title Sign Here Ghislaine Maxwell, President X If facsimile signature, check box Print (Joint Accountholder/Signer, Trustee, Custodian, Director, etc.) Title Sign Here Harry Beller, Secretary X If facsimile signature, check box Print (other) Title Sign Here X If facsimile signature, check box Print (other) Title Sign Here X If facsimile signature, check box Is this an existing account? yes no If yes, does this card replace all other cards against this account? yes no Signing instructions (Please use back of card if necessary) 1342 1 page 11/15/06 104 Confidential Treatment Requested by JPMorgan Chase JPM-SDNY-00002410 DOJ-OGR-00015715",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "The Morgan Account",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "GOVERNMENT EXHIBIT 506 S2 20 Cr. 330 (AJN)",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Ghislaine MAXwell, President Harry Beller, Secretary",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 506 S2 20 Cr. 330 (AJN)",
+      "position": "header"
+    },
+    {
+      "type": "signature",
+      "content": "Ghislaine Maxwell Harry Beller",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ghislaine Maxwell",
+      "Harry Beller"
+    ],
+    "organizations": [
+      "JPMorgan Chase"
+    ],
+    "locations": [],
+    "dates": [
+      "11/15/06"
+    ],
+    "reference_numbers": [
+      "506",
+      "S2 20 Cr. 330 (AJN)",
+      "JPM-SDNY-00002410",
+      "DOJ-OGR-00015715"
+    ]
+  },
+  "additional_notes": "The document appears to be a signature form for 'The Morgan Account'. It contains two identical sections with handwritten signatures and titles for Ghislaine Maxwell (President) and Harry Beller (Secretary). The document is stamped as 'GOVERNMENT EXHIBIT 506' and has a confidential treatment request by JPMorgan Chase."
+}

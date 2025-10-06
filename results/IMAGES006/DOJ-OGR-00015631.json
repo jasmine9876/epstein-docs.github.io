@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00015631",
+    "date": null,
+    "document_type": "photograph",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "GOVERNMENT EXHIBIT 304 S2 20 Cr. 330 (AJN) DOJ-OGR-00015631",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "GOVERNMENT EXHIBIT 304",
+      "position": "bottom right"
+    },
+    {
+      "type": "printed",
+      "content": "S2 20 Cr. 330 (AJN)",
+      "position": "bottom right"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015631",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Department of Justice"
+    ],
+    "locations": [
+      "Great Wall of China"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "S2 20 Cr. 330 (AJN)",
+      "DOJ-OGR-00015631",
+      "304"
+    ]
+  },
+  "additional_notes": "The image is a photograph of two people standing in front of the Great Wall of China. The text is mostly found in the bottom right corner and footer of the image."
+}

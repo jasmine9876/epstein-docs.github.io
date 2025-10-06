@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "4-495-33932",
+    "date": "Dec 16, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\n\nPicked up: Nov 14, 2002\nPayor: Shipper\nReference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 2\nPackage sent from: 33461 zip code\n\nTracking D 828694901680\nService Type FedEx Express Saver\nPackage Type Customer Packaging\nZone 2\nPackages 1\nWeight 2.0 lbs, 0.9 kgs\nDelivered Nov 15, 2002 09 23\nSvc Area A2\nSigned by B ALLEN\nFedEx Use 534631410/07167_\n\nSender JEFFREY E EPSTEIN\n457 MADISON AVE\nNEW YORK NY 10022-6843 US\n\nRecipient B.ALLEN\n\nTransportation Charge 7 80\nDiscount -0.78\nFuel Surcharge 0 28\nTotal Transportation Charges USD $ 7.30\n\nDropped off: Nov 14, 2002\nPayor: Shipper\nReference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 6\nPackage sent from: 33480 zip code\nFedEx has audited this shipment for correct packages, weight, and service. Any changes made are reflected in the invoice amount.\n\nTracking D 837574506371\nService Type FedEx Priority Overnight\nPackage Type FedEx Pak\nZone 6\nPackages 1\nWeight 2.0 lbs, 0.9 kgs\nDelivered Nov 15, 2002 09 25\nSvc Area A1\nSigned by W.DOULIN\nFedEx Use 346081720/01574_\n\nSender NICOLE HESSE\nJEFFREY E EPSTEIN\n457 MADISON AVE\nNEW YORK NY 10022-6843 US\n\nRecipient HELEN\nVILLARD HOUSE\n457 MADISON AVE\nNEW YORK NY 10022 US\n\nTransportation Charge 27 50\nDiscount -2.75\nFuel Surcharge 0 99\nTotal Transportation Charges USD $ 25.74\n\nCONFIDENTIAL",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY E EPSTEIN",
+      "B.ALLEN",
+      "NICOLE HESSE",
+      "W.DOULIN",
+      "B ALLEN",
+      "HELEN"
+    ],
+    "organizations": [
+      "FedEx"
+    ],
+    "locations": [
+      "NEW YORK",
+      "VILLARD HOUSE",
+      "MADISON AVE"
+    ],
+    "dates": [
+      "Nov 14, 2002",
+      "Nov 15, 2002",
+      "Dec 16, 2002"
+    ],
+    "reference_numbers": [
+      "4-495-33932",
+      "828694901680",
+      "837574506371",
+      "1144-2081-6",
+      "534631410/07167_",
+      "346081720/01574_",
+      "SDNY_GM_00340783",
+      "DOJ-OGR-00015431"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx shipment detail invoice with two separate shipment records. The document is marked as 'CONFIDENTIAL' at the bottom."
+}

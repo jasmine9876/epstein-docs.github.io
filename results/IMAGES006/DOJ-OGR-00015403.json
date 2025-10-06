@@ -1,0 +1,75 @@
+{
+  "document_metadata": {
+    "page_number": "5 of 5",
+    "document_number": "4-494-69923",
+    "date": "Dec 02, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\nDropped off: Nov 20, 2002 Payor: Third Party Reference: NO REFERENCE INFORMATION\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nFedEx has audited this airbill for correct pieces, weight, and service. Any changes made are reflected in the invoice amount.\nDiscount applied is the greater of volume discount or dropoff discount. No additional discount applies.\nRecipient not in/business closed.\nTracking D 831544845685 Sender ILLEG BEL Recipient ILLEG BLE\nService Type FedEx Intl Priority ILLEG BLE ILLEG BLE\nPackage Type FedEx Envelope ZANNO 49 ZANNO RANCH RD\nZone 1 STANLEY NM 87505 US\nOrig./Dest. SAF/STT\nPackages 1\nWeight 0.7 lbs, 0.3 kgs\nDelivered Nov 22, 2002 16 36\nSigned by B.WALLACE\nFedEx Use /US01O/08\nTransportation Charge 38.00\nFuel Surcharge 1.47\nDiscount -1.14\nTotal Transportation Charges USD $ 38.33\nShipment Detail Subtotal USD $ 119.60\nCONFIDENTIAL\nSDNY_GM_00340759 94\nDOJ-OGR-00015403",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Dropped off: Nov 20, 2002 Payor: Third Party Reference: NO REFERENCE INFORMATION",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Fuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nFedEx has audited this airbill for correct pieces, weight, and service. Any changes made are reflected in the invoice amount.\nDiscount applied is the greater of volume discount or dropoff discount. No additional discount applies.\nRecipient not in/business closed.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Tracking D 831544845685 Sender ILLEG BEL Recipient ILLEG BLE\nService Type FedEx Intl Priority ILLEG BLE ILLEG BLE\nPackage Type FedEx Envelope ZANNO 49 ZANNO RANCH RD\nZone 1 STANLEY NM 87505 US\nOrig./Dest. SAF/STT\nPackages 1\nWeight 0.7 lbs, 0.3 kgs\nDelivered Nov 22, 2002 16 36\nSigned by B.WALLACE\nFedEx Use /US01O/08",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Transportation Charge 38.00\nFuel Surcharge 1.47\nDiscount -1.14\nTotal Transportation Charges USD $ 38.33\nShipment Detail Subtotal USD $ 119.60",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "SDNY_GM_00340759 94\nDOJ-OGR-00015403",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "B.WALLACE"
+    ],
+    "organizations": [
+      "FedEx"
+    ],
+    "locations": [
+      "ZANNO RANCH RD",
+      "STANLEY NM 87505 US",
+      "SAF",
+      "STT"
+    ],
+    "dates": [
+      "Nov 20, 2002",
+      "Nov 22, 2002",
+      "Dec 02, 2002"
+    ],
+    "reference_numbers": [
+      "4-494-69923",
+      "831544845685",
+      "1144-2081-6",
+      "SDNY_GM_00340759",
+      "DOJ-OGR-00015403"
+    ]
+  },
+  "additional_notes": "The document is a FedEx Express Shipment Detail By Payment Type invoice. It contains information about a shipment, including the tracking number, sender and recipient details, package details, and charges. The document is marked as 'CONFIDENTIAL' at the bottom."
+}

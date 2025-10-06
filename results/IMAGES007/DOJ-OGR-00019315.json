@@ -1,0 +1,48 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "19",
+    "date": "09/10/2020",
+    "document_type": "Exhibit",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 20-3061, Document 19, 09/10/2020, 2928290, Page1 of 1\n\nEXHIBIT B\n\nFILED UNDER SEAL ONLY\nIN CASE NO. 20-3061\n\nDOJ-OGR-00019315",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 20-3061, Document 19, 09/10/2020, 2928290, Page1 of 1",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EXHIBIT B",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FILED UNDER SEAL ONLY\nIN CASE NO. 20-3061",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00019315",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "09/10/2020"
+    ],
+    "reference_numbers": [
+      "20-3061",
+      "19",
+      "2928290",
+      "DOJ-OGR-00019315"
+    ]
+  },
+  "additional_notes": "The document appears to be a cover sheet for an exhibit filed under seal in a court case. The content is mostly boilerplate text with a case number and document identifier."
+}

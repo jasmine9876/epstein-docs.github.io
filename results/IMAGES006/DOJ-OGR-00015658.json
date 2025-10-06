@@ -1,0 +1,39 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00015658",
+    "date": null,
+    "document_type": "image",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "GOVERNMENT EXHIBIT 342 52 20 Cr. 330 (AJN) DOJ-OGR-00015658",
+  "text_blocks": [
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 342 52 20 Cr. 330 (AJN)",
+      "position": "bottom right"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015658",
+      "position": "bottom right"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Ghislaine Maxwell"
+    ],
+    "organizations": [
+      "Department of Justice"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00015658",
+      "52 20 Cr. 330 (AJN)"
+    ]
+  },
+  "additional_notes": "The image appears to be a photograph of Jeffrey Epstein and Ghislaine Maxwell on a private plane. The image is marked as 'GOVERNMENT EXHIBIT 342' and has a reference number 'DOJ-OGR-00015658'."
+}

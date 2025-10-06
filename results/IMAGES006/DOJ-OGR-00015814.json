@@ -1,0 +1,81 @@
+{
+  "document_metadata": {
+    "page_number": "17",
+    "document_number": null,
+    "date": "1913",
+    "document_type": "Pilot's Logbook",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE 1913 JAN AIRCRAFT MAKE AND MODEL AIRCRAFT IDENTIFICATION MARK POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FLOWN FLT. NO. REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS LDG. AIRCRAFT CATEGORY AIRPLANE COMPLEX TURB 18 HS-125/720 N908JC PBI TEB 27.0 273 11 2 4 2 4 2 21 \" \" \" TEB CMH 7.0 274 15 15 1 23 \" \" CMH PBI 80 275 2 1 2 1 2 24 \" \" PBI TEB 50 276 2 3 2 3 2 29 \" \" TEB DCA 80 277 7 7 24 \" \" DCA FTY 258 1 6 1 6 1 29 \" \" FTY PBI 279 1 2 1 2 1 FEB 1 \" \" PBI TEB 54 280 2 7 2 7 2 5 \" \" TEB PBI 50 281 2 4 .2 4 2 3 \" \" PBI CMH 135 282 2 1 2 1 1 4 \" \" CMH DNN 50 283 1 1 1 4 \" \" DNN PBI 284 1 5 1 5 1 8 \" \" PBI TEB 80 285 2 4 2 4 2 10 \" \" TEB CMH 50 286 1 6 1 6 1 11 \" \" CMH SAP 80 287 3 5 3 5 3 14 \" \" SAP PBI 70 288 3 1 3 1 3 16 \" \" PBI TEB 110 289 2 4 2 4 2 16 \" \" TEB CMH 230 1 4 1 4 1 I certify that the statements made by me on this form are true. PILOT'S SIGNATURE David Rodrigue PAGE TOTAL 360 360 36 AMT. FORWARD 5787 9 4156 4 2178 TOTAL TO DATE 5823 9 4492 4 2184",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE 1913 JAN AIRCRAFT MAKE AND MODEL AIRCRAFT IDENTIFICATION MARK POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FLOWN FLT. NO. REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS LDG. AIRCRAFT CATEGORY AIRPLANE COMPLEX TURB",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "18 HS-125/720 N908JC PBI TEB 27.0 273 11 2 4 2 4 2 21 \" \" \" TEB CMH 7.0 274 15 15 1 23 \" \" CMH PBI 80 275 2 1 2 1 2 24 \" \" PBI TEB 50 276 2 3 2 3 2 29 \" \" TEB DCA 80 277 7 7 24 \" \" DCA FTY 258 1 6 1 6 1 29 \" \" FTY PBI 279 1 2 1 2 1 FEB 1 \" \" PBI TEB 54 280 2 7 2 7 2 5 \" \" TEB PBI 50 281 2 4 .2 4 2 3 \" \" PBI CMH 135 282 2 1 2 1 1 4 \" \" CMH DNN 50 283 1 1 1 4 \" \" DNN PBI 284 1 5 1 5 1 8 \" \" PBI TEB 80 285 2 4 2 4 2 10 \" \" TEB CMH 50 286 1 6 1 6 1 11 \" \" CMH SAP 80 287 3 5 3 5 3 14 \" \" SAP PBI 70 288 3 1 3 1 3 16 \" \" PBI TEB 110 289 2 4 2 4 2 16 \" \" TEB CMH 230 1 4 1 4 1",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "I certify that the statements made by me on this form are true. PILOT'S SIGNATURE",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "David Rodrigue",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE TOTAL AMT. FORWARD TOTAL TO DATE",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "360 360 36 5787 9 4156 4 2178 5823 9 4492 4 2184",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rodrigue"
+    ],
+    "organizations": [],
+    "locations": [
+      "PBI",
+      "TEB",
+      "CMH",
+      "DCA",
+      "FTY",
+      "DNN",
+      "SAP"
+    ],
+    "dates": [
+      "1913",
+      "Jan 18",
+      "Jan 21",
+      "Jan 23",
+      "Jan 24",
+      "Jan 29",
+      "Feb 1",
+      "Feb 5",
+      "Feb 3",
+      "Feb 4",
+      "Feb 8",
+      "Feb 10",
+      "Feb 11",
+      "Feb 14",
+      "Feb 16"
+    ],
+    "reference_numbers": [
+      "N908JC",
+      "HS-125/720",
+      "DOJ-OGR-00015814"
+    ]
+  },
+  "additional_notes": "The document is a pilot's logbook page with handwritten entries. The page is partially obscured by a black rectangle, but the surrounding text is still legible."
+}

@@ -1,0 +1,92 @@
+{
+  "document_metadata": {
+    "page_number": "1 of 6",
+    "document_number": "7-153-86959",
+    "date": "Dec 13, 2002",
+    "document_type": "Invoice",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx JEFFREY E EPSTE N 457 MADISON AVE NEW YORK NY 10022-6843 Invoice Number: 7-153-86959 Invoice Date: Dec 13, 2002 Account Number: 1144-2081-6 Page: 1 of 6 FedEx Tax ID: 71-0427007 Invoice Questions? Contact FedEx Revenue Services Phone: (800) 622-1147 M-F 7-6 (CST) Fax: (800) 548-3020 Internet: www.fedex.com Invoice Summary Dec 13, 2002 FedEx Express Services Duties, Tax, Customs, Other Fees 51.13 Total Charges USD $ 51.13 TOTAL THIS INVOICE USD $ 51.13 The FedEx Ground accounts referenced in this invoice have been transferred and assigned to, are owned by, and are payable to FedEx Express. To ensure proper credit, please return this portion with your payment to FedEx. Please do not staple or fold. Please make your check payable to FedEx. For change of address, check here and complete form on reverse side. Remittance Advice Payment due upon receipt Invoice Account Number Amount Due 7-153-86959 1144-2081-6 $51.13 1144208171538695944000051361 JEFFREY E EPSTE N 457 MADISON AVE NEW YORK NY 10022-6843 FedEx P.O. Box 371461 Pittsburgh PA 15250-7461 FDX#*60100*5048454001.16638.16538. FEDXQTY. .0000426.114420816 CONFIDENTIAL SDNY_GM_00342913 114 DOJ-OGR-00015423",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "JEFFREY E EPSTE N 457 MADISON AVE NEW YORK NY 10022-6843",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Number: 7-153-86959 Invoice Date: Dec 13, 2002 Account Number: 1144-2081-6 Page: 1 of 6 FedEx Tax ID: 71-0427007",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Questions? Contact FedEx Revenue Services Phone: (800) 622-1147 M-F 7-6 (CST) Fax: (800) 548-3020 Internet: www.fedex.com",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Summary Dec 13, 2002 FedEx Express Services Duties, Tax, Customs, Other Fees 51.13 Total Charges USD $ 51.13 TOTAL THIS INVOICE USD $ 51.13",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "The FedEx Ground accounts referenced in this invoice have been transferred and assigned to, are owned by, and are payable to FedEx Express. To ensure proper credit, please return this portion with your payment to FedEx. Please do not staple or fold. Please make your check payable to FedEx. For change of address, check here and complete form on reverse side.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Remittance Advice Payment due upon receipt Invoice Account Number Amount Due 7-153-86959 1144-2081-6 $51.13",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "1144208171538695944000051361",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "JEFFREY E EPSTE N 457 MADISON AVE NEW YORK NY 10022-6843 FedEx P.O. Box 371461 Pittsburgh PA 15250-7461",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "SDNY_GM_00342913 114 DOJ-OGR-00015423",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY E EPSTE N"
+    ],
+    "organizations": [
+      "FedEx"
+    ],
+    "locations": [
+      "NEW YORK",
+      "Pittsburgh"
+    ],
+    "dates": [
+      "Dec 13, 2002"
+    ],
+    "reference_numbers": [
+      "7-153-86959",
+      "1144-2081-6",
+      "71-0427007",
+      "1144208171538695944000051361",
+      "SDNY_GM_00342913",
+      "DOJ-OGR-00015423"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx invoice with a remittance advice section. The invoice is addressed to JEFFREY E EPSTE N and has a total charge of $51.13. The document contains a barcode and a confidentiality notice."
+}

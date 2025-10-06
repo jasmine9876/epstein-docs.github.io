@@ -1,0 +1,45 @@
+{
+  "document_metadata": {
+    "page_number": "216",
+    "document_number": "761",
+    "date": "08/10/22",
+    "document_type": "court transcript",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 761 Filed 08/10/22 Page 216 of 246 2511 LCGCmax6 Aznaran - direct 1 A. The time is the updated time that the passenger was actually processed by a CBP officer in the passenger operations environment. 2 Q. All right. So looking at the information in this chart, what of this information comes from the airlines and what of this information comes from the kiosks when they're stamped into the country? 3 A. So the airline manifest is going to provide the last name, first name, the date of birth, document type, document number, the carrier code, the carrier number, inbound or outbound, the type, the arrival location, and the departure location. 4 Q. That all comes from the airline? 5 A. Yes. 6 Q. And the rest of the information that's not that is, I think, the date and time and the site; is that right? 7 A. The date and the time is when the manifest is first loaded. The date and the time will reflect the date of the flight and it will reflect the time of the flight, the time of arrival. Once the passenger is processed and that information is captured by their border crossing into TECS, that time is supposed to be updated to the time when they were processed. 8 Q. Processed at the immigration kiosk? 9 A. At the kiosk, correct. 10 Q. At the site location listed there? 11 A. Yes. SOUTHERN DISTRICT REPORTERS, P.C. (212) 805-0300 DOJ-OGR-00016699",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 761 Filed 08/10/22 Page 216 of 246 2511 LCGCmax6 Aznaran - direct",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "1 A. The time is the updated time that the passenger was actually processed by a CBP officer in the passenger operations environment. 2 Q. All right. So looking at the information in this chart, what of this information comes from the airlines and what of this information comes from the kiosks when they're stamped into the country? 3 A. So the airline manifest is going to provide the last name, first name, the date of birth, document type, document number, the carrier code, the carrier number, inbound or outbound, the type, the arrival location, and the departure location. 4 Q. That all comes from the airline? 5 A. Yes. 6 Q. And the rest of the information that's not that is, I think, the date and time and the site; is that right? 7 A. The date and the time is when the manifest is first loaded. The date and the time will reflect the date of the flight and it will reflect the time of the flight, the time of arrival. Once the passenger is processed and that information is captured by their border crossing into TECS, that time is supposed to be updated to the time when they were processed. 8 Q. Processed at the immigration kiosk? 9 A. At the kiosk, correct. 10 Q. At the site location listed there? 11 A. Yes.",
+      "position": "main content"
+    },
+    {
+      "type": "printed",
+      "content": "SOUTHERN DISTRICT REPORTERS, P.C. (212) 805-0300 DOJ-OGR-00016699",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "CBP",
+      "SOUTHERN DISTRICT REPORTERS, P.C."
+    ],
+    "locations": [],
+    "dates": [
+      "08/10/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "761",
+      "DOJ-OGR-00016699"
+    ]
+  },
+  "additional_notes": "The document appears to be a court transcript with clear and legible text. There are no visible redactions or damage."
+}

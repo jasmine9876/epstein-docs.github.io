@@ -1,0 +1,86 @@
+{
+  "document_metadata": {
+    "page_number": "1 of 5",
+    "document_number": "7-153-78512",
+    "date": "Dec 12, 2002",
+    "document_type": "Invoice",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx JEFFREY E EPSTE N 457 MADISON AVE NEW YORK NY 10022-6843 Invoice Number: 7-153-78512 Invoice Date: Dec 12, 2002 Account Number: 1144-2081-6 Page: 1 of 5 FedEx Tax ID: 71-0427007 Invoice Questions? Contact FedEx Revenue Services Phone: (800) 622-1147 M-F 7-6 (CST) Fax: (800) 548-3020 Internet: www.fedex.com Invoice Summary Dec 12, 2002 FedEx Express Services Duties, Tax, Customs, Other Fees 64.41 Total Charges USD $ 64.41 TOTAL THIS INVOICE USD $ 64.41 The FedEx Ground accounts referenced in this invoice have been transferred and assigned to, are owned by, and are payable to FedEx Express. To ensure proper credit, please return this portion with your payment to FedEx. Please do not staple or fold. Please make your check payable to FedEx. For change of address, check here and complete form on reverse side. Remittance Advice Payment due upon receipt Invoice Number Account Number Amount Due 7-153-78512 1144-2081-6 $64.41 11442081715378512150000644103 JEFFREY E EPSTE N 457 MADISON AVE NEW YORK NY 10022-6843 FedEx P.O. Box 371461 Pittsburgh PA 15250-7461 FDX*25100*5047820011478.1478_____FEDXOTY_____00003649.114420816 CONFIDENTIAL SDNY_GM_00342908 105 DOJ-OGR-00015414",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "JEFFREY E EPSTE N 457 MADISON AVE NEW YORK NY 10022-6843",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Number: 7-153-78512 Invoice Date: Dec 12, 2002 Account Number: 1144-2081-6 Page: 1 of 5 FedEx Tax ID: 71-0427007",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Questions? Contact FedEx Revenue Services Phone: (800) 622-1147 M-F 7-6 (CST) Fax: (800) 548-3020 Internet: www.fedex.com",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Summary Dec 12, 2002 FedEx Express Services Duties, Tax, Customs, Other Fees 64.41 Total Charges USD $ 64.41 TOTAL THIS INVOICE USD $ 64.41",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "The FedEx Ground accounts referenced in this invoice have been transferred and assigned to, are owned by, and are payable to FedEx Express. To ensure proper credit, please return this portion with your payment to FedEx. Please do not staple or fold. Please make your check payable to FedEx. For change of address, check here and complete form on reverse side.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Remittance Advice Payment due upon receipt Invoice Number Account Number Amount Due 7-153-78512 1144-2081-6 $64.41",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "11442081715378512150000644103 JEFFREY E EPSTE N 457 MADISON AVE NEW YORK NY 10022-6843 FedEx P.O. Box 371461 Pittsburgh PA 15250-7461",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "SDNY_GM_00342908 105 DOJ-OGR-00015414",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY E EPSTE N"
+    ],
+    "organizations": [
+      "FedEx"
+    ],
+    "locations": [
+      "NEW YORK",
+      "Pittsburgh"
+    ],
+    "dates": [
+      "Dec 12, 2002"
+    ],
+    "reference_numbers": [
+      "7-153-78512",
+      "1144-2081-6",
+      "71-0427007",
+      "SDNY_GM_00342908",
+      "DOJ-OGR-00015414"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx invoice with a remittance advice section. The invoice is addressed to JEFFREY E EPSTE N and has a total charge of $64.41. The document is marked as 'CONFIDENTIAL' at the bottom."
+}

@@ -1,0 +1,37 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00016110",
+    "date": null,
+    "document_type": "image",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "GOVERNMENT EXHIBIT 935-R S2 20 Cr. 330 (AJN) DOJ-OGR-00016110",
+  "text_blocks": [
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 935-R S2 20 Cr. 330 (AJN)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00016110",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "935-R",
+      "S2 20 Cr. 330 (AJN)",
+      "DOJ-OGR-00016110"
+    ]
+  },
+  "additional_notes": "The image appears to be a photograph of a bookshelf with a storage compartment containing plastic bins. The image is labeled as a government exhibit."
+}

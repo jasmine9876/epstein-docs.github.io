@@ -1,0 +1,80 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "4-495-33932",
+    "date": "Dec 16, 2002",
+    "document_type": "Adjustment Request",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Invoice Number: 4-495-33932 Invoice Date: Dec 16, 2002 Account Number: 1144 2081 6 Page: 2 of 15 Adjustment Request FAX TO (800) 548-3020 Tracking No./Airbill No. Reason Code Explanation BEFORE YOU FAX Please include detailed explanation for each adjustment request. Remember to include recipient's account number or third party's account number if applicable. From: Name Date ( ) ( ) Business Phone Business Fax REASON CODE KEY Reason Code Description DUP Duplicate Billing PND Shipment Never Sent RATE Incorrect Rates or Pieces RRA Rebll Recipient Include Recipient's Account No. RSA Rebll Sender RTA Rebll Third Party Include Third Party's Account No. SUR Incorrect Surcharge OTHR Other Please Explain This form cannot be used to request Invoice Adjustments due to Service Failures or lack of a POD. To request adjustments for Service Failures or lack of a POD, please call 1-800-622-1147, visit our internet site at www.fedex.com or register for FIO. FedEx Federal Express Please indicate change in address for the account # listed below: Physical Address Billing Address Mailing Address Account Number: 1144-2081-6 Name Address Apt./Suite: City: State: Zip: Phone: ( ) Fax: ( ) Authorizing Signature: DOJ-OGR-00016050",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Number: 4-495-33932 Invoice Date: Dec 16, 2002 Account Number: 1144 2081 6 Page: 2 of 15",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Adjustment Request FAX TO (800) 548-3020",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Tracking No./Airbill No. Reason Code Explanation",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "BEFORE YOU FAX Please include detailed explanation for each adjustment request. Remember to include recipient's account number or third party's account number if applicable.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "From: Name Date ( ) ( ) Business Phone Business Fax",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "REASON CODE KEY Reason Code Description DUP Duplicate Billing PND Shipment Never Sent RATE Incorrect Rates or Pieces RRA Rebll Recipient Include Recipient's Account No. RSA Rebll Sender RTA Rebll Third Party Include Third Party's Account No. SUR Incorrect Surcharge OTHR Other Please Explain",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "This form cannot be used to request Invoice Adjustments due to Service Failures or lack of a POD. To request adjustments for Service Failures or lack of a POD, please call 1-800-622-1147, visit our internet site at www.fedex.com or register for FIO.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FedEx Federal Express Please indicate change in address for the account # listed below: Physical Address Billing Address Mailing Address Account Number: 1144-2081-6 Name Address Apt./Suite: City: State: Zip: Phone: ( ) Fax: ( ) Authorizing Signature:",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00016050",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "FedEx"
+    ],
+    "locations": [],
+    "dates": [
+      "Dec 16, 2002"
+    ],
+    "reference_numbers": [
+      "4-495-33932",
+      "1144 2081 6",
+      "1144-2081-6",
+      "DOJ-OGR-00016050"
+    ]
+  },
+  "additional_notes": "The document is a FedEx Adjustment Request form, dated Dec 16, 2002, with invoice number 4-495-33932 and account number 1144 2081 6. The form is page 2 of 15."
+}

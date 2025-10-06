@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "86",
+    "document_number": "DOJ-OGR-00015883",
+    "date": "2004",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... 19-Aug-04 B-727-31 N908JC PBI HPN 7 1/1 25 24 HPN PBI 8 1/1 24 27 PBI HPN 9 1/1 26 29 HPN TIST 10 1/1 37 30 G-1159 N908JC PBI PBI 3/3 6 SEP-04 B-727-31 N908JC TIST HPN 11 1/1 37 6 HPN PBI 12 1/1 24 9 PBI HPN 13 1/1 27 15 HPN PBI 14 1/1 26 7N C-172 N144LV LNP LNP 4/4 9 19 B-727-31 N908JC PBI HPN 15 1/1 27 21 HPN CYQX 16 27 22 CYQX LFPB 17 25 LFPB CYQX 18 28 CYQX HPN 19 1/1 36 28 HPN PBI 20 1/1 27 29 PBI AYBQ 21 1/1 40 4 AYBQ HPN 22 1/1 37 8 HPN JAX 23 Page Total 17 14 550 Amount Forward 6450 83276 33112 Total to Date 6133 83826 33112 I certify that the statements made by me on this form are true. Pilot's Signature David Rodgers",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "19-Aug-04 B-727-31 N908JC PBI HPN 7 1/1 25 ...",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David Rodgers",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rodgers"
+    ],
+    "organizations": [],
+    "locations": [
+      "PBI",
+      "HPN",
+      "TIST",
+      "LNP",
+      "CYQX",
+      "LFPB",
+      "AYBQ",
+      "JAX"
+    ],
+    "dates": [
+      "19-Aug-04",
+      "24-Aug-04",
+      "27-Aug-04",
+      "29-Aug-04",
+      "30-Aug-04",
+      "3-Sep-04",
+      "6-Sep-04",
+      "9-Sep-04",
+      "15-Sep-04",
+      "7N",
+      "19-Sep-04",
+      "21-Sep-04",
+      "22-Sep-04",
+      "25-Sep-04",
+      "28-Sep-04",
+      "29-Sep-04",
+      "4-Sep-04",
+      "8-Sep-04"
+    ],
+    "reference_numbers": [
+      "N908JC",
+      "N144LV",
+      "DOJ-OGR-00015883"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The log includes details such as date, aircraft make and model, identification mark, points of departure and arrival, miles flown, flight number, remarks, and number of landings. The document has a signature at the bottom."
+}

@@ -1,0 +1,101 @@
+{
+  "document_metadata": {
+    "page_number": "87",
+    "document_number": "DOJ-OGR-00015884",
+    "date": null,
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date 19 Aircraft Make and Model Aircraft Identification Aircraft Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... 7 C172R N395SP LNA LNA 3/3 5 15 C172R N395SP LNA-BCT-LNA 4/4 13 9 B-721-31 N908JC JAX LCQ 24 1/1 5 10 G-1159B N909JC PBI TEB 1534 0/0 25 11 G-1159B N909JC TEB PBI 1534 1/1 23 15 G-1159B N909JC PBI TEB 1540 1/1 24 17 G-1159B N909JC TEB BGR 1/1 8 17 G-1159B N909JC BED TEB 1/0 10 18 G-1159B N909JC TEB TST 3/5 23 G-1159B N909JC TST TEB 1/1 40 26 G-1159B N909JC TEB PBI 1/1 26 30 G-1159B N909JC PBI LCQ 1/1 10 30 G-1159B N909JC LCQ TEB 1/1 20 Nov 3 G-1159B N909JC TEB SAF 1/1 40 5 G-1159B N909JC SAF ASE 1/1 8 5 G-1159B N909JC ASE PBI 1/1 37 6 G-1159B N909JC PBI CMH 1/1 24 6 G-1159B N909JC CMH TEB 1/1 14 9 G-1159B N909JC TEB LCQ 1/1 22 I certify that the statements made by me on this form are true. Pilot's Signature Darel Metcalfe Page Total 16 389 Amount Forward 6133 83926 3 3112 Total to Date 6149 84215 3 3112",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date 19 Aircraft Make and Model Aircraft Identification Aircraft Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "7 C172R N395SP LNA LNA 3/3 5 15 C172R N395SP LNA-BCT-LNA 4/4 13 9 B-721-31 N908JC JAX LCQ 24 1/1 5 10 G-1159B N909JC PBI TEB 1534 0/0 25 11 G-1159B N909JC TEB PBI 1534 1/1 23 15 G-1159B N909JC PBI TEB 1540 1/1 24 17 G-1159B N909JC TEB BGR 1/1 8 17 G-1159B N909JC BED TEB 1/0 10 18 G-1159B N909JC TEB TST 3/5 23 G-1159B N909JC TST TEB 1/1 40 26 G-1159B N909JC TEB PBI 1/1 26 30 G-1159B N909JC PBI LCQ 1/1 10 30 G-1159B N909JC LCQ TEB 1/1 20 Nov 3 G-1159B N909JC TEB SAF 1/1 40 5 G-1159B N909JC SAF ASE 1/1 8 5 G-1159B N909JC ASE PBI 1/1 37 6 G-1159B N909JC PBI CMH 1/1 24 6 G-1159B N909JC CMH TEB 1/1 14 9 G-1159B N909JC TEB LCQ 1/1 22",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "Darel Metcalfe",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "Page Total 16 389 Amount Forward 6133 83926 3 3112 Total to Date 6149 84215 3 3112",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Darel Metcalfe"
+    ],
+    "organizations": [],
+    "locations": [
+      "LNA",
+      "BCT",
+      "JAX",
+      "LCQ",
+      "PBI",
+      "TEB",
+      "BGR",
+      "BED",
+      "TST",
+      "SAF",
+      "ASE",
+      "CMH"
+    ],
+    "dates": [
+      "7",
+      "15",
+      "9",
+      "10",
+      "11",
+      "15",
+      "17",
+      "17",
+      "18",
+      "23",
+      "26",
+      "30",
+      "30",
+      "Nov 3",
+      "5",
+      "5",
+      "6",
+      "6",
+      "9"
+    ],
+    "reference_numbers": [
+      "N395SP",
+      "N908JC",
+      "N909JC",
+      "1534",
+      "1540",
+      "1541",
+      "1542",
+      "1543",
+      "1544",
+      "1545",
+      "1546",
+      "1547",
+      "1548",
+      "1549",
+      "1550",
+      "1551",
+      "1552",
+      "1553",
+      "DOJ-OGR-00015884"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The log includes details such as date, aircraft make and model, identification, points of departure and arrival, miles flown, flight number, remarks, and number of landings. The document is signed by the pilot, Darel Metcalfe."
+}

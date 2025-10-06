@@ -1,0 +1,35 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Exhibit Image",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "GOVERNMENT EXHIBIT 910 S2 20 Cr. 330 (AJN) DOJ-OGR-00016100",
+  "text_blocks": [
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 910 S2 20 Cr. 330 (AJN)",
+      "position": "bottom-right"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00016100",
+      "position": "bottom-right"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "910",
+      "S2 20 Cr. 330",
+      "DOJ-OGR-00016100"
+    ]
+  },
+  "additional_notes": "The image appears to be an exhibit from a legal proceeding, likely a court case. The text 'GOVERNMENT EXHIBIT 910' and the reference number 'S2 20 Cr. 330 (AJN)' suggest it is part of a government exhibit collection. The image itself depicts a luxurious interior with a staircase and seating area."
+}

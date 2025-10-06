@@ -1,0 +1,85 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "DOJ-OGR-00015211",
+    "date": "December 17, 2021",
+    "document_type": "Court Document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Dated: December 17, 2021 New York, New York DAMIAN WILLIAMS United States Attorney for the Southern District of New York By: Maurene Comey / Alison Moe Lara Pomerantz / Andrew Rohrbach Assistant United States Attorneys Southern District of New York Christian Everdell, Esq./ Laura Menninger, Esq. Jeffrey Pagliuca, Esq. / Bobbi Sternheim, Esq. Attorneys for Defendant Ghislaine Maxwell 2 DOJ-OGR-00015211",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Dated: December 17, 2021 New York, New York",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "DAMIAN WILLIAMS United States Attorney for the Southern District of New York",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "By:",
+      "position": "middle"
+    },
+    {
+      "type": "signature",
+      "content": "",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Maurene Comey / Alison Moe Lara Pomerantz / Andrew Rohrbach Assistant United States Attorneys Southern District of New York",
+      "position": "middle"
+    },
+    {
+      "type": "signature",
+      "content": "",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Christian Everdell, Esq./ Laura Menninger, Esq. Jeffrey Pagliuca, Esq. / Bobbi Sternheim, Esq. Attorneys for Defendant Ghislaine Maxwell",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "2",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015211",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Damian Williams",
+      "Maurene Comey",
+      "Alison Moe",
+      "Lara Pomerantz",
+      "Andrew Rohrbach",
+      "Christian Everdell",
+      "Laura Menninger",
+      "Jeffrey Pagliuca",
+      "Bobbi Sternheim",
+      "Ghislaine Maxwell"
+    ],
+    "organizations": [
+      "United States Attorney for the Southern District of New York"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "December 17, 2021"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00015211"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with signatures from attorneys involved in a case against Ghislaine Maxwell. The document is dated December 17, 2021, and is from the Southern District of New York."
+}

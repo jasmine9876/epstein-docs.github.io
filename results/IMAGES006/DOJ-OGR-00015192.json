@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "DOJ-OGR-00015192",
+    "date": null,
+    "document_type": "First Amended Complaint",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 3 of 91 vs. Epstein, et al. First Amended Complaint 11. The Plaintiff, , was the first brought to the Defendant, JEFFREY EPSTEIN'S, mansion in late May or early June of 2002, when she was fifteen-years old and in middle school. 3 DOJ-OGR-00015192",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3 of 91",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "vs. Epstein, et al.",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "First Amended Complaint",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "11. The Plaintiff, , was the first brought to the Defendant, JEFFREY EPSTEIN'S, mansion in late May or early June of 2002, when she was fifteen-years old and in middle school.",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "3",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015192",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "late May or early June of 2002"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00015192"
+    ]
+  },
+  "additional_notes": "The document contains redactions, likely for privacy or sensitivity reasons. The page is part of a larger document, as indicated by the page number and total page count."
+}

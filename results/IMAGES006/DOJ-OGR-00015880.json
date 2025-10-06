@@ -1,0 +1,95 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... From To Aircraft Night Helicopter 2nd 7 G-1159B N909JC PBI CHO 1503 1/1 2 0 7 \" \" CHO TCB 1504 1/1 1 1 16 C421B N908GM PBI MCN 1/1 2 6 16 \" \" MCN 27K 1/1 2 1 10 \" \" 27K OSU 1/1 1 2 10 \" \" OSU JUY 1/1 1 2 11 \" \" JUY 27K 1/1 1 7 12 \" \" 27K TSM 1/1 1 7 13 \" \" TSM GNV 1/1 3 0 13 \" \" GNV PBF 1/1 1 8 14 G-1159B N909JC TST TCB 1506 1/1 3 8 20 C-421B N908GM PBI TSM 1/1 1 1 20 \" \" TSM PBI 1/1 1 1 24 G-1159B N909JC TCB PBI 1507 1/1 2 6 25 C421B N908GM PBI LAL 1/1 1 3 26 \" \" LAL MCN 1/1 1 8 27 \" \" MCN TSM 1/1 1 8 28 \" \" TSM PBI 1/1 1 1 28 G 1159B N909JC PBI TCB 1504 1/1 2 5 I certify that the statements made by me on this form are true. Pilot's Signature David Rodriguez Page Total 15 33 5 Amount Forward 6398 8200 4 3 3 112 Total to Date 6414 8233 9 3 3 112 FLIGHT TIMES RECONCILED TO INSURANCE FOR ANNUAL INSPECTION DOJ-OGR-00015880",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... From To Aircraft Night Helicopter",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "2nd 7 G-1159B N909JC PBI CHO 1503 1/1 2 0 7 \" \" CHO TCB 1504 1/1 1 1 16 C421B N908GM PBI MCN 1/1 2 6 16 \" \" MCN 27K 1/1 2 1 10 \" \" 27K OSU 1/1 1 2 10 \" \" OSU JUY 1/1 1 2 11 \" \" JUY 27K 1/1 1 7 12 \" \" 27K TSM 1/1 1 7 13 \" \" TSM GNV 1/1 3 0 13 \" \" GNV PBF 1/1 1 8 14 G-1159B N909JC TST TCB 1506 1/1 3 8 20 C-421B N908GM PBI TSM 1/1 1 1 20 \" \" TSM PBI 1/1 1 1 24 G-1159B N909JC TCB PBI 1507 1/1 2 6 25 C421B N908GM PBI LAL 1/1 1 3 26 \" \" LAL MCN 1/1 1 8 27 \" \" MCN TSM 1/1 1 8 28 \" \" TSM PBI 1/1 1 1 28 G 1159B N909JC PBI TCB 1504 1/1 2 5",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David Rodriguez",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "15 33 5 6398 8200 4 3 3 112 6414 8233 9 3 3 112",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "FLIGHT TIMES RECONCILED TO INSURANCE FOR ANNUAL INSPECTION",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015880",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rodriguez"
+    ],
+    "organizations": [],
+    "locations": [
+      "PBI",
+      "CHO",
+      "TCB",
+      "MCN",
+      "27K",
+      "OSU",
+      "JUY",
+      "TSM",
+      "GNV",
+      "PBF",
+      "TST",
+      "LAL"
+    ],
+    "dates": [
+      "2nd",
+      "7",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "20",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28"
+    ],
+    "reference_numbers": [
+      "1503",
+      "1504",
+      "1506",
+      "1507",
+      "6398",
+      "8200",
+      "6414",
+      "8233",
+      "DOJ-OGR-00015880"
+    ]
+  },
+  "additional_notes": "The document is a flight log with handwritten entries. The pilot's signature is present at the bottom. The document has been reconciled for insurance purposes for an annual inspection."
+}

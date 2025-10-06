@@ -1,0 +1,47 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "DOJ-OGR-00015179",
+    "date": null,
+    "document_type": "handwritten note",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "I'm so excited. Boss brought me tickets to come out + see my [REDACTED] almost every day. He is very wealthy + might help me get into or pay for college. I don't want to cut my losses up because I hate disappointment but it would be really cool if it happened + even if it doesn't it is so great I got to go see him.",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "I'm so excited. Boss brought me tickets to come out + see my [REDACTED] almost every day. He is very wealthy + might help me get into or pay for college. I don't want to cut my losses up because I hate disappointment but it would be really cool if it happened + even if it doesn't it is so great I got to go see him.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ REDACTION",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Property of DOJ REDACTION Not For Media Use",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ REDACTION DOJ-OGR-00015179",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Boss"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00015179"
+    ]
+  },
+  "additional_notes": "The document is a handwritten note with a redacted section. The handwriting is clear, but the content is informal and personal. The footer indicates that the document is not for media use and has a reference number."
+}

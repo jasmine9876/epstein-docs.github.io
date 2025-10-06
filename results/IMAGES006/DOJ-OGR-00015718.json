@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "6",
+    "document_number": "SB1062192-F1",
+    "date": null,
+    "document_type": "JPMorgan Account Signature Form",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "JPMorgan Account Month/Day/Year Account title Ghislaine Maxwell All Account holders/Signers must sign this Signature Form exactly as the checks/instructions will be signed. Print (Account holder/Signers, Trustee, Custodian, Director, etc.) Title Sign X Ghislaine Maxwell Trustee X SIGN HERE DOJ REDACTION SIGN HERE DOJ REDACTION Is this an existing account? Yes No If yes, does this card replace all other cards against this account? Yes No Signing instructions (Print name below, of card if necessary): JPMorgan Account Month/Day/Year Authorized title Social Security no. / Tax ID no. / Passport no. All Account holders/Signers must sign this Signature Form exactly as the checks/instructions will be signed. Print (Account holder/Signers, Trustee, Custodian, Director, etc.) Title Sign X Ghislaine Maxwell Trustee X SIGN HERE DOJ REDACTION SIGN HERE DOJ REDACTION Is this an existing account? Yes No If yes, does this card replace all other cards against this account? Yes No Signing instructions (Print name below, of card if necessary): SB1062192-F1 GOVERNMENT EXHIBIT 507 S2 20 Cr. 330 (AJN) 6 DOJ-OGR-00015718",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "JPMorgan Account",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Ghislaine Maxwell",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "All Account holders/Signers must sign this Signature Form exactly as the checks/instructions will be signed.",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "DOJ REDACTION",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "GOVERNMENT EXHIBIT 507 S2 20 Cr. 330 (AJN)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "SB1062192-F1",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015718",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ghislaine Maxwell"
+    ],
+    "organizations": [
+      "JPMorgan",
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "SB1062192-F1",
+      "DOJ-OGR-00015718",
+      "S2 20 Cr. 330 (AJN)"
+    ]
+  },
+  "additional_notes": "The document contains redactions by the Department of Justice (DOJ). The account holder's name is Ghislaine Maxwell. The document is a JPMorgan account signature form with two identical sections. The document is marked as 'GOVERNMENT EXHIBIT 507'."
+}

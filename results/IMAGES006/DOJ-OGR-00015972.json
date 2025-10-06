@@ -1,0 +1,76 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00015972",
+    "date": null,
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date 10/18 TUE Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category 5 G11593 N908JC PBI OXC 1126 JG 1/1 2 S 5 G11 N908JC OXC TEB 1127 JG 1/1 4 10 \" \" TEB PBI 1128 JG, SPINE BENDING, 2 FEMALS 1/1 2 3 12 C150 N45563 JVX JVX * CISO CHECK OUT DAN C&I 2/2 6 12 \" N778MC JVX JVX JONATHAN IN AND - ARROWS, CLEANING GLASS SHORT, NORMAL CONTROL STICK DECORATIONS 2/2 14 ARROW, TRAFFIC PATTERNS, CLEAN TURNS, MCA RICHARD + 8500 STICK DECORATIONS 3/3 11 13 \" \" \" \" EMERGENCY LANDINGS, NORMAL TUMNOFFS 2/2 S 18 \" \" \" \" 3,4 4/4 10 16 \" \" \" \" 5 3/3 9 16 \" \" \" \" 6 2/2 11 17 \" \" \" \" 7 VOICE TRACKING (STATION TOWER OR OFC, BANK MCA, CONTROL TOWER OPERATIONS 2/2 8 ATIS, GROUND CONTROL, NATIONAL TAXIWAY 4/4 8 17 \" N45563 JVX BQM 7 SLOW FLIGHT, FULL STALLS, STALLS FROM CLIMBS TO CROSSWIND TAKE-OFF + LANDINGS, OX CROSSWING 5/5 12 17 \" N778MG JVX JVX 8 HEALTHY LOW PACE (WINGS LEVEL) RTO C/9 8 17 \" \" \" \" CHECKRIDER FLIGHT PLAN/DECISION DELIBERATE DSP (RE-KINETIC), DISCRETE OPER 1/1 14 18 \" \" JVX (LGT) IMS 19 V, VOICE COMMUNICATION, VOR PASSING, VOR RADIALS LAND OFF BY DESCENT, CROSSWIND LANDING RTO, STEEP TURNS, ALL STALLS, RECOGNIZE DESCENT 1/1 4 18 \" \" IMS JVX 19 NO EMERGENCY LANDINGS, TIS, STALLS, RECOGNIZE, NOT 28 G11598 SIMULATOR IRW IRW GET UPSET (WHILE) DIVORCE HALF8 FAILURE, SIMULATOR CO, DEMONSTRATE HOLDING 29 \" \" \" HUB HOU VOICE HOAX, NOT THEN ARRIVE ORO ARRIVAL, VOICE NORMAL, VOR CRASH DIVERT 2/1 30 \" \" CYS COS 2/1 I certify that the statements made by me on this form are true. Pilot's Signature David Roberts 57 Page Total Amount Forward Total to Date 43/43 232 6094 72506 6132 72738",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date 10/18 TUE Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "5 G11593 N908JC PBI OXC 1126 JG 1/1 2 S ...",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David Roberts",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Roberts",
+      "Jonathan",
+      "Dan",
+      "Richard",
+      "MCA Richard"
+    ],
+    "organizations": [],
+    "locations": [
+      "PBI",
+      "OXC",
+      "TEB",
+      "JVX",
+      "JVY",
+      "BQM",
+      "IMS",
+      "IRW",
+      "HUB",
+      "HOU",
+      "CYS",
+      "COS"
+    ],
+    "dates": [
+      "10/18",
+      "5",
+      "10",
+      "12",
+      "13",
+      "16",
+      "17",
+      "18",
+      "28",
+      "29",
+      "30"
+    ],
+    "reference_numbers": [
+      "G11593",
+      "N908JC",
+      "G11",
+      "C150",
+      "N45563",
+      "N778MC",
+      "G11598",
+      "DOJ-OGR-00015972"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The log includes details such as date, aircraft make and model, identification mark, points of departure and arrival, miles flown, flight number, remarks, procedures, maneuvers, endorsements, number of landings, and aircraft category. The pilot's signature is present at the bottom of the page."
+}

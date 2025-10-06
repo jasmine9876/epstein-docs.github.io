@@ -1,0 +1,47 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "image",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "Important Message Book 200 sets GOVERNMENT EXHIBIT 240 S2 20 Cr. 330 (AJN) DOJ-OGR-00015581",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Important Message Book 200 sets",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 240",
+      "position": "bottom right"
+    },
+    {
+      "type": "printed",
+      "content": "S2 20 Cr. 330 (AJN)",
+      "position": "bottom right"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015581",
+      "position": "bottom right"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "GOVERNMENT"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "240",
+      "S2 20 Cr. 330 (AJN)",
+      "DOJ-OGR-00015581"
+    ]
+  },
+  "additional_notes": "The image appears to be a photograph of a cluttered storage area or office. The text is mostly found on a notebook labeled 'Important Message Book 200 sets' and a yellow stamp in the bottom-right corner."
+}

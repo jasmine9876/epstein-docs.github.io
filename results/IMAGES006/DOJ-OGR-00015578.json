@@ -1,0 +1,36 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "photograph",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "GOVERNMENT EXHIBIT 237 S2 20 Cr. 330 (AJN) DOJ-OGR-00015578",
+  "text_blocks": [
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 237 S2 20 Cr. 330 (AJN)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015578",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Department of Justice"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00015578",
+      "S2 20 Cr. 330 (AJN)"
+    ]
+  },
+  "additional_notes": "The image is a photograph of a dimly lit room with furniture and artwork. The text is found in the bottom right corner of the image, indicating it is likely a government exhibit in a court case."
+}

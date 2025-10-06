@@ -1,0 +1,82 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00015486",
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "IMPORTANT MESSAGE FOR JE DATE 18/02/03 TIME A.M. P.M. M DOJ Redaction OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 1184 IMPORTANT MESSAGE FOR JE DATE 18/02/02 TIME 14:55 A.M. P.M. M DOJ Redaction OF PHONE 962 AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED Michael 1184 IMPORTANT MESSAGE FOR JE DATE 18/02/03 TIME 6.45 A.M. P.M. M DOJ Redaction OF 962 PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE It's Really imp[ortant] she needs you to call her back SIGNED Deborah 1184 IMPORTANT MESSAGE FOR DATE TIME A.M. P.M. M OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED GOVERNMENT EXHIBIT 2-R-R S2 20 Cr. 330 (AJN) 1184 DOJ-OGR-00015486",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "JE",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "FOR DATE TIME A.M. P.M. M OF PHONE AREA CODE NUMBER EXTENSION",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "18/02/03",
+      "position": "top"
+    },
+    {
+      "type": "stamp",
+      "content": "DOJ Redaction",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Michael",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "Deborah",
+      "position": "bottom"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 2-R-R S2 20 Cr. 330 (AJN)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "1184",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015486",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JE",
+      "Michael",
+      "Deborah"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "18/02/03",
+      "18/02/02"
+    ],
+    "reference_numbers": [
+      "962",
+      "DOJ-OGR-00015486",
+      "S2 20 Cr. 330 (AJN)"
+    ]
+  },
+  "additional_notes": "The document contains four 'Important Message' forms with some handwritten notes and stamps. The forms are dated 18/02/03 and 18/02/02. Some information is redacted with 'DOJ Redaction' stamps."
+}

@@ -1,0 +1,118 @@
+{
+  "document_metadata": {
+    "page_number": "5",
+    "document_number": "7-152-41155",
+    "date": "Nov 21, 2002",
+    "document_type": "Invoice",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Invoice Number: 7-152-41155 Invoice Date: Nov 21, 2002 Account Number: 1144-2081-6 Air Waybill: 831051480239 Page: 5 of 5 DOCUMENT JUSTIFICATIF DE LA REALISATION DES DROITS DE DOUANE ET DE LA TVA DECLARANT/REPRESENTANT FEDERAL EXPRESS 125, AVENUE LOUIS ROCHE 92238 GENNEVILLIERS CEDEX TEL: 01 40 85 39 00 N° AWB ORG/DEST DATE D'ENTREE DOSSIER DOUANE DECLARATION DATE DE DEDOUANEMENT 831051480239 SAF/TNF 14/11/2002 318FX5040 052519 15/11/2002 JEFFREY E EPSTE N MRS SHERMAN 457 MADISON AVE NEW YORK 100226843 22 AVE FACH PARIS 75116 SIRET: REFERENCE FACTURE EXPEDITEUR MONNAIE DE FACTURATION VALEUR FACTURE (FFR) VALEUR FRET (FFR) FRET % TAUX DE CHANGE USD 129 51151 071 0.977500 POIDS ARTICLES COLIS LIVRAISON PROVENANCE 9.1 1 1 EXW US ARTICLE N° DESIGNATION COMMERCIALE NOMENCLATURE PREFERENCE 001 TRAUMA KIT 300650 VALEUR DECLAREE VALEUR FRET ORIGINE USUP POIDS PIECES JOINTES 512.00 129.00 US 0 9 DESCRIPTION DES DROITS ET TAXES TAUX MONTANT DROITS ANTIDUMPING SUR 000000604 0.00 0 00 DROITS DE DOUANE SUR 000000641 0.00 0 00 TAXES ADDITIONELLES SUR 000000641 19 60 126.00 TVA SUR LIQUIDATION TOTALE 126.00 ARTICLE N° DESIGNATION COMMERCIALE NOMENCLATURE PREFERENCE VALEUR DECLAREE VALEUR FRET ORIGINE USUP POIDS PIECES JOINTES DESCRIPTION DES DROITS ET TAXES TAUX MONTANT DROITS ANTIDUMPING SUR DROITS DE DOUANE SUR TAXES ADDITIONELLES SUR TVA SUR LIQUIDATION TOTALE Please note: Claims for refund of the Duties and Taxes from French customs, must be submitted by the importer, by mail. Due immediately: Charges on this invoice include Duties and Taxes which Federal Express has paid on French Customs on your behalf. Errors and omissions must be reported in writing immediately upon receipt of invoice. CONFIDENTIAL SDNY_GM_00342907 63 DOJ-OGR-00015372",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Invoice Number: 7-152-41155 Invoice Date: Nov 21, 2002 Account Number: 1144-2081-6 Air Waybill: 831051480239 Page: 5 of 5",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DOCUMENT JUSTIFICATIF DE LA REALISATION DES DROITS DE DOUANE ET DE LA TVA",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "DECLARANT/REPRESENTANT FEDERAL EXPRESS 125, AVENUE LOUIS ROCHE 92238 GENNEVILLIERS CEDEX TEL: 01 40 85 39 00",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "N° AWB ORG/DEST DATE D'ENTREE DOSSIER DOUANE DECLARATION DATE DE DEDOUANEMENT 831051480239 SAF/TNF 14/11/2002 318FX5040 052519 15/11/2002",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "JEFFREY E EPSTE N MRS SHERMAN 457 MADISON AVE NEW YORK 100226843 22 AVE FACH PARIS 75116 SIRET:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "REFERENCE FACTURE EXPEDITEUR MONNAIE DE FACTURATION VALEUR FACTURE (FFR) VALEUR FRET (FFR) FRET % TAUX DE CHANGE USD 129 51151 071 0.977500",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "POIDS ARTICLES COLIS LIVRAISON PROVENANCE 9.1 1 1 EXW US",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "ARTICLE N° DESIGNATION COMMERCIALE NOMENCLATURE PREFERENCE 001 TRAUMA KIT 300650",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "VALEUR DECLAREE VALEUR FRET ORIGINE USUP POIDS PIECES JOINTES 512.00 129.00 US 0 9",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DESCRIPTION DES DROITS ET TAXES TAUX MONTANT DROITS ANTIDUMPING SUR 000000604 0.00 0 00 DROITS DE DOUANE SUR 000000641 0.00 0 00 TAXES ADDITIONELLES SUR 000000641 19 60 126.00 TVA SUR LIQUIDATION TOTALE 126.00",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Please note: Claims for refund of the Duties and Taxes from French customs, must be submitted by the importer, by mail.",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Due immediately: Charges on this invoice include Duties and Taxes which Federal Express has paid on French Customs on your behalf.",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Errors and omissions must be reported in writing immediately upon receipt of invoice.",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY E EPSTE N",
+      "MRS SHERMAN"
+    ],
+    "organizations": [
+      "FedEx",
+      "Federal Express",
+      "French Customs"
+    ],
+    "locations": [
+      "GENNEVILLIERS CEDEX",
+      "NEW YORK",
+      "PARIS"
+    ],
+    "dates": [
+      "Nov 21, 2002",
+      "14/11/2002",
+      "15/11/2002"
+    ],
+    "reference_numbers": [
+      "7-152-41155",
+      "1144-2081-6",
+      "831051480239",
+      "318FX5040",
+      "052519",
+      "100226843",
+      "300650",
+      "000000604",
+      "000000641",
+      "SDNY_GM_00342907",
+      "DOJ-OGR-00015372"
+    ]
+  },
+  "additional_notes": "The document is an invoice from FedEx with detailed information about a shipment, including customs duties and taxes. The document is marked as 'CONFIDENTIAL'."
+}

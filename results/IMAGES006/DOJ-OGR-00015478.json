@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00015478",
+    "date": "03/02/02",
+    "document_type": "Important Message",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "IMPORTANT MESSAGE FOR JE DATE TIME 9/20 A.M. M JEFF SCHWST2 OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE HE IS AT FLOUR SIGNED 1184 IMPORTANT MESSAGE FOR DATE TIME A.M. P.M. M OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 1184 IMPORTANT MESSAGE FOR SE DATE 03/02/02 TIME 8:19 A.M. P.M. M DOJ Redaction OF PHONE 212 779 AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 1184 IMPORTANT MESSAGE FOR DOJ REDACTION DATE TIME 530 A.M. P.M. M OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE GOVERNMENT EXHIBIT 2-J-R S2 20 Cr. 330 (AJN) 1184 DOJ-OGR-00015478",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "JE JEFF SCHWST2 HE IS AT FLOUR",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FOR DATE TIME A.M. P.M. M OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "SE 03/02/02 8:19 212 779",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "DOJ Redaction",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 2-J-R S2 20 Cr. 330 (AJN)",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFF SCHWST2"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "03/02/02"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00015478",
+      "S2 20 Cr. 330 (AJN)"
+    ]
+  },
+  "additional_notes": "The document contains redactions and appears to be a government exhibit. The handwriting is mostly legible, but some parts are unclear."
+}

@@ -1,0 +1,72 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "S2 20 Cr. 330 (AJN)",
+    "date": null,
+    "document_type": "Important Message",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR Jeffrey DATE DOJ REDACTION TIME 3:40 A.M. P.M. OF PHONE/MOBILE 561 202 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE She has a female friend for you Please call back as soon as possible SIGNED IMPORTANT MESSAGE FOR Jeffrey DATE 1/24/85 TIME 1:10 A.M. OF PHONE/MOBILE 9336374 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE She called SIGNED IMPORTANT MESSAGE FOR Jeffrey DATE 1/24/85 TIME 6:15 A.M. P.M. OF PHONE/MOBILE 305580 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Just that she called SIGNED GOVERNMENT EXHIBIT 3-V-R S2 20 Cr. 330 (AJN) IMPORTANT MESSAGE FOR Jeffrey DATE 1/24/85 TIME 6:05 A.M. P.M. OF Cecilia PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE DOJ REDACTION Cecilia will put it on sheet as well SIGNED DOJ-OGR-00015524",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffrey",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "FOR DATE TIME OF PHONE/MOBILE",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "561 202",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "She has a female friend for you Please call back as soon as possible",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "MESSAGE SIGNED",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 3-V-R S2 20 Cr. 330 (AJN)",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey",
+      "Cecilia"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "1/24/85"
+    ],
+    "reference_numbers": [
+      "S2 20 Cr. 330 (AJN)",
+      "561 202",
+      "9336374",
+      "305580",
+      "DOJ-OGR-00015524"
+    ]
+  },
+  "additional_notes": "The document contains multiple 'Important Message' forms with handwritten notes and redactions. The forms are related to phone calls and messages for Jeffrey. The document is stamped as 'GOVERNMENT EXHIBIT 3-V-R' and has a reference number 'S2 20 Cr. 330 (AJN)'."
+}

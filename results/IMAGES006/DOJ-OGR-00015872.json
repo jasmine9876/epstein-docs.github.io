@@ -1,0 +1,80 @@
+{
+  "document_metadata": {
+    "page_number": "75",
+    "document_number": "DOJ-OGR-00015872",
+    "date": null,
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... Jul 30 G-11598 N908JC PBI TIST 1356 1/D 28 30 \" \" \" TIST PBI 1357 1 25 \" \" \" PBI TCB 1358 1 25 5 \" \" \" TCB LFPB 1359 /1 69 6 \" \" \" LFPB LIEO 1360 1 26 9 \" \" \" LIEO GMMX 1361 1 29 11 \" \" \" GMMX GMFF 1362 1/1 9 8 \" \" \" GMFF LCBB 1363 1 19 11 \" \" \" LCBB EGGW 1364 1 17 12 \" \" \" EGGW EGAA 1365 1 16 12 \" \" \" EGAA BGR 1366 1 64 12 \" \" \" BGR TCB 1367 1 11 14 \" \" \" TCB PBI 1368 1/1 25 19 \" \" \" PBI TCB 1369 1 25 19 \" \" \" TCB SAF 1370 1 41 Aug 29 \" SIMULATOR JFK JFK 39 3 \" \" \" JFK-TCB-SWF 40 4 \" \" \" JFK-SWF-JFK 41 21 \" \" \" N908JC PBI SAF 1378 1/1 35 I certify that the statements made by me on this form are true. Pilot's Signature: David Reddage Page Total 127 512 Amount Forward 6306 5398 7818.7 33 112.6 Total to Date 6318 6005 78759 33 112.6",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jul 30 G-11598 N908JC PBI TIST 1356 1/D 28 ...",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature: David Reddage",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Reddage"
+    ],
+    "organizations": [],
+    "locations": [
+      "PBI",
+      "TIST",
+      "TCB",
+      "LFPB",
+      "LIEO",
+      "GMMX",
+      "GMFF",
+      "LCBB",
+      "EGGW",
+      "EGAA",
+      "BGR",
+      "JFK",
+      "SAF"
+    ],
+    "dates": [
+      "Jul 30",
+      "Jul 4",
+      "Jul 5",
+      "Jul 6",
+      "Jul 9",
+      "Jul 11",
+      "Jul 8",
+      "Jul 11",
+      "Jul 12",
+      "Jul 12",
+      "Jul 12",
+      "Jul 14",
+      "Jul 19",
+      "Jul 19",
+      "Aug 29",
+      "Aug 3",
+      "Aug 4",
+      "Aug 21"
+    ],
+    "reference_numbers": [
+      "N908JC",
+      "G-11598",
+      "DOJ-OGR-00015872"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries and a signature at the bottom. The log includes details of flights taken, including dates, aircraft identification, departure and arrival points, miles flown, and number of landings."
+}

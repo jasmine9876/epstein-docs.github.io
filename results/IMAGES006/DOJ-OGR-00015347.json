@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "4-447-80862",
+    "date": "Nov 18, 2002",
+    "document_type": "Invoice",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Invoice Number: 4-447-80862 Invoice Date: Nov 18, 2002 Account Number: 1144-2081-6 Page: 3 of 14 FedEx Express Shipment Summary by Payment Type Original Shipper Number of Shipments 25 Transportation Charges 674.65 Base Discount -75.81 Special Handling Charges 66.42 TOTAL USD $ 665.26 Number of Shipments 25 Total Charges USD $ 665.26 Recipient Number of Shipments 1 Transportation Charges 26.75 Base Discount -2.68 Special Handling Charges 10.96 TOTAL USD $ 35.03 Number of Shipments 1 Total Charges USD $ 35.03 TOTAL SHIPMENTS 26 TOTAL CHARGES USD $ 700.29 CONFIDENTIAL SDNY_GM_00340700 38 DOJ-OGR-00015347",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Number: 4-447-80862 Invoice Date: Nov 18, 2002 Account Number: 1144-2081-6 Page: 3 of 14",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Summary by Payment Type",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Shipper Number of Shipments 25 Transportation Charges 674.65 Base Discount -75.81 Special Handling Charges 66.42 TOTAL USD $ 665.26 Number of Shipments 25 Total Charges USD $ 665.26",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Recipient Number of Shipments 1 Transportation Charges 26.75 Base Discount -2.68 Special Handling Charges 10.96 TOTAL USD $ 35.03 Number of Shipments 1 Total Charges USD $ 35.03",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TOTAL SHIPMENTS 26 TOTAL CHARGES USD $ 700.29",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "SDNY_GM_00340700 38 DOJ-OGR-00015347",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "FedEx"
+    ],
+    "locations": [],
+    "dates": [
+      "Nov 18, 2002"
+    ],
+    "reference_numbers": [
+      "4-447-80862",
+      "1144-2081-6",
+      "SDNY_GM_00340700",
+      "DOJ-OGR-00015347"
+    ]
+  },
+  "additional_notes": "The document is a FedEx invoice with a 'CONFIDENTIAL' watermark. It contains shipment details and charges for both the shipper and recipient."
+}

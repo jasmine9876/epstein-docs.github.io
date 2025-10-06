@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "S2 20 Cr. 330 (AJN)",
+    "date": "2/22/2001",
+    "document_type": "Registry SOFTWARE Information",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "SOFTWARE[366023].dat.[AD].html Registry SOFTWARE Information Install Date 2/22/2001 20:46:35 +0000 Product Name Microsoft Windows 2000 Registered Organization gmax Registered Owner gmax CSDVersion Service Pack 1 Digital Product ID A4 00 00 00 03 00 00 00 35 31 38 37 33 2D 4F 45 4D 2D 30 30 34 35 30 32 33 2D 30 39 31 33 36 00 13 00 00 00 41 32 2D 30 30 30 30 31 00 00 00 00 00 00 00 E0 4A AB B5 09 36 00 29 98 BA 60 ED 4E F5 00 00 00 00 00 00 15 26 95 3A 0A B7 05 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 37 37 34 32 33 00 00 00 00 00 00 8A 01 00 00 0E 02 D1 07 00 01 00 02 18 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 AC 85 CC 15 GOVERNMENT EXHIBIT 419 S2 20 Cr. 330 (AJN) DOJ-OGR-00015674",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "SOFTWARE[366023].dat.[AD].html",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Registry SOFTWARE Information",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Install Date 2/22/2001 20:46:35 +0000 Product Name Microsoft Windows 2000 Registered Organization gmax Registered Owner gmax CSDVersion Service Pack 1 Digital Product ID A4 00 00 00 03 00 00 00 35 31 38 37 33 2D 4F 45 4D 2D 30 30 34 35 30 32 33 2D 30 39 31 33 36 00 13 00 00 00 41 32 2D 30 30 30 30 31 00 00 00 00 00 00 00 E0 4A AB B5 09 36 00 29 98 BA 60 ED 4E F5 00 00 00 00 00 00 15 26 95 3A 0A B7 05 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 37 37 34 32 33 00 00 00 00 00 00 8A 01 00 00 0E 02 D1 07 00 01 00 02 18 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 AC 85 CC 15",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 419 S2 20 Cr. 330 (AJN)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015674",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "gmax",
+      "Microsoft"
+    ],
+    "locations": [],
+    "dates": [
+      "2/22/2001"
+    ],
+    "reference_numbers": [
+      "S2 20 Cr. 330 (AJN)",
+      "DOJ-OGR-00015674"
+    ]
+  },
+  "additional_notes": "The document appears to be a registry software information page with a government exhibit stamp."
+}

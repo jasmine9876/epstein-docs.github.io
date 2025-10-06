@@ -1,0 +1,43 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "806",
+    "date": "08/06/25",
+    "document_type": "Victim Letter",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 806 Filed 08/06/25 Page 2 of 3 August 6, 2025 Victim Letter DOJ-OGR-00015128",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 806 Filed 08/06/25 Page 2 of 3",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "August 6, 2025 Victim Letter",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015128",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "August 6, 2025",
+      "08/06/25"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "806",
+      "DOJ-OGR-00015128"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing related to a criminal case. The page is mostly blank except for the header, title, and footer."
+}

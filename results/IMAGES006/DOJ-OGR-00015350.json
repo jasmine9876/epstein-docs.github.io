@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "6 of 14",
+    "document_number": "4-447-80862",
+    "date": "Nov 18, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\n\nPicked up: Nov 07, 2002    Payor: Shipper    Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 8\n\nInternetShip    Tracking D  837657308195    Service Type    FedEx Priority Overnight    Package Type    FedEx Pak    Zone    8    Packages    1    Weight    1.0 lbs, 0.5 kgs    Delivered    Nov 08, 2002 09:18    Svc Area    A2    Signed by    R.DANISE    FedEx Use    31361650/01618/_\n\nSender    G AMXWELL    JEFFREY E EPSTEIN    457 MADISON AVE    NEW YORK NY 10022-6843 US    Recipient    REAN FERREN    APPL ED MONDE INC\n\nTransportation Charge    25.75    Discount    -2.58    Fuel Surcharge    0.93    Total Transportation Charges    USD $    24.10\n\nDropped off: Nov 08, 2002    Payor: Shipper    Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 3\n1st attempt Nov 11, 2002 at 10 07 AM.\nIncorrect recipient address.\nFedEx has audited this shipment for correct packages, weight, and service. Any changes made are reflected in the invoice amount.\n\nInternetShip    Tracking D    790627892996    Service Type    FedEx Priority Overnight    Package Type    FedEx Envelope    Zone    3    Packages    1    Weight    1.0 lbs, 0.5 kgs    Delivered    Nov 13, 2002 09:44    Svc Area    A1    Signed by    C.CHEVALIER    FedEx Use    523769363/00197/03\n\nSender    CECILIA STEEN    JEFFREY E EPSTEIN    457 MADISON AVE    NEW YORK NY 10022-6843 US    Recipient    SENATOR GEORGE MITCHELL    VERNER, LIIPFERT, BERNHARD, MC\n\nTransportation Charge    14.50    Discount    -2.32    Address Correction    10.00    Fuel Surcharge    0.49    Total Transportation Charges    USD $    22.67\n\nDropped off: Nov 08, 2002    Payor: Shipper    Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 3\n\nInternetShip    Tracking D    792771669636    Service Type    FedEx Priority Overnight    Package Type    FedEx Envelope    Zone    3    Packages    1    Weight    1.0 lbs, 0.5 kgs    Delivered    Nov 11, 2002 09 50    Svc Area    A1    Signed by    C.MATA    FedEx Use    523846842/00197/_\n\nSender    CECILIA STEEN    JEFFREY E EPSTEIN    457 MADISON AVE    NEW YORK NY 10022-6843 US    Recipient    GENERAL WESLEY CLARK\n\nTransportation Charge    14.50    Discount    -2.32    Fuel Surcharge    0.49    Total Transportation Charges    USD $    12.67\n\nCONFIDENTIAL\n\nSDNY_GM_00340703 41\nDOJ-OGR-00015350",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "G AMXWELL",
+      "JEFFREY E EPSTEIN",
+      "REAN FERREN",
+      "CECILIA STEEN",
+      "SENATOR GEORGE MITCHELL",
+      "GENERAL WESLEY CLARK",
+      "R.DANISE",
+      "C.CHEVALIER",
+      "C.MATA"
+    ],
+    "organizations": [
+      "FedEx",
+      "APPL ED MONDE INC",
+      "VERNER, LIIPFERT, BERNHARD, MC"
+    ],
+    "locations": [
+      "NEW YORK NY 10022-6843 US",
+      "457 MADISON AVE"
+    ],
+    "dates": [
+      "Nov 07, 2002",
+      "Nov 08, 2002",
+      "Nov 11, 2002",
+      "Nov 13, 2002",
+      "Nov 18, 2002"
+    ],
+    "reference_numbers": [
+      "4-447-80862",
+      "1144-2081-6",
+      "837657308195",
+      "790627892996",
+      "792771669636",
+      "31361650/01618/",
+      "523769363/00197/03",
+      "523846842/00197/",
+      "SDNY_GM_00340703",
+      "DOJ-OGR-00015350"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx shipment detail invoice with multiple shipment records. The document is marked 'CONFIDENTIAL' at the bottom."
+}

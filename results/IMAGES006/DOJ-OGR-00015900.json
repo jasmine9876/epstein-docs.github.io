@@ -1,0 +1,76 @@
+{
+  "document_metadata": {
+    "page_number": "103",
+    "document_number": "DOJ-OGR-00015900",
+    "date": "1993",
+    "document_type": "Pilot's Logbook Page",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date 19 93 Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... AIRPLANE GLIDER HELICOPTER 24 AUG 4 B-727-314 N908JE JFK PBI 215 2 5 2 4 3 5 4 B747-407 N491GM LSJ TIST 216 0/0 10 B-727-314 N908JE TIST JFK 217 3 0 8 2 5 4 10 \" JFK PBI 218 2 5 4 13 G-1159B N909JE MIV TCB 1649 3 8 13 \" TCB SAF 1650 13 \" SAF ASE 1651 8 20 \" ASE TCB 1652 3 8 20 \" TCB PBI 1653 2 3 9 31 B-727-314 N908JE PBI JAX 219 31 G-1159B N909JE PBI TCB 1654 2 5 31 \" TCB TCB 1655 3 31 \" SIMULATOR LGB LGB 4 0 17 \" \" LGB LGB 4 5 18 \" \" LGB LGB 4/4 4 0 22 \" N909JE PBI TIST 1662 1/1 2 6 26 B-727-200 SIMULATOR MIA MIA 2 0 I certify that the statements made by me on this form are true. Pilot's Signature David Rodgers Page Total 12 8 43 1 8 Amount Forward 6705 6347 9152 4 33 118 9 Total to Date 6711 6355 9195 5 33 119 7",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date 19 93 Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... AIRPLANE GLIDER HELICOPTER",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "24 AUG 4 B-727-314 N908JE JFK PBI 215 2 5 2 4 3 5 4 B747-407 N491GM LSJ TIST 216 0/0 10 B-727-314 N908JE TIST JFK 217 3 0 8 2 5 4 10 \" JFK PBI 218 2 5 4 13 G-1159B N909JE MIV TCB 1649 3 8 13 \" TCB SAF 1650 13 \" SAF ASE 1651 8 20 \" ASE TCB 1652 3 8 20 \" TCB PBI 1653 2 3 9 31 B-727-314 N908JE PBI JAX 219 31 G-1159B N909JE PBI TCB 1654 2 5 31 \" TCB TCB 1655 3 31 \" SIMULATOR LGB LGB 4 0 17 \" \" LGB LGB 4 5 18 \" \" LGB LGB 4/4 4 0 22 \" N909JE PBI TIST 1662 1/1 2 6 26 B-727-200 SIMULATOR MIA MIA 2 0",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David Rodgers",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total 12 8 43 1 8 Amount Forward 6705 6347 9152 4 33 118 9 Total to Date 6711 6355 9195 5 33 119 7",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rodgers"
+    ],
+    "organizations": [],
+    "locations": [
+      "JFK",
+      "PBI",
+      "LSJ",
+      "TIST",
+      "MIV",
+      "TCB",
+      "SAF",
+      "ASE",
+      "JAX",
+      "LGB",
+      "MIA"
+    ],
+    "dates": [
+      "1993",
+      "24 AUG",
+      "4",
+      "10",
+      "13",
+      "20",
+      "22",
+      "31",
+      "17",
+      "18",
+      "26"
+    ],
+    "reference_numbers": [
+      "N908JE",
+      "N491GM",
+      "N909JE",
+      "B-727-314",
+      "B747-407",
+      "G-1159B",
+      "B-727-200",
+      "DOJ-OGR-00015900"
+    ]
+  },
+  "additional_notes": "The document is a photocopy of a pilot's logbook page with handwritten entries. The page is dated 1993 and contains flight records for various aircraft. The pilot's signature is present at the bottom of the page."
+}

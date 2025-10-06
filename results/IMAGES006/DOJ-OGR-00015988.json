@@ -1,0 +1,75 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00015988",
+    "date": null,
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category Airplane Glider Helicopter 22 206L3 N724PB PMP-FXE-PMP IFR/L7,8,+10 Dolly Landing 1 23 206L3 N724PB PMP-FXE-PMP IFR/L6,9,+10 1 24 206L3 N724PB PMP-FXE-PMP IFR/L7+9 1 25 206L3 N724PB PMP-LNA-SUB-LNP-PMP 2 29 11 11 FMY URB IFR/L6,7,9,+10 1 29 11 11 VRB FXE-PMP 30603 1 2 11 11 PMP-FXE-PMP PREP IFR/L1,3,4,5,9,+10 1 2 11 11 PMP-FXE-LNA-PMP PREP IFR/L2,6,7,9,+10 1 3 11 11 PMP PMP PREP IFR/L4,6-8,16+17 6 3 11 11 PMP LNA PREP IFR/L6,8,+12(Auto IFR) 10 11 PMP PMP IFR REVIEW/L9+10 12 11 11 PMP-LNA-EXCELSIOR PMP LESS SCAT FLYING 24 G-1159B N909JC PBI PBI 1337.5 FLIGHT 5 3 11 11 1333 2 NJT TAKE OFF + LANDINGS VOR HOLDING 7 4 11 11 PBI TCB 1334 POSITION 1 26 4 11 11 TCB PBE 1335 IF,GM,GS,AP, Joel Position Cow 24 7 11 11 PBI TIST 1336 IF,GM,GS,AP, some Luc BRUNO Landing 1/0 22 I certify that the statements made by me on this form are true. David Ridge Pilot's Signature FLIGHT TIMES, 3 REPORTED TO INSURANCE ADMINISTRATOR. Page Total 3/1 34 164 Amount Forward 6291 7760 4 33 962 Total to Date 6292 7863 3 33 1126",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category Airplane Glider Helicopter",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "22 206L3 N724PB PMP-FXE-PMP IFR/L7,8,+10 Dolly Landing 1 ...",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. David Ridge Pilot's Signature",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "FLIGHT TIMES, 3 REPORTED TO INSURANCE ADMINISTRATOR.",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Ridge"
+    ],
+    "organizations": [
+      "Insurance Administrator"
+    ],
+    "locations": [
+      "PMP",
+      "FXE",
+      "LNA",
+      "PBI",
+      "TCB",
+      "TIST",
+      "FMY",
+      "URB",
+      "VRB"
+    ],
+    "dates": [
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "29",
+      "2",
+      "3",
+      "10",
+      "14",
+      "24",
+      "3",
+      "4",
+      "7"
+    ],
+    "reference_numbers": [
+      "N724PB",
+      "N909JC",
+      "G-1159B",
+      "DOJ-OGR-00015988"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. It includes details about the aircraft, flight routes, and remarks. The log is signed by the pilot, David Ridge."
+}

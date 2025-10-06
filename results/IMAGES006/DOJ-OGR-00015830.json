@@ -1,0 +1,94 @@
+{
+  "document_metadata": {
+    "page_number": "33",
+    "document_number": "DOJ-OGR-00015830",
+    "date": "1945",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date 1945 Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... JAN 23 G11598 N908JC TEB CMH 643 1/1 12 23 \" CMH TEB 644 14 28 \" TEB DCA 645 1/1 7 28 \" DCA IAD 646 2 28 \" IAD CMH 647 7 28 \" CMH PBI 648 20 1-30-25 \" SIMULATED 60 24 FEB 6 \" N908JC PBI TEB 651 1/1 7 9 \" TEB BOS 652 10 9 \" BOS TEB 653 23 9 \" TEB PBI 654 1/1 23 12 \" PBI TEB 655 1/1 23 12 \" TEB BOS 656 3 12 \" BOS SAV 657 23 MAR 1 \" SAV TEB 658 1/1 15 1 \" TEB SAF 659 41 2 \" SAF PBI 660 29 6 \" PBI TEB 661 1/1 23 7 \" TEB SAV 662 1/1 26 I certify that the statements made by me on this form are true. David Rodger Pilot's Signature Page Total 316 374 Amount Forward 5541 63413 Total to Date 7762 5547 63787",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date 1945 Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "JAN 23 G11598 N908JC TEB CMH 643 1/1 12 23 \" CMH TEB 644 14 28 \" TEB DCA 645 1/1 7 28 \" DCA IAD 646 2 28 \" IAD CMH 647 7 28 \" CMH PBI 648 20 1-30-25 \" SIMULATED 60 24 FEB 6 \" N908JC PBI TEB 651 1/1 7 9 \" TEB BOS 652 10 9 \" BOS TEB 653 23 9 \" TEB PBI 654 1/1 23 12 \" PBI TEB 655 1/1 23 12 \" TEB BOS 656 3 12 \" BOS SAV 657 23 MAR 1 \" SAV TEB 658 1/1 15 1 \" TEB SAF 659 41 2 \" SAF PBI 660 29 6 \" PBI TEB 661 1/1 23 7 \" TEB SAV 662 1/1 26",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. David Rodger",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Pilot's Signature",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "316 374 5541 63413 7762 5547 63787",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rodger"
+    ],
+    "organizations": [],
+    "locations": [
+      "TEB",
+      "CMH",
+      "DCA",
+      "IAD",
+      "PBI",
+      "BOS",
+      "SAV",
+      "SAF"
+    ],
+    "dates": [
+      "JAN 23 1945",
+      "JAN 28 1945",
+      "FEB 6 1945",
+      "FEB 9 1945",
+      "FEB 12 1945",
+      "MAR 1 1945",
+      "MAR 2 1945",
+      "MAR 6 1945",
+      "MAR 7 1945"
+    ],
+    "reference_numbers": [
+      "G11598",
+      "N908JC",
+      "643",
+      "644",
+      "645",
+      "646",
+      "647",
+      "648",
+      "651",
+      "652",
+      "653",
+      "654",
+      "655",
+      "656",
+      "657",
+      "658",
+      "659",
+      "660",
+      "661",
+      "662",
+      "DOJ-OGR-00015830"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log from 1945. It contains handwritten entries detailing flights made, including dates, aircraft information, departure and arrival points, miles flown, and number of landings. The log is signed by the pilot, David Rodger."
+}

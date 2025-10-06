@@ -1,0 +1,68 @@
+{
+  "document_metadata": {
+    "page_number": "46",
+    "document_number": "DOJ-OGR-00015843",
+    "date": null,
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date 19  Aircraft Make and Model  Aircraft Identification Mark  Points of Departure & Arrival  Miles Flown  Flight No.  Remarks, Procedures, Maneuvers, Endorsements  Number of Landings  Aircraft Category...  From  To  Day  Night  21  GIIB  N°lCJJC  PBI  TCB  937  2 2  24  \"  \"  TCB  TNM  939  1/1  3+  25  \"  \"  TNM  PBI  939  1/1  28  29  \"  \"  PBI  TCB  940  1/1  21  30  \"  \"  TCB  PBI  941  24  FEB  \"  \"  PBI  TCB  942  22  2  \"  \"  TCB  SJU  943  1 7  13  \"  \"  SAN  TCB  944  1/1  15  13  \"  \"  TCB  PBI  945  25  17  \"  \"  PBI  TCB  946  22  21  \"  \"  TCB  PBI  947  2 4  23  \"  \"  PBI  TCB  948  27  25  \"  \"  TCB  PBI  949  22  MAR 1  \"  \"  PBI  SJU  950  1/1  36  2  \"  \"  SJU  SJC  951  1/1  22  3  \"  \"  SJC  TCB  952  1/1  43  8  \"  \"  TCB  PBI  953  22  10  \"  \"  PBI  CMH  954  1/1  20  10  \"  \"  CMH  VNC  955  20  I certify that the statements made by me on this form are true.  Pilot's Signature David Rodriguez  Page Total  107 459  Amount Forward  5399 68413  Total to Date  5662 68572  46  DOJ-OGR-00015843",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date 19  Aircraft Make and Model  Aircraft Identification Mark  Points of Departure & Arrival  Miles Flown  Flight No.  Remarks, Procedures, Maneuvers, Endorsements  Number of Landings  Aircraft Category...  From  To  Day  Night",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "21  GIIB  N°lCJJC  PBI  TCB  937  2 2  24  \"  \"  TCB  TNM  939  1/1  3+  25  \"  \"  TNM  PBI  939  1/1  28  29  \"  \"  PBI  TCB  940  1/1  21  30  \"  \"  TCB  PBI  941  24  FEB  \"  \"  PBI  TCB  942  22  2  \"  \"  TCB  SJU  943  1 7  13  \"  \"  SAN  TCB  944  1/1  15  13  \"  \"  TCB  PBI  945  25  17  \"  \"  PBI  TCB  946  22  21  \"  \"  TCB  PBI  947  2 4  23  \"  \"  PBI  TCB  948  27  25  \"  \"  TCB  PBI  949  22  MAR 1  \"  \"  PBI  SJU  950  1/1  36  2  \"  \"  SJU  SJC  951  1/1  22  3  \"  \"  SJC  TCB  952  1/1  43  8  \"  \"  TCB  PBI  953  22  10  \"  \"  PBI  CMH  954  1/1  20  10  \"  \"  CMH  VNC  955  20",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "I certify that the statements made by me on this form are true.",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "Pilot's Signature David Rodriguez",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total  Amount Forward  Total to Date",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "107 459  5399 68413  5662 68572",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rodriguez"
+    ],
+    "organizations": [],
+    "locations": [
+      "PBI",
+      "TCB",
+      "TNM",
+      "SJU",
+      "SAN",
+      "SJC",
+      "CMH",
+      "VNC"
+    ],
+    "dates": [
+      "FEB",
+      "MAR"
+    ],
+    "reference_numbers": [
+      "N°lCJJC",
+      "DOJ-OGR-00015843"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The log includes details such as date, aircraft make and model, points of departure and arrival, miles flown, and number of landings. The document has a signature at the bottom."
+}

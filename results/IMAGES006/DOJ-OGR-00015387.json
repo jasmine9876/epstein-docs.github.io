@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": "5",
+    "document_number": "4-494-31285",
+    "date": "Nov 25, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\nDropped off: Nov 16, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDiscount applied is the greater of volume discount or dropoff discount. No additional discount applies.\nTracking D 826585033485 Sender DAVE RODGEES Recipient JEANNE BRENNAN\nService Type FedEx Intl Priority JEFFREY E EPSTEIN FINANCIAL TRUST CO\nPackage Type FedEx Envelope 457 MADISON AVE 6100 RED HOOK QUARTERS\nZone I NEW YORK NY 10022-6843 US STE B-3\nOrig./Dest. LNA/STT ST THOMAS 00802 VI\nPackages 1\nWeight 0.5 lbs, 0.2 kgs\nDelivered Nov 18, 2002 17 36 Transportation Charge 27 50\nSigned by M.STEWART Fuel Surcharge 1 07\nFedEx Use _/US01O/_ Discount -0 83\nTotal Transportation Charges USD $ 27.74\nPicked up: Nov 18, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nTracking D 791234332061 Sender CECILIA STEEN Recipient JEANNE BRENNAN\nService Type FedEx Intl Priority JEFFREY E. EPSTEIN FINANCIAL TRUST COMPANY\nPackage Type FedEx Pak 457 MADISON AVENUE 6100 RED HOOK QUARTER\nZone I 4TH FLOOR SUITE B-3\nOrig./Dest. JRB/STT NEW YORK NY 10022 US ST. THOMAS 00802 VI\nPackages 1\nWeight 2.0 lbs, 0.9 kgs\nDelivered Nov 19, 2002 16 57 Transportation Charge 38 00\nSigned by L.CASEY Fuel Surcharge 1 47\nFedEx Use _/US01O/_ Discount -1 14\nTotal Transportation Charges USD $ 38.33\nShipment Detail Subtotal USD $ 400.77\nPicked up: Nov 15, 2002 Payor: Recipient Reference: AARON\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nTracking D 791232953682 Sender PARTS Recipient AARON\nService Type FedEx Intl Economy CESCO LSJ, LLC.\nPackage Type FedEx Customer Packaging C/O AMERICAN YACHT HARBOR\nZone I 6100 RED HOOK QUARTERS #2\nOrig./Dest. CHL/STT ST. THOMAS VI 00802-453 VI\nPackages 1\nWeight 12.0 lbs, 5.5 kgs\nDelivered Nov 18, 2002 17 36 Transportation Charge 90 37\nSigned by Dec. Value USD 180.00 Fuel Surcharge 3 51\nFedEx Use _/US01O/_ Declared Value Charge 0.40\nDiscount -2 71\nTotal Transportation Charges USD $ 91.57\nCONFIDENTIAL",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Dropped off: Nov 16, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "DAVE RODGEES",
+      "JEFFREY E EPSTEIN",
+      "JEANNE BRENNAN",
+      "CECILIA STEEN",
+      "M.STEWART",
+      "L.CASEY",
+      "AARON"
+    ],
+    "organizations": [
+      "FedEx",
+      "FINANCIAL TRUST CO",
+      "PARTS",
+      "CESCO",
+      "LSJ, LLC."
+    ],
+    "locations": [
+      "NEW YORK",
+      "ST THOMAS",
+      "ST. THOMAS",
+      "NEW YORK NY 10022-6843 US",
+      "NEW YORK NY 10022 US",
+      "6100 RED HOOK QUARTERS",
+      "6100 RED HOOK QUARTER",
+      "6100 RED HOOK QUARTERS #2",
+      "AMERICAN YACHT HARBOR"
+    ],
+    "dates": [
+      "Nov 16, 2002",
+      "Nov 18, 2002",
+      "Nov 19, 2002",
+      "Nov 25, 2002",
+      "Nov 15, 2002"
+    ],
+    "reference_numbers": [
+      "826585033485",
+      "4-494-31285",
+      "1144-2081-6",
+      "791234332061",
+      "791232953682",
+      "SDNY_GM_00340747",
+      "DOJ-OGR-00015387"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx shipment detail report, containing information about three separate shipments. The document is marked 'CONFIDENTIAL' at the bottom."
+}

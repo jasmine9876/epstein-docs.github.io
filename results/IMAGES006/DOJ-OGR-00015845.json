@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "48",
+    "document_number": "DOJ-OGR-00015845",
+    "date": "1997 May - Jun",
+    "document_type": "Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... 1997 May 5 G1159B N908JE EGGW LSGG 979 1/1 13 5 \" \" LSGG LFPB 976 1/1 7 6 \" \" LFPB CYJT 977 1/1 56 6 \" \" CYJT TEB 979 1/1 22 9 \" \" TEB SAF 979 1/1 39 12 \" \" SAF VNY 980 1/1 15 14 \" \" VNY SAF 981 1/1 15 15 \" \" SAF DFW 982 1/1 12 15 \" \" DFW PBI 983 1/1 70 23 \" \" PBI JFK 994 1/1 22 24 \" \" JFK PBI 989 1/1 21 Jun 1 \" \" PBI TEB 980 1/1 21 5 \" \" TEB PBI 987 1/1 24 9 \" \" PBI TEB 988 1/1 23 21 \" \" TEB MVY 989 1/1 6 21 \" \" MVY PBI 990 1/1 24 23 \" \" PBI CMH 991 1/1 21 23 \" \" CMH TEB 992 1/1 11 27 \" \" TEB PBI 993 1/1 21 I certify that the statements made by me on this form are true. Pilot's Signature David Rodege Page Total 13 13 393 Amount Forward 5478 6925 0 Total to Date 5481 6964 3",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "1997 May 5 G1159B N908JE EGGW LSGG 979 1/1 13 ...",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David Rodege",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rodege"
+    ],
+    "organizations": [],
+    "locations": [
+      "EGGW",
+      "LSGG",
+      "LFPB",
+      "CYJT",
+      "TEB",
+      "SAF",
+      "VNY",
+      "DFW",
+      "PBI",
+      "JFK",
+      "MVY",
+      "CMH"
+    ],
+    "dates": [
+      "1997 May",
+      "1997 Jun"
+    ],
+    "reference_numbers": [
+      "G1159B",
+      "N908JE",
+      "DOJ-OGR-00015845"
+    ]
+  },
+  "additional_notes": "The document is a flight log with handwritten entries. The pilot's signature is present at the bottom."
+}

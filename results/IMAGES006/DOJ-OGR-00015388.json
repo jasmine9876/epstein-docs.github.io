@@ -1,0 +1,80 @@
+{
+  "document_metadata": {
+    "page_number": "6 of 6",
+    "document_number": "4-494-31285",
+    "date": "Nov 25, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\n\nPicked up: Nov 18, 2002    Payor: Recipient    Reference: AARON\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\n\nTracking ID    792777226690    Sender    PARTS    CESCO    Recipient    AARON    LSJ, LLC.    C/O AMERICAN YACHT HARBOR    6100 RED HOOK QUARTERS #2    ST. THOMAS VI00802-453 VI\nService Type    FedEx Intl Economy    \nPackage Type    Customer Packaging    Transportation Charge    287.55\nZone    1    Fuel Surcharge    11.16\nOrig /Dest    CHL/STT    Discount    -8.63\nPackages    1    Total Transportation Charges    USD $    290.08\nWeight    67.0 lbs, 30.5 kgs    \nDelivered    Nov 19, 2002 16:48    Shipment Detail Subtotal ...............................................USD $    381.65\nSigned by    J.SHUBERT    \nDec. Value    USD 150.00    \nFedEx Use    _/US010/_\n\nCONFIDENTIAL\nSDNY_GM_00340748    79\nDOJ-OGR-00015388",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Picked up: Nov 18, 2002    Payor: Recipient    Reference: AARON",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Fuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Tracking ID    792777226690    Sender    PARTS    CESCO    Recipient    AARON    LSJ, LLC.    C/O AMERICAN YACHT HARBOR    6100 RED HOOK QUARTERS #2    ST. THOMAS VI00802-453 VI",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Service Type    FedEx Intl Economy    \nPackage Type    Customer Packaging    Transportation Charge    287.55\nZone    1    Fuel Surcharge    11.16\nOrig /Dest    CHL/STT    Discount    -8.63\nPackages    1    Total Transportation Charges    USD $    290.08\nWeight    67.0 lbs, 30.5 kgs    \nDelivered    Nov 19, 2002 16:48    Shipment Detail Subtotal ...............................................USD $    381.65\nSigned by    J.SHUBERT    \nDec. Value    USD 150.00    \nFedEx Use    _/US010/_",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "SDNY_GM_00340748    79\nDOJ-OGR-00015388",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "AARON",
+      "J.SHUBERT"
+    ],
+    "organizations": [
+      "FedEx",
+      "PARTS",
+      "CESCO",
+      "LSJ, LLC.",
+      "AMERICAN YACHT HARBOR"
+    ],
+    "locations": [
+      "CHL",
+      "STT",
+      "ST. THOMAS VI",
+      "RED HOOK QUARTERS"
+    ],
+    "dates": [
+      "Nov 18, 2002",
+      "Nov 19, 2002 16:48",
+      "Nov 25, 2002"
+    ],
+    "reference_numbers": [
+      "792777226690",
+      "4-494-31285",
+      "1144-2081-6",
+      "SDNY_GM_00340748",
+      "DOJ-OGR-00015388"
+    ]
+  },
+  "additional_notes": "The document is a FedEx shipment detail by payment type, marked as confidential. It contains shipment information, including tracking ID, sender and recipient details, package information, and charges."
+}

@@ -1,0 +1,71 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "4-474-29369",
+    "date": "Nov 18, 2002",
+    "document_type": "Adjustment Request",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Adjustment Request FAX TO (800) 548-3020 Invoice Number: 4-474-29369 Invoice Date: Nov 18, 2002 Account Number: 1814-9779-3 Page: 2 of 4 Tracking No./Airbill No. Reason Code Explanation BEFORE YOU FAX Please include detailed explanation for each adjustment request. Remember to include recipient's account number or third party's account number if applicable. From: Name Date Business Phone Business Fax REASON CODE KEY Reason Code Description DUP Duplicate Billing PND Shipment Never Sent RATE Incorrect Rates or Pieces RRA Rebills Recipient - Include Recipient's Account No. RSA Rebills Sender RTA Rebills Third Party - Include Third Party's Account No. SUR Incorrect Surcharge - Please Explain OTHR Other - Please Explain This form cannot be used to request Invoice Adjustments due to Service Failures or lack of a POD. To request adjustments for Service Failures or lack of a POD, please call 1-800-622-1147, visit our internet site at www.fedex.com or register for FIO. FedEx Federal Express Please indicate change in address for the account # listed below Physical Address Billing Address Mailing Address Account Number 1814-9779-3 Name: Address: Apt. / Suite: City: State: Zip: Phone: Fax: Authorizing Signature: CONFIDENTIAL SDNY_GM_00340718 56 DOJ-OGR-00015365",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Adjustment Request FAX TO (800) 548-3020",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Number: 4-474-29369 Invoice Date: Nov 18, 2002 Account Number: 1814-9779-3 Page: 2 of 4",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Tracking No./Airbill No. Reason Code Explanation",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "BEFORE YOU FAX Please include detailed explanation for each adjustment request. Remember to include recipient's account number or third party's account number if applicable.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "REASON CODE KEY Reason Code Description DUP Duplicate Billing PND Shipment Never Sent RATE Incorrect Rates or Pieces RRA Rebills Recipient - Include Recipient's Account No. RSA Rebills Sender RTA Rebills Third Party - Include Third Party's Account No. SUR Incorrect Surcharge - Please Explain OTHR Other - Please Explain",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "This form cannot be used to request Invoice Adjustments due to Service Failures or lack of a POD. To request adjustments for Service Failures or lack of a POD, please call 1-800-622-1147, visit our internet site at www.fedex.com or register for FIO.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FedEx Federal Express Please indicate change in address for the account # listed below Physical Address Billing Address Mailing Address",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "FedEx"
+    ],
+    "locations": [],
+    "dates": [
+      "Nov 18, 2002"
+    ],
+    "reference_numbers": [
+      "4-474-29369",
+      "1814-9779-3",
+      "1-800-622-1147",
+      "SDNY_GM_00340718",
+      "DOJ-OGR-00015365"
+    ]
+  },
+  "additional_notes": "The document is a FedEx Adjustment Request form, page 2 of 4, dated Nov 18, 2002. It contains instructions for requesting adjustments and a section for providing details about the adjustment request. The form is marked as 'CONFIDENTIAL' at the bottom."
+}

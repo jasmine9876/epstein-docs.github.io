@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": "8 of 14",
+    "document_number": "4-447-80862",
+    "date": "Nov 18, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\nInvoice Number: 4-447-80862\nInvoice Date: Nov 18, 2002\nAccount Number: 1144-2081-6\nPage: 8 of 14\n\nPicked up: Nov 11, 2002    Payor: Shipper    Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 8\n1st attempt Nov 12, 2002 at 09 24 AM.\nRecipient not in/business closed.\n\nInternetShip              Sender                    Recipient\nTracking D 790629180210   CECILIA STEEN             STEFANI BURNS\nService Type FedEx Priority Overnight JEFFREY E EPSTEIN\nPackage Type FedEx Pak    457 MADISON AVE\nZone 8                    NEW YORK NY 10022-6843 US\nPackages 1\nWeight 2.0 lbs, 0.9 kgs   Transportation Charge     29.00\nDelivered Nov 12, 2002 18 55 Discount                  -2.90\nSvc Area A1               Fuel Surcharge            1.04\nSigned by S BURNS         Residential Delivery      1.35\nFedEx Use 523920563/01618/08\n\nTotal Transportation Charges USD $ 28.49\n\nPicked up: Nov 11, 2002    Payor: Shipper    Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 3\n1st attempt Nov 12, 2002 at 03 57 PM.\nIncorrect recipient address.\n\nInternetShip              Sender                    Recipient\nTracking D 791229205290   CECILIA STEEN             ALAN DERSHOWITZ\nService Type FedEx Priority Overnight JEFFREY E EPSTEIN\nPackage Type FedEx Pak    457 MADISON AVE\nZone 3                    NEW YORK NY 10022-6843 US\nPackages 1\nWeight 2.0 lbs, 0.9 kgs   Transportation Charge     18.75\nDelivered Nov 13, 2002 15 37 Discount                  -1.68\nSvc Area PM               Address Correction        10.00\nSigned by D.ERSHOWITZ     Fuel Surcharge            0.67\nFedEx Use 523939133/01508/03 Residential Delivery      1.35\n                          Delivery Area Surcharge  1.50\n\nTotal Transportation Charges USD $ 30.39\n\nPicked up: Nov 11, 2002    Payor: Shipper    Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 4\n\nInternetShip              Sender                    Recipient\nTracking D 792772464936   CECILIA STEEN             PEG UGLAND\nService Type FedEx Express Saver JEFFREY E EPSTEIN    N. A. PROPERTY\nPackage Type FedEx Envelope 457 MADISON AVE\nZone 4                    NEW YORK NY 10022-6843 US\nPackages 1\nWeight 1.0 lbs, 0.5 kgs   Transportation Charge     7.85\nDelivered Nov 13, 2002 09:44 Discount                  -0.79\nSvc Area A2               Fuel Surcharge            0.28\nSigned by D.OAKLEY        \nFedEx Use 523994762/00831_/\n\nTotal Transportation Charges USD $ 7.34\n\nCONFIDENTIAL\nSDNY_GM_00340705 43\nDOJ-OGR-00015352",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "CECILIA STEEN",
+      "JEFFREY E EPSTEIN",
+      "STEFANI BURNS",
+      "S BURNS",
+      "ALAN DERSHOWITZ",
+      "D.ERSHOWITZ",
+      "PEG UGLAND",
+      "D.OAKLEY"
+    ],
+    "organizations": [
+      "FedEx"
+    ],
+    "locations": [
+      "NEW YORK NY 10022-6843 US",
+      "457 MADISON AVE"
+    ],
+    "dates": [
+      "Nov 11, 2002",
+      "Nov 12, 2002",
+      "Nov 13, 2002",
+      "Nov 18, 2002"
+    ],
+    "reference_numbers": [
+      "4-447-80862",
+      "1144-2081-6",
+      "790629180210",
+      "523920563/01618/08",
+      "791229205290",
+      "523939133/01508/03",
+      "792772464936",
+      "523994762/00831_/",
+      "SDNY_GM_00340705",
+      "DOJ-OGR-00015352"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx shipment detail report, containing information about three separate shipments. The report includes details such as tracking numbers, sender and recipient information, package details, and transportation charges. The document is marked as 'CONFIDENTIAL' at the bottom."
+}

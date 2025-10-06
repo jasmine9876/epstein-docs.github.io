@@ -1,0 +1,83 @@
+{
+  "document_metadata": {
+    "page_number": "1/2",
+    "document_number": "DOJ-OGR-00015205",
+    "date": "7/19/2021",
+    "document_type": "Student Info",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "7/19/2021 Student Info DOJ REDACTION DOJ REDACTION - Grade 10 DEFENDANT'S EXHIBIT DH-2 S2 20 Cr. 330 (AJN) Enrollment Year 2001-2002 School ZWD - Survivors Charter School - 3390 Grade Level 10 Enrollment Date 10/12/2001 Enrollment Code (R02) Re-entry from another school same district Drop Date 03/07/2002 Drop Code (W26) W/D to enter Adult Ed Not Grad Calendar Rolling/Retention Options Next Grade Include in Class Rank Yes Graduation Requirement Program Team Second School X Prior District 50 - Palm Beach Prior State FL - Florida Prior Country US - United States Educational Choice Student Offender Transfer N - No Grade Promotion Status N - Not in KG-12 at year end Good Cause Exemption 0 - Not Applicable District (Out of District) Not Applicable School (Out of District) Resident Status, State/County 0 - Foreign Exchange student enrolled in a Florida public school. (PK-12) Zoned District Zoned School WDIS First-Time Student Indicator WDIS AGE Withdrawal Reason Days Present https://sis.palmbeachschools.org/focus/Modules.php?modname=Students/Student.php&search_modfunc=result&student_id=DOJ Redaction&LQ_index=1&school_id=549#enrollment/5669839 1/2 DOJ-OGR-00015205",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "7/19/2021",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Student Info",
+      "position": "header"
+    },
+    {
+      "type": "stamp",
+      "content": "DOJ REDACTION DOJ REDACTION - Grade 10",
+      "position": "header"
+    },
+    {
+      "type": "stamp",
+      "content": "DEFENDANT'S EXHIBIT DH-2 S2 20 Cr. 330 (AJN)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Enrollment",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Year 2001-2002 School ZWD - Survivors Charter School - 3390 Grade Level 10 Enrollment Date 10/12/2001 Enrollment Code (R02) Re-entry from another school same district Drop Date 03/07/2002 Drop Code (W26) W/D to enter Adult Ed Not Grad Calendar Rolling/Retention Options Next Grade Include in Class Rank Yes Graduation Requirement Program Team Second School X Prior District 50 - Palm Beach Prior State FL - Florida Prior Country US - United States Educational Choice Student Offender Transfer N - No Grade Promotion Status N - Not in KG-12 at year end Good Cause Exemption 0 - Not Applicable District (Out of District) Not Applicable School (Out of District) Resident Status, State/County 0 - Foreign Exchange student enrolled in a Florida public school. (PK-12) Zoned District Zoned School WDIS First-Time Student Indicator WDIS AGE Withdrawal Reason Days Present",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "https://sis.palmbeachschools.org/focus/Modules.php?modname=Students/Student.php&search_modfunc=result&student_id=DOJ Redaction&LQ_index=1&school_id=549#enrollment/5669839",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "1/2",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015205",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "ZWD - Survivors Charter School",
+      "Palm Beach Schools"
+    ],
+    "locations": [
+      "Florida",
+      "United States",
+      "Palm Beach"
+    ],
+    "dates": [
+      "7/19/2021",
+      "2001-2002",
+      "10/12/2001",
+      "03/07/2002"
+    ],
+    "reference_numbers": [
+      "3390",
+      "50",
+      "S2 20 Cr. 330 (AJN)",
+      "DOJ-OGR-00015205"
+    ]
+  },
+  "additional_notes": "The document appears to be a student information sheet with various details about the student's enrollment, including dates, school information, and personal details. The document has been redacted in some areas, and there are stamps indicating it is a defendant's exhibit in a court case."
+}

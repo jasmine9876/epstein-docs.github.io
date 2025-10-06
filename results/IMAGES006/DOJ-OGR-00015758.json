@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": null,
+    "date": "3/3/2005",
+    "document_type": "shopping list",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Mar 03 05 01:02p P. 1 PRE-ARRIVAL SHOPPING LIST Dairy Products 1/2 gallon regular milk 1 quart skim milk 1 quart half and half 4 Lurpak European butter 1 large container Dannon regular plain yogurt 1 Philadelphia cream cheese 1 plain cottage cheese 1/2 pint heavy cream 1 dozen eggs 1/2 pound Boar's Head Swiss cheese Haagen Dazs ice cream - coffee, chocolate, vanilla, strawberry Fresh produce 2 green vegetables of choice (such as French green beans, broccoli) Cleaned baby spinach and medium greens 8 ripe tomatoes Grape tomatoes 3 avocadoes European cucumber 1 Iceberg lettuce (not in a packet) 1 regular lettuce (not in a packet) 6 endive Fresh baby carrots Fresh Rosemary Fresh Thyme Dill Fresh Mint Italian parsley Olives Scallions Garlic 2 Sweet onions 2 Red onions 2 Sweet potatoes 6 Baking potatoes Ginger 1 bag juice oranges 6 eating oranges Small bunch red and green grapes 2 Mango 6 ripe bananas Berries (strawberries, raspberries, blueberries - whatever is in season) 4 Fugi apples 1/2 Watermelon 4 Lemons Figs 3/3/2005 29 DOJ-OGR-00015758",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PRE-ARRIVAL SHOPPING LIST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Dairy Products\n1/2 gallon regular milk\n1 quart skim milk\n1 quart half and half\n4 Lurpak European butter\n1 large container Dannon regular plain yogurt\n1 Philadelphia cream cheese\n1 plain cottage cheese\n1/2 pint heavy cream\n1 dozen eggs\n1/2 pound Boar's Head Swiss cheese\nHaagen Dazs ice cream - coffee, chocolate, vanilla, strawberry",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Fresh produce\n2 green vegetables of choice (such as French green beans, broccoli)\nCleaned baby spinach and medium greens\n8 ripe tomatoes\nGrape tomatoes\n3 avocadoes\nEuropean cucumber\n1 Iceberg lettuce (not in a packet)\n1 regular lettuce (not in a packet)\n6 endive\nFresh baby carrots\nFresh Rosemary\nFresh Thyme\nDill\nFresh Mint\nItalian parsley\nOlives\nScallions\nGarlic\n2 Sweet onions\n2 Red onions\n2 Sweet potatoes\n6 Baking potatoes\nGinger\n1 bag juice oranges\n6 eating oranges\nSmall bunch red and green grapes\n2 Mango\n6 ripe bananas\nBerries (strawberries, raspberries, blueberries - whatever is in season)\n4 Fugi apples\n1/2 Watermelon\n4 Lemons\nFigs",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "3/3/2005",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015758",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Boar's Head",
+      "Haagen Dazs",
+      "Lurpak",
+      "Dannon"
+    ],
+    "locations": [],
+    "dates": [
+      "Mar 03 05",
+      "3/3/2005"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00015758"
+    ]
+  },
+  "additional_notes": "The document appears to be a typed shopping list with a date of 3/3/2005. The list is divided into two categories: 'Dairy Products' and 'Fresh produce'. The document is well-formatted and easy to read."
+}

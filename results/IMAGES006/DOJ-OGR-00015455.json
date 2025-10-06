@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "4-495-86910",
+    "date": "Dec 23, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\n\nPicked up: Dec 02, 2002\nPayor: Shipper\nReference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\n\nTracking D\t830273245338\nService Type\tFedEx Intl Priority\nPackage Type\tCustomer Packaging\nZone\tD\nOrig./Dest.\tFLU/LON\nPackages\t1\nWeight\t7.0 lbs, 3.2 kgs\nDelivered\nSigned by\nFedEx Use\t_/US01O/_\n\nSender\tRecipient\nE SIMMONDS\tK VAUCHAN EDWARDS\nJEFFREY E EPSTEIN\t\n457 MADISON AVE\t\nNEW YORK NY 10022-6843 US\t\n\nTransportation Charge\t86.72\nFuel Surcharge\t3.36\nDiscount\t-2.60\nTotal Transportation Charges\tUSD $\t87.48\n\nDropped off: Dec 02, 2002\nPayor: Shipper\nReference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDiscount applied is the greater of volume discount or dropoff discount. No additional discount applies.\nRecipient not in/business closed.\n\nTracking D\t828821138126\nService Type\tFedEx Intl Priority\nPackage Type\tFedEx Envelope\nZone\tD\nOrig./Dest.\tJRB/LON\nPackages\t1\nWeight\t0.5 lbs, 0.2 kgs\nDelivered\nSigned by\nFedEx Use\t_/US01O/08\n\nSender\tRecipient\nLAUREN KW NTER\tSHELLEY LEWIS\nJEFFREY E EPSTEIN\t\n457 MADISON AVE\t\nNEW YORK NY 10022-6843 US\t\n\nTransportation Charge\t28.00\nFuel Surcharge\t1.09\nDiscount\t-0.84\nTotal Transportation Charges\tUSD $\t28.25\n\nPicked up: Dec 04, 2002\nPayor: Shipper\nReference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nFedEx has audited this airbill for correct pieces, weight, and service. Any changes made are reflected in the invoice amount.\nWeather delay - Snow.\n\nTracking D\t790153671827\nService Type\tFedEx Intl Priority\nPackage Type\tFedEx Pak\nZone\tI\nOrig./Dest.\tJRB/STT\nPackages\t1\nWeight\t5.0 lbs, 2.3 kgs\nDelivered\tDec 09, 2002 09 23\nSigned by\tW.HAGUE\nFedEx Use\t_/US01O/SN\n\nSender\tRecipient\nCECILIA STEEN\tJEANNE BRENNAN\nJEFFREY E. EPSTE N\tFINANCIAL TRUST COMPANY\n457 MADISON AVENUE\t6100 RED HOOK QUARTER\n4TH FLOOR\tSUITE B-3\nNEW YORK NY 10022 US\tST. THOMAS 00802 VI\n\nTransportation Charge\t71.73\nFuel Surcharge\t2.78\nDiscount\t-2.15\nTotal Transportation Charges\tUSD $\t72.36\n\nCONFIDENTIAL",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "E SIMMONDS",
+      "K VAUCHAN EDWARDS",
+      "JEFFREY E EPSTEIN",
+      "LAUREN KW NTER",
+      "SHELLEY LEWIS",
+      "CECILIA STEEN",
+      "JEANNE BRENNAN",
+      "W.HAGUE"
+    ],
+    "organizations": [
+      "FedEx",
+      "FINANCIAL TRUST COMPANY"
+    ],
+    "locations": [
+      "NEW YORK",
+      "LON",
+      "FLU",
+      "JRB",
+      "STT",
+      "ST. THOMAS"
+    ],
+    "dates": [
+      "Dec 02, 2002",
+      "Dec 23, 2002",
+      "Dec 04, 2002",
+      "Dec 09, 2002"
+    ],
+    "reference_numbers": [
+      "4-495-86910",
+      "1144-2081-6",
+      "830273245338",
+      "828821138126",
+      "790153671827",
+      "SDNY_GM_00340828",
+      "DOJ-OGR-00015455"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx shipment detail report, containing information about three separate shipments. The document is marked 'CONFIDENTIAL' at the bottom."
+}

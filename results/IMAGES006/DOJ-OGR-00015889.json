@@ -1,0 +1,85 @@
+{
+  "document_metadata": {
+    "page_number": "92",
+    "document_number": "DOJ-OGR-00015889",
+    "date": "February 2002",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... APR 1 B-727-31 N909JE PBI TIST 78 1/1 2 3 5 \" \" TIST PBI 74 1/1 2 7 5 \" \" PBI IAD 80 2 1 6 \" \" IAD PBI 81 1/1 2 3 8 \" \" PBI JFK 84 2/1 2 5 20 B-727-200 SIMULATOR MIA MIA 2 0 22 \" \" \" \" 2 0 23 \" \" \" \" 2 0 24 \" \" \" \" 2 0 25 \" \" \" \" 2 0 26 \" \" \" \" 2 0 27 \" \" \" \" 3 0 29 B-727-31 N909JE PBI ABQ 90 4 1 MAY 2 \" \" ABQ JFK 91 1/1 3 2 4 \" \" JFK PBI 92 1/1 2 4 TOTALS REPORTED TO Page Total 74 36.6 Amount Forward 652.8 6115 8598.5 33 112 Total to Date 6553 6186 8635.1 3 3 112 I certify that the statements made by me on this form are true. Pilot's Signature David Rodriguez",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "APR 1 B-727-31 N909JE PBI TIST 78 1/1 2 3 5 \" \" TIST PBI 74 1/1 2 7 5 \" \" PBI IAD 80 2 1 6 \" \" IAD PBI 81 1/1 2 3 8 \" \" PBI JFK 84 2/1 2 5 20 B-727-200 SIMULATOR MIA MIA 2 0 22 \" \" \" \" 2 0 23 \" \" \" \" 2 0 24 \" \" \" \" 2 0 25 \" \" \" \" 2 0 26 \" \" \" \" 2 0 27 \" \" \" \" 3 0 29 B-727-31 N909JE PBI ABQ 90 4 1 MAY 2 \" \" ABQ JFK 91 1/1 3 2 4 \" \" JFK PBI 92 1/1 2 4",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "TOTALS REPORTED TO",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "I certify that the statements made by me on this form are true.",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "David Rodriguez",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "74 36.6 652.8 6115 8598.5 33 112 6553 6186 8635.1 3 3 112",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rodriguez"
+    ],
+    "organizations": [],
+    "locations": [
+      "PBI",
+      "TIST",
+      "IAD",
+      "JFK",
+      "MIA",
+      "ABQ"
+    ],
+    "dates": [
+      "APR 1",
+      "APR 5",
+      "APR 6",
+      "APR 8",
+      "APR 20",
+      "APR 22",
+      "APR 23",
+      "APR 24",
+      "APR 25",
+      "APR 26",
+      "APR 27",
+      "APR 29",
+      "MAY 2",
+      "MAY 4"
+    ],
+    "reference_numbers": [
+      "N909JE",
+      "B-727-31",
+      "B-727-200",
+      "DOJ-OGR-00015889"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log for February 2002. It contains handwritten entries for various flights, including the date, aircraft make and model, identification mark, points of departure and arrival, miles flown, flight number, remarks, and number of landings. The log also includes a certification statement signed by the pilot, David Rodriguez."
+}

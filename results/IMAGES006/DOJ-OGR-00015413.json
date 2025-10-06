@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": "6 of 6",
+    "document_number": "4-495-05371",
+    "date": "Dec 09, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\n\nDropped off: Dec 04, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDiscount applied is the greater of volume discount or dropoff discount. No additional discount applies.\n\nTracking ID 791989127138 Sender CECILIA STEEN Recipient NICOLE JUNKERMANN\nService Type FedEx Intl Priority JEFFREY E. EPSTEIN\nPackage Type FedEx Envelope 457 MADISON AVENUE\nZone D 4TH FLOOR\nOrig /Dest JRB/RAP NEW YORK NY 10022 US\nPackages 1\nWeight 0.5 lbs, 0.2 kgs\nDelivered Dec 06, 2002 11:05 Transportation Charge 28.00\nSigned by G.HUGES Fuel Surcharge 1.09\nFedEx Use _/US01O/_ Discount -0.84\n\nTotal Transportation Charges USD $ 28.25\n\nDropped off: Dec 04, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDiscount applied is the greater of volume discount or dropoff discount. No additional discount applies.\n\nTracking ID 792144953916 Sender CECILIA STEEN Recipient MARIE JOSEPH EXPERTON\nService Type FedEx Intl Priority JEFFREY E. EPSTEIN BERLIOZ & CO.\nPackage Type FedEx Envelope 457 MADISON AVENUE\nZone D 4TH FLOOR\nOrig /Dest JRB/KNO NEW YORK NY 10022 US\nPackages 1\nWeight 0.5 lbs, 0.2 kgs\nDelivered Dec 06, 2002 09:55 Transportation Charge 28.00\nSigned by M.GRULEILE Fuel Surcharge 1.09\nFedEx Use _/US01O/_ Discount -0.84\n\nTotal Transportation Charges USD $ 28.25\n\nShipment Detail Subtotal USD $ 397.52\n\nCONFIDENTIAL\n\nSDNY_GM_00340779 104\nDOJ-OGR-00015413",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Dropped off: Dec 04, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Fuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment. Discount applied is the greater of volume discount or dropoff discount. No additional discount applies.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "CECILIA STEEN",
+      "JEFFREY E. EPSTEIN",
+      "NICOLE JUNKERMANN",
+      "MARIE JOSEPH EXPERTON",
+      "G.HUGES",
+      "M.GRULEILE"
+    ],
+    "organizations": [
+      "FedEx",
+      "BERLIOZ & CO."
+    ],
+    "locations": [
+      "NEW YORK",
+      "457 MADISON AVENUE",
+      "4TH FLOOR"
+    ],
+    "dates": [
+      "Dec 04, 2002",
+      "Dec 06, 2002",
+      "Dec 09, 2002"
+    ],
+    "reference_numbers": [
+      "4-495-05371",
+      "791989127138",
+      "792144953916",
+      "1144-2081-6",
+      "SDNY_GM_00340779",
+      "DOJ-OGR-00015413"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx shipment detail report, containing information about two shipments made on December 4, 2002. The report includes details such as tracking IDs, sender and recipient information, package details, and transportation charges. The document is marked as 'CONFIDENTIAL' at the bottom."
+}

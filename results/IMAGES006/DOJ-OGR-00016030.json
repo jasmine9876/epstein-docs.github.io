@@ -1,0 +1,72 @@
+{
+  "document_metadata": {
+    "page_number": "115",
+    "document_number": "DOJ-OGR-00016030",
+    "date": null,
+    "document_type": "Pilot Logbook Page",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... MAR 29 B-727-31H N908JK JFK TEST 333 JG SK,DB,DM 36 29 11 TIST JFK 334 JG SK,PM,DB 31 31 JFK PBI 335 JG,GM,DB 28 APR 1 G-1159B N909JC SAV PBI 1764 12 5 11 PBI PDK 1767 GM 16 LV 1/1 18 5 PDK TEB 1768 GM LV 1/1 18 6 B-727-31H N908JK PBI JFK 336 GE,DB,DM,SK PATTIANNA 25 29 G-1159B N909JK PBI TIST 1723 JG,MS,VC PATTIANNA 23 LV 1/1 23 MAY 4 11 TIST TEB 1774 JG,AM,VC 41 BH 1/1 41 6 TEB PBI 1775 JG,AM,PM SK LM LV 25 10 PBI TEB 1777 JG,DB,DM,SK 26 LV 1/1 26 12 B-727-31H N908JK JFK TIST 339 JG,AM,DM DB LM 1/1 34 16 TIST JFK 340 JG DB,DM,AM BH 1/1 38 19 G-1159B N909JC TEB PBI 1770 JE,AM,SK BH 1/1 25 24 PBI TEB 1778 JG,AM,SK LV 1/1 26 JUN 15 B-727-200 N909JC MFA MFA 20 15 11 11 REY BARZANA-VRIDGE 20 20 JULY G-1159B N909JC TEB PBI 1796 JG,DB,SK LV 1/1 24 I certify that the statements made by me on this form are true. Pilot's Signature David Rodgeren Page Total 10/6 50 Amount Forward 6903 6413 97170 331294 Total to Date 6813 6419 97614 331294",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "MAR 29 B-727-31H N908JK JFK TEST 333 JG SK,DB,DM 36 ...",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David Rodgeren",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rodgeren"
+    ],
+    "organizations": [],
+    "locations": [
+      "JFK",
+      "TEST",
+      "PBI",
+      "SAV",
+      "PDK",
+      "TEB",
+      "TIST",
+      "MFA"
+    ],
+    "dates": [
+      "MAR 29",
+      "APR 1",
+      "APR 5",
+      "APR 6",
+      "MAY 4",
+      "MAY 6",
+      "MAY 10",
+      "MAY 12",
+      "MAY 16",
+      "MAY 19",
+      "MAY 24",
+      "JUN 15",
+      "JULY"
+    ],
+    "reference_numbers": [
+      "N908JK",
+      "N909JC",
+      "B-727-31H",
+      "G-1159B",
+      "DOJ-OGR-00016030"
+    ]
+  },
+  "additional_notes": "The document is a photocopy of a pilot logbook page with handwritten entries. The page is numbered 115 and has a document number DOJ-OGR-00016030 at the bottom."
+}

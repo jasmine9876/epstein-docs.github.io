@@ -1,0 +1,68 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00015528",
+    "date": null,
+    "document_type": "Important Message",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "IMPORTANT MESSAGE FOR Jeffery DATE 8/08/05 TIME 11.20 P.M. M Duren OF PHONE/MOBILE 646 246 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE He has some numbers for you SIGNED PJ IMPORTANT MESSAGE FOR Jeffery DATE 8/09/05 TIME 9.40 P.M. M Glen OF PHONE/MOBILE 914 669 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Please call him back SIGNED IMPORTANT MESSAGE FOR Jeffery DATE 8/09/05 TIME 11.40 A.M. P.M. M Reyna (Mr. Copnfield assistant) OF PHONE/MOBILE 212 753 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE The 28th will be the best day to come and see show. The show starts at 8:30 SIGNED IMPORTANT MESSAGE FOR Jeffery DATE 8/09/05 TIME 10.0 P.M. M Mr. Copnfield OF PHONE/MOBILE 212 753 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE He is home SIGNED GOVERNMENT EXHIBIT 3-Z-R S2 20 Cr. 330 (AJN)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR Jeffery DATE 8/08/05 TIME 11.20 P.M. M Duren OF PHONE/MOBILE 646 246 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE He has some numbers for you SIGNED PJ",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR Jeffery DATE 8/09/05 TIME 9.40 P.M. M Glen OF PHONE/MOBILE 914 669 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Please call him back SIGNED",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR Jeffery DATE 8/09/05 TIME 11.40 A.M. P.M. M Reyna (Mr. Copnfield assistant) OF PHONE/MOBILE 212 753 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE The 28th will be the best day to come and see show. The show starts at 8:30 SIGNED",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR Jeffery DATE 8/09/05 TIME 10.0 P.M. M Mr. Copnfield OF PHONE/MOBILE 212 753 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE He is home SIGNED",
+      "position": "bottom"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 3-Z-R S2 20 Cr. 330 (AJN)",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffery",
+      "Duren",
+      "Glen",
+      "Reyna",
+      "Mr. Copnfield",
+      "PJ"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "8/08/05",
+      "8/09/05",
+      "28th"
+    ],
+    "reference_numbers": [
+      "646 246",
+      "914 669",
+      "212 753",
+      "S2 20 Cr. 330 (AJN)",
+      "DOJ-OGR-00015528"
+    ]
+  },
+  "additional_notes": "The document appears to be a set of four 'Important Message' slips, likely from a notepad used for recording phone messages. The messages are handwritten and contain various names, phone numbers, and brief messages. The document has been marked as a 'GOVERNMENT EXHIBIT' with the number '3-Z-R' and a case reference 'S2 20 Cr. 330 (AJN)'."
+}

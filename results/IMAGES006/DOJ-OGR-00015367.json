@@ -1,0 +1,78 @@
+{
+  "document_metadata": {
+    "page_number": "4 of 4",
+    "document_number": "4-474-29369",
+    "date": "Nov 18, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\n\nPicked up: Nov 01, 2002    Payor: Shipper    Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 3.00% to this shipment.\nDistance Based Pricing, Zone 5\nPackage sent from: 33461 zip code\nFedEx has audited this shipment for correct packages, weight, and service. Any changes made are reflected in the invoice amount.\n\nTracking ID 837574510834    Sender    Recipient\nService Type FedEx 2Day    MISS MAXWELL    MARK L\nPackage Type Customer Packaging    JEFFREY EPSTEIN    NA PROPERTY INC\nZone 5    457 MADISON AVE FL 4\nPackages 1    NEW YORK NY 10022-6843 US\nWeight 5.0 lbs, 2.3 kgs    \nDelivered Nov 04, 2002 14:40    Transportation Charge    13.25\nSvc Area A2    Discount    -3.18\nSigned by D.OAKLEY    Fuel Surcharge    0.30\nFedEx Use 306011870/06046/_    Courier Pickup Charge    4.00\n\nTotal Transportation Charges    USD $    14.37\n\nShipment Detail Subtotal .....................................USD $    14.37\n\nCONFIDENTIAL\nSDNY_GM_00340720 58\nDOJ-OGR-00015367",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Picked up: Nov 01, 2002    Payor: Shipper    Reference: NO REFERENCE INFORMATION",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Fuel Surcharge - FedEx has applied a fuel surcharge of 3.00% to this shipment.\nDistance Based Pricing, Zone 5\nPackage sent from: 33461 zip code\nFedEx has audited this shipment for correct packages, weight, and service. Any changes made are reflected in the invoice amount.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Tracking ID 837574510834    Sender    Recipient\nService Type FedEx 2Day    MISS MAXWELL    MARK L\nPackage Type Customer Packaging    JEFFREY EPSTEIN    NA PROPERTY INC\nZone 5    457 MADISON AVE FL 4\nPackages 1    NEW YORK NY 10022-6843 US\nWeight 5.0 lbs, 2.3 kgs    \nDelivered Nov 04, 2002 14:40    Transportation Charge    13.25\nSvc Area A2    Discount    -3.18\nSigned by D.OAKLEY    Fuel Surcharge    0.30\nFedEx Use 306011870/06046/_    Courier Pickup Charge    4.00",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Total Transportation Charges    USD $    14.37\n\nShipment Detail Subtotal .....................................USD $    14.37",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "SDNY_GM_00340720 58\nDOJ-OGR-00015367",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "MISS MAXWELL",
+      "MARK L",
+      "JEFFREY EPSTEIN",
+      "D.OAKLEY"
+    ],
+    "organizations": [
+      "FedEx",
+      "NA PROPERTY INC"
+    ],
+    "locations": [
+      "NEW YORK NY 10022-6843 US",
+      "457 MADISON AVE FL 4"
+    ],
+    "dates": [
+      "Nov 01, 2002",
+      "Nov 04, 2002 14:40",
+      "Nov 18, 2002"
+    ],
+    "reference_numbers": [
+      "4-474-29369",
+      "837574510834",
+      "1814-9779-3",
+      "306011870/06046/_",
+      "SDNY_GM_00340720",
+      "DOJ-OGR-00015367"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx shipment detail invoice with a 'CONFIDENTIAL' watermark. The shipment was sent from Jeffrey Epstein to NA Property Inc."
+}

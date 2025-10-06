@@ -1,0 +1,82 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00015505",
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "IMPORTANT MESSAGE FOR Jeffrey DATE Ghislain e TIME A.M. P.M. M OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED IMPORTANT MESSAGE FOR 66/06/04 FOR MR EPSTEIN TIME 7.44 A.M. P.M. DATE MS. MAXWELL M OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE \"CALLED BUT NOT VERY IMPORTENT\" SIGNED R IMPORTANT MESSAGE FOR MR EPSTEIN DATE 06/11/04 TIME 1.48 A.M. P.M. M FRANCIS WARD OF PHONE/ MOBILE (561) 346 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE \"CALL BACK\" SIGNED R IMPORTANT MESSAGE FOR MR EPSTEIN DATE 6/6/04 TIME 8.57 A.M. P.M. M TONY OF PHONE/ MOBILE 790 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE \"WILL BE COMING AT 11 AM TODAY\" SIGNED GOVERNMENT EXHIBIT 3-G-R S2 20 Cr. 330 (AJN) DOJ-OGR-00015505",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR Jeffrey DATE Ghislain e TIME A.M. P.M. M OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR 66/06/04 FOR MR EPSTEIN TIME 7.44 A.M. P.M. DATE MS. MAXWELL M OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE \"CALLED BUT NOT VERY IMPORTENT\" SIGNED R",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR MR EPSTEIN DATE 06/11/04 TIME 1.48 A.M. P.M. M FRANCIS WARD OF PHONE/ MOBILE (561) 346 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE \"CALL BACK\" SIGNED R",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR MR EPSTEIN DATE 6/6/04 TIME 8.57 A.M. P.M. M TONY OF PHONE/ MOBILE 790 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE \"WILL BE COMING AT 11 AM TODAY\" SIGNED",
+      "position": "top"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 3-G-R S2 20 Cr. 330 (AJN) DOJ-OGR-00015505",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey",
+      "MR EPSTEIN",
+      "Ghislain e",
+      "MS. MAXWELL",
+      "FRANCIS WARD",
+      "TONY"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "06/11/04",
+      "6/6/04",
+      "66/06/04"
+    ],
+    "reference_numbers": [
+      "(561) 346",
+      "790",
+      "DOJ-OGR-00015505",
+      "S2 20 Cr. 330 (AJN)"
+    ]
+  },
+  "additional_notes": "The document appears to be a collection of 'Important Message' forms, likely from a professional or business setting. The forms are filled out by hand with varying levels of detail. Some phone numbers are redacted. The document is stamped as a 'GOVERNMENT EXHIBIT' with a reference number."
+}

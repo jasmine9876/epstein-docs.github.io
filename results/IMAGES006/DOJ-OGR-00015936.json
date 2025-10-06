@@ -1,0 +1,77 @@
+{
+  "document_metadata": {
+    "page_number": "21",
+    "document_number": "DOJ-OGR-00015936",
+    "date": "1943 Jun",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE 1943 JUN AIRCRAFT MAKE AND MODEL 1525-700 AIRCRAFT IDENTIFICATION MARK N90836 POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FLOWN FLT. NO. REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS NO. LDG. AIRPLANE COMPLEX TUR 13 TEB BOS 110 352 11 1 7 7 13 BOS CMH 356 1 1 7 7 14 CMH MDW 100 357 1 9 9 14 MDW ASE 358 1 2 8 29 24 SAF CMH 160 360 1 2 8 29 25 CMH TCB 35 361 1 1 3 13 30 TCB PVD 362 1 6 30 PVD TAD 30 363 1 10 10 7 TAD TEB 175 364 NO PASSENGERS 1 7 7 7 TEB FCK 365 1 4 4 7 FCK TVC 346 1 10 10 9 TVC YIP 55 367 1 6 6 9 YIP HWO 368 1 5 15 1 9 HWO TCB 369 1 5 5 10 TCB YIP 70 370 NO PASSENGERS 1 15 15 1 10 YIP TCB 371 1 12 12 1 12 TCB PBE 80 372 1 2 3 2 15 PBE TCB 70 373 1 2 7 2 I certify that the statements made by me on this form are true. PILOT'S SIGNATURE David R. Roberts PAGE TOTAL 176 750 250 350 AMT. FORWARD 55 83 3112 1 4200 6 2272 TOTAL TO DATE 3418 5937 1 4325 6 2447",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE 1943 JUN AIRCRAFT MAKE AND MODEL AIRCRAFT IDENTIFICATION MARK POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FLOWN FLT. NO. REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS NO. LDG. AIRPLANE COMPLEX TUR",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "13 TEB BOS 110 352 ... 15 PBE TCB 70 373",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. PILOT'S SIGNATURE David R. Roberts",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE TOTAL AMT. FORWARD TOTAL TO DATE",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "176 750 250 350 55 83 3112 1 4200 6 2272 3418 5937 1 4325 6 2447",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David R. Roberts"
+    ],
+    "organizations": [],
+    "locations": [
+      "TEB",
+      "BOS",
+      "CMH",
+      "MDW",
+      "ASE",
+      "SAF",
+      "TCB",
+      "PVD",
+      "TAD",
+      "FCK",
+      "TVC",
+      "YIP",
+      "HWO",
+      "PBE"
+    ],
+    "dates": [
+      "1943 Jun 13",
+      "1943 Jun 14",
+      "1943 Jun 24",
+      "1943 Jun 25",
+      "1943 Jun 30",
+      "1943 Jul 7",
+      "1943 Jul 9",
+      "1943 Jul 10",
+      "1943 Jul 12",
+      "1943 Jul 15"
+    ],
+    "reference_numbers": [
+      "N90836",
+      "DOJ-OGR-00015936"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log from June 1943. It contains handwritten entries detailing flight information, including dates, aircraft identification, departure and arrival points, miles flown, and remarks. The log is signed by the pilot, David R. Roberts."
+}

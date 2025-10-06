@@ -1,0 +1,88 @@
+{
+  "document_metadata": {
+    "page_number": "67",
+    "document_number": null,
+    "date": "1977 JUN",
+    "document_type": "Pilot's Logbook Page",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date JUN 1977 Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... Night Cross Country 24 19 27 29 29 2 3 4 6 7 13 16 16 15 22 25 29 29 GENAIR G-1159B G-1159B G-1159B G-1159B KAPANA G-1159B G-1159B Bell 206 DA 20 DA 20 G-1159B G-1159B G-1159B G-1159B N2829 N908JC N908JC N908JC N908JC N919DR N908JC N908JC N11909 N125MF N125MF N908JC N908JC N908JC N908JC PBI-LNP-PBI TCB-PBI PBI-TCB TCB-BED BED-TCB TCB-PBI FPR-FPR PBI-TST TST-TCB PMP-SUA-PMP PMP-X44-LNP-PMP PMP-X44-PMP HWO-HWO HWO-PBI-HWO TCB-PBI PBI-SAF SAF-VNY VNY-OAK OAK-SAF 1248 1249 1252 251 1252 253 254 1255 252 1257 1258 1254 6/6 1/1 1/1 1/1 1/1 6/5 1/1 1/1 2 2/2 3/3 1/1 1/1 1/1 1/1 1 3 2 4 2 5 0 1 0 2 3 1 0 2 6 3 7 2 5 3 4 1 1 3 4 1 1 2 2 2 3 2 3 2 8 4 3 4 2 5 3 4 1 1 9 2 2 7 3 33 65 6 33 72 9 I certify that the statements made by me on this form are true. Pilot's Signature David R. Roberts Page Total Amount Forward Total to Date 244 7542 0 6216 5422 6214 7546 7574 6 33 65 6 33 72 9 67 DOJ-OGR-00015864",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date JUN 1977 Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... Night Cross Country",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "24 19 27 29 29 2 3 4 6 7 13 16 16 15 22 25 29 29 GENAIR G-1159B G-1159B G-1159B G-1159B KAPANA G-1159B G-1159B Bell 206 DA 20 DA 20 G-1159B G-1159B G-1159B G-1159B N2829 N908JC N908JC N908JC N908JC N919DR N908JC N908JC N11909 N125MF N125MF N908JC N908JC N908JC N908JC PBI-LNP-PBI TCB-PBI PBI-TCB TCB-BED BED-TCB TCB-PBI FPR-FPR PBI-TST TST-TCB PMP-SUA-PMP PMP-X44-LNP-PMP PMP-X44-PMP HWO-HWO HWO-PBI-HWO TCB-PBI PBI-SAF SAF-VNY VNY-OAK OAK-SAF 1248 1249 1252 251 1252 253 254 1255 252 1257 1258 1254 6/6 1/1 1/1 1/1 1/1 6/5 1/1 1/1 2 2/2 3/3 1/1 1/1 1/1 1/1 1 3 2 4 2 5 0 1 0 2 3 1 0 2 6 3 7 2 5 3 4 1 1 3 4 1 1 2 2 2 3 2 3 2 8 4 3 4 2 5 3 4 1 1 9 2 2",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David R. Roberts",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "244 7542 0 6216 5422 6214 7546 7574 6 33 65 6 33 72 9",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015864",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David R. Roberts"
+    ],
+    "organizations": [],
+    "locations": [
+      "PBI",
+      "TCB",
+      "BED",
+      "FPR",
+      "TST",
+      "PMP",
+      "SUA",
+      "X44",
+      "LNP",
+      "HWO",
+      "SAF",
+      "VNY",
+      "OAK"
+    ],
+    "dates": [
+      "JUN 1977"
+    ],
+    "reference_numbers": [
+      "N2829",
+      "N908JC",
+      "N919DR",
+      "N11909",
+      "N125MF",
+      "1248",
+      "1249",
+      "1252",
+      "251",
+      "1252",
+      "253",
+      "254",
+      "1255",
+      "252",
+      "1257",
+      "1258",
+      "1254",
+      "DOJ-OGR-00015864"
+    ]
+  },
+  "additional_notes": "The document is a pilot's logbook page with handwritten entries. The page is dated June 1977 and contains flight records with various aircraft makes and models, departure and arrival points, miles flown, and other details. The logbook page is signed by the pilot, David R. Roberts."
+}

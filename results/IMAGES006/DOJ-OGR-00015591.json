@@ -1,0 +1,38 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "image",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "GOVERNMENT EXHIBIT 253-R S2 20 Cr. 330 (AJN) DOJ-OGR-00015591",
+  "text_blocks": [
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 253-R S2 20 Cr. 330 (AJN)",
+      "position": "bottom right"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015591",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Government",
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "253-R",
+      "S2 20 Cr. 330",
+      "DOJ-OGR-00015591"
+    ]
+  },
+  "additional_notes": "The image appears to be a photograph of a room with various objects, including a painting, a chair, and a tissue box. The 'GOVERNMENT EXHIBIT' stamp suggests that the image is related to a legal or official proceeding."
+}

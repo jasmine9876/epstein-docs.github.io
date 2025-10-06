@@ -1,0 +1,68 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "418-R",
+    "date": null,
+    "document_type": "Government Exhibit",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "Palm Beach House Workers\n\nFull time workers\nJohn and Mary Alessi\n561 309 (p)\n561 366 (h)\nJerome Pierre (Gardener)\n561 547 (h)\nWorks Monday to Friday at approx. 2pm - 5pm (after working for Alan Stopeck)\nIf Mr. Epstein is in town he comes at 6.30am to clear debris away from pool deck and patio's and leaves for the day.\n\nPart time workers\nFrancis and Pastora Peadon (Cleaners)\n561 833\nWednesday 8am - 4.30pm also Thursday when requested\nEmmy Tayler\n917 972 (p)\n561 694 (h)\nAlan Stopeck (Landscape designer)\n561 793 (w)\nHe does not come at a regular time. He arrives, checks the garden and leaves\n\nGOVERNMENT EXHIBIT 418-R S2 20 Cr. 330 (AJN)\nDOJ-OGR-00015666",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Palm Beach House Workers",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Full time workers\nJohn and Mary Alessi\n561 309 (p)\n561 366 (h)\nJerome Pierre (Gardener)\n561 547 (h)\nWorks Monday to Friday at approx. 2pm - 5pm (after working for Alan Stopeck)\nIf Mr. Epstein is in town he comes at 6.30am to clear debris away from pool deck and patio's and leaves for the day.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Part time workers\nFrancis and Pastora Peadon (Cleaners)\n561 833\nWednesday 8am - 4.30pm also Thursday when requested\nEmmy Tayler\n917 972 (p)\n561 694 (h)\nAlan Stopeck (Landscape designer)\n561 793 (w)\nHe does not come at a regular time. He arrives, checks the garden and leaves",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 418-R S2 20 Cr. 330 (AJN)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015666",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "John Alessi",
+      "Mary Alessi",
+      "Jerome Pierre",
+      "Alan Stopeck",
+      "Mr. Epstein",
+      "Francis Peadon",
+      "Pastora Peadon",
+      "Emmy Tayler"
+    ],
+    "organizations": [],
+    "locations": [
+      "Palm Beach"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "561 309",
+      "561 366",
+      "561 547",
+      "561 833",
+      "917 972",
+      "561 694",
+      "561 793",
+      "418-R",
+      "S2 20 Cr. 330 (AJN)",
+      "DOJ-OGR-00015666"
+    ]
+  },
+  "additional_notes": "The document appears to be a list of house workers in Palm Beach, including their names, phone numbers, and work schedules. The document is marked as a 'Government Exhibit' with the number '418-R' and has a reference number 'DOJ-OGR-00015666'."
+}

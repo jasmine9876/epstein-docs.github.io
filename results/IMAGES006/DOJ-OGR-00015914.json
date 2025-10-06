@@ -1,0 +1,90 @@
+{
+  "document_metadata": {
+    "page_number": "117",
+    "document_number": "DOJ-OGR-00015914",
+    "date": null,
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... Sep 29 B-727-200 SIMlOX N909JK MIO MFD 1816 20 AIRPLANE GLIDER HELICOPTER 11 G-1159B N909JK PBI TIST 1817 26 13 TIST TEB 1818 38 14 TEB BED 1819 8 14 BED HPN 1819 8 20 PBI TIST 1821 25 24 TIST TEB 1822 37 25 TEB CMH 1823 14 25 CMH TEB 1823 14 27 TEB BED 1824 8 27 BED TEB 1824 10 Oct 8 B-727-31B N983JK LCQ LCQ 243 17 22 TIST JFK 248 37 Nov 2 G-1159B N909JK TEB BED 1834 8 2 BED OQU 1835 5 2 OQU BED 1836 5 2 BED TEB 1837 4 3 B-727-31H N908JK JFK TIST 351 44 8 TIST JFK 352 39 I certify that the statements made by me on this form are true. Pilot's Signature David Mcdouglas Amount Forward 6815 6130 98128 331294 Total to Date 6830 6134 9800 331294",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Sep 29 B-727-200 SIMlOX N909JK MIO MFD 1816 20 AIRPLANE GLIDER HELICOPTER 11 G-1159B N909JK PBI TIST 1817 26 13 TIST TEB 1818 38 14 TEB BED 1819 8 14 BED HPN 1819 8 20 PBI TIST 1821 25 24 TIST TEB 1822 37 25 TEB CMH 1823 14 25 CMH TEB 1823 14 27 TEB BED 1824 8 27 BED TEB 1824 10 Oct 8 B-727-31B N983JK LCQ LCQ 243 17 22 TIST JFK 248 37 Nov 2 G-1159B N909JK TEB BED 1834 8 2 BED OQU 1835 5 2 OQU BED 1836 5 2 BED TEB 1837 4 3 B-727-31H N908JK JFK TIST 351 44 8 TIST JFK 352 39",
+      "position": "main"
+    },
+    {
+      "type": "printed",
+      "content": "I certify that the statements made by me on this form are true.",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "Pilot's Signature David Mcdouglas",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Amount Forward Total to Date",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "6815 6130 98128 331294 6830 6134 9800 331294",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Mcdouglas"
+    ],
+    "organizations": [],
+    "locations": [
+      "MIO",
+      "MFD",
+      "PBI",
+      "TIST",
+      "TEB",
+      "BED",
+      "HPN",
+      "CMH",
+      "LCQ",
+      "JFK",
+      "OQU"
+    ],
+    "dates": [
+      "Sep 29",
+      "Oct 8",
+      "Nov 2"
+    ],
+    "reference_numbers": [
+      "N909JK",
+      "N983JK",
+      "N908JK",
+      "1816",
+      "1817",
+      "1818",
+      "1819",
+      "1821",
+      "1822",
+      "1823",
+      "1824",
+      "243",
+      "248",
+      "1834",
+      "1835",
+      "1836",
+      "1837",
+      "351",
+      "352",
+      "DOJ-OGR-00015914"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries and a signature. The log includes details of flights taken, including dates, aircraft make and model, identification marks, departure and arrival points, miles flown, flight numbers, and number of landings."
+}

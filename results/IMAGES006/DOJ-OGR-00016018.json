@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": "103",
+    "document_number": "DOJ-OGR-00016018",
+    "date": "2003",
+    "document_type": "Pilot's Logbook",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date 19- Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... From To AIRPLANE GLIDER HELICOPTER 23 AUG 4 B-727-314 N908JE JFK PBI 215 RJ,AM,MYLGNS 1/1 25  B-727-314 N908JE PBI TIST 216 RJ,BT,AM,GM,SK GARY ROXBURY 1/1 24  4 B747-407 N491GM LSJ TIST 0/0 3  5  TIST-LSJ-TIST 5  10 B-727-314 N908JE TIST JFK 217 RJ,AM,BT,GM GARY ROXBURY 1 38  10 B-727-314 N908JE JFK PBI 218 RJ,CATHODECRAYDGRY,MYLEVNIN 25  13 G-1159B N909JE MIV TCB 1642 RJ,BT,GM 1/1 4  13 G-1159B N909JE TCB SAF 1650 RJ,AM,BT,GM 1 38  20 G-1159B N909JE SAF ASE 1651 RJ,SK,GM 8  20 G-1159B N909JE ASE TCB 1652 RJ,GM,SK 38  22 G-1159B N909JE TCB PBI 1653 RJ,GM,SK,TM 1 23  31 B-727-314 N908JE PBI JAX 214  31 G-1159B N909JE PBI TCB 1654 RJ,BT,GM,SK 1 25  31 G-1159B N909JE TCB TCB 1655 3  31 SIMULATOR LGB LGB  CHRIS GAMBLE 4/4 40  17 G-1159B N909JE LGB LGB  CHRIS GAMBLE 4/5  18 G-1159B N909JE LGB LGB  CHRIS GAMBLE 4/4 40  22 G-1159B N909JE PBI TIST 1652 RJ,BT,SK,SH,TD 1/1 26  26 B-727-200 SIMULATOR MIP MIP  DAVE SAVAGE-INSTRUCTOR 2/0  I certify that the statements made by me on this form are true. Pilot's Signature David Rodgers Page Total 12 8 431 8 Amount Forward 6705 6347 91524 33118 9 Total to Date 6717 6355 91955 33119 7",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date 19- Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... From To AIRPLANE GLIDER HELICOPTER",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "23 AUG 4 B-727-314 N908JE JFK PBI 215 RJ,AM,MYLGNS 1/1 25  B-727-314 N908JE PBI TIST 216 RJ,BT,AM,GM,SK GARY ROXBURY 1/1 24  4 B747-407 N491GM LSJ TIST 0/0 3  5  TIST-LSJ-TIST 5  10 B-727-314 N908JE TIST JFK 217 RJ,AM,BT,GM GARY ROXBURY 1 38  10 B-727-314 N908JE JFK PBI 218 RJ,CATHODECRAYDGRY,MYLEVNIN 25  13 G-1159B N909JE MIV TCB 1642 RJ,BT,GM 1/1 4  13 G-1159B N909JE TCB SAF 1650 RJ,AM,BT,GM 1 38  20 G-1159B N909JE SAF ASE 1651 RJ,SK,GM 8  20 G-1159B N909JE ASE TCB 1652 RJ,GM,SK 38  22 G-1159B N909JE TCB PBI 1653 RJ,GM,SK,TM 1 23  31 B-727-314 N908JE PBI JAX 214  31 G-1159B N909JE PBI TCB 1654 RJ,BT,GM,SK 1 25  31 G-1159B N909JE TCB TCB 1655 3  31 SIMULATOR LGB LGB  CHRIS GAMBLE 4/4 40  17 G-1159B N909JE LGB LGB  CHRIS GAMBLE 4/5  18 G-1159B N909JE LGB LGB  CHRIS GAMBLE 4/4 40  22 G-1159B N909JE PBI TIST 1652 RJ,BT,SK,SH,TD 1/1 26  26 B-727-200 SIMULATOR MIP MIP  DAVE SAVAGE-INSTRUCTOR 2/0",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David Rodgers",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total 12 8 431 8 Amount Forward 6705 6347 91524 33118 9 Total to Date 6717 6355 91955 33119 7",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rodgers",
+      "GARY ROXBURY",
+      "CHRIS GAMBLE",
+      "DAVE SAVAGE"
+    ],
+    "organizations": [],
+    "locations": [
+      "JFK",
+      "PBI",
+      "TIST",
+      "LSJ",
+      "MIV",
+      "TCB",
+      "SAF",
+      "ASE",
+      "JAX",
+      "LGB",
+      "MIP"
+    ],
+    "dates": [
+      "23 AUG 2003"
+    ],
+    "reference_numbers": [
+      "N908JE",
+      "N491GM",
+      "N909JE"
+    ]
+  },
+  "additional_notes": "The document is a pilot's logbook page with handwritten entries. The page is filled with flight records, including dates, aircraft information, flight details, and remarks. The logbook is signed by the pilot, David Rodgers."
+}

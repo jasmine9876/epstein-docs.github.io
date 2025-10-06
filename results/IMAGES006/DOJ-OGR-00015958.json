@@ -1,0 +1,100 @@
+{
+  "document_metadata": {
+    "page_number": "43",
+    "document_number": "DOJ-OGR-00015958",
+    "date": null,
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... 19 18 G1159B N908JE MVY TEB 877 JG,DAVID ROTHMAN, RELEASED FOR IC 1/1 9 18 \"\" \"\" TEB PBI 878 JG CELINA MEDDELEFART 1/1 22 21 \"\" \"\" PBI JAN 879 JG,GM, ROBEN PLANT 1/1 7 21 \"\" \"\" JAN SAF 880 JG,GM, ROBEN PLANT 1/1 9 26 \"\" \"\" SAF PBI 881 JG,GM, ROBEN PLANT 1/1 3 29 \"\" \"\" PBI TEB 882 JG,GM 1/1 2 3 7 \"\" \"\" TEB BCD 883 JG 1/1 6 7 \"\" \"\" BCD PVD 884 JG 1 3 7 \"\" \"\" PVD CMH 885 JG 1 5 8 \"\" \"\" CMH DCA 886 JG, 1 MALE, 1 FEMALE 1 7 8 \"\" \"\" DCA CMH 887 JG, JOAN GLENN, ALAN DERSHOWITZ 1/1 8 8 \"\" \"\" CMH TEB 888 JG, ALAN DERSHOWITZ 1/1 11 9 \"\" \"\" TEB BOS 889 JG ALAN DERSHOWITZ 1/1 6 9 \"\" \"\" BOS TEB 890 RETURN TO TEB 1/1 8 12 \"\" \"\" TEB PBI 891 JG, CELINA MEDDELEFART 1/1 2 3 18 \"\" \"\" PBI TEB 892 JG,GM 1/1 2 3 20 \"\" \"\" TEB PBI 893 JG,GM 1/1 2 1 23 \"\" \"\" PBI BCD 894 JG,GM 1/1 2 6 23 \"\" \"\" BCD TEB 895 JG,GM 1 6 I certify that the statements made by me on this form are true. Pilot's Signature David Rodge Page Total 16/15 28 6 Amount Forward 583 3 6740 1 Total to Date 584 588 6168 7",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "19 18 G1159B N908JE MVY TEB 877 JG,DAVID ROTHMAN, RELEASED FOR IC 1/1 9 18 \"\" \"\" TEB PBI 878 JG CELINA MEDDELEFART 1/1 22 21 \"\" \"\" PBI JAN 879 JG,GM, ROBEN PLANT 1/1 7 21 \"\" \"\" JAN SAF 880 JG,GM, ROBEN PLANT 1/1 9 26 \"\" \"\" SAF PBI 881 JG,GM, ROBEN PLANT 1/1 3 29 \"\" \"\" PBI TEB 882 JG,GM 1/1 2 3 7 \"\" \"\" TEB BCD 883 JG 1/1 6 7 \"\" \"\" BCD PVD 884 JG 1 3 7 \"\" \"\" PVD CMH 885 JG 1 5 8 \"\" \"\" CMH DCA 886 JG, 1 MALE, 1 FEMALE 1 7 8 \"\" \"\" DCA CMH 887 JG, JOAN GLENN, ALAN DERSHOWITZ 1/1 8 8 \"\" \"\" CMH TEB 888 JG, ALAN DERSHOWITZ 1/1 11 9 \"\" \"\" TEB BOS 889 JG ALAN DERSHOWITZ 1/1 6 9 \"\" \"\" BOS TEB 890 RETURN TO TEB 1/1 8 12 \"\" \"\" TEB PBI 891 JG, CELINA MEDDELEFART 1/1 2 3 18 \"\" \"\" PBI TEB 892 JG,GM 1/1 2 3 20 \"\" \"\" TEB PBI 893 JG,GM 1/1 2 1 23 \"\" \"\" PBI BCD 894 JG,GM 1/1 2 6 23 \"\" \"\" BCD TEB 895 JG,GM 1 6",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David Rodge",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "16/15 28 6 583 3 6740 1 584 588 6168 7",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rothman",
+      "Celina Meddelefart",
+      "Roben Plant",
+      "Joan Glenn",
+      "Alan Dershowitz",
+      "David Rodge"
+    ],
+    "organizations": [],
+    "locations": [
+      "MVY",
+      "TEB",
+      "PBI",
+      "JAN",
+      "SAF",
+      "BCD",
+      "PVD",
+      "CMH",
+      "DCA",
+      "BOS"
+    ],
+    "dates": [
+      "19",
+      "18",
+      "21",
+      "26",
+      "29",
+      "7",
+      "8",
+      "9",
+      "12",
+      "18",
+      "20",
+      "23"
+    ],
+    "reference_numbers": [
+      "G1159B",
+      "N908JE",
+      "877",
+      "878",
+      "879",
+      "880",
+      "881",
+      "882",
+      "883",
+      "884",
+      "885",
+      "886",
+      "887",
+      "888",
+      "889",
+      "890",
+      "891",
+      "892",
+      "893",
+      "894",
+      "895",
+      "DOJ-OGR-00015958"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The log includes details such as date, aircraft make and model, identification mark, points of departure and arrival, miles flown, flight number, remarks, number of landings, and aircraft category. The pilot has signed the log certifying the statements made."
+}

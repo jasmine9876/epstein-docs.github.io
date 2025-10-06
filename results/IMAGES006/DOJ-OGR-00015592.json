@@ -1,0 +1,33 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "image",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "GOVERNMENT EXHIBIT 254-R 52 20 Cr. 330 (AJN) DOJ-OGR-00015592",
+  "text_blocks": [
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 254-R 52 20 Cr. 330 (AJN) DOJ-OGR-00015592",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "GOVERNMENT",
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "254-R",
+      "52 20 Cr. 330",
+      "DOJ-OGR-00015592"
+    ]
+  },
+  "additional_notes": "The image appears to be a photograph of various framed items and artifacts, possibly related to a government exhibit. The text is extracted from a yellow stamp in the bottom-right corner."
+}

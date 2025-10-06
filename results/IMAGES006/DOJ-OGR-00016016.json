@@ -1,0 +1,81 @@
+{
+  "document_metadata": {
+    "page_number": "101",
+    "document_number": null,
+    "date": "April 13 - May 12",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... APRIL 13 B727-31H N908JE CYQX PBI 193 JG,GM GROWN BOULCT MACHINE SK,BT,CRLAND CRIDST NUGIE 5 2 13 \" N909JC CMH TEB 1621 LM,JG,ML,SK,BT Barry mission 1 2 14 \" TEB MIV 1625 LM Barry mission 8 16 \" MIV TEB 1624 Barry mission 8 17 \" TEB PBI 1630 JG,SK,BT,GM ANDREW MEROVETZ 2 4 21 \" PBI ADS 1631 JG,SK,BT,CL 1/4 2 8 21 \" ADS SAF 1632 JG,CL,SK,BT V1 1 6 24 \" SAF SBA 1633 JG,SK,TEALA DAVIS, DANE 2 6 24 \" SBA VNY 1634 JG,SK,CL,MANTA DAVIS, DANE KEVIN BOVENZA, EMY TAYLOR 6 26 \" VNY TEB 1635 JG,SK 1 4 8 MAY 1 \" TEB TAD 1636 ANDREW MEROVITCH, SK, BT 9 3 \" TAD PBI 1637 JG,AM,SK,BT 2 1 7 BHT-407 N407BP DALLSCHOOL HURST,TX POOL FLYING QUEEL STOP, NO THROTTLES DUNNE, AUTO, SLOPE 1 3 7 \" \" \" AUTO ROTATION, 500 AUTO ROTATION, NO HYDRULICS, HOUSE AUTO 1 2 8 \" \" \" AUTO ROTATION, 100 AUTO ROTATION, NO HYDRULICS, AUTO HOIST 1 5 9 \" N4060Y \" \" AUTO ROTATION (EASY ROTATION) NO HYD RULICS, HELICOPTER AUTO ROTATION 1 10 12 \" N401GM TIST TIST LARRY VIDRINE 4 12 B-727-31H N908JE TIST JFK 195 JG,BM,SK,BT,ECOLA DAVIS, TATIANA LUTSA, CAREYING PACHIO 3 7 Page Total 4/3 3/1 5 4 Amount Forward 6493 4071 4 3 3 1 3 1 Total to Date 6341 9102 5 3 3 1 8 5 I certify that the statements made by me on this form are true. Pilot's Signature David Reddage DOJ-OGR-00016016",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "APRIL 13 B727-31H N908JE CYQX PBI 193 JG,GM GROWN BOULCT MACHINE SK,BT,CRLAND CRIDST NUGIE 5 2 ...",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David Reddage",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Reddage",
+      "Barry",
+      "Andrew Merovetz",
+      "Teala Davis",
+      "Dane",
+      "Kevin Bovenza",
+      "Emy Taylor",
+      "Larry VIDRINE"
+    ],
+    "organizations": [],
+    "locations": [
+      "CYQX",
+      "PBI",
+      "CMH",
+      "TEB",
+      "MIV",
+      "ADS",
+      "SAF",
+      "SBA",
+      "VNY",
+      "TAD",
+      "DALLSCHOOL",
+      "HURST,TX",
+      "TIST",
+      "JFK"
+    ],
+    "dates": [
+      "APRIL 13",
+      "APRIL 14",
+      "APRIL 16",
+      "APRIL 17",
+      "APRIL 21",
+      "APRIL 24",
+      "APRIL 26",
+      "MAY 1",
+      "MAY 3",
+      "MAY 7",
+      "MAY 8",
+      "MAY 9",
+      "MAY 12"
+    ],
+    "reference_numbers": [
+      "N908JE",
+      "N909JC",
+      "N407BP",
+      "N4060Y",
+      "N401GM",
+      "DOJ-OGR-00016016"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The log includes details such as date, aircraft make and model, identification mark, points of departure and arrival, miles flown, flight number, remarks, and number of landings."
+}

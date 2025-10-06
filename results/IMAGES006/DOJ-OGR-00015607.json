@@ -1,0 +1,37 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "exhibit",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "GOVERNMENT EXHIBIT 273 S2 20 Cr. 330 (AJN) DOJ-OGR-00015607",
+  "text_blocks": [
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 273 S2 20 Cr. 330 (AJN)",
+      "position": "bottom-right"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015607",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ",
+      "OGR"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00015607",
+      "S2 20 Cr. 330 (AJN)"
+    ]
+  },
+  "additional_notes": "The image is a dark photograph of an office with furniture and a lamp. The text is extracted from a yellow stamp in the bottom-right corner."
+}

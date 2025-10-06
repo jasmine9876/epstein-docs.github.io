@@ -1,0 +1,129 @@
+{
+  "document_metadata": {
+    "page_number": "4 of 5",
+    "document_number": "7-153-78512",
+    "date": "Dec 12, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx\nFedEx Express Shipment Detail By Payment Type (Original)\nShipped: Dec 06, 2002 Payor: Shipper Reference: 343-FX5060\nStill in bond cage.\nTracking ID 828821139729\nService Type FedEx Intl Economy\nPackage Type Customer Packaging\nOrig/Dest FLU/TNF\nPackages 0\nWeight 0\nDelivered Dec 12, 2002 09 20\nSigned by .GARDIENNE\nBundle ID\nFedEx Use: 16456J_60\nCustoms\nEntry Date Dec 09, 2002\nEntry No. FRC000525450105\nSender\nSJ KERLEN\nJEFFREY E EPSTE N\n457 MADISON AVE\nNEW YORK NY 10022-6843 US\nRecipient\nVALDSON COTRIN\nJ EPSTEIN\n22 AVENUE FOCH\nAPT 2D0\nPARIS 2D0\nFR\nDec 06, 2002 - Conversion Rate EUR USD 1.0185714290\nTotal Transportation Charges USD $ 0.00\nCustoms Duty EUR 7.00 7.13\nOriginal VAT EUR 49.00 49.89\nAdvancement Fee EUR 7.20 7.33\n1/1000 Charge 0.06\nTotal Duties, Tax, Customs, Other Fees USD $ 64.41\nShipment Total USD $ 64.41\nShipment Detail Subtotal USD $ 64.41\nInvoice Number: 7-153-78512\nInvoice Date: Dec 12, 2002\nAccount Number: 1144-2081-6\nPage: 4 of 5\nCONFIDENTIAL\nSDNY_GM_00342911 108\nDOJ-OGR-00015417",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Shipped: Dec 06, 2002 Payor: Shipper Reference: 343-FX5060",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Still in bond cage.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Tracking ID 828821139729\nService Type FedEx Intl Economy\nPackage Type Customer Packaging\nOrig/Dest FLU/TNF\nPackages 0\nWeight 0\nDelivered Dec 12, 2002 09 20\nSigned by .GARDIENNE\nBundle ID\nFedEx Use: 16456J_60",
+      "position": "left"
+    },
+    {
+      "type": "printed",
+      "content": "Customs\nEntry Date Dec 09, 2002\nEntry No. FRC000525450105",
+      "position": "left"
+    },
+    {
+      "type": "printed",
+      "content": "Sender\nSJ KERLEN\nJEFFREY E EPSTE N\n457 MADISON AVE\nNEW YORK NY 10022-6843 US",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Recipient\nVALDSON COTRIN\nJ EPSTEIN\n22 AVENUE FOCH\nAPT 2D0\nPARIS 2D0\nFR",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Dec 06, 2002 - Conversion Rate EUR USD 1.0185714290",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Total Transportation Charges USD $ 0.00",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Customs Duty EUR 7.00 7.13\nOriginal VAT EUR 49.00 49.89\nAdvancement Fee EUR 7.20 7.33\n1/1000 Charge 0.06",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Total Duties, Tax, Customs, Other Fees USD $ 64.41",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Shipment Total USD $ 64.41",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Shipment Detail Subtotal USD $ 64.41",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Number: 7-153-78512\nInvoice Date: Dec 12, 2002\nAccount Number: 1144-2081-6\nPage: 4 of 5",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "SDNY_GM_00342911 108\nDOJ-OGR-00015417",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "SJ KERLEN",
+      "JEFFREY E EPSTE N",
+      "VALDSON COTRIN",
+      "J EPSTEIN",
+      ".GARDIENNE"
+    ],
+    "organizations": [
+      "FedEx"
+    ],
+    "locations": [
+      "NEW YORK",
+      "PARIS"
+    ],
+    "dates": [
+      "Dec 06, 2002",
+      "Dec 09, 2002",
+      "Dec 12, 2002"
+    ],
+    "reference_numbers": [
+      "7-153-78512",
+      "343-FX5060",
+      "828821139729",
+      "FRC000525450105",
+      "1144-2081-6",
+      "SDNY_GM_00342911",
+      "DOJ-OGR-00015417"
+    ]
+  },
+  "additional_notes": "The document is a FedEx Express Shipment Detail By Payment Type. It contains information about a shipment, including the sender and recipient details, shipment date, delivery date, and customs information. The document is marked as 'CONFIDENTIAL'."
+}

@@ -1,0 +1,96 @@
+{
+  "document_metadata": {
+    "page_number": "11",
+    "document_number": null,
+    "date": "2004",
+    "document_type": "Pilot's Logbook Page",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... 10-1-2004 G-1159B N909JE TEB MOW  JG,SK 1V 1/1 19 11 G-1159B N909JE MOW PBI  JG,SK LV  27 13 B-727-311 N908JE PBI JFK  ISK,A.Q.GOSMAN, LV  25 15 B-727-311 N908JE JFK TIST  JG,BT,MS,SK,TD LM  35 20 B-727-311 N908JE TIST PBI  BT, JOE NGGER KALEN,MS, GR 1/1 25 21 G-1159B N909JE PBI TEB  JG,BT,MS LV 1/1 26 23 G-1159B N909JE TEB SAF  JG LV 1/1 44 24 G-1159B N909JE SAF LAS  SK,SEMENG, GR 1/1 16 2 G-1159B N909JE LAS SAF  SK,SEMENG, GR  13 4 G-1159B N909JE SAF ASE  JG,MS,SK,SEMENG GR  9 4 G-1159B N909JE ASE PBI  JG,MS,SK,SEMENG GR 1/0 38 11 G-1159B N909JE PBI TEB  JG,MS,ANDREWS,SK LV  27 15 G-1159B N909JE TEB PBI  JG,BT,JLB,SK,JK, LV 1 26 19 B-727-311 N908JE PBI TIST  JG,BT,SK,JK,STEFONEE LV  26 22 B-727-311 N908JE TIST PBI  JG,BT,SK,JK STEVE MALCE LM  26 25 B-727-311 N908JE PBI JFK  BT,SK LM 1/1 24 29 B-727-311 N908JE JFK LFPB  JG,SK LM  66 30 B-727-311 N908JE LFPB LGPA  JG,MS,SK,TD LV 1/1 17 3 B-727-311 N908JE LGPA LPAZ  JG,MS,SK,TD LM 1/1 36 I certify that the statements made by me on this form are true. Pilot's Signature David Redeker Page Total 11/9 525 Amount Forward 6766 94798 331250 Total to Date 6717 95323 331250 110 DOJ-OGR-00016025",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "10-1-2004 G-1159B N909JE TEB MOW  JG,SK 1V 1/1 19",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "David Redeker",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "I certify that the statements made by me on this form are true.",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Pilot's Signature",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total 11/9 525 Amount Forward 6766 94798 331250 Total to Date 6717 95323 331250",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Redeker",
+      "A.Q.GOSMAN",
+      "JOE NGGER KALEN",
+      "STEVE MALCE",
+      "STEFONEE"
+    ],
+    "organizations": [],
+    "locations": [
+      "TEB",
+      "MOW",
+      "PBI",
+      "JFK",
+      "TIST",
+      "SAF",
+      "LAS",
+      "ASE",
+      "LFPB",
+      "LGPA",
+      "LPAZ",
+      "ANDREWS"
+    ],
+    "dates": [
+      "10-1-2004",
+      "11",
+      "13",
+      "15",
+      "20",
+      "21",
+      "23",
+      "24",
+      "2",
+      "4",
+      "4",
+      "11",
+      "15",
+      "19",
+      "22",
+      "25",
+      "29",
+      "30",
+      "3"
+    ],
+    "reference_numbers": [
+      "N909JE",
+      "N908JE",
+      "G-1159B",
+      "B-727-311",
+      "DOJ-OGR-00016025"
+    ]
+  },
+  "additional_notes": "The document is a photocopy of a pilot's logbook page with handwritten entries. The page is numbered 11 of 9, indicating it may be a continuation or supplementary page. The logbook entries detail flights made in 2004, including dates, aircraft details, departure and arrival points, miles flown, and remarks on procedures and maneuvers."
+}

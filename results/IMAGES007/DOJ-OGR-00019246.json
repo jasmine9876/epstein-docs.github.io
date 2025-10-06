@@ -1,0 +1,99 @@
+{
+  "document_metadata": {
+    "page_number": "8",
+    "document_number": "20-606380",
+    "date": "9/9/2020",
+    "document_type": "Tracking Details",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "9/9/2020 Case#: 20-606380-AJ NerDoc#: 105-0 Filed: 09/04/20 Page@8lof 9 ups Tracking Details 1ZF4661F0194176904 Updated: 09/09/2020 10:55 A.M. EST Delivered Delivered On Friday 09/04/2020 Delivery Time at 10:11 A.M. Send Updates Delivered To NEW YORK, NY, US Left At: Dock Received By: EDDIE Proof of Delivery This website uses cookies We do this to better understand how visitors use our site and to offer you a more personal experience. Please see our Privacy Notice (https://www.ups.com/us/en/help-center/legal-terms-conditions/privacy-notice.page) for more information. You can manage your preferences by selecting Cookie Settings. https://www.ups.com/track?loc=null&tracknum=1ZF4661F0194176904&requester=WT/trackdetails 1/2 DOJ-OGR-00019246",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "ups",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Tracking Details",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "1ZF4661F0194176904",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Updated: 09/09/2020 10:55 A.M. EST",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Delivered",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Delivered On Friday 09/04/2020 Delivery Time at 10:11 A.M.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Send Updates",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Delivered To NEW YORK, NY, US",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Left At: Dock Received By: EDDIE Proof of Delivery",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "This website uses cookies We do this to better understand how visitors use our site and to offer you a more personal experience. Please see our Privacy Notice (https://www.ups.com/us/en/help-center/legal-terms-conditions/privacy-notice.page) for more information. You can manage your preferences by selecting Cookie Settings.",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "https://www.ups.com/track?loc=null&tracknum=1ZF4661F0194176904&requester=WT/trackdetails",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "1/2",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00019246",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "EDDIE"
+    ],
+    "organizations": [
+      "UPS"
+    ],
+    "locations": [
+      "NEW YORK, NY, US"
+    ],
+    "dates": [
+      "09/09/2020",
+      "09/04/2020"
+    ],
+    "reference_numbers": [
+      "1ZF4661F0194176904",
+      "20-606380",
+      "DOJ-OGR-00019246"
+    ]
+  },
+  "additional_notes": "The document appears to be a UPS tracking details page, with a cookie notice at the bottom. The document is likely a court filing, given the case number and document number at the top."
+}

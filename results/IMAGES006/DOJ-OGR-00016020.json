@@ -1,0 +1,77 @@
+{
+  "document_metadata": {
+    "page_number": "105",
+    "document_number": "DOJ-OGR-00016020",
+    "date": "October 26, 2003 - November 21, 2003",
+    "document_type": "Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... Airplane Glider Helicopter Oct 26 G-1159B N909JC TIST TEB 1676 JG,BT,SK,TO,LC 3 9 Oct 26 \" N909JC TEB MIV 1677 9 Oct 27 B-727-31H N908JC JAX JAX 220 1 V 1 4 Oct 28 \" N908JC JAX PBI 221 1 0 Oct 30 \" N908JC PBI JFK 222 2 5 Oct 30 \" N908JC JFK LFPB 223 JG,AM 1 / 1 6 4 Nov 4 \" N908JC LFPB EBR 224 JG,AM,SK 9 Nov 4 \" N908JC EBR ENGM 225 JG,AM, Desc BAND CM, Holding serv Nov 4 \" N908JC ENGM ESSA 226 JG,AM,GM,SK 9 Nov 5 \" N908JC ESSA ENGM 227 JG,AM,SK 1 / 1 9 Nov 5 \" N908JC ENGM UNNT 228 JG,AM,GM,SK Desc BAND H, Scored section PRESIDENT BILL CLINTON 5 3 Nov 6 \" N908JC UNNT VHHH 229 PRESIDENT BILL CLINTON 1 6 5 Nov 9 \" N908JC VHHH ZUUU 230 Desc AM,GM,SK,DB Zen master Nov 9 \" N908JC ZUUU ZBAA 231 Desc AM,GM,SK,OP Embraer TOW, Gatelink 2 2 Nov 11 \" N908JC ZBAA PANC 232 Desc AM,SK 1 / 1 7 8 Nov 11 \" N908JC PANC JFK 233 JG,AM,SK 6 3 Nov 14 \" N908JC JFK PBI 234 JG,BT,SK,AND GA,LC 2 5 Nov 18 \" N908JC PBI JFK 235 JG,BT,SK,LC 1 / 1 2 6 Nov 21 \" N908JC JFK CMH 236 JG,SK 1 5 Page Total 6729 502 Amount Forward 6362 9227 5 33125 0 Total to Date 6309 9285 7 33125 0 I certify that the statements made by me on this form are true. Pilot's Signature David Rodge",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... Airplane Glider Helicopter",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Oct 26 G-1159B N909JC TIST TEB 1676 JG,BT,SK,TO,LC 3 9",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David Rodge",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rodge",
+      "Bill Clinton"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [
+      "TIST",
+      "TEB",
+      "MIV",
+      "JAX",
+      "PBI",
+      "JFK",
+      "LFPB",
+      "EBR",
+      "ENGM",
+      "ESSA",
+      "UNNT",
+      "VHHH",
+      "ZUUU",
+      "ZBAA",
+      "PANC",
+      "CMH"
+    ],
+    "dates": [
+      "Oct 26, 2003",
+      "Oct 27, 2003",
+      "Oct 28, 2003",
+      "Oct 30, 2003",
+      "Nov 4, 2003",
+      "Nov 5, 2003",
+      "Nov 6, 2003",
+      "Nov 9, 2003",
+      "Nov 11, 2003",
+      "Nov 14, 2003",
+      "Nov 18, 2003",
+      "Nov 21, 2003"
+    ],
+    "reference_numbers": [
+      "N909JC",
+      "N908JC",
+      "G-1159B",
+      "B-727-31H",
+      "DOJ-OGR-00016020"
+    ]
+  },
+  "additional_notes": "The document is a flight log with handwritten entries. It appears to be a record of flights made by a pilot, with details such as date, aircraft make and model, identification mark, points of departure and arrival, miles flown, flight number, and remarks."
+}

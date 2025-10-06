@@ -1,0 +1,55 @@
+{
+  "document_metadata": {
+    "page_number": "6 of 9",
+    "document_number": "4-495-45970",
+    "date": "Dec 16, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\n\nPicked up: Dec 10, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nFedEx has audited this airbill for correct pieces, weight, and service. Any changes made are reflected in the invoice amount.\n\nTracking ID 791250262681 Sender CECILIA STEEN Recipient JEFFREY EPSTE N\nService Type FedEx Intl Priority JEFFREY E. EPSTEIN 6100 RED HOOK QUARTERS B-3\nPackage Type Customer Packaging 457 MADISON AVENUE ST. THOMAS 00802 VI\nZone I 4TH FLOOR\nOrig /Dest. JRB/STT NEW YORK NY 10022 US\nPackages 1\nWeight 15.0 lbs, 6.8 kgs\nDelivered Dec 11, 2002 17:37\nSigned by L.MORRELL\nFedEx Use _/US01O/_\n\nTransportation Charge 120.53\nFuel Surcharge 4.68\nDiscount -3.62\nTotal Transportation Charges USD $ 121.59\n\nPicked up: Dec 10, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nFedEx has audited this airbill for correct pieces, weight, and service. Any changes made are reflected in the invoice amount.\nWe calculated your charges based on a dimensional weight of 38.7 lbs (26\" x 19\" x 13\"). Chargeable weight based on IATA dimensional standards.\n\nTracking ID 791250641206 Sender CECILIA STEEN Recipient JEFFREY EPSTE N\nService Type FedEx Intl Priority JEFFREY E. EPSTEIN C/O AMERICAN YACHT HARBOR\nPackage Type Customer Packaging 457 MADISON AVENUE 6100 RED HOOK, QUARTERS B-3\nZone I 4TH FLOOR ST. THOMAS 00802 VI\nOrig /Dest. JRB/STT NEW YORK NY 10022 US\nPackages 1\nWeight 10.0 lbs, 4.5 kgs\nDelivered Dec 11, 2002 17:37\nSigned by L.MORRELL\nFedEx Use _/US01O/_\n\nTransportation Charge 227.06\nFuel Surcharge 8.81\nDiscount -6.81\nTotal Transportation Charges USD $ 229.06\n\nPicked up: Dec 10, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nFedEx has audited this airbill for correct pieces, weight, and service. Any changes made are reflected in the invoice amount.\nWe calculated your charges based on a dimensional weight of 18.6 lbs (20\" x 12\" x 13\"). Chargeable weight based on IATA dimensional standards.\n\nTracking ID 79199271967 Sender CECILIA STEEN Recipient JEFFREY EPSTE N\nService Type FedEx Intl Priority JEFFREY E. EPSTEIN C/O AMERICAN YACHT HARBOR\nPackage Type Customer Packaging 457 MADISON AVENUE 6100 RED HOOK, QUARTERS B-3\nZone I 4TH FLOOR ST. THOMAS 00802 VI\nOrig /Dest. JRB/STT NEW YORK NY 10022 US\nPackages 1\nWeight 2.0 lbs, 0.9 kgs\nDelivered Dec 11, 2002 17:37\nSigned by L.MORRELL\nFedEx Use _/US01O/_\n\nTransportation Charge 138.45\nFuel Surcharge 5.37\nDiscount -4.15\nTotal Transportation Charges USD $ 139.67\n\nCONFIDENTIAL\nSDNY_GM_00340800 139\nDOJ-OGR-00015448",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "CECILIA STEEN",
+      "JEFFREY E. EPSTEIN",
+      "JEFFREY EPSTE N",
+      "L.MORRELL"
+    ],
+    "organizations": [
+      "FedEx"
+    ],
+    "locations": [
+      "NEW YORK",
+      "ST. THOMAS",
+      "RED HOOK",
+      "AMERICAN YACHT HARBOR"
+    ],
+    "dates": [
+      "Dec 10, 2002",
+      "Dec 11, 2002",
+      "Dec 16, 2002"
+    ],
+    "reference_numbers": [
+      "4-495-45970",
+      "791250262681",
+      "791250641206",
+      "79199271967",
+      "1144-2081-6",
+      "SDNY_GM_00340800",
+      "DOJ-OGR-00015448"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx invoice with multiple shipment details. The document is marked as 'CONFIDENTIAL' at the bottom."
+}

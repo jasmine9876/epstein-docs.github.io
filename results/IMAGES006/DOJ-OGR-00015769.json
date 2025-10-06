@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": "40",
+    "document_number": "DOJ-OGR-00015769",
+    "date": "2/14/2005",
+    "document_type": "checklist",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "OCTOBER (Check list to be completed and signed by 28th October) Rotate seasonal clothing. Dry clean sweaters and other items if necessary. Wash mattress covers and launder any blankets. Take all books down from shelves and clean. Clean upholstery and throw cushions. Dry clean drapes. Check for pests throughout property. Inventory all crockery, glassware, linens, etc. Steam clean all carpets. Car maintenance if necessary. Drain and clean pool. DATE: 2/14/2005 SIGNATURE: DOJ-OGR-00015769 40",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "OCTOBER",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "(Check list to be completed and signed by 28th October)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Rotate seasonal clothing. Dry clean sweaters and other items if necessary. Wash mattress covers and launder any blankets. Take all books down from shelves and clean. Clean upholstery and throw cushions. Dry clean drapes. Check for pests throughout property. Inventory all crockery, glassware, linens, etc. Steam clean all carpets. Car maintenance if necessary. Drain and clean pool.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DATE: 2/14/2005 SIGNATURE:",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015769",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "40",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "28th October",
+      "2/14/2005"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00015769"
+    ]
+  },
+  "additional_notes": "The document appears to be a checklist for tasks to be completed in October, with a deadline of 28th October. The document is signed and dated 2/14/2005, which is likely an error as the tasks are for October and the date is in February."
+}

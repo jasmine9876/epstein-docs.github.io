@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": "29",
+    "document_number": "60",
+    "date": "09/24/2020",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "of judicial officers has before it the full picture of the facts relevant to the controversies it is trying to resolve. Meanwhile, a forty-year-old decision from this Court squarely holds that the government seeking access to court-protected documents in a civil case to which it is not a party must follow certain procedures to request those documents, yet the government here declined to follow those procedures. Adding to the extraordinary, Ms. Maxwell is the only person with interests in all six of the judicial proceedings and with at least some knowledge of all of them.",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "of judicial officers has before it the full picture of the facts relevant to the controversies it is trying to resolve.",
+      "position": "top"
+    },
+    {
+      "type": "redacted",
+      "content": "[redacted text]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Meanwhile, a forty-year-old decision from this Court squarely holds that the government seeking access to court-protected documents in a civil case to which it is not a party must follow certain procedures to request those documents, yet the government here declined to follow those procedures. Adding to the extraordinary, Ms. Maxwell is the only person with interests in all six of the judicial proceedings and with at least some knowledge of all of them.",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "24",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00019428",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ms. Maxwell"
+    ],
+    "organizations": [
+      "Court"
+    ],
+    "locations": [],
+    "dates": [
+      "09/24/2020"
+    ],
+    "reference_numbers": [
+      "20-3061",
+      "Document 60",
+      "2938278",
+      "DOJ-OGR-00019428"
+    ]
+  },
+  "additional_notes": "The document contains redactions, likely for sensitive or personal information."
+}

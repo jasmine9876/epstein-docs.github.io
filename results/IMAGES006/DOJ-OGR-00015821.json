@@ -1,0 +1,69 @@
+{
+  "document_metadata": {
+    "page_number": "24",
+    "document_number": "DOJ-OGR-00015821",
+    "date": "1993-07",
+    "document_type": "Pilot's Logbook Page",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE 1993 JUL AIRCRAFT MAKE AND MODEL HS125-700 AIRCRAFT IDENTIFICATION MARK N9083E POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FLOWN FLT. NO. REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS AIRCRAFT CATEGORY NO. LDG. Airplane Glides TURB 7 11 TCB - ABE - PBI 407 1/2 24 29 2 11 PBI TCB 424 1/1 25 25 2 13 TCB BED 420 0/0 6 6 14 BED TCB 420 15 TCB PBI 412 1/1 27 27 2 17 PBI TCB 413 1/1 28 28 2 21 TCB - DFW - CMH 405 0/2 18 18 1 22 CMH SAF 416 1/1 31 31 3 24 SAF TCB 417 0/0 6 6 25 TCB BOS 418 0/0 6 9 26 BOS TCB 413 1/1 27 27 2 28 TCB PBI 420 1/1 42 42 4 14 PBI SAF 421 1/1 42 42 4 15 SAF LAX 422 1/1 16 16 16 LAX CMH 423 1/1 40 40 4 18 CMH TCB 424 1/1 28 28 2 20 TCB - ACY - PBI 425 1/1 28 28 2 21 PBI BOS 421 1/1 26 26 2 I certify that the statements made by me on this form are true. PILOT'S SIGNATURE David Redfern PAGE TOTAL AMT. FORWARD TOTAL TO DATE 4942 4363 3 2354 3471 33 4455 1 2376",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE 1993 JUL AIRCRAFT MAKE AND MODEL HS125-700 AIRCRAFT IDENTIFICATION MARK N9083E POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FLOWN FLT. NO. REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS AIRCRAFT CATEGORY NO. LDG. Airplane Glides TURB",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "7 11 TCB - ABE - PBI 407 1/2 24 29 2 11 PBI TCB 424 1/1 25 25 2 13 TCB BED 420 0/0 6 6 14 BED TCB 420 15 TCB PBI 412 1/1 27 27 2 17 PBI TCB 413 1/1 28 28 2 21 TCB - DFW - CMH 405 0/2 18 18 1 22 CMH SAF 416 1/1 31 31 3 24 SAF TCB 417 0/0 6 6 25 TCB BOS 418 0/0 6 9 26 BOS TCB 413 1/1 27 27 2 28 TCB PBI 420 1/1 42 42 4 14 PBI SAF 421 1/1 42 42 4 15 SAF LAX 422 1/1 16 16 16 LAX CMH 423 1/1 40 40 4 18 CMH TCB 424 1/1 28 28 2 20 TCB - ACY - PBI 425 1/1 28 28 2 21 PBI BOS 421 1/1 26 26 2",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "I certify that the statements made by me on this form are true. PILOT'S SIGNATURE",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "David Redfern",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE TOTAL AMT. FORWARD TOTAL TO DATE",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "4942 4363 3 2354 3471 33 4455 1 2376",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Redfern"
+    ],
+    "organizations": [],
+    "locations": [
+      "TCB",
+      "ABE",
+      "PBI",
+      "BED",
+      "DFW",
+      "CMH",
+      "SAF",
+      "BOS",
+      "LAX",
+      "ACY"
+    ],
+    "dates": [
+      "1993-07"
+    ],
+    "reference_numbers": [
+      "N9083E",
+      "DOJ-OGR-00015821"
+    ]
+  },
+  "additional_notes": "The document is a pilot's logbook page with handwritten entries. The page is partially obscured by a black rectangle, but the surrounding text is still legible."
+}

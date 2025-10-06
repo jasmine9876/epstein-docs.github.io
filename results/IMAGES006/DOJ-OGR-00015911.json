@@ -1,0 +1,81 @@
+{
+  "document_metadata": {
+    "page_number": "114",
+    "document_number": "DOJ-OGR-00015911",
+    "date": null,
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... Day Night Actual Instrument SIMULATOR PIC SIC Total\nJAN 8 G-1159B N909JC PBI RSW 1752 6\n11 B-727-31H N908JC PBI TST 310 25\n14 \" \" \" TST PBI 311 28\n27 \" \" \" PBI TST 315 23\n31 \" \" \" TST JFK 316 38\nFEB 3 \" \" \" JFK CMH 317 14\n3 \" \" \" CMH PBI 318 22\n7 \" \" \" PBI JFK 319 25\n10 G-1159B N909JC PBI PBI 175 11\n19 \" \" \" PBI TST 178 24\n19 \" \" \" TST PBI 179 27\n24 B-727-31H N908JC PBI PBI 324 5\nMAR 7 \" \" \" PBI JFK 325 24\n6 B-727-200 SIMULATOR MEP MEP 20\n7 \" \" \" MEP MEP 25\n8 G-1159B N909JC PBI SAN 175 56\n13 \" \" \" SAN MDW 1760 30\n14 \" \" \" MDW TEB 1761 17\nI certify that the statements made by me on this form are true.\nPilot's Signature David Rodiguez\nPage Total 91 6431\nAmount Forward 6794 96739 331294\nTotal to Date 6413 97170 331294",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... Day Night Actual Instrument SIMULATOR PIC SIC Total",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "JAN 8 G-1159B N909JC PBI RSW 1752 6\n11 B-727-31H N908JC PBI TST 310 25\n14 \" \" \" TST PBI 311 28\n27 \" \" \" PBI TST 315 23\n31 \" \" \" TST JFK 316 38\nFEB 3 \" \" \" JFK CMH 317 14\n3 \" \" \" CMH PBI 318 22\n7 \" \" \" PBI JFK 319 25\n10 G-1159B N909JC PBI PBI 175 11\n19 \" \" \" PBI TST 178 24\n19 \" \" \" TST PBI 179 27\n24 B-727-31H N908JC PBI PBI 324 5\nMAR 7 \" \" \" PBI JFK 325 24\n6 B-727-200 SIMULATOR MEP MEP 20\n7 \" \" \" MEP MEP 25\n8 G-1159B N909JC PBI SAN 175 56\n13 \" \" \" SAN MDW 1760 30\n14 \" \" \" MDW TEB 1761 17",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true.\nPilot's Signature David Rodiguez",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "91 6431\n6794 96739 331294\n6413 97170 331294",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rodiguez"
+    ],
+    "organizations": [],
+    "locations": [
+      "PBI",
+      "RSW",
+      "TST",
+      "JFK",
+      "CMH",
+      "SAN",
+      "MDW",
+      "TEB",
+      "MEP"
+    ],
+    "dates": [
+      "JAN 8",
+      "JAN 11",
+      "JAN 14",
+      "JAN 27",
+      "JAN 31",
+      "FEB 3",
+      "FEB 7",
+      "FEB 10",
+      "FEB 19",
+      "FEB 24",
+      "MAR 7",
+      "MAR 6",
+      "MAR 8",
+      "MAR 13",
+      "MAR 14"
+    ],
+    "reference_numbers": [
+      "N909JC",
+      "N908JC",
+      "G-1159B",
+      "B-727-31H",
+      "B-727-200",
+      "DOJ-OGR-00015911"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The log includes details such as date, aircraft make and model, identification mark, points of departure and arrival, miles flown, flight number, and number of landings. The document is signed by the pilot, David Rodiguez."
+}

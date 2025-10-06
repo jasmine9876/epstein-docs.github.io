@@ -1,0 +1,78 @@
+{
+  "document_metadata": {
+    "page_number": "6 of 8",
+    "document_number": "4-447-52055",
+    "date": "Nov 11, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type (Original)",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\n\nDropped off: Nov 02, 2002  Payor: Shipper  Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 3.00% to this shipment.\nFedEx has audited this airbill for correct pieces, weight, and service. Any changes made are reflected in the invoice amount.\nDiscount applied is the greater of volume discount or dropoff discount. No additional discount applies.\n\nTracking ID 834826444355  Sender  Recipient\nService Type FedEx Intl Priority DAVE RODGERS JEANNE BRENNAN\nPackage Type FedEx Envelope JEFFREY E EPSTE N F NANCIAL TRUST COMPANY\nZone I 457 MADISON AVE 6100 RED HOOK QUARTERS\nOrig /Dest. LNA/STT NEW YORK NY 10022-6843 US SUITE B3\nPackages 1 ST.THOMAS 00802 VI\nWeight 0.9 lbs, 0.4 kgs\nDelivered Nov 04, 2002 16:03  Transportation Charge 38.00\nSigned by J.RUAN Fuel Surcharge 1.11\nFedEx Use _/US01O/_ Discount -1.14\n\nTotal Transportation Charges USD $ 37.97\n\nPicked up: Nov 05, 2002  Payor: Shipper  Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nFedEx has audited this airbill for correct pieces, weight, and service. Any changes made are reflected in the invoice amount.\n\nTracking ID 824101098041  Sender  Recipient\nService Type FedEx Intl Priority LARRY VISOSKI MILES/JEFFREY\nPackage Type FedEx Pak JEFFREY E EPSTE N LITTLE ST JAMES\nZone I 457 MADISON AVE 6100 RED HOOK\nOrig /Dest. PB /STT NEW YORK NY 10022-6843 US QUARTER #2\nPackages 1 ST THOMAS 00802 VI\nWeight 1.2 lbs, 0.5 kgs\nDelivered Nov 06, 2002 16:26  Transportation Charge 38.00\nSigned by J.RUAN Fuel Surcharge 1.47\nDec. Value USD 5.00 Discount -1.14\nFedEx Use _/US01O/_ \n\nTotal Transportation Charges USD $ 38.33\n\nPicked up: Nov 06, 2002  Payor: Shipper  Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nFedEx has audited this airbill for correct pieces, weight, and service. Any changes made are reflected in the invoice amount.\nWe calculated your charges based on a dimensional weight of 15.7 lbs (20\" x 10\" x 13\"). Chargeable weight based on IATA dimensional standards.\n\nTracking ID 790134441000  Sender  Recipient\nService Type FedEx Intl Priority CECILIA STEEN JEFFREY EPSTE N\nPackage Type Customer Packaging JEFFREY E. EPSTEIN C/O AMERICAN YACHT HARBOR\nZone I 457 MADISON AVENUE 6100 RED HOOK, QUARTERS #2\nOrig /Dest. JRB/STT 4TH FLOOR ST. THOMAS 00802 VI\nPackages 1\nWeight 10.0 lbs, 4.5 kgs\nDelivered Nov 07, 2002 15:58  Transportation Charge 125.01\nSigned by M.MORGAN Fuel Surcharge 4.85\nFedEx Use _/US01O/_ Discount -3.75\n\nTotal Transportation Charges USD $ 126.11\n\nCONFIDENTIAL",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Dropped off: Nov 02, 2002  Payor: Shipper  Reference: NO REFERENCE INFORMATION",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Fuel Surcharge - FedEx has applied a fuel surcharge of 3.00% to this shipment.\nFedEx has audited this airbill for correct pieces, weight, and service. Any changes made are reflected in the invoice amount.\nDiscount applied is the greater of volume discount or dropoff discount. No additional discount applies.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "DAVE RODGERS",
+      "JEANNE BRENNAN",
+      "JEFFREY E EPSTE N",
+      "LARRY VISOSKI",
+      "MILES/JEFFREY",
+      "CECILIA STEEN",
+      "JEFFREY EPSTE N",
+      "J.RUAN",
+      "M.MORGAN"
+    ],
+    "organizations": [
+      "F NANCIAL TRUST COMPANY",
+      "AMERICAN YACHT HARBOR",
+      "FedEx"
+    ],
+    "locations": [
+      "457 MADISON AVE",
+      "6100 RED HOOK QUARTERS",
+      "NEW YORK NY 10022-6843 US",
+      "ST.THOMAS 00802 VI",
+      "LITTLE ST JAMES",
+      "ST THOMAS 00802 VI",
+      "457 MADISON AVENUE",
+      "4TH FLOOR",
+      "ST. THOMAS 00802 VI"
+    ],
+    "dates": [
+      "Nov 02, 2002",
+      "Nov 04, 2002",
+      "Nov 05, 2002",
+      "Nov 06, 2002",
+      "Nov 07, 2002",
+      "Nov 11, 2002"
+    ],
+    "reference_numbers": [
+      "4-447-52055",
+      "834826444355",
+      "824101098041",
+      "790134441000",
+      "1144-2081-6"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx shipment detail report, containing information about three separate shipments. The document is marked 'CONFIDENTIAL' at the bottom."
+}

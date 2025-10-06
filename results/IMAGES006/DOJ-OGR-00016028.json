@@ -1,0 +1,75 @@
+{
+  "document_metadata": {
+    "page_number": "113",
+    "document_number": "DOJ-OGR-00016028",
+    "date": "2004-11-18 to 2005-01-06",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... 2004 Nov 18 G-1159B N909JE TEB PBI 1740 JFK SK,DM, LV 2 3 20 B-727-31H N908JE JAX AX 305 LV 2 6 20 \" JAX PBI 306 LM 1 0 23 \" PBI TIST 367 JFK,HUMBLEM LM 2 3 26 G-1159B N909JE PBI TIST 1741 GM,JK LV 2 4 28 B-727-31H N908JE TIST JFK 308 JE,GM,JK SK,DM,SH EM 4 0 30 \" \" JFK PBI 304 JE,SK,SH EM 2 8 Dec 14 B-727-200 SIMULATOR MID MID HANK COLLINS - INSTRUCTOR 1 0 15 \" \" \" \" HANK COLLINS-INSTRUCTOR WILLIAM JOSH 1 7 15 \" \" \" \" HANK COLLINS-INSTRUCTOR WILLIAM 1 7 21 G-1159B N909JE PBI TIST 146 JE,SK GM STEVE LOSIKAN 2 3 29 \" \" TIST TNCM 140 JE,SK LV 1 7 29 \" \" TNCM TIST 147 JE,SK LV 1 7 30 B747-400 N491GM TIST-LSJ-PDX  LV  30 \" LSJ TIST LV  2005 Jan 1 G-1159B N909JE TIST TAPF 174 JE,JLB,S MAIBROOKS LV 1 1 6 2 \" \" TAPF PBI 174 JE,DM,JLB SK,IZB LV 1 1 3 2 \" PBI TEB 1750 JE,DM,GM SK LV 2 7 6 \" TEB PBI 1751 JE,DANP LV 2 7 I certify that the statements made by me on this form are true. Pilot's Signature David Ridgway Page Total 7/8 35 5 13 Amount Forward 6787 1402 6794 9639 4 33128 1 Total to Date 6467 96139 331294",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "2004 Nov 18 G-1159B N909JE TEB PBI 1740 JFK SK,DM, LV 2 3 ...",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David Ridgway",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Ridgway",
+      "Hank Collins",
+      "William Josh",
+      "Steve Losikan"
+    ],
+    "organizations": [],
+    "locations": [
+      "TEB",
+      "PBI",
+      "JAX",
+      "AX",
+      "TIST",
+      "JFK",
+      "MID",
+      "TNCM",
+      "LSJ",
+      "PDX",
+      "TAPF"
+    ],
+    "dates": [
+      "2004-11-18",
+      "2004-11-20",
+      "2004-11-23",
+      "2004-11-26",
+      "2004-11-28",
+      "2004-12-14",
+      "2004-12-15",
+      "2004-12-21",
+      "2004-12-29",
+      "2004-12-30",
+      "2005-01-01",
+      "2005-01-03",
+      "2005-01-06"
+    ],
+    "reference_numbers": [
+      "N909JE",
+      "N908JE",
+      "N491GM",
+      "G-1159B",
+      "B-727-31H",
+      "B-727-200",
+      "B747-400"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. Some information in the 'Remarks, Procedures, Maneuvers, Endorsements' column is redacted."
+}

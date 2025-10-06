@@ -1,0 +1,101 @@
+{
+  "document_metadata": {
+    "page_number": "49",
+    "document_number": "DOJ-OGR-00015964",
+    "date": "1997-07",
+    "document_type": "Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... 1997 Jul 1 G1159B N908JE PBI TEB 994 36,GM, PAULA EPSTEIN 1/1 25 10 \" CMH SAF 999 JG, DIDIER 1/1 30 16 \" PBI SAF PBI 1000 SIMULATED - STEep TURNS, VSO, VSI, SET UPSET (WAKE - TURBULENCE) 3/2 22 \" DFW HOU SEMULATED 3/0 23 \" TEB HPN XENTEK OPERATIONS ELECTRONIC; TAIL ENGINE RTO 3/0 24 \" DFW COS GUM ARRESTING, HYDROFLICS EMERGENCY DESCENT WENDSHURK 3/0 13 C-421B N908GM ZOR- SAF-ZOR 57 4 H TAKE OFF & LANDING 4/4 7 15 \" ZOR SAF 58 KRESTY RODGERS 1/1 24 Aug 1 \" SAF ZOR 59 1/1 24 9 G1159B N908JE PBI TVC 142 36,GM 1/1 27 10 \" TVC TEB 1013 JG, GM 1/1 15 13 \" TEB PBI 1014 JG,GM 2/3 17 \" PBI MVY 1015 JG, HEATHER MANN 1/1 25 17 \" MVY TEB 1016 JG, HEATHER MANN 1/1 7 20 \" TEB SAF 1017 JG, CELENA, GLEN EVA, CELENA MIDDLEPART, DEDUCE 3/9 23 \" SAF TEB 1018 JG, CELENA MIDDLEPART, DEDUCE GLENN EVA & CELENA DUBEN 3/5 24 \" TEB FOK 1019 REPOSITION 1/1 5 24 \" FOK MVY 1020 JG, CELENA MIDDLEPART 1/1 4 25 \" MVY PBI 1021 JG, CELENA MIDDLEPART 1/1 26 Page Total 15/14 396 Amount Forward 5931 69643 Total to Date 5946 70039 I certify that the statements made by me on this form are true. Pilot's Signature David Rodgers",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "1997 Jul 1 G1159B N908JE PBI TEB 994 36,GM, PAULA EPSTEIN 1/1 25 ...",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David Rodgers",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Paula Epstein",
+      "Didier",
+      "Kresty Rodgers",
+      "Heather Mann",
+      "Celena",
+      "Glen Eva",
+      "Celena Duben",
+      "David Rodgers"
+    ],
+    "organizations": [
+      "Xentek"
+    ],
+    "locations": [
+      "PBI",
+      "TEB",
+      "CMH",
+      "SAF",
+      "DFW",
+      "HOU",
+      "HPN",
+      "COS",
+      "ZOR",
+      "TVC",
+      "MVY",
+      "FOK"
+    ],
+    "dates": [
+      "1997-07-01",
+      "1997-07-10",
+      "1997-07-16",
+      "1997-07-22",
+      "1997-07-23",
+      "1997-07-24",
+      "1997-08-13",
+      "1997-08-15",
+      "1997-08-01",
+      "1997-08-09",
+      "1997-08-10",
+      "1997-08-13",
+      "1997-08-17",
+      "1997-08-20",
+      "1997-08-23",
+      "1997-08-24",
+      "1997-08-25"
+    ],
+    "reference_numbers": [
+      "N908JE",
+      "N908GM",
+      "G1159B",
+      "C-421B",
+      "36",
+      "994",
+      "999",
+      "1000",
+      "57",
+      "58",
+      "59",
+      "142",
+      "1013",
+      "1014",
+      "1015",
+      "1016",
+      "1017",
+      "1018",
+      "1019",
+      "1020",
+      "1021",
+      "DOJ-OGR-00015964"
+    ]
+  },
+  "additional_notes": "The document is a flight log with handwritten entries. The pilot's signature is present at the bottom."
+}

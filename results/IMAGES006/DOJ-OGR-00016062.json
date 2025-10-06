@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": "14",
+    "document_number": "4-495-33932",
+    "date": "Dec 16, 2002",
+    "document_type": "Invoice",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Invoice Number: 4-495-33932 Invoice Date Dec 16, 2002 Account Number 1144 2081 6 Page 14 of 15 FedEx Ground Prepaid Detail Purchase Order Number Customer Reference Tracking ID Svc Code Dest Zip Zone Weight Base Charge Other Charge Total Charge Pickup Date: 12/05 968 2757 10000358 019 94538 008 3.0 5.15 0.06(35) 5.21 DOJ-OGR-00016062",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Number: 4-495-33932 Invoice Date Dec 16, 2002 Account Number 1144 2081 6 Page 14 of 15",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "FedEx Ground Prepaid Detail",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Purchase Order Number Customer Reference Tracking ID Svc Code Dest Zip Zone Weight Base Charge Other Charge Total Charge",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Pickup Date: 12/05 968 2757 10000358 019 94538 008 3.0 5.15 0.06(35) 5.21",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00016062",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "FedEx"
+    ],
+    "locations": [],
+    "dates": [
+      "Dec 16, 2002",
+      "12/05"
+    ],
+    "reference_numbers": [
+      "4-495-33932",
+      "1144 2081 6",
+      "968 2757 10000358",
+      "94538",
+      "DOJ-OGR-00016062"
+    ]
+  },
+  "additional_notes": "The document is a FedEx invoice with details about a shipment, including the tracking ID, weight, and charges. The document is in good condition with no visible damage or redactions."
+}

@@ -1,0 +1,55 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "120366008380",
+    "date": "August 17, 2020",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "The Honorable Alison J. Nathan August 17, 2020 Page 3 The Material The government apparently contacted at some time before February 2019 Based on some discussion with , the government served with a subpoena to produce . Ms. Maxwell was not served with App.106 DOJ-OGR-00019565",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "The Honorable Alison J. Nathan August 17, 2020 Page 3",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "The Material",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "The government apparently contacted at some time before February 2019 Based on some discussion with , the government served with a subpoena to produce . Ms. Maxwell was not served with",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "App.106",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00019565",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Alison J. Nathan",
+      "Ms. Maxwell"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "August 17, 2020",
+      "February 2019"
+    ],
+    "reference_numbers": [
+      "120366008380",
+      "DOJ-OGR-00019565"
+    ]
+  },
+  "additional_notes": "The document contains redactions, likely for sensitive or personal information."
+}

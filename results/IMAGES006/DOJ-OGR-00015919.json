@@ -1,0 +1,59 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "DOJ-OGR-00015919",
+    "date": "1991",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE 1991 POINTS OF DEPARTURE & ARRIVAL REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS AIRCRAFT CATEGORY AIRCRAFT MAKE AND MODEL AIRCRAFT IDENTIFICATION MARK FROM TO MILES FLOWN FLT. NO. NO. LDG. AIRPLANE COMPLEX TURB. 30 HS25-20 N1685G CMH TEB 41 SECRET EPISTIN 1 3 13 1 25 C172 CMH CMH CFE REEVALUATION-RAP SCORN 1 1 3 HS25-100 N4045C TEB BKL 2042 SECRET, GROUND MANEUV, CHRISTINE 27 27 2 '5 \" BKL CMH 1 44 SECRET HEATHER 1 5 5 7 \" CMH TEB 50 45 SECRET HEATHER 12 12 1 10 \" TEB TEB 40 46 INSTR FLT FOR SUNY MOBILE 25:57M REP GEORGE BAJTA 10 10 1 11 \" TEB DCA 145 47 SECRET, GROUND 9 9 11 \" DCA CMH 1 48 ABOVE 9 9 12 \" CMH BKL 60 49 ABOVE 5 5 12 \" BKL CMH 1 50 ABOVE 5 5 14 \" CMH BKL 65 51 SECRET, CHRISTINE, LISP ABOVE 4 4 14 \" BKL TEB 1 52 ABOVE 11 11 1 15 \" TEB CMH 40 53 SECRET HEATHER 12 12 1 20 \" CMH BKL 150 54 SECRET, END ANDERSON 14 4 20 \" BKL TEB 1 55 ABOVE 10 10 1 20 \" TEB B05 1 56 SECRET 15 15 20 \" B05 TEB 1 57 SECRET 7 7 I certify that the statements made by me on this form are true. PAGE TOTAL 180 175 17 AMT. FORWARD 5438 3798 1742 TOTAL TO DATE 5267 5437 3800 1749 PILOT'S SIGNATURE David Rockyn",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE 1991 POINTS OF DEPARTURE & ARRIVAL REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS AIRCRAFT CATEGORY",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "30 HS25-20 N1685G CMH TEB 41 SECRET EPISTIN 1 3 13 1 ...",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true.",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "David Rockyn",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rockyn",
+      "CHRISTINE",
+      "HEATHER",
+      "GEORGE BAJTA",
+      "ANDERSON"
+    ],
+    "organizations": [],
+    "locations": [
+      "CMH",
+      "TEB",
+      "BKL",
+      "DCA",
+      "B05"
+    ],
+    "dates": [
+      "1991"
+    ],
+    "reference_numbers": [
+      "N1685G",
+      "N4045C",
+      "DOJ-OGR-00015919"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The log includes details such as flight dates, aircraft make and model, departure and arrival points, flight numbers, and remarks. The document is signed by the pilot, David Rockyn."
+}

@@ -1,0 +1,110 @@
+{
+  "document_metadata": {
+    "page_number": "5",
+    "document_number": "4-495-75031",
+    "date": "Dec 23, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx\nInvoice Number: 4-495-75031\nInvoice Date: Dec 23, 2002\nAccount Number: 1144-2081-6\nPage: 5 of 21\nFedEx Express Shipment Detail By Payment Type (Original)\nPicked up: Dec 10, 2002 Payer: Shipper Reference: NO REFERENCE INFORMATION\nFuel Surcharge FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 8\nPackage sent from: 10021 zip code\n1st attempt Dec 12, 2002 at 12:50 PM.\nIncorrect recipient address.\nOriginal address: 10064 TOLUCA LAKE AVENORTH HOLLYWOOD,CA 91602\nFedEx has audited this shipment for correct packages, weight, and service. Any changes made are reflected in the invoice amount.\nTracking ID 83713955370 Sender G MAKWELL Recipient DANNY HILLIS\nService Type FedEx 2Day JEFFREY E EPSTEIN\nPackage Type Customer Packaging 457 MADISON AVE\nZone 8 NEW YORK NY 10022 6843 US\nPackages 1\nWeight 5.0 lbs, 2.3 kgs\nDelivered Dec 16, 200209:14\nSvc Area A2\nSigned by M. CHRISTMAN\nFedEx Use 346204710/06112/03\nTransportation Charge 16.75\nDiscount 1.68\nAddress Correction 10.00\nFuel Surcharge 0.60\nCourier Pickup 0.00\nTotal Transportation Charges USD $ 25.67\nPicked up: Dec 11, 2002 Payer: Shipper Reference: NO REFERENCE INFORMATION\nFuel Surcharge FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 2\nThe delivery commitment for Express Saver Packages to homes or private residences (including home offices) is 7PM the third business day for all regions.\n1st attempt Dec 13, 2002 at 04:27 PM.\nRecipient not in/business closed.\nTracking ID 82899400915 Sender J EPSTEIN Recipient KIRSTIE FERGUSEN\nPackage Type Customer Packaging JEFFREY E EPSTEIN\nZone 2 457 MADISON AVE\nPackages 1 NEW YORK NY 10022 6843 US\nWeight 2.0 lbs, 0.9 kgs\nDelivered Dec 16, 200212:52\nSvc Area 3R\nSigned by K.FERGUNSEN\nFedEx Use 347150410/07167/03\nTransportation Charge 7.80\nDiscount -0.78\nFuel Surcharge 0.28\nResidential Delivery 1.35\nTotal Transportation Charges USD $ 8.65\nDOJ-OGR-00016068",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Number: 4-495-75031\nInvoice Date: Dec 23, 2002\nAccount Number: 1144-2081-6\nPage: 5 of 21",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Picked up: Dec 10, 2002 Payer: Shipper Reference: NO REFERENCE INFORMATION",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Fuel Surcharge FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 8\nPackage sent from: 10021 zip code\n1st attempt Dec 12, 2002 at 12:50 PM.\nIncorrect recipient address.\nOriginal address: 10064 TOLUCA LAKE AVENORTH HOLLYWOOD,CA 91602\nFedEx has audited this shipment for correct packages, weight, and service. Any changes made are reflected in the invoice amount.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Tracking ID 83713955370 Sender G MAKWELL Recipient DANNY HILLIS\nService Type FedEx 2Day JEFFREY E EPSTEIN\nPackage Type Customer Packaging 457 MADISON AVE\nZone 8 NEW YORK NY 10022 6843 US\nPackages 1\nWeight 5.0 lbs, 2.3 kgs\nDelivered Dec 16, 200209:14\nSvc Area A2\nSigned by M. CHRISTMAN\nFedEx Use 346204710/06112/03",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Transportation Charge 16.75\nDiscount 1.68\nAddress Correction 10.00\nFuel Surcharge 0.60\nCourier Pickup 0.00\nTotal Transportation Charges USD $ 25.67",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Picked up: Dec 11, 2002 Payer: Shipper Reference: NO REFERENCE INFORMATION",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Fuel Surcharge FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 2\nThe delivery commitment for Express Saver Packages to homes or private residences (including home offices) is 7PM the third business day for all regions.\n1st attempt Dec 13, 2002 at 04:27 PM.\nRecipient not in/business closed.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Tracking ID 82899400915 Sender J EPSTEIN Recipient KIRSTIE FERGUSEN\nPackage Type Customer Packaging JEFFREY E EPSTEIN\nZone 2 457 MADISON AVE\nPackages 1 NEW YORK NY 10022 6843 US\nWeight 2.0 lbs, 0.9 kgs\nDelivered Dec 16, 200212:52\nSvc Area 3R\nSigned by K.FERGUNSEN\nFedEx Use 347150410/07167/03",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Transportation Charge 7.80\nDiscount -0.78\nFuel Surcharge 0.28\nResidential Delivery 1.35\nTotal Transportation Charges USD $ 8.65",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00016068",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "G MAKWELL",
+      "DANNY HILLIS",
+      "JEFFREY E EPSTEIN",
+      "M. CHRISTMAN",
+      "J EPSTEIN",
+      "KIRSTIE FERGUSEN",
+      "K.FERGUNSEN"
+    ],
+    "organizations": [
+      "FedEx"
+    ],
+    "locations": [
+      "10021",
+      "10064 TOLUCA LAKE AVE NORTH HOLLYWOOD, CA 91602",
+      "457 MADISON AVE NEW YORK NY 10022 6843 US"
+    ],
+    "dates": [
+      "Dec 10, 2002",
+      "Dec 12, 2002",
+      "Dec 16, 2002",
+      "Dec 11, 2002",
+      "Dec 13, 2002",
+      "Dec 23, 2002"
+    ],
+    "reference_numbers": [
+      "4-495-75031",
+      "1144-2081-6",
+      "83713955370",
+      "346204710/06112/03",
+      "82899400915",
+      "347150410/07167/03",
+      "DOJ-OGR-00016068"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx invoice with details about two shipments. The document is clear and legible, with no visible damage or redactions."
+}

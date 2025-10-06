@@ -1,0 +1,78 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "4-494-58432",
+    "date": "Dec 02, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\nInvoice Number: 4-494-58432\nInvoice Date: Dec 02, 2002\nAccount Number: 1144-2081-6\nPage: 4 of 6\n\nPicked up: Nov 19, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 4\nPackage sent from: 10028 zip code\nTracking D 837657306480 Sender EVA ANDERSON Recipient LESLIE H WEXNER\nPackage Type FedEx Envelope JEFFREY E EPSTEIN THE LIMITED INC\nZone 4 457 MADISON AVE\nNEW YORK NY 10022-6843 US\nPackages 1\nWeight 1.0 lbs, 0.5 kgs\nDelivered Nov 20, 2002 08 50\nSvc Area A1\nSigned by S DAVIDSON\nFedEx Use 704526420/00208/_\nTransportation Charge 15.25\nDiscount -2.44\nFuel Surcharge 0.51\nTotal Transportation Charges USD $ 13.32\n\nPicked up: Nov 21, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 8\nPackage sent from: 10021 zip code\nRelease signature on file.\nTracking D 837169384289 Sender CHRISTINE MAXWELL Recipient CHRISTINE MAXWELL\nService Type FedEx Priority Overnight JEFFREY E EPSTEIN\nPackage Type FedEx Box 457 MADISON AVE\nZone 8 NEW YORK NY 10022-6843 US\nPackages 1\nWeight 5.0 lbs, 2.3 kgs\nDelivered Nov 22, 2002 11:44\nSvc Area A1\nSigned by C MAXWELL\nFedEx Use 330180120/01618/02\nTransportation Charge 38.25\nDiscount -3.83\nFuel Surcharge 1.38\nCourier Pickup Charge 0.00\nResidential Delivery 1.35\nTotal Transportation Charges USD $ 37.15\n\nPicked up: Nov 25, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 4\nPackage sent from: 10021 zip code\nTracking D 837169384267 Sender EDW NA S MMONS Recipient MARC LUNDBERG\nService Type FedEx Priority Overnight JEFFREY E EPSTEIN NA PROPERTY NC\nPackage Type FedEx Box 457 MADISON AVE\nZone 4 NEW YORK NY 10022-6843 US\nPackages 1\nWeight 30.0 lbs, 13.6 kgs\nDelivered Nov 26, 2002 10:13\nSvc Area A2\nSigned by D OAKLEY\nFedEx Use 333137240/01530/_\nTransportation Charge 78.25\nDiscount -7.83\nFuel Surcharge 2.82\nCourier Pickup Charge 0.00\nTotal Transportation Charges USD $ 73.24\n\nCONFIDENTIAL\nSDNY_GM_00340752 87\nDOJ-OGR-00015396",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Number: 4-494-58432\nInvoice Date: Dec 02, 2002\nAccount Number: 1144-2081-6\nPage: 4 of 6",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "SDNY_GM_00340752 87\nDOJ-OGR-00015396",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "EVA ANDERSON",
+      "JEFFREY E EPSTEIN",
+      "LESLIE H WEXNER",
+      "CHRISTINE MAXWELL",
+      "EDW NA S MMONS",
+      "MARC LUNDBERG",
+      "S DAVIDSON",
+      "C MAXWELL",
+      "D OAKLEY"
+    ],
+    "organizations": [
+      "FedEx",
+      "THE LIMITED INC",
+      "NA PROPERTY NC"
+    ],
+    "locations": [
+      "NEW YORK",
+      "NEW YORK NY 10022-6843 US",
+      "NC"
+    ],
+    "dates": [
+      "Nov 19, 2002",
+      "Nov 20, 2002",
+      "Nov 21, 2002",
+      "Nov 22, 2002",
+      "Nov 25, 2002",
+      "Nov 26, 2002",
+      "Dec 02, 2002"
+    ],
+    "reference_numbers": [
+      "4-494-58432",
+      "1144-2081-6",
+      "837657306480",
+      "704526420/00208/_",
+      "837169384289",
+      "330180120/01618/02",
+      "837169384267",
+      "333137240/01530/_",
+      "SDNY_GM_00340752",
+      "DOJ-OGR-00015396"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx shipment detail report, containing information about three separate shipments. The document is marked 'CONFIDENTIAL' at the bottom."
+}

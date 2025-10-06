@@ -1,0 +1,69 @@
+{
+  "document_metadata": {
+    "page_number": "108",
+    "document_number": "DOJ-OGR-00016023",
+    "date": "March 1992",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... Airplane Glider Helicopter March 1992 G-1159B N909JC PBI TGB 1647 JG TD GARY BLACKWELL 1/1 2 8 8 9 \" \" TGB BED 1648 JG,TD GARY BLACKWELL 8 9 \" BED TGB 1649 JG,TD BLACKWELL 1 1 11 \" TGB PBI 170 JE,JP,SK GB 2 6 13 \" PBI TIST hei JE,TOS,SK,VC STEVE LYBBER 2 3 17 B-727-200 SDMUCJOR MEP MEP LARRY INSTRUCTOR GARY (INSTRUCTOR) 2 0 17 \" \" MEP MEP HOLDING LARRY-SNSRWSS GR 2 0 17 \" \" MEP MEP FCHECK RIDE FRANK CORBETT GR 2 0 18 \" \" MEP MEP RBY BARLANA GR 3 0 18 \" \" MEP MEP BY BARLANA BY CANT CHAIR RIDE GR 3 0 19 G-1159B N909JC TEJS PBI 1702 JE,SK,TD,VC LV 2 6 31 B-727-318 N908JC PBI TEX 25 JE TD, LV 2 3 April 2 \" \" JFK PBI 257 JE,JLB, TD LV 2 5 6 G-1159B N909JC PBI TIST 1705 JE,BT,SK,TD LV 1/1 2 3 11 B-727-318 N908JC PBI JFK 233 JE,BT,CD,EA,JOGM P LV 1/1 2 4 15 \" \" JFK BED 259 JE,SK,LARRY SUMMERS LV 1/1 9 16 \" \" BED PBI 260 JE,SK LV 1/0 2 6 19 \" \" PBI JFK 261 JE,SK,JENNIFER LV 2 6 22 \" \" JFK PBI 262 JE,BT,MARK EPSTEIN,GM LV 1/1 2 5 I certify that the statements made by me on this form are true. Pilot's Signature David R. Rishling Page Total 9/4 42 3 Amount Forward 6750 6368 9308 8 33125 0 Total to Date 6759 6980 9431 1 331250",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... Airplane Glider Helicopter",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "March 1992 ... (rest of the log entries)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David R. Rishling",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total 9/4 42 3 Amount Forward 6750 6368 9308 8 33125 0 Total to Date 6759 6980 9431 1 331250",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "GARY BLACKWELL",
+      "LARRY",
+      "STEVE LYBBER",
+      "FRANK CORBETT",
+      "LARRY SUMMERS",
+      "JENNIFER",
+      "MARK EPSTEIN",
+      "DAVID R. RISHLING"
+    ],
+    "organizations": [],
+    "locations": [
+      "PBI",
+      "TGB",
+      "BED",
+      "TIST",
+      "MEP",
+      "TEJS",
+      "JFK",
+      "TEX"
+    ],
+    "dates": [
+      "March 1992",
+      "April 2"
+    ],
+    "reference_numbers": [
+      "N909JC",
+      "N908JC",
+      "SDMUCJOR",
+      "B-727-200",
+      "B-727-318",
+      "DOJ-OGR-00016023"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. Some entries in the 'Remarks, Procedures, Maneuvers, Endorsements' column are redacted."
+}

@@ -1,0 +1,72 @@
+{
+  "document_metadata": {
+    "page_number": "9 of 10",
+    "document_number": "4-494-19676",
+    "date": "Nov 25, 2002",
+    "document_type": "Invoice",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\nDropped off: Nov 21, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 6\nPackage sent from: 33480 zip code\nTracking ID 837574506360 Sender NICOLE HESSE JEFFREY EPSTEIN 457 MADISON AVE NEW YORK NY 10022-6843 US Recipient HELEN VILLARD HOUSE 457 MADISON AVE NEW YORK NY 10022 US\nService Type FedEx Priority Overnight Package Type FedEx Envelope Zone 6\nPackages 1 Weight 1.0 lbs, 0.5 kgs Delivered Nov 22, 2002 09:23 Svc Area A1 Signed by W DOULIN FedEx Use 326058810/00230/_\nTransportation Charge 16.00 Discount -2.56 Fuel Surcharge 0.54\nTotal Transportation Charges USD $ 13.98\nShipment Detail Subtotal USD $ 299.97\nDropped off: Nov 08, 2002 Payor: Third Party Reference: 56695\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 7\nPackage sent from: 10001 zip code\n1st attempt Nov 09, 2002 at 09:39 AM.\nIncorrect recipient address.\nFedEx has audited this shipment for correct packages, weight, and service. Any changes made are reflected in the invoice amount.\nFedEx has audited this shipment and corrected the ship date to reflect the actual date as scanned by our COSMOS electronic tracking system at the time we received your package for shipment.\nTracking ID 825754230685 Sender RAGHU SHOPPERS'S TRAVEL Recipient PATRICK OCHIN\nService Type FedEx Priority Overnight Package Type FedEx Envelope Zone 7\nPackages 1 Weight 0 Delivered Nov 09, 2002 16:09 Svc Area AM Signed by K.DELERUD FedEx Use 316071930/00241/03\nTransportation Charge 16.75 Discount -2.68 Address Correction 10.00 Fuel Surcharge 0.56\nTotal Transportation Charges USD $ 24.63\nShipment Detail Subtotal USD $ 24.63\nCONFIDENTIAL",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Dropped off: Nov 21, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Fuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "NICOLE HESSE",
+      "JEFFREY EPSTEIN",
+      "HELEN VILLARD HOUSE",
+      "RAGHU",
+      "PATRICK OCHIN",
+      "W DOULIN",
+      "K.DELERUD"
+    ],
+    "organizations": [
+      "FedEx",
+      "SHOPPERS'S TRAVEL"
+    ],
+    "locations": [
+      "NEW YORK",
+      "457 MADISON AVE"
+    ],
+    "dates": [
+      "Nov 21, 2002",
+      "Nov 22, 2002",
+      "Nov 08, 2002",
+      "Nov 09, 2002",
+      "Nov 25, 2002"
+    ],
+    "reference_numbers": [
+      "4-494-19676",
+      "1144-2081-6",
+      "837574506360",
+      "326058810/00230/",
+      "56695",
+      "825754230685",
+      "316071930/00241/03",
+      "SDNY_GM_00340741",
+      "72",
+      "DOJ-OGR-00015381"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx invoice with two shipment details. The document is marked as 'CONFIDENTIAL' at the bottom."
+}

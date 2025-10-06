@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": "22",
+    "document_number": "DOJ-OGR-00015819",
+    "date": "1993",
+    "document_type": "Pilot's Logbook Page",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE 1993 AUG\nAIRCRAFT MAKE AND MODEL\nAIRCRAFT IDENTIFICATION MARK\nPOINTS OF DEPARTURE & ARRIVAL\nFROM\nTO\nMILES FLOWN\nFLT. NO.\nREMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS\nNO. LANDINGS\nAIRCRAFT CATEGORY\n17 HS125-700 N908SC TCB CMH 140 374 1h 13 1 3\n17 \" \" CMH SAF v 375 vh 30 30\n18 \" \" SAF ALS 43 376 1h 4 4\n19 \" \" ALS ASC 30 377 vh 4 4\n20 \" \" ASC SAF 65 378 vh 7 7\n22 \" \" SAF PBI 70 379 1h 40 40\n25 \" \" PBI TCB 50 380 1h 25 25\n27 \" \" TCB HYA 70 381 1h 7 7\n27 \" \" HYA TCB v 382 1h 9 9\n29 \" \" TCB PBI 80 383 1h 24 24\n6 \" \" PBI TCB 80 384 1h 27 27\n7 \" \" TCB CMH 60 385 1h 4 4\n8 \" \" CMH TCB 56 386 1h 10 10\n10 \" \" TCB CMH 180 387 1h 14 14\n10 \" \" CMH CYMX v 388 1h 13 13\n10 \" \" CYMX ROC v 389 1h 9 9\n10 \" \" ROC CMH v 390 1h 7 7\n17 \" \" CMH ATL v 391 1h 14 14\nI certify that the statements made by me on this form are true.\nPILOT'S SIGNATURE: Seth Rudefu\nPAGE TOTAL\nAMT. FORWARD\nTOTAL TO DATE",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE 1993 AUG\nAIRCRAFT MAKE AND MODEL\nAIRCRAFT IDENTIFICATION MARK\nPOINTS OF DEPARTURE & ARRIVAL\nFROM\nTO\nMILES FLOWN\nFLT. NO.\nREMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS\nNO. LANDINGS\nAIRCRAFT CATEGORY",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "17 HS125-700 N908SC TCB CMH 140 374 1h 13 1 3\n17 \" \" CMH SAF v 375 vh 30 30\n18 \" \" SAF ALS 43 376 1h 4 4\n19 \" \" ALS ASC 30 377 vh 4 4\n20 \" \" ASC SAF 65 378 vh 7 7\n22 \" \" SAF PBI 70 379 1h 40 40\n25 \" \" PBI TCB 50 380 1h 25 25\n27 \" \" TCB HYA 70 381 1h 7 7\n27 \" \" HYA TCB v 382 1h 9 9\n29 \" \" TCB PBI 80 383 1h 24 24\n6 \" \" PBI TCB 80 384 1h 27 27\n7 \" \" TCB CMH 60 385 1h 4 4\n8 \" \" CMH TCB 56 386 1h 10 10\n10 \" \" TCB CMH 180 387 1h 14 14\n10 \" \" CMH CYMX v 388 1h 13 13\n10 \" \" CYMX ROC v 389 1h 9 9\n10 \" \" ROC CMH v 390 1h 7 7\n17 \" \" CMH ATL v 391 1h 14 14",
+      "position": "main"
+    },
+    {
+      "type": "printed",
+      "content": "I certify that the statements made by me on this form are true.\nPILOT'S SIGNATURE:",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "Seth Rudefu",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE TOTAL\nAMT. FORWARD\nTOTAL TO DATE",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Seth Rudefu"
+    ],
+    "organizations": [],
+    "locations": [
+      "TCB",
+      "CMH",
+      "SAF",
+      "ALS",
+      "ASC",
+      "PBI",
+      "HYA",
+      "CYMX",
+      "ROC",
+      "ATL"
+    ],
+    "dates": [
+      "1993"
+    ],
+    "reference_numbers": [
+      "N908SC",
+      "DOJ-OGR-00015819"
+    ]
+  },
+  "additional_notes": "The document is a pilot's logbook page with handwritten entries. The page is partially filled with flight records, and there is a signature at the bottom. The document quality is good, with clear handwriting and printing."
+}

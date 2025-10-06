@@ -1,0 +1,38 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00015649",
+    "date": null,
+    "document_type": "Exhibit",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "GOVERNMENT EXHIBIT 327 52 20 Cr. 330 (AJN) DOJ-OGR-00015649",
+  "text_blocks": [
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 327 52 20 Cr. 330 (AJN)",
+      "position": "bottom right"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015649",
+      "position": "bottom right"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ",
+      "OGR"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00015649",
+      "52 20 Cr. 330 (AJN)",
+      "327"
+    ]
+  },
+  "additional_notes": "The image is a photograph of a woman holding an Apple laptop. The image contains a government exhibit stamp in the bottom right corner."
+}

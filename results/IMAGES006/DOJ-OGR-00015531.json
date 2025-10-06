@@ -1,0 +1,46 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00015531",
+    "date": null,
+    "document_type": "Government Exhibit",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "DOJ REDACTION DOJ REDACTION GOVERNMENT EXHIBIT 103 S2 20 Cr. 330 (AJN) DOJ-OGR-00015531",
+  "text_blocks": [
+    {
+      "type": "stamp",
+      "content": "DOJ REDACTION",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "DOJ REDACTION",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 103 S2 20 Cr. 330 (AJN)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015531",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Department of Justice"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00015531",
+      "S2 20 Cr. 330 (AJN)"
+    ]
+  },
+  "additional_notes": "The image contains redactions and is labeled as a government exhibit. The document number is visible at the bottom right corner."
+}

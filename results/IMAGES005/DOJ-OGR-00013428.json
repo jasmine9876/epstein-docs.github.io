@@ -1,0 +1,67 @@
+{
+  "document_metadata": {
+    "page_number": "150",
+    "document_number": "755",
+    "date": "08/10/22",
+    "document_type": "court transcript",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 755 Filed 08/10/22 Page 150 of 262 1861 LC8Cmax5 Rodgers - direct 1 A. Flying from Granada, Spain, to Tangiers, Morocco. 2 Q. Is Jeffrey Epstein a passenger on it this flight? 3 A. Yes. 4 Q. Is Ghislaine Maxwell a passenger on it flight? 5 A. Yes. 6 Q. Is Virginia Roberts a passenger on this flight? 7 A. Yes. 8 Q. Are there multiple other passengers? 9 A. Yes. 10 Q. Let's go to the next flight. What's the date? 11 A. This is March 9th, 2001. 12 Q. Where are you flying from and to? 13 A. Tangier, Morocco, to Luton, England. 14 Q. Is Jeffrey Epstein a passenger on this flight? 15 A. Yes. 16 Q. Is Ghislaine Maxwell a passenger on this flight? 17 A. Yes. 18 Q. Is Virginia Roberts on this flight? 19 A. Yes. 20 Q. And is there one other passenger? 21 A. Yes. 22 Q. Let's go to the very next flight, what's the date of that flight? 23 24 A. March the 11th, 2001. 25 Q. Where are you flying from and to? SOUTHERN DISTRICT REPORTERS, P.C. (212) 805-0300 DOJ-OGR-00013428",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 755 Filed 08/10/22 Page 150 of 262 1861",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "LC8Cmax5 Rodgers - direct",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "1 A. Flying from Granada, Spain, to Tangiers, Morocco. 2 Q. Is Jeffrey Epstein a passenger on it this flight? 3 A. Yes. 4 Q. Is Ghislaine Maxwell a passenger on it flight? 5 A. Yes. 6 Q. Is Virginia Roberts a passenger on this flight? 7 A. Yes. 8 Q. Are there multiple other passengers? 9 A. Yes. 10 Q. Let's go to the next flight. What's the date? 11 A. This is March 9th, 2001. 12 Q. Where are you flying from and to? 13 A. Tangier, Morocco, to Luton, England. 14 Q. Is Jeffrey Epstein a passenger on this flight? 15 A. Yes. 16 Q. Is Ghislaine Maxwell a passenger on this flight? 17 A. Yes. 18 Q. Is Virginia Roberts on this flight? 19 A. Yes. 20 Q. And is there one other passenger? 21 A. Yes. 22 Q. Let's go to the very next flight, what's the date of that flight? 23 24 A. March the 11th, 2001. 25 Q. Where are you flying from and to?",
+      "position": "main"
+    },
+    {
+      "type": "printed",
+      "content": "SOUTHERN DISTRICT REPORTERS, P.C. (212) 805-0300",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00013428",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Ghislaine Maxwell",
+      "Virginia Roberts"
+    ],
+    "organizations": [
+      "SOUTHERN DISTRICT REPORTERS, P.C."
+    ],
+    "locations": [
+      "Granada",
+      "Spain",
+      "Tangiers",
+      "Morocco",
+      "Luton",
+      "England"
+    ],
+    "dates": [
+      "08/10/22",
+      "March 9th, 2001",
+      "March 11th, 2001"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "755",
+      "DOJ-OGR-00013428"
+    ]
+  },
+  "additional_notes": "The document appears to be a court transcript with a clear and legible format. There are no visible redactions or damage."
+}

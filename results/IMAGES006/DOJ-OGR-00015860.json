@@ -1,0 +1,94 @@
+{
+  "document_metadata": {
+    "page_number": "63",
+    "document_number": "DOJ-OGR-00015860",
+    "date": null,
+    "document_type": "Pilot's Logbook Page",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date 1944 Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... Airplane Glider Helicopter 27 206L3 N500JA PMP PMP 1 3 03/01 206L3 500JA PMP PMP 1 1 3/11 206B2 N0 PU PMP - LNA - PBI - PMP 4 1 03/02 206L3 500JA PMP PMP 1 5 03/03 206L3 500JA PMP-PBI-PMP 1 6 03/04 206L3 500JA PMP-PBI-BAT-PMP 1 5 03/05 206L3 500JA PMP-PBI-LNA-PMP 1 6 03/06 206L3 500JA PMP-PBI-LNA-PMP 1 1 3/7 G-1159B N908JC PBI TCB 1211 1 2 5 3/13 PA28-161 NS10PU INV GRO ORL 1 1 4 2 3/13 PA28-161 NS10PU GRO ORL 1 1 4 8 3/16 206L3 500JA PMP PMP 1 1 3/17 C421B N908Gm PBI EYW 1 1 1 9 3/17 C421B N908Gm EYW PBI 1 1 1 5 3/18 PA28-161 NS10PU ORL OBN 1 1 4 0 3/19 PA28-161 NS10PU OBN JVY 1 1 4 5 3/21 G1159B N908JC TIST TCB 1214 1 1 4 2 3/23 206L3 S00JP PMP-ZIS-S00P-PMP 3/23 206L3 S00JP PMP PMP I certify that the statements made by me on this form are true. Pilot's Signature David Rothfus Page Total 714 282 191 Amount Forward 6183 74286 33 132 Total to Date 6140 74568 33 323",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date 1944 Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... Airplane Glider Helicopter",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "27 206L3 N500JA PMP PMP 1 3 ... 3/23 206L3 S00JP PMP PMP",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "I certify that the statements made by me on this form are true.",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "David Rothfus",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "714 282 191 6183 74286 33 132 6140 74568 33 323",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rothfus"
+    ],
+    "organizations": [],
+    "locations": [
+      "PMP",
+      "PBI",
+      "LNA",
+      "BAT",
+      "INV",
+      "GRO",
+      "ORL",
+      "EYW",
+      "OBN",
+      "JVY",
+      "TIST",
+      "TCB",
+      "ZIS",
+      "S00P"
+    ],
+    "dates": [
+      "1944",
+      "03/01",
+      "3/11",
+      "03/02",
+      "03/03",
+      "03/04",
+      "03/05",
+      "03/06",
+      "3/7",
+      "3/13",
+      "3/16",
+      "3/17",
+      "3/18",
+      "3/19",
+      "3/21",
+      "3/23"
+    ],
+    "reference_numbers": [
+      "N500JA",
+      "500JA",
+      "N0 PU",
+      "N908JC",
+      "NS10PU",
+      "N908Gm",
+      "S00JP",
+      "DOJ-OGR-00015860"
+    ]
+  },
+  "additional_notes": "The document is a pilot's logbook page with handwritten entries. The page is filled with flight records, including dates, aircraft models, identification marks, departure and arrival points, miles flown, and other details. The pilot has signed the page at the bottom."
+}

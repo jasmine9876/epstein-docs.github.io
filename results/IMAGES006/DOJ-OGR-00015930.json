@@ -1,0 +1,83 @@
+{
+  "document_metadata": {
+    "page_number": "15",
+    "document_number": "DOJ-OGR-00015930",
+    "date": "1942",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE 1942 NOV 9 12 12 14 16 17 19 20 22 26 29 DEC 3 3 3 5 5 7 11 AIRCRAFT MAKE AND MODEL HS125-700 AIRCRAFT IDENTIFICATION MARK N708SE POINTS OF DEPARTURE & ARRIVAL FROM TCB TCB DCA CMH PBE TCB TCB CMH CMH TCB PBE TCB CMH PBE TCB CMH ABQ ABQ SMO SMO ABQ ABQ CMH CMH TCB PBE TO TCB DCA CMH PBE TCB CMH TCB PBE CMH PBE TCB CMH ABQ SMO ABQ CMH TCB PBE MILES FLOWN 45.5 110.0 V 37.0 50.0 45.0 30.0 70.0 4.0 4.0 5.0 120.0 V V 63.0 V 4.0 240.0 FLT. NO. 237 239 234 240 241 242 243 244 245 246 247 240 241 252 253 254 REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS JEFFREY, GHOLDINE JEFFREY, 1 FEMALE JEFFREY JEFFREY, GHOLDINE JEFFREY, GHOLDINE, DOUG? NO DUMMY NOTES JEFFREY, GHOLDINE JEFFREY, GHOLDINE, 1 FEMALE JEFFREY, GHOLDINE, 1 FEMALE JEFFREY, GHOLDINE JEFFREY, GHOLDINE JEFFREY, GHOLDINE JEFFREY, GHOLDINE JEFFREY, GHOLDINE JEFFREY, EVA COX NO. LDG. 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 AIRCRAFT CATEGORY AEROLYING COMPLEX TUR 2 5 2 5 2 3 2 3 2 2 2 5 2 5 1 4 1 4 4 1 4 1 2 6 2 6 1 1 1 1 2 4 2 4 2 3 2 3 2 1 2 1 2 0 2 0 1 4 1 4 2 6 2 6 1 1 1 1 2 4 2 4 I certify that the statements made by me on this form are true. PILOT'S SIGNATURE Arthur Rodger PAGE TOTAL 4 AMT. FORWARD 95 39 TOTAL TO DATE 5735 41230 2115",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE AIRCRAFT MAKE AND MODEL AIRCRAFT IDENTIFICATION MARK POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FLOWN FLT. NO. REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS NO. LDG. AIRCRAFT CATEGORY AEROLYING COMPLEX TUR",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "1942 NOV 9 12 12 14 16 17 19 20 22 26 29 DEC 3 3 3 5 5 7 11 HS125-700 N708SE TCB TCB DCA CMH PBE TCB TCB CMH CMH TCB PBE TCB CMH PBE TCB CMH ABQ ABQ SMO SMO ABQ ABQ CMH CMH TCB PBE 45.5 110.0 V 37.0 50.0 45.0 30.0 70.0 4.0 4.0 5.0 120.0 V V 63.0 V 4.0 240.0 237 239 234 240 241 242 243 244 245 246 247 240 241 252 253 254 JEFFREY, GHOLDINE JEFFREY, 1 FEMALE JEFFREY JEFFREY, GHOLDINE JEFFREY, GHOLDINE, DOUG? NO DUMMY NOTES JEFFREY, GHOLDINE JEFFREY, GHOLDINE, 1 FEMALE JEFFREY, GHOLDINE, 1 FEMALE JEFFREY, GHOLDINE JEFFREY, GHOLDINE JEFFREY, GHOLDINE JEFFREY, GHOLDINE JEFFREY, EVA COX 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 5 2 5 2 3 2 3 2 2 2 5 2 5 1 4 1 4 4 1 4 1 2 6 2 6 1 1 1 1 2 4 2 4",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "I certify that the statements made by me on this form are true. PILOT'S SIGNATURE",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "Arthur Rodger",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE TOTAL AMT. FORWARD TOTAL TO DATE",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "4 95 39 5735 41230 2115",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY",
+      "GHOLDINE",
+      "DOUG",
+      "ARTHUR RODGER",
+      "EVA COX"
+    ],
+    "organizations": [],
+    "locations": [
+      "TCB",
+      "DCA",
+      "CMH",
+      "PBE",
+      "ABQ",
+      "SMO"
+    ],
+    "dates": [
+      "1942",
+      "NOV 9",
+      "NOV 12",
+      "NOV 14",
+      "NOV 16",
+      "NOV 17",
+      "NOV 19",
+      "NOV 20",
+      "NOV 22",
+      "NOV 26",
+      "NOV 29",
+      "DEC 3",
+      "DEC 5",
+      "DEC 7",
+      "DEC 11"
+    ],
+    "reference_numbers": [
+      "N708SE",
+      "DOJ-OGR-00015930"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log from 1942, detailing various flights with handwritten entries. The log includes information on the aircraft make and model, identification mark, points of departure and arrival, miles flown, flight numbers, and remarks. The pilot's signature is present at the bottom of the page."
+}

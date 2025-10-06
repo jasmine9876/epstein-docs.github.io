@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "image",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "CARBONLESS 2 PART Money adams adams GOVERNMENT EXHIBIT 263 S2 20 Cr. 330 (AJN) DOJ-OGR-00015598",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "CARBONLESS",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "2 PART",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Money",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "adams",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "adams",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 263 S2 20 Cr. 330 (AJN)",
+      "position": "bottom-right"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015598",
+      "position": "bottom-right"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "adams"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00015598",
+      "263",
+      "S2 20 Cr. 330 (AJN)"
+    ]
+  },
+  "additional_notes": "The image appears to be a photograph of a display case containing notebooks and other office supplies. The image is clear and well-lit, with no visible damage or redactions."
+}

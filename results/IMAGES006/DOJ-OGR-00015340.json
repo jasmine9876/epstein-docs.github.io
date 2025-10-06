@@ -1,0 +1,79 @@
+{
+  "document_metadata": {
+    "page_number": "4 of 8",
+    "document_number": "4-447-52055",
+    "date": "Nov 11, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type (Original)",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original) Invoice Number: 4-447-52055 Invoice Date: Nov 11, 2002 Account Number: 1144-2081-6 Page: 4 of 8 Picked up: Oct 25, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION Fuel Surcharge - FedEx has applied a fuel surcharge of 3.00% to this shipment. FedEx has audited this airbill for correct pieces, weight, and service. Any changes made are reflected in the invoice amount. Tracking D 831051480401 Service Type FedEx Intl Economy Package Type Customer Packaging Zone I Orig./Dest. ABQ/STT Packages 1 Weight 0.5 lbs, 0.2 kgs Delivered Oct 28, 2002 15:17 Signed by D.WALLACE FedEx Use _/US01O/_ Sender SHANNON JEFFREY E EPSTEIN 457 MADISON AVE NEW YORK NY 10022-6843 US Recipient JAMIE/JOANNE FIANANCIAL TRUST 6100 RED HOOK QUARTERS B-3 ST THOMAS 453 VI Transportation Charge 37.60 Fuel Surcharge 1.09 Discount -1.13 Total Transportation Charges USD $ 37.56 Picked up: Oct 29, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION Fuel Surcharge - FedEx has applied a fuel surcharge of 3.00% to this shipment. Recipient not in /business closed. Tracking D 791219320898 Service Type FedEx Intl Priority Package Type FedEx Envelope Zone D Orig./Dest. JRB/LON Packages 1 Weight 0.5 lbs, 0.2 kgs Delivered Nov 06, 2002 10:03 Signed by A DIXON FedEx Use _/US01O/08 Sender CECILIA STEEN JEFFREY E. EPSTE N 457 MADISON AVENUE 4TH FLOOR NEW YORK NY 10022 US Recipient ALEXANDRA DIXON Transportation Charge 28.00 Fuel Surcharge 0.81 Discount -0.84 Total Transportation Charges USD $ 27.97 Picked up: Oct 30, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION Fuel Surcharge - FedEx has applied a fuel surcharge of 3.00% to this shipment. Tracking D 791969484689 Service Type FedEx Intl Priority Package Type FedEx Envelope Zone D Orig./Dest. JRB/KNO Packages 1 Weight 0.5 lbs, 0.2 kgs Delivered Nov 04, 2002 10:01 Signed by M.GRUSELLE FedEx Use _/US01O/_ Sender CECILIA STEEN JEFFREY E. EPSTE N 457 MADISON AVENUE 4TH FLOOR NEW YORK NY 10022 US Recipient MAR E JOSEPH EXPERTON BERLIOZ & CO. Transportation Charge 28.00 Fuel Surcharge 0.81 Discount -0.84 Total Transportation Charges USD $ 27.97 CONFIDENTIAL SDNY_GM_00340693 31 DOJ-OGR-00015340",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Number: 4-447-52055 Invoice Date: Nov 11, 2002 Account Number: 1144-2081-6 Page: 4 of 8",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "SDNY_GM_00340693 31 DOJ-OGR-00015340",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY E EPSTEIN",
+      "JAMIE/JOANNE",
+      "CECILIA STEEN",
+      "ALEXANDRA DIXON",
+      "A DIXON",
+      "MAR E JOSEPH EXPERTON",
+      "M.GRUSELLE",
+      "D.WALLACE",
+      "SHANNON"
+    ],
+    "organizations": [
+      "FedEx",
+      "FIANANCIAL TRUST",
+      "BERLIOZ & CO."
+    ],
+    "locations": [
+      "NEW YORK",
+      "ST THOMAS",
+      "ABQ",
+      "STT",
+      "JRB",
+      "LON",
+      "KNO"
+    ],
+    "dates": [
+      "Oct 25, 2002",
+      "Oct 28, 2002",
+      "Oct 29, 2002",
+      "Nov 06, 2002",
+      "Oct 30, 2002",
+      "Nov 04, 2002",
+      "Nov 11, 2002"
+    ],
+    "reference_numbers": [
+      "4-447-52055",
+      "1144-2081-6",
+      "831051480401",
+      "791219320898",
+      "791969484689",
+      "SDNY_GM_00340693",
+      "DOJ-OGR-00015340"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx shipment detail report, containing information about three separate shipments. The document is marked as 'CONFIDENTIAL' and has a footer with reference numbers."
+}

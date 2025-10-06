@@ -1,0 +1,78 @@
+{
+  "document_metadata": {
+    "page_number": "115",
+    "document_number": "DOJ-OGR-00015912",
+    "date": null,
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... From To Date Aircraft Make and Model Aircraft Identification Mark From To Miles Flown Flight No. Number of Landings Aircraft Category... March 29 B-727-31H N908JK JFK TEST 333 36 30 29 11 TEST JFK 334 37 31 11 JFK PBI 335 28 April 1 G-1159B N909JC SAV PBI 1764 12 5 11 PBI PDK 1767 16 5 11 PDK TEB 1764 18 6 B-727-31H N908JK PBI JFK 336 25 29 G-1159B N909JK PBI TEST 330 23 May 4 11 TEST TEB 1773 41 6 11 TEB PBI 1772 25 10 11 PBI TEB 1773 26 12 B-727-31H N908JK JFK TEST 339 34 16 11 TEST JFK 340 38 19 G-1159B N909JC TEB PBI 1779 25 24 11 PBI TEB 1778 26 June 15 B-727-200 N909JC TEB PBI 1783 25 15 11 11 20 20 July 31 G-1159B N909JC TEB PBI 1786 24 I certify that the statements made by me on this form are true. Pilot's Signature David Rodger Page Total 106 50 4 Amount Forward 6903 6413 97170 331294 Total to Date 6813 6419 97614 331294",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "March 29 B-727-31H N908JK JFK TEST 333 36 ... July 31 G-1159B N909JC TEB PBI 1786 24",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David Rodger",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "106 50 4 6903 6413 97170 331294 6813 6419 97614 331294",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rodger"
+    ],
+    "organizations": [],
+    "locations": [
+      "JFK",
+      "TEST",
+      "PBI",
+      "SAV",
+      "PDK",
+      "TEB",
+      "MEP"
+    ],
+    "dates": [
+      "March 29",
+      "April 1",
+      "April 5",
+      "April 6",
+      "April 29",
+      "May 4",
+      "May 6",
+      "May 10",
+      "May 12",
+      "May 16",
+      "May 19",
+      "May 24",
+      "June 15",
+      "July 31"
+    ],
+    "reference_numbers": [
+      "N908JK",
+      "N909JC",
+      "B-727-31H",
+      "G-1159B",
+      "B-727-200",
+      "DOJ-OGR-00015912"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries and a signature at the bottom. The log includes details such as date, aircraft make and model, identification mark, points of departure and arrival, miles flown, flight number, number of landings, and aircraft category."
+}

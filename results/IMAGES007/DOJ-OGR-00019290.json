@@ -1,0 +1,45 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "17",
+    "date": "09/10/2020",
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 20-3061, Document 17, 09/10/2020, 2928288, Page4 of 15\n3\nDOJ-OGR-00019290",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 20-3061, Document 17, 09/10/2020, 2928288, Page4 of 15",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "3",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00019290",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "09/10/2020"
+    ],
+    "reference_numbers": [
+      "20-3061",
+      "17",
+      "2928288",
+      "DOJ-OGR-00019290"
+    ]
+  },
+  "additional_notes": "The document contains extensive redactions, making it difficult to discern the original content."
+}

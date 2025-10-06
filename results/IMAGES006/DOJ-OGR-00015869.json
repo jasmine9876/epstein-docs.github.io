@@ -1,0 +1,82 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": null,
+    "date": "26Sep13",
+    "document_type": "Pilot's Logbook",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... 26Sep13 G1151-B N909JC SFO VNY 132 1/1 1 0 2 G1151-B N909JC VNY TCB 133 4 7 2 G1151-B N909JC TCB PBI 133 2 5 7 206L3 N72PH PMP PMP 8 206L3 N72PH PMP-NW-PMP 9 206L3 N728PJ PMP-NW-PMP 9 206L3 N72PH PMP-NN-PMP 11 206L3 N728PJ PMP-NW-PMP 11 206L3 N72PH PMP-NW-PMP 14 206L3 N72PH HST PMP 14 206L3 N72PH PMP FLL 15 206L3 N72PH FLL PMP 15 206L3 N72PH PMP EXE 15 206L3 N728PJ EXE PMP 16 206L3 N72PH PMP-LCL-PMP 16 206L3 N72PH PMP-LCL-PMP 22 206L3 N728PJ PMP-FXE-PMP 23 EC120B N217H PBI PBI I certify that the statements made by me on this form are true. Pilot's Signature David Rodgefu 1 Page Total 1 1 Amount Forward 62189 90 7751.4 33 793 Total to Date 54854 77604 33 962 72 DOJ-OGR-00015869",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "26Sep13 G1151-B N909JC SFO VNY 132 1/1 1 0 2 G1151-B N909JC VNY TCB 133 4 7 2 G1151-B N909JC TCB PBI 133 2 5 7 206L3 N72PH PMP PMP 8 206L3 N72PH PMP-NW-PMP 9 206L3 N728PJ PMP-NW-PMP 9 206L3 N72PH PMP-NN-PMP 11 206L3 N728PJ PMP-NW-PMP 11 206L3 N72PH PMP-NW-PMP 14 206L3 N72PH HST PMP 14 206L3 N72PH PMP FLL 15 206L3 N72PH FLL PMP 15 206L3 N72PH PMP EXE 15 206L3 N728PJ EXE PMP 16 206L3 N72PH PMP-LCL-PMP 16 206L3 N72PH PMP-LCL-PMP 22 206L3 N728PJ PMP-FXE-PMP 23 EC120B N217H PBI PBI",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "David Rodgefu",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "I certify that the statements made by me on this form are true.",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Pilot's Signature",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "1 62189 90 7751.4 33 793 54854 77604 33 962",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015869",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rodgefu"
+    ],
+    "organizations": [],
+    "locations": [
+      "SFO",
+      "VNY",
+      "TCB",
+      "PBI",
+      "PMP",
+      "HST",
+      "FLL",
+      "EXE",
+      "LCL",
+      "FXE"
+    ],
+    "dates": [
+      "26Sep13"
+    ],
+    "reference_numbers": [
+      "N909JC",
+      "N72PH",
+      "N728PJ",
+      "N217H",
+      "DOJ-OGR-00015869"
+    ]
+  },
+  "additional_notes": "The document is a pilot's logbook page with handwritten entries. The page contains a table with columns for date, aircraft make and model, identification mark, points of departure and arrival, miles flown, flight number, remarks, number of landings, and aircraft category. The logbook entries are for various flights between September 26, 2013, and an unspecified date. The document includes a certification statement signed by the pilot, David Rodgefu."
+}

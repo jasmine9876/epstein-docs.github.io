@@ -1,0 +1,73 @@
+{
+  "document_metadata": {
+    "page_number": "19 of 21",
+    "document_number": "4-495-75031",
+    "date": "Dec 23, 2002",
+    "document_type": "Invoice",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Ground Prepaid Detail Invoice Number: 4-495-75031 Invoice Date: Dec 23, 2002 Account Number: 1144-2081-6 Page: 19 of 21 Purchase Order Number Customer Reference Tracking ID Svc Code Dest Zip Zone Weight Base Charge Other Charge Total Charge Pickup Date: 12/05 968 27571000 0358 019 94538 0 0.0 5.00(6) 5.00 Pickup Date: 12/12 968 27571000 0365 019 43230 004 3.0 4.09 0.05(35) 4.14 968 27571000 0386 019 43054 004 2.0 3.87 0.05(35) 3.82 968 27571000 0402 019 43054 004 3.0 4.09 0.05(35) 4.14 968 27571000 0419 019 60605 005 4.0 4.52 0.06(35) 4.58 Pickup Date: 12/14 968 27571000 0426 019 43054 004 1.0 3.58 0.04(35) 3.62 DOJ-OGR-00016082",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Ground Prepaid Detail",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Number: 4-495-75031 Invoice Date: Dec 23, 2002 Account Number: 1144-2081-6 Page: 19 of 21",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Purchase Order Number Customer Reference Tracking ID Svc Code Dest Zip Zone Weight Base Charge Other Charge Total Charge",
+      "position": "table header"
+    },
+    {
+      "type": "printed",
+      "content": "Pickup Date: 12/05 968 27571000 0358 019 94538 0 0.0 5.00(6) 5.00",
+      "position": "table row"
+    },
+    {
+      "type": "printed",
+      "content": "Pickup Date: 12/12 968 27571000 0365 019 43230 004 3.0 4.09 0.05(35) 4.14 968 27571000 0386 019 43054 004 2.0 3.87 0.05(35) 3.82 968 27571000 0402 019 43054 004 3.0 4.09 0.05(35) 4.14 968 27571000 0419 019 60605 005 4.0 4.52 0.06(35) 4.58",
+      "position": "table row"
+    },
+    {
+      "type": "printed",
+      "content": "Pickup Date: 12/14 968 27571000 0426 019 43054 004 1.0 3.58 0.04(35) 3.62",
+      "position": "table row"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00016082",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "FedEx"
+    ],
+    "locations": [],
+    "dates": [
+      "Dec 23, 2002",
+      "12/05",
+      "12/12",
+      "12/14"
+    ],
+    "reference_numbers": [
+      "4-495-75031",
+      "1144-2081-6",
+      "968 27571000 0358",
+      "968 27571000 0365",
+      "968 27571000 0386",
+      "968 27571000 0402",
+      "968 27571000 0419",
+      "968 27571000 0426",
+      "DOJ-OGR-00016082"
+    ]
+  },
+  "additional_notes": "The document is a FedEx invoice with detailed shipping information. The document quality is clear and legible."
+}

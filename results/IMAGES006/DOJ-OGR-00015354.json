@@ -1,0 +1,82 @@
+{
+  "document_metadata": {
+    "page_number": "10 of 14",
+    "document_number": "4-447-80862",
+    "date": "Nov 18, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx\nInvoice Number: 4-447-80862\nInvoice Date: Nov 18, 2002\nAccount Number: 1144-2081-6\nPage: 10 of 14\nFedEx Express Shipment Detail By Payment Type (Original)\nDropped off: Nov 13, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 7\nPackage sent from: 87505 zip code\nFedEx has audited this shipment for correct packages, weight, and service. Any changes made are reflected in the invoice amount.\nTracking ID 827487051470 Sender KATE BALERYD JEFFREY E EPSTE N Recipient NICK SIMMONDS J EPSTE N INTERESTS\nService Type FedEx 2Day 457 MADISON AVE 457 MADISON AVE 4TH FL\nPackage Type Customer Packaging NEW YORK NY 10022-6843 US NEW YORK NY 10022 US\nZone 7\nPackages 1\nWeight 40.0 lbs, 18.2 kgs\nDelivered Nov 15, 2002 12:10\nSvc Area A1\nSigned by K.STEEN\nFedEx Use 319110460/06090_/\nTransportation Charge 76.00\nDiscount -7.60\nFuel Surcharge 2.74\nTotal Transportation Charges USD $ 71.14\nDropped off: Nov 13, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 7\nPackage sent from: 87505 zip code\nTracking ID 827487051480 Sender KATE BALERUD JEFFREY E EPSTE N Recipient NICK SIMMONDS J EPSTE N INTERESTS\nService Type FedEx 2Day 457 MADISON AVE 457 MADISON AVE 4TH FL\nPackage Type Customer Packaging NEW YORK NY 10022-6843 US NEW YORK NY 10022 US\nZone 7\nPackages 1\nWeight 65.0 lbs, 29.5 kgs\nDelivered Nov 15, 2002 12:10\nSvc Area A1\nSigned by K.STEEN\nFedEx Use 319110460/06090_/\nTransportation Charge 117.25\nDiscount -11.73\nFuel Surcharge 4.22\nTotal Transportation Charges USD $ 109.74\nPicked up: Nov 13, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 6\nPackage sent from: 33404 zip code\nTracking ID 827487160076 Sender LARRY VISOSKI JEFFREY E EPSTE N Recipient HELEN J EPSTE N & CO\nService Type FedEx Priority Overnight 457 MADISON AVE 457 MADISON AVE\nPackage Type FedEx Envelope NEW YORK NY 10022-6843 US NEW YORK NY 10022 US\nZone 6\nPackages 1\nWeight 1.0 lbs, 0.5 kgs\nDelivered Nov 14, 2002 09:21\nSvc Area A1\nSigned by W.DOULIN\nFedEx Use 318087420/00230_/\nTransportation Charge 16.00\nDiscount -2.56\nFuel Surcharge 0.54\nCourier Pickup Charge 0.00\nTotal Transportation Charges USD $ 13.98\nCONFIDENTIAL\nSDNY_GM_00340707 45\nDOJ-OGR-00015354",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx\nInvoice Number: 4-447-80862\nInvoice Date: Nov 18, 2002\nAccount Number: 1144-2081-6\nPage: 10 of 14",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Dropped off: Nov 13, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "SDNY_GM_00340707 45\nDOJ-OGR-00015354",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "KATE BALERYD",
+      "JEFFREY E EPSTE N",
+      "NICK SIMMONDS",
+      "J EPSTE N INTERESTS",
+      "KATE BALERUD",
+      "LARRY VISOSKI",
+      "HELEN",
+      "J EPSTE N & CO",
+      "K.STEEN",
+      "W.DOULIN"
+    ],
+    "organizations": [
+      "FedEx"
+    ],
+    "locations": [
+      "NEW YORK",
+      "457 MADISON AVE",
+      "NEW YORK NY 10022-6843 US",
+      "NEW YORK NY 10022 US",
+      "457 MADISON AVE 4TH FL"
+    ],
+    "dates": [
+      "Nov 13, 2002",
+      "Nov 18, 2002",
+      "Nov 15, 2002 12:10",
+      "Nov 15, 2002 12:10",
+      "Nov 14, 2002 09:21"
+    ],
+    "reference_numbers": [
+      "4-447-80862",
+      "1144-2081-6",
+      "827487051470",
+      "827487051480",
+      "827487160076",
+      "319110460/06090_/",
+      "319110460/06090_/",
+      "318087420/00230_/",
+      "SDNY_GM_00340707",
+      "DOJ-OGR-00015354"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx invoice with multiple shipment details. The document is marked as 'CONFIDENTIAL' at the bottom."
+}

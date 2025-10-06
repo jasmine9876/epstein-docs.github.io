@@ -1,0 +1,67 @@
+{
+  "document_metadata": {
+    "page_number": "109",
+    "document_number": "749",
+    "date": "08/10/22",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 749 Filed 08/10/22 Page 109 of 236 LC3Cmax3 Parkinson - direct 1 work there until I reached my retirement age on May 2nd, 2 1917 -- 3 (Continued on next page) 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 SOUTHERN DISTRICT REPORTERS, P.C. (212) 805-0300 DOJ-OGR-00012623",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 749 Filed 08/10/22 Page 109 of 236",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "LC3Cmax3 Parkinson - direct",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "1 work there until I reached my retirement age on May 2nd,",
+      "position": "main content"
+    },
+    {
+      "type": "printed",
+      "content": "2 1917 --",
+      "position": "main content"
+    },
+    {
+      "type": "printed",
+      "content": "3 (Continued on next page)",
+      "position": "main content"
+    },
+    {
+      "type": "printed",
+      "content": "SOUTHERN DISTRICT REPORTERS, P.C. (212) 805-0300",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00012623",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Parkinson"
+    ],
+    "organizations": [
+      "SOUTHERN DISTRICT REPORTERS, P.C."
+    ],
+    "locations": [],
+    "dates": [
+      "May 2nd, 1917",
+      "08/10/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "749",
+      "DOJ-OGR-00012623"
+    ]
+  },
+  "additional_notes": "The document appears to be a court transcript with a header and footer. The main content is a testimony with line numbers."
+}

@@ -1,0 +1,45 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "20",
+    "date": "09/10/2020",
+    "document_type": "Exhibit",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 20-3061, Document 20, 09/10/2020, 2928291, Page1 of 4\nEXHIBIT C\nDOJ-OGR-00019316",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 20-3061, Document 20, 09/10/2020, 2928291, Page1 of 4",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EXHIBIT C",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00019316",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "09/10/2020"
+    ],
+    "reference_numbers": [
+      "20-3061",
+      "20",
+      "2928291",
+      "DOJ-OGR-00019316"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear header and footer. The main content is labeled 'EXHIBIT C'. The document is likely part of a larger case file."
+}

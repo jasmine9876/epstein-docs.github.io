@@ -1,0 +1,81 @@
+{
+  "document_metadata": {
+    "page_number": "32",
+    "document_number": "DOJ-OGR-00015947",
+    "date": "1944-1945",
+    "document_type": "Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date 1944 Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... From To 25 G11598 N908JG SACZ SARI 619 JG, CM 1 1 5 25 \" SARI TNCC 626 JG, CM 1 5 1 25 \" TNCC PBI 627 JG, CM 2 6 29 \" PBI TCB 622 JG 1 2 3 30 HS125-700 N988JC PBI PBI (620) TEST FLIGHT V1 3 10 G11598 N908JG SAN TCB 627 REPOSITION 1 5 10 \" TCB PBI 628 JG, SCOTT BIDDLE, FRANCES LARDING 1 1 2 4 16 HS125-700 N988JC PBI SAT 631 SCAN LANCASTER JUDD UECKERT 1 1 3 2 19 G11598 N908JG PBI TEB 632 JG 2 4 21 G11598 N908JG TEB PBI 633 JG,GVA ANDERSSON, RUPERT JACK PASILE & CATHER 2 4 1945 JAN3 \" PBI TCB 634 JG, 2 FEMALES 1 2 2 5 \" TCB CMH 635 JG, 1 FEMALE 1 2 0 5 \" CMH PBI 636 JG, 1 FEMALE 2 0 8 \" PBI IAD 637 JG, SCOTT G GOODRICH, WELL, SUNNIE GOODRICH JACK PASILE & GABRIEL, 2 PAX 1 9 8 \" IAD TEB 638 JG, SCOTT JACK PASILE & GABRIEL, 2 PAX 7 13 \" TEB PBI 639 JG, MARK EPSTEIN, GM, 1 FEMALE 2 4 17 \" PBI TCB 640 JG, GM, ANDY STEWART 2 3 19 \" TEB PBI 641 JG, GM 2 3 21 \" PBI TCB 642 JG, GM 2 2 Page Total 7 4 4 1 5 Amount Forward 5147 6299 8 Total to Date 35541 6341 3 I certify that the statements made by me on this form are true. Pilot's Signature: David Rodgers",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date 1944 Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "25 G11598 N908JG SACZ SARI 619 JG, CM 1 1 5",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature: David Rodgers",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rodgers",
+      "Scott Biddle",
+      "Frances Larding",
+      "Scan Lancaster",
+      "Judd Uckert",
+      "Gva Andersson",
+      "Rupert Jack Pasil & Cather",
+      "Mark Epstein",
+      "Andy Stewart",
+      "Scott G Goodrich",
+      "Well, Sunnie Goodrich",
+      "Jack Pasil & Gabriel"
+    ],
+    "organizations": [],
+    "locations": [
+      "SACZ",
+      "SARI",
+      "TNCC",
+      "PBI",
+      "TCB",
+      "SAN",
+      "SAT",
+      "TEB",
+      "CMH",
+      "IAD"
+    ],
+    "dates": [
+      "1944-01-25",
+      "1944-01-29",
+      "1944-01-30",
+      "1944-10-10",
+      "1944-10-16",
+      "1944-10-19",
+      "1944-10-21",
+      "1945-01-03",
+      "1945-01-05",
+      "1945-01-08",
+      "1945-01-13",
+      "1945-01-17",
+      "1945-01-19",
+      "1945-01-21"
+    ],
+    "reference_numbers": [
+      "N908JG",
+      "N988JC",
+      "G11598",
+      "HS125-700",
+      "DOJ-OGR-00015947"
+    ]
+  },
+  "additional_notes": "The document is a flight log with handwritten entries. The pilot's signature is present at the bottom."
+}

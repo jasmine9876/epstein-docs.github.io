@@ -1,0 +1,79 @@
+{
+  "document_metadata": {
+    "page_number": "58",
+    "document_number": null,
+    "date": "1998-09",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date 19 98 09 Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... From To 3 G1159B N908JC PBI TCB 1136 1/1 2 5 4 \" \" \" TCB HTO 1137 1/1 7 4 \" \" \" HTO OQU 1138 1/1 5 4 \" \" \" OQU TCB 1139 1/1 11 5 \" \" \" TCB BCD 1140 1/1 8 5 \" \" \" BCD MVY 1141 1/1 5 5 \" \" \" MVY TCB 1142 1/1 10 6 \" \" \" TCB CMH 1143 1/1 13 6 \" \" \" CMH TCB 1144 1/1 13 7 \" \" \" TCB TVC 1145 1/1 8 11 \" \" \" TVC TCB 1146 1/1 15 13 \" \" \" TCB PBI 1147 1/1 20 17 \" \" \" PBI TCB 1148 1/1 25 21 \" \" \" TCB SAP 1149 1/1 30 24 \" \" \" SAP ASE 1150 1/1 8 22 SCHIPC SP34 N4424G OED OED 9 25 G1159B N908JC ASE VNY 1151 1/1 19 29 \" \" \" VNY PBI 1152 1/1 49 9-1 \" \" \" PBI TCB 1153 1/1 24 I certify that the statements made by me on this form are true. Pilot's Signature David Rudefus Page Total 19 14 31 7 9 Amount Forward 6122 7273 8 Total to Date 5238 7305 5 9 58 DOJ-OGR-00015855",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date 19 98 09 Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "3 G1159B N908JC PBI TCB 1136 1/1 2 5 4 \" \" \" TCB HTO 1137 1/1 7 4 \" \" \" HTO OQU 1138 1/1 5 4 \" \" \" OQU TCB 1139 1/1 11 5 \" \" \" TCB BCD 1140 1/1 8 5 \" \" \" BCD MVY 1141 1/1 5 5 \" \" \" MVY TCB 1142 1/1 10 6 \" \" \" TCB CMH 1143 1/1 13 6 \" \" \" CMH TCB 1144 1/1 13 7 \" \" \" TCB TVC 1145 1/1 8 11 \" \" \" TVC TCB 1146 1/1 15 13 \" \" \" TCB PBI 1147 1/1 20 13 \" \" \" PBI TCB 1148 1/1 25 17 \" \" \" TCB SAP 1149 1/1 30 21 \" \" \" SAP ASE 1150 1/1 8 24 \" \" \" ASE VNY 1151 1/1 19 29 \" \" \" VNY PBI 1152 1/1 49 9-1 \" \" \" PBI TCB 1153 1/1 24",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "I certify that the statements made by me on this form are true.",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "David Rudefus",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "19 14 31 7 9 6122 7273 8 5238 7305 5 9",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015855",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rudefus"
+    ],
+    "organizations": [],
+    "locations": [
+      "PBI",
+      "TCB",
+      "HTO",
+      "OQU",
+      "BCD",
+      "MVY",
+      "CMH",
+      "TVC",
+      "SAP",
+      "ASE",
+      "VNY",
+      "OED"
+    ],
+    "dates": [
+      "1998-09"
+    ],
+    "reference_numbers": [
+      "N908JC",
+      "N4424G",
+      "G1159B",
+      "SCHIPC SP34",
+      "DOJ-OGR-00015855"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The page number is 58."
+}

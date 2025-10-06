@@ -1,0 +1,47 @@
+{
+  "document_metadata": {
+    "page_number": "13",
+    "document_number": "DOJ-OGR-00015742",
+    "date": "2/14/2005",
+    "document_type": "Bathroom Checklist",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "MS MAXWELL'S BATHROOM\n\nTwo big white towels placed next to the bath.\nSoap, shampoo and bubble bath by the side of the tub.\nCheck that water is hot and running clear.\nWater must be directed to the faucet and not the sprayer on the tub.\nTwo fresh washcloths on the washbasin and two next to the bathtub.\nFresh bar of soap placed to the right of the washbasin.\nElectric toothbrush (Replace head every 4 weeks).\nNew toothbrush placed in a clean drinking glass to the left of the washbasin.\nToothpaste is more than ½ full.\nMouthwash.\nQ-Tips.\nRound cotton pads.\nTidy and replace any toiletries which are running low.\nTissues (replace if less than ⅓).\nUnlock the closets.\nPhotographs to be placed.\n\nDATE: 2/14/2005 SIGNATURE: ",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "MS MAXWELL'S BATHROOM",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DATE: 2/14/2005 SIGNATURE: ",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Two big white towels placed next to the bath.\nSoap, shampoo and bubble bath by the side of the tub.\nCheck that water is hot and running clear.\nWater must be directed to the faucet and not the sprayer on the tub.\nTwo fresh washcloths on the washbasin and two next to the bathtub.\nFresh bar of soap placed to the right of the washbasin.\nElectric toothbrush (Replace head every 4 weeks).\nNew toothbrush placed in a clean drinking glass to the left of the washbasin.\nToothpaste is more than ½ full.\nMouthwash.\nQ-Tips.\nRound cotton pads.\nTidy and replace any toiletries which are running low.\nTissues (replace if less than ⅓).\nUnlock the closets.\nPhotographs to be placed.",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [
+      "MS MAXWELL"
+    ],
+    "organizations": [],
+    "locations": [
+      "bathroom",
+      "washbasin",
+      "bathtub",
+      "tub"
+    ],
+    "dates": [
+      "2/14/2005"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00015742"
+    ]
+  },
+  "additional_notes": "The document is a checklist for maintaining MS MAXWELL'S BATHROOM. It includes various tasks related to cleaning and restocking bathroom supplies. The document is dated 2/14/2005 and has a signature field that is blank."
+}

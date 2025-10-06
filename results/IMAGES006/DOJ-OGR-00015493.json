@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "S2 20 Cr. 330 (AJN)",
+    "date": "01/09/05",
+    "document_type": "Important Message",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "IMPORTANT MESSAGE FOR Jeffrey DATE DOJ REDACTION TIME 1:35 A.M. P.M. OF PHONE/MOBILE 917 603 TELEPHONED X PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE He She called again M SIGNED ru IMPORTANT MESSAGE FOR Jeffrey DATE 01/09/05 TIME 12:20 A.M. P.M. OF PHONE/MOBILE 917 304 TELEPHONED X PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Returning phone call SIGNED Kay IMPORTANT MESSAGE FOR Jeffrey Israeli DATE TIME A.M. P.M. OF PHONE/MOBILE 516 883 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED IMPORTANT MESSAGE FOR Jeffrey DATE 01/10/05 TIME 12:40 A.M. P.M. OF PHONE/MOBILE 917 855 TELEPHONED X PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Just that she called SIGNED GOVERNMENT EXHIBIT 3-AA-R S2 20 Cr. 330 (AJN) DOJ-OGR-00015493",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffrey",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "FOR DATE TIME OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 3-AA-R S2 20 Cr. 330 (AJN) DOJ-OGR-00015493",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey",
+      "Jeffrey Israeli",
+      "Richard",
+      "ru",
+      "Kay"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "01/09/05",
+      "01/10/05"
+    ],
+    "reference_numbers": [
+      "917 603",
+      "917 304",
+      "516 883",
+      "917 855",
+      "S2 20 Cr. 330 (AJN)",
+      "DOJ-OGR-00015493"
+    ]
+  },
+  "additional_notes": "The document appears to be a set of four 'Important Message' slips, likely from a legal or government context. The slips contain handwritten notes and phone numbers, with some information redacted. The document is stamped as a 'GOVERNMENT EXHIBIT' with a reference number."
+}

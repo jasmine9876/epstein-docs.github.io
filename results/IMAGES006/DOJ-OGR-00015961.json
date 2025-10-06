@@ -1,0 +1,119 @@
+{
+  "document_metadata": {
+    "page_number": "46",
+    "document_number": null,
+    "date": null,
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date 19\nAircraft Make and Model\nAircraft Identification Mark\nPoints of Departure & Arrival\nMiles Flown\nFlight No.\nRemarks, Procedures, Maneuvers, Endorsements\nNumber of Landings\nAircraft Category...\n\n21 GIIB N°lck PBI TCB 937 JE,CM,KAREN 1/1 2 2\n24 \" \" TCB TNM 939 JE,CM,CLAIRE HAZEL,AMANDA 1/1 3 +\n25 \" \" TNM PBI 939 JE,CM,CLAIRE HAZEL,AMANDA 1/1 2 8\n29 \" \" PBI TCB 940 JE,CM,GWENDOLYN BECK 1/1 2 1\n30 \" \" TCB PBI 941 JE,APPROACHES,MEET & GREET, HANDS ON ANTENNA 2 4\nFEB \" \" PBI TCB 942 APPROACHES,MEET & GREET, ANTENNA,DOMINIC 2 2\n2 \" \" TCB SJU 943 TO SJU VISUAL RWY 8R 1 1 7\n13 \" \" SAN TCB 944 NO PASSENGERS 1/1 1 5\n13 \" \" TCB PBI 945 JE,SCOTTY PORTE,RYAN FLEMING,IMMY ANTIN 2 5\n17 \" \" PBI TCB 946 JE,GUS,GUS,CORDON PURIN,CHRISTOPHER 1/1 2 2\n21 \" \" TCB PBI 947 JE,CECILIA MEDINA,FRANK,ALBISIN 2 2\n23 \" \" PBI TCB 948 JE,ANDREW STEPHENS & 2 KIDS ON SJU PLANE 2 7\n25 \" \" TCB PBI 949 JE,GP,DONNA,DONALD CALDWELL 2 2\nMAR 1 \" \" PBI SAF 950 JE,CM 1/1 3 6\n2 \" \" SAF SJC 951 JE,GM 1/1 2 2\n3 \" \" SJC TCB 952 JE,GM 1/1 4 3\n8 \" \" TCB PBI 953 JE,GM,CLAIRE HAZEL 2 2\n10 \" \" PBI CMH 954 JE,CLAIRE HAZEL 1/1 2 0\n10 \" \" CMH VNC 955 JE,PAMELA STEVENS 1/1 2 0\n\nI certify that the statements made by me on this form are true.\nPilot's Signature: David Rodriguez\n\nPage Total 107 459\nAmount Forward 5653 65413\nTotal to Date 5662 68572",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date 19\nAircraft Make and Model\nAircraft Identification Mark\nPoints of Departure & Arrival\nMiles Flown\nFlight No.\nRemarks, Procedures, Maneuvers, Endorsements\nNumber of Landings\nAircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "21 GIIB N°lck PBI TCB 937 JE,CM,KAREN 1/1 2 2\n24 \" \" TCB TNM 939 JE,CM,CLAIRE HAZEL,AMANDA 1/1 3 +\n25 \" \" TNM PBI 939 JE,CM,CLAIRE HAZEL,AMANDA 1/1 2 8\n29 \" \" PBI TCB 940 JE,CM,GWENDOLYN BECK 1/1 2 1\n30 \" \" TCB PBI 941 JE,APPROACHES,MEET & GREET, HANDS ON ANTENNA 2 4\nFEB \" \" PBI TCB 942 APPROACHES,MEET & GREET, ANTENNA,DOMINIC 2 2\n2 \" \" TCB SJU 943 TO SJU VISUAL RWY 8R 1 1 7\n13 \" \" SAN TCB 944 NO PASSENGERS 1/1 1 5\n13 \" \" TCB PBI 945 JE,SCOTTY PORTE,RYAN FLEMING,IMMY ANTIN 2 5\n17 \" \" PBI TCB 946 JE,GUS,GUS,CORDON PURIN,CHRISTOPHER 1/1 2 2\n21 \" \" TCB PBI 947 JE,CECILIA MEDINA,FRANK,ALBISIN 2 2\n23 \" \" PBI TCB 948 JE,ANDREW STEPHENS & 2 KIDS ON SJU PLANE 2 7\n25 \" \" TCB PBI 949 JE,GP,DONNA,DONALD CALDWELL 2 2\nMAR 1 \" \" PBI SAF 950 JE,CM 1/1 3 6\n2 \" \" SAF SJC 951 JE,GM 1/1 2 2\n3 \" \" SJC TCB 952 JE,GM 1/1 4 3\n8 \" \" TCB PBI 953 JE,GM,CLAIRE HAZEL 2 2\n10 \" \" PBI CMH 954 JE,CLAIRE HAZEL 1/1 2 0\n10 \" \" CMH VNC 955 JE,PAMELA STEVENS 1/1 2 0",
+      "position": "main"
+    },
+    {
+      "type": "printed",
+      "content": "I certify that the statements made by me on this form are true.\nPilot's Signature:",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "David Rodriguez",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total\nAmount Forward\nTotal to Date",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "107 459\n5653 65413\n5662 68572",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "KAREN",
+      "CLAIRE HAZEL",
+      "AMANDA",
+      "GWENDOLYN BECK",
+      "DOMINIC",
+      "SCOTTY PORTE",
+      "RYAN FLEMING",
+      "IMMY ANTIN",
+      "GUS",
+      "CORDON PURIN",
+      "CHRISTOPHER",
+      "CECILIA MEDINA",
+      "FRANK",
+      "ALBISIN",
+      "ANDREW STEPHENS",
+      "DONNA",
+      "DONALD CALDWELL",
+      "PAMELA STEVENS",
+      "David Rodriguez"
+    ],
+    "organizations": [],
+    "locations": [
+      "PBI",
+      "TCB",
+      "TNM",
+      "SJU",
+      "SAN",
+      "SAF",
+      "SJC",
+      "CMH",
+      "VNC"
+    ],
+    "dates": [
+      "21",
+      "24",
+      "25",
+      "29",
+      "30",
+      "2",
+      "13",
+      "17",
+      "21",
+      "23",
+      "25",
+      "1",
+      "2",
+      "3",
+      "8",
+      "10"
+    ],
+    "reference_numbers": [
+      "N°lck",
+      "937",
+      "939",
+      "940",
+      "941",
+      "942",
+      "943",
+      "944",
+      "945",
+      "946",
+      "947",
+      "948",
+      "949",
+      "950",
+      "951",
+      "952",
+      "953",
+      "954",
+      "955",
+      "DOJ-OGR-00015961"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The log includes details such as date, aircraft make and model, points of departure and arrival, miles flown, flight number, remarks, and number of landings. The pilot's signature is present at the bottom of the page."
+}

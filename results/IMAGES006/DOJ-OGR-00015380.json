@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "8 of 10",
+    "document_number": "4-494-19676",
+    "date": "Nov 25, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\nInvoice Number: 4-494-19676\nInvoice Date: Nov 25, 2002\nAccount Number: 1144-2081-6\nPage: 8 of 10\nDropped off: Nov 20, 2002\nPayor: Shipper\nReference: NO REFERENCE INFORMATION\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 6\n1st attempt Nov 21, 2002 at 08 59 AM.\nRecipient not in/business closed.\nTracking D 003664181850\nService Type FedEx Priority Overnight\nPackage Type FedEx Tube\nZone 6\nPackages 1\nWeight 3.0 lbs, 1.4 kgs\nDelivered Nov 21, 2002 10 52\nSvc Area A1\nSigned by L.FOSTER\nFedEx Use 325057990/01574/08\nSender JEFFREY E EPSTEIN\n457 MADISON AVE\nNEW YORK NY 10022-6843 US\nRecipient RICK\nCELL ANTENNA CORP\n\nTransportation Charge 30.00\nDiscount -3.00\nFuel Surcharge 1.08\nTotal Transportation Charges USD $ 28.08\n\nPicked up: Nov 20, 2002\nPayor: Shipper\nReference: NO REFERENCE INFORMATION\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 4\nInternetShip\nTracking D 791235914678\nService Type FedEx Priority Overnight\nPackage Type FedEx Envelope\nZone 4\nPackages 1\nWeight 1.0 lbs, 0.5 kgs\nDelivered Nov 21, 2002 09 58\nSvc Area A2\nSigned by D.OAKLEY\nFedEx Use 523021063/00208/_\nSender CECILIA STEEN\nJEFFREY E EPSTEIN\n457 MADISON AVE\nNEW YORK NY 10022-6843 US\nRecipient PEG UGLAND\nN. A. PROPERTY\n\nTransportation Charge 15.25\nDiscount -2.44\nFuel Surcharge 0.51\nTotal Transportation Charges USD $ 13.32\n\nDropped off: Nov 20, 2002\nPayor: Shipper\nReference: NO REFERENCE INFORMATION\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 8\nPackage sent from: 92121 zip code\nRelease signature on file.\nTracking D 836663864967\nService Type FedEx Standard Overnight\nPackage Type FedEx Envelope\nZone 8\nPackages 1\nWeight 1.0 lbs, 0.5 kgs\nDelivered Nov 21, 2002 11 56\nSvc Area A1\nSigned by F DEL MAN\nFedEx Use 324260720/00266/02\nSender DR GERALD ELDEMAN\nJEFFREY E EPSTEIN\n457 MADISON AVE\nNEW YORK NY 10022-6843 US\nRecipient EDWINA SIMMONDS\n\nTransportation Charge 15.25\nDiscount -2.44\nFuel Surcharge 0.51\nResidential Delivery 1.35\nTotal Transportation Charges USD $ 14.67\n\nCONFIDENTIAL\nSDNY_GM_00340740 71\nDOJ-OGR-00015380",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY E EPSTEIN",
+      "RICK",
+      "CECILIA STEEN",
+      "PEG UGLAND",
+      "DR GERALD ELDEMAN",
+      "EDWINA SIMMONDS",
+      "L.FOSTER",
+      "D.OAKLEY",
+      "F DEL MAN"
+    ],
+    "organizations": [
+      "FedEx",
+      "CELL ANTENNA CORP",
+      "N. A. PROPERTY"
+    ],
+    "locations": [
+      "NEW YORK",
+      "457 MADISON AVE"
+    ],
+    "dates": [
+      "Nov 20, 2002",
+      "Nov 21, 2002",
+      "Nov 25, 2002"
+    ],
+    "reference_numbers": [
+      "4-494-19676",
+      "1144-2081-6",
+      "003664181850",
+      "325057990/01574/08",
+      "791235914678",
+      "523021063/00208/_",
+      "836663864967",
+      "324260720/00266/02",
+      "SDNY_GM_00340740",
+      "DOJ-OGR-00015380"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx shipment detail report, containing information about three separate shipments. The document is marked 'CONFIDENTIAL' at the bottom."
+}

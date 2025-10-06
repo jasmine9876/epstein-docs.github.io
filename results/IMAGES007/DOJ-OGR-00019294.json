@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": "8",
+    "document_number": "17",
+    "date": "09/10/2020",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 20-3061, Document 17, 09/10/2020, 2928288, Page8 of 15\nEXHIBIT F, Judge Nathan has now denied that request,",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 20-3061, Document 17, 09/10/2020, 2928288, Page8 of 15",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EXHIBIT F, Judge Nathan has now denied that request,",
+      "position": "top"
+    },
+    {
+      "type": "other",
+      "content": "[Multiple redacted sections]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "7",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00019294",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Nathan"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "09/10/2020"
+    ],
+    "reference_numbers": [
+      "20-3061",
+      "17",
+      "2928288",
+      "DOJ-OGR-00019294"
+    ]
+  },
+  "additional_notes": "The document contains multiple redacted sections, likely due to sensitive information."
+}

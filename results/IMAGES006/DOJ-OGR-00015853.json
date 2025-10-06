@@ -1,0 +1,88 @@
+{
+  "document_metadata": {
+    "page_number": "56",
+    "document_number": null,
+    "date": "19MAY",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... 19MAY G1159B N908JE TEB PBI 1108 2 3 \" 9 \" \" PBI TSTJ 1109 2 0 \" 11 \" \" TSTJ TEB 1110 3 1 \" 15 \" \" TEB PBI 1111 2 0 \" 17 \" \" PBI TEB 1112 2 4 \" 18 \" \" TEB MOW 1113 1 6 \" 18 \" \" MOW SAF 1114 2 5 \" 20 \" \" SAF LAX 1115 1 \" 20 \" \" LAX TEB 1116 4 5 JUN \" \" TEB PBI 1117 2 2 8 \" \" PBI TEB 1118 2 5 12 \" \" TEB TSTJ 1119 3 0 15 \" \" TSTJ JFK 1120 4 3 18 \" \" JFK PBI 1121 2 0 21 \" \" PBI TEB 1122 2 5 23 \" \" TEB BED 1123 1 \" 23 \" \" BED TEB 1124 1 2 26 \" \" TEB PBI 1125 2 6 TOTAL AT BOTTOM OF PAGE REPORT TO INSURANCE COMPANY I certify that the statements made by me on this form are true. Pilot's Signature David Redlinger Page Total 15 437 Amount Forward 6004 72069 Total to Date 5809 72506 56 DOJ-OGR-00015853",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "19MAY G1159B N908JE TEB PBI 1108 2 3 \" 9 \" \" PBI TSTJ 1109 2 0 \" 11 \" \" TSTJ TEB 1110 3 1 \" 15 \" \" TEB PBI 1111 2 0 \" 17 \" \" PBI TEB 1112 2 4 \" 18 \" \" TEB MOW 1113 1 6 \" 18 \" \" MOW SAF 1114 2 5 \" 20 \" \" SAF LAX 1115 1 \" 20 \" \" LAX TEB 1116 4 5 JUN \" \" TEB PBI 1117 2 2 8 \" \" PBI TEB 1118 2 5 12 \" \" TEB TSTJ 1119 3 0 15 \" \" TSTJ JFK 1120 4 3 18 \" \" JFK PBI 1121 2 0 21 \" \" PBI TEB 1122 2 5 23 \" \" TEB BED 1123 1 \" 23 \" \" BED TEB 1124 1 2 26 \" \" TEB PBI 1125 2 6",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "TOTAL AT BOTTOM OF PAGE REPORT TO INSURANCE COMPANY",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David Redlinger",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total 15 437 Amount Forward 6004 72069 Total to Date 5809 72506",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Redlinger"
+    ],
+    "organizations": [
+      "INSURANCE COMPANY"
+    ],
+    "locations": [
+      "TEB",
+      "PBI",
+      "TSTJ",
+      "MOW",
+      "SAF",
+      "LAX",
+      "JFK",
+      "BED"
+    ],
+    "dates": [
+      "19MAY",
+      "JUN"
+    ],
+    "reference_numbers": [
+      "G1159B",
+      "N908JE",
+      "1108",
+      "1109",
+      "1110",
+      "1111",
+      "1112",
+      "1113",
+      "1114",
+      "1115",
+      "1116",
+      "1117",
+      "1118",
+      "1119",
+      "1120",
+      "1121",
+      "1122",
+      "1123",
+      "1124",
+      "1125",
+      "6004",
+      "72069",
+      "5809",
+      "72506",
+      "DOJ-OGR-00015853"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The log includes details such as date, aircraft make and model, identification mark, points of departure and arrival, miles flown, flight number, remarks, and number of landings. The document is signed by the pilot, David Redlinger."
+}

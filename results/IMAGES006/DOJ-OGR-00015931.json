@@ -1,0 +1,94 @@
+{
+  "document_metadata": {
+    "page_number": "16",
+    "document_number": null,
+    "date": "1962 Dec",
+    "document_type": "Pilot's Logbook Page",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE 1962 Dec | AIRCRAFT MAKE AND MODEL | AIRCRAFT IDENTIFICATION MARK | POINTS OF DEPARTURE & ARRIVAL | MILES FLOWN | FLT. NO. | REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS | NO. LDG. | AIRCRAFT CATEGORY | 13 | H25-200 | N9082E | PBI | MIA | 45 | 255 | JERRY, TASHA |  | 3 | 3 |  | 13 | \" | \" | MIA | CMH | v | 256 | JERRY |  | 24 | 24 | 2 | 17 | \" | \" | CMH | BOS | 60 | 257 | NO PASSENGERS (6 to Delavan 1945 hours to Bendix Rescue |  | 15 | 15 | 1 | 18 | \" | \" | BOS | TEB | 110 | 258 | LINDA | v1 | 9 |  | 91 | 18 | \" | \" | TEB | DCA | v | 259 | JERRY, CHESNUT |  | 7 |  | 7 | 18 | \" | \" | DCA | TEB | v | 260 | JERRY, CHESNUT, JFM | 1 | 7 |  | 7 | 19 | \" | \" | TEB | ICT | 100 | 261 | JERRY, CHESNUT | v1 | 40 | 40 | 4 | 19 | \" | \" | ICT | SJI | 53 | 262 | JERRY, CHESNUT | 1 | 20 | 25 | 2 | 21 | \" | \" | SJI | PBI | 60 | 263 | JERRY, CHESNUT | 1 | 35 | 35 | 3 | 27 | \" | \" | PBI | CMH | 75 | 264 | JERRY | v1 | 23 | 23 | 2 | 29 | \" | \" | CMH | PBI | 40 | 265 | JERRY |  | 22 | 22 | 2 | 29 | \" | \" | PBI | TEB | 75 | 266 | JERRY, CHESNUT | v1 | 25 | 25 | 2 | 4 | \" | \" | TEB | CMH | 50 | 267 | JERRY | v1 | 13 | 13 | 1 | 8 | \" | \" | CMH | TEB | 140 | 268 | JERRY, CHESNUT | v1 | 12 | 12 | 1 | 9 | \" | \" | TEB | PBI |  | 269 | JERRY, CHESNUT, 2 AUNTS, NANCY |  | 28 | 28 | 2 | 10 | \" | \" | PBI | CMH | 50 | 270 | JERRY, LOU PERKINS |  | 23 | 23 | 2 | 11 | \" | \" | CMH | TEB | 50 | 271 | JERRY, SPYNE AND LUCIA |  | 12 | 12 | 1 | 15 | \" | \" | TEB | PBI | 50 | 272 | JERRY, EVA ANDERSON | v1 | 26 | 26 | 2 | I certify that the statements made by me on this form are true. | PAGE TOTAL | 13 | 344 | 344 | 34 | PILOT'S SIGNATURE David Rodick | AMT. FORWARD | 3263 | 5753 | 4122 | 2113 | TOTAL TO DATE | 3276 | 5181 | 4154 | 2198 | 16 DOJ-OGR-00015931",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE 1962 Dec | AIRCRAFT MAKE AND MODEL | AIRCRAFT IDENTIFICATION MARK | POINTS OF DEPARTURE & ARRIVAL | MILES FLOWN | FLT. NO. | REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS | NO. LDG. | AIRCRAFT CATEGORY",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "13 | H25-200 | N9082E | PBI | MIA | 45 | 255 | JERRY, TASHA |  | 3 | 3 |  | ... | I certify that the statements made by me on this form are true. | PILOT'S SIGNATURE David Rodick",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE TOTAL | AMT. FORWARD | TOTAL TO DATE",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "13 | 344 | 344 | 34 | 3263 | 5753 | 4122 | 2113 | 3276 | 5181 | 4154 | 2198",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JERRY",
+      "TASHA",
+      "LINDA",
+      "CHESNUT",
+      "JFM",
+      "David Rodick",
+      "LOU PERKINS",
+      "SPYNE",
+      "LUCIA",
+      "EVA ANDERSON",
+      "NANCY"
+    ],
+    "organizations": [],
+    "locations": [
+      "PBI",
+      "MIA",
+      "CMH",
+      "BOS",
+      "TEB",
+      "DCA",
+      "ICT",
+      "SJI",
+      "Delavan",
+      "Bendix"
+    ],
+    "dates": [
+      "1962 Dec 13",
+      "1962 Dec 17",
+      "1962 Dec 18",
+      "1962 Dec 19",
+      "1962 Dec 21",
+      "1962 Dec 27",
+      "1962 Dec 29",
+      "1945"
+    ],
+    "reference_numbers": [
+      "N9082E",
+      "255",
+      "256",
+      "257",
+      "258",
+      "259",
+      "260",
+      "261",
+      "262",
+      "263",
+      "264",
+      "265",
+      "266",
+      "267",
+      "268",
+      "269",
+      "270",
+      "271",
+      "272",
+      "DOJ-OGR-00015931"
+    ]
+  },
+  "additional_notes": "The document is a pilot's logbook page with handwritten entries detailing flight information, including dates, aircraft details, departure and arrival points, miles flown, flight numbers, and remarks. The page includes a certification statement signed by the pilot, David Rodick."
+}

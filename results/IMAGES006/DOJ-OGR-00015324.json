@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "3 of 4",
+    "document_number": "4-427-88886",
+    "date": "Nov 11, 2002",
+    "document_type": "Invoice",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Invoice Number: 4-427-88886 Invoice Date: Nov 11, 2002 Account Number: 1814-9779-3 Page: 3 of 4 FedEx Express Shipment Summary by Payment Type Original Shipper Number of Shipments 1 Transportation Charges 9.50 Base Discount -2.28 Special Handling Charges 7.07 TOTAL USD $ 14.29 Number of Shipments 1 Total Charges USD $ 14.29 TOTAL SHIPMENTS 1 TOTAL CHARGES USD $ 14.29 CONFIDENTIAL SDNY_GM_00340601 15 DOJ-OGR-00015324",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Number: 4-427-88886 Invoice Date: Nov 11, 2002 Account Number: 1814-9779-3 Page: 3 of 4",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Summary by Payment Type",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Shipper Number of Shipments 1 Transportation Charges 9.50 Base Discount -2.28 Special Handling Charges 7.07 TOTAL USD $ 14.29",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Number of Shipments 1 Total Charges USD $ 14.29 TOTAL SHIPMENTS 1 TOTAL CHARGES USD $ 14.29",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "SDNY_GM_00340601 15 DOJ-OGR-00015324",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "FedEx"
+    ],
+    "locations": [],
+    "dates": [
+      "Nov 11, 2002"
+    ],
+    "reference_numbers": [
+      "4-427-88886",
+      "1814-9779-3",
+      "SDNY_GM_00340601",
+      "DOJ-OGR-00015324"
+    ]
+  },
+  "additional_notes": "The document is a FedEx invoice with a 'CONFIDENTIAL' watermark. It appears to be a standard invoice with shipment details and charges."
+}

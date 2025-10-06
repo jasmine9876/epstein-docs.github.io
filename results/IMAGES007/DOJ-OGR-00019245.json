@@ -1,0 +1,73 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "A18-1416",
+    "date": "SEP 8 AM11:20",
+    "document_type": "UPS Express Envelope",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "UPS US DISTRICT COURT - SDNY 500 PEARL ST NEW YORK NY 10007 P:PURPLE S:FRNT 1:028 A18-1416 1Z4681F0194176904 1030 RECEIVED SEP 8 AM11:20 CLERK'S OFFICE SDNY Express Env C5808000-DOCS-2019/20-09/60/2327741.PDF DOJ-OGR-00019245",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "UPS",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "US DISTRICT COURT - SDNY 500 PEARL ST NEW YORK NY 10007",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "P:PURPLE S:FRNT 1:028 A18-1416 1Z4681F0194176904",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "1030",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "RECEIVED SEP 8 AM11:20 CLERK'S OFFICE SDNY",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Express Env",
+      "position": "right"
+    },
+    {
+      "type": "printed",
+      "content": "C5808000-DOCS-2019/20-09/60/2327741.PDF",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00019245",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "UPS",
+      "US District Court - SDNY"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "SEP 8 AM11:20"
+    ],
+    "reference_numbers": [
+      "A18-1416",
+      "1Z4681F0194176904",
+      "C5808000-DOCS-2019/20-09/60/2327741.PDF",
+      "DOJ-OGR-00019245"
+    ]
+  },
+  "additional_notes": "The document is a UPS Express Envelope addressed to the US District Court - SDNY. It has a received stamp with date and time."
+}

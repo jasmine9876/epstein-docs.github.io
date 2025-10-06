@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": "70",
+    "document_number": "763",
+    "date": "08/10/22",
+    "document_type": "court transcript",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 763 Filed 08/10/22 Page 70 of 197 2611 LCHVMAX2 Young - direct 1 Q. If I could direct your attention -- this was an interview with Jane that you attended, right? 2 A. Yes. 3 Q. And her two attorneys attended as well, correct? 4 A. Yes. 5 Q. And if I could direct your attention to a line nine lines down with a dash that begins \"GM.\" 6 A. Okay. 7 Q. Can I have you read that line and the next line into the record. 8 A. \"GM walked by with dog. JE came up to meet her.\" 9 Q. Thank you. 10 And then now if I could direct your attention to the tab behind the document behind tab 1. 11 Do you recognize this document? 12 A. Yes. 13 Q. And this is the FBI typewritten 302; correct? 14 A. Yes, that's correct. 15 Q. And you're the one that typed this up, right? 16 A. Yes. 17 Q. And this is the typewritten report from the handwritten notes on September 19th; correct? 18 A. Yes, that's correct. 19 Q. But the typewritten report was prepared in December of 2019? 20 SOUTHERN DISTRICT REPORTERS, P.C. (212) 805-0300 DOJ-OGR-00014176",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 763 Filed 08/10/22 Page 70 of 197 2611 LCHVMAX2 Young - direct",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "1 Q. If I could direct your attention -- this was an interview with Jane that you attended, right? 2 A. Yes. 3 Q. And her two attorneys attended as well, correct? 4 A. Yes. 5 Q. And if I could direct your attention to a line nine lines down with a dash that begins \"GM.\" 6 A. Okay. 7 Q. Can I have you read that line and the next line into the record. 8 A. \"GM walked by with dog. JE came up to meet her.\" 9 Q. Thank you. 10 And then now if I could direct your attention to the tab behind the document behind tab 1. 11 Do you recognize this document? 12 A. Yes. 13 Q. And this is the FBI typewritten 302; correct? 14 A. Yes, that's correct. 15 Q. And you're the one that typed this up, right? 16 A. Yes. 17 Q. And this is the typewritten report from the handwritten notes on September 19th; correct? 18 A. Yes, that's correct. 19 Q. But the typewritten report was prepared in December of 2019?",
+      "position": "main"
+    },
+    {
+      "type": "printed",
+      "content": "SOUTHERN DISTRICT REPORTERS, P.C. (212) 805-0300",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00014176",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jane",
+      "GM",
+      "JE"
+    ],
+    "organizations": [
+      "FBI",
+      "SOUTHERN DISTRICT REPORTERS, P.C."
+    ],
+    "locations": [],
+    "dates": [
+      "September 19th",
+      "December of 2019",
+      "08/10/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "763",
+      "302",
+      "DOJ-OGR-00014176"
+    ]
+  },
+  "additional_notes": "The document appears to be a court transcript with a clear and legible format. There are no visible redactions or damage."
+}

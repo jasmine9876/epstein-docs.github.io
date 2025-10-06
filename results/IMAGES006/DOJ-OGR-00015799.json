@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": null,
+    "date": "1991 Jul",
+    "document_type": "Pilot's Logbook Page",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE 1991 Jul AIRCRAFT MAKE AND MODEL AIRCRAFT IDENTIFICATION MARK POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FLOWN Flt. NO. REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS NO. LDG. AIRCRAFT CATEGORY AIRPLANE COMPLEX TURB 31 N404CB N4257N CMH TCB 5 3 \" \" TCB ACK 10 1.6 3 \" \" ACK TCB 7 5 \" \" TCB DCA 150 8 5 \" \" DCA BWI 9 5 \" \" BWI CMH 10 6 \" \" CMH TCB 11 9 \" \" TCB CMH 12 '11 \" \" CMH DAY 70 13 11 \" \" DAY TCB 14 13 \" \" TCB CMH 30 15 13 \" \" CMH TVC 16 13 \" \" TVC ORS 17 18 N908JC \" \" ORS TVC 60 18 18 \" \" TVC TCB 19 20 \" \" TCB ASC 20 20 25 \" \" ASC DEN 90 21 26 \" \" DEN CMH I certify that the statements made by me on this form are true. PILOT'S SIGNATURE Jack Kockinger PAGE TOTAL AMT. FORWARD 383 5373 5 1749 5 1741 TOTAL TO DATE 3314 5376 10 3772 6 1763 2",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE AIRCRAFT MAKE AND MODEL AIRCRAFT IDENTIFICATION MARK POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FLOWN Flt. NO. REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS NO. LDG. AIRCRAFT CATEGORY AIRPLANE COMPLEX TURB",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "1991 Jul 31 N404CB N4257N CMH TCB 5 3 \" \" TCB ACK 10 1.6 3 \" \" ACK TCB 7 5 \" \" TCB DCA 150 8 5 \" \" DCA BWI 9 5 \" \" BWI CMH 10 6 \" \" CMH TCB 11 9 \" \" TCB CMH 12 '11 \" \" CMH DAY 70 13 11 \" \" DAY TCB 14 13 \" \" TCB CMH 30 15 13 \" \" CMH TVC 16 13 \" \" TVC ORS 17 18 N908JC \" \" ORS TVC 60 18 18 \" \" TVC TCB 19 20 \" \" TCB ASC 20 20 25 \" \" ASC DEN 90 21 26 \" \" DEN CMH",
+      "position": "main"
+    },
+    {
+      "type": "printed",
+      "content": "I certify that the statements made by me on this form are true. PILOT'S SIGNATURE PAGE TOTAL AMT. FORWARD TOTAL TO DATE",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jack Kockinger 383 5373 5 1749 5 1741 3314 5376 10 3772 6 1763",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jack Kockinger"
+    ],
+    "organizations": [],
+    "locations": [
+      "CMH",
+      "TCB",
+      "ACK",
+      "DCA",
+      "BWI",
+      "DAY",
+      "TVC",
+      "ORS",
+      "ASC",
+      "DEN"
+    ],
+    "dates": [
+      "1991 Jul 31",
+      "1991 Jul 3",
+      "1991 Jul 5",
+      "1991 Jul 6",
+      "1991 Jul 9",
+      "1991 Jul 11",
+      "1991 Jul 13",
+      "1991 Jul 18",
+      "1991 Jul 20",
+      "1991 Jul 25",
+      "1991 Jul 26"
+    ],
+    "reference_numbers": [
+      "N404CB",
+      "N4257N",
+      "N908JC"
+    ]
+  },
+  "additional_notes": "The document is a photocopy of a pilot's logbook page with handwritten entries. The page is dated July 1991 and contains flight records, including dates, aircraft identification, departure and arrival points, miles flown, and flight numbers. The logbook page is signed by the pilot, Jack Kockinger."
+}

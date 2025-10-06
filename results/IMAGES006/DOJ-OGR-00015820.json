@@ -1,0 +1,87 @@
+{
+  "document_metadata": {
+    "page_number": "23",
+    "document_number": null,
+    "date": "1943 SEP",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE 1943 SEP | AIRCRAFT MAKE AND MODEL | AIRCRAFT IDENTIFICATION MARK | POINTS OF DEPARTURE & ARRIVAL FROM | TO | MILES FLOWN | FLT. NO. | REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS | NO. LDG. | AIRCRAFT CATEGORY AIRPLANE | COMPLEX | TURB 18 | HS125700 | N9055G | ATL | NEW |  | 312 |  | 10 | 10 | 1 | 1 18 | \" | \" | NCW | CMH |  | 343 |  | 9 | 9 | 1 | 19 | \" | \" | CMH | TUC |  | 344 |  | 6 | 6 |  | 19 | \" | \" | TUC | TCB |  | 345 |  | 14 | 14 |  | 22 | \" | \" | TCB | MMGT |  | 346 |  | 44 | 44 | 4 | 23 | \" | \" | MMGT | CLP |  | 347 |  | 20 | 20 | 2 | 23 | \" | \" | CLP | SAF |  | 348 |  | 8 | 8 |  | 24 | \" | \" | SAF | RIL |  | 349 |  | 8 | 8 |  | 24 | \" | \" | RIL | CMH |  | 400 |  | 25 | 25 | 2 | 26 | \" | \" | CMH | TCB |  | 401 |  |  |  |  | 28 | \" | \" | TCB | BOS |  | 402 |  | 7 | 7 |  | 29 | \" | \" | BOS | DCA |  | 403 |  | 15 | 15 | 1 | 29 | \" | \" | DCA | TCB |  | 404 |  | 6 |  | 6 | 30 | \" | \" | TCB | PBI |  | 405 |  | 23 | 23 | 2 | 14 | \" | Simulator | ILC | ILC |  |  |  | 18 | 18 | 1 | 15 | \" | \" | ILC | DCA |  |  |  | 17 | 17 | 1 | 16 | \" | \" | DCA | ILC |  |  |  | 19 | 19 | 1 | 03 | \" | \" | PBI | TCB |  | 406 |  | 25 | 25 | 2 I certify that the statements made by me on this form are true. PILOT'S SIGNATURE David Rodge PAGE TOTAL 131 304 304 30 AMT. FORWARD 26432 5464 4732 2324 TOTAL TO DATE 26432 5994 8 4363 2354",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE 1943 SEP | AIRCRAFT MAKE AND MODEL | AIRCRAFT IDENTIFICATION MARK | POINTS OF DEPARTURE & ARRIVAL FROM | TO | MILES FLOWN | FLT. NO. | REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS | NO. LDG. | AIRCRAFT CATEGORY AIRPLANE | COMPLEX | TURB",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "18 | HS125700 | N9055G | ATL | NEW |  | 312 |  | 10 | 10 | 1 | 1 18 | \" | \" | NCW | CMH |  | 343 |  | 9 | 9 | 1 | 19 | \" | \" | CMH | TUC |  | 344 |  | 6 | 6 |  | 19 | \" | \" | TUC | TCB |  | 345 |  | 14 | 14 |  | 22 | \" | \" | TCB | MMGT |  | 346 |  | 44 | 44 | 4 | 23 | \" | \" | MMGT | CLP |  | 347 |  | 20 | 20 | 2 | 23 | \" | \" | CLP | SAF |  | 348 |  | 8 | 8 |  | 24 | \" | \" | SAF | RIL |  | 349 |  | 8 | 8 |  | 24 | \" | \" | RIL | CMH |  | 400 |  | 25 | 25 | 2 | 26 | \" | \" | CMH | TCB |  | 401 |  |  |  |  | 28 | \" | \" | TCB | BOS |  | 402 |  | 7 | 7 |  | 29 | \" | \" | BOS | DCA |  | 403 |  | 15 | 15 | 1 | 29 | \" | \" | DCA | TCB |  | 404 |  | 6 |  | 6 | 30 | \" | \" | TCB | PBI |  | 405 |  | 23 | 23 | 2 | 14 | \" | Simulator | ILC | ILC |  |  |  | 18 | 18 | 1 | 15 | \" | \" | ILC | DCA |  |  |  | 17 | 17 | 1 | 16 | \" | \" | DCA | ILC |  |  |  | 19 | 19 | 1 | 03 | \" | \" | PBI | TCB |  | 406 |  | 25 | 25 | 2",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "I certify that the statements made by me on this form are true. PILOT'S SIGNATURE",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "David Rodge",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE TOTAL | AMT. FORWARD | TOTAL TO DATE",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "131 304 304 30 | 26432 5464 4732 2324 | 26432 5994 8 4363 2354",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rodge"
+    ],
+    "organizations": [],
+    "locations": [
+      "ATL",
+      "NEW",
+      "NCW",
+      "CMH",
+      "TUC",
+      "TCB",
+      "MMGT",
+      "CLP",
+      "SAF",
+      "RIL",
+      "BOS",
+      "DCA",
+      "PBI",
+      "ILC"
+    ],
+    "dates": [
+      "1943 SEP 18",
+      "1943 SEP 19",
+      "1943 SEP 22",
+      "1943 SEP 23",
+      "1943 SEP 24",
+      "1943 SEP 26",
+      "1943 SEP 28",
+      "1943 SEP 29",
+      "1943 SEP 30",
+      "1943 SEP 14",
+      "1943 SEP 15",
+      "1943 SEP 16",
+      "1943 SEP 03"
+    ],
+    "reference_numbers": [
+      "HS125700",
+      "N9055G",
+      "N903JG",
+      "DOJ-OGR-00015820"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log from September 1943. It contains handwritten entries detailing flight information, including dates, aircraft identification, departure and arrival points, miles flown, and flight numbers. The log also includes a certification statement signed by the pilot, David Rodge. The document is in good condition, with some minor wear on the edges."
+}

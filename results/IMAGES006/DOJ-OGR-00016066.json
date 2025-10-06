@@ -1,0 +1,69 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "4-495-75031",
+    "date": "Dec 23, 2002",
+    "document_type": "Invoice",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Invoice Number: 4-495-75031 Invoice Date: Dec 23, 2002 Account Number: 1144-2081-6 Page: 3 of 21 FedEx Express Shipment Summary by Payment Type Original Shipper Number of Shipments 31 Transportation Charges 595.30 Base Discount -64.15 Special Handling Charges 110.96 TOTAL USD $ 642.11 Number of Shipments 31 Total Charges USD $ 642.11 Recipient Number of Shipments 2 Transportation Charges 33.25 Base Discount -4.24 Special Handling Charges 12.51 TOTAL USD $ 41.52 Number of Shipments 2 Total Charges USD $ 41.52 Third Party Number of Shipments 1 Transportation Charges 54.50 Base Discount -6.45 Special Handling Charges 3.31 TOTAL USD $ 52.36 Number of Shipments 1 Total Charges USD $ 52.36 TOTAL SHIPMENTS 34 TOTAL CHARGES USD $ 735.99 DOJ-OGR-00016066",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Number: 4-495-75031 Invoice Date: Dec 23, 2002 Account Number: 1144-2081-6 Page: 3 of 21",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Summary by Payment Type",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Original Shipper Number of Shipments 31 Transportation Charges 595.30 Base Discount -64.15 Special Handling Charges 110.96 TOTAL USD $ 642.11 Number of Shipments 31 Total Charges USD $ 642.11",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Recipient Number of Shipments 2 Transportation Charges 33.25 Base Discount -4.24 Special Handling Charges 12.51 TOTAL USD $ 41.52 Number of Shipments 2 Total Charges USD $ 41.52",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Third Party Number of Shipments 1 Transportation Charges 54.50 Base Discount -6.45 Special Handling Charges 3.31 TOTAL USD $ 52.36 Number of Shipments 1 Total Charges USD $ 52.36",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "TOTAL SHIPMENTS 34 TOTAL CHARGES USD $ 735.99",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00016066",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "FedEx"
+    ],
+    "locations": [],
+    "dates": [
+      "Dec 23, 2002"
+    ],
+    "reference_numbers": [
+      "4-495-75031",
+      "1144-2081-6",
+      "DOJ-OGR-00016066"
+    ]
+  },
+  "additional_notes": "The document is a FedEx invoice with detailed shipment information and totals."
+}

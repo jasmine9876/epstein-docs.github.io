@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": "6 of 8",
+    "document_number": "4-447-12299",
+    "date": "Nov 04, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\n\nInvoice Number: 4-447-12299\nInvoice Date: Nov 04, 2002\nAccount Number: 1144-2081-6\nPage: 6 of 8\n\nPicked up: Oct 29, 2002\nPayor: Shipper\nReference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 3.00% to this shipment.\n\nTracking D 791219545923\nService Type FedEx Intl Priority\nPackage Type FedEx Envelope\nZone E\nOrig./Dest. JRB/FCO\nPackages 1\nWeight 0.5 lbs, 0.2 kgs\nDelivered Oct 31, 2002 17 23\nSigned by KOZLOWSKI\nFedEx Use _/US01O/_\n\nSender\nCECILIA STEEN\nJEFFREY E. EPSTE N\n457 MADISON AVENUE\n4TH FLOOR\nNEW YORK NY 10022 US\n\nRecipient\nDIANA COOK\n\nTransportation Charge 28.00\nFuel Surcharge 0.81\nDiscount -0.84\n\nTotal Transportation Charges USD $ 27.97\n\nPicked up: Oct 29, 2002\nPayor: Shipper\nReference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 3.00% to this shipment.\n\nTracking D 791068383157\nService Type FedEx Intl Priority\nPackage Type FedEx Envelope\nZone E\nOrig./Dest. JRB/MIL\nPackages 1\nWeight 0.5 lbs, 0.2 kgs\nDelivered Oct 31, 2002 09 59\nSigned by BIAL K\nFedEx Use _/US01O/_\n\nSender\nCECILIA STEEN\nJEFFREY E. EPSTE N\n457 MADISON AVENUE\n4TH FLOOR\nNEW YORK NY 10022 US\n\nRecipient\nNATASHA MILAN\n\nTransportation Charge 28.00\nFuel Surcharge 0.81\nDiscount -0.84\n\nTotal Transportation Charges USD $ 27.97\n\nPicked up: Oct 29, 2002\nPayor: Shipper\nReference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 3.00% to this shipment.\n\nTracking D 792123992179\nService Type FedEx Intl Priority\nPackage Type FedEx Envelope\nZone D\nOrig./Dest. JRB/XPW\nPackages 1\nWeight 0.5 lbs, 0.2 kgs\nDelivered Oct 31, 2002 11:11\nSigned by S.TONE\nFedEx Use _/US01O/_\n\nSender\nCECILIA STEEN\nJEFFREY E. EPSTE N\n457 MADISON AVENUE\n4TH FLOOR\nNEW YORK NY 10022 US\n\nRecipient\nEDUARDO TEODORANI-FABBRI\nCNH UK LIMITED\n\nTransportation Charge 28.00\nFuel Surcharge 0.81\nDiscount -0.84\n\nTotal Transportation Charges USD $ 27.97\n\nCONFIDENTIAL\nSDNY_GM_00340676 6\nDOJ-OGR-00015315",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Number: 4-447-12299\nInvoice Date: Nov 04, 2002\nAccount Number: 1144-2081-6\nPage: 6 of 8",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "CECILIA STEEN",
+      "JEFFREY E. EPSTE N",
+      "DIANA COOK",
+      "NATASHA MILAN",
+      "EDUARDO TEODORANI-FABBRI",
+      "KOZLOWSKI",
+      "BIAL K",
+      "S.TONE"
+    ],
+    "organizations": [
+      "FedEx",
+      "CNH UK LIMITED"
+    ],
+    "locations": [
+      "NEW YORK",
+      "JRB",
+      "FCO",
+      "MIL",
+      "XPW"
+    ],
+    "dates": [
+      "Oct 29, 2002",
+      "Oct 31, 2002",
+      "Nov 04, 2002"
+    ],
+    "reference_numbers": [
+      "4-447-12299",
+      "1144-2081-6",
+      "791219545923",
+      "791068383157",
+      "792123992179",
+      "SDNY_GM_00340676",
+      "DOJ-OGR-00015315"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx shipment detail report, containing information about three separate shipments. The document is marked 'CONFIDENTIAL' at the bottom."
+}

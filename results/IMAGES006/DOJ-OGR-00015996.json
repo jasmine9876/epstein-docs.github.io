@@ -1,0 +1,78 @@
+{
+  "document_metadata": {
+    "page_number": "81",
+    "document_number": "DOJ-OGR-00015996",
+    "date": null,
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... 15 G-11598 N909JG ISP LCQ 1472 JG, AP ALexfo wauuget, RGR 1/1 2 6 15 \" \" LCQ PBI 473 JG, AP, AW, EK RGR 1/1 9 16 \" \" PBI MLA 1474 JG, AP, AW, GK, chGs lymph RGR 1/1 7 16 \" \" MFA TIST 1478 JG, AP, AW, BK, CL, EO TUSTLE AGR 1/1 2 2 19 \" \" TIST LGF 1474 JG, AP, AW, BK, CL, EJtuke RGR 1/1 3 8 22 \" \" LGA PBI 1477 JG, AP, Joe PAGANo-VA cellno JOROAN MYA DURIN a manin 1/1 2 4 23 C-421B N908GM PBI OPF ? KROSS? RODGERS - SOL, TWRUS 1/1 6 23 \" \" OPF FLL ? KROSS? RODGERS - SOL, TWRUS 1/1 4 23 \" \" FLL PBI JONATHAN MAND - ILS - PET 6 24 \" \" PBI ISM JONATHAN MAND - IFR cross country TOR CROSsea REC Eletions 1/1 10 24 \" \" ISM PBI JONATHAN MAND - ISR cros country miscellanous mancuvers 1/1 11 27 G-11598 N909JG PBI TGB 478 JG, AP, JFeMangs, PAM RGR 1/1 2 5 29 \" \" TGB SAF 479 JG, AP, AW, BK, MARUC JMS MSNY 4 11 31 \" \" SAF PBI 1480 JG, AP, AW, MANEUS 1/1 3 3 APR 1 \" \" PBI LCQ 481 JG, AP 1/1 10 1 \" \" LCQ TGB 1482 JG, AP 2 1 3 \" \" TGB GAI 1483 JG, HEATHER MAND, LYOPA 1/1 9 3 \" \" GAI TGB 1484 JG, HEATHER MAND, LYOPA 8 4 \" \" TGB BFD 1485 JG, RHONDA 1/1 8 I certify that the statements made by me on this form are true. Pilot's Signature David Rodghr 81 Page Total 15 12 319 Amount Forward 6369 8133 4 3 3 112 6 Total to Date 6384 6062 8165 3 3 3 112 6 DOJ-OGR-00015996",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "15 G-11598 N909JG ISP LCQ 1472 JG, AP ALexfo wauuget, RGR 1/1 2 6",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David Rodghr",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rodghr",
+      "Jonathan Mand",
+      "Heather Mand",
+      "Rhodna"
+    ],
+    "organizations": [],
+    "locations": [
+      "ISP",
+      "LCQ",
+      "PBI",
+      "MLA",
+      "MFA",
+      "TIST",
+      "LGF",
+      "LGA",
+      "OPF",
+      "FLL",
+      "ISM",
+      "TGB",
+      "SAF",
+      "GAI",
+      "BFD"
+    ],
+    "dates": [
+      "15",
+      "16",
+      "19",
+      "22",
+      "23",
+      "24",
+      "27",
+      "29",
+      "31",
+      "APR 1",
+      "1",
+      "3",
+      "3",
+      "4"
+    ],
+    "reference_numbers": [
+      "G-11598",
+      "N909JG",
+      "C-421B",
+      "N908GM",
+      "DOJ-OGR-00015996"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The log includes details such as date, aircraft make and model, points of departure and arrival, miles flown, flight number, remarks, procedures, maneuvers, endorsements, number of landings, and aircraft category. The pilot's signature is present at the bottom of the page."
+}

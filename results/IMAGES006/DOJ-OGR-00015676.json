@@ -1,0 +1,48 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "420-B",
+    "date": "9/7/2002",
+    "document_type": "Government Exhibit",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "Property Value Description Title 09/07/02 Subject Tags Categories Comments Origin Authors gmax Last saved by gmax Revision number 1 Version number Program name Microsoft Word 9.0 Company Dell Computer Corporation Manager Content created 9/7/2002 2:41 PM Date last saved 9/13/2002 5:01 AM Last printed 9/7/2002 3:13 PM Total editing time 00:30:00 GOVERNMENT EXHIBIT 420-B S2 20 Cr. 330 (AJN) DOJ-OGR-00015676",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Property Value Description Title 09/07/02 Subject Tags Categories Comments Origin Authors gmax Last saved by gmax Revision number 1 Version number Program name Microsoft Word 9.0 Company Dell Computer Corporation Manager Content created 9/7/2002 2:41 PM Date last saved 9/13/2002 5:01 AM Last printed 9/7/2002 3:13 PM Total editing time 00:30:00",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 420-B S2 20 Cr. 330 (AJN)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015676",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "gmax"
+    ],
+    "organizations": [
+      "Dell Computer Corporation",
+      "Microsoft"
+    ],
+    "locations": [],
+    "dates": [
+      "9/7/2002",
+      "9/13/2002"
+    ],
+    "reference_numbers": [
+      "420-B",
+      "S2 20 Cr. 330 (AJN)",
+      "DOJ-OGR-00015676"
+    ]
+  },
+  "additional_notes": "The document appears to be a metadata summary of a Microsoft Word document, with a government exhibit stamp at the bottom."
+}

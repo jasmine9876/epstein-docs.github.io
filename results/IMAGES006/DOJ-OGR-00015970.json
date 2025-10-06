@@ -1,0 +1,100 @@
+{
+  "document_metadata": {
+    "page_number": "55",
+    "document_number": null,
+    "date": null,
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... From To 18-Mar G1159B N908JE PBI PBI 1098 CERTIFICATION for GPS APPROACH 1/1 16 17 C421 N908GM PBI X21 CHRIS WAGNER - PIC, KRISTY, GINGER EMERGENCY AIRPORT OPERATIONS 1 6 9 17 C421 \" X21 TIX SAME AS ABOVE 1 1 17 \" \" TIX CRG KRISTY RODGERS, PATTY GIL CLEMOS, DESIGNS, TURNS 6 6 18 \" \" CRG LAL PATTY RODGERS, KRIST 8 8 18 \" \" LAL PBI CHRIS WAGNER, LAWRIE, KRISTY, PATTY RODGERS, ROBIN, RACHEL GRIMM 1 11 19 G1159B N908JC PBI CMH 1099 JE, CLAIR HAZEY, J FCMBLE 2 0 20 \" \" CMH LUK 1100 JE, GINGER, MANDY LANE 3 20 \" \" LUK TCB 1101 JE, GINGER, MANDY LANE 1 2 24 \" \" TCB PBI 1102 JC, GM, COCOA BROWN, ET, LINDA 2 2 25 C172 N75RR LNA-PBI-LNA CHRIS WAGNER - NO FLAP APPROACH EMERGENCY PROCEDURES - WIAS C 4/4 1 0 25 \" \" LNA LNA 3 TOUCH, SOFT, REJECTED TAKEOFF EMERGENCY LANDINGS. 3 TOES WORK 0 0 26 \" \" LNA-PBI-LNA TAFFIC PATTERN, E MC AGENCY LANDING, CLASS E OPERATIONS 5/5 9 26 G1159B N908JC PBI TCB 1103 JE, GM, ET 2 3 May \" \" TCB PBI 1104 JE, GM, ET, GLEN DURBIN, JORDAN, STEFANIE, GENNY 2 5 4 C172 N75RR LNA-PBI-LNA CIRRUS SAME AS 555 STEFANIE, ET AL, EMERGENCY CIRRUS C, LOCATIONS 11/11 1 5 3 G1159B N908JC PBI TCB 1105 JE, GM, ET, NAV, NIGHT blacked out NON-PRECISION 2 3 5 \" \" TCB BCD 1106 JE, ROBIN 6 5 \" \" BCD TCB 1107 JE, ROBIN, S JEVEN 7 I certify that the statements made by me on this form are true. Pilot's Signature David Rodgers Page Total 40 22.8 Amount Forward 6624 7184.1 Total to Date 6065 7206.9 DOJ-OGR-00015970",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... From To",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "18-Mar G1159B N908JE PBI PBI 1098 CERTIFICATION for GPS APPROACH 1/1 16",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David Rodgers",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total 40 22.8 Amount Forward 6624 7184.1 Total to Date 6065 7206.9",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Chris Wagner",
+      "Kristy",
+      "Ginger",
+      "Kristy Rodgers",
+      "Patty Gil Clemos",
+      "Patty Rodgers",
+      "Lawrie",
+      "Clair Hazey",
+      "J Fcmble",
+      "Cocoa Brown",
+      "Linda",
+      "David Rodgers",
+      "Stefan",
+      "Glen Durbin",
+      "Jordan",
+      "Stefanie",
+      "Genny",
+      "Robin",
+      "S Jeven"
+    ],
+    "organizations": [],
+    "locations": [
+      "PBI",
+      "X21",
+      "TIX",
+      "CRG",
+      "LAL",
+      "CMH",
+      "LUK",
+      "TCB",
+      "LNA",
+      "BCD"
+    ],
+    "dates": [
+      "18-Mar",
+      "17",
+      "18",
+      "19",
+      "20",
+      "24",
+      "25",
+      "26",
+      "May 4",
+      "3",
+      "5"
+    ],
+    "reference_numbers": [
+      "N908JE",
+      "N908GM",
+      "N908JC",
+      "N75RR",
+      "1098",
+      "1099",
+      "1100",
+      "1101",
+      "1102",
+      "1103",
+      "1104",
+      "1105",
+      "1106",
+      "1107",
+      "DOJ-OGR-00015970"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The log includes details such as date, aircraft make and model, identification mark, points of departure and arrival, miles flown, flight number, remarks, procedures, maneuvers, endorsements, number of landings, and aircraft category. The document has a signature at the bottom and includes a page total, amount forward, and total to date. There is a blacked-out section in one of the entries."
+}

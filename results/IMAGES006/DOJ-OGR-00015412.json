@@ -1,0 +1,68 @@
+{
+  "document_metadata": {
+    "page_number": "5 of 6",
+    "document_number": "4-495-05371",
+    "date": "Dec 09, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type (Original)",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\nInvoice Number: 4-495-05371\nInvoice Date: Dec 09, 2002\nAccount Number: 1144-2081-6\nPage: 5 of 6\n\nPicked up: Dec 02, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nTracking D 790151989526 Sender HELEN H K M JEFFREY E. EPSTE N 457 MADISON AVENUE 4TH FLOOR NEW YORK NY 10022 US Recipient ALBERTO PINTO HOTEL DE LA VICTOIRE\nService Type FedEx Intl Priority Package Type FedEx Pak Orig./Dest. JRB/PAR Packages 1 Weight 2.0 lbs, 0.9 kgs Delivered Dec 04, 200209 22 Signed by DANTREBECQ FedEx Use _/US01O/_\nTransportation Charge 38.00 Fuel Surcharge 1.47 Discount -1.14\nTotal Transportation Charges USD $ 38.33\n\nPicked up: Dec 02, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nTracking D 792784554142 Sender HELEN H K M JEFFREY E. EPSTE N 457 MADISON AVENUE 4TH FLOOR NEW YORK NY 10022 US Recipient JEAN LUC BRUNEL KAR N MODELS\nService Type FedEx Intl Priority Package Type FedEx Pak Orig./Dest. JRB/TNF Packages 1 Weight 2.0 lbs, 0.9 kgs Delivered Dec 04, 200209 57 Signed by .GILLARD FedEx Use _/US01O/_\nTransportation Charge 38.00 Fuel Surcharge 1.47 Discount -1.14\nTotal Transportation Charges USD $ 38.33\n\nDropped off: Dec 04, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDiscount applied is the greater of volume discount or dropoff discount. No additional discount applies.\nTracking D 790153667088 Sender CECILIA STEEN JEFFREY E. EPSTE N 457 MADISON AVENUE 4TH FLOOR NEW YORK NY 10022 US Recipient ALBERTO PINTO HOTEL DE LA VICTOIRE\nService Type FedEx Intl Priority Package Type FedEx Envelope Orig./Dest. JRB/PAR Packages 1 Weight 0.5 lbs, 0.2 kgs Delivered Dec 06, 200209 34 Signed by KRIEF FedEx Use _/US01O/_\nTransportation Charge 28.00 Fuel Surcharge 1.09 Discount -0.84\nTotal Transportation Charges USD $ 28.25\n\nCONFIDENTIAL\nSDNY_GM_00340778 103\nDOJ-OGR-00015412",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Number: 4-495-05371\nInvoice Date: Dec 09, 2002\nAccount Number: 1144-2081-6\nPage: 5 of 6",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "SDNY_GM_00340778 103\nDOJ-OGR-00015412",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "HELEN H K M",
+      "JEFFREY E. EPSTE N",
+      "ALBERTO PINTO",
+      "JEAN LUC BRUNEL",
+      "CECILIA STEEN"
+    ],
+    "organizations": [
+      "FedEx",
+      "HOTEL DE LA VICTOIRE",
+      "KAR N MODELS"
+    ],
+    "locations": [
+      "NEW YORK NY 10022 US",
+      "JRB/PAR",
+      "JRB/TNF"
+    ],
+    "dates": [
+      "Dec 02, 2002",
+      "Dec 04, 2002",
+      "Dec 09, 2002",
+      "Dec 06, 2002"
+    ],
+    "reference_numbers": [
+      "4-495-05371",
+      "1144-2081-6",
+      "790151989526",
+      "792784554142",
+      "790153667088",
+      "SDNY_GM_00340778",
+      "DOJ-OGR-00015412"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx shipment detail report, containing information about three separate shipments. The document is marked 'CONFIDENTIAL' at the bottom."
+}

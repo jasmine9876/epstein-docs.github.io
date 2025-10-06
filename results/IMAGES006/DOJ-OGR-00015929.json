@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "14",
+    "document_number": "DOJ-OGR-00015929",
+    "date": "19 Sep",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE | AIRCRAFT MAKE AND MODEL | AIRCRAFT IDENTIFICATION MARK | POINTS OF DEPARTURE & ARRIVAL FROM | TO | MILES FLOWN | FLT. NO. | REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS | NO. LDG. | AIRCRAFT CATEGORY AIRPLANE | COMPLEX | TURB 19 SEP |  |  |  |  |  |  |  |  |  |  |  | 5 | C-172 |  | FRH | FRH |  |  | CHECK OUT ENC CESSNA 172 | 3/4 |  | 6 |  |  |  |  |  |  |  |  |  |  |  | 9 | 115125-76C | a) CLEWIT a)stat b) AULIN 122 ILG | ILG |  |  |  | 1/4 | 1 | 4 | 1 | 4 | 1 | 10 | \" | \" | \" | \" |  |  |  | 1 | 5 | 1 | 5 | 1 | 11 | \" | \" | \" | \" |  |  |  | 1 | 5 | 1 | 5 | 1 | 25 3 | \" | 19085C | SQT COS | CATP PDS | 55 | 217 |  | 1/4 | 2 | 7 | 2 | 7 | 2 | 4 | \" | \" | PBI | TCB | 4.0 | 228 |  | 1/2 | 2 | 4 | 2 | 4 | 2 | 7 | \" | \" | TCB | CMH | 6.3 | 229 |  | 1/4 | 1 | 3 | 1 | 3 | 1 | 23 | \" | \" | BOS | TCB | 14.2 | 227 |  | 1/4 |  | 9 |  | 9 |  | 23 | \" | \" | TCB | PBI | 1.7 | 222 |  |  | 2 | 3 | 2 | 3 | 2 | 26 | \" | \" | PBI | TCB | 6.0 | 224 |  | 1/4 | 2 | 4 | 2 | 4 | 2 | 28 | \" | \" | TCB | DCA | 120 | 230 |  | 1 |  | 7 |  | 7 |  | 28 | \" | \" | DCA | TCB |  | 231 |  |  |  | 1 |  | 7 |  | 28 | \" | \" | TCB | CMH |  | 232 | NO PASSENGERS |  | 1 | 4 | 1 | 4 | 1 | 31 | \" | \" | CMH | TCB | 4.0 | 233 |  | 1/4 | 1 | 1 | 1 | 1 | 1 | Feb 1 | \" | \" | TCB | CMH | 10 | 234 |  | 1/4 | 1 | 5 | 1 | 5 | 1 | 8 | \" | \" | CMH | TCK | 70 | 235 | NO PASSENGERS | 1/4 | 1 | 3 | 1 | 3 | 1 | 8 | \" | \" | JFK | PBI |  | 236 |  |  | 2 | 7 | 2 | 7 | 2 | I certify that the statements made by me on this form are true. PILOT'S SIGNATURE David Roddy PAGE TOTAL 160 26.8 25 8 25 AMT. FORWARD 5339 5692 + 4054 9 2051 TOTAL TO DATE 5344 5717 2 4085 7 2077",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE | AIRCRAFT MAKE AND MODEL | AIRCRAFT IDENTIFICATION MARK | POINTS OF DEPARTURE & ARRIVAL FROM | TO | MILES FLOWN | FLT. NO. | REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS | NO. LDG. | AIRCRAFT CATEGORY AIRPLANE | COMPLEX | TURB",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "David Roddy",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Roddy"
+    ],
+    "organizations": [
+      "CESSNA"
+    ],
+    "locations": [
+      "FRH",
+      "ILG",
+      "SQT COS",
+      "CATP PDS",
+      "PBI",
+      "TCB",
+      "CMH",
+      "BOS",
+      "DCA",
+      "TCK",
+      "JFK"
+    ],
+    "dates": [
+      "19 Sep",
+      "Feb 1"
+    ],
+    "reference_numbers": [
+      "115125-76C",
+      "19085C",
+      "DOJ-OGR-00015929"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The log includes details such as date, aircraft make and model, points of departure and arrival, miles flown, and remarks. The pilot's signature is present at the bottom of the page."
+}

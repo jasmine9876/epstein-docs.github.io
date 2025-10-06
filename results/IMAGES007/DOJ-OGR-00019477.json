@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": "6",
+    "document_number": "192",
+    "date": "09/24/2020",
+    "document_type": "court document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case: 20-cv-20603 Document #: 192 Filed: 09/24/20 Page: 6 of 125 b. An estate in Palm Beach, Florida owned by Epstein (the \"Palm Beach Residence\"), which is depicted in the following photograph: [Image of a house in Palm Beach] c. A ranch in Santa Fe, New Mexico owned by Epstein (the \"New Mexico Residence\"), which is depicted in the following photograph: [Image of a ranch in Santa Fe] 6 App.018 DOJ-OGR-00019477",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "Case: 20-cv-20603 Document #: 192 Filed: 09/24/20 Page: 6 of 125",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "b. An estate in Palm Beach, Florida owned by Epstein (the \"Palm Beach Residence\"), which is depicted in the following photograph:",
+      "position": "top"
+    },
+    {
+      "type": "image",
+      "content": "[Image of a house in Palm Beach]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "c. A ranch in Santa Fe, New Mexico owned by Epstein (the \"New Mexico Residence\"), which is depicted in the following photograph:",
+      "position": "middle"
+    },
+    {
+      "type": "image",
+      "content": "[Image of a ranch in Santa Fe]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "6",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "App.018",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00019477",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [
+      "Palm Beach",
+      "Florida",
+      "Santa Fe",
+      "New Mexico"
+    ],
+    "dates": [
+      "09/24/2020"
+    ],
+    "reference_numbers": [
+      "20-cv-20603",
+      "192",
+      "DOJ-OGR-00019477"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with images of properties owned by Epstein. The text is mostly printed, with some handwritten elements in the header."
+}

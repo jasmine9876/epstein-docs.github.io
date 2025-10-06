@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": "42",
+    "document_number": "DOJ-OGR-00015771",
+    "date": "2/14/2005",
+    "document_type": "Maintenance Checklist",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "CHECK EVERY MONTH\n(Check list to be completed and signed by the 28th of each month)\n\nFire Extinguisher - Check to make sure that it is fully charged.\nSecurity alarm - Test system.\nSink stoppers - Clean out debris, soak stoppers in vinegar and water to clean.\nGarbage disposal - Flush with hot water and baking soda, put ice cubes through to sharpen.\nHot water heating system - Test relief valve and replace if necessary; check pressure gauge and drain expansion tank if necessary.\nSteam heating system - Check safety valve and steam-pressure gauge and have replaced if necessary; check water-level gauge and add water if needed; drain water until clear to eliminate sediment.\nAir conditioners / heaters - Clean or replace filter; clean condenser, evaporator coils and condensation drain.\n\nDATE: 2/14/2005 SIGNATURE: \nDOJ-OGR-00015771",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "CHECK EVERY MONTH",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "(Check list to be completed and signed by the 28th of each month)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Fire Extinguisher - Check to make sure that it is fully charged.\nSecurity alarm - Test system.\nSink stoppers - Clean out debris, soak stoppers in vinegar and water to clean.\nGarbage disposal - Flush with hot water and baking soda, put ice cubes through to sharpen.\nHot water heating system - Test relief valve and replace if necessary; check pressure gauge and drain expansion tank if necessary.\nSteam heating system - Check safety valve and steam-pressure gauge and have replaced if necessary; check water-level gauge and add water if needed; drain water until clear to eliminate sediment.\nAir conditioners / heaters - Clean or replace filter; clean condenser, evaporator coils and condensation drain.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "2/14/2005",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DATE: SIGNATURE: ",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015771",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "42",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "2/14/2005",
+      "28th of each month"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00015771"
+    ]
+  },
+  "additional_notes": "The document appears to be a maintenance checklist with a list of tasks to be completed monthly. The document is dated 2/14/2005 and has a reference number DOJ-OGR-00015771. The page number is 42."
+}

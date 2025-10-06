@@ -1,0 +1,50 @@
+{
+  "document_metadata": {
+    "page_number": "12",
+    "document_number": "229020 Filed 08/27/20",
+    "date": null,
+    "document_type": "Exhibit",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case: 20-30083 Document: 229-020 Filed: 08/27/20 Page: 12 of 13 Exhibit A App.043 DOJ-OGR-00019502",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case: 20-30083 Document: 229-020 Filed: 08/27/20 Page: 12 of 13",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Exhibit A",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "App.043",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00019502",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "08/27/20"
+    ],
+    "reference_numbers": [
+      "20-30083",
+      "229-020",
+      "DOJ-OGR-00019502",
+      "App.043"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear header indicating the case number, document number, and filing date. The main content is labeled 'Exhibit A' and includes an identifier 'App.043' and a reference number 'DOJ-OGR-00019502' at the bottom."
+}

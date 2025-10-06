@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": "7 of 15",
+    "document_number": "4-495-33932",
+    "date": "Dec 16, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\n\nPicked up: Dec 09, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 6\nPackage sent from: 75041 zip code\nFedEx has audited this shipment for correct packages, weight, and service. Any changes made are reflected in the invoice amount.\n\nTracking D 837169384061 Sender JEFFREY E EPSTEIN Recipient EDWINA SIMMONDS\nService Type FedEx Priority Overnight 457 MADISON AVE\nPackage Type FedEx Pak NEW YORK NY 10022-6843 US\nZone 6\nPackages 1\nWeight 1.0 lbs, 0.5 kgs\nDelivered Dec 10, 200209 25\nSvc Area A1\nSigned by .SIMMONNS\nFedEx Use 345091460/01574/\n\nTransportation Charge 24.50\nDiscount -2.45\nFuel Surcharge 0.88\nCourier Pickup Charge 0.00\n\nTotal Transportation Charges USD $ 22.93\n\nPicked up: Dec 09, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 7\n\nTracking D 837169385002 Sender LAUREN KW NTNER Recipient LLOYD MILTON\nService Type FedEx Priority Overnight JEFFREY E EPSTEIN CENTRAL NEW MEXICO ELECTRIC CO\nPackage Type FedEx Envelope 457 MADISON AVE\nZone 7 NEW YORK NY 10022-6843 US\nPackages 1\nWeight 1.0 lbs, 0.5 kgs\nDelivered Dec 10, 2002 15:14\nSvc Area RM\nSigned by D.SMITHE\nFedEx Use 346237740/00241/\n\nTransportation Charge 16.75\nDiscount -2.68\nFuel Surcharge 0.56\nDelivery Area Surcharge 1.50\n\nTotal Transportation Charges USD $ 16.13\n\nDropped off: Dec 10, 2002 Payor: Shipper Reference: MG-M PERSONAL\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 7\nPackage sent from: 87501 zip code\n\nTracking D 83666367608 Sender MURRAY GELL-MANN Recipient EDWINA SIMMONDS\nService Type FedEx Standard Overnight JEFFREY E EPSTEIN\nPackage Type FedEx Envelope 457 MADISON AVE\nZone 7 NEW YORK NY 10022-6843 US\nPackages 1\nWeight 1.0 lbs, 0.5 kgs\nDelivered Dec 11, 2002 12:17\nSvc Area A1\nSigned by .SIMMONS\nFedEx Use 346030810/00255/\n\nTransportation Charge 14.75\nDiscount -2.36\nFuel Surcharge 0.50\n\nTotal Transportation Charges USD $ 12.89\n\nCONFIDENTIAL\nSDNY_GM_00340786 125\nDOJ-OGR-00015434",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY E EPSTEIN",
+      "EDWINA SIMMONDS",
+      "LAUREN KW NTNER",
+      "LLOYD MILTON",
+      "MURRAY GELL-MANN",
+      "D.SMITHE",
+      ".SIMMONNS",
+      ".SIMMONS"
+    ],
+    "organizations": [
+      "FedEx",
+      "CENTRAL NEW MEXICO ELECTRIC CO"
+    ],
+    "locations": [
+      "NEW YORK",
+      "NY",
+      "10022-6843",
+      "US"
+    ],
+    "dates": [
+      "Dec 09, 2002",
+      "Dec 10, 2002",
+      "Dec 10, 200209 25",
+      "Dec 10, 2002 15:14",
+      "Dec 11, 2002 12:17",
+      "Dec 16, 2002"
+    ],
+    "reference_numbers": [
+      "4-495-33932",
+      "1144-2081-6",
+      "837169384061",
+      "345091460/01574/",
+      "837169385002",
+      "346237740/00241/",
+      "83666367608",
+      "346030810/00255/",
+      "SDNY_GM_00340786",
+      "DOJ-OGR-00015434"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx shipment detail report, containing information about three separate shipments. The report includes details such as tracking numbers, sender and recipient information, package details, and transportation charges. The document is marked 'CONFIDENTIAL' at the bottom."
+}

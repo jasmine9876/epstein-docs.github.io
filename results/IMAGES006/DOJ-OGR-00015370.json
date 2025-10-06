@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "3 of 5",
+    "document_number": "7-152-41155",
+    "date": "Nov 21, 2002",
+    "document_type": "Invoice",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Invoice Number: 7-152-41155 Invoice Date: Nov 21, 2002 Account Number: 1144-2081-6 Page: 3 of 5 FedEx Express Shipment Summary by Payment Type Shipper Original Number of Shipments 1 Duties, Tax, Customs, Other Fees 137.13 TOTAL USD $ 137.13 Number of Shipments 1 Total Charges USD $ 137.13 TOTAL SHIPMENTS 1 TOTAL CHARGES USD $ 137.13 CONFIDENTIAL SDNY_GM_00342905 61 DOJ-OGR-00015370",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Number: 7-152-41155 Invoice Date: Nov 21, 2002 Account Number: 1144-2081-6 Page: 3 of 5",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Summary by Payment Type",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Shipper Original Number of Shipments 1 Duties, Tax, Customs, Other Fees 137.13 TOTAL USD $ 137.13 Number of Shipments 1 Total Charges USD $ 137.13 TOTAL SHIPMENTS 1 TOTAL CHARGES USD $ 137.13",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "SDNY_GM_00342905 61 DOJ-OGR-00015370",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "FedEx"
+    ],
+    "locations": [],
+    "dates": [
+      "Nov 21, 2002"
+    ],
+    "reference_numbers": [
+      "7-152-41155",
+      "1144-2081-6",
+      "SDNY_GM_00342905",
+      "DOJ-OGR-00015370"
+    ]
+  },
+  "additional_notes": "The document is a FedEx invoice with a 'CONFIDENTIAL' watermark. It contains shipment details and totals."
+}

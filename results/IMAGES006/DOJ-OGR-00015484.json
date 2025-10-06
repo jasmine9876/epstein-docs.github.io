@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00015484",
+    "date": "10/2/03",
+    "document_type": "Important Message",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "IMPORTANT MESSAGE FOR JOE DATE DOJ Redaction TIME 10:38 A.M. P.M. M OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 1184 IMPORTANT MESSAGE FOR DATE DOJ Redaction TIME A.M. P.M. M OF PHONE 212 758 AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 1184 IMPORTANT MESSAGE FOR SARAH DATE 10/2/03 TIME 17:52 A.M. P.M. M DOJ Redaction OF PHONE 832 AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 1184 IMPORTANT MESSAGE FOR JOE DATE 10/2/03 TIME 17:52 A.M. P.M. M DOJ Redaction OF PHONE 71 AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED GOVERNMENT EXHIBIT 2-P-R S2 20 Cr. 330 (AJN) 1184 DOJ-OGR-00015484",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "JOE",
+      "position": "top"
+    },
+    {
+      "type": "stamp",
+      "content": "DOJ Redaction",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "FOR DATE TIME M OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "SARAH",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "10/2/03 17:52",
+      "position": "top"
+    },
+    {
+      "type": "stamp",
+      "content": "DOJ Redaction",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "832",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 2-P-R S2 20 Cr. 330 (AJN)",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JOE",
+      "SARAH"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "10/2/03"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00015484",
+      "S2 20 Cr. 330 (AJN)"
+    ]
+  },
+  "additional_notes": "The document contains multiple 'Important Message' forms with some handwritten information and redactions. The forms are likely related to a government or legal case, given the presence of a 'GOVERNMENT EXHIBIT' stamp."
+}

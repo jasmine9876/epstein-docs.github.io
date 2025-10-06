@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "3 of 5",
+    "document_number": "7-153-78512",
+    "date": "Dec 12, 2002",
+    "document_type": "Invoice",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Invoice Number: 7-153-78512 Invoice Date: Dec 12, 2002 Account Number: 1144-2081-6 Page: 3 of 5 FedEx Express Shipment Summary by Payment Type Shipper Original Number of Shipments 1 Duties, Tax, Customs, Other Fees 64.41 TOTAL USD $ 64.41 Number of Shipments 1 Total Charges USD $ 64.41 TOTAL SHIPMENTS 1 TOTAL CHARGES USD $ 64.41 CONFIDENTIAL SDNY_GM_00342910 107 DOJ-OGR-00015416",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Number: 7-153-78512 Invoice Date: Dec 12, 2002 Account Number: 1144-2081-6 Page: 3 of 5",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Summary by Payment Type",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Shipper Original Number of Shipments 1 Duties, Tax, Customs, Other Fees 64.41 TOTAL USD $ 64.41 Number of Shipments 1 Total Charges USD $ 64.41 TOTAL SHIPMENTS 1 TOTAL CHARGES USD $ 64.41",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "SDNY_GM_00342910 107 DOJ-OGR-00015416",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "FedEx"
+    ],
+    "locations": [],
+    "dates": [
+      "Dec 12, 2002"
+    ],
+    "reference_numbers": [
+      "7-153-78512",
+      "1144-2081-6",
+      "SDNY_GM_00342910",
+      "DOJ-OGR-00015416"
+    ]
+  },
+  "additional_notes": "The document is a FedEx invoice with a 'CONFIDENTIAL' watermark. It appears to be a standard invoice with shipment details and charges."
+}

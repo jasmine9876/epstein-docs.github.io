@@ -1,0 +1,90 @@
+{
+  "document_metadata": {
+    "page_number": "48",
+    "document_number": "DOJ-OGR-00015963",
+    "date": "1997 May",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... 1997 May 5 G1159B N908JE EGGW LSGG 975 JE 1/1 1 3 5 \" \" LSGG LFPB 976 JE 1/1 1 7 6 \" \" LFPB CYJT 977 JE, GM 1/1 5 6 6 \" \" CYJT TEB 979 JE,GM 1/1 2 2 9 \" \" TEB SAF 979 JE, GM, [redacted] 3 9 12 \" \" SAF VNY 980 JE 1/1 1 5 14 \" \" VNY SAF 981 JE, SOPHIE BIDDLE 1/1 1 5 15 \" \" SAF DFW 982 JE,GM,SOPHIE BIDDLE, JACK KOSGEI 1/1 1 2 15 \" \" DFW PBI 983 JE 1/1 2 0 23 \" \" PBI JFK 994 REPOSITION TO JFK 1/1 2 2 24 \" \" JFK PBI 989 JE;CELINA MIDELFART, GINGER SOUTHGATE 1/1 2 1 JUN 1 \" \" PBI TEB 980 JE, MANDY 1/1 2 1 5 \" \" TEB PBI 987 JE, GM, DIETER 1/1 2 4 9 \" \" PBI TEB 988 JE, GM 1/1 2 3 21 \" \" TEB MVY 989 JE, LYNN FORRESTER, HEATHER MANN 1/1 1 6 21 \" \" MVY PBE 990 JE, HEATHER MANN 2 4 23 \" \" PBI CMH 991 JE, HEATHER 1/1 2 1 23 \" \" CMH TEB 992 JE, 1 1 27 \" \" TEB PBI 993 JE, GM 2 1 I certify that the statements made by me on this form are true. Pilot's Signature David Rodege Page Total 13/13 393 Amount Forward 5478 6925 0 Total to Date 5531 6964 3 3684",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "1997 May 5 G1159B N908JE EGGW LSGG 975 JE 1/1 1 3 5 \" \" LSGG LFPB 976 JE 1/1 1 7 6 \" \" LFPB CYJT 977 JE, GM 1/1 5 6 6 \" \" CYJT TEB 979 JE,GM 1/1 2 2 9 \" \" TEB SAF 979 JE, GM, [redacted] 3 9 12 \" \" SAF VNY 980 JE 1/1 1 5 14 \" \" VNY SAF 981 JE, SOPHIE BIDDLE 1/1 1 5 15 \" \" SAF DFW 982 JE,GM,SOPHIE BIDDLE, JACK KOSGEI 1/1 1 2 15 \" \" DFW PBI 983 JE 1/1 2 0 23 \" \" PBI JFK 994 REPOSITION TO JFK 1/1 2 2 24 \" \" JFK PBI 989 JE;CELINA MIDELFART, GINGER SOUTHGATE 1/1 2 1 JUN 1 \" \" PBI TEB 980 JE, MANDY 1/1 2 1 5 \" \" TEB PBI 987 JE, GM, DIETER 1/1 2 4 9 \" \" PBI TEB 988 JE, GM 1/1 2 3 21 \" \" TEB MVY 989 JE, LYNN FORRESTER, HEATHER MANN 1/1 1 6 21 \" \" MVY PBE 990 JE, HEATHER MANN 2 4 23 \" \" PBI CMH 991 JE, HEATHER 1/1 2 1 23 \" \" CMH TEB 992 JE, 1 1 27 \" \" TEB PBI 993 JE, GM 2 1",
+      "position": "main"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David Rodege",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "13/13 393 5478 6925 0 5531 6964 3 3684",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rodege",
+      "Sophie Biddle",
+      "Jack Kosgei",
+      "Celina Midelfart",
+      "Ginger Southgate",
+      "Mandy",
+      "Dieter",
+      "Lynn Forrester",
+      "Heather Mann"
+    ],
+    "organizations": [],
+    "locations": [
+      "EGGW",
+      "LSGG",
+      "LFPB",
+      "CYJT",
+      "TEB",
+      "SAF",
+      "VNY",
+      "DFW",
+      "PBI",
+      "JFK",
+      "MVY",
+      "CMH"
+    ],
+    "dates": [
+      "1997 May 5",
+      "1997 May 6",
+      "1997 May 9",
+      "1997 May 12",
+      "1997 May 14",
+      "1997 May 15",
+      "1997 May 23",
+      "1997 May 24",
+      "1997 Jun 1",
+      "1997 Jun 5",
+      "1997 Jun 9",
+      "1997 Jun 21",
+      "1997 Jun 23",
+      "1997 Jun 27"
+    ],
+    "reference_numbers": [
+      "G1159B",
+      "N908JE",
+      "JE",
+      "GM",
+      "DOJ-OGR-00015963"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. There is a redacted section in the remarks column."
+}

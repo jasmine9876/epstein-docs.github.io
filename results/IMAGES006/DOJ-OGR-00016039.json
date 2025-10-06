@@ -1,0 +1,51 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "721",
+    "date": null,
+    "document_type": "Government Exhibit",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "Lake Mangonia N Australian Ave Banyan Cay Resort & Golf Palm Beach Outlets Palm Beach Lakes Blvd PALM BEACH LAKES West Palm Beach DOWNTOWN Westgate Palm Beach International Airport Norton Museum of Art Belvedere Rd Cloud Lake South Florida Science Center GOVERNMENT EXHIBIT 721 S2 20 Cr. 330 (AJN) DOJ-OGR-00016039",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Lake Mangonia N Australian Ave Banyan Cay Resort & Golf Palm Beach Outlets Palm Beach Lakes Blvd PALM BEACH LAKES West Palm Beach DOWNTOWN Westgate Palm Beach International Airport Norton Museum of Art Belvedere Rd Cloud Lake South Florida Science Center",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 721 S2 20 Cr. 330 (AJN)",
+      "position": "bottom-right"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00016039",
+      "position": "bottom-right"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [
+      "Lake Mangonia",
+      "Banyan Cay Resort & Golf",
+      "Palm Beach Outlets",
+      "Palm Beach Lakes Blvd",
+      "Palm Beach Lakes",
+      "West Palm Beach",
+      "Westgate Palm Beach International Airport",
+      "Norton Museum of Art",
+      "Cloud Lake",
+      "South Florida Science Center"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "721",
+      "S2 20 Cr. 330 (AJN)",
+      "DOJ-OGR-00016039"
+    ]
+  },
+  "additional_notes": "The image appears to be a map of West Palm Beach, Florida, with various locations marked. The map is labeled as 'GOVERNMENT EXHIBIT 721' in the bottom-right corner, indicating its potential use in a legal or official context."
+}

@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": "34",
+    "document_number": "DOJ-OGR-00015831",
+    "date": "1945",
+    "document_type": "Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date 1945 Aircraft Make and Model G1159B Aircraft Identification Mark N908JK Points of Departure & Arrival From To Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... AIRPLANE 8 SAV TCB 653 1/1 18 9 TCB PBI 644 22 12 PBI TCB 655 1 25 16 TCB PBI 666 24 19 PBI TCB 667 23 21 TCB DCA 668 1/1 6 21 DCA TCB 669 1 6 22 TCB PBI 670 26 26 PBI TCB 672 1 23 13 TCB PBI 673 23 16 PBI TCB 674 24 26 TCB PBI 685 22 24 PBI TCB 686 1 21 27 TCB SAF 687 46 29 SAF NEW 688 1/1 19 29 NEW PBI 689 1/1 13 1 PBI TCB 690 1 21 4 TCB PBI 691 25 7 PBI TCB 692 25 I certify that the statements made by me on this form are true. Pilot's Signature David Rodgers Page Total 116 400 Amount Forward 518547 6378 7 Total to Date 571355 6418 7",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date 1945 Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival From To Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "G1159B N908JK SAV TCB 653 1/1 18 ...",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David Rodgers",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rodgers"
+    ],
+    "organizations": [],
+    "locations": [
+      "SAV",
+      "TCB",
+      "PBI",
+      "DCA",
+      "SAF",
+      "NEW"
+    ],
+    "dates": [
+      "1945"
+    ],
+    "reference_numbers": [
+      "N908JK",
+      "G1159B",
+      "DOJ-OGR-00015831"
+    ]
+  },
+  "additional_notes": "The document is a flight log from 1945, filled out by hand with various flight details. The pilot's signature is present at the bottom."
+}

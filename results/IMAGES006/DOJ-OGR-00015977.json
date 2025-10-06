@@ -1,0 +1,89 @@
+{
+  "document_metadata": {
+    "page_number": "62",
+    "document_number": null,
+    "date": null,
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date 196 Aircraft Make and Model Aircraft Identification Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... PURPOSE GLOBE HELICOPTER 3 206B3 59PH PMP PMP 3 P,EF 4 \" \" \" 4 P,E - Full controls 5 G-1159B N908JC TEB PBI 1201 NGM, EF MELANIE STEVENS, WILLIAM HAZEL V1 21 02/05 206B3 59PH PMP PMP 5 A,E - Advanced Maneuvers 1 0 03/06 206B 59PH PMP-PBI-PMP 6 A-E /started C & D 1 3 27/7 \" \" \" 7 P-Ax 1 6 7 G-1159B N908JC PBI TEB 1202 JEGMES MELENDO CUN2, JEGMES JUANITA, FEMALE 2 1 9 \" \" \" TEB TST 1203 JEGMGS, JP PRINCE ADORCU 3 3 12 \" \" \" TST PBI 1204 JEGMGT, JP, PELUCA AMOROSA STEVE BURGESS 2 6 13 206B3 59PH PMP-LCL-PHI-PMP A-F/started G 2 6 02. 15 BH206B2 N7010H VNY PRU VNY 5 1 0 14 G-1159B N908JC PBI SAF 1205 JG,GM,LAINE KELSON 1 1 3 6 15 \" \" \" SAF VNY 1206 JC 1 1 1 6 16 B206B5 N7010H VNY - PRU - VNY March Patterns, Approaches, ONE HOUR HOODEL TURNS A/PROD chances 1 0 17 G-1159B N908JC VNY MRY 1207 JKT3 1 1 7 20 \" \" \" MRY SAF 1208 JE 1 1 1 9 21 \" \" \" SAF TEB 1209 TE,GM,TEGNTEOS,STADOUH, CLEMENTSIC 1 1 3 5 24 \" \" \" TEB PBI 1210 JE, ET, GUP, CGUAR, JORDAN, NANNY, HAGSTHAL, JO ANNE 2 4 26 206B3 5003JA PMP PMP Review A -F, Demo D - H, J, + V 7 5 23 8 11 2 I certify that the statements made by me on this form are true. Pilot's Signature David Roder Page Total 6176 7404 8 33 2 0 Amount Forward 5892 7428 6 Total to Date 5897 7428 6 33 13 2 DOJ-OGR-00015977",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date 196 Aircraft Make and Model Aircraft Identification Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... PURPOSE GLOBE HELICOPTER",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "3 206B3 59PH PMP PMP 3 P,EF 4 \" \" \" 4 P,E - Full controls 5 G-1159B N908JC TEB PBI 1201 NGM, EF MELANIE STEVENS, WILLIAM HAZEL V1 21 02/05 206B3 59PH PMP PMP 5 A,E - Advanced Maneuvers 1 0 03/06 206B 59PH PMP-PBI-PMP 6 A-E /started C & D 1 3 27/7 \" \" \" 7 P-Ax 1 6 7 G-1159B N908JC PBI TEB 1202 JEGMES MELENDO CUN2, JEGMES JUANITA, FEMALE 2 1 9 \" \" \" TEB TST 1203 JEGMGS, JP PRINCE ADORCU 3 3 12 \" \" \" TST PBI 1204 JEGMGT, JP, PELUCA AMOROSA STEVE BURGESS 2 6 13 206B3 59PH PMP-LCL-PHI-PMP A-F/started G 2 6 02. 15 BH206B2 N7010H VNY PRU VNY 5 1 0 14 G-1159B N908JC PBI SAF 1205 JG,GM,LAINE KELSON 1 1 3 6 15 \" \" \" SAF VNY 1206 JC 1 1 1 6 16 B206B5 N7010H VNY - PRU - VNY March Patterns, Approaches, ONE HOUR HOODEL TURNS A/PROD chances 1 0 17 G-1159B N908JC VNY MRY 1207 JKT3 1 1 7 20 \" \" \" MRY SAF 1208 JE 1 1 1 9 21 \" \" \" SAF TEB 1209 TE,GM,TEGNTEOS,STADOUH, CLEMENTSIC 1 1 3 5 24 \" \" \" TEB PBI 1210 JE, ET, GUP, CGUAR, JORDAN, NANNY, HAGSTHAL, JO ANNE 2 4 26 206B3 5003JA PMP PMP Review A -F, Demo D - H, J, + V 7 5 23 8 11 2",
+      "position": "main"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David Roder",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "6176 7404 8 33 2 0 5892 7428 6 5897 7428 6 33 13 2",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015977",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Roder",
+      "MELANIE STEVENS",
+      "WILLIAM HAZEL",
+      "MELENDO CUN2",
+      "JUANITA",
+      "JP PRINCE ADORCU",
+      "PELUCA AMOROSA",
+      "STEVE BURGESS",
+      "LAINE KELSON",
+      "JO ANNE"
+    ],
+    "organizations": [],
+    "locations": [
+      "PMP",
+      "TEB",
+      "PBI",
+      "VNY",
+      "PRU",
+      "SAF",
+      "MRY"
+    ],
+    "dates": [
+      "02/05",
+      "03/06",
+      "02. 15"
+    ],
+    "reference_numbers": [
+      "59PH",
+      "N908JC",
+      "N7010H",
+      "5003JA",
+      "1201",
+      "1202",
+      "1203",
+      "1204",
+      "1205",
+      "1206",
+      "1207",
+      "1208",
+      "1209",
+      "1210"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The log includes details such as aircraft make and model, identification, points of departure and arrival, miles flown, flight number, remarks, procedures, maneuvers, endorsements, number of landings, and aircraft category. The document is signed by the pilot, David Roder."
+}

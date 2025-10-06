@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": "176",
+    "document_number": "753",
+    "date": "08/10/22",
+    "document_type": "Court Transcript",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 753 Filed 08/10/22 Page 176 of 264 1614 LC7Cmax6 Carolyn - cross 1 Q. Sarah was there to greet you? 2 A. The second time I had gone to Epstein's residence, Maxwell greeted me. 4 MR. PAGLIUCA: If we can direct the witness back to the third paragraph, starting with the word \"Sarah\" after the word \"Hungry.\" 7 THE WITNESS: I see what you're saying. 8 Q. Does this refresh your recollection that, in 2007, you told the FBI that Sarah was there and led her - meaning you - upstairs? 11 A. A lot of it runs together because I had gone there so many times. So I'm a little confused on the timing, because the second time I went to his residence, I did not see Sarah. 14 Q. So isn't it true, though, that that's what you told the FBI in 2007? 16 A. Obviously, because it's here. 17 Q. And you also told them, in 2007, that Sarah placed towels on the massage table; correct? 19 A. Yes, that's what it states. 20 Q. And at this second time, there is no one else there that you have told the FBI about, other than Sarah and Mr. Epstein; correct? 23 A. Yes. Maxwell was not brought up. 24 Q. It's also true that Sarah was the person who would call you from New York to schedule massages; correct? 25 SOUTHERN DISTRICT REPORTERS, P.C. (212) 805-0300 DOJ-OGR-00013189",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 753 Filed 08/10/22 Page 176 of 264 1614",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "LC7Cmax6 Carolyn - cross",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Q. Sarah was there to greet you? ... Maxwell was not brought up.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SOUTHERN DISTRICT REPORTERS, P.C. (212) 805-0300",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00013189",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Sarah",
+      "Maxwell",
+      "Epstein",
+      "PAGLIUCA"
+    ],
+    "organizations": [
+      "FBI",
+      "SOUTHERN DISTRICT REPORTERS, P.C."
+    ],
+    "locations": [
+      "New York",
+      "Epstein's residence"
+    ],
+    "dates": [
+      "08/10/22",
+      "2007"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "753",
+      "DOJ-OGR-00013189"
+    ]
+  },
+  "additional_notes": "The document is a court transcript with a mix of printed and some handwritten annotations. The content appears to be a cross-examination in a criminal case involving Epstein and Maxwell."
+}

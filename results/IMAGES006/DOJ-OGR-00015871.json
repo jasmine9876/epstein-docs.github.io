@@ -1,0 +1,92 @@
+{
+  "document_metadata": {
+    "page_number": "74",
+    "document_number": "DOJ-OGR-00015871",
+    "date": "May 2022 - June 2022",
+    "document_type": "Pilot's Logbook Page",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... Airplane Glider Weight May 8 G-1346 N9083L TEB TEB 1331 3 9 12 G-1346 N9083L TEB PBI 1339 2 4 15 G-1346 N9083L PBI TEB 1339 2 4 16 G-1346 N9083L TEB TST 1340 3 6 21 G-1346 N9083L TST TEB 1341 4 0 30 G-1346 N9083L TEB MDW 1342 1 9 31 G-1346 N9083L MDW TEB 1343 1 7 Jun 1 G-1346 N9083L TEB PBI 1344 2 4 4 G-1346 N9083L PBI TEB 1345 2 4 7 G-1346 N9083L TEB SAF 1346 3 9 12 G-1346 N9083L SAF VNY 1347 1 7 14 G-1346 N9083L VNY SFO 1348 1 2 14 G-1346 N9083L SFO LAS 1349 1 2 15 G-1346 N9083L LAS PHX 1350 1 0 17 G-1346 N9083L PHX PBI 1351 3 9 18 G-1346 N9083L PBI TEB 1352 2 6 25 G-1346 N9083L TEB TST 1353 3 7 25 G-1346 N9083L TST TEB 1354 3 7 25 G-1346 N9083L TEB PBI 1355 2 4 I certify that the statements made by me on this form are true. Pilot's Signature David Rodzfa Page Total 1412 499 Amount Forward 6292 7688 33112 Total to Date 6396 7818 7 33112",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... Airplane Glider Weight",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "May 8 G-1346 N9083L TEB TEB 1331 3 9 ...",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David Rodzfa",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total 1412 499 Amount Forward 6292 7688 33112 Total to Date 6396 7818 7 33112",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rodzfa"
+    ],
+    "organizations": [],
+    "locations": [
+      "TEB",
+      "PBI",
+      "TST",
+      "MDW",
+      "SAF",
+      "VNY",
+      "SFO",
+      "LAS",
+      "PHX"
+    ],
+    "dates": [
+      "May 8",
+      "May 12",
+      "May 15",
+      "May 16",
+      "May 21",
+      "May 30",
+      "May 31",
+      "Jun 1",
+      "Jun 4",
+      "Jun 7",
+      "Jun 12",
+      "Jun 14",
+      "Jun 15",
+      "Jun 17",
+      "Jun 18",
+      "Jun 25"
+    ],
+    "reference_numbers": [
+      "N9083L",
+      "G-1346",
+      "1331",
+      "1339",
+      "1340",
+      "1341",
+      "1342",
+      "1343",
+      "1344",
+      "1345",
+      "1346",
+      "1347",
+      "1348",
+      "1349",
+      "1350",
+      "1351",
+      "1352",
+      "1353",
+      "1354",
+      "1355",
+      "DOJ-OGR-00015871"
+    ]
+  },
+  "additional_notes": "The document is a pilot's logbook page with handwritten entries. The page is partially obscured by a black rectangle, but the surrounding text is still legible."
+}

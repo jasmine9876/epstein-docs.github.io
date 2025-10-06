@@ -1,0 +1,72 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "4-447-40902",
+    "date": "Nov 11, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\n\nDropped off: Oct 30, 2002\nPayor: Shipper\nReference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 3.00% to this shipment.\nDistance Based Pricing, Zone 7\nPackage sent from: 87505 zip code\n\nTracking ID827487052741\nSenderSHANNON\nRecipientHELEN\nService TypeFedEx Priority Overnight\nJEFFREY E EPSTE N\nEPSTON, NTERESTS\nPackage TypeFedEx Pak\n457 MADISON AVE\n457 MADISON AVE 14TH FLOOR\nZone7\nNEW YORK NY 10022-6843 US\nNEW YORK NY 10022 US\nPackages1\n0.5 kgs\nWeight1.0 lbs\nDeliveredOct 31, 2002 09:21\nSvc AreaA1\nSigned byW.DOULIN\nFedEx Use305067740/01596\n\nTransportation Charge25.25\nDiscount-2.53\nFuel Surcharge0.68\nTotal Transportation ChargesUSD $23.40\n\nPicked up: Oct 31, 2002\nPayor: Shipper\nReference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 3.00% to this shipment.\nDistance Based Pricing, Zone 6\n\nTracking ID791222343612\nSenderCECILIA STEEN\nRecipientJEFFREY E. EPSTEIN\nService TypeFedEx Priority Overnight\nJEFFREY E EPSTE N\n358 EL BRILLO WAY\nPackage TypeCustomer Packaging\n457 MADISON AVE\nPALM BEACH FL 33480 US\nZone6\nNEW YORK NY 10022-6843 US\nPackages1\n7.3 kgs\nWeight16.0 lbs\nDeliveredNov 01, 2002 09:26\nSvc AreaAA\nSigned byE.BOULET\nFedEx Use001744493/01574\n\nTransportation Charge64.25\nDiscount-6.43\nFuel Surcharge1.73\nResidential Delivery1.35\nTotal Transportation ChargesUSD $60.90\n\nPicked up: Oct 31, 2002\nPayor: Shipper\nReference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 3.00% to this shipment.\nDistance Based Pricing, Zone 6\n\nTracking ID791222353017\nSenderCECILIA STEEN\nRecipientJEFFREY E. EPSTEIN\nService TypeFedEx Priority Overnight\nJEFFREY E EPSTE N\n358 EL BRILLO WAY\nPackage TypeCustomer Packaging\n457 MADISON AVE\nPALM BEACH FL 33480 US\nZone6\nNEW YORK NY 10022-6843 US\nPackages1\n18.2 kgs\nWeight40.0 lbs\nDeliveredNov 01, 2002 09:26\nSvc AreaAA\nSigned byE.BOULET\nFedEx Use001744493/01574\n\nTransportation Charge108.75\nDiscount-10.88\nFuel Surcharge2.94\nResidential Delivery1.35\nTotal Transportation ChargesUSD $102.16\n\nCONFIDENTIAL\nSDNY_GM_00340682 20\nDOJ-OGR-00015329",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Dropped off: Oct 30, 2002\nPayor: Shipper\nReference: NO REFERENCE INFORMATION",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Fuel Surcharge - FedEx has applied a fuel surcharge of 3.00% to this shipment.\nDistance Based Pricing, Zone 7\nPackage sent from: 87505 zip code",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "SHANNON",
+      "HELEN EPSTON, NTERESTS",
+      "JEFFREY E EPSTEIN",
+      "CECILIA STEEN",
+      "W.DOULIN",
+      "E.BOULET"
+    ],
+    "organizations": [
+      "FedEx"
+    ],
+    "locations": [
+      "NEW YORK NY 10022-6843 US",
+      "NEW YORK NY 10022 US",
+      "PALM BEACH FL 33480 US",
+      "457 MADISON AVE",
+      "457 MADISON AVE 14TH FLOOR",
+      "358 EL BRILLO WAY"
+    ],
+    "dates": [
+      "Oct 30, 2002",
+      "Oct 31, 2002",
+      "Nov 01, 2002",
+      "Nov 11, 2002"
+    ],
+    "reference_numbers": [
+      "4-447-40902",
+      "1144-2081-6",
+      "827487052741",
+      "305067740/01596",
+      "791222343612",
+      "001744493/01574",
+      "791222353017",
+      "SDNY_GM_00340682",
+      "DOJ-OGR-00015329"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx shipment detail report, containing information about three separate shipments. The document is marked 'CONFIDENTIAL' at the bottom."
+}

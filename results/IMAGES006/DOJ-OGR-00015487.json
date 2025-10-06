@@ -1,0 +1,81 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00015487",
+    "date": "03/06/03",
+    "document_type": "Important Message",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "IMPORTANT MESSAGE FOR JR Epstein DATE 03/06/03 TIME 2 P.M. M Lesly OF NY Phone TELEPHONED CAME TO SEE YOU WANTS TO SEE YOU RETURNED YOUR CALL PLEASE CALL WILL CALL AGAIN RUSH SPECIAL ATTENTION MESSAGE she had RON BARROW for you SIGNED Eveye IMPORTANT MESSAGE FOR JR Epstein DATE 03/06/03 TIME 945 P.M. M DOJ Redaction OF Phone 917 365 AREA CODE NUMBER TELEPHONED X CAME TO SEE YOU WANTS TO SEE YOU RETURNED YOUR CALL PLEASE CALL WILL CALL AGAIN RUSH SPECIAL ATTENTION MESSAGE did Please call her back SIGNED Evelye IMPORTANT MESSAGE FOR JR Epstein DATE 03/06/03 TIME 6 P.M. M OF Phone AREA CODE NUMBER EXTENSION TELEPHONED CAME TO SEE YOU WANTS TO SEE YOU RETURNED YOUR CALL PLEASE CALL WILL CALL AGAIN RUSH SPECIAL ATTENTION MESSAGE DOJ Redaction 917 319 SIGNED GOVERNMENT EXHIBIT 2-S-R S2 20 Cr. 330 (AJN) IMPORTANT MESSAGE FOR JR DATE 03/12/03 TIME 4 P.M. M OF Phone AREA CODE NUMBER EXTENSION TELEPHONED CAME TO SEE YOU WANTS TO SEE YOU RETURNED YOUR CALL PLEASE CALL WILL CALL AGAIN RUSH SPECIAL ATTENTION MESSAGE DOJ Redaction 478 SIGNED",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "JR Epstein",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "03/06/03",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "2 P.M.",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Lesly",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "NY",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "she had RON BARROW for you",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Eveye",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "GOVERNMENT EXHIBIT 2-S-R S2 20 Cr. 330 (AJN)",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JR Epstein",
+      "Lesly",
+      "RON BARROW",
+      "Evelye"
+    ],
+    "organizations": [],
+    "locations": [
+      "NY"
+    ],
+    "dates": [
+      "03/06/03",
+      "03/12/03"
+    ],
+    "reference_numbers": [
+      "917 365",
+      "478",
+      "917 319",
+      "DOJ-OGR-00015487"
+    ]
+  },
+  "additional_notes": "The document contains multiple 'Important Message' forms with handwritten notes. Some information is redacted by the Department of Justice (DOJ). The document is stamped as 'GOVERNMENT EXHIBIT 2-S-R' with a reference number 'S2 20 Cr. 330 (AJN)'."
+}

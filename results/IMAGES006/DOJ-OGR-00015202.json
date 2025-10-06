@@ -1,0 +1,78 @@
+{
+  "document_metadata": {
+    "page_number": "17",
+    "document_number": "DOJ-OGR-00015202",
+    "date": "October 26, 2009",
+    "document_type": "Verification Document",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "CLAIM ID: [REDACTED] VERIFICATION being duly sworn, deposes and says that the foregoing answers to interrogatories are true and correct to the best of her knowledge, information and belief. [REDACTED] STATE OF FLORIDA ) COUNTY OF PALM BEACH ) ss SWORN TO AND SUBSCRIBED before me this 26 day of October , 2009 by [REDACTED] who is personally known to me or has produced the following identification Notary Public State of Florida Michael I Danchuk My Commission DD610406 Expires 10/03/2013 MICHAEL DANCHUK Notary - Print Name Notary - Signature (SEAL) 3505-104 Page 17 of 17 SUBJECT TO PROTECTIVE ORDER PARAGRAPHS 7, 8, 9, 10, 15, and 17 DOJ-OGR-00015202",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "CLAIM ID: [REDACTED]",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "VERIFICATION",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "being duly sworn, deposes and says that the foregoing answers to interrogatories are true and correct to the best of her knowledge, information and belief.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "STATE OF FLORIDA ) COUNTY OF PALM BEACH ) ss",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SWORN TO AND SUBSCRIBED before me this 26 day of October , 2009 by [REDACTED] who is personally known to me or has produced the following identification",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "Notary Public State of Florida Michael I Danchuk My Commission DD610406 Expires 10/03/2013",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "MICHAEL DANCHUK",
+      "position": "middle"
+    },
+    {
+      "type": "signature",
+      "content": "[Signature]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "3505-104 Page 17 of 17 SUBJECT TO PROTECTIVE ORDER PARAGRAPHS 7, 8, 9, 10, 15, and 17 DOJ-OGR-00015202",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Michael I Danchuk"
+    ],
+    "organizations": [],
+    "locations": [
+      "Florida",
+      "Palm Beach"
+    ],
+    "dates": [
+      "October 26, 2009",
+      "10/03/2013"
+    ],
+    "reference_numbers": [
+      "CLAIM ID: [REDACTED]",
+      "DD610406",
+      "DOJ-OGR-00015202"
+    ]
+  },
+  "additional_notes": "The document contains redactions and a notary stamp. The notary's commission expires on 10/03/2013."
+}

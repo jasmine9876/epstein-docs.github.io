@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": "23",
+    "document_number": "DOJ-OGR-00015752",
+    "date": "2/14/2005",
+    "document_type": "Checklist",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "INTERIOR\n\nLiving Room\n Plump the cushions.\n Check that stereo system and headphones are working.\n Clean and tidy all table top surfaces.\n Tidy up the magazines. Throw out fashion magazines over two months old.\n Place books that are lying around back on bookshelves.\n\nMs Maxwell's Desk\n Check that the DSL computer line is working.\n Place paper in the copier.\n Plenty of pens and notepads.\n JE & GM telephone directories placed to the right of the telephone.\n Tissues (replace if less than 1/3).\n\nKitchen\n Polish marble counter tops in kitchen.\n Empty dishwasher.\n Check all expiration dates on food in refrigerator and pantry.\n Dish pantry must be organized.\n Napkins cleaned and pressed for trays.\n\n2/14/2005\n23\nDOJ-OGR-00015752",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "INTERIOR",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Living Room\n Plump the cushions.\n Check that stereo system and headphones are working.\n Clean and tidy all table top surfaces.\n Tidy up the magazines. Throw out fashion magazines over two months old.\n Place books that are lying around back on bookshelves.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Ms Maxwell's Desk\n Check that the DSL computer line is working.\n Place paper in the copier.\n Plenty of pens and notepads.\n JE & GM telephone directories placed to the right of the telephone.\n Tissues (replace if less than 1/3).",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Kitchen\n Polish marble counter tops in kitchen.\n Empty dishwasher.\n Check all expiration dates on food in refrigerator and pantry.\n Dish pantry must be organized.\n Napkins cleaned and pressed for trays.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "2/14/2005",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "23",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015752",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Maxwell"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "2/14/2005"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00015752"
+    ]
+  },
+  "additional_notes": "The document appears to be a checklist for maintaining the interior of a room or office. It includes tasks for the living room, Ms. Maxwell's desk, and the kitchen. The document is printed and has no handwritten annotations or stamps."
+}

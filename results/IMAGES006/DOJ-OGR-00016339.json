@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": "123",
+    "document_number": "759",
+    "date": "08/10/22",
+    "document_type": "Court Transcript",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 759 Filed 08/10/22 Page 123 of 267 2151 L CAVMAX4 A. Farmer - cross 1 MS. MENNINGER: Yes. 2 Q. The interview was on November 15th of 2006 at your home in Austin, Texas; correct? 3 A. That's correct. 4 Q. And then the date of the report was a couple of weeks later. If we could look at the top of the page. November 5 28th. 6 A. Yes. 7 Q. And so on page 2 of that document, in the second full paragraph, the last sentence of that paragraph, what you told 8 the FBI in November of 2006 is that originally Maria was going to accompany Annie to New Mexico; correct? 9 A. I see it says that. 10 Q. And that's what you told the FBI in November of 2006; correct? 11 A. I don't recall that, but I see that that's written here. 12 MS. POMERANTZ: Your Honor, I would ask that the next sentence be read. It's for completeness of the record. 13 MS. MENNINGER: Your Honor, that's what redirect is for. 14 THE COURT: You can ask your next question. 15 BY MS. MENNINGER: 16 Q. You don't recall telling the FBI in November of 2006 that originally Maria was going to accompany you to New Mexico; correct? 17 SOUTHERN DISTRICT REPORTERS, P.C. (212) 805-0300 DOJ-OGR-00016339",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 759 Filed 08/10/22 Page 123 of 267 2151 L CAVMAX4 A. Farmer - cross",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "1 MS. MENNINGER: Yes. 2 Q. The interview was on November 15th of 2006 at your home in Austin, Texas; correct? 3 A. That's correct. 4 Q. And then the date of the report was a couple of weeks later. If we could look at the top of the page. November 5 28th. 6 A. Yes. 7 Q. And so on page 2 of that document, in the second full paragraph, the last sentence of that paragraph, what you told 8 the FBI in November of 2006 is that originally Maria was going to accompany Annie to New Mexico; correct? 9 A. I see it says that. 10 Q. And that's what you told the FBI in November of 2006; correct? 11 A. I don't recall that, but I see that that's written here. 12 MS. POMERANTZ: Your Honor, I would ask that the next sentence be read. It's for completeness of the record. 13 MS. MENNINGER: Your Honor, that's what redirect is for. 14 THE COURT: You can ask your next question. 15 BY MS. MENNINGER: 16 Q. You don't recall telling the FBI in November of 2006 that originally Maria was going to accompany you to New Mexico; correct?",
+      "position": "main"
+    },
+    {
+      "type": "printed",
+      "content": "SOUTHERN DISTRICT REPORTERS, P.C. (212) 805-0300",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00016339",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "MS. MENNINGER",
+      "MS. POMERANTZ",
+      "Maria",
+      "Annie"
+    ],
+    "organizations": [
+      "FBI",
+      "SOUTHERN DISTRICT REPORTERS, P.C."
+    ],
+    "locations": [
+      "Austin",
+      "Texas",
+      "New Mexico"
+    ],
+    "dates": [
+      "November 15th, 2006",
+      "November 28th",
+      "November 2006",
+      "08/10/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "759",
+      "DOJ-OGR-00016339"
+    ]
+  },
+  "additional_notes": "The document appears to be a court transcript with a clear and legible format. There are no visible redactions or damage."
+}

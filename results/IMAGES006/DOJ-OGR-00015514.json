@@ -1,0 +1,72 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "S2 20 Cr. 330 (AJN)",
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "IMPORTANT MESSAGE FOR SARAH RN DATE 07/10/04 TIME 6:33 A.M. P.M. M SCHANZ OF RAGHU PHONE/MOBILE 66 C1G 791 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE PL CALL SIGNED IMPORTANT MESSAGE FOR AR EPSTEIN DATE TIME A.M. P.M. M CECILIA (OFFICE) OF PHONE/MOBILE 917 759 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED IMPORTANT MESSAGE FOR SARRAH DATE 7/9/04 TIME 10:31 A.M. P.M. M MILES OF LESLIE (NY OFFICE) PHONE/MOBILE 203 972 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SHE IS WORKING FROM SCHEDULED DAY I'LL BE IN THE ABOVE #1 ASAP SIGNED IMPORTANT MESSAGE FOR MR EPSTEIN DATE 7/9/04 TIME 7:50 A.M. P.M. M DOJ REDACTION OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE DOJ REDACTION IS AVAILABLE ON TUESDAY NO ONE FOR TOMORROW SIGNED GOVERNMENT EXHIBIT 3-L-R S2 20 Cr. 330 (AJN) DOJ-OGR-00015514",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "SARAH RN, 07/10/04, 6:33, SCHANZ, RAGHU, 66 C1G 791, PL CALL",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "AR EPSTEIN, CECILIA (OFFICE), 917 759",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "SARRAH, 7/9/04, 10:31, MILES, LESLIE (NY OFFICE), 203 972, SHE IS WORKING FROM SCHEDULED DAY I'LL BE IN THE ABOVE #1 ASAP",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "MR EPSTEIN, 7/9/04, 7:50, DOJ REDACTION, DOJ REDACTION IS AVAILABLE ON TUESDAY NO ONE FOR TOMORROW",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 3-L-R S2 20 Cr. 330 (AJN) DOJ-OGR-00015514",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "SARAH RN",
+      "AR EPSTEIN",
+      "CECILIA",
+      "Schanz",
+      "Raghu",
+      "SARRAH",
+      "MILES",
+      "LESLIE",
+      "MR EPSTEIN"
+    ],
+    "organizations": [],
+    "locations": [
+      "NY OFFICE"
+    ],
+    "dates": [
+      "07/10/04",
+      "7/9/04"
+    ],
+    "reference_numbers": [
+      "S2 20 Cr. 330 (AJN)",
+      "DOJ-OGR-00015514",
+      "66 C1G 791",
+      "917 759",
+      "203 972"
+    ]
+  },
+  "additional_notes": "The document contains four 'Important Message' forms with handwritten notes and a government exhibit stamp at the bottom right corner. Some phone numbers and names are redacted."
+}

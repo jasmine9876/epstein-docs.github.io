@@ -1,0 +1,97 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "4-443-36929",
+    "date": "Nov 08, 2002",
+    "document_type": "Invoice",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Invoice Number: 4-443-36929 Invoice Date: Nov 08, 2002 Account Number: 2292-0750-4 Page: 1 of 4 FedEx Tax ID: 71-0427007 NYSG LLC 457 MADISON AVE NEW YORK NY 10022-6843 Billing Account Shipping Address: NYSG LLC 457 MADISON AVE NEW YORK NY 10022-6843 US Invoice Questions? Contact FedEx Revenue Services Phone: (800) 622-1147 M-F 7-6 (CST) Fax: (800) 548-3020 Internet: www.fedex.com Invoice Summary Nov 08, 2002 FedEx Express Services Transportation Charges 13.39 Special Handling Charges 0.40 Total Charges USD $ 13.79 TOTAL THIS INVOICE USD $ 13.79 The FedEx Ground accounts referenced in this invoice have been transferred and assigned to, are owned by, and are payable to FedEx Express. To ensure proper credit, please return this portion with your payment to FedEx. Please do not staple or fold. Please make your check payable to FedEx. For change of address, check here and complete form on reverse side. Remittance Advice Your payment is due by Nov 23, 2002 Invoice Number Account Number Amount Due 4-443-36929 2292-0750-4 USD $ 13.79 229207504443369295400000137976 SP 01 000001 97702 A 1 ASNGLP NYSG LLC 457 MADISON AVE NEW YORK NY 10022-6843 FedEx P.O. Box 371461 Pittsburgh PA 15250-7461 CONFIDENTIAL SDNY_GM_00340628 9 DOJ-OGR-00015318",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Number: 4-443-36929 Invoice Date: Nov 08, 2002 Account Number: 2292-0750-4 Page: 1 of 4 FedEx Tax ID: 71-0427007",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NYSG LLC 457 MADISON AVE NEW YORK NY 10022-6843 Billing Account Shipping Address: NYSG LLC 457 MADISON AVE NEW YORK NY 10022-6843 US",
+      "position": "left"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Questions? Contact FedEx Revenue Services Phone: (800) 622-1147 M-F 7-6 (CST) Fax: (800) 548-3020 Internet: www.fedex.com",
+      "position": "right"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Summary Nov 08, 2002 FedEx Express Services Transportation Charges 13.39 Special Handling Charges 0.40 Total Charges USD $ 13.79 TOTAL THIS INVOICE USD $ 13.79",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "The FedEx Ground accounts referenced in this invoice have been transferred and assigned to, are owned by, and are payable to FedEx Express. To ensure proper credit, please return this portion with your payment to FedEx. Please do not staple or fold. Please make your check payable to FedEx. For change of address, check here and complete form on reverse side.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Remittance Advice Your payment is due by Nov 23, 2002",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Number Account Number Amount Due 4-443-36929 2292-0750-4 USD $ 13.79",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "229207504443369295400000137976",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SP 01 000001 97702 A 1 ASNGLP NYSG LLC 457 MADISON AVE NEW YORK NY 10022-6843 FedEx P.O. Box 371461 Pittsburgh PA 15250-7461",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "SDNY_GM_00340628 9 DOJ-OGR-00015318",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "FedEx",
+      "NYSG LLC"
+    ],
+    "locations": [
+      "NEW YORK",
+      "Pittsburgh"
+    ],
+    "dates": [
+      "Nov 08, 2002",
+      "Nov 23, 2002"
+    ],
+    "reference_numbers": [
+      "4-443-36929",
+      "2292-0750-4",
+      "71-0427007",
+      "229207504443369295400000137976",
+      "SDNY_GM_00340628",
+      "DOJ-OGR-00015318"
+    ]
+  },
+  "additional_notes": "The document is a FedEx invoice with a clear and legible format. The invoice is for NYSG LLC and includes details about the services provided, charges, and payment instructions. The document is marked as 'CONFIDENTIAL' at the bottom."
+}

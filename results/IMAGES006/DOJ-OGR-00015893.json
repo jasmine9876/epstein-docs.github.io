@@ -1,0 +1,72 @@
+{
+  "document_metadata": {
+    "page_number": "96",
+    "document_number": "DOJ-OGR-00015893",
+    "date": "1982",
+    "document_type": "Pilot's Logbook Page",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Right No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... Private Civil Helico 1982 B-727-31H N903JC LFPB EGBB 131 1/1 1 0 \" \" CGBB LFPB 132 1 0 3 \" LFPB JFK 133 1/1 7 5 4 \" JFK PDB 134 2 5 8 G-1159B N909JC PBI TEB 1592 2 7 9 \" TEB BED 1593 1/1 9 9 \" BED TEB 1594 9 10 \" TEB TIST 1545 3 8 15 \" TIST PBI 1546 1/1 2 6 21 B-727-31H N903JC JFK LPAZ 136 1/1 5 2 22 \" LPAZ DGAA 137 1 5 7 23 \" DGAA DJAA 138 0/1 1 7 24 \" DNAA HRYR 139 4 0 25 \" HRYR FQMA 140 3 3 26 \" FQMA FACT 141 1/1 2 4 27 \" FACT FAJS 142 2 1 28 \" FAJS FACT 143 2 0 29 \" FACT DGAA 144 6 2 29 \" DGAA LFPB 145 1/1 6 1 I certify that the statements made by me on this form are true. Pilot's Signature: J. Rodriguez Page Total 516 625 Amount Forward 6533 87841 33113 Total to Date 6206 88466 33113 DOJ-OGR-00015893",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Right No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... Private Civil Helico",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "1982 B-727-31H N903JC LFPB EGBB 131 1/1 1 0 \" \" CGBB LFPB 132 1 0 3 \" LFPB JFK 133 1/1 7 5 4 \" JFK PDB 134 2 5 8 G-1159B N909JC PBI TEB 1592 2 7 9 \" TEB BED 1593 1/1 9 9 \" BED TEB 1594 9 10 \" TEB TIST 1545 3 8 15 \" TIST PBI 1546 1/1 2 6 21 B-727-31H N903JC JFK LPAZ 136 1/1 5 2 22 \" LPAZ DGAA 137 1 5 7 23 \" DGAA DJAA 138 0/1 1 7 24 \" DNAA HRYR 139 4 0 25 \" HRYR FQMA 140 3 3 26 \" FQMA FACT 141 1/1 2 4 27 \" FACT FAJS 142 2 1 28 \" FAJS FACT 143 2 0 29 \" FACT DGAA 144 6 2 29 \" DGAA LFPB 145 1/1 6 1",
+      "position": "main"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature: J. Rodriguez",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "516 625 6533 87841 33113 6206 88466 33113",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "J. Rodriguez"
+    ],
+    "organizations": [],
+    "locations": [
+      "LFPB",
+      "EGBB",
+      "CGBB",
+      "JFK",
+      "PDB",
+      "PBI",
+      "TEB",
+      "BED",
+      "TIST",
+      "LPAZ",
+      "DGAA",
+      "DJAA",
+      "DNAA",
+      "HRYR",
+      "FQMA",
+      "FACT",
+      "FAJS"
+    ],
+    "dates": [
+      "1982"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00015893",
+      "N903JC",
+      "N909JC"
+    ]
+  },
+  "additional_notes": "The document is a photocopy of a pilot's logbook page from 1982. The page contains handwritten entries detailing flight information, including dates, aircraft make and model, identification marks, departure and arrival points, miles flown, and number of landings. The pilot has signed the page, certifying the accuracy of the information."
+}

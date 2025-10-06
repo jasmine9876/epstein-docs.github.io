@@ -1,0 +1,52 @@
+{
+  "document_metadata": {
+    "page_number": "132",
+    "document_number": "753",
+    "date": "08/10/22",
+    "document_type": "court transcript",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 753 Filed 08/10/22 Page 132 of 264 1558 LC7Cmax4 Carolyn - direct 1 (At the sidebar) 2 MR. PAGLIUCA: This is apparently being offered as purported prior consistent statement? 3 THE COURT: Right. 4 MR. PAGLIUCA: The problem is, when read in context, which really starts at line 20 on the page above and goes through probably line 16 on the next page, we're simply just parsing out two lines. 8 THE COURT: She can read the whole thing. 9 MS. COMEY: That's fine, your Honor. 10 THE COURT: Okay? 11 MR. PAGLIUCA: Okay. 12 MS. COMEY: Starting at which line? 13 MR. PAGLIUCA: I'd say 136, line 23. 14 MS. COMEY: That's an answer. 15 MR. PAGLIUCA: So the question is going to be line 20. 16 MS. COMEY: Line 20 through line 6. 17 MR. PAGLIUCA: Yes. 18 (Continued on next page) 19 20 21 22 23 24 25 SOUTHERN DISTRICT REPORTERS, P.C. (212) 805-0300 DOJ-OGR-00013145",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 753 Filed 08/10/22 Page 132 of 264 1558",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "LC7Cmax4 Carolyn - direct",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "(At the sidebar) ... (Continued on next page)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SOUTHERN DISTRICT REPORTERS, P.C. (212) 805-0300 DOJ-OGR-00013145",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "MR. PAGLIUCA",
+      "MS. COMEY"
+    ],
+    "organizations": [
+      "SOUTHERN DISTRICT REPORTERS, P.C."
+    ],
+    "locations": [],
+    "dates": [
+      "08/10/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "753",
+      "DOJ-OGR-00013145"
+    ]
+  },
+  "additional_notes": "This is a court transcript document. The text is mostly printed, with no handwritten content or stamps visible."
+}

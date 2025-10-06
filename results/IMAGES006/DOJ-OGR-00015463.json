@@ -1,0 +1,67 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00015463",
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "IMPORTANT MESSAGE FOR Jeffrey Epstein DATE 06/12/04 TIME 2:00 P.M. M. OF GEORGESON SHAREHOLDER PHONE/ MOBILE 1.888.274. TELEPHONED PLEASE CALL RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE CONVERT TEXACO TO CHEVRON/TEXACO Ref # 3108 SIGNED Nicole Wiese IMPORTANT MESSAGE FOR MR EISEN DATE 0736 TIME 3:15 P.M. M. OF PHONE/ MOBILE TELEPHONED PLEASE CALL MESSAGE I LIKE TO WORK FOR HIM TODAY. SIGNED K IMPORTANT MESSAGE FOR JE DATE DOJ REDACTION TIME A.M. P.M. M. OF PHONE/ MOBILE very Impt. TELEPHONED PLEASE CALL MESSAGE SIGNED IMPORTANT MESSAGE FOR Sarah DATE TIME 2:4 P.M. M. OF PHONE/ MOBILE nmtc TELEPHONED PLEASE CALL GOVERNMENT EXHIBIT 1-B-R S2 20 Cr. 330 (AJN) DOJ-OGR-00015463",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR Jeffrey Epstein DATE 06/12/04 TIME 2:00 P.M. M. OF GEORGESON SHAREHOLDER PHONE/ MOBILE 1.888.274. TELEPHONED PLEASE CALL RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE CONVERT TEXACO TO CHEVRON/TEXACO Ref # 3108 SIGNED Nicole Wiese",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR MR EISEN DATE 0736 TIME 3:15 P.M. M. OF PHONE/ MOBILE TELEPHONED PLEASE CALL MESSAGE I LIKE TO WORK FOR HIM TODAY. SIGNED K",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR JE DATE DOJ REDACTION TIME A.M. P.M. M. OF PHONE/ MOBILE very Impt. TELEPHONED PLEASE CALL MESSAGE SIGNED",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR Sarah DATE TIME 2:4 P.M. M. OF PHONE/ MOBILE nmtc TELEPHONED PLEASE CALL",
+      "position": "bottom"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 1-B-R S2 20 Cr. 330 (AJN) DOJ-OGR-00015463",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Nicole Wiese",
+      "MR EISEN",
+      "JE",
+      "Sarah"
+    ],
+    "organizations": [
+      "GEORGESON SHAREHOLDER",
+      "CHEVRON",
+      "TEXACO"
+    ],
+    "locations": [],
+    "dates": [
+      "06/12/04",
+      "0736"
+    ],
+    "reference_numbers": [
+      "3108",
+      "DOJ-OGR-00015463"
+    ]
+  },
+  "additional_notes": "The document appears to be a collection of 'Important Message' forms, likely from a legal or corporate context. Some names and dates are redacted, indicating potential sensitivity or confidentiality. The forms contain various handwritten messages and phone numbers."
+}

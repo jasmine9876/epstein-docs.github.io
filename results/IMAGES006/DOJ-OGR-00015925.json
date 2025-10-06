@@ -1,0 +1,82 @@
+{
+  "document_metadata": {
+    "page_number": "10",
+    "document_number": "DOJ-OGR-00015925",
+    "date": "1942 May-June",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE 1942 MAY AIRCRAFT MAKE AND MODEL AIRCRAFT IDENTIFICATION MARK POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FLOWN FLT. NO. REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS NO. LDG. AIRCRAFT CATEGORY AIRPLANE COMPLEX TYPE 20 MS125-7mm N90832 CMH TCB 60 144 REPOSITION TO TGB 1/4 1 3 1 3 1 20 \" \" TGB IZI √ 145 JEFFREY, GASOLINE 1/2 1 6 1 6 1 21 \" \" IZI PBI 40 146 JEFFREY, GASOLINE 11 11 11 25 \" \" PBI TCB 30 147 JEFFREY, GASOLINE, IMALC 1 MALC 1/4 24 24 2 29 \" \" CMH PBI 45 149 JEFFREY, GASOLINE 1/2 24 24 2 31 \" \" PBI LGA 60 150 JEFFREY, GASOLINE, I MALC 1 29 29 2 JUNE 1 \" \" LGA CMH 37 151 REPOSITION TO CMH 9/D 1 2 1 2 1 14 \" \" CMH TCB 50 152 JEFFREY, GASOLINE 1/2 12 12 1 18 \" \" TGB PBI 84 153 JEFFREY, GASOLINE 1/2 24 24 2 21 \" \" PBI TCB 70 154 JEFFREY, GASOLINE 1/4 26 26 2 21 \" \" TCB CMH √ 155 REPOSITION TO CMH 1/4 1 3 1 3 1 27 \" \" CMH BMI 45 156 JEFFREY, GASOLINE 9 9 9 27 \" \" BMI ACK √ 157 JEFFREY, GASOLINE 1/4 21 21 2 27 \" \" ACK TCB √ 158 JEFFREY, GASOLINE 1/2 8 8 8 JULY 1 \" \" TCB CMH 80 159 JEFFREY, GASOLINE 1 3 1 3 1 2 \" \" CMH SAF 100 160 JEFFREY, GASOLINE 0 37 37 3 4 \" \" SAF ASC 70 161 JEFFREY, GASOLINE 1/2 7 7 7 5 \" \" ASC GRS 110 162 JEFFREY, GASOLINE, REFUEL COPTER, STOP TURBINE 3.0 HRS TUCKERMAN 11 11 1 I certify that the statements made by me on this form are true. PILOT'S SIGNATURE ______________________ Q.E.D. Podgor PAGE TOTAL 41 310 310 31 AMT. FORWARD 5341 5586 9 3956 1948 TOTAL TO DATE 5382 5071 9 3487 1979",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE 1942 MAY AIRCRAFT MAKE AND MODEL AIRCRAFT IDENTIFICATION MARK POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FLOWN FLT. NO. REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS NO. LDG. AIRCRAFT CATEGORY AIRPLANE COMPLEX TYPE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "20 MS125-7mm N90832 CMH TCB 60 144 REPOSITION TO TGB 1/4 1 3 1 3 1 ...",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. PILOT'S SIGNATURE Q.E.D. Podgor",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE TOTAL AMT. FORWARD TOTAL TO DATE",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "41 310 310 31 5341 5586 9 3956 1948 5382 5071 9 3487 1979",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Podgor"
+    ],
+    "organizations": [],
+    "locations": [
+      "CMH",
+      "TCB",
+      "TGB",
+      "IZI",
+      "PBI",
+      "LGA",
+      "BMI",
+      "ACK",
+      "SAF",
+      "ASC",
+      "GRS"
+    ],
+    "dates": [
+      "1942 May 20",
+      "1942 May 21",
+      "1942 May 25",
+      "1942 May 29",
+      "1942 May 31",
+      "1942 June 1",
+      "1942 June 14",
+      "1942 June 18",
+      "1942 June 21",
+      "1942 June 21",
+      "1942 June 27",
+      "1942 June 27",
+      "1942 June 27",
+      "1942 July 1",
+      "1942 July 2",
+      "1942 July 4",
+      "1942 July 5"
+    ],
+    "reference_numbers": [
+      "N90832",
+      "MS125-7mm",
+      "DOJ-OGR-00015925"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log from 1942, detailing various flights with handwritten entries. The log includes information on the aircraft make and model, identification mark, points of departure and arrival, miles flown, flight numbers, remarks, and aircraft category. The document has some handwritten notes and signatures."
+}

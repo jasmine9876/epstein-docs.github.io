@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "S2 20 Cr. 330 (AJN)",
+    "date": null,
+    "document_type": "Important Message",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "IMPORTANT MESSAGE FOR JE DATE 7/19/04 TIME 430 P.M. M GLEN ROBIN OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE WILL BE HOME IN 20 MIN PLEASE CALL SIGNED IMPORTANT MESSAGE FOR MR EPSTEIN DATE 11/8/04 TIME 3:00 P.M. M ROGER OF PHONE/ MOBILE (He has my #) TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE \"TELL HIM I SENT ANOTHER ONE TO READ\" SIGNED RV IMPORTANT MESSAGE FOR MR EPSTEIN DATE 7/19/04 TIME 300 P.M. M DOJ REDACTION OF PHONE/ MOBILE 5611 201 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE \"IS IT OK TO TAKE A TAXI\" SIGNED IMPORTANT MESSAGE FOR MS. EPSTEIN DATE 07/17/04 TIME 2:48 P.M. M OF PETER FROM LONDON PHONE/ MOBILE (DID NOT GIVE THE #) TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE \"I AM RETURNING YOUR CALL\" SIGNED GOVERNMENT EXHIBIT 3-N-R S2 20 Cr. 330 (AJN) DOJ-OGR-00015516",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "JE 7/19/04 430 P.M. GLEN ROBIN WILL BE HOME IN 20 MIN PLEASE CALL",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "MR EPSTEIN 11/8/04 3:00 P.M. ROGER \"TELL HIM I SENT ANOTHER ONE TO READ\" RV",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "MR EPSTEIN 7/19/04 300 P.M. DOJ REDACTION 5611 201 \"IS IT OK TO TAKE A TAXI\"",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "MS. EPSTEIN 07/17/04 2:48 P.M. PETER FROM LONDON (DID NOT GIVE THE #) \"I AM RETURNING YOUR CALL\"",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 3-N-R S2 20 Cr. 330 (AJN) DOJ-OGR-00015516",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JE",
+      "GLEN ROBIN",
+      "MR EPSTEIN",
+      "ROGER",
+      "MS. EPSTEIN",
+      "PETER"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [
+      "LONDON"
+    ],
+    "dates": [
+      "7/19/04",
+      "11/8/04",
+      "07/17/04"
+    ],
+    "reference_numbers": [
+      "5611 201",
+      "S2 20 Cr. 330 (AJN)",
+      "DOJ-OGR-00015516"
+    ]
+  },
+  "additional_notes": "The document appears to be a collection of 'Important Message' slips, likely from a legal or government context. The messages are from various individuals to Mr. Epstein, with some redactions by the DOJ. The document is stamped as a 'GOVERNMENT EXHIBIT' with a reference number."
+}

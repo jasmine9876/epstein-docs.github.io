@@ -1,0 +1,79 @@
+{
+  "document_metadata": {
+    "page_number": "16",
+    "document_number": "DOJ-OGR-00015813",
+    "date": "1962 Dec",
+    "document_type": "Pilot's Logbook Page",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE 1962 Dec | AIRCRAFT MAKE AND MODEL | AIRCRAFT IDENTIFICATION MARK | POINTS OF DEPARTURE & ARRIVAL | MILES FLOWN | FLT. NO. | REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS | AIRCRAFT CATEGORY\n13 | H125-700 | N9082R | PBI | MIA | 45 | 255 |  | 3 | 3 | 3 |\n13 |  |  | MIA | CMH |  | 256 |  | 24 | 24 | 2 |\n17 |  |  | CMH | BOS | 60 | 257 |  | 15 | 15 | 1 |\n18 |  |  | BOS | TEB | 110 | 258 |  | 9 | 9 | 1 |\n18 |  |  | TEB | DCA |  | 259 |  | 7 | 7 |  |\n18 |  |  | DCA | TEB |  | 260 |  | 7 | 7 |  |\n19 |  |  | TEB | ICT | 100 | 261 |  | 40 | 40 | 4 |\n19 |  |  | ICT | SFO | 53 | 262 |  | 20 | 20 | 2 |\n21 |  |  | SFO | PBI | 60 | 263 |  | 35 | 35 | 3 |\n27 |  |  | PBI | CMH | 75 | 264 |  | 23 | 23 | 2 |\n29 |  |  | CMH | PBI | 40 | 265 |  | 22 | 22 | 2 |\n29 |  |  | PBI | TEB | 70 | 266 |  | 25 | 25 | 2 |\n4 |  |  | TEB | CMH | 50 | 267 |  | 13 | 13 | 1 |\n8 |  |  | CMH | TEB | 140 | 268 |  | 12 | 12 | 1 |\n8 |  |  | TEB | PBI |  | 269 |  | 28 | 28 | 2 |\n10 |  |  | PBI | CMH | 50 | 270 |  | 23 | 23 | 2 |\n11 |  |  | CMH | TEB | 30 | 271 |  | 12 | 12 | 1 |\n15 |  |  | TEB | PBI | 20 | 272 |  | 26 | 26 | 2 |\nI certify that the statements made by me on this form are true.\nPILOT'S SIGNATURE David R. Rodale\nPAGE TOTAL | 344 | 344 | 34 |\nAMT. FORWARD | 5753 | 4122 | 2113 |\nTOTAL TO DATE | 5181 | 4154 | 2198 |",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE 1962 Dec | AIRCRAFT MAKE AND MODEL | AIRCRAFT IDENTIFICATION MARK | POINTS OF DEPARTURE & ARRIVAL | MILES FLOWN | FLT. NO. | REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS | AIRCRAFT CATEGORY",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "13 | H125-700 | N9082R | PBI | MIA | 45 | 255 |  | 3 | 3 | 3 |\n13 |  |  | MIA | CMH |  | 256 |  | 24 | 24 | 2 |\n17 |  |  | CMH | BOS | 60 | 257 |  | 15 | 15 | 1 |\n18 |  |  | BOS | TEB | 110 | 258 |  | 9 | 9 | 1 |\n18 |  |  | TEB | DCA |  | 259 |  | 7 | 7 |  |\n18 |  |  | DCA | TEB |  | 260 |  | 7 | 7 |  |\n19 |  |  | TEB | ICT | 100 | 261 |  | 40 | 40 | 4 |\n19 |  |  | ICT | SFO | 53 | 262 |  | 20 | 20 | 2 |\n21 |  |  | SFO | PBI | 60 | 263 |  | 35 | 35 | 3 |\n27 |  |  | PBI | CMH | 75 | 264 |  | 23 | 23 | 2 |\n29 |  |  | CMH | PBI | 40 | 265 |  | 22 | 22 | 2 |\n29 |  |  | PBI | TEB | 70 | 266 |  | 25 | 25 | 2 |\n4 |  |  | TEB | CMH | 50 | 267 |  | 13 | 13 | 1 |\n8 |  |  | CMH | TEB | 140 | 268 |  | 12 | 12 | 1 |\n8 |  |  | TEB | PBI |  | 269 |  | 28 | 28 | 2 |\n10 |  |  | PBI | CMH | 50 | 270 |  | 23 | 23 | 2 |\n11 |  |  | CMH | TEB | 30 | 271 |  | 12 | 12 | 1 |\n15 |  |  | TEB | PBI | 20 | 272 |  | 26 | 26 | 2 |",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "I certify that the statements made by me on this form are true.",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "David R. Rodale",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE TOTAL | AMT. FORWARD | TOTAL TO DATE",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "344 | 344 | 34 |\n5753 | 4122 | 2113 |\n5181 | 4154 | 2198 |",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David R. Rodale"
+    ],
+    "organizations": [],
+    "locations": [
+      "PBI",
+      "MIA",
+      "CMH",
+      "BOS",
+      "TEB",
+      "DCA",
+      "ICT",
+      "SFO"
+    ],
+    "dates": [
+      "1962 Dec 13",
+      "1962 Dec 17",
+      "1962 Dec 18",
+      "1962 Dec 19",
+      "1962 Dec 21",
+      "1962 Dec 27",
+      "1962 Dec 29",
+      "1963 Jan 4",
+      "1963 Jan 8",
+      "1963 Jan 10",
+      "1963 Jan 11",
+      "1963 Jan 15"
+    ],
+    "reference_numbers": [
+      "N9082R",
+      "H125-700",
+      "DOJ-OGR-00015813"
+    ]
+  },
+  "additional_notes": "The document is a pilot's logbook page with handwritten entries. The page is partially obscured by a black rectangle, but the surrounding text is still legible."
+}

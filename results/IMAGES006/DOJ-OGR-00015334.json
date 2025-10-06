@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "9 of 11",
+    "document_number": "4-447-40902",
+    "date": "Nov 11, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\nInvoice Number: 4-447-40902\nInvoice Date: Nov 11, 2002\nAccount Number: 1144-2081-6\nPage: 9 of 11\nPicked up: Nov 07, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 8\nInternetShip Sender Recipient\nTracking D 791227139465 CECILIA STEEN JEFFREY E EPSTEIN EMMY TAYLER\nService Type FedEx Priority Overnight 457 MADISON AVE\nPackage Type FedEx Pak NEW YORK NY 10022-6843 US\nZone 8\nPackages 1\nWeight 1.0 lbs, 0.5 kgs\nDelivered Nov 08, 2002 09:17\nSvc Area A1\nSigned by E.TAYLOR\nFedEx Use 523646202/01618/_\nTransportation Charge 25.75\nDiscount -2.58\nFuel Surcharge 0.93\nTotal Transportation Charges USD $ 24.10\nPicked up: Nov 07, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 8\nInternetShip Sender Recipient\nTracking D 791974213337 CECILIA STEEN JEFFREY E EPSTEIN L NDA STONE\nService Type FedEx Priority Overnight 457 MADISON AVE\nPackage Type FedEx Pak NEW YORK NY 10022-6843 US\nZone 8\nPackages 1\nWeight 1.0 lbs, 0.5 kgs\nDelivered Nov 08, 2002 09:49\nSvc Area A1\nSigned by J K RCHNER\nFedEx Use 523667533/01618/_\nTransportation Charge 25.75\nDiscount -2.58\nFuel Surcharge 0.93\nTotal Transportation Charges USD $ 24.10\nPicked up: Nov 07, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 2\nInternetShip Sender Recipient\nTracking D 792770725925 CECILIA STEEN JEFFREY E EPSTEIN MARTIN NOWAK\nService Type FedEx Priority Overnight 457 MADISON AVE INSTITUTE FOR ADVANCED STUDY\nPackage Type FedEx Pak NEW YORK NY 10022-6843 US\nZone 2\nPackages 1\nWeight 1.0 lbs, 0.5 kgs\nDelivered Nov 08, 2002 09:46\nSvc Area A2\nSigned by D.ZUBE\nFedEx Use 523708132/01486/_\nTransportation Charge 15.25\nDiscount -1.53\nFuel Surcharge 0.55\nTotal Transportation Charges USD $ 14.27\nCONFIDENTIAL\nSDNY_GM_00340687 25\nDOJ-OGR-00015334",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Number: 4-447-40902\nInvoice Date: Nov 11, 2002\nAccount Number: 1144-2081-6\nPage: 9 of 11",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "SDNY_GM_00340687 25\nDOJ-OGR-00015334",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "CECILIA STEEN",
+      "JEFFREY E EPSTEIN",
+      "EMMY TAYLER",
+      "E.TAYLOR",
+      "L NDA STONE",
+      "J K RCHNER",
+      "MARTIN NOWAK",
+      "D.ZUBE"
+    ],
+    "organizations": [
+      "FedEx",
+      "INSTITUTE FOR ADVANCED STUDY"
+    ],
+    "locations": [
+      "NEW YORK NY 10022-6843 US"
+    ],
+    "dates": [
+      "Nov 07, 2002",
+      "Nov 08, 2002",
+      "Nov 11, 2002"
+    ],
+    "reference_numbers": [
+      "4-447-40902",
+      "1144-2081-6",
+      "791227139465",
+      "791974213337",
+      "792770725925",
+      "523646202/01618/_",
+      "523667533/01618/_",
+      "523708132/01486/_",
+      "SDNY_GM_00340687",
+      "DOJ-OGR-00015334"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx shipment detail report, containing information about three separate shipments. The report includes details such as shipment dates, package weights, and transportation charges. The document is marked 'CONFIDENTIAL' at the bottom."
+}

@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": "99",
+    "document_number": "DOJ-OGR-00015896",
+    "date": "2003",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... 2003 Jan 13 B-727-314 N904JC PBI JFK 17 \" 17 JFK PBI 22 \" PBI TIST 71 25 \" TIST PBI 172 26 \" PBI JAX 173 26 G-1159B N904JC PBI TEB 1645 31 \" TEB PBI 145 Feb 3 B-727-314 N904JC JAX PBI 74 3 \" PBI JFK 175 7 \" JFK PBI 176 11 \" PBI TIST 177 12 \" TIST LEGR 784 72 1 13 \" LEGR LFPG 174 1 17 \" LFPG CYQX 180 17 \" CYQX PBI 181 23 \" PBI JFK 182 1 25 \" JFK MRY 183 I certify that the statements made by me on this form are true. Pilot's Signature David R. Rhodes Page Total 115 115 60 Amount Forward 6576 8449 2 33113 1 Total to Date 6610 9615 2 33 113 1",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "2003 Jan 13 B-727-314 N904JC PBI JFK ...",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David R. Rhodes",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total 115 115 60 Amount Forward 6576 8449 2 33113 1 Total to Date 6610 9615 2 33 113 1",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David R. Rhodes"
+    ],
+    "organizations": [],
+    "locations": [
+      "PBI",
+      "JFK",
+      "TIST",
+      "JAX",
+      "TEB",
+      "LEGR",
+      "LFPG",
+      "CYQX",
+      "MR4"
+    ],
+    "dates": [
+      "2003",
+      "Jan 13",
+      "Jan 17",
+      "Jan 22",
+      "Jan 25",
+      "Jan 26",
+      "Jan 31",
+      "Feb 3",
+      "Feb 7",
+      "Feb 11",
+      "Feb 12",
+      "Feb 13",
+      "Feb 17",
+      "Feb 23",
+      "Feb 25"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00015896",
+      "N904JC",
+      "N906JC",
+      "G-1159B"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries and a signature at the bottom. The page number is 99, and the document number is DOJ-OGR-00015896."
+}

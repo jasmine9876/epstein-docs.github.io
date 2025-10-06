@@ -1,0 +1,76 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": null,
+    "date": "NOV 22 2021",
+    "document_type": "First Amended Complaint",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF FLORIDA Plaintiff(s), vs. JEFFREY EPSTEIN and SARAH KELLEN, Defendant(s). FIRST AMENDED COMPLAINT Parties, Jurisdiction and Venue COMES NOW the Plaintiff, [REDACTED], and brings this First Amended Complaint against the Defendants, JEFFREY EPSTEIN and SARAH KELLEN, and states as follows: Certified to be a true and correct copy of the document on file Angela E. Noble, Clerk, U.S. District Court Southern District of Florida By Mary Etienne Deputy Clerk Date NOV 22 2021 DEFENDANT'S EXHIBIT C-5 S2 20 Cr. 330 (AJN) DOJ-OGR-00015191",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF FLORIDA",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Plaintiff(s), vs. JEFFREY EPSTEIN and SARAH KELLEN, Defendant(s).",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FIRST AMENDED COMPLAINT",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Parties, Jurisdiction and Venue",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "COMES NOW the Plaintiff, [REDACTED], and brings this First Amended Complaint against the Defendants, JEFFREY EPSTEIN and SARAH KELLEN, and states as follows:",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "Certified to be a true and correct copy of the document on file Angela E. Noble, Clerk, U.S. District Court Southern District of Florida By Mary Etienne Deputy Clerk Date NOV 22 2021",
+      "position": "right margin"
+    },
+    {
+      "type": "printed",
+      "content": "DEFENDANT'S EXHIBIT C-5 S2 20 Cr. 330 (AJN)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015191",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN",
+      "SARAH KELLEN",
+      "Angela E. Noble",
+      "Mary Etienne"
+    ],
+    "organizations": [
+      "U.S. District Court",
+      "Southern District of Florida"
+    ],
+    "locations": [
+      "Florida"
+    ],
+    "dates": [
+      "NOV 22 2021"
+    ],
+    "reference_numbers": [
+      "S2 20 Cr. 330 (AJN)",
+      "DOJ-OGR-00015191"
+    ]
+  },
+  "additional_notes": "The document contains redactions and is a certified copy of the original filed with the court."
+}

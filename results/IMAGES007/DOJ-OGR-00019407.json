@@ -1,0 +1,45 @@
+{
+  "document_metadata": {
+    "page_number": "8",
+    "document_number": "60",
+    "date": "09/24/2020",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 20-3061, Document 60, 09/24/2020, 2938278, Page8 of 58\n3\nDOJ-OGR-00019407",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 20-3061, Document 60, 09/24/2020, 2938278, Page8 of 58",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "3",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00019407",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "09/24/2020"
+    ],
+    "reference_numbers": [
+      "20-3061",
+      "60",
+      "2938278",
+      "DOJ-OGR-00019407"
+    ]
+  },
+  "additional_notes": "The document is heavily redacted, with most of the content obscured by black bars. The visible text includes a case number, document number, date, and page number in the header, a page number '3' in the middle, and a reference number 'DOJ-OGR-00019407' in the footer."
+}

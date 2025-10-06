@@ -1,0 +1,38 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "image",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "GOVERNMENT EXHIBIT 223-R S2 20 Cr. 330 (AJN) DOJ-OGR-00015564",
+  "text_blocks": [
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 223-R S2 20 Cr. 330 (AJN)",
+      "position": "bottom right"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015564",
+      "position": "bottom right"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "GOVERNMENT",
+      "DOJ-OGR"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "223-R",
+      "S2 20 Cr. 330",
+      "DOJ-OGR-00015564"
+    ]
+  },
+  "additional_notes": "The image appears to be a photograph of a collection of picture frames on a wooden table, with a yellow stamp in the bottom-right corner indicating it is a government exhibit."
+}

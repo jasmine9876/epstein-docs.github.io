@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "9",
+    "document_number": "4-495-86910",
+    "date": "Dec 23, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Invoice Number: 4-495-86910 Invoice Date: Dec 23, 2002 Account Number: 1144-2081-6 Page: 9 of 10 FedEx Express Shipment Detail By Payment Type (Original) Picked up: Dec 17, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION Fuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment. FedEx has audited this airbill for correct pieces, weight, and service. Any changes made are reflected in the invoice amount. Tracking D 792152683415 Sender CECILLE STEEN JEFFREY E. EPSTEIN 457 MADISON AVENUE 4TH FLOOR NEW YORK NY 10022 US Recipient CECILE DEJONGH FINANCIAL TRUST COMPANY 6100 RED HOOK QUARTER SUITE B-3 ST. THOMAS 00802 VI Service Type FedEx Intl Priority Package Type FedEx Pak Zone I Orig./Dest. JRB/STT Weight 0.3 lbs, 0.1 kgs Delivered Dec 18, 2002 17:14 Signed by W.WALLACE FedEx Use _/US01O/_ Transportation Charge 38.00 Fuel Surcharge 1.47 Discount -1.14 Total Transportation Charges USD $ 38.33 Dropped off: Dec 17, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION Fuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment. FedEx has audited this airbill for correct pieces, weight, and service. Any changes made are reflected in the invoice amount. Discount applied is the greater of volume discount or dropoff discount. No additional discount applies. Tracking D 828821137954 Sender DAVE RODGERS JEFFREY E EPSTEIN 457 MADISON AVE NEW YORK NY 10022-6843 US Recipient JEANNE BRENNAN FINANCIAL TRUST CO 6100 RED HOOK QUARTERS STE B-3 ST THOMAS 00802 VI Service Type FedEx Intl Priority Package Type FedEx Envelope Zone I Orig./Dest. LNA/STT Weight 0.7 lbs, 0.3 kgs Delivered Dec 18, 2002 17:14 Signed by W.WALLACE Dec. Value USD 100 FedEx Use _/US01O/_ Transportation Charge 38.00 Fuel Surcharge 1.47 Discount -1.14 Total Transportation Charges USD $ 38.33 Picked up: Dec 17, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION Fuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment. Tracking D 828821138549 Sender EDW NA S MMONDS JEFFREY E EPSTEIN 457 MADISON AVE NEW YORK NY 10022-6843 US Recipient ROSAIND DAVIDSON TOWER GATE CHASE PARKINSON Service Type FedEx Intl Priority Package Type FedEx Envelope Zone D Orig./Dest. FLU/BEQ Weight 0.5 lbs, 0.2 kgs Delivered Dec 19, 2002 13:36 Signed by Y FAIRLEY FedEx Use _/US01O/_ Transportation Charge 28.00 Fuel Surcharge 1.09 Discount -0.84 Total Transportation Charges USD $ 28.25 Shipment Detail Subtotal .............................USD $ 907.02 CONFIDENTIAL SDNY_GM_00340833 151 DOJ-OGR-00015460",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Invoice Number: 4-495-86910 Invoice Date: Dec 23, 2002 Account Number: 1144-2081-6 Page: 9 of 10",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "CECILLE STEEN",
+      "JEFFREY E. EPSTEIN",
+      "CECILE DEJONGH",
+      "DAVE RODGERS",
+      "JEANNE BRENNAN",
+      "EDW NA S MMONDS",
+      "ROSAIND DAVIDSON",
+      "W.WALLACE",
+      "Y FAIRLEY"
+    ],
+    "organizations": [
+      "FedEx",
+      "FINANCIAL TRUST COMPANY",
+      "FINANCIAL TRUST CO",
+      "TOWER GATE CHASE PARKINSON"
+    ],
+    "locations": [
+      "NEW YORK",
+      "ST. THOMAS",
+      "RED HOOK QUARTER",
+      "ST THOMAS",
+      "FLU/BEQ"
+    ],
+    "dates": [
+      "Dec 17, 2002",
+      "Dec 18, 2002",
+      "Dec 19, 2002",
+      "Dec 23, 2002"
+    ],
+    "reference_numbers": [
+      "4-495-86910",
+      "792152683415",
+      "828821137954",
+      "828821138549",
+      "1144-2081-6",
+      "SDNY_GM_00340833",
+      "DOJ-OGR-00015460"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx invoice with shipment details. It contains information about multiple shipments, including sender and recipient details, package information, and charges. The document is marked as 'CONFIDENTIAL' at the bottom."
+}

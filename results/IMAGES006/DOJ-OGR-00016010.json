@@ -1,0 +1,86 @@
+{
+  "document_metadata": {
+    "page_number": "95",
+    "document_number": "DOJ-OGR-00016010",
+    "date": "2002",
+    "document_type": "Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... From To 2002 Jun 13 B-727-311 N908JG LFMN GMTJ 120 3E,GM,SK,AP,CINDY LOPEZ 2 1 13 \" \" GMTT GMMC 121 JE,GM,SK,CL,AP 1 7 13 \" \" GMMC LPAZ 122 JE,GM,SK,AP,CL, PRESIDENT CLINTON DOLE, ANNA, MIKE & SECRET SERVICE 2 4 13 \" \" LPAZ JFK 123 JE,GM,SK,AP,CL, PRESIDENT CLINTON, DOLE, ANNA, MIKE & SECRET SERVICE, 2 FEMALES 5 8 18 \" \" JFK PBI 124 JE, SHELLEY LEWIS, 2 FEMALES 2 2 19 \" \" PBI JAX 125 KRISTY RODGERS GREG HOLUBERT, ALYSSA HOLUBERT - C CHECK 1 0 2002 Jun 4 G-1159B N909JG PBI MVY 1583 JE, 1 FEMALE 2 0 4 \" \" MVY BED 1584 JE, 1 FEMALE 1 7 4 \" \" BED TEB 1585 JE, 1 FEMALE 1 9 5 \" \" TEB SAF 1586 JE,SK, 2 FEMALES 3 9 6 C-172XP N739SP ACG ACG 112 CHECK OUT 3/3 3 9 6 2062J N4124W LORNO ACG 1 9 15 B-727-311 N908JG JAX JAX 126 C-CHECK FLIGHT TEST PETER RYAN 1/1 1 9 16 \" \" JAX PBI 127 RETURN FROM C CHECK PETER RYAN 1 11 17 G-1159-B N909JG SAF TEB 1589 JE,GM,SK,CINDY LOPEZ, VERIFIED ROBERT GORDON DOUGLAS, ALYSSA, MIKE, ALEX, MIKE SEMMES, 1 FEMALE 3 1 18 \" \" TEB PBI 1590 JE,VERIFIED ROBERT GORDON, 1 FEMALE 2 4 21 B-727-311 N908JG PBI TEST 128 JE, 5 HELLEY LEWIS 2 3 25 \" \" PBI JFK 129 JE,SK 1/1 3 6 28 \" \" JFK LFPB 130 JE,SK,CINDY LOPEZ, 1 FEMALE 6 4 I certify that the statements made by me on this form are true. Pilot's Signature Daniel Rodriguez Page Total 6 44 0 Amount Forward 6547 8740 1 33 112 6 6194 8740 1 33 113 1 Total to Date 6553 8784 1 6208 8784 1",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... From To",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "2002 Jun 13 B-727-311 N908JG LFMN GMTJ 120 3E,GM,SK,AP,CINDY LOPEZ 2 1",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature Daniel Rodriguez",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Cindy Lopez",
+      "President Clinton",
+      "Dole",
+      "Anna",
+      "Mike",
+      "Shelley Lewis",
+      "Kristy Rodgers",
+      "Greg Holubert",
+      "Alyssa Holubert",
+      "Peter Ryan",
+      "Robert Gordon",
+      "Daniel Rodriguez"
+    ],
+    "organizations": [
+      "Secret Service"
+    ],
+    "locations": [
+      "LFMN",
+      "GMTJ",
+      "GMTT",
+      "GMMC",
+      "LPAZ",
+      "JFK",
+      "PBI",
+      "JAX",
+      "MVY",
+      "BED",
+      "TEB",
+      "SAF",
+      "ACG",
+      "LORNO",
+      "TEST",
+      "LFPB"
+    ],
+    "dates": [
+      "2002 Jun 13",
+      "2002 Jun 4",
+      "2002 Jun 5",
+      "2002 Jun 6",
+      "2002 Jun 15",
+      "2002 Jun 16",
+      "2002 Jun 17",
+      "2002 Jun 18",
+      "2002 Jun 21",
+      "2002 Jun 25",
+      "2002 Jun 28"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00016010",
+      "N908JG",
+      "N909JG",
+      "N739SP",
+      "N4124W"
+    ]
+  },
+  "additional_notes": "The document is a flight log with handwritten entries. It appears to be a record of flights made by a pilot, with details such as date, aircraft make and model, flight number, and remarks. The document is signed by the pilot, Daniel Rodriguez."
+}

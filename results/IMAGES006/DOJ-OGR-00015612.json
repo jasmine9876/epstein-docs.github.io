@@ -1,0 +1,43 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Exhibit Label",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "A slave may well be returned the memories of slavery's sorrow in long and deadly shock - ESH GOVERNMENT EXHIBIT 282-R S2 20 Cr. 330 (AJN) DOJ-OGR-00015612",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "A slave may well be returned the memories of slavery's sorrow in long and deadly shock - ESH",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "GOVERNMENT EXHIBIT 282-R S2 20 Cr. 330 (AJN)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015612",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ",
+      "Government"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "282-R",
+      "S2 20 Cr. 330",
+      "DOJ-OGR-00015612"
+    ]
+  },
+  "additional_notes": "The image is dark and the text is mostly extracted from the exhibit label and the handwritten note on the wall. The handwritten text is somewhat difficult to read due to the image quality."
+}

@@ -1,0 +1,72 @@
+{
+  "document_metadata": {
+    "page_number": "102",
+    "document_number": "DOJ-OGR-00015899",
+    "date": null,
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... 19 2003 20 B-727-31H N908JE LIRA LEMO 198 22 21 \" LEMO JFK 149 22 \" JFK PBI 200 26 G-1159B N909JE PBI TEB 1630 30 \" TEB TIST 1631 JUN 4 \" TIST TEB 1644 4 B-17-407 N491GM TIST TIST 7 G-1159B N909JE TIST PBI 1641 11 \" PBI TEB 1642 14 \" TEB CYUL 1643 14 \" CYUL PBI 164 17 B-727-31H N908JE PBI MYNN 241 17 \" MYNN JFK 202 29 \" TIST JFK 208 JUN 2 \" JFK PBI 257 7 G-1159B N909JE PBI TEB 1645 11 \" TEB PBI 1644 14 \" PBI TEB 1647 14 \" TEB MYV 1644 I certify that the statements made by me on this form are true. Pilot's Signature Daniel Rodgers Page Total 86 499 Amount Forward 6697 9102 5 33118 Total to Date 6705 91524 33118",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "19 2003 20 B-727-31H N908JE LIRA LEMO 198 22 21 \" LEMO JFK 149 22 \" JFK PBI 200 26 G-1159B N909JE PBI TEB 1630 30 \" TEB TIST 1631 JUN 4 \" TIST TEB 1644 4 B-17-407 N491GM TIST TIST 7 G-1159B N909JE TIST PBI 1641 11 \" PBI TEB 1642 14 \" TEB CYUL 1643 14 \" CYUL PBI 164 17 B-727-31H N908JE PBI MYNN 241 17 \" MYNN JFK 202 29 \" TIST JFK 208 JUN 2 \" JFK PBI 257 7 G-1159B N909JE PBI TEB 1645 11 \" TEB PBI 1644 14 \" PBI TEB 1647 14 \" TEB MYV 1644",
+      "position": "main"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Daniel Rodgers",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Pilot's Signature",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "86 499 6697 9102 5 33118 6705 91524 33118",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Daniel Rodgers"
+    ],
+    "organizations": [],
+    "locations": [
+      "LIRA",
+      "LEMO",
+      "JFK",
+      "PBI",
+      "TEB",
+      "TIST",
+      "CYUL",
+      "MYNN",
+      "MYV"
+    ],
+    "dates": [
+      "19 2003",
+      "JUN 4",
+      "JUN 2"
+    ],
+    "reference_numbers": [
+      "N908JE",
+      "N909JE",
+      "N491GM",
+      "DOJ-OGR-00015899"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries and a signature. The log includes details of flights taken, including dates, aircraft models, departure and arrival points, miles flown, and number of landings."
+}

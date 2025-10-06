@@ -1,0 +1,48 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "S2 20 Cr. 330 (AJN)",
+    "date": null,
+    "document_type": "Envelope",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "DEFENDANT'S EXHIBIT CE-3 S2 20 Cr. 330 (AJN) MS. DOJ REDACTION c/o Epstein & Co. 457 Madison Ave. 4th Fl. New York, N.Y. 10022 DOJ-OGR-00015203",
+  "text_blocks": [
+    {
+      "type": "stamp",
+      "content": "DEFENDANT'S EXHIBIT CE-3 S2 20 Cr. 330 (AJN)",
+      "position": "top right"
+    },
+    {
+      "type": "stamp",
+      "content": "MS. DOJ REDACTION",
+      "position": "center"
+    },
+    {
+      "type": "handwritten",
+      "content": "c/o Epstein & Co. 457 Madison Ave. 4th Fl. New York, N.Y. 10022",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015203",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Epstein & Co."
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "S2 20 Cr. 330 (AJN)",
+      "DOJ-OGR-00015203"
+    ]
+  },
+  "additional_notes": "The document is an envelope with handwritten address and a redacted section. The envelope appears to be yellowed and has some creases and marks on it."
+}

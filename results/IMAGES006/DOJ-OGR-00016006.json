@@ -1,0 +1,68 @@
+{
+  "document_metadata": {
+    "page_number": "91",
+    "document_number": "DOJ-OGR-00016006",
+    "date": "2007",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category 18 B-727-31 N908JC PBI ABY 64 GM, SK, GLEN DUBON 2 GOMALES 1/ 1 3 20 B-727-31 N908JC ABY JFK 65 GM, SK, GLEN DUBON 2 GOMALES 2 1 20 JFK MRY 65 SK, GEROLDING LATIMER, NET LOANING, NENA ZAGIT 5 9 23 B-727-31 N908JC MRY VNY 67 SK, KELLY BOVENN NENA ZAGIT 1/4 8 23 VNY JAX 68 BCHK FANG CHOW, ROGER PROCTOR, ROGER PROCTOR STU 1/ LANDING 4 2 25 G-1198B N908JC PBI ABQ TCB 1561 ROGER SLOAN + FREDERIC BAILETTE, RICK GRIFFIN (NANNY) 1/1 2 5 25 B-727-31 N908JC TGB ABQ 152 GM 4 3 28 B-727-31 N908JC JAX PBI 71 BCHK 1/1 1 2 MAR B-727-200 SIMULATOR MIP MIA STEep TURNS, STALLS, HOLDING, EMERGENCY DESCENT, RTO, UNUSUAL ATTITUDES GLENNICE BOVENN NENA ZAGIT 2 0 7 B-727-31 N908JC MRY MIA EMERGENCY DESCENT 2 GOMALES OUT HYDRAULIC FAILURES 2 0 7 B-727-31 N908JC MRY MIA EMERGENCY DESCENT, HOLDING GLENNICE BOVENN NENA ZAGIT 2 0 8 B-727-31 N908JC MRY MIA EMERGENCY DESCENT, HOLDING GLENNICE BOVENN NENA ZAGIT 2 0 10 B-727-31 N908JC TSS JFK 72 GM, SK, AP, LEMOT 2 GOMALES 1/ 4 1 14 B-727-31 N908JC JFK PBI 73 JOE PACIANO, JULIE TOOD 2 5 17 B-727-31 N908JC PBI JFK 74 JOE SK JOE PACIANO, JULIE TOOD 1/ 2 6 19 B-727-31 N908JC JFK EGGW 75 BILL CLEMENT, DOUG BANDA, 3 SECS SECURE 1/ 6 7 21 B-727-31 N908JC EGGW JFK 76 BILL CLEMENT, DOUG BANDA, 10 SECURE SECURE 7 8 22 B-727-31 N908JC JFK PBI 77 JOE GM, SK, NAINE CAMILLE, NICOLE JUNICERMANN 2 6 I certify that the statements made by me on this form are true. Pilot's Signature: Daniel Redgate Page Total Amount Forward Total to Date 6517 6169 85419 3 3 112 6 6526 6175 85945 3 3 112 6",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "18 B-727-31 N908JC PBI ABY 64 GM, SK, GLEN DUBON 2 GOMALES 1/ 1 3 ...",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature: Daniel Redgate",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Daniel Redgate",
+      "Glen Dubon",
+      "Gerolding Latimer",
+      "Nena Zagit",
+      "Roger Sloan",
+      "Frederic Bailette",
+      "Rick Griffin",
+      "Joe Paciano",
+      "Julie Tood",
+      "Bill Clement",
+      "Doug Banda",
+      "Naine Camille",
+      "Nicole Junicermann"
+    ],
+    "organizations": [],
+    "locations": [
+      "PBI",
+      "ABY",
+      "JFK",
+      "MRY",
+      "VNY",
+      "JAX",
+      "TGB",
+      "ABQ",
+      "MIP",
+      "MIA",
+      "TSS",
+      "EGGW"
+    ],
+    "dates": [
+      "2007"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00016006",
+      "N908JC"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log from 2007, containing handwritten entries for various flights, including aircraft make and model, identification mark, departure and arrival points, miles flown, flight number, remarks, and number of landings. The log also includes a certification statement signed by the pilot, Daniel Redgate."
+}

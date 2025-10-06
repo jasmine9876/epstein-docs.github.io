@@ -1,0 +1,72 @@
+{
+  "document_metadata": {
+    "page_number": "76",
+    "document_number": "DOJ-OGR-00015873",
+    "date": "2000 Aug",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... 2000 Aug 24 G-1159B N908JE SAF VNY 131 1/1 17 26 \" VNY TEB 1385 1/1 49 31 \" TEB PBI 1381 1/1 22 29 \" PBI TEB 332 1/1 25 9 \" TEB PBI 138 1/1 23 10 \" PBI TST 138 1/1 25 12 \" TST TEB 1385 1/1 39 21 \" TEB SAF 1384 1/1 42 25 \" SAF VNY 138 1/1 18 26 \" VNY TEB 1388 1/1 48 29 \" TEB TST 138 1/1 36 30 \" TST PBI 139 1/1 26 2 \" PBI TEB 1391 1/1 25 5 \" TEB PBI 1392 1/1 24 16 \" PBI TEB 1393 1/1 25 13 \" TEB LGA 1394 . 5 13 \" LGA LFPB 1395 1/1 71 15 \" -FPB EGBB 1396 1/1 13 17 \" EGBB BGR 1397 1/1 64 I certify that the statements made by me on this form are true. Pilot's Signature Daniel Rodge Page Total 13 130 597 Amount Forward 5318 6005 78759 33 112 Total to Date 6331 6015 79356 33 112",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "2000 Aug 24 G-1159B N908JE SAF VNY 131 1/1 17 ...",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Daniel Rodge",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Daniel Rodge"
+    ],
+    "organizations": [],
+    "locations": [
+      "SAF",
+      "VNY",
+      "TEB",
+      "PBI",
+      "TST",
+      "LGA",
+      "LFPB",
+      "EGBB",
+      "BGR",
+      "FPB"
+    ],
+    "dates": [
+      "2000 Aug 24",
+      "2000 Aug 26",
+      "2000 Aug 31",
+      "2000 Sep 2",
+      "2000 Sep 9",
+      "2000 Sep 10",
+      "2000 Sep 12",
+      "2000 Sep 21",
+      "2000 Sep 25",
+      "2000 Sep 26",
+      "2000 Sep 29",
+      "2000 Sep 30",
+      "2000 Oct 2",
+      "2000 Oct 5",
+      "2000 Oct 16",
+      "2000 Oct 13",
+      "2000 Oct 15",
+      "2000 Oct 17"
+    ],
+    "reference_numbers": [
+      "N908JE",
+      "G-1159B",
+      "DOJ-OGR-00015873"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The log includes details such as date, aircraft make and model, points of departure and arrival, miles flown, and number of landings. The pilot has signed the log certifying the statements made."
+}

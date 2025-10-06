@@ -1,0 +1,73 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00015479",
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "IMPORTANT MESSAGE FOR JE DATE 02/07/03 TIME 8:32 A.M. P.M. DOJ REDACTION OF DOJ REDACTION PHONE 212 249 AREA CODE NUMBER TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED Eucken 1184 IMPORTANT MESSAGE FOR JE DATE 07/02/03 TIME 19:09 A.M. P.M. M TONY OF PHONE 255 AREA CODE EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE CALL BACK AS.AP THANKYOU SIGNED MICHAEL 1184 IMPORTANT MESSAGE FOR JE DATE 02/01/01 TIME 8:00 A.M. P.M. M TONY OF PHONE 212 383 AREA CODE NUMBER ENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE CALLED TO SAY HE WILL STILL BE HERE AT 11AM - NEEDED TO ASK YOU QUESTION SIGNED 1184 IMPORTANT MESSAGE FOR JE DATE 02/07/03 TIME 5:27 A.M. P.M. M Tony OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED Eucken GOVERNMENT EXHIBIT 2-K-R S2 20 Cr. 330 (AJN) 1184 DOJ-OGR-00015479",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "JE",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FOR DATE TIME A.M. P.M. OF PHONE AREA CODE NUMBER TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "DOJ REDACTION",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "CALL BACK AS.AP THANKYOU",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "MICHAEL",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "CALLED TO SAY HE WILL STILL BE HERE AT 11AM - NEEDED TO ASK YOU QUESTION",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 2-K-R S2 20 Cr. 330 (AJN)",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JE",
+      "TONY",
+      "MICHAEL",
+      "Eucken"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "02/07/03",
+      "07/02/03",
+      "02/01/01"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00015479",
+      "S2 20 Cr. 330 (AJN)"
+    ]
+  },
+  "additional_notes": "The document contains four 'Important Message' forms with handwritten notes and some redacted information. The forms are related to phone calls and messages, primarily involving individuals named JE and Tony. The document is marked as a 'GOVERNMENT EXHIBIT' with the number '2-K-R'."
+}

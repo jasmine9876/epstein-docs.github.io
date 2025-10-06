@@ -1,0 +1,102 @@
+{
+  "document_metadata": {
+    "page_number": "9",
+    "document_number": "4-495-33932",
+    "date": "Dec 16, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\nInvoice Number: 4-495-33932\nInvoice Date: Dec 16, 2002\nAccount Number: 1144-2081-6\nPage: 9 of 15\nPicked up: Dec 10, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nThe delivery commitment for FedEx 2day to homes or private residences (Including home offices) is 7 P.M. the second business day for A1, A2, AA, A3, AM, PM, 01 and RM service areas.\nDistance Based Pricing, Zone 7\nPackage sent from: 10021 zip code\nRelease signature on file.\nTracking ID 837133955406 Sender ANDREA MITRONICH Recipient SHANNON RASCUZZI\nService Type FedEx 2Day JEFFREY E EPSTE N 49 ZORRO RANCH RD\nPackage Type Customer Packaging 457 MADISON AVE STANLEY NM 87056 US\nZone 7 NEW YORK NY 10022-6843 US\nPackages 1 Transportation Charge 15.75\nWeight 5.0 lbs, 2.3 kgs Discount -1.58\nDelivered Dec 12, 2002 14:32 Fuel Surcharge 0.57\nSvc Area 2R Courier Pickup Charge 0.00\nSigned by 7279236 Residential Delivery 1.35\nFedEx Use 346204710/06090/02 Delivery Area Surcharge 1.50\nTotal Transportation Charges USD $ 17.59\nPicked up: Dec 11, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 4\nInternetShip\nTracking ID 791993571675 Sender CECILIA STEEN Recipient PEG UGLAND\nService Type FedEx 2Day JEFFREY E EPSTE N N. A. PROPERTY\nPackage Type FedEx Envelope 457 MADISON AVE\nZone 4 NEW YORK NY 10022-6843 US\nPackages 1 Transportation Charge 8.50\nWeight 10 lbs, 0.5 kgs Discount -0.85\nDelivered Dec 13, 2002 10:02 Fuel Surcharge 0.31\nSvc Area A2\nSigned by C.SNYDER\nFedEx Use 523230147/01110/_\nTotal Transportation Charges USD $ 7.96\nCONFIDENTIAL\nSDNY_GM_00340788 127\nDOJ-OGR-00015436",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Number: 4-495-33932\nInvoice Date: Dec 16, 2002\nAccount Number: 1144-2081-6\nPage: 9 of 15",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Picked up: Dec 10, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Fuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nThe delivery commitment for FedEx 2day to homes or private residences (Including home offices) is 7 P.M. the second business day for A1, A2, AA, A3, AM, PM, 01 and RM service areas.\nDistance Based Pricing, Zone 7\nPackage sent from: 10021 zip code\nRelease signature on file.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Tracking ID 837133955406 Sender ANDREA MITRONICH Recipient SHANNON RASCUZZI\nService Type FedEx 2Day JEFFREY E EPSTE N 49 ZORRO RANCH RD\nPackage Type Customer Packaging 457 MADISON AVE STANLEY NM 87056 US\nZone 7 NEW YORK NY 10022-6843 US\nPackages 1 Transportation Charge 15.75\nWeight 5.0 lbs, 2.3 kgs Discount -1.58\nDelivered Dec 12, 2002 14:32 Fuel Surcharge 0.57\nSvc Area 2R Courier Pickup Charge 0.00\nSigned by 7279236 Residential Delivery 1.35\nFedEx Use 346204710/06090/02 Delivery Area Surcharge 1.50\nTotal Transportation Charges USD $ 17.59",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Picked up: Dec 11, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Fuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 4\nInternetShip",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Tracking ID 791993571675 Sender CECILIA STEEN Recipient PEG UGLAND\nService Type FedEx 2Day JEFFREY E EPSTE N N. A. PROPERTY\nPackage Type FedEx Envelope 457 MADISON AVE\nZone 4 NEW YORK NY 10022-6843 US\nPackages 1 Transportation Charge 8.50\nWeight 10 lbs, 0.5 kgs Discount -0.85\nDelivered Dec 13, 2002 10:02 Fuel Surcharge 0.31\nSvc Area A2\nSigned by C.SNYDER\nFedEx Use 523230147/01110/_\nTotal Transportation Charges USD $ 7.96",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "SDNY_GM_00340788 127\nDOJ-OGR-00015436",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "ANDREA MITRONICH",
+      "JEFFREY E EPSTEIN",
+      "SHANNON RASCUZZI",
+      "CECILIA STEEN",
+      "PEG UGLAND",
+      "C.SNYDER"
+    ],
+    "organizations": [
+      "FedEx"
+    ],
+    "locations": [
+      "NEW YORK",
+      "STANLEY",
+      "NM",
+      "US",
+      "457 MADISON AVE",
+      "49 ZORRO RANCH RD"
+    ],
+    "dates": [
+      "Dec 10, 2002",
+      "Dec 11, 2002",
+      "Dec 12, 2002",
+      "Dec 13, 2002",
+      "Dec 16, 2002"
+    ],
+    "reference_numbers": [
+      "4-495-33932",
+      "1144-2081-6",
+      "837133955406",
+      "791993571675",
+      "346204710/06090/02",
+      "523230147/01110/_",
+      "SDNY_GM_00340788",
+      "DOJ-OGR-00015436"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx shipment detail report, containing information about two separate shipments. The report includes details such as tracking IDs, sender and recipient names and addresses, package weights and dimensions, and transportation charges. The document is marked 'CONFIDENTIAL' at the bottom."
+}

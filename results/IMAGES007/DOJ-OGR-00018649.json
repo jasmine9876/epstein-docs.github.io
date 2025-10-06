@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "51",
+    "document_number": "753",
+    "date": "08/10/22",
+    "document_type": "court transcript",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 753 Filed 08/10/22 Page 51 of 264 1477\nLC7Cmax2 Flatley - direct\n1 Q. I'm sorry, Mr. Flatley. Just to take a step back, when you first get it, do you mark it in some way?\n2 A. Yes. I'm sorry. The first thing I do is put the NYC number on it and the sticker with my initials.\n3 Q. After marking it, do you create an image of the drive?\n4 A. Yes. In this case, I had to inspect it to see what kind of data was on it, to see if it was already an image or if it was a clone so that if it was a clone, I would have to image it. If it was an image, I would just have to copy it.\n5 Q. Did you end up making an image of this device?\n6 A. Yes, I did.\n7 Q. What does it mean to make an image of a device?\n8 MS. MENNINGER: Your Honor, this is outside the 702 disclosure.\n9 THE COURT: Overruled.\n10 A. So an image is a bit-for-bit copy of the media from the very beginning to the very end. We take those -- that copy and we write it into several different files and then that way it containerizes the data inside it so we don't accidentally mess it up.\n11 Q. Did you image the drive that's been marked for identification that's been marked as Government Exhibit 54?\n12 A. Yes, I did.\n13 Q. Can you explain to the jury how you made or what tools you used to make a forensic image of the hard drive?\n14 SOUTHERN DISTRICT REPORTERS, P.C. (212) 805-0300\n15 DOJ-OGR-00018649",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 753 Filed 08/10/22 Page 51 of 264 1477",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "LC7Cmax2 Flatley - direct",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "1 Q. I'm sorry, Mr. Flatley. Just to take a step back, when you first get it, do you mark it in some way?\n2 A. Yes. I'm sorry. The first thing I do is put the NYC number on it and the sticker with my initials.\n3 Q. After marking it, do you create an image of the drive?\n4 A. Yes. In this case, I had to inspect it to see what kind of data was on it, to see if it was already an image or if it was a clone so that if it was a clone, I would have to image it. If it was an image, I would just have to copy it.\n5 Q. Did you end up making an image of this device?\n6 A. Yes, I did.\n7 Q. What does it mean to make an image of a device?\n8 MS. MENNINGER: Your Honor, this is outside the 702 disclosure.\n9 THE COURT: Overruled.\n10 A. So an image is a bit-for-bit copy of the media from the very beginning to the very end. We take those -- that copy and we write it into several different files and then that way it containerizes the data inside it so we don't accidentally mess it up.\n11 Q. Did you image the drive that's been marked for identification that's been marked as Government Exhibit 54?\n12 A. Yes, I did.\n13 Q. Can you explain to the jury how you made or what tools you used to make a forensic image of the hard drive?",
+      "position": "main"
+    },
+    {
+      "type": "printed",
+      "content": "SOUTHERN DISTRICT REPORTERS, P.C. (212) 805-0300",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00018649",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Mr. Flatley",
+      "MS. MENNINGER"
+    ],
+    "organizations": [
+      "SOUTHERN DISTRICT REPORTERS, P.C."
+    ],
+    "locations": [
+      "NYC"
+    ],
+    "dates": [
+      "08/10/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "753",
+      "54",
+      "DOJ-OGR-00018649"
+    ]
+  },
+  "additional_notes": "The document appears to be a court transcript with a clear and legible format. There are no visible redactions or damage."
+}

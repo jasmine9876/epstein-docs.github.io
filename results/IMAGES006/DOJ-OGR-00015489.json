@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00015489",
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "IMPORTANT MESSAGE FOR DATE TIME A.M. P.M. M OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 1184 IMPORTANT MESSAGE FOR SE 16/03/03 TIME 17:06 A.M. P.M. MR DAVID ROTH OF PHONE 1917 734 AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE WANTED TO KNOW IF WE WERE STILL LEAVING AT 4.30 TOMORROW SIGNED MICHAEL 1184 IMPORTANT MESSAGE FOR JE 16/07/03 TIME 18:27 A.M. P.M. M OF 478 PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SHE WANTS TO IMPORTANT MESSAGE FOR JE 03/16/03 TIME 5:44 A.M. P.M. M TONY OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED GOVERNMENT EXHIBIT 2-U-R S2 20 Cr. 330 (AJN) 1184 DOJ-OGR-00015489",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE FOR DATE TIME A.M. P.M. M OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 1184",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "SE 16/03/03 TIME 17:06 A.M. P.M. MR DAVID ROTH 1917 734 WANTED TO KNOW IF WE WERE STILL LEAVING AT 4.30 TOMORROW MICHAEL",
+      "position": "top-right"
+    },
+    {
+      "type": "handwritten",
+      "content": "JE 16/07/03 TIME 18:27 A.M. P.M. M OF 478 SHE WANTS TO",
+      "position": "bottom-left"
+    },
+    {
+      "type": "handwritten",
+      "content": "JE 03/16/03 TIME 5:44 A.M. P.M. M TONY",
+      "position": "bottom-right"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 2-U-R S2 20 Cr. 330 (AJN) DOJ-OGR-00015489",
+      "position": "bottom-right"
+    }
+  ],
+  "entities": {
+    "people": [
+      "DAVID ROTH",
+      "MICHAEL",
+      "JE",
+      "TONY"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "16/03/03",
+      "16/07/03",
+      "03/16/03"
+    ],
+    "reference_numbers": [
+      "1917 734",
+      "478",
+      "S2 20 Cr. 330 (AJN)",
+      "DOJ-OGR-00015489"
+    ]
+  },
+  "additional_notes": "The document contains four 'Important Message' forms with handwritten notes. Some information is redacted, marked as 'DOJ Redaction'. The forms are stamped as 'GOVERNMENT EXHIBIT 2-U-R' with a reference number 'S2 20 Cr. 330 (AJN)' and a DOJ reference number 'DOJ-OGR-00015489'."
+}

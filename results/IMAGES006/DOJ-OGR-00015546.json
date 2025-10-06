@@ -1,0 +1,37 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "image",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "GOVERNMENT EXHIBIT 205 S2 20 Cr. 330 (AJN) DOJ-OGR-00015546",
+  "text_blocks": [
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 205 S2 20 Cr. 330 (AJN)",
+      "position": "bottom-right"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015546",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ",
+      "OGR"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00015546",
+      "S2 20 Cr. 330 (AJN)"
+    ]
+  },
+  "additional_notes": "The image appears to be a photograph of a white house with a patio area and palm trees. There are three people visible in the image. The image contains a government exhibit stamp and a reference number."
+}

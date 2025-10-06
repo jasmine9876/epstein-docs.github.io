@@ -1,0 +1,52 @@
+{
+  "document_metadata": {
+    "page_number": "19",
+    "document_number": "DOJ-OGR-00015748",
+    "date": "2/14/2005",
+    "document_type": "Checklist",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "ALL BATHROOMS CHECK LIST All bathrooms must contain the following extra items Toilet paper (white two-ply) Bath towel Hand towel Washcloth Hand soap Bath soap (Lever 2000) Kleenex tissue Tylenol Tums Sudafed Halls cough sweets Box of matches Toilet brush Toilet plunger DATE: 2/14/2005 SIGNATURE: 19 DOJ-OGR-00015748",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "ALL BATHROOMS CHECK LIST",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "All bathrooms must contain the following extra items",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Toilet paper (white two-ply) Bath towel Hand towel Washcloth Hand soap Bath soap (Lever 2000) Kleenex tissue Tylenol Tums Sudafed Halls cough sweets Box of matches Toilet brush Toilet plunger",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "2/14/2005",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DATE: SIGNATURE: 19 DOJ-OGR-00015748",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Lever"
+    ],
+    "locations": [],
+    "dates": [
+      "2/14/2005"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00015748"
+    ]
+  },
+  "additional_notes": "The document is a checklist for bathroom items with a handwritten date."
+}

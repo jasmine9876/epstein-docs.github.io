@@ -1,0 +1,76 @@
+{
+  "document_metadata": {
+    "page_number": "93",
+    "document_number": "DOJ-OGR-00015890",
+    "date": "Jan 2007",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... Jan 18 2007 N906GM C-212B PBL FXC 93 V1 6 Jan 11 N908JC B-727-31 PBL JFK 94 V1 25 11 B-727-31 N908JC JFK LFPB 95 72 13 N908JC LFPB LFPB 96 3 13 N908JC LFPB EGGW 97 8 16 N908JC EGGW LFMN 98 18 19 N908JC LFMN UNNT 99 67 20 N908JC UNNT RJTA 100 65 22 N908JC RJTA VHHH 101 40 23 N908JC VHHH ZGSZ 102 4 23 N908JC ZGSZ WSSS 103 34 25 N908JC WSSS VTBD 104 22 25 N908JC VTBD WBSB 105 26 27 N908JC WBSB WRRR 106 21 29 N908JC WRRR VCBI 107 52 29 N908JC VCBI OMDB 108 44 30 N908JC OMDB LFPB 109 38 31 N908JC LFPB EGGW 110 10 30 N908JC EGGW EIDW 110 17 I certify that the statements made by me on this form are true. Pilot's Signature David Rodafe Page Total 67 574 Amount Forward 4533 86551 33 112 6 Total to Date 6239 86925 33 112 6",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jan 18 2007 N906GM C-212B PBL FXC 93 V1 6",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "David Rodafe",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rodafe"
+    ],
+    "organizations": [],
+    "locations": [
+      "PBL",
+      "FXC",
+      "JFK",
+      "LFPB",
+      "EGGW",
+      "LFMN",
+      "UNNT",
+      "RJTA",
+      "VHHH",
+      "ZGSZ",
+      "WSSS",
+      "VTBD",
+      "WBSB",
+      "WRRR",
+      "VCBI",
+      "OMDB",
+      "EIDW"
+    ],
+    "dates": [
+      "Jan 18 2007",
+      "Jan 11",
+      "Jan 13",
+      "Jan 16",
+      "Jan 19",
+      "Jan 20",
+      "Jan 22",
+      "Jan 23",
+      "Jan 25",
+      "Jan 27",
+      "Jan 29",
+      "Jan 30",
+      "Jan 31"
+    ],
+    "reference_numbers": [
+      "N906GM",
+      "C-212B",
+      "N908JC",
+      "B-727-31",
+      "DOJ-OGR-00015890"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The page number is 93, and the document number is DOJ-OGR-00015890. The log covers flights in January 2007."
+}

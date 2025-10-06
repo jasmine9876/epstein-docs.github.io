@@ -1,0 +1,59 @@
+{
+  "document_metadata": {
+    "page_number": "47",
+    "document_number": "DOJ-OGR-00015962",
+    "date": "1997",
+    "document_type": "Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date 1997 mo8 Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... From To 10 G1159B N908JC VNC PBI 956 JG 4 15 \" PBI DCA 957 JG, CELENA MIDDELFART 1/1 1 7 15 \" DCA TAD 958 Reposition for crew 2 15 \" TAD PBI 959 JG, CELENA MIDDELFART 2 5 24 \" PBI TGB 960 JG, GM SUZANNA, JOEL ASHKEN, 2 FEMALE 1/1 2 3 27 \" TGB PBI 961 JG, GM, DID EGL CAZANDUMEC 2 1 30 \" PBI SAF 962 JG, GM, PIPER CAZANDUMEC 3 7 30 \" SAF CMH 963 JG,CM, DC 1/1 2 4 2 \" CMH TGB 964 JG,CM, DC 1 1 10 \" TGB PBI 965 JG, DC, DENIA, 2 FEMALE, 1 MALE 2 2 15 \" PBI DCA 966 JG,CM DC MANOR, (WEDDING BROOK, LATHAMORE, DC, CATHERINE BECK, LUNN 2 6 15 \" DCA TGB 967 JG, DC, CATHERINE BECK, LUNN 1 7 17 \" TGB PBI 968 JG, GM, DC, GUS GREEN, CATHERINE BECK, 2 FEMALE, 1 MALE 1/1 2 4 21 \" PBI TGB 969 JG, DC, MANOR, LBS?, 1 MALE 1/1 2 2 21 \" TGB BCD 970 JG 1/1 5 21 \" BCD TGB 971 JG 7 22 \" TGB PBI 972 JG 2 3 27 \" PBI TGB 973 JG, CELENA MIDDELFART 1/1 2 4 29 \" TGB EGGW 974 JG,GM 1/1 6 5 I certify that the statements made by me on this form are true. Pilot's Signature David Rodge Page Total 9/9 378 Amount Forward 5959 5652 68872 Total to Date 5918 69250",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date 1997 mo8 Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "10 G1159B N908JC VNC PBI 956 JG 4 ...",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David Rodge",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "CELENA MIDDELFART",
+      "GM SUZANNA",
+      "JOEL ASHKEN",
+      "CATHERINE BECK",
+      "GUS GREEN",
+      "David Rodge"
+    ],
+    "organizations": [],
+    "locations": [
+      "VNC",
+      "PBI",
+      "DCA",
+      "TAD",
+      "TGB",
+      "SAF",
+      "CMH",
+      "BCD",
+      "EGGW"
+    ],
+    "dates": [
+      "1997"
+    ],
+    "reference_numbers": [
+      "N908JC",
+      "G1159B",
+      "DOJ-OGR-00015962"
+    ]
+  },
+  "additional_notes": "The document is a flight log with handwritten entries. The pilot's signature is present at the bottom."
+}

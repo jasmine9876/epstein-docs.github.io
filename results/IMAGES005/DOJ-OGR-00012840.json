@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": "89",
+    "document_number": "751",
+    "date": "08/10/22",
+    "document_type": "court transcript",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 751 Filed 08/10/22 Page 89 of 261 1250 LC6Cmax3 Kate - cross 1 A. Yes. 2 Q. And you read that book, didn't you? 3 A. I have not read the book. 4 Q. But you knew that you were going to be included in that book; correct? 5 6 A. To my knowledge, those only -- I think there was only one sentence about me. I don't think there's anything about any details of anything. 7 8 9 Q. Did you give permission to your attorney to be referenced or written about in that book? 10 11 A. Yes. 12 Q. So before it was published, you knew that some of your story was going to be in that book; correct? 13 14 A. I don't believe any of my story is in the book. 15 Q. Do you have a private practice where you are a music therapist? 16 17 A. Sorry. Could you repeat. 18 Q. Do you have a private practice in which you are a music therapist? 19 20 A. I see people on an hourly basis. 21 Q. And you do that in California? 22 A. I do. 23 Q. And are you required to be licensed to hold yourself out as a music therapist? 24 25 A. No. SOUTHERN DISTRICT REPORTERS, P.C. (212) 805-0300 DOJ-OGR-00012840",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 751 Filed 08/10/22 Page 89 of 261 1250",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "LC6Cmax3 Kate - cross",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "1 A. Yes. 2 Q. And you read that book, didn't you? 3 A. I have not read the book. 4 Q. But you knew that you were going to be included in that book; correct? 5 6 A. To my knowledge, those only -- I think there was only one sentence about me. I don't think there's anything about any details of anything. 7 8 9 Q. Did you give permission to your attorney to be referenced or written about in that book? 10 11 A. Yes. 12 Q. So before it was published, you knew that some of your story was going to be in that book; correct? 13 14 A. I don't believe any of my story is in the book. 15 Q. Do you have a private practice where you are a music therapist? 16 17 A. Sorry. Could you repeat. 18 Q. Do you have a private practice in which you are a music therapist? 19 20 A. I see people on an hourly basis. 21 Q. And you do that in California? 22 A. I do. 23 Q. And are you required to be licensed to hold yourself out as a music therapist? 24 25 A. No.",
+      "position": "main"
+    },
+    {
+      "type": "printed",
+      "content": "SOUTHERN DISTRICT REPORTERS, P.C. (212) 805-0300",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00012840",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Kate"
+    ],
+    "organizations": [
+      "SOUTHERN DISTRICT REPORTERS, P.C."
+    ],
+    "locations": [
+      "California"
+    ],
+    "dates": [
+      "08/10/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "751",
+      "DOJ-OGR-00012840"
+    ]
+  },
+  "additional_notes": "The document appears to be a court transcript with a clear Q&A format. The header contains handwritten notes, and the footer includes the name and contact information of the reporting agency."
+}

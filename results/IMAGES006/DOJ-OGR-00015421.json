@@ -1,0 +1,71 @@
+{
+  "document_metadata": {
+    "page_number": "3 of 4",
+    "document_number": "4-487-30791",
+    "date": "Dec 13, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\nPicked up: Dec 05, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 4\n1st attempt Dec 05, 2002 at 12 01 AM.\nDelivery delayed by situations beyond our control.\nTracking D 838319148650 Sender LAUREN KW NTNER\nService Type FedEx Standard Overnight NYSG LLC\nPackage Type FedEx Envelope 457 MADISON AVE\nZone 4 NEW YORK NY 10022-6843 US\nPackages 1 \nWeight 1.0 lbs, 0.5 kgs Recipient CHRIS PACK\nDelivered Dec 06, 2002 13 01 JESSE PHILLIPS FOUNDATION\nSvc Area A1 \nSigned by 15800727 \nFedEx Use 345167410/06963/SN Transportation Charge 6.45\nFuel Surcharge 0.26\nResidential Delivery 1.35\nTotal Transportation Charges USD $ 8.06\nShipment Detail Subtotal USD $ 8.06\nCONFIDENTIAL\nSDNY_GM_00340731 112\nDOJ-OGR-00015421",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Picked up: Dec 05, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Fuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 4\n1st attempt Dec 05, 2002 at 12 01 AM.\nDelivery delayed by situations beyond our control.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Tracking D 838319148650 Sender LAUREN KW NTNER\nService Type FedEx Standard Overnight NYSG LLC\nPackage Type FedEx Envelope 457 MADISON AVE\nZone 4 NEW YORK NY 10022-6843 US\nPackages 1 \nWeight 1.0 lbs, 0.5 kgs Recipient CHRIS PACK\nDelivered Dec 06, 2002 13 01 JESSE PHILLIPS FOUNDATION\nSvc Area A1 \nSigned by 15800727 \nFedEx Use 345167410/06963/SN Transportation Charge 6.45\nFuel Surcharge 0.26\nResidential Delivery 1.35\nTotal Transportation Charges USD $ 8.06\nShipment Detail Subtotal USD $ 8.06",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "SDNY_GM_00340731 112\nDOJ-OGR-00015421",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "LAUREN KW NTNER",
+      "CHRIS PACK"
+    ],
+    "organizations": [
+      "FedEx",
+      "NYSG LLC",
+      "JESSE PHILLIPS FOUNDATION"
+    ],
+    "locations": [
+      "NEW YORK"
+    ],
+    "dates": [
+      "Dec 05, 2002",
+      "Dec 06, 2002",
+      "Dec 13, 2002"
+    ],
+    "reference_numbers": [
+      "4-487-30791",
+      "838319148650",
+      "2292-0750-4",
+      "345167410/06963/SN",
+      "SDNY_GM_00340731",
+      "DOJ-OGR-00015421"
+    ]
+  },
+  "additional_notes": "The document is a FedEx shipment detail report. It contains information about a shipment, including the sender, recipient, package details, and charges. The document is marked as 'CONFIDENTIAL' at the bottom."
+}

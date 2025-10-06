@@ -1,0 +1,72 @@
+{
+  "document_metadata": {
+    "page_number": "89",
+    "document_number": "DOJ-OGR-00016004",
+    "date": null,
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... \n\n4 C-421B N908GM ZORRO SBF ZORRO PATANNA, 2 MEN (STANDIN PAINTING) 1 5 \n4 \" \" \" \" \" \" \" 1 5 \n4 \" \" \" \" \" \" DADY VIDEOSKE TAKING PICTURES OF THE LV HOUSE 1 5 \n30 DEC B-727-31 N908JC HPN PBI 33 JG,SK,GB,JP,KC 2 5 \n4 \" \" \" PBI ISP 34 JESK 1 5 \n4 \" \" \" ISP PBI 35 JE,AP 2 7 \n9 \" \" \" PBI TEST 36 JE,GM,AP,1FEMALE 2 2 \n13 \" \" \" TEST HPN 37 JG,GM,SK,AP,GT,CW,CD 4 0 \n15 \" \" \" HPN CMH 38 JG,SL,2 FAMILIES IN MALL 1 5 \n16 \" \" \" CMH PBI 39 JL 2 1 \n17 \" \" \" PBI TEST 40 JS,GM,SK,1FEMALE 2 6 \n26 \" \" \" TEST TLPL 41 JG,GM,SK,AP,FLUX REARLAND Bob MASON 1 1 \n26 \" \" \" TLPL PBI 42 JE,GM,SK,AP,FLUX REARLAND Bob MASON 3 6 \n30 \" \" \" PBI TEST 43 JG,GM,AP,SK,1FEMALE 2 4 \n30 2007 JAN6 \" \" \" TEST EWR 44 JE,GM,SK,AP,ALEXIA WALKER, ESTE-LIN LIVES 4 1 \n16 \" \" \" EWR PBI 45 JG,GM,ROXER,WARREN,MARCAROS, 1 1 2 0 \n13 G-11598 N908JC PBI MPV 1557 JG,GM 1 1 1 5 \n13 \" \" \" MPV PBI 1558 JG,GM 1 1 7 \n14 B-727-31 N908JC PBI LGA 46 JG,GM 1 1 2 2 \n\nI certify that the statements made by me on this form are true. \n\nPilot's Signature David Reddge \n\nPage Total 157 408 \nAmount Forward 6492 6155 8450 1 33 112 4 \nTotal to Date 6592 6162 8490 9 33 112 6",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "4 C-421B N908GM ZORRO SBF ZORRO PATANNA, 2 MEN (STANDIN PAINTING) 1 5 \n4 \" \" \" \" \" \" \" 1 5 \n4 \" \" \" \" \" \" DADY VIDEOSKE TAKING PICTURES OF THE LV HOUSE 1 5 \n30 DEC B-727-31 N908JC HPN PBI 33 JG,SK,GB,JP,KC 2 5 \n4 \" \" \" PBI ISP 34 JESK 1 5 \n4 \" \" \" ISP PBI 35 JE,AP 2 7 \n9 \" \" \" PBI TEST 36 JE,GM,AP,1FEMALE 2 2 \n13 \" \" \" TEST HPN 37 JG,GM,SK,AP,GT,CW,CD 4 0 \n15 \" \" \" HPN CMH 38 JG,SL,2 FAMILIES IN MALL 1 5 \n16 \" \" \" CMH PBI 39 JL 2 1 \n17 \" \" \" PBI TEST 40 JS,GM,SK,1FEMALE 2 6 \n26 \" \" \" TEST TLPL 41 JG,GM,SK,AP,FLUX REARLAND Bob MASON 1 1 \n26 \" \" \" TLPL PBI 42 JE,GM,SK,AP,FLUX REARLAND Bob MASON 3 6 \n30 \" \" \" PBI TEST 43 JG,GM,AP,SK,1FEMALE 2 4 \n30 2007 JAN6 \" \" \" TEST EWR 44 JE,GM,SK,AP,ALEXIA WALKER, ESTE-LIN LIVES 4 1 \n16 \" \" \" EWR PBI 45 JG,GM,ROXER,WARREN,MARCAROS, 1 1 2 0 \n13 G-11598 N908JC PBI MPV 1557 JG,GM 1 1 1 5 \n13 \" \" \" MPV PBI 1558 JG,GM 1 1 7 \n14 B-727-31 N908JC PBI LGA 46 JG,GM 1 1 2 2",
+      "position": "main"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. \n\nPilot's Signature David Reddge",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total 157 408 \nAmount Forward 6492 6155 8450 1 33 112 4 \nTotal to Date 6592 6162 8490 9 33 112 6",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Reddge",
+      "Alexia Walker",
+      "Este-Lin Lives",
+      "Bob Mason",
+      "Warren",
+      "Marcaros",
+      "Roxer"
+    ],
+    "organizations": [],
+    "locations": [
+      "ZORRO",
+      "SBF",
+      "HPN",
+      "PBI",
+      "ISP",
+      "TEST",
+      "CMH",
+      "TLPL",
+      "EWR",
+      "MPV",
+      "LGA",
+      "LV house"
+    ],
+    "dates": [
+      "DEC 30",
+      "JAN 6, 2007"
+    ],
+    "reference_numbers": [
+      "N908GM",
+      "N908JC",
+      "G-11598",
+      "C-421B",
+      "B-727-31",
+      "DOJ-OGR-00016004"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The log includes details such as flight dates, aircraft make and model, departure and arrival points, miles flown, and remarks. The document is signed by the pilot, David Reddge."
+}

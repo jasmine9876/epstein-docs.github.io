@@ -1,0 +1,110 @@
+{
+  "document_metadata": {
+    "page_number": "8",
+    "document_number": "4-495-33932",
+    "date": "Dec 16, 2002",
+    "document_type": "Invoice",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Invoice Number: 4-495-33932 Invoice Date: Dec 16, 2002 Account Number: 1144-2081-6 Page: 8 of 15 FedEx Express Shipment Detail By Payment Type (Original) Picked up: Dec 10, 2002 Payer: Shipper Reference: NO REFERENCE INFORMATION Fuel Surcharge FedEx has applied a fuel surcharge of 4.00% to this shipment. Distance Based Pricing, Zone 8 Package sent from: 10021 zip code Tracking ID 837133956314 Service Type FedEx Standard Overnight Package Type FedEx Box Zone 8 Packages 1 Weight 3.0 lbs. 1.4 kgs Delivered Dec 11, 2002 13:40 Svc Area A1 Signed by I.MAXWELL Dec. Value USD 20.00 FedEx Use 346204710/01415/_ Sender G MAXWELL JEFFREY E EPSTEIN 457 MADISON AVE NEW YORK NY 10022 6843 US Recipient ISABEL MAXWELL Transportation Charge 28.75 Discount 2.88 Declared Value Charge 0.00 Fuel Surcharge 1.03 Courier Pickup Charge 0.00 Residential Delivery 1.35 Total Transportation Charges USD $ 28.25 Picked up: Dec 10, 2002 Payer: Shipper Reference: NO REFERENCE INFORMATION Fuel Surcharge FedEx has applied a fuel surcharge of 4.00% to this shipment. Distance Based Pricing, Zone 8 Package sent from: 10021 zip code Tracking ID 837133956380 Service Type FedEx 2Day Package Type Customer Packaging Zone 8 Packages 1 Weight 5.0 lbs. 2.3 kgs Delivered Dec 12, 2002 08:38 Svc Area A1 Signed by C.WOOD FedEx Use 346204710/06112/_ Sender G MAXWELL JEFFREY E EPSTEIN 457 MADISON AVE NEW YORK NY 10022 6843 US Recipient RON BURKLE Transportation Charge 16.75 Discount -1.68 Fuel Surcharge 0.60 Courier Pickup Charge 0.00 Total Transportation Charges USD $ 15.67 DOJ-OGR-00016056",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Invoice Number: 4-495-33932 Invoice Date: Dec 16, 2002 Account Number: 1144-2081-6 Page: 8 of 15",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Picked up: Dec 10, 2002 Payer: Shipper Reference: NO REFERENCE INFORMATION",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Fuel Surcharge FedEx has applied a fuel surcharge of 4.00% to this shipment. Distance Based Pricing, Zone 8 Package sent from: 10021 zip code",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Tracking ID 837133956314 Service Type FedEx Standard Overnight Package Type FedEx Box Zone 8 Packages 1 Weight 3.0 lbs. 1.4 kgs Delivered Dec 11, 2002 13:40 Svc Area A1 Signed by I.MAXWELL Dec. Value USD 20.00 FedEx Use 346204710/01415/_",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Sender G MAXWELL JEFFREY E EPSTEIN 457 MADISON AVE NEW YORK NY 10022 6843 US Recipient ISABEL MAXWELL",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Transportation Charge 28.75 Discount 2.88 Declared Value Charge 0.00 Fuel Surcharge 1.03 Courier Pickup Charge 0.00 Residential Delivery 1.35 Total Transportation Charges USD $ 28.25",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Picked up: Dec 10, 2002 Payer: Shipper Reference: NO REFERENCE INFORMATION",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Fuel Surcharge FedEx has applied a fuel surcharge of 4.00% to this shipment. Distance Based Pricing, Zone 8 Package sent from: 10021 zip code",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Tracking ID 837133956380 Service Type FedEx 2Day Package Type Customer Packaging Zone 8 Packages 1 Weight 5.0 lbs. 2.3 kgs Delivered Dec 12, 2002 08:38 Svc Area A1 Signed by C.WOOD FedEx Use 346204710/06112/_",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Sender G MAXWELL JEFFREY E EPSTEIN 457 MADISON AVE NEW YORK NY 10022 6843 US Recipient RON BURKLE",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Transportation Charge 16.75 Discount -1.68 Fuel Surcharge 0.60 Courier Pickup Charge 0.00 Total Transportation Charges USD $ 15.67",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00016056",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "G MAXWELL",
+      "JEFFREY E EPSTEIN",
+      "ISABEL MAXWELL",
+      "RON BURKLE",
+      "I.MAXWELL",
+      "C.WOOD"
+    ],
+    "organizations": [
+      "FedEx"
+    ],
+    "locations": [
+      "NEW YORK",
+      "MADISON AVE"
+    ],
+    "dates": [
+      "Dec 10, 2002",
+      "Dec 11, 2002",
+      "Dec 12, 2002",
+      "Dec 16, 2002"
+    ],
+    "reference_numbers": [
+      "4-495-33932",
+      "1144-2081-6",
+      "837133956314",
+      "837133956380",
+      "346204710/01415/",
+      "346204710/06112/"
+    ]
+  },
+  "additional_notes": "The document is a FedEx invoice with two shipment details. The shipments were sent by G MAXWELL to ISABEL MAXWELL and RON BURKLE respectively. The document is page 8 of 15."
+}

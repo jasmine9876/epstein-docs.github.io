@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": "19",
+    "document_number": null,
+    "date": "1993 May",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE 1993 May POINTS OF DEPARTURE & ARRIVAL REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS AIRCRAFT CATEGORY NO. LOG. Airplane Complex TUR DATE AIRCRAFT MAKE AND MODEL AIRCRAFT IDENTIFICATION MARK FROM TO MILES FLOWN FLT. NO. 9 HS125-700 N903JG CMH EGE SSP 110 381 11/1 2 9 2 9 9 11 6 6 11 35 35 35 12 9.0 322 10 31 31 19 TCB CMH 13 323 13 13 20 CMH TCB 35 324 13 13 21 TCB ACY 105 325 4 4 21 ACY PBI 326 23 26 26 27 TCB PBS 50 328 25 25 30 PBS TCB 80 329 25 25 30 TCB CPS 330 22 22 11 TCB PBS 331 26 26 14 PBS TCB 30 333 26 26 14 TCB CMH 334 12 12 18 CMH TCB 60 335 13 13 20 TCB DCA 336 I certify that the statements made by me on this form are true. PILOT'S SIGNATURE David Ruddy PAGE TOTAL 359 359 35 AMT. FORWARD 5851 1214 6 2211 TOTAL TO DATE 5857 1255 5 224 19 DOJ-OGR-00015816",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE 1993 May POINTS OF DEPARTURE & ARRIVAL REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS AIRCRAFT CATEGORY NO. LOG. Airplane Complex TUR",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "9 HS125-700 N903JG CMH EGE SSP 110 381 11/1 2 9 2 9 ...",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. PILOT'S SIGNATURE David Ruddy",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE TOTAL 359 359 35 AMT. FORWARD 5851 1214 6 2211 TOTAL TO DATE 5857 1255 5 224",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Ruddy"
+    ],
+    "organizations": [],
+    "locations": [
+      "CMH",
+      "EGE",
+      "SSP",
+      "PBI",
+      "TCB",
+      "ACY",
+      "CPS",
+      "DCA"
+    ],
+    "dates": [
+      "1993 May"
+    ],
+    "reference_numbers": [
+      "N903JG",
+      "DOJ-OGR-00015816"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries and a signature at the bottom. The log details flights made in May 1993, including dates, aircraft information, departure and arrival points, miles flown, and flight numbers."
+}

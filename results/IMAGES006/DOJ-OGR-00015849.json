@@ -1,0 +1,91 @@
+{
+  "document_metadata": {
+    "page_number": "52",
+    "document_number": "DOJ-OGR-00015849",
+    "date": "DEC 1998 - FEB 1999",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... DEC 14 G1159B N908JG PBI TEB 1028 1056 2 AIRPLANE 17 \" \" \" TEB BCT 1057 2.5 \" \" \" BCT PBI 1058 1 1998 JAN 3 \" \" \" PBI TEB 1059 2.3 8 \" \" \" TEB SAF 1060 3.8 10 \" \" \" SAF PBI 1061 2.7 13 \" \" \" PBI TEB 1062 2.3 18 \" \" \" TEB PBI 1063 2.4 20 \" \" \" PBI TIST 1064 2.0 25 \" \" \" TIST TNCM 1065 4 \" \" \" TNCM TEB 1066 4.2 30 \" \" \" TEB PBI 1067 2.3 31 \" \" \" PBI JAX 1068 8 \" \" \" JAX APF 1069 8 \" \" \" APF BBI 1070 4 FEB \" \" \" PBI TEB 1071 2.2 6 \" \" \" TEB PBI 1072 2.6 9 \" \" \" PBI TEB 1073 2.4 12 \" \" \" TEB PBI 1074 2.6 I certify that the statements made by me on this form are true. Pilot's Signature David Rodey Page Total 14 - 389 Amount Forward 5475 70953 Total to Date 5729 71342",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "DEC 14 G1159B N908JG PBI TEB 1028 1056 2 AIRPLANE",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David Rodey",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rodey"
+    ],
+    "organizations": [],
+    "locations": [
+      "PBI",
+      "TEB",
+      "BCT",
+      "SAF",
+      "TIST",
+      "TNCM",
+      "JAX",
+      "APF",
+      "BBI"
+    ],
+    "dates": [
+      "DEC 14",
+      "DEC 17",
+      "JAN 3",
+      "JAN 8",
+      "JAN 10",
+      "JAN 13",
+      "JAN 18",
+      "JAN 20",
+      "JAN 25",
+      "JAN 30",
+      "JAN 31",
+      "FEB 6",
+      "FEB 9",
+      "FEB 12"
+    ],
+    "reference_numbers": [
+      "G1159B",
+      "N908JG",
+      "1056",
+      "1057",
+      "1058",
+      "1059",
+      "1060",
+      "1061",
+      "1062",
+      "1063",
+      "1064",
+      "1065",
+      "1066",
+      "1067",
+      "1068",
+      "1069",
+      "1070",
+      "1071",
+      "1072",
+      "1073",
+      "1074",
+      "DOJ-OGR-00015849"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The log includes details such as date, aircraft make and model, identification mark, points of departure and arrival, miles flown, flight number, remarks, and number of landings. The pilot has signed the log certifying the statements made."
+}

@@ -1,0 +1,49 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "20-8000380",
+    "date": "03/22/2021",
+    "document_type": "Receipt",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case: 20-8000380 AJNerDocument#550 Filed:09/04/20 Page#4 of 9 Court Name: District Court Division: 1 Receipt Number: 46561266838 Cashier ID: Swartz Transaction Date: 03/22/2021 Payer Name: CHRISLANE MAXWELL NOTICE OF APPEAL/DOCKETING FEE For: CHRISLANE MAXWELL Amount: $505.00 CLERK Check/Money Order Num: 329 Total Paid: $505.00 Total Tendered: $505.00 Change Amt: $0.00 20C200063.0E DOJ-OGR-00019242",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case: 20-8000380 AJNerDocument#550 Filed:09/04/20 Page#4 of 9",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Court Name: District Court Division: 1 Receipt Number: 46561266838 Cashier ID: Swartz Transaction Date: 03/22/2021 Payer Name: CHRISLANE MAXWELL NOTICE OF APPEAL/DOCKETING FEE For: CHRISLANE MAXWELL Amount: $505.00 CLERK Check/Money Order Num: 329 Total Paid: $505.00 Total Tendered: $505.00 Change Amt: $0.00 20C200063.0E",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00019242",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "CHRISLANE MAXWELL"
+    ],
+    "organizations": [
+      "District Court"
+    ],
+    "locations": [],
+    "dates": [
+      "03/22/2021",
+      "09/04/20"
+    ],
+    "reference_numbers": [
+      "20-8000380",
+      "46561266838",
+      "329",
+      "20C200063.0E",
+      "DOJ-OGR-00019242"
+    ]
+  },
+  "additional_notes": "The document is a receipt for a court filing fee. The image quality is clear, and there are no visible redactions or damage."
+}

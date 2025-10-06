@@ -1,0 +1,51 @@
+{
+  "document_metadata": {
+    "page_number": "151",
+    "document_number": "751",
+    "date": "08/10/22",
+    "document_type": "court transcript",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 751 Filed 08/10/22 Page 151 of 261 1312 LC6VMAX4 McHugh - direct 1 Q. And can you tell the jury, what are we looking at here? 2 A. This is an asset account statement. 3 Q. What month is this an account statement for? 4 A. September 2002. 5 MS. MOE: Ms. Drescher, if you could please highlight 6 the upper left corner, as well as the lower middle. 7 Q. What name was this account under? 8 A. Jeffrey Epstein, care of Financial Trust Company. 9 (Continued on next page) 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 SOUTHERN DISTRICT REPORTERS, P.C. (212) 805-0300 DOJ-OGR-00018488",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 751 Filed 08/10/22 Page 151 of 261 1312 LC6VMAX4 McHugh - direct",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "1 Q. And can you tell the jury, what are we looking at here? 2 A. This is an asset account statement. 3 Q. What month is this an account statement for? 4 A. September 2002. 5 MS. MOE: Ms. Drescher, if you could please highlight 6 the upper left corner, as well as the lower middle. 7 Q. What name was this account under? 8 A. Jeffrey Epstein, care of Financial Trust Company. 9 (Continued on next page)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SOUTHERN DISTRICT REPORTERS, P.C. (212) 805-0300 DOJ-OGR-00018488",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Ms. Drescher",
+      "Ms. MOE"
+    ],
+    "organizations": [
+      "Financial Trust Company",
+      "SOUTHERN DISTRICT REPORTERS, P.C."
+    ],
+    "locations": [],
+    "dates": [
+      "September 2002",
+      "08/10/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "751",
+      "DOJ-OGR-00018488",
+      "(212) 805-0300"
+    ]
+  },
+  "additional_notes": "The document appears to be a court transcript with a clear and legible format. There are no visible redactions or damage."
+}

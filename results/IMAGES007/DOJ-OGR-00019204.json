@@ -1,0 +1,113 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "20 CR 330",
+    "date": "06/29/2020",
+    "document_type": "Arrest Warrant",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-mj-00132-AJ Document 1 Filed 07/02/20 Page 1 of 193 Mod AO 442 (09/13) Arrest Warrant AUSA Name & Telno: Alison Moe, 212-637-2225 UNITED STATES DISTRICT COURT for the Southern District of New York United States of America v. Ghislaine Maxwell Defendant ARREST WARRANT To: Any authorized law enforcement officer YOU ARE COMMANDED to arrest and bring before a United States magistrate judge without unnecessary delay (name of person to be arrested) Ghislaine Maxwell who is accused of an offense or violation based on the following document filed with the court: Indictment Superseding Indictment Information Superseding Information Complaint Probation Violation Petition Supervised Release Violation Petition Violation Notice Order of the Court This offense is briefly described as follows: Title 18, United States Code, Section 371 (conspiracy to entice minors) Title 18, United States Code, Sections 2422 and 2 (enticement of a minor) Title 18, United States Code, Section 371 (conspiracy to transport minors) Title 18, United States Code, Sections 2423(a) and 2 (transportation of a minor) Title 18, United States Code, Section 1623 (perjury) Date: 06/29/2020 Issuing officer's signature City and state: White Plains, NY Hon. Lisa Margaret Smith, U.S. Magistrate Judge Printed name and title Return This warrant was received on (date) , and the person was arrested on (date) at (city and state) . Date: Arresting officer's signature Printed name and title DOJ-OGR-00019204",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-mj-00132-AJ Document 1 Filed 07/02/20 Page 1 of 193",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Mod AO 442 (09/13) Arrest Warrant AUSA Name & Telno: Alison Moe, 212-637-2225",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "UNITED STATES DISTRICT COURT for the Southern District of New York",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "United States of America v. Ghislaine Maxwell Defendant",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "20 CR 330 Case No.",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "ARREST WARRANT",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "To: Any authorized law enforcement officer",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "YOU ARE COMMANDED to arrest and bring before a United States magistrate judge without unnecessary delay (name of person to be arrested) Ghislaine Maxwell who is accused of an offense or violation based on the following document filed with the court:",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Indictment Superseding Indictment Information Superseding Information Complaint Probation Violation Petition Supervised Release Violation Petition Violation Notice Order of the Court",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "This offense is briefly described as follows:",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Title 18, United States Code, Section 371 (conspiracy to entice minors) Title 18, United States Code, Sections 2422 and 2 (enticement of a minor) Title 18, United States Code, Section 371 (conspiracy to transport minors) Title 18, United States Code, Sections 2423(a) and 2 (transportation of a minor) Title 18, United States Code, Section 1623 (perjury)",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "Lisa Margaret Smith",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Date: 06/29/2020 Issuing officer's signature",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "City and state: White Plains, NY Hon. Lisa Margaret Smith, U.S. Magistrate Judge Printed name and title",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Return This warrant was received on (date) , and the person was arrested on (date) at (city and state) . Date: Arresting officer's signature Printed name and title",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ghislaine Maxwell",
+      "Alison Moe",
+      "Lisa Margaret Smith"
+    ],
+    "organizations": [
+      "United States District Court",
+      "United States of America"
+    ],
+    "locations": [
+      "New York",
+      "White Plains"
+    ],
+    "dates": [
+      "06/29/2020",
+      "07/02/20"
+    ],
+    "reference_numbers": [
+      "20 CR 330",
+      "1:20-mj-00132-AJ",
+      "DOJ-OGR-00019204"
+    ]
+  },
+  "additional_notes": "The document is an arrest warrant for Ghislaine Maxwell, issued by the United States District Court for the Southern District of New York. The warrant is based on an indictment and lists several charges related to enticement and transportation of minors, as well as perjury. The document contains a mix of printed and handwritten text, with the issuing officer's signature being handwritten."
+}

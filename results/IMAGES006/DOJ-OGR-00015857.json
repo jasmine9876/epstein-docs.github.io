@@ -1,0 +1,77 @@
+{
+  "document_metadata": {
+    "page_number": "60",
+    "document_number": "DOJ-OGR-00015857",
+    "date": null,
+    "document_type": "Pilot's Logbook Page",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... Day 19 CCX From To Airplane Glider 6 G-1159B N908JG TCB BED 1167 1 1 6 6 \" TCB OCA 1168 7 9 \" OCA PBI 1169 2 6 12 \" PBI TCB 1170 2 3 15 \" TCB PBI 1171 2 1 19 \" PBI TCB 1172 2 21 \" TCB BED 1173 6 21 \" BED TCB 1174 8 23 \" TCB PBI 1175 2 3 Nov 7 \" PBI TCB 1176 2 3 7 \" TCB PBI 1177 2 3 10 \" PBI TCB 1178 2 5 14 \" TCB TIST 1179 3 2 15* \" TIST PBI 1180 2 4 16 \" PBI CMH 1181 2 0 16 \" CMH TCB 1182 1 1 20 \" TCB TIST 1183 3 3 1 C421B N908JGM PBE - NASMO - PBE 3 3 1 0 Page Total 16172 344 Amount Forward 646 7323 4 33 Total to Date 6162 7362 8 3 3 I certify that the statements made by me on this form are true. Pilot's Signature David Nodger",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... Day 19 CCX From To Airplane Glider",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "6 G-1159B N908JG TCB BED 1167 1 1 6 ... 1 C421B N908JGM PBE - NASMO - PBE",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David Nodger",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Nodger"
+    ],
+    "organizations": [],
+    "locations": [
+      "TCB",
+      "BED",
+      "OCA",
+      "PBI",
+      "TIST",
+      "CMH",
+      "PBE",
+      "NASMO"
+    ],
+    "dates": [
+      "19 CCX (Oct) 6, 9, 12, 15, 19, 21, 23; Nov 7, 10, 14, 15, 16, 20; 1 (no month given)"
+    ],
+    "reference_numbers": [
+      "G-1159B",
+      "N908JG",
+      "C421B",
+      "N908JGM",
+      "1167",
+      "1168",
+      "1169",
+      "1170",
+      "1171",
+      "1172",
+      "1173",
+      "1174",
+      "1175",
+      "1176",
+      "1177",
+      "1178",
+      "1179",
+      "1180",
+      "1181",
+      "1182",
+      "1183",
+      "DOJ-OGR-00015857"
+    ]
+  },
+  "additional_notes": "The document is a photocopy of a pilot's logbook page with handwritten entries. The 'Remarks, Procedures, Maneuvers, Endorsements' column is mostly obscured by a black rectangle."
+}

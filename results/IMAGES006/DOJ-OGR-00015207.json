@@ -1,0 +1,85 @@
+{
+  "document_metadata": {
+    "page_number": "1/3",
+    "document_number": "DOJ-OGR-00015207",
+    "date": "7/19/2021",
+    "document_type": "Student Info",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "7/19/2021 Student Info DOJ REDACTION DEFENDANT'S EXHIBIT DH-3-R S2 20 Cr. 330 (AJN) DOJ Redaction- Grade 10 Demographics Local Student ID DOJ Redaction Legal Name DOJ Redaction Suffix Nickname Former or Maiden Name Birthdate 1983 37 years 12 months Location of Birth SACRAMENTO,CA Country of Birth US - United States Birth Date Verification 1 - Certified Copy of Birth Certificate Gender F - Female Date Entered United States School 08/27/1990 Alerts Has Custody Alert Custody Alert Address Information Resident Status 3 - PK12 - In-County Resident Residence County 50 - Palm Beach Proof of Residence Affidavits No Records Found Race Single Ethnicity W - White Ethnicity: Hispanic or Latino N - No https://sis.palmbeachschools.org/focus/Modules.php?modname=Students/Student.php&search_modfunc=result&student_id=DOJ Redaction&LO_index=1&school_id=549#125 1/3 DOJ-OGR-00015207",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "7/19/2021",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Student Info",
+      "position": "header"
+    },
+    {
+      "type": "stamp",
+      "content": "DEFENDANT'S EXHIBIT DH-3-R S2 20 Cr. 330 (AJN)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ REDACTION DOJ Redaction- Grade 10",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Demographics",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Local Student ID DOJ Redaction Legal Name DOJ Redaction Suffix Nickname Former or Maiden Name Birthdate 1983 37 years 12 months Location of Birth SACRAMENTO,CA Country of Birth US - United States Birth Date Verification 1 - Certified Copy of Birth Certificate Gender F - Female Date Entered United States School 08/27/1990",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Alerts Has Custody Alert Custody Alert",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Address Information Resident Status 3 - PK12 - In-County Resident Residence County 50 - Palm Beach Proof of Residence Affidavits No Records Found",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Race Single Ethnicity W - White Ethnicity: Hispanic or Latino N - No",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "https://sis.palmbeachschools.org/focus/Modules.php?modname=Students/Student.php&search_modfunc=result&student_id=DOJ Redaction&LO_index=1&school_id=549#125 1/3 DOJ-OGR-00015207",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [
+      "SACRAMENTO,CA",
+      "US",
+      "Palm Beach"
+    ],
+    "dates": [
+      "7/19/2021",
+      "08/27/1990",
+      "1983"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00015207",
+      "S2 20 Cr. 330 (AJN)",
+      "DH-3-R"
+    ]
+  },
+  "additional_notes": "The document contains redactions and appears to be a student information sheet with various demographic details."
+}

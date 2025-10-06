@@ -1,0 +1,80 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "789",
+    "date": "07/22/25",
+    "document_type": "Court Document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 789 Filed 07/22/25 Page 4 of 4\n\nSubmission from Maxwell: The Court has not received a letter by or on behalf of defendant Maxwell setting out her position vis-à-vis the proposed disclosure. Any such letter is due Tuesday, August 5, 2025.\n\nSubmission(s) from victims: The Government may not have notified the victims. And, the Court has not received any letters on behalf of the victims setting out their positions vis-à-vis the proposed disclosure. Any such letters are due on or before Tuesday, August 5, 2025.\n\nSO ORDERED.\n\nPaul A. Engelmayer\nUnited States District Judge\n\nDated: July 22, 2025\nNew York, New York\n\n4\nDOJ-OGR-00015050",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 789 Filed 07/22/25 Page 4 of 4",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Submission from Maxwell: The Court has not received a letter by or on behalf of defendant Maxwell setting out her position vis-à-vis the proposed disclosure. Any such letter is due Tuesday, August 5, 2025.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Submission(s) from victims: The Government may not have notified the victims. And, the Court has not received any letters on behalf of the victims setting out their positions vis-à-vis the proposed disclosure. Any such letters are due on or before Tuesday, August 5, 2025.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SO ORDERED.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Paul A. Engelmayer",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PAUL A. ENGELMAYER\nUnited States District Judge",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Dated: July 22, 2025\nNew York, New York",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "4",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015050",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Maxwell",
+      "Paul A. Engelmayer"
+    ],
+    "organizations": [
+      "Government"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "July 22, 2025",
+      "August 5, 2025"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "789",
+      "DOJ-OGR-00015050"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a handwritten signature. The content is related to a legal case involving Maxwell."
+}

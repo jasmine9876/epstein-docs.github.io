@@ -1,0 +1,80 @@
+{
+  "document_metadata": {
+    "page_number": "59",
+    "document_number": "DOJ-OGR-00015974",
+    "date": null,
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... 9-4 G1159B N909JC TCB TIST 1154 JG,GM,ET 1/1 3 7 4 G1159B N909JC TIST PBI 1155 JG,GM,ET 1/1 2 5 8 G1159B N909JC PBI TCB 1156 JG,GM,ET,MANDY ELLISON 1/1 2 7 13 G1159B N909JC TCB SAF 1157 JG,GM,ET,ALBERTO+LENNA PENA 40 9/15 G1037A N307DG OEB CCL TOWELAND THERMAILING 3 9/15 G103 #2 N307DG OEB CCL UNASSIGNED T.O.C. THERMAILING STALL 4 9/15 G103 #8 N307DG OEB CCL UNASSIGNED TOW & CArdling IN CINEF 5 9/15 G1037A N307DG 7 CCL UNASSIGNED TOW & CArdling THERMAILING 3 9/15 G1159B N307DG 4 CCL UNASSIGNED TOW & CArdling THERMAILING,INTERSPALS 6 9/15 G1159B N307DG 4 CCL ARTIFICIAL TOW 3 10/7 G1159B N909JC SAF ASC 1158 JG,ET 1 6 19 G1159B N909JC ASC IAD 1159 JG,ET,LARRY SUMMERS,COMPENSATION 1/2 3 6 30 19 G1159B N909JC IAD TCB 1160 JG,ET,GUIDEDEN BELL 6 6 25 G1159B N909JC TCB DCA 1161 JG, LYNN FORESTER 1/1 7 7 25 G1159B N909JC DCA IAD 1162 REPOSITION FOR CURFEW 1 11 25 G1159B N909JC IAD TCB 1163 JG, LYNN FORESTER 7 7 26 G1159B N909JC TCB PBI 1164 JG, GM 1/1 2 1 26 G1159B N909JC PBI TCB 1165 JG, ET, LUBA, DARA 2 2 I certify that the statements made by me on this form are true. Pilot's Signature David P. Podgurski Page Total 5 1/6 22 4 2 4 Amount Forward 6138 7305 5 9 Total to Date 5472 7325 4 3 3",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "9-4 G1159B N909JC TCB TIST 1154 JG,GM,ET 1/1 3 7 ...",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David P. Podgurski",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David P. Podgurski",
+      "Mandy Ellison",
+      "Alberto Pena",
+      "Lenna Pena",
+      "Larry Summers",
+      "Lynn Forester",
+      "Luba",
+      "Dara",
+      "Guideden Bell"
+    ],
+    "organizations": [],
+    "locations": [
+      "TCB",
+      "TIST",
+      "PBI",
+      "SAF",
+      "OEB",
+      "CCL",
+      "ASC",
+      "IAD",
+      "DCA"
+    ],
+    "dates": [
+      "9-4",
+      "9/15",
+      "10/7",
+      "19",
+      "25",
+      "26"
+    ],
+    "reference_numbers": [
+      "G1159B",
+      "N909JC",
+      "G1037A",
+      "N307DG",
+      "1154",
+      "1155",
+      "1156",
+      "1157",
+      "1158",
+      "1159",
+      "1160",
+      "1161",
+      "1162",
+      "1163",
+      "1164",
+      "1165"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The log includes details such as flight dates, aircraft make and model, points of departure and arrival, miles flown, and remarks. The document is signed by the pilot, David P. Podgurski."
+}

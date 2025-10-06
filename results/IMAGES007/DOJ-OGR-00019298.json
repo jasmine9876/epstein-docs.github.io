@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "12",
+    "document_number": "17",
+    "date": "09/10/2020",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 20-3061, Document 17, 09/10/2020, 2928288, Page12 of 15 The government in the criminal case before Judge Nathan refused to agree to a modification of the protective order to allow Ms. Maxwell to inform Judge Preska of the material facts. Exhibit G. According to the government, even though all Ms. Maxwell sought was permission to share the requested information with other judicial officers under seal, a 11 DOJ-OGR-00019298",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 20-3061, Document 17, 09/10/2020, 2928288, Page12 of 15",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "The government in the criminal case before Judge Nathan refused to agree to a modification of the protective order to allow Ms. Maxwell to inform Judge Preska of the material facts. Exhibit G. According to the government, even though all Ms. Maxwell sought was permission to share the requested information with other judicial officers under seal, a",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "11",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00019298",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Judge Nathan",
+      "Ms. Maxwell",
+      "Judge Preska"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "09/10/2020"
+    ],
+    "reference_numbers": [
+      "20-3061",
+      "17",
+      "2928288",
+      "DOJ-OGR-00019298"
+    ]
+  },
+  "additional_notes": "The document contains redactions in the form of black bars covering most of the text on the page."
+}

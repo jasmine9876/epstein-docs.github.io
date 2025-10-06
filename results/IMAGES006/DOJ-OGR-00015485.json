@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00015485",
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "IMPORTANT MESSAGE FOR TK DATE 02/12/03 TIME 5:45 P.M. TELEPHONED PLEASE CALL MESSAGE DOJ Redaction 917 991 SIGNED IMPORTANT MESSAGE FOR Sarah DATE 02/10/03 TIME 12:45 P.M. TELEPHONED PLEASE CALL SIGNED IMPORTANT MESSAGE FOR Sarah DATE 02/20/03 TIME 2:45 P.M. OF 1.45 6 Lowell SIGNED IMPORTANT MESSAGE FOR JE DATE 18/02/03 TIME 15:10 P.M. M JEFF SCIENTIST GOVERNMENT EXHIBIT 2-Q-R S2 20 Cr. 330 (AJN)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "TK 02/12/03 5:45 P.M. TELEPHONED PLEASE CALL 917 991",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "DOJ Redaction",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Sarah 02/10/03 12:45 P.M. TELEPHONED PLEASE CALL",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Sarah 02/20/03 2:45 P.M. 1.45 6 Lowell",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "JE 18/02/03 15:10 P.M. JEFF SCIENTIST",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 2-Q-R S2 20 Cr. 330 (AJN) DOJ-OGR-00015485",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "TK",
+      "Sarah",
+      "JE",
+      "JEFF SCIENTIST"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [
+      "Lowell"
+    ],
+    "dates": [
+      "02/12/03",
+      "02/10/03",
+      "02/20/03",
+      "18/02/03"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00015485",
+      "2-Q-R",
+      "S2 20 Cr. 330 (AJN)"
+    ]
+  },
+  "additional_notes": "The document appears to be a set of four 'Important Message' forms, likely used for recording phone messages or visitor information. The forms contain handwritten notes and stamps, including a 'DOJ Redaction' stamp indicating that some information has been redacted. The document is yellowed and has a spiral binding on the left side."
+}

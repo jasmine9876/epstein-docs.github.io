@@ -1,0 +1,43 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "image",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "OFF! GOVERNMENT EXHIBIT 268 $2 20 Cr. 330 (AJN) DOJ-OGR-00015603",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "OFF!",
+      "position": "top"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 268 $2 20 Cr. 330 (AJN)",
+      "position": "bottom right"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015603",
+      "position": "bottom right"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ",
+      "OGR"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "268",
+      "$2 20 Cr. 330",
+      "DOJ-OGR-00015603"
+    ]
+  },
+  "additional_notes": "The image appears to be a photograph of a desk with various office supplies and a fire extinguisher. The image has a yellow stamp in the bottom-right corner indicating it is a government exhibit."
+}

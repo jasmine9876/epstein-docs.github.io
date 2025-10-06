@@ -1,0 +1,53 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "IMPORTANT MESSAGE FOR DATE TIME A.M. P.M. M OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 1184 IMPORTANT MESSAGE FOR Jeff DATE 02/02/63 TIME 9:41 A.M. P.M. M Tony OF PHONE 255 AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 1184 IMPORTANT MESSAGE FOR DATE TIME A.M. P.M. M 561 714 OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE DOJ REDACTION Please call SIGNED 1184 IMPORTANT MESSAGE FOR DATE TIME A.M. P.M. M R. CAEN OF PHONE 917 AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED GOVERNMENT EXHIBIT 2-F-R S2 20 Cr. 330 (AJN) 1184 DOJ-OGR-00015474",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE FOR DATE TIME A.M. P.M. M OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeff Tony 02/02/63 9:41 255 561 714 R. CAEN 917",
+      "position": "body"
+    },
+    {
+      "type": "stamp",
+      "content": "DOJ REDACTION GOVERNMENT EXHIBIT 2-F-R S2 20 Cr. 330 (AJN) DOJ-OGR-00015474",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "Please call",
+      "position": "body"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeff",
+      "Tony",
+      "R. CAEN"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "02/02/63"
+    ],
+    "reference_numbers": [
+      "255",
+      "561 714",
+      "917",
+      "S2 20 Cr. 330 (AJN)",
+      "DOJ-OGR-00015474"
+    ]
+  },
+  "additional_notes": "The document contains four 'Important Message' forms, some with handwritten notes and redactions. The forms are stamped with a 'GOVERNMENT EXHIBIT' label and a DOJ reference number."
+}

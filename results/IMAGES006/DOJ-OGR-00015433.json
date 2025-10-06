@@ -1,0 +1,72 @@
+{
+  "document_metadata": {
+    "page_number": "6 of 15",
+    "document_number": "4-495-33932",
+    "date": "Dec 16, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx\nInvoice Number: 4-495-33932\nInvoice Date: Dec 16, 2002\nAccount Number: 1144-2081-6\nPage: 6 of 15\nFedEx Express Shipment Detail By Payment Type (Original)\nPicked up: Dec 09, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 7\nThe delivery commitment for Express Saver Packages to homes or private residences (Including home offices) is 7PM the third business day for all regions.\nRelease signature on file.\nInternetShip\nTracking D 790156856328\nService Type FedEx Express Saver\nPackage Type FedEx Envelope\nZone 7\nPackages 1\nWeight 1.0 lbs, 0.5 kgs\nDelivered Dec 11, 2002 14:19\nSvc Area 3R\nSigned by 7279326\nFedEx Use 523812433/00834/02\nSender\nCECILIA STEEN\nJEFFREY E EPSTEIN\n457 MADISON AVE\nNEW YORK NY 10022-6843 US\nRecipient\nSHANNON HEALY\n49 ZORRO RANCH ROAD\nSTANLEY NM 87056 US\nTransportation Charge 8.80\nDiscount -0.88\nFuel Surcharge 0.32\nResidential Delivery 1.35\nDelivery Area Surcharge 1.50\nTotal Transportation Charges USD $ 11.09\nPicked up: Dec 09, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 4\nInternetShip\nTracking D 792147100585\nService Type FedEx Priority Overnight\nPackage Type Customer Packaging\nZone 4\nPackages 1\nWeight 2.0 lbs, 0.9 kgs\nDelivered Dec 10, 2002 11 03\nSvc Area A2\nSigned by J.WALL\nFedEx Use 523897834/01530/__\nSender\nCECILIA STEEN\nJEFFREY E EPSTEIN\n457 MADISON AVE\nNEW YORK NY 10022-6843 US\nRecipient\nABIGAIL WEXNER\n\n\nTransportation Charge 23.25\nDiscount -2.33\nFuel Surcharge 0.84\nTotal Transportation Charges USD $ 21.76\nPicked up: Dec 09, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 2\nPackage sent from: 10021 zip code\nTracking D 837133955358\nService Type FedEx 2Day\nPackage Type FedEx Pak\nZone 2\nPackages 1\nWeight 5.0 lbs, 2.3 kgs\nDelivered Dec 10, 2002 12 31\nSvc Area A1\nSigned by J SEPULVEDA\nFedEx Use 347194760/05980/__\nSender\nG MAXWELL\nJEFFREY E EPSTEIN\n457 MADISON AVE\nNEW YORK NY 10022-6843 US\nRecipient\nLISA ANASRONS\n\n\nTransportation Charge 9.00\nFuel Surcharge 0.32\nCourier Pickup Charge 0.00\nDiscount -0.90\nTotal Transportation Charges USD $ 8.42\nCONFIDENTIAL\nSDNY_GM_00340785 124\nDOJ-OGR-00015433",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx\nInvoice Number: 4-495-33932\nInvoice Date: Dec 16, 2002\nAccount Number: 1144-2081-6\nPage: 6 of 15",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "SDNY_GM_00340785 124\nDOJ-OGR-00015433",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "CECILIA STEEN",
+      "JEFFREY E EPSTEIN",
+      "SHANNON HEALY",
+      "ABIGAIL WEXNER",
+      "G MAXWELL",
+      "LISA ANASRONS",
+      "J.WALL",
+      "J SEPULVEDA"
+    ],
+    "organizations": [
+      "FedEx"
+    ],
+    "locations": [
+      "NEW YORK NY 10022-6843 US",
+      "STANLEY NM 87056 US",
+      "457 MADISON AVE"
+    ],
+    "dates": [
+      "Dec 09, 2002",
+      "Dec 11, 2002",
+      "Dec 10, 2002",
+      "Dec 16, 2002"
+    ],
+    "reference_numbers": [
+      "4-495-33932",
+      "1144-2081-6",
+      "790156856328",
+      "792147100585",
+      "837133955358",
+      "523812433/00834/02",
+      "523897834/01530/__",
+      "347194760/05980/__",
+      "SDNY_GM_00340785",
+      "DOJ-OGR-00015433"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx invoice with multiple shipment details. The document is marked as 'CONFIDENTIAL' at the bottom."
+}

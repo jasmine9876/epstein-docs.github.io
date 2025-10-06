@@ -1,0 +1,101 @@
+{
+  "document_metadata": {
+    "page_number": "66",
+    "document_number": "DOJ-OGR-00015863",
+    "date": null,
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date 19 MAY Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... Aeroplane Glider Helicopter From To 17 G11593 N9065C TEB SAF 1235 1/1 3 3 17 \" \" N9065C SAF ABE 1236 1/1 2 17 \" \" N9065C ABE DAL 1237 1/1 1 5 16 \" \" N9065C DAL PBE 1238 2 3 19 R216TB N500JA PBI-LNB-PBI 1 1 20 \" \" N500JA PMP PMP 1 21 \" \" N500JA PMP DAB 2 1 21 \" \" N500JA DAB PBI 1 21 \" \" N500JA PBI PMP 1 23 G11593 N9065C PBI TEB 1239 2 7 FLEIGHT TIMES REPORTED TO INSURANCE COMPANY 27 G11593 N9065C TEB PBI 1240 1 2 3 29 \" \" N9065C PBI TST 1241 2 3 30 \" \" N9065C TST PBI 1242 2 8 31 \" \" N9065C PBI SAF 1243 3 7 JUN4 \" \" N9065C SAF PBI 1244 3 2 7 \" \" N9065C PBI TEB 1245 2 5 9 \" \" N9065C TEB PBI 1246 2 3 15 \" \" N9065C PBI TEB 1247 2 5 I certify that the statements made by me on this form are true. Pilot's Signature: David Malekian Page Total 9 17 321 6 Amount Forward 5267 75099 33 595 Total to Date 6210 75420 33 656",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date 19 MAY Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... Aeroplane Glider Helicopter",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "17 G11593 N9065C TEB SAF 1235 1/1 3 3 17 \" \" N9065C SAF ABE 1236 1/1 2 17 \" \" N9065C ABE DAL 1237 1/1 1 5 16 \" \" N9065C DAL PBE 1238 2 3 19 R216TB N500JA PBI-LNB-PBI 1 1 20 \" \" N500JA PMP PMP 1 21 \" \" N500JA PMP DAB 2 1 21 \" \" N500JA DAB PBI 1 21 \" \" N500JA PBI PMP 1 23 G11593 N9065C PBI TEB 1239 2 7 FLEIGHT TIMES REPORTED TO INSURANCE COMPANY 27 G11593 N9065C TEB PBI 1240 1 2 3 29 \" \" N9065C PBI TST 1241 2 3 30 \" \" N9065C TST PBI 1242 2 8 31 \" \" N9065C PBI SAF 1243 3 7 JUN4 \" \" N9065C SAF PBI 1244 3 2 7 \" \" N9065C PBI TEB 1245 2 5 9 \" \" N9065C TEB PBI 1246 2 3 15 \" \" N9065C PBI TEB 1247 2 5",
+      "position": "main"
+    },
+    {
+      "type": "printed",
+      "content": "I certify that the statements made by me on this form are true.",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "David Malekian",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "9 17 321 6 5267 75099 33 595 6210 75420 33 656",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Malekian"
+    ],
+    "organizations": [
+      "Insurance Company"
+    ],
+    "locations": [
+      "TEB",
+      "SAF",
+      "ABE",
+      "DAL",
+      "PBE",
+      "PBI",
+      "LNB",
+      "PMP",
+      "DAB",
+      "TST"
+    ],
+    "dates": [
+      "17 MAY",
+      "18 MAY",
+      "16 MAY",
+      "19 MAY",
+      "20 MAY",
+      "21 MAY",
+      "23 MAY",
+      "27 MAY",
+      "29 MAY",
+      "30 MAY",
+      "31 MAY",
+      "4 JUN",
+      "7 JUN",
+      "9 JUN",
+      "15 JUN"
+    ],
+    "reference_numbers": [
+      "G11593",
+      "N9065C",
+      "R216TB",
+      "N500JA",
+      "1235",
+      "1236",
+      "1237",
+      "1238",
+      "1239",
+      "1240",
+      "1241",
+      "1242",
+      "1243",
+      "1244",
+      "1245",
+      "1246",
+      "1247",
+      "DOJ-OGR-00015863"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The log includes details such as date, aircraft make and model, identification mark, points of departure and arrival, miles flown, flight number, remarks, and number of landings. The document has a signature at the bottom."
+}

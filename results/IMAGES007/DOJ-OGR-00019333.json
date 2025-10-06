@@ -1,0 +1,45 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "24",
+    "date": "09/10/2020",
+    "document_type": "Exhibit",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 20-3061, Document 24, 09/10/2020, 2928295, Page1 of 6\nEXHIBIT G\nDOJ-OGR-00019333",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 20-3061, Document 24, 09/10/2020, 2928295, Page1 of 6",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EXHIBIT G",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00019333",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "09/10/2020"
+    ],
+    "reference_numbers": [
+      "20-3061",
+      "24",
+      "2928295",
+      "DOJ-OGR-00019333"
+    ]
+  },
+  "additional_notes": "The document appears to be a cover page for an exhibit in a legal case. The text is clear and legible, with no visible redactions or damage."
+}

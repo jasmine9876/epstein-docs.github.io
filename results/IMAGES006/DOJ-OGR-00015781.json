@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "52",
+    "document_number": "DOJ-OGR-00015781",
+    "date": "2/14/2005",
+    "document_type": "Office Supplies List",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "OFFICE SUPPLIES\n\nThe following supplies should be in inventory at all times:\n\n- Copy / printer paper.\n- Toner and ink cartridges for printers and fax machine - a minimum of 2 per unit.\n- Pens and pencils.\n- Red and green markers.\n- Black markers.\n- Rulers.\n- Pair of scissors.\n- Scotch tape.\n- Shipping tape.\n- Photographic print paper.\n- Personalized notepads, cards, envelopes (Call Cecilia Steen to order).\n- FedEx and parcel slips.\n- Disposable cameras.\n- Film for cameras.\n\n2/14/2005\n52\nDOJ-OGR-00015781",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "OFFICE SUPPLIES",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "The following supplies should be in inventory at all times:",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "- Copy / printer paper.\n- Toner and ink cartridges for printers and fax machine - a minimum of 2 per unit.\n- Pens and pencils.\n- Red and green markers.\n- Black markers.\n- Rulers.\n- Pair of scissors.\n- Scotch tape.\n- Shipping tape.\n- Photographic print paper.\n- Personalized notepads, cards, envelopes (Call Cecilia Steen to order).\n- FedEx and parcel slips.\n- Disposable cameras.\n- Film for cameras.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "2/14/2005",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "52",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015781",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Cecilia Steen"
+    ],
+    "organizations": [
+      "FedEx",
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "2/14/2005"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00015781"
+    ]
+  },
+  "additional_notes": "The document appears to be a standard office supplies list with a date and document number. The quality is clear and legible."
+}

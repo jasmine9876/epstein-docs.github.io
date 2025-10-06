@@ -1,0 +1,84 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "505",
+    "date": "October 1999",
+    "document_type": "Asset Account Portfolio",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "10 1999 Morgan Guaranty Trust Company of New York 345 Park Avenue, New York, NY 10154-1002 JPMorgan Account Number: 5-00-1 FINANCIAL TRUST COMPANY, INC. Confidential Page 1 of 7 Asset Account Portfolio October 1 - October 31, 1999 Gift Processing The holiday season will soon be here. If you plan to make securities gifts this year, please notify us before December 1, 1999. This will provide us with sufficient time to process your request and meet the year-end deadline. Table of Contents Portfolio Summary 2 Cash and Short Term 3 Trade Activity 4 Account Transactions 5 Account Officers Service Specialist: SCOTT/DENCKER FINANCIAL TRUST COMPANY, INC. C/O AMERICAN YACHT HARBOR 6100 RED HOOK QUARTERS #2 ST THOMAS US VIRGIN ISLDS 00802 Confidential Treatment Requested by JPMorgan Chase GOVERNMENT EXHIBIT 505 52 20 Cr. 330 (AJN) JPM-SDNY-00036863 DOJ-OGR-00015708",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "10 1999 Morgan Guaranty Trust Company of New York 345 Park Avenue, New York, NY 10154-1002 JPMorgan Account Number: 5-00-1 FINANCIAL TRUST COMPANY, INC. Confidential Page 1 of 7",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Asset Account Portfolio October 1 - October 31, 1999",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Gift Processing The holiday season will soon be here. If you plan to make securities gifts this year, please notify us before December 1, 1999. This will provide us with sufficient time to process your request and meet the year-end deadline.",
+      "position": "left margin"
+    },
+    {
+      "type": "printed",
+      "content": "Table of Contents Portfolio Summary 2 Cash and Short Term 3 Trade Activity 4 Account Transactions 5",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Account Officers Service Specialist: SCOTT/DENCKER",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FINANCIAL TRUST COMPANY, INC. C/O AMERICAN YACHT HARBOR 6100 RED HOOK QUARTERS #2 ST THOMAS US VIRGIN ISLDS 00802",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Confidential Treatment Requested by JPMorgan Chase",
+      "position": "footer"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 505 52 20 Cr. 330 (AJN) JPM-SDNY-00036863 DOJ-OGR-00015708",
+      "position": "bottom right"
+    }
+  ],
+  "entities": {
+    "people": [
+      "SCOTT",
+      "DENCKER"
+    ],
+    "organizations": [
+      "Morgan Guaranty Trust Company of New York",
+      "JPMorgan",
+      "FINANCIAL TRUST COMPANY, INC.",
+      "AMERICAN YACHT HARBOR",
+      "JPMorgan Chase"
+    ],
+    "locations": [
+      "New York",
+      "NY",
+      "ST THOMAS",
+      "US VIRGIN ISLDS"
+    ],
+    "dates": [
+      "October 1, 1999",
+      "October 31, 1999",
+      "December 1, 1999"
+    ],
+    "reference_numbers": [
+      "5-00-1",
+      "505",
+      "JPM-SDNY-00036863",
+      "DOJ-OGR-00015708"
+    ]
+  },
+  "additional_notes": "The document is a confidential asset account portfolio statement from JPMorgan. It contains a table of contents, account information, and a notice about gift processing. The document has been stamped as a government exhibit with a unique identifier."
+}

@@ -1,0 +1,116 @@
+{
+  "document_metadata": {
+    "page_number": "13",
+    "document_number": "4-495-75031",
+    "date": "Dec 23, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx\nInvoice Number: 4-495-75031\nInvoice Date: Dec 23, 2002\nAccount Number: 1144-2081-6\nPage: 13 of 21\nFedEx Express Shipment Detail By Payment Type (Original)\nDropped off: Dec 16, 2002 Payer: Shipper Reference: NO REFERENCE INFORMATION\nFuel Surcharge FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 8\nPackage sent from: 90046 zip code\nRelease signature on file.\nTracking ID 836663867977 Sender Recipient\nService Type FedEx Standard Overnight EMMY TAYLOR EDWNA SIMMONDS\nPackage Type FedEx Envelope JEFFREY E EPSTEIN\nZone 8 457 MADISON AVE\nPackages 1 NEW YORK NY 10022-6843 US\nWeight 1.0lbs, 0.5kgs\nDelivered Dec 17, 200212:09\nSvc Area A1\nSigned by\nFedEx Use 351006710/00266/02 Transportation Charge 15.25\nDiscount -2.44\nFuel Surcharge 0.51\nResidential Delivery 1.35\nTotal Transportation Charges USD $ 14.67\nDropped off: Dec 16, 2002 Payer: Shipper Reference: NO REFERENCE INFORMATION\nFuel Surcharge FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 6\nPackage sent from: 33681 zip code\nTracking ID 837169384484 Sender Recipient\nService Type FedEx Express Saver LARRY MORRISON MS BELLA\nPackage Type FedEx Envelope JEFFREY E EPSTEIN\nZone 6 457 MADISON AVE\nPackages 1 NEW YORK NY 10022-6843 US\nWeight 1.0lbs, 0.5kgs\nDelivered Dec 17, 2002 09:57\nSvc Area A1\nSigned by S.GRIFFS\nFedEx Use 351083650/00833/ Transportation Charge 8.35\nDiscount -0.84\nFuel Surcharge 0.30\nTotal Transportation Charges USD $ 7.81\nPicked up: Dec 17, 2002 Payer: Shipper Reference: NO REFERENCE INFORMATION\nFuel Surcharge FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 4\nInternetShip\nTracking ID 792152656709 Sender Recipient\nService Type FedEx Priority Overnight CECILIA STEEN PEG UGLAND\nPackage Type FedEx Envelope JEFFREY E EPSTEIN\nZone 4 457 MADISON AVE\nPackages 1 NEW YORK NY 10022 6843 US\nWeight 1.0lbs, 0.5kgs\nDelivered Dec 18, 2002 09:56\nSvc Area A2\nSigned by D OAKLEY\nFedEx Use 523981506/00208/ Transportation Charge 15.25\nDiscount 2.44\nFuel Surcharge 0.51\nTotal Transportation Charges USD $ 13.32\nDOJ-OGR-00016076",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Number: 4-495-75031\nInvoice Date: Dec 23, 2002\nAccount Number: 1144-2081-6\nPage: 13 of 21",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Dropped off: Dec 16, 2002 Payer: Shipper Reference: NO REFERENCE INFORMATION",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Fuel Surcharge FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 8\nPackage sent from: 90046 zip code\nRelease signature on file.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Tracking ID 836663867977 Sender Recipient\nService Type FedEx Standard Overnight EMMY TAYLOR EDWNA SIMMONDS\nPackage Type FedEx Envelope JEFFREY E EPSTEIN\nZone 8 457 MADISON AVE\nPackages 1 NEW YORK NY 10022-6843 US\nWeight 1.0lbs, 0.5kgs\nDelivered Dec 17, 200212:09\nSvc Area A1\nSigned by\nFedEx Use 351006710/00266/02 Transportation Charge 15.25\nDiscount -2.44\nFuel Surcharge 0.51\nResidential Delivery 1.35\nTotal Transportation Charges USD $ 14.67",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Dropped off: Dec 16, 2002 Payer: Shipper Reference: NO REFERENCE INFORMATION",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Fuel Surcharge FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 6\nPackage sent from: 33681 zip code",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Tracking ID 837169384484 Sender Recipient\nService Type FedEx Express Saver LARRY MORRISON MS BELLA\nPackage Type FedEx Envelope JEFFREY E EPSTEIN\nZone 6 457 MADISON AVE\nPackages 1 NEW YORK NY 10022-6843 US\nWeight 1.0lbs, 0.5kgs\nDelivered Dec 17, 2002 09:57\nSvc Area A1\nSigned by S.GRIFFS\nFedEx Use 351083650/00833/ Transportation Charge 8.35\nDiscount -0.84\nFuel Surcharge 0.30\nTotal Transportation Charges USD $ 7.81",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Picked up: Dec 17, 2002 Payer: Shipper Reference: NO REFERENCE INFORMATION",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Fuel Surcharge FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 4\nInternetShip",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Tracking ID 792152656709 Sender Recipient\nService Type FedEx Priority Overnight CECILIA STEEN PEG UGLAND\nPackage Type FedEx Envelope JEFFREY E EPSTEIN\nZone 4 457 MADISON AVE\nPackages 1 NEW YORK NY 10022 6843 US\nWeight 1.0lbs, 0.5kgs\nDelivered Dec 18, 2002 09:56\nSvc Area A2\nSigned by D OAKLEY\nFedEx Use 523981506/00208/ Transportation Charge 15.25\nDiscount 2.44\nFuel Surcharge 0.51\nTotal Transportation Charges USD $ 13.32",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00016076",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "EMMY TAYLOR",
+      "EDWNA SIMMONDS",
+      "JEFFREY E EPSTEIN",
+      "LARRY MORRISON",
+      "MS BELLA",
+      "CECILIA STEEN",
+      "PEG UGLAND",
+      "S.GRIFFS",
+      "D OAKLEY"
+    ],
+    "organizations": [
+      "FedEx"
+    ],
+    "locations": [
+      "NEW YORK",
+      "457 MADISON AVE"
+    ],
+    "dates": [
+      "Dec 16, 2002",
+      "Dec 17, 2002",
+      "Dec 18, 2002",
+      "Dec 23, 2002"
+    ],
+    "reference_numbers": [
+      "4-495-75031",
+      "1144-2081-6",
+      "836663867977",
+      "837169384484",
+      "792152656709",
+      "351006710/00266/02",
+      "351083650/00833/",
+      "523981506/00208/",
+      "DOJ-OGR-00016076"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx invoice with multiple shipment details. The image quality is clear, and there are no visible redactions or damage."
+}

@@ -1,0 +1,79 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "4-494-69923",
+    "date": "Dec 02, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\nDropped off: Nov 13, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDiscount applied is the greater of volume discount or dropoff discount. No additional discount applies.\nTracking ID 831051480353 Sender Recipient\nService Type FedEx Intl Economy KATE BELAERUD MILES ALEXANDER\nPackage Type Customer Packaging JEFFREY E EPSTE N C/O FINANCIAL TRUST COMPANY\nZone I 457 MADISON AVE 6100 RED HOOK QUARTERS\nOrig /Dest. SAF/STT NEW YORK NY 10022-6843 US SUITE R3\nPackages 1 ST THOMAS 00802 VI\nWeight 67.0 lbs, 30.5 kgs \nDelivered Nov 14, 2002 17:10 Transportation Charge 287.55\nSigned by J.CHAML N Fuel Surcharge 11.16\nFedEx Use _/US01O/_ Discount -8.63\nTotal Transportation Charges USD $ 290.08\nPicked up: Nov 21, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nRecipient not in /business closed.\nTracking ID 830273245327 Sender Recipient\nService Type FedEx Intl Priority CHRISTINE MAXWELL CHRIST NE MAXWELL\nPackage Type Customer Packaging JEFFREY E EPSTE N \nZone D 457 MADISON AVE \nOrig /Dest. FLU/MRS NEW YORK NY 10022-6843 US \nPackages 1 \nWeight 3.0 lbs, 1.4 kgs Transportation Charge 60.76\nDelivered Nov 27, 2002 13:45 Fuel Surcharge 2.36\nSigned by . MAXWELL Discount -1.82\nFedEx Use _/US01O/08 Total Transportation Charges USD $ 61.30\nShipment Detail Subtotal ...............................................USD $ 351.38\nPicked up: Nov 14, 2002 Payor: Third Party Reference: NO REFERENCE INFORMATION\nFuel Surcharge - FedEx has applied a fuel surcharge of 3.50% to this shipment.\nFedEx has audited this airbill for correct pieces, weight, and service. Any changes made are reflected in the invoice amount.\nTracking ID 827816434662 Sender Recipient\nService Type FedEx Intl Priority VALASION COTRIN SHELLEY LEWIS\nPackage Type Customer Packaging \nZone R \nOrig /Dest. TNF/LON \nPackages 1 \nWeight 4.0 kgs, 8.8 lbs \nDelivered Nov 19, 2002 11:25 Nov 14, 2002 - Conversion Rate EUR-USD 1.0313901350\nTransportation Charge EUR65.70 67.69\nFuel Surcharge EUR2.23 2.30\nFrance VAT EUR12.91 13.32\nDiscount -2.04\nTotal Transportation Charges USD $ 81.27\nCONFIDENTIAL",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Dropped off: Nov 13, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Fuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "KATE BELAERUD",
+      "JEFFREY E EPSTE N",
+      "MILES ALEXANDER",
+      "CHRISTINE MAXWELL",
+      "CHRIST NE MAXWELL",
+      "VALASION COTRIN",
+      "SHELLEY LEWIS",
+      "J.CHAML N",
+      ". MAXWELL",
+      "I.BOGDANOVIC"
+    ],
+    "organizations": [
+      "FedEx",
+      "FINANCIAL TRUST COMPANY"
+    ],
+    "locations": [
+      "NEW YORK",
+      "ST THOMAS",
+      "FLU",
+      "MRS",
+      "TNF",
+      "LON"
+    ],
+    "dates": [
+      "Nov 13, 2002",
+      "Nov 14, 2002",
+      "Nov 21, 2002",
+      "Nov 27, 2002",
+      "Nov 19, 2002",
+      "Dec 02, 2002"
+    ],
+    "reference_numbers": [
+      "831051480353",
+      "4-494-69923",
+      "1144-2081-6",
+      "830273245327",
+      "827816434662",
+      "EUR-USD 1.0313901350",
+      "SDNY_GM_00340758",
+      "93",
+      "DOJ-OGR-00015402"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx invoice with multiple shipment details. The document is marked as 'CONFIDENTIAL' at the bottom."
+}

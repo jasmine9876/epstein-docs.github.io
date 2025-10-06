@@ -1,0 +1,80 @@
+{
+  "document_metadata": {
+    "page_number": "114",
+    "document_number": null,
+    "date": null,
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... 26-Jan G-1159B N909JG PBI RSW 1752 LV 6 28-Feb B-727-31H N908JC RSW PBI 1753 LV 1/1 6 11-Mar \" PBI TST 310 JE SK LM 25 14-Mar \" TST PBI 311 JE ,SK LM 28 27-Mar \" PBI TST 315 JE AMORGI LM 23 31-Mar \" TST JFK 316 JE SK,DB MUNCELUS107 LM 30 Feb G-1159B N909JG JFK CMH 317 JET DM,JLB SK,DM3 BULLD LV 1/1 14 3-Mar \" CMH PBI 318 IG,DM,JLB SK LV 22 7-Mar \" PBI JFK 319 JE,DM SK LM 25 10-Mar G-1159B N909JG PBI PBI 1751 NGEL, BIGGEN PETE RATWELL 1/1 11 19-Mar \" PBI TST 1783 COLUCCN GR 1/1 24 19-Mar \" TST PBI 1784 GM CVB ANDERSON GR 27 24-Mar B-727-31H N908JC PBI PBI 324 BELL DAMMOND LM 5 Mar \" PBI JFK 325 JE DM ARIZONA MCLENNAR LM 1/1 24 6-Apr B-727-200 SIMULATOR MEP MEP VOR CUT 260,160 RICK MONROE-LIND 20 7-Apr \" MEP MEP ILS,STOP TURN,3015(160),260,REPETITIVE CIRCLE APPROACH, EVALUATION RICK 25 8-Apr G-1159B N909JG PBI SAN 1751 GM BILL MURPHY 1/1 56 13-Apr \" SAN MDW 1700 GM BM 1/1 30 14-Apr \" MDW TEB 1761 GM 1/1 17 I certify that the statements made by me on this form are true. Pilot's Signature David Rodgers Page Total 9/6 431 Amount Forward 6794 6407 96739 331294 Total to Date 5603 6413 97170 331294 DOJ-OGR-00016029",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "26-Jan G-1159B N909JG PBI RSW 1752 LV 6",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David Rodgers",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total 9/6 431 Amount Forward 6794 6407 96739 331294 Total to Date 5603 6413 97170 331294",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rodgers",
+      "Pete Ratwell",
+      "Rick Monroe-Lind",
+      "Bill Murphy"
+    ],
+    "organizations": [],
+    "locations": [
+      "PBI",
+      "RSW",
+      "TST",
+      "JFK",
+      "CMH",
+      "SAN",
+      "MDW",
+      "TEB",
+      "MEP"
+    ],
+    "dates": [
+      "26-Jan",
+      "28-Feb",
+      "11-Mar",
+      "14-Mar",
+      "27-Mar",
+      "31-Mar",
+      "3-Mar",
+      "7-Mar",
+      "10-Mar",
+      "19-Mar",
+      "24-Mar",
+      "6-Apr",
+      "7-Apr",
+      "8-Apr",
+      "13-Apr",
+      "14-Apr"
+    ],
+    "reference_numbers": [
+      "N909JG",
+      "N908JC",
+      "G-1159B",
+      "B-727-31H",
+      "B-727-200",
+      "DOJ-OGR-00016029"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries and appears to be a photocopy or scan of the original document."
+}

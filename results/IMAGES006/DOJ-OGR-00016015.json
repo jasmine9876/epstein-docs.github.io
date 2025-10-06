@@ -1,0 +1,100 @@
+{
+  "document_metadata": {
+    "page_number": "100",
+    "document_number": null,
+    "date": "2003",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... App. Inst. Hrs. Tot. Feb 19 2003 B-727-31H N908JC MRY ABQ 184 JE, GMSK, JEMMY TAYLOR, BRENT 1 8 4.0 Feb 24 \" \" \" ABQ JFK 185 JE, GMSK, ST, MAGALEE BLYCHON 3 5 \" \" \" JFK PBI 186 JE, MAGEE BLYCHON 2 8 Feb 12 B-727-2S7 SIMULATOR MIA LCL HGUINEL 2 5 \" \" \" \" \" \" 2 5 \" \" \" \" \" \" 2 5 Feb 17 G-1159B N989JC PBI TEB  JE, GMSK, AR, MAGEL LIEPMANN, MARCUS BLYCHON, BRENT 2 4 Feb 19 \" \" \" TEB BED JE 1 0 \" \" \" BED TEB JE 1 1 Feb 20 \" \" \" TEB PBI JE, GMSK, PRESIDENT ANDRES PASTRANA, COLONEL LEIPMANN, YAMILE BARRIOS 2 8 Feb 21 \" \" \" PBI MYNN JE, GMSK, STUDENT ANDRES PASTRANA, COL. LEE LIPMANN, YAMILE BARRIOS, BRENT 1 0 Feb 23 \" \" \" MYNN PBI JE, GMSK, JEAN LUC BRUNEL  8 Feb 25 B-727-31H N908JC PBI JFK 187 JE, GMSK, JEAN LUC BRUNEL, SK, MICHAEL LIEPMANN 2 5 Feb 27 \" \" \" JFK TIST 188 JE, GMSK, GIOVANNI LOPEZ, MAGALEE BLYCHON, GREG TINDALL 3 3 Mar 2 \" \" \" TIST SBGR 184 JE, GMSK, JOSE LUIZ TIBURCIO, NAGIB C PELL 6 4 Mar 5 \" \" \" SBGR GVAC 190 JE, GMSK, JEAN LUC BRUNEL, SK, MICHAEL BLYCHON 6 2 Mar 6 \" \" \" GVAC LEPB 191 JE, GMSK, SK, JEAN LUC BRUNEL, MAGALEE BLYCHON 5 2 Mar 10 \" \" \" LEPB CYQX 192 JE, GMSK, SK, MICHAEL LIEPMANN, BRENT, GREG TINDALL, GREG LAND, GREG NOVE 5 4 I certify that the statements made by me on this form are true. Pilot's Signature David Ledefus Page Total 7/3 56 2 Amount Forward 6690 6335 4015 2 3 3 113 1 Total to Date 6683 6338 9071 4 3 3 113 1 DOJ-OGR-00016015",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... App. Inst. Hrs. Tot.",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Feb 19 2003 B-727-31H N908JC MRY ABQ 184 JE, GMSK, JEMMY TAYLOR, BRENT 1 8 4.0",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David Ledefus",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/3 56 2 6690 6335 4015 2 3 3 113 1 6683 6338 9071 4 3 3 113 1",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00016015",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jemmy Taylor",
+      "Brent",
+      "Magalee Blychon",
+      "Jean Luc Brunel",
+      "Michael Liepmann",
+      "Giovanni Lopez",
+      "Jose Luiz Tiburcio",
+      "Nagib C Pell",
+      "David Ledefus",
+      "President Andres Pastrana"
+    ],
+    "organizations": [],
+    "locations": [
+      "MRY",
+      "ABQ",
+      "JFK",
+      "PBI",
+      "MIA",
+      "LCL",
+      "PBI",
+      "TEB",
+      "BED",
+      "MYNN",
+      "TIST",
+      "SBGR",
+      "GVAC",
+      "LEPB",
+      "CYQX"
+    ],
+    "dates": [
+      "Feb 19 2003",
+      "Feb 24",
+      "Feb 12",
+      "Feb 17",
+      "Feb 19",
+      "Feb 20",
+      "Feb 21",
+      "Feb 23",
+      "Feb 25",
+      "Feb 27",
+      "Mar 2",
+      "Mar 5",
+      "Mar 6",
+      "Mar 10"
+    ],
+    "reference_numbers": [
+      "N908JC",
+      "N989JC",
+      "B-727-31H",
+      "B-727-2S7",
+      "G-1159B",
+      "DOJ-OGR-00016015"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The log includes details such as flight dates, aircraft make and model, departure and arrival points, miles flown, flight numbers, remarks, and number of landings. The document is signed by the pilot, David Ledefus."
+}

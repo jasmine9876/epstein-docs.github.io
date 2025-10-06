@@ -1,0 +1,43 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00015677",
+    "date": null,
+    "document_type": "Help Wanted Advertisement",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "HELP WANTED\nARE YOU A MASSAGE THERAPIST ??\nWORK IN PALM BEACH HOME\nEXCELLENT PAY\nMOSTLY WEEKENDS\nPLEASE CALL\n351-1000\nLEAVE MESSAGE\nGOVERNMENT EXHIBIT 421 S2 20 Cr. 330 (AJN)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "HELP WANTED\nARE YOU A MASSAGE THERAPIST ??\nWORK IN PALM BEACH HOME\nEXCELLENT PAY\nMOSTLY WEEKENDS\nPLEASE CALL\n351-1000\nLEAVE MESSAGE",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 421 S2 20 Cr. 330 (AJN)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015677",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [
+      "PALM BEACH"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "351-1000",
+      "DOJ-OGR-00015677",
+      "S2 20 Cr. 330 (AJN)",
+      "421"
+    ]
+  },
+  "additional_notes": "The document is a help wanted advertisement for a massage therapist. It includes a government exhibit stamp in the bottom right corner."
+}

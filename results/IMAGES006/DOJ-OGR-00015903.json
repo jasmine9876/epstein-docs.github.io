@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "106",
+    "document_number": "DOJ-OGR-00015903",
+    "date": null,
+    "document_type": "Pilot's Logbook Page",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... 12-DEC-2003 B-727-31H N908JC CMH TEST 237 3 7 22 \" \" \" TEST PBI 238 2 7 23 \" \" \" PBI JFK 239 2 4 25 \" \" \" JFK PBI 240 2 5 04-DEC-2003 G-1159B N909JC MIV JFK 1678 8 7 \" \" \" JFK CMH 1679 1 5 7 \" \" \" CMH PBI 1680 2 3 9 \" \" \" PBI TEST 1681 2 4 15 \" \" \" TEST TCB 1682 4 5 19 \" \" \" TCB TEST 1683 3 9 24 \" \" \" TEST PBI 1684 2 7 26 \" \" \" PBI TEST 1685 2 3 02-JAN-2004 \" \" \" TEST PBI 1686 2 7 3 \" \" \" PBI ISM 1687 7 3 \" \" \" ISM PBI 1688 7 5 \" \" \" PBI TCB 1689 2 5 8 \" \" \" TCB PBI 1690 2 6 12 B-727-31H N908JC PBI JFK 241 2 4 15 \" \" \" JFK PBI 242 2 5 I certify that the statements made by me on this form are true. Daniel Rodge Pilot's Signature Page Total 106 458 Amount Forward 6744 92857 331250 Total to Date 6375 93315 331250",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "12-DEC-2003 B-727-31H N908JC CMH TEST 237 3 7 ...",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Daniel Rodge",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Daniel Rodge"
+    ],
+    "organizations": [],
+    "locations": [
+      "CMH",
+      "PBI",
+      "JFK",
+      "MIV",
+      "TCB",
+      "ISM"
+    ],
+    "dates": [
+      "12-DEC-2003",
+      "04-DEC-2003",
+      "02-JAN-2004"
+    ],
+    "reference_numbers": [
+      "N908JC",
+      "N909JC",
+      "B-727-31H",
+      "G-1159B",
+      "DOJ-OGR-00015903"
+    ]
+  },
+  "additional_notes": "The document is a pilot's logbook page with handwritten entries. The page number is 106, and the document number is DOJ-OGR-00015903."
+}

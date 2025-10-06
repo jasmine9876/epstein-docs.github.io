@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00015503",
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "IMPORTANT MESSAGE FOR MR EPSTEIN DATE 5.3.04 TIME 7 P.M. TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE THERE IS A BEEP CONTINUOUS COMING FROM COMPUTER IN CATIANA SIGNED LUCIAN IMPORTANT MESSAGE FOR MR EPSTEIN DATE 5.2.04 TIME 4:15 P.M. TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE CALLED SIGNED IMPORTANT MESSAGE FOR DATE TIME 5.14 A.M. TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE HK just did a good one - 14 years. She spoke to me & said \"I love Jeffrey\" SIGNED IMPORTANT MESSAGE FOR DATE TIME 9:15 A.M. Monday night TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE GOVERNMENT EXHIBIT 3-F-R S2 20 Cr. 330 (AJN) DOJ-OGR-00015503",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "MR EPSTEIN 5.3.04 7 P.M. THERE IS A BEEP CONTINUOUS COMING FROM COMPUTER IN CATIANA LUCIAN",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "MR EPSTEIN 5.2.04 4:15 P.M. CALLED",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "5.14 A.M. HK just did a good one - 14 years. She spoke to me & said \"I love Jeffrey\"",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "9:15 A.M. Monday night",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 3-F-R S2 20 Cr. 330 (AJN)",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "MR EPSTEIN",
+      "LUCIAN",
+      "JEFFREY",
+      "HK"
+    ],
+    "organizations": [],
+    "locations": [
+      "CATIANA"
+    ],
+    "dates": [
+      "5.3.04",
+      "5.2.04"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00015503",
+      "S2 20 Cr. 330 (AJN)"
+    ]
+  },
+  "additional_notes": "The document appears to be a collection of 'Important Message' forms, likely from a legal or investigative context. The forms contain handwritten notes and messages, some of which reference individuals and events. The presence of a 'GOVERNMENT EXHIBIT' stamp suggests that these documents may be part of a legal proceeding or investigation."
+}

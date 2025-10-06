@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": "18",
+    "document_number": "DOJ-OGR-00015815",
+    "date": "1943",
+    "document_type": "Pilot's Logbook Page",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE | AIRCRAFT MAKE AND MODEL | AIRCRAFT IDENTIFICATION MARK | POINTS OF DEPARTURE & ARRIVAL FROM | TO | MILES FLOWN | FLT. NO. | REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS | LOG NO. | AIRCRAFT CATEGORY 1943 MAR 22 | H5125-700 N1088C | CMH | TEB | 80 | 231 |  | 12 | 12 | 1 | 25 | \" | \" | TEB | PBI | 80 | 242 |  | 25 | 25 | 2 | 12 | \" | \" | CMH | MDW | 103 | 304 |  | 9 | 9 | 1 | 12 | \" | \" | TEB/DOWN | AMT/PITTS V |  | 305 |  | 16 | 16 | 1 | 13 | \" | \" | TEB | DNN | 60 | 302 |  | 19 | 19 | 1 | 13 | \" | \" | DNN | PBI |  | 303 |  | 14 | 14 | 1 | 18 | \" | \" | PBI | DNN | 80 | 308 |  | 17 | 17 | 1 | 18 | \" | \" | DNN | TEB | 15 | 309 |  |  |  |  | 23 | \" | \" | TEB | PBI | 75 | 310 |  | 23 | 23 | 2 | 23 | \" | \" | PBI | TEB | 145 | 311 |  | 25 | 25 | 2 | 23 | \" | \" | TEB | BGI | 75 | 312 |  | 6 | 6 |  | 24 | \" | \" | BGI | TEB | 5 | 313 |  |  |  |  | 24 | \" | \" | TEB | BGI | 63 | 314 |  | 23 | 23 | 2 | 29 | \" | \" | TURBO SENT FROM TYPE POINT | BRCAKING DOWN FLIGHT EMC AND TYPE TO |  |  |  |  | 2 | \" | \" | PBI | TEB | 20 | 315 |  | 26 | 26 | 2 | 5 | \" | \" | TEB | CMH | 60 | 316 |  | 13 | 13 | 1 | 7 | \" | \" | CMH | MDW | 84 | 317 |  |  |  |  | 7 | \" | \" | MDW | CMH |  | 318 |  |  |  |  | I certify that the statements made by me on this form are true. PILOT'S SIGNATURE Derek Redge PAGE TOTAL | AMT. FORWARD | TOTAL TO DATE 55 | 3323 | 1412 | 4 | 2184 | 55 | 3323 | 9 | 1412 | 4 | 2184 | 6051 | 1 | 9219 | 6 | 221 | 18",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE | AIRCRAFT MAKE AND MODEL | AIRCRAFT IDENTIFICATION MARK | POINTS OF DEPARTURE & ARRIVAL FROM | TO | MILES FLOWN | FLT. NO. | REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS | LOG NO. | AIRCRAFT CATEGORY",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "1943 MAR 22 | H5125-700 N1088C | CMH | TEB | 80 | 231 |  | 12 | 12 | 1 | ...",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. PILOT'S SIGNATURE Derek Redge",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE TOTAL | AMT. FORWARD | TOTAL TO DATE",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Derek Redge"
+    ],
+    "organizations": [],
+    "locations": [
+      "CMH",
+      "TEB",
+      "PBI",
+      "MDW",
+      "DNN",
+      "BGI"
+    ],
+    "dates": [
+      "1943"
+    ],
+    "reference_numbers": [
+      "N1088C",
+      "H5125-700",
+      "DOJ-OGR-00015815"
+    ]
+  },
+  "additional_notes": "The document is a pilot's logbook page from 1943. It contains handwritten entries detailing flight information, including dates, aircraft identification, departure and arrival points, miles flown, and flight numbers. The page also includes a certification statement signed by the pilot, Derek Redge."
+}

@@ -1,0 +1,41 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00015534",
+    "date": null,
+    "document_type": "Government Exhibit",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "DOJ REDACTION GOVERNMENT EXHIBIT 113 S2 20 Cr. 330 (AJN) DOJ-OGR-00015534",
+  "text_blocks": [
+    {
+      "type": "stamp",
+      "content": "DOJ REDACTION",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 113 S2 20 Cr. 330 (AJN)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015534",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Department of Justice"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00015534",
+      "S2 20 Cr. 330 (AJN)"
+    ]
+  },
+  "additional_notes": "The image contains a redacted section with the label 'DOJ REDACTION' and a government exhibit label 'GOVERNMENT EXHIBIT 113 S2 20 Cr. 330 (AJN)'. The document number is 'DOJ-OGR-00015534'."
+}

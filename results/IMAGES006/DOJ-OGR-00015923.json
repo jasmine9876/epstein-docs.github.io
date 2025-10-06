@@ -1,0 +1,77 @@
+{
+  "document_metadata": {
+    "page_number": "8",
+    "document_number": "DOJ-OGR-00015923",
+    "date": "January 1992",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE 1992 JAN AIRCRAFT MAKE AND MODEL AIRCRAFT IDENTIFICATION MARK POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FLOWN FLT. NO. REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS NO. LDG. AIRCRAFT CATEGORY AIRPLANE COMPLEX TURB 29 H4125-703 N4125Z PDK ILG 111 3C 3 3 3 30 \" \" N408JC BSL TEB 110 2H 24 24 2 5 \" \" TEB CMH 50 111 1 13 13 1 6 \" \" TEB CMH 40 112 Straight, christie kennedy, 12 mile v 1 12 12 1 23 \" \" TEB BOS 110 113 \" 7 7 25 \" \" BOS TEB 114 \" 10 10 1 25 \" \" TEB PBE 28 114 Ckrts, h, T510 2S 28 28 2 26 \" \" PBE MYCH 110 Ckrts, c10, T510 6 6 29 \" \" PBE MYCH 117 Ckrts eve, T510 7 7 29 \" \" MYCH PBE 118 Ckrts, eve, T510 6 6 1 \" \" PBE TEB 80 119 Ckrts, h, T510 2S 24 24 2 6 \" \" TEB PBE 65 119 Ckrts, compadine, m, v, uspt, 1 mile v 2S 26 26 2 8 \" \" PBI TEB 65 120 \" 1 condit 2S 14 14 1 16 \" \" TEB CMH 80 121 Ckrts, kennedy 1 14 14 1 21 \" \" CMH PBE 65 122 Ckrts, 1 mile 2S 20 20 2 22 \" \" PBI TEB 50 123 Ckrts eve (is months elapse) (left usda control) 2S 26 26 2 28 \" \" TEB SLN 67 124 Ckrts, gps cnsine 3S 32 32 3 29 \" \" SLN BUR 125 Ckrts & hls aprt (congress approved) 2S 28 28 2 I certify that the statements made by me on this form are true. PILOT'S SIGNATURE Carl Rodgers PAGE TOTAL 362 362 36 AMT. FORWARD 5521 4 3896 6 1892 TOTAL TO DATE 5257 3 3426 8 1418",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE 1992 JAN AIRCRAFT MAKE AND MODEL AIRCRAFT IDENTIFICATION MARK POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FLOWN FLT. NO. REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS NO. LDG. AIRCRAFT CATEGORY AIRPLANE COMPLEX TURB",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "29 H4125-703 N4125Z PDK ILG 111 3C 3 3 3 30 \" \" N408JC BSL TEB 110 2H 24 24 2 5 \" \" TEB CMH 50 111 1 13 13 1 6 \" \" TEB CMH 40 112 Straight, christie kennedy, 12 mile v 1 12 12 1 23 \" \" TEB BOS 110 113 \" 7 7 25 \" \" BOS TEB 114 \" 10 10 1 25 \" \" TEB PBE 28 114 Ckrts, h, T510 2S 28 28 2 26 \" \" PBE MYCH 110 Ckrts, c10, T510 6 6 29 \" \" PBE MYCH 117 Ckrts eve, T510 7 7 29 \" \" MYCH PBE 118 Ckrts, eve, T510 6 6 1 \" \" PBE TEB 80 119 Ckrts, h, T510 2S 24 24 2 6 \" \" TEB PBE 65 119 Ckrts, compadine, m, v, uspt, 1 mile v 2S 26 26 2 8 \" \" PBI TEB 65 120 \" 1 condit 2S 14 14 1 16 \" \" TEB CMH 80 121 Ckrts, kennedy 1 14 14 1 21 \" \" CMH PBE 65 122 Ckrts, 1 mile 2S 20 20 2 22 \" \" PBI TEB 50 123 Ckrts eve (is months elapse) (left usda control) 2S 26 26 2 28 \" \" TEB SLN 67 124 Ckrts, gps cnsine 3S 32 32 3 29 \" \" SLN BUR 125 Ckrts & hls aprt (congress approved) 2S 28 28 2",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. PILOT'S SIGNATURE Carl Rodgers",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE TOTAL 362 362 36 AMT. FORWARD 5521 4 3896 6 1892 TOTAL TO DATE 5257 3 3426 8 1418",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Carl Rodgers"
+    ],
+    "organizations": [],
+    "locations": [
+      "PDK",
+      "ILG",
+      "BSL",
+      "TEB",
+      "CMH",
+      "BOS",
+      "PBE",
+      "MYCH",
+      "PBI",
+      "SLN",
+      "BUR"
+    ],
+    "dates": [
+      "January 1992",
+      "29",
+      "30",
+      "5",
+      "6",
+      "23",
+      "25",
+      "26",
+      "29",
+      "1",
+      "6",
+      "8",
+      "16",
+      "21",
+      "22",
+      "28",
+      "29"
+    ],
+    "reference_numbers": [
+      "N4125Z",
+      "N408JC",
+      "H4125-703"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log from January 1992. It contains handwritten entries detailing flight information, including dates, aircraft make and model, identification marks, departure and arrival points, miles flown, flight numbers, and remarks. The log also includes a certification statement signed by the pilot, Carl Rodgers."
+}

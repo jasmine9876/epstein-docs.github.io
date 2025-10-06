@@ -1,0 +1,67 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00016021",
+    "date": null,
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... DEC 2003 24 B-727-31H N908JC CMH TEST 237 JE,SK 3 7 22 \" \" \" TEST PBI 236 JE,SK,NIX LABRO CH,RE,RB, Tom Paythe 2 7 23 \" \" \" PBI JFK 239 JE,SK 2 4 25 \" \" \" JFK PBI 2410 JEB,TB,AM,GW,GM,AM 2 5 OCT 4 G-1159B N909JC MIV JFK 1678 JE MORGAN 1 8 7 \" \" \" JFK CMH 1678 JE,SK 1 5 7 \" \" \" CMH PBI 1683 JE,SK 2 3 9 \" \" \" PBI TEST 1683 JE,SK,TD GARY REXROADS 2 4 15 \" \" \" TEST TCB 1682 JE,AM,TD,KENNETH BURNS 4 5 19 \" \" \" TCB TEST 1683 JE,GM,SK 3 9 24 \" \" \" TEST PBI 1684 JE,GM,BT STEVE LISJCR 2 7 26 \" \" \" PBI TEST 1685 JE,BT,GM GARY FOWLER 2 3 2004 JAN 2 \" \" \" TEST PBI 1684 JE,BT,GM JEAN LUC DUBRUL 1 7 2 7 3 \" \" \" PBI ESM 1687 JE,GM JEAN LUC DUBRUL CVA AMHERSTON, LV 7 3 \" \" \" ISM PBI 1688 JE,CD,JD,GM,GP, BILUC 7 5 \" \" \" PBI TCB 1689 JE,BT,JLB,SK, 2 5 8 \" \" \" TCB PBI 1690 JE,BT,JLB,SK LV 2 6 12 B-727-31H N908JC PBI JFK 2411 JE,BT TEALTA DRURY SK LV 2 4 15 \" \" \" JFK PBI 242 JE,SK,TD LV 2 5 I certify that the statements made by me on this form are true. Pilot's Signature Daniel Rodger Page Total 10 6 458 Amount Forward 6774 92857 331250 Total to Date 6744 93315 331250",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "DEC 2003 24 B-727-31H N908JC CMH TEST 237 JE,SK 3 7 ...",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature Daniel Rodger",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Daniel Rodger",
+      "Tom Paythe",
+      "Gary Rexroads",
+      "Kenneth Burns",
+      "Steve Lisjcr",
+      "Gary Fowler",
+      "Jean Luc Dubrul",
+      "Tealta Drury"
+    ],
+    "organizations": [],
+    "locations": [
+      "CMH",
+      "PBI",
+      "JFK",
+      "MIV",
+      "TCB",
+      "ESM",
+      "ISM",
+      "TBB"
+    ],
+    "dates": [
+      "DEC 2003",
+      "OCT 4",
+      "2004 JAN 2"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00016021",
+      "N908JC",
+      "N909JC"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries and a signature at the bottom. Some information in the 'Remarks, Procedures, Maneuvers, Endorsements' column is redacted."
+}

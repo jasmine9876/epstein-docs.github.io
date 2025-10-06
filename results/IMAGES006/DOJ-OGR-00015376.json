@@ -1,0 +1,83 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "4-494-19676",
+    "date": "Nov 25, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx\nInvoice Number: 4-494-19676\nInvoice Date: Nov 25, 2002\nAccount Number: 1144-2081-6\nPage: 4 of 10\nFedEx Express Shipment Detail By Payment Type (Original)\nDropped off: Nov 09, 2002\nPayor: Shipper\nReference: NO REFERENCE INFORMATION\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 7\nPackage sent from: 87505 zip code\nFedEx has audited this shipment for correct packages, weight, and service. Any changes made are reflected in the invoice amount.\nTracking D 827487048430\nService Type FedEx Priority Overnight\nPackage Type FedEx Envelope\nZone 7\nPackages 1\nWeight 0\nDelivered Nov 11, 2002 09 09\nSvc Area A1\nSigned by W.DOULIN\nFedEx Use 316146400/00241_/\nSender\nKATE\nJEFFREY E EPSTEIN\n457 MADISON AVE\nNEW YORK NY 10022-6843 US\nRecipient\nG MAXWELL\nEPSTEIN # COMPANY\n457 MADISON AVE\nNEW YORK NY 10022 US\nTransportation Charge 16.75\nDiscount -2.68\nFuel Surcharge 0.56\nTotal Transportation Charges USD $ 14.63\nPicked up: Nov 11, 2002\nPayor: Shipper\nReference: NO REFERENCE INFORMATION\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 6\nTracking D 837169384315\nService Type FedEx Priority Overnight\nPackage Type FedEx Envelope\nZone 6\nPackages 1\nWeight 1.0 lbs, 0.5 kgs\nDelivered Nov 12, 2002 09:13\nSvc Area AA\nSigned by M BROWN\nFedEx Use 323103920/00230_/\nSender\nBELLA\nJEFFREY E EPSTEIN\n457 MADISON AVE\nNEW YORK NY 10022-6843 US\nRecipient\nDOTT E WESON\nCOLONIAL BANK\n\nTransportation Charge 16.00\nDiscount -2.56\nFuel Surcharge 0.54\nTotal Transportation Charges USD $ 13.98\nDropped off: Nov 13, 2002\nPayor: Shipper\nReference: NO REFERENCE INFORMATION\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 6\nPackage sent from: 33406 zip code\nTracking D 830725695953\nService Type FedEx First Overnight\nPackage Type FedEx Envelope\nZone 6\nPackages 1\nWeight 1.0 lbs, 0.5 kgs\nDelivered Nov 14, 2002 07:45\nSvc Area A1\nSigned by S.GR FFS\nFedEx Use 319066460/00007_/\nSender\nLARRY MORRISON\nJEFFREY E EPSTEIN\n457 MADISON AVE\nNEW YORK NY 10022-6843 US\nRecipient\nHELEN\nNY STRATEGY GROUP\n\nTransportation Charge 41.00\nFuel Surcharge 1.64\nTotal Transportation Charges USD $ 42.64\nCONFIDENTIAL\nSDNY_GM_00340736 67\nDOJ-OGR-00015376",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx\nInvoice Number: 4-494-19676\nInvoice Date: Nov 25, 2002\nAccount Number: 1144-2081-6\nPage: 4 of 10",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Dropped off: Nov 09, 2002\nPayor: Shipper\nReference: NO REFERENCE INFORMATION",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Fuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 7\nPackage sent from: 87505 zip code\nFedEx has audited this shipment for correct packages, weight, and service. Any changes made are reflected in the invoice amount.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "KATE",
+      "JEFFREY E EPSTEIN",
+      "G MAXWELL",
+      "BELLA",
+      "DOTT E WESON",
+      "LARRY MORRISON",
+      "HELEN",
+      "W.DOULIN",
+      "M BROWN",
+      "S.GR FFS"
+    ],
+    "organizations": [
+      "FedEx",
+      "EPSTEIN # COMPANY",
+      "COLONIAL BANK",
+      "NY STRATEGY GROUP"
+    ],
+    "locations": [
+      "NEW YORK",
+      "457 MADISON AVE",
+      "NEW YORK NY 10022-6843 US",
+      "NEW YORK NY 10022 US"
+    ],
+    "dates": [
+      "Nov 09, 2002",
+      "Nov 11, 2002",
+      "Nov 12, 2002",
+      "Nov 13, 2002",
+      "Nov 14, 2002",
+      "Nov 25, 2002"
+    ],
+    "reference_numbers": [
+      "4-494-19676",
+      "1144-2081-6",
+      "827487048430",
+      "837169384315",
+      "830725695953",
+      "316146400/00241_/",
+      "323103920/00230_/",
+      "319066460/00007_/"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx invoice with multiple shipment details. The document is marked as 'CONFIDENTIAL' at the bottom."
+}

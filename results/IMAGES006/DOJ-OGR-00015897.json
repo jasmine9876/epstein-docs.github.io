@@ -1,0 +1,71 @@
+{
+  "document_metadata": {
+    "page_number": "100",
+    "document_number": "DOJ-OGR-00015897",
+    "date": "2003",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... 19 FEB 2003 B-727-31H N908JC MRY ABQ 184 1 8 4 4 \" 11 ABQ JFK 185 3 5 5 \" 11 JFK PBI 186 2 8 12 B-727-25 N908JC FROM SIMULATOR MIA LCL 2 5 \" \" 11 \" \" 2 5 13 \" \" 11 \" \" 2 5 13 \" \" 11 \" \" 2 5 17 G-1159B N989JC PBI TEB 2 4 19 \" \" TEB BED V1 1 0 19 \" \" BED TEB 1 1 20 \" \" TEB PBI 2 8 21 \" \" PBI MYNN 1 0 23 \" \" MYNN PBI 8 25 B-727-31H N908JC PBI JFK 157 2 5 27 \" \" JFK TIST 130 3 3 MAR 2 \" \" TIST SBGR 184 6 4 5 \" \" SBGR GVAC 190 6 2 6 \" \" GVAC LFPB 191 5 2 10 \" \" LFPB CYQX 192 5 4 I certify that the statements made by me on this form are true. Pilot's Signature David Lodefus Page Total 733 56 2 Amount Forward 6690 6335 4015 2 3 3 113 1 Total to Date 6483 6338 9071 4 3 3 113 1",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "19 FEB 2003 B-727-31H N908JC MRY ABQ 184 1 8 4 4 \" 11 ABQ JFK 185 3 5 5 \" 11 JFK PBI 186 2 8 12 B-727-25 N908JC FROM SIMULATOR MIA LCL 2 5 \" \" 11 \" \" 2 5 13 \" \" 11 \" \" 2 5 13 \" \" 11 \" \" 2 5 17 G-1159B N989JC PBI TEB 2 4 19 \" \" TEB BED V1 1 0 19 \" \" BED TEB 1 1 20 \" \" TEB PBI 2 8 21 \" \" PBI MYNN 1 0 23 \" \" MYNN PBI 8 25 B-727-31H N908JC PBI JFK 157 2 5 27 \" \" JFK TIST 130 3 3 MAR 2 \" \" TIST SBGR 184 6 4 5 \" \" SBGR GVAC 190 6 2 6 \" \" GVAC LFPB 191 5 2 10 \" \" LFPB CYQX 192 5 4",
+      "position": "main"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David Lodefus",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "733 56 2 6690 6335 4015 2 3 3 113 1 6483 6338 9071 4 3 3 113 1",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Lodefus"
+    ],
+    "organizations": [],
+    "locations": [
+      "MRY",
+      "ABQ",
+      "JFK",
+      "PBI",
+      "MIA",
+      "LCL",
+      "TEB",
+      "BED",
+      "MYNN",
+      "PBI",
+      "TIST",
+      "SBGR",
+      "GVAC",
+      "LFPB",
+      "CYQX"
+    ],
+    "dates": [
+      "19 FEB 2003",
+      "MAR 2"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00015897",
+      "N908JC",
+      "N989JC"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The page number is 100, and the document number is DOJ-OGR-00015897. The log covers flights in February and March 2003."
+}

@@ -1,0 +1,68 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00015513",
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "IMPORTANT MESSAGE FOR MR EPSTEIN DATE 7.9.2004 TIME 1.30 A.M. P.M. M. SCHANZ OF PHONE/ MOBILE 516 791 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE CALLED SIGNED IMPORTANT MESSAGE FOR MR EPSTEIN DATE TIME 6.45 A.M. P.M. M. IVAN ROSH OF PHONE/ MOBILE 914-393 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED IMPORTANT MESSAGE FOR SARAH DATE 7/9/04 TIME 10.36 A.M. P.M. M. LESLIE (NY OFFICE) OF PHONE/ MOBILE 203 972 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SHE IS WORKING FROM HOME TODAY PL CALL THE ABOVE # ASAP SIGNED IMPORTANT MESSAGE FOR MR. EPSTEIN DATE TIME 6.35 A.M. P.M. MS MAXWELL OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE PLEASE CALL WHEN POSSIBLE SIGNED GOVERNMENT EXHIBIT 3-K-R 52 20 Cr. 330 (AJN)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "MR EPSTEIN 7.9.2004 1.30 A.M. P.M. SCHANZ 516 791 CALLED",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "MR EPSTEIN 6.45 A.M. P.M. IVAN ROSH 914-393",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "SARAH 7/9/04 10.36 A.M. P.M. LESLIE (NY OFFICE) 203 972 SHE IS WORKING FROM HOME TODAY PL CALL THE ABOVE # ASAP",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "MR. EPSTEIN TIME 6.35 A.M. P.M. MS MAXWELL PLEASE CALL WHEN POSSIBLE",
+      "position": "bottom"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 3-K-R 52 20 Cr. 330 (AJN)",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "MR EPSTEIN",
+      "SCHANZ",
+      "IVAN ROSH",
+      "SARAH",
+      "LESLIE",
+      "MS MAXWELL"
+    ],
+    "organizations": [],
+    "locations": [
+      "NY OFFICE"
+    ],
+    "dates": [
+      "7.9.2004",
+      "7/9/04"
+    ],
+    "reference_numbers": [
+      "516 791",
+      "914-393",
+      "203 972",
+      "DOJ-OGR-00015513"
+    ]
+  },
+  "additional_notes": "The document appears to be a set of four 'Important Message' forms, likely used for recording phone calls or messages. The forms are filled out with handwritten notes and contain various phone numbers and names. The document is stamped as a 'GOVERNMENT EXHIBIT' with a reference number."
+}

@@ -1,0 +1,77 @@
+{
+  "document_metadata": {
+    "page_number": "7 of 9",
+    "document_number": "4-495-45970",
+    "date": "Dec 16, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\n\nInvoice Number: 4-495-45970\nInvoice Date: Dec 16, 2002\nAccount Number: 1144-2081-6\nPage: 7 of 9\n\nPicked up: Dec 10, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\n\nTracking D 791992729236 Sender CECILIA STEEN Recipient JEFFREY EPSTEIN\nService Type FedEx Intl Priority JEFFREY E. EPSTE N C/O AMERICAN YACHT HARBOR\nPackage Type Customer Packaging 457 MADISON AVENUE 6100 RED HOOK, QUARTERS B-3\nZone I 4TH FLOOR ST. THOMAS 00802 VI\nOrig./Dest. JRB/STT NEW YORK NY 10022 US\nPackages 1\nWeight 3.0 lbs, 1.4 kgs\nDelivered Dec 11, 2002 17 37 Transportation Charge 58.33\nSigned by L.MORRELL Fuel Surcharge 2.26\nFedEx Use _/US01O/_ Discount -1.75\n\nTotal Transportation Charges USD $ 58.84\n\nPicked up: Dec 10, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\n\nTracking D 828821138230 Sender A MITRORICH Recipient G MAXWELL\nService Type FedEx Intl Priority JEFFREY E EPSTEIN FINANCIAL TRUST CO\nPackage Type Customer Packaging 457 MADISON AVE CALLE REA HOCK QUAITERS\nZone I NEW YORK NY 10022-6843 US STE B-3 ST THOMAS 00802 VI\nOrig./Dest. FLU/STT\nPackages 2\nWeight 20.0 lbs, 9.1 kgs\nDelivered Dec 11, 2002 17 37 Transportation Charge 142.93\nSigned by L.MORRELL Fuel Surcharge 5.55\nFedEx Use _/US01O/_ Discount -4.29\n\nTotal Transportation Charges USD $ 144.19\n\nPicked up: Dec 10, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\n\nTracking D 828821139718 Sender G MAXWELL Recipient CHRISTINE MAXWELL\nService Type FedEx Intl Priority JEFFREY E EPSTEIN\nPackage Type Customer Packaging 457 MADISON AVE\nZone D NEW YORK NY 10022-6843 US\nOrig./Dest. FLU/MRS\nPackages 1\nWeight 5.0 lbs, 2.3 kgs\nDelivered Dec 12, 2002 11 30 Transportation Charge 77.12\nSigned by . MAXWELL Fuel Surcharge 2.99\nFedEx Use _/US01O/_ Discount -2.31\n\nTotal Transportation Charges USD $ 77.80\n\nCONFIDENTIAL\nSDNY_GM_00340801 140\nDOJ-OGR-00015449",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Number: 4-495-45970\nInvoice Date: Dec 16, 2002\nAccount Number: 1144-2081-6\nPage: 7 of 9",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "SDNY_GM_00340801 140\nDOJ-OGR-00015449",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "CECILIA STEEN",
+      "JEFFREY EPSTEIN",
+      "JEFFREY E. EPSTE N",
+      "L.MORRELL",
+      "A MITRORICH",
+      "G MAXWELL",
+      "JEFFREY E EPSTEIN",
+      ". MAXWELL",
+      "CHRISTINE MAXWELL"
+    ],
+    "organizations": [
+      "FedEx",
+      "AMERICAN YACHT HARBOR",
+      "FINANCIAL TRUST CO"
+    ],
+    "locations": [
+      "NEW YORK",
+      "ST. THOMAS",
+      "JRB",
+      "STT",
+      "FLU",
+      "MRS",
+      "NY 10022",
+      "VI 00802"
+    ],
+    "dates": [
+      "Dec 10, 2002",
+      "Dec 11, 2002",
+      "Dec 12, 2002",
+      "Dec 16, 2002"
+    ],
+    "reference_numbers": [
+      "4-495-45970",
+      "1144-2081-6",
+      "791992729236",
+      "828821138230",
+      "828821139718",
+      "SDNY_GM_00340801",
+      "DOJ-OGR-00015449"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx shipment detail report, containing information about three separate shipments. The report includes details such as tracking numbers, sender and recipient names and addresses, package weights, and transportation charges. The document is marked as 'CONFIDENTIAL' and contains a footer with reference numbers."
+}

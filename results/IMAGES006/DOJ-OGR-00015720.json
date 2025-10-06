@@ -1,0 +1,72 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "JPM-SDNY-00065489",
+    "date": "2/9",
+    "document_type": "Application: Asset Account",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "The Morgan Account Application: Asset Account JPMorgan J.P. MORGAN USE ONLY US902 2/99 Title Financial Trust Company, Inc. SPN 2811134 Asset Acct No. 5001 A SWEEP OPTIONS SWEEP OPTIONS (PLEASE SELECT ONE): J.P. Morgan Deposit Account (Only for Natural Persons or Not for Profit) J.P. Morgan Prime Money Market Sweep Fund J.P. Morgan Tax Exempt Money Market Sweep Fund J.P. Morgan Federal Money Market Sweep Fund American Century California Tax-Free Money Market Sweep Fund (For California Residents ONLY) B LINE OF CREDIT I HEREBY APPLY FOR A LINE OF CREDIT SECURED BY MY ASSET ACCOUNT UNLESS I CHECK THE BOX BELOW (CREDIT IS NOT AVAILABLE FOR IRAS): No, I do not request a Line of Credit. PLEASE SELECT A PRINCIPAL REPAYMENT OPTION FOR THE LINE OF CREDIT: Pay in full each day to the extent that funds are available in my Asset Account. Pay in full monthly on last business day to the extent funds are available in my Asset Account. Pay at my request. (In any event, all outstanding advances under my Line of Credit are payable upon demand.) C CHECKS PLEASE COMPLETE THIS SECTION FOR ASSET ACCOUNT CHECKS (CHECKS ARE NOT AVAILABLE FOR IRAS): Check Style: Newport Desk Book Personal Wallet Computer Checks Checks will be imprinted with Title of Account as it appears on the first page of this Application. Please include my address as it appears on the first page of this Application. Alternate Check Delivery Address: Name Company Address City State Zip Country Custody for the Asset Account is with Morgan Guaranty Trust Company of New York The Asset Account Line of Credit and cash deposits are with Morgan Guaranty Trust Company of New York. Confidential Treatment Requested by JPMorgan Chase JPM-SDNY-00065489 DOJ-OGR-00015720 902",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "The Morgan Account Application: Asset Account",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "J.P. MORGAN USE ONLY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "SWEEP OPTIONS",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "LINE OF CREDIT",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CHECKS",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Custody for the Asset Account is with Morgan Guaranty Trust Company of New York The Asset Account Line of Credit and cash deposits are with Morgan Guaranty Trust Company of New York.",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Confidential Treatment Requested by JPMorgan Chase",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "J.P. Morgan",
+      "Financial Trust Company, Inc.",
+      "Morgan Guaranty Trust Company of New York",
+      "JPMorgan Chase",
+      "American Century"
+    ],
+    "locations": [
+      "California",
+      "New York"
+    ],
+    "dates": [
+      "2/9"
+    ],
+    "reference_numbers": [
+      "2811134",
+      "5001",
+      "JPM-SDNY-00065489",
+      "DOJ-OGR-00015720"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned application form for an asset account with J.P. Morgan. The form includes various sections for sweep options, line of credit, and checks. Some fields are filled in, while others are blank. The document is generally clear and legible."
+}

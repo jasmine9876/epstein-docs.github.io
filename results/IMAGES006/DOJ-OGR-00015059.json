@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "795",
+    "date": "07/25/25",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 795 Filed 07/25/25 Page 2 of 4 ATTACHMENT 1 DOJ-OGR-00015059",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 795 Filed 07/25/25 Page 2 of 4",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "ATTACHMENT 1",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015059",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "07/25/25"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "795",
+      "DOJ-OGR-00015059"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a case number and document number. The content is minimal, with only a title 'ATTACHMENT 1' and a reference number 'DOJ-OGR-00015059'."
+}

@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": "215",
+    "document_number": "761",
+    "date": "08/10/22",
+    "document_type": "court transcript",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 761 Filed 08/10/22 Page 215 of 246 LGCmax6 Aznaran - direct 1 A. So ARRLOC, arrival location. That is the location, on the first page anyway, all the airports that the flight is going to be arriving or landing at. And to the right of that, DEPLOC is departure location. That is the airport where the flight is departing from. 6 Q. So let's just take one example, the first example on page 1. That reflects a flight that Jane took from CDG to LAX; right? 8 A. Yes. 10 Q. Do you know what CDG is? 11 A. Is Paris, Charles de Gaulle. 12 Q. And LAX is what? 13 A. Los Angeles International. 14 Q. And was that an incoming or outgoing flight? 15 A. That would be incoming. It departed from Paris and it landed at LAX, or Los Angeles. 17 Q. And you know the incoming from the I in the I/O category? 18 A. Yes, also Paris to Los Angeles. So that would be an incoming. 20 Q. And the date and time reflected there is 7/25/2004; right? 21 A. Yes. 22 Q. So what does that date reflect? 23 A. That is the date that that passenger arrived into the United States and was processed. 25 Q. And the time? SOUTHERN DISTRICT REPORTERS, P.C. (212) 805-0300 DOJ-OGR-00016698",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 761 Filed 08/10/22 Page 215 of 246 LGCmax6 Aznaran - direct",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "1 A. So ARRLOC, arrival location. That is the location, on the first page anyway, all the airports that the flight is going to be arriving or landing at. And to the right of that, DEPLOC is departure location. That is the airport where the flight is departing from. 6 Q. So let's just take one example, the first example on page 1. That reflects a flight that Jane took from CDG to LAX; right? 8 A. Yes. 10 Q. Do you know what CDG is? 11 A. Is Paris, Charles de Gaulle. 12 Q. And LAX is what? 13 A. Los Angeles International. 14 Q. And was that an incoming or outgoing flight? 15 A. That would be incoming. It departed from Paris and it landed at LAX, or Los Angeles. 17 Q. And you know the incoming from the I in the I/O category? 18 A. Yes, also Paris to Los Angeles. So that would be an incoming. 20 Q. And the date and time reflected there is 7/25/2004; right? 21 A. Yes. 22 Q. So what does that date reflect? 23 A. That is the date that that passenger arrived into the United States and was processed. 25 Q. And the time?",
+      "position": "main"
+    },
+    {
+      "type": "printed",
+      "content": "SOUTHERN DISTRICT REPORTERS, P.C. (212) 805-0300",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00016698",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jane"
+    ],
+    "organizations": [
+      "SOUTHERN DISTRICT REPORTERS, P.C."
+    ],
+    "locations": [
+      "Paris",
+      "Los Angeles",
+      "United States",
+      "Charles de Gaulle"
+    ],
+    "dates": [
+      "7/25/2004",
+      "08/10/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "761",
+      "DOJ-OGR-00016698"
+    ]
+  },
+  "additional_notes": "The document appears to be a court transcript with a clear and legible format. There are no visible redactions or damage."
+}

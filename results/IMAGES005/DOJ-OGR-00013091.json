@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": "78",
+    "document_number": "753",
+    "date": "08/10/22",
+    "document_type": "court transcript",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 753 Filed 08/10/22 Page 78 of 264 1504 LC7Cmax2 Flatley - cross 1 Q. Which was running off of the image of the clone of something; right? 2 A. Yes, ma'am. 3 Q. And so, you don't know whether it was an easy-to-remember 4 password or whether the computer actually just had the password 5 on a Post-it next to it; right? 6 A. I have no idea. 7 Q. So when you were looking at these documents, these Word 8 documents, you talked about the created date; right? 9 A. Yes, ma'am. 10 Q. And that, as we just discussed, was something that was 11 populated by the computer system; right? 12 A. Correct. 13 Q. And you didn't then go out and look at that created date to 14 see where any particular person was at that point in time; 15 correct? 16 A. No, ma'am. 17 Q. So if, for example, Government Exhibit 418 had some 18 metadata associated with it in 418B -- could we pull that up, 19 418B. You see that; correct? 20 A. Yes, ma'am. 21 Q. And that tells you that the document was created on January 22 29th, 2002; right? 23 A. Yes, ma'am. 24 Q. And it was only edited and so forth on that day, no other 25 SOUTHERN DISTRICT REPORTERS, P.C. (212) 805-0300 DOJ-OGR-00013091",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 753 Filed 08/10/22 Page 78 of 264 1504",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "LC7Cmax2 Flatley - cross",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "1 Q. Which was running off of the image of the clone of something; right? 2 A. Yes, ma'am. 3 Q. And so, you don't know whether it was an easy-to-remember 4 password or whether the computer actually just had the password 5 on a Post-it next to it; right? 6 A. I have no idea. 7 Q. So when you were looking at these documents, these Word 8 documents, you talked about the created date; right? 9 A. Yes, ma'am. 10 Q. And that, as we just discussed, was something that was 11 populated by the computer system; right? 12 A. Correct. 13 Q. And you didn't then go out and look at that created date to 14 see where any particular person was at that point in time; 15 correct? 16 A. No, ma'am. 17 Q. So if, for example, Government Exhibit 418 had some 18 metadata associated with it in 418B -- could we pull that up, 19 418B. You see that; correct? 20 A. Yes, ma'am. 21 Q. And that tells you that the document was created on January 22 29th, 2002; right? 23 A. Yes, ma'am. 24 Q. And it was only edited and so forth on that day, no other 25",
+      "position": "main"
+    },
+    {
+      "type": "printed",
+      "content": "SOUTHERN DISTRICT REPORTERS, P.C. (212) 805-0300",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00013091",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "SOUTHERN DISTRICT REPORTERS, P.C."
+    ],
+    "locations": [],
+    "dates": [
+      "08/10/22",
+      "January 29th, 2002"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "753",
+      "418",
+      "418B",
+      "DOJ-OGR-00013091"
+    ]
+  },
+  "additional_notes": "The document appears to be a court transcript with a clear and readable format. There are no visible redactions or damage."
+}

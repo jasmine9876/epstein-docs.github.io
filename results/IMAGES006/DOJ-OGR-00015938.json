@@ -1,0 +1,77 @@
+{
+  "document_metadata": {
+    "page_number": "23",
+    "document_number": "DOJ-OGR-00015938",
+    "date": "1943 SEP",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE | AIRCRAFT MAKE AND MODEL | AIRCRAFT IDENTIFICATION MARK | POINTS OF DEPARTURE & ARRIVAL | MILES FLOWN | FLT. NO. | REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS | NO. LDG. | AIRCRAFT CATEGORY 1943 SEP 18 | HS125700 | N9055M | ATL | NEW | 312 | 3 | SE(R), G(C), RWY MSLM, RWY BOTTOM, RW BARN | 1 | 10 | 10 | 1 18 | \" | \" | NCW | CMH | 343 | 3 | SE(R), G(B), RWY BOTTOM, RW BARN, RWY MSLM, RWY ALIGNED, RWY PROJECTION | 1 | 9 | 9 | 1 19 | \" | \" | CMH | TVC | 344 | 3 | SE(R), G(C), RWY MSLM, RWY ALIGNED, RUPS, RWY BARN |  | 6 | 6 | 1 19 | \" | \" | TVC | TCB | 345 | 3 | SE(R), RUPS, RWY BARN, G(C), RWY MSLM | 1 | 14 | 14 | 1 22 | \" | \" | TCB | MMGT | 346 | 3 | SE(R), G(C), RWY MSLM | 1/1 | 44 | 44 | 4 23 | \" | \" | MMGT | CLP | 347 | 3 | SE(R), G(C), RWY MSLM, RWY BARN, JLN STEPS, RWY ALIGNED | 1/1 | 20 | 20 | 2 23 | \" | \" | CLP | SAF | 348 | 3 | SE(R), G(C), RWY MSLM, RWY BARN, JLN STEPS, RWY ALIGNED | 1/1 | 8 | 8 | 1 24 | \" | \" | SAF | RIL | 349 | 3 | SE(R), G(C), RWY MSLM, RWY BARN, JLN STEPS, RWY ALIGNED | 1/1 | 8 | 8 | 1 24 | \" | \" | RIL | CMH | 400 |  | No procedures | 1/1 | 25 | 25 | 2 26 | \" | \" | CMH | TCB | 401 | 3 | SE(R), G(C), RWY MSLM, RWY BARN | 1/1 | 11 | 11 | 1 28 | \" | \" | TCB | BOS | 402 | 3 | SE(R), RWY BARN | 1/1 | 7 | 7 | 1 29 | \" | \" | BOS | DCA | 403 | 3 | SE(R) | 1/1 | 15 | 15 | 1 29 | \" | \" | DCA | TCB | 404 | 3 | SE(R), G(C), RWY MSLM |  | 6 | 6 | 1 30 | \" | \" | TCB | PBI | 405 | 3 | SE(R), G(C), RWY MSLM, RWY BARN, RWY ALIGNED, RWY PROJECTION |  | 23 | 23 | 2 14 | \" | Simulator | ILC | ILC |  |  | SOPH, RWY MSLM, RWY BARN, RWY ALIGNED, RWY PROJECTION |  | 18 | 18 | 1 15 | \" | \" | ILC | DCA |  |  | SOPH, RWY MSLM, RWY BARN, RWY ALIGNED, RWY PROJECTION |  | 17 | 17 | 1 16 | \" | \" | DCA | ILC |  |  | VFR, RWY MSLM, RWY BARN, RWY ALIGNED, RWY PROJECTION |  | 19 | 19 | 1 03 | \" | N903JM | PBI | TCB | 406 | 3 | SE(R), G(C), DD, MG, RUPS, RWY BARN | 1 female | 25 | 25 | 2 I certify that the statements made by me on this form are true. PILOT'S SIGNATURE David Rodge PAGE TOTAL 134 | 304 | 304 | 30 AMT. FORWARD 3507 | 5464 | 4332 | 2324 TOTAL TO DATE 3653 | 5994 | 4363 | 2354",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE | AIRCRAFT MAKE AND MODEL | AIRCRAFT IDENTIFICATION MARK | POINTS OF DEPARTURE & ARRIVAL | MILES FLOWN | FLT. NO. | REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS | NO. LDG. | AIRCRAFT CATEGORY",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "1943 SEP 18 | HS125700 | N9055M | ATL | NEW | 312 | 3 | SE(R), G(C), RWY MSLM, RWY BOTTOM, RW BARN | 1 | 10 | 10 | 1",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. PILOT'S SIGNATURE David Rodge",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE TOTAL 134 | 304 | 304 | 30 AMT. FORWARD 3507 | 5464 | 4332 | 2324 TOTAL TO DATE 3653 | 5994 | 4363 | 2354",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rodge"
+    ],
+    "organizations": [],
+    "locations": [
+      "ATL",
+      "NEW",
+      "NCW",
+      "CMH",
+      "TVC",
+      "TCB",
+      "MMGT",
+      "CLP",
+      "SAF",
+      "RIL",
+      "BOS",
+      "DCA",
+      "PBI",
+      "ILC"
+    ],
+    "dates": [
+      "1943 SEP 18",
+      "1943 SEP 19",
+      "1943 SEP 22",
+      "1943 SEP 23",
+      "1943 SEP 24",
+      "1943 SEP 26",
+      "1943 SEP 28",
+      "1943 SEP 29",
+      "1943 SEP 30",
+      "1943 OCT 14",
+      "1943 OCT 15",
+      "1943 OCT 16",
+      "1943 OCT 03"
+    ],
+    "reference_numbers": [
+      "HS125700",
+      "N9055M",
+      "N903JM",
+      "DOJ-OGR-00015938"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log from September 1943. It contains handwritten entries detailing flight information, including dates, aircraft details, departure and arrival points, miles flown, flight numbers, remarks, and aircraft categories. The log is signed by the pilot, David Rodge."
+}

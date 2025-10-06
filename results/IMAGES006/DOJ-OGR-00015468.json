@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00015468",
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "IMPORTANT MESSAGE FOR J. E. DATE 2/16/05 TIME 4:35 A.M. DOJ REDACTION M OF 561-5194 PHONE/ 561-351 MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE no message SIGNED J. 1184 IMPORTANT MESSAGE FOR J. E. DATE 2/15/05 TIME 12:35 A.M. DOJ REDACTION M OF 561-856 PHONE/ MOBILE TELEPHONED X PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED J. B. 1184 IMPORTANT MESSAGE FOR Jeffie DATE 02/15/05 TIME 06:20 A.M. M Cecila OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE She had Jeff Holman on the phone SIGNED 1184 IMPORTANT MESSAGE FOR Jeff DATE TIME 5:35 A.M. M Seth Goldsmith OF PHONE/ 840 MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE GOVERNMENT EXHIBIT 1-O-R S2 20 Cr. 330 (AJN) DOJ-OGR-00015468",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "J. E. 2/16/05 4:35 no message J.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "J. E. 2/15/05 12:35 J. B.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffie 02/15/05 06:20 Cecila She had Jeff Holman on the phone",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeff 5:35 Seth Goldsmith 840",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 1-O-R S2 20 Cr. 330 (AJN) DOJ-OGR-00015468",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "J. E.",
+      "Jeffie",
+      "Cecila",
+      "Jeff",
+      "Seth Goldsmith",
+      "J.",
+      "J. B."
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "2/16/05",
+      "2/15/05",
+      "02/15/05"
+    ],
+    "reference_numbers": [
+      "561-5194",
+      "561-351",
+      "561-856",
+      "840",
+      "DOJ-OGR-00015468",
+      "S2 20 Cr. 330 (AJN)"
+    ]
+  },
+  "additional_notes": "The document contains four 'Important Message' forms with handwritten notes and redactions. The forms are related to phone calls and messages for various individuals. The document is stamped as a 'GOVERNMENT EXHIBIT' with a reference number."
+}

@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00015523",
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "IMPORTANT MESSAGE FOR: Jeffry DATE: 01/24/05 TIME: 11:00 A.M. M: Ghislaine OF: PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE: Please call her back SIGNED: IMPORTANT MESSAGE FOR: Jeffry DATE: 1/24/05 TIME: 4:22 P.M. M: Carla OF: PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE: he has called SIGNED: AU IMPORTANT MESSAGE FOR: DA TIME: 11:10 A.M. M: OF: PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE: Going into class - will be out in 45 min. SIGNED: IMPORTANT MESSAGE FOR: Jeff DATE: TIME: 11:00 A.M. M: Kaufman OF: PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE: SIGNED: GOVERNMENT EXHIBIT 3-U-R S2 20 Cr. 330 (AJN) DOJ-OGR-00015523",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffry 01/24/05 11:00 A.M. Ghislaine Please call her back",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffry 1/24/05 4:22 P.M. Carla he has called AU",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "DA 11:10 A.M. Going into class - will be out in 45 min.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeff Kaufman 11:00 A.M.",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 3-U-R S2 20 Cr. 330 (AJN) DOJ-OGR-00015523",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffry",
+      "Ghislaine",
+      "Carla",
+      "DA",
+      "Jeff",
+      "Kaufman",
+      "AU"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "01/24/05",
+      "1/24/05"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00015523",
+      "S2 20 Cr. 330 (AJN)"
+    ]
+  },
+  "additional_notes": "The document contains four 'Important Message' forms with handwritten notes and a government exhibit stamp. Some phone numbers and names are redacted."
+}

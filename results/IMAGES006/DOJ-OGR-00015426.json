@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "4 of 6",
+    "document_number": "7-153-86959",
+    "date": "Dec 13, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Invoice Number: 7-153-86959 Invoice Date: Dec 13, 2002 Account Number: 1144-2081-6 Page: 4 of 6 FedEx Express Shipment Detail By Payment Type (Original) Shipped: Dec 02, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION Tracking ID 830273245338 Sender E SIMMONDS JEFFREY E EPSTEIN 457 MADISON AVE NEW YORK NY 10022-6843 US Recipient K VAUCHAN EDWARDS Delivered: Dec 02, 2002 - Conversion Rate UKL USD 1.585585860 Transportation Charge 0.00 Total Transportation Charges USD $ 0.00 Original VAT UKL 27.75 44.00 Advancement Fee UKL 4.50 7.13 Total Duties, Tax, Customs, Other Fees USD $ 51.13 Shipment Total USD $ 51.13 Shipment Detail Subtotal USD $ 51.13 CONFIDENTIAL",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Invoice Number: 7-153-86959 Invoice Date: Dec 13, 2002 Account Number: 1144-2081-6 Page: 4 of 6",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Shipped: Dec 02, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Tracking ID 830273245338 Sender E SIMMONDS JEFFREY E EPSTEIN 457 MADISON AVE NEW YORK NY 10022-6843 US Recipient K VAUCHAN EDWARDS",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Delivered: Dec 02, 2002 - Conversion Rate UKL USD 1.585585860 Transportation Charge 0.00 Total Transportation Charges USD $ 0.00 Original VAT UKL 27.75 44.00 Advancement Fee UKL 4.50 7.13 Total Duties, Tax, Customs, Other Fees USD $ 51.13 Shipment Total USD $ 51.13 Shipment Detail Subtotal USD $ 51.13",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "E SIMMONDS",
+      "JEFFREY E EPSTEIN",
+      "K VAUCHAN EDWARDS"
+    ],
+    "organizations": [
+      "FedEx"
+    ],
+    "locations": [
+      "NEW YORK"
+    ],
+    "dates": [
+      "Dec 02, 2002",
+      "Dec 13, 2002",
+      "Dec 04, 2002"
+    ],
+    "reference_numbers": [
+      "7-153-86959",
+      "1144-2081-6",
+      "830273245338",
+      "HMC00000019032",
+      "DOJ-OGR-00015426",
+      "SDNY_GM_00342916"
+    ]
+  },
+  "additional_notes": "The document is a FedEx invoice with a 'CONFIDENTIAL' stamp at the bottom. The document appears to be a photocopy or scan of the original invoice."
+}

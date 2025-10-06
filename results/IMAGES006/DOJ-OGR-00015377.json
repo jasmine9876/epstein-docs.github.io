@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "5",
+    "document_number": "4-494-19676",
+    "date": "Nov 25, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\n\nPicked up: Nov 13, 2002    Payor: Shipper    Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 6\n\nTracking D 837169384326\nService Type FedEx Priority Overnight\nPackage Type FedEx Envelope\nZone 6\nPackages 1\nWeight 1.0 lbs, 0.5 kgs\nDelivered Nov 14, 200209:14\nSvc Area AA\nSigned by M.BROWN\nFedEx Use 323086930/00230_\n\nSender JEFFREY E EPSTEIN\n457 MADISON AVE\nNEW YORK NY 10022-6843 US\n\nRecipient DOTTIE WILSON\nPARM BECH NATIOAL BANK & TRUST\n\nTransportation Charge 16.00\nDiscount -2.56\nFuel Surcharge 0.54\nTotal Transportation Charges USD $ 13.98\n\nPicked up: Nov 14, 2002    Payor: Shipper    Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 7\nPackage sent from: 10021 zip code\n\nTracking D 837169384290\nService Type FedEx Priority Overnight\nPackage Type FedEx Envelope\nZone 7\nPackages 1\nWeight 1.0 lbs, 0.5 kgs\nDelivered Nov 15, 200209:57\nSvc Area A1\nSigned by D.CHAMBERLIN\nFedEx Use 323204030/00241_\n\nSender JEFFREY E EPSTEIN\n457 MADISON AVE\nNEW YORK NY 10022-6843 US\n\nRecipient MY TWIAN WORK SHOP\n\nTransportation Charge 16.75\nDiscount -2.68\nFuel Surcharge 0.56\nCourier Pickup Charge 0.00\nTotal Transportation Charges USD $ 14.63\n\nPicked up: Nov 15, 2002    Payor: Shipper    Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 2\n\nInternetShip\nTracking D 790141420562\nService Type FedEx Priority Overnight\nPackage Type FedEx Envelope\nZone 2\nPackages 1\nWeight 1.0 lbs, 0.5 kgs\nDelivered Nov 18, 200209:18\nSvc Area AA\nSigned by .GOLDMAN\nFedEx Use 523520904/00186_\n\nSender JEFFREY E EPSTEIN\n457 MADISON AVE\nNEW YORK NY 10022-6843 US\n\nRecipient FRANCES GOLDMAN\n\nTransportation Charge 13.10\nDiscount -2.10\nFuel Surcharge 0.44\nResidential Delivery 1.35\nTotal Transportation Charges USD $ 12.79\n\nCONFIDENTIAL\nSDNY_GM_00340737 68\nDOJ-OGR-00015377",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY E EPSTEIN",
+      "DOTTIE WILSON",
+      "M.BROWN",
+      "SARAH J KELLEN",
+      "D.CHAMBERLIN",
+      "CECILIA STEEN",
+      ".GOLDMAN",
+      "FRANCES GOLDMAN",
+      "MY TWIAN"
+    ],
+    "organizations": [
+      "FedEx",
+      "PARM BECH NATIOAL BANK & TRUST",
+      "MY TWIAN WORK SHOP"
+    ],
+    "locations": [
+      "NEW YORK",
+      "NY",
+      "10022-6843",
+      "US",
+      "457 MADISON AVE"
+    ],
+    "dates": [
+      "Nov 13, 2002",
+      "Nov 14, 2002",
+      "Nov 15, 2002",
+      "Nov 25, 2002",
+      "Nov 14, 200209:14",
+      "Nov 15, 200209:57",
+      "Nov 18, 200209:18"
+    ],
+    "reference_numbers": [
+      "4-494-19676",
+      "1144-2081-6",
+      "837169384326",
+      "323086930/00230_",
+      "837169384290",
+      "323204030/00241_",
+      "790141420562",
+      "523520904/00186_",
+      "SDNY_GM_00340737",
+      "DOJ-OGR-00015377"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx shipment detail report, containing information about three separate shipments made by Jeffrey E Epstein in November 2002. The document is marked 'CONFIDENTIAL' at the bottom."
+}

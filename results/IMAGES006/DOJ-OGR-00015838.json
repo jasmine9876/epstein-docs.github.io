@@ -1,0 +1,76 @@
+{
+  "document_metadata": {
+    "page_number": "41",
+    "document_number": "DOJ-OGR-00015838",
+    "date": "1956",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date 1956 APR Aircraft Make and Model G11-59B Aircraft Identification Mark N903JE Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... AERPLANE 22 PBI TCB 828 2 2 26 TCB PBI 829 2 3 29 PBI TCB 830 2 3 MAY 2 TCB EIDW 831 6 0 3 EIDW EIWF 832 5 3 EIWF LFPB 833 1 3 6 LFPB LSGG 834 1 7 6 LSGG EINN 835 1 8 6 EINN TCB 836 6 5 8 TCB MOLR 837 3 3 9 MOLR MBGT 838 7 9 MBGT PBI 839 1 5 13 PBI CMB 840 2 1 13 CMB PEB 841 1 1 17 TCB PBI 842 2 1 20 PBI TCB 843 2 2 22 TCB SAF 844 4 0 24 SAF PBI 845 3 1 27 PBI TCB 846 2 3 I certify that the statements made by me on this form are true. Pilot's Signature David Ridgway Page Total 1410 460 Amount Forward 583504 6556 Total to Date 584051 6702",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date 1956 APR Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "G11-59B N903JE",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "David Ridgway",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Ridgway"
+    ],
+    "organizations": [],
+    "locations": [
+      "PBI",
+      "TCB",
+      "EIDW",
+      "EIWF",
+      "LFPB",
+      "LSGG",
+      "EINN",
+      "MOLR",
+      "MBGT",
+      "CMB",
+      "PEB",
+      "SAF"
+    ],
+    "dates": [
+      "1956",
+      "APR 22",
+      "APR 26",
+      "APR 29",
+      "MAY 2",
+      "MAY 3",
+      "MAY 6",
+      "MAY 8",
+      "MAY 9",
+      "MAY 13",
+      "MAY 17",
+      "MAY 20",
+      "MAY 22",
+      "MAY 24",
+      "MAY 27"
+    ],
+    "reference_numbers": [
+      "N903JE",
+      "G11-59B",
+      "DOJ-OGR-00015838"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log from 1956. It contains handwritten entries for various flights, including dates, aircraft information, departure and arrival points, miles flown, and number of landings. The log is signed by the pilot, David Ridgway."
+}

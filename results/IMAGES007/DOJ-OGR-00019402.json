@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "60",
+    "date": "09/24/2020",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 20-3061, Document 60, 09/24/2020, 2938278, Page3 of 58\n\nAttachment A, United States v. Maxwell, No. 20-cr-330, ECF Dkt. 51, Order Denying Motion to Modify Protective Order\n\nAttachment B, Doe v. Indyke et al., No. 20-cv-00484, ECF Dkt. 81, 9/14/2020 Order Granting Motion to Stay.\n\nii\nDOJ-OGR-00019402",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 20-3061, Document 60, 09/24/2020, 2938278, Page3 of 58",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Attachment A, United States v. Maxwell, No. 20-cr-330, ECF Dkt. 51, Order Denying Motion to Modify Protective Order",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Attachment B, Doe v. Indyke et al., No. 20-cv-00484, ECF Dkt. 81, 9/14/2020 Order Granting Motion to Stay.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "ii",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00019402",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Maxwell",
+      "Indyke",
+      "Doe"
+    ],
+    "organizations": [
+      "United States Department of Justice"
+    ],
+    "locations": [],
+    "dates": [
+      "09/24/2020",
+      "9/14/2020"
+    ],
+    "reference_numbers": [
+      "20-3061",
+      "60",
+      "20-cr-330",
+      "51",
+      "20-cv-00484",
+      "81",
+      "2938278",
+      "DOJ-OGR-00019402"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with references to other court cases and documents. The text is mostly printed, with no visible handwriting or stamps. The document is likely a part of a larger legal proceeding."
+}

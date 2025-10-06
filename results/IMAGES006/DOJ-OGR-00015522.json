@@ -1,0 +1,79 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "GOVERNMENT EXHIBIT 3-T-R, 5220 Cr. 330 (AJN), DOJ-OGR-00015522",
+    "date": "01/20/05",
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "IMPORTANT MESSAGE FOR Jeffrey DATE 01/20/05 TIME 5:00 P.M. M Christine OF PHONE/MOBILE TELEPHONED RETURNED YOUR CALL PLEASE CALL SPECIAL ATTENTION MESSAGE SIGNED IMPORTANT MESSAGE FOR Sarah DATE 01/20/05 TIME 4:15 P.M. M GM OF PHONE/MOBILE TELEPHONED PLEASE CALL MESSAGE Call her at home SIGNED IMPORTANT MESSAGE FOR DOJ REDACTION DATE DOJ REDACTION TIME 8:30 A.M. M OF PHONE/MOBILE 917 330 TELEPHONED RETURNED YOUR CALL MESSAGE Wishing you a Happy Bday SIGNED IMPORTANT MESSAGE FOR DOJ REDACTION DATE DOJ REDACTION TIME 11:20 A.M. M OF PHONE/MOBILE 6667 TELEPHONED RETURNED YOUR CALL MESSAGE The girl who was referred to you by DOJ REDACTION that we sent home SIGNED GOVERNMENT EXHIBIT 3-T-R 5220 Cr. 330 (AJN) DOJ-OGR-00015522",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR Jeffrey DATE 01/20/05 TIME 5:00 P.M. M Christine OF PHONE/MOBILE TELEPHONED RETURNED YOUR CALL PLEASE CALL SPECIAL ATTENTION MESSAGE SIGNED",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR Sarah DATE 01/20/05 TIME 4:15 P.M. M GM OF PHONE/MOBILE TELEPHONED PLEASE CALL MESSAGE Call her at home SIGNED",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR DOJ REDACTION DATE DOJ REDACTION TIME 8:30 A.M. M OF PHONE/MOBILE 917 330 TELEPHONED RETURNED YOUR CALL MESSAGE Wishing you a Happy Bday SIGNED",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR DOJ REDACTION DATE DOJ REDACTION TIME 11:20 A.M. M OF PHONE/MOBILE 6667 TELEPHONED RETURNED YOUR CALL MESSAGE The girl who was referred to you by DOJ REDACTION that we sent home SIGNED",
+      "position": "top"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 3-T-R 5220 Cr. 330 (AJN) DOJ-OGR-00015522",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey",
+      "Christine",
+      "Sarah",
+      "GM"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "01/20/05"
+    ],
+    "reference_numbers": [
+      "917 330",
+      "6667",
+      "GOVERNMENT EXHIBIT 3-T-R",
+      "5220 Cr. 330 (AJN)",
+      "DOJ-OGR-00015522"
+    ]
+  },
+  "additional_notes": "The document contains four 'Important Message' forms with handwritten notes. Three of the forms have names or messages redacted by the Department of Justice (DOJ). The document is stamped as 'GOVERNMENT EXHIBIT 3-T-R' with a reference number."
+}

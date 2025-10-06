@@ -1,0 +1,119 @@
+{
+  "document_metadata": {
+    "page_number": "8 of 8",
+    "document_number": "4-447-52055",
+    "date": "Nov 11, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\n\nPicked up: Nov 01, 2002    Payor: Recipient    Reference: AARON\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 3.00% to this shipment.\nFedEx has audited this airbill for correct pieces, weight, and service. Any changes made are reflected in the invoice amount.\n\nTracking ID 791222969825\nService Type FedEx Intl Economy\nPackage Type Customer Packaging\nZone I\nOrig /Dest. CHL/STT\nPackages 3\nWeight 133.0 lbs, 60.5 kgs\nDelivered Nov 04, 2002 15:56\nSigned by J.DUGAN\nDec. Value USD 830.00\nFedEx Use _/US01O/_\n\nSender Recipient\nPARTS AARON\nCESCO LSJ. LLC.\nC/O AMERICAN YACHT HARBOR\n6100 RED HOOK QUARTERS #2\nST. THOMAS VI 00802-453 VI\n\nTransportation Charge 529.34\nFuel Surcharge 15.40\nDiscount -15.96\n\nTotal Transportation Charges USD $ 528.78\n\nPicked up: Nov 07, 2002    Payor: Recipient    Reference: AARON\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nFedEx has audited this airbill for correct pieces, weight, and service. Any changes made are reflected in the invoice amount.\n\nTracking ID 792770714365\nService Type FedEx Intl Priority\nPackage Type Customer Packaging\nZone I\nOrig /Dest. CHL/STT\nPackages 1\nWeight 4.0 lbs, 1.8 kgs\nDelivered Nov 08, 2002 17:23\nSigned by J.RUAN\nDec. Value USD 17.00\nFedEx Use _/US01O/_\n\nSender Recipient\nPARTS AARON\nCESCO LSJ. LLC.\nC/O AMERICAN YACHT HARBOR\n6100 RED HOOK QUARTERS #2\nST. THOMAS VI 00802-453 VI\n\nTransportation Charge 65.03\nFuel Surcharge 2.52\nDiscount -1.95\n\nTotal Transportation Charges USD $ 65.60\n\nShipment Detail Subtotal .............................................................................USD $ 594.38\n\nCONFIDENTIAL\nSDNY_GM_00340697 35\nDOJ-OGR-00015344",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Picked up: Nov 01, 2002    Payor: Recipient    Reference: AARON",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Fuel Surcharge - FedEx has applied a fuel surcharge of 3.00% to this shipment.\nFedEx has audited this airbill for correct pieces, weight, and service. Any changes made are reflected in the invoice amount.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Tracking ID 791222969825\nService Type FedEx Intl Economy\nPackage Type Customer Packaging\nZone I\nOrig /Dest. CHL/STT\nPackages 3\nWeight 133.0 lbs, 60.5 kgs\nDelivered Nov 04, 2002 15:56\nSigned by J.DUGAN\nDec. Value USD 830.00\nFedEx Use _/US01O/_",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Sender Recipient\nPARTS AARON\nCESCO LSJ. LLC.\nC/O AMERICAN YACHT HARBOR\n6100 RED HOOK QUARTERS #2\nST. THOMAS VI 00802-453 VI",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Transportation Charge 529.34\nFuel Surcharge 15.40\nDiscount -15.96\n\nTotal Transportation Charges USD $ 528.78",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Picked up: Nov 07, 2002    Payor: Recipient    Reference: AARON",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Fuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nFedEx has audited this airbill for correct pieces, weight, and service. Any changes made are reflected in the invoice amount.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Tracking ID 792770714365\nService Type FedEx Intl Priority\nPackage Type Customer Packaging\nZone I\nOrig /Dest. CHL/STT\nPackages 1\nWeight 4.0 lbs, 1.8 kgs\nDelivered Nov 08, 2002 17:23\nSigned by J.RUAN\nDec. Value USD 17.00\nFedEx Use _/US01O/_",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Sender Recipient\nPARTS AARON\nCESCO LSJ. LLC.\nC/O AMERICAN YACHT HARBOR\n6100 RED HOOK QUARTERS #2\nST. THOMAS VI 00802-453 VI",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Transportation Charge 65.03\nFuel Surcharge 2.52\nDiscount -1.95\n\nTotal Transportation Charges USD $ 65.60",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Shipment Detail Subtotal .............................................................................USD $ 594.38",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "SDNY_GM_00340697 35\nDOJ-OGR-00015344",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "AARON",
+      "J.DUGAN",
+      "J.RUAN"
+    ],
+    "organizations": [
+      "FedEx",
+      "PARTS",
+      "CESCO",
+      "LSJ. LLC.",
+      "AMERICAN YACHT HARBOR"
+    ],
+    "locations": [
+      "CHL",
+      "STT",
+      "ST. THOMAS VI",
+      "RED HOOK QUARTERS #2"
+    ],
+    "dates": [
+      "Nov 01, 2002",
+      "Nov 04, 2002",
+      "Nov 07, 2002",
+      "Nov 08, 2002",
+      "Nov 11, 2002"
+    ],
+    "reference_numbers": [
+      "4-447-52055",
+      "791222969825",
+      "792770714365",
+      "1144-2081-6",
+      "SDNY_GM_00340697",
+      "DOJ-OGR-00015344"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx shipment detail report, containing information about two shipments made in November 2002. The report includes details such as tracking IDs, service types, package weights, and transportation charges. The document is marked as 'CONFIDENTIAL' at the bottom."
+}

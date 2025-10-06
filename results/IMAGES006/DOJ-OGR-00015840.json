@@ -1,0 +1,88 @@
+{
+  "document_metadata": {
+    "page_number": "43",
+    "document_number": "DOJ-OGR-00015840",
+    "date": null,
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... 1968 G1159B N908JE MVY TEB PBI 877 1/1 2 9 18 \" \" \" PBI JAN 878 \" \" 2 2 21 \" \" \" JAN SAF 880 \" \" 1 7 21 \" \" \" SAF PBI 881 \" \" 3 3 26 \" \" \" PBI TEB 882 2 3 7 \" \" \" TEB BCD 883 \" \" 6 7 \" \" \" BCD PVD 884 \" \" 3 7 \" \" \" PVD CMH 885 \" \" 1 5 8 \" \" \" CMH DCA 886 \" \" 7 8 \" \" \" DCA CMH 887 \" \" 8 8 \" \" \" CMH TEB 888 \" \" 1 1 9 \" \" \" TEB BOS 889 1/1 6 9 \" \" \" BOS TEB 890 \" \" 8 12 \" \" \" TEB PBI 891 \" \" 2 3 18 \" \" \" PBI TEB 892 \" \" 2 3 20 \" \" \" TEB PBI 893 \" \" 2 1 23 \" \" \" PBI BCD 894 \" \" 2 6 23 \" \" \" BCD TEB 895 \" \" 6 I certify that the statements made by me on this form are true. Pilot's Signature David Rodge Page Total 1615 286 Amount Forward 583 6740 Total to Date 584 6168",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "1968 G1159B N908JE MVY TEB PBI 877 1/1 2 9 18 \" \" \" PBI JAN 878 \" \" 2 2 21 \" \" \" JAN SAF 880 \" \" 1 7 21 \" \" \" SAF PBI 881 \" \" 3 3 26 \" \" \" PBI TEB 882 2 3 7 \" \" \" TEB BCD 883 \" \" 6 7 \" \" \" BCD PVD 884 \" \" 3 7 \" \" \" PVD CMH 885 \" \" 1 5 8 \" \" \" CMH DCA 886 \" \" 7 8 \" \" \" DCA CMH 887 \" \" 8 8 \" \" \" CMH TEB 888 \" \" 1 1 9 \" \" \" TEB BOS 889 1/1 6 9 \" \" \" BOS TEB 890 \" \" 8 12 \" \" \" TEB PBI 891 \" \" 2 3 18 \" \" \" PBI TEB 892 \" \" 2 3 20 \" \" \" TEB PBI 893 \" \" 2 1 23 \" \" \" PBI BCD 894 \" \" 2 6 23 \" \" \" BCD TEB 895 \" \" 6",
+      "position": "main"
+    },
+    {
+      "type": "printed",
+      "content": "I certify that the statements made by me on this form are true.",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "David Rodge",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "1615 286 583 6740 584 6168",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rodge"
+    ],
+    "organizations": [],
+    "locations": [
+      "MVY",
+      "TEB",
+      "PBI",
+      "JAN",
+      "SAF",
+      "BCD",
+      "PVD",
+      "CMH",
+      "DCA",
+      "BOS"
+    ],
+    "dates": [
+      "1968"
+    ],
+    "reference_numbers": [
+      "G1159B",
+      "N908JE",
+      "877",
+      "878",
+      "880",
+      "881",
+      "882",
+      "883",
+      "884",
+      "885",
+      "886",
+      "887",
+      "888",
+      "889",
+      "890",
+      "891",
+      "892",
+      "893",
+      "894",
+      "895",
+      "DOJ-OGR-00015840"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The log includes details such as date, aircraft make and model, identification mark, points of departure and arrival, miles flown, flight number, remarks, number of landings, and aircraft category. The document is signed by the pilot, David Rodge."
+}

@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "4-447-92160",
+    "date": "Nov 18, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\n\nPicked up: Nov 08, 2002    Payor: Shipper    Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\n\nTracking D    837454760830    Sender    G MAXWE;; JEFFREY E EPSTEIN    Recipient    PETER MANDELSON\nService Type    FedEx Intl Priority    457 MADISON AVE    \nPackage Type    FedEx Pak    NEW YORK NY 10022-6843 US    \nZone    D    \nOrig./Dest.    JRBIXWU    \nPackages    1    Transportation Charge    38.00\nWeight    1.0 lbs, 0.5 kgs    Fuel Surcharge    1.47\nDelivered    Nov 11, 2002 12 23    Discount    -1.14\nSigned by    I.H    \nFedEx Use    _/US01O/_    Total Transportation Charges    USD $    38.33\n\nPicked up: Nov 09, 2002    Payor: Shipper    Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nFedEx has audited this airbill for correct pieces, weight, and service. Any changes made are reflected in the invoice amount.\n\nTracking D    83073245316    Sender    G MAXWELL    Recipient    ISABEL MAXWELL\nService Type    FedEx Intl Priority    JEFFREY E EPSTEIN    \nPackage Type    FedEx Pak    457 MADISON AVE    \nZone    J    NEW YORK NY 10022-6843 US    \nOrig./Dest.    FLU/SDV    \nPackages    1    Transportation Charge    46.25\nWeight    1.9 lbs, 0.9 kgs    Fuel Surcharge    1.79\nDelivered    Nov 12, 2002 11 07    Discount    -1.39\nSigned by    R.EDNA    Saturday Pickup    10.00\nFedEx Use    _/US01O/55    Total Transportation Charges    USD $    56.65\n\nDropped off: Nov 09, 2002    Payor: Shipper    Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nFedEx has audited this airbill for correct pieces, weight, and service. Any changes made are reflected in the invoice amount.\nDiscount applied is the greater of volume discount or dropoff discount. No additional discount applies.\n\nTracking D    828821139306    Sender    DAVE RODGERS    Recipient    JEANNE BRENNAN\nService Type    FedEx Intl Priority    JEFFREY E EPSTEIN    FINANCIAL TRUST COMPANY\nPackage Type    FedEx Envelope    457 MADISON AVE    6100 RED HOOK\nZone    I    NEW YORK NY 10022-6843 US    ST.THOMAS 00802  VI\nOrig./Dest.    LNA/STT    \nPackages    1    Transportation Charge    38.00\nWeight    0.7 lbs, 0.3 kgs    Fuel Surcharge    1.47\nDelivered    Nov 11, 2002 14 27    Discount    -1.14\nSigned by    D.WALLACE    \nFedEx Use    _/US01O/_    Total Transportation Charges    USD $    38.33\n\nCONFIDENTIAL\nSDNY_GM_00340715    53\nDOJ-OGR-00015362",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "G MAXWE;;",
+      "JEFFREY E EPSTEIN",
+      "PETER MANDELSON",
+      "G MAXWELL",
+      "ISABEL MAXWELL",
+      "DAVE RODGERS",
+      "JEANNE BRENNAN",
+      "I.H",
+      "R.EDNA",
+      "D.WALLACE"
+    ],
+    "organizations": [
+      "FedEx",
+      "FINANCIAL TRUST COMPANY"
+    ],
+    "locations": [
+      "NEW YORK",
+      "JRBIXWU",
+      "FLU/SDV",
+      "LNA/STT",
+      "ST.THOMAS",
+      "RED HOOK"
+    ],
+    "dates": [
+      "Nov 08, 2002",
+      "Nov 11, 2002",
+      "Nov 09, 2002",
+      "Nov 12, 2002",
+      "Nov 18, 2002"
+    ],
+    "reference_numbers": [
+      "4-447-92160",
+      "837454760830",
+      "83073245316",
+      "828821139306",
+      "1144-2081-6",
+      "SDNY_GM_00340715",
+      "DOJ-OGR-00015362"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx shipment detail invoice with multiple entries. It contains confidential information and has been marked as 'CONFIDENTIAL' at the bottom."
+}

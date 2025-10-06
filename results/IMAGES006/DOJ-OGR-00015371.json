@@ -1,0 +1,95 @@
+{
+  "document_metadata": {
+    "page_number": "4 of 5",
+    "document_number": "7-152-41155",
+    "date": "Nov 21, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx\nFedEx Express Shipment Detail By Payment Type (Original)\nShipped: Nov 13, 2002 Payor: Shipper Reference: 318FX5040\nStill in bond cage.\nTracking ID 831051480239\nService Type FedEx Intl Economy\nPackage Type Customer Packaging\nOrig/Dest SAF/TNF\nPackages 0\nWeight 0\nDelivered Nov 18, 2002 10:12\nSigned by .COTR N\nBundle ID 15688_/60\nFedEx Use:\nCustoms\nEntry Date Nov 14, 2002\nEntry No. FRC000525190321\nSender MRS SHERMAN JEFFREY E EPSTEIN 457 MADISON AVE NEW YORK NY 10022-6843 US\nRecipient VALDSON COTR N EPSTEIN & CO 22 AVE FACH PARIS FR\nNov 13, 2002 - Conversion Rate EUR USD 1.0284920630\nTransportation Charge 0.00\nTotal Transportation Charges USD $ 0.00\nOriginal VAT EUR 126.00 129.59\nAdvancement Fee EUR 7.20 7.41\n1/1000 Charge 0.13\nTotal Duties, Tax, Customs, Other Fees USD $ 137.13\nShipment Total USD $ 137.13\nShipment Detail Subtotal USD $ 137.13\nInvoice Number: 7-152-41155 Invoice Date: Nov 21, 2002 Account Number: 1144-2081-6 Page: 4 of 5\nCONFIDENTIAL\nSDNY_GM_00342906 62\nDOJ-OGR-00015371",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Shipped: Nov 13, 2002 Payor: Shipper Reference: 318FX5040",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Still in bond cage.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Tracking ID 831051480239\nService Type FedEx Intl Economy\nPackage Type Customer Packaging\nOrig/Dest SAF/TNF\nPackages 0\nWeight 0\nDelivered Nov 18, 2002 10:12\nSigned by .COTR N\nBundle ID 15688_/60\nFedEx Use:\nCustoms\nEntry Date Nov 14, 2002\nEntry No. FRC000525190321",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Sender MRS SHERMAN JEFFREY E EPSTEIN 457 MADISON AVE NEW YORK NY 10022-6843 US\nRecipient VALDSON COTR N EPSTEIN & CO 22 AVE FACH PARIS FR",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Nov 13, 2002 - Conversion Rate EUR USD 1.0284920630\nTransportation Charge 0.00\nTotal Transportation Charges USD $ 0.00\nOriginal VAT EUR 126.00 129.59\nAdvancement Fee EUR 7.20 7.41\n1/1000 Charge 0.13\nTotal Duties, Tax, Customs, Other Fees USD $ 137.13\nShipment Total USD $ 137.13\nShipment Detail Subtotal USD $ 137.13",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Number: 7-152-41155 Invoice Date: Nov 21, 2002 Account Number: 1144-2081-6 Page: 4 of 5",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "SDNY_GM_00342906 62\nDOJ-OGR-00015371",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "MRS SHERMAN",
+      "JEFFREY E EPSTEIN",
+      "VALDSON COTR N"
+    ],
+    "organizations": [
+      "FedEx",
+      "EPSTEIN & CO"
+    ],
+    "locations": [
+      "NEW YORK",
+      "PARIS"
+    ],
+    "dates": [
+      "Nov 13, 2002",
+      "Nov 18, 2002",
+      "Nov 14, 2002",
+      "Nov 21, 2002"
+    ],
+    "reference_numbers": [
+      "7-152-41155",
+      "318FX5040",
+      "831051480239",
+      "1144-2081-6",
+      "FRC000525190321",
+      "15688_/60",
+      "SDNY_GM_00342906",
+      "DOJ-OGR-00015371"
+    ]
+  },
+  "additional_notes": "The document is a FedEx Express Shipment Detail By Payment Type. It contains shipment information, including sender and recipient details, package details, and charges. The document is marked as 'CONFIDENTIAL'."
+}

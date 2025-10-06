@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": "7",
+    "document_number": "DOJ-OGR-00015804",
+    "date": "1991-1992",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE 1991 DEC AIRCRAFT MAKE AND MODEL AIRCRAFT IDENTIFICATION MARK POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FLOWN FLT. NO. REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS NO. LDG. AIRCRAFT CATEGORY AIRPLANE COMPLEX TURB 30 HS125-700 N908SC ASE TUS 94 94 1 6 1 6 1 31 TUS MYEM 80 95 1 1 4 2 4 2 4 31 MYEM PBI 96 96 1 7 7 7 31 1992 PBI MYEM 115 97 1 7 7 7 3 MYEM PBI 98 98 1 8 8 5 PBI TSB 80 99 1 27 27 5 TSB CMH 100 1 14 14 1 12 CMH BOS 60 101 1 15 15 1 12 BOS TSB 102 1 10 10 1 13 TSB CMH 80 103 1 14 14 1 17 CMH PUB 99 104 3 5 3 5 3 17 PUB LAX 105 2 20 2 20 2 22 LAX CMH 80 106 1 48 48 4 22 C-182 SUS SUS 1/2 8 24 27 HS125-700 N908SC CMH ILG 35 107 1 10 16 1 31 ILG TSB 40 108 5 5 31 TSB PBI 109 2 25 25 2 28 Simulation DCA 3 30 30 3 I certify that the statements made by me on this form are true. PILOT'S SIGNATURE David Nodgyne PAGE TOTAL 115 335 327 32 AMT. FORWARD 5253 54876 33579 1849 TOTAL TO DATE 5268 55214 39706 1882",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE 1991 DEC AIRCRAFT MAKE AND MODEL AIRCRAFT IDENTIFICATION MARK POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FLOWN FLT. NO. REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS NO. LDG. AIRCRAFT CATEGORY AIRPLANE COMPLEX TURB",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "30 HS125-700 N908SC ASE TUS 94 94 1 6 1 6 1 31 TUS MYEM 80 95 1 1 4 2 4 2 4 31 MYEM PBI 96 96 1 7 7 7 31 1992 PBI MYEM 115 97 1 7 7 7 3 MYEM PBI 98 98 1 8 8 5 PBI TSB 80 99 1 27 27 5 TSB CMH 100 1 14 14 1 12 CMH BOS 60 101 1 15 15 1 12 BOS TSB 102 1 10 10 1 13 TSB CMH 80 103 1 14 14 1 17 CMH PUB 99 104 3 5 3 5 3 17 PUB LAX 105 2 20 2 20 2 22 LAX CMH 80 106 1 48 48 4 22 C-182 SUS SUS 1/2 8 24 27 HS125-700 N908SC CMH ILG 35 107 1 10 16 1 31 ILG TSB 40 108 5 5 31 TSB PBI 109 2 25 25 2 28 Simulation DCA 3 30 30 3",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "I certify that the statements made by me on this form are true. PILOT'S SIGNATURE PAGE TOTAL AMT. FORWARD TOTAL TO DATE",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "David Nodgyne 115 335 327 32 5253 54876 33579 1849 5268 55214 39706 1882",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Nodgyne"
+    ],
+    "organizations": [],
+    "locations": [
+      "ASE",
+      "TUS",
+      "MYEM",
+      "PBI",
+      "TSB",
+      "CMH",
+      "BOS",
+      "PUB",
+      "LAX",
+      "SUS",
+      "ILG",
+      "DCA"
+    ],
+    "dates": [
+      "1991",
+      "1992"
+    ],
+    "reference_numbers": [
+      "N908SC",
+      "DOJ-OGR-00015804"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log from 1991-1992. It contains handwritten entries detailing flight information, including dates, aircraft make and model, departure and arrival points, miles flown, and flight numbers. The log also includes a certification statement signed by the pilot, David Nodgyne."
+}

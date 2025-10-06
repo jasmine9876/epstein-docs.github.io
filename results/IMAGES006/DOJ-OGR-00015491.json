@@ -1,0 +1,75 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00015491",
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "IMPORTANT MESSAGE FOR J. Epstein DATE TIME A.M. P.M. Misses Kersti Fitz OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE hey are arrived. SIGNED 1184 IMPORTANT MESSAGE FOR Mrs Newall DATE TIME A.M. P.M. M OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION DOJ REDACTION MESSAGE on phone SIGNED 1184 IMPORTANT MESSAGE FOR DATE TIME A.M. P.M. M OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 1184 IMPORTANT MESSAGE FOR DATE TIME A.M. P.M. M OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED GOVERNMENT EXHIBIT 2-W S2 20 Cr. 330 (AJN) 1184 DOJ-OGR-00015491",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "J. Epstein",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Misses Kersti Fitz",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "hey are arrived.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SIGNED",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "Mrs Newall",
+      "position": "top"
+    },
+    {
+      "type": "stamp",
+      "content": "DOJ REDACTION",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "on phone",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 2-W S2 20 Cr. 330 (AJN)",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "J. Epstein",
+      "Misses Kersti Fitz",
+      "Mrs Newall"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00015491",
+      "S2 20 Cr. 330 (AJN)"
+    ]
+  },
+  "additional_notes": "The document contains four 'Important Message' forms, two of which have handwritten notes. The forms are stamped with 'DOJ REDACTION' and 'GOVERNMENT EXHIBIT 2-W'. The document is likely related to a government or legal case."
+}

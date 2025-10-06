@@ -1,0 +1,71 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "804",
+    "date": "08/06/25",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 804 Filed 08/06/25 Page 4 of 27\nHon. Paul A. Engelmayer, U.S.D.J.\nAugust 6, 2025\nPage 2 of 2\n\nRespectfully submitted,\nJAY CLAYTON\nUnited States Attorney for the\nSouthern District of New York\nby: /s/ Jay Clayton\nJay Clayton\n\nDOJ-OGR-00015099",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 804 Filed 08/06/25 Page 4 of 27",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Hon. Paul A. Engelmayer, U.S.D.J.\nAugust 6, 2025\nPage 2 of 2",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Respectfully submitted,",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "JAY CLAYTON\nUnited States Attorney for the\nSouthern District of New York",
+      "position": "middle"
+    },
+    {
+      "type": "signature",
+      "content": "/s/ Jay Clayton",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Jay Clayton",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015099",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Paul A. Engelmayer",
+      "Jay Clayton"
+    ],
+    "organizations": [
+      "United States Attorney for the Southern District of New York",
+      "Department of Justice"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "August 6, 2025",
+      "08/06/25"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "804",
+      "DOJ-OGR-00015099"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a signature block. The text is mostly printed, with one signature. There are no visible stamps or handwritten notes."
+}

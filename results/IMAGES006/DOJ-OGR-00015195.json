@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": "90",
+    "document_number": null,
+    "date": null,
+    "document_type": "First Amended Complaint",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "vs. Epstein, et al. First Amended Complaint Page 90 of 91 /s/Jack P. Hill Jack Scarola Florida Bar No.: 169440 Jack P. Hill Florida Bar No.: 0547808 Searcy Denney Scarola Barnhart & Shipley, P.A. 2139 Palm Beach Lakes Boulevard West Palm Beach, Florida 33409 Phone: (561) 686-6300 Fax: (561) 383-9424 Attorneys for Plaintiff(s) 90 DOJ-OGR-00015195",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "vs. Epstein, et al.",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "First Amended Complaint Page 90 of 91",
+      "position": "header"
+    },
+    {
+      "type": "signature",
+      "content": "/s/Jack P. Hill",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Jack Scarola Florida Bar No.: 169440 Jack P. Hill Florida Bar No.: 0547808 Searcy Denney Scarola Barnhart & Shipley, P.A. 2139 Palm Beach Lakes Boulevard West Palm Beach, Florida 33409 Phone: (561) 686-6300 Fax: (561) 383-9424 Attorneys for Plaintiff(s)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "90",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015195",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jack P. Hill",
+      "Jack Scarola",
+      "Epstein"
+    ],
+    "organizations": [
+      "Searcy Denney Scarola Barnhart & Shipley, P.A."
+    ],
+    "locations": [
+      "West Palm Beach",
+      "Florida"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "169440",
+      "0547808",
+      "DOJ-OGR-00015195",
+      "(561) 686-6300",
+      "(561) 383-9424"
+    ]
+  },
+  "additional_notes": "The document appears to be a page from a legal complaint. The text is mostly printed, with one signature block. There are no visible redactions or damage."
+}

@@ -1,0 +1,68 @@
+{
+  "document_metadata": {
+    "page_number": "18",
+    "document_number": "4-495-75031",
+    "date": "Dec 23, 2002",
+    "document_type": "Invoice",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx\nInvoice Number: 4-495-75031\nInvoice Date: Dec 23, 2002\nAccount Number: 1144-2081-6\nPage: 18 of 21\nFedEx Ground Summary\nDate\tPackages\tWeight\tBase Charges\tOther Charges\tTotal Charges\nPrepaid Ground\n12/05\t\t\t\t5.00\t5.00\n12/12\t4\t12.0\t16.57\t0.21\t16.78\n12/14\t1\t1.0\t3.58\t0.04\t3.62\nPackage Total\t5\t13.0\t20.15\t5.25\t25.40\nWeekly Service Charge 12/13/2002\t\t\t\t11.00\t11.00\nTotal Charges\t5\t13.0\t20.15\t16.25\t36.40\na - Other charges billed out of week.\nDOJ-OGR-00016081",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Number: 4-495-75031\nInvoice Date: Dec 23, 2002\nAccount Number: 1144-2081-6\nPage: 18 of 21",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "FedEx Ground Summary",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Date\tPackages\tWeight\tBase Charges\tOther Charges\tTotal Charges",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Prepaid Ground\n12/05\t\t\t\t5.00\t5.00\n12/12\t4\t12.0\t16.57\t0.21\t16.78\n12/14\t1\t1.0\t3.58\t0.04\t3.62\nPackage Total\t5\t13.0\t20.15\t5.25\t25.40\nWeekly Service Charge 12/13/2002\t\t\t\t11.00\t11.00\nTotal Charges\t5\t13.0\t20.15\t16.25\t36.40",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "a - Other charges billed out of week.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00016081",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "FedEx"
+    ],
+    "locations": [],
+    "dates": [
+      "Dec 23, 2002",
+      "12/05",
+      "12/12",
+      "12/14",
+      "12/13/2002"
+    ],
+    "reference_numbers": [
+      "4-495-75031",
+      "1144-2081-6",
+      "DOJ-OGR-00016081"
+    ]
+  },
+  "additional_notes": "The document is a FedEx invoice with a clear and legible layout. There are no visible redactions or damage."
+}

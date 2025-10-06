@@ -1,0 +1,68 @@
+{
+  "document_metadata": {
+    "page_number": "6",
+    "document_number": "20-806380",
+    "date": null,
+    "document_type": "shipping label",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "RENEE MCREYNOLDS 3038317364 HADDON, MORGAN AND FOREMAN, P. 150 EAST 10TH AVENUE DENVER CO 80203 LTR 1 OF 1 SHIP TO: CLERK OF COURT US DISTRICT COURT - SDNY 500 PEARL STREET DANIEL P. MOYNIHAN US COURTHOUSE NEW YORK NY 10007 NY 102 9-10 UPS NEXT DAY AIR TRACKING #: 1Z F46 61F 01 9417 6904 1 BILING: P/P UPS CARBON NEUTRAL SHIPMENT Reference #1: Maxwell 20 cr. 330 (AJN) XOL 20.08.05 NV-15 31.0A 07/2020",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "RENEE MCREYNOLDS 3038317364 HADDON, MORGAN AND FOREMAN, P. 150 EAST 10TH AVENUE DENVER CO 80203",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "SHIP TO: CLERK OF COURT US DISTRICT COURT - SDNY 500 PEARL STREET DANIEL P. MOYNIHAN US COURTHOUSE NEW YORK NY 10007",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "NY 102 9-10",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "UPS NEXT DAY AIR TRACKING #: 1Z F46 61F 01 9417 6904",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "BILLING: P/P UPS CARBON NEUTRAL SHIPMENT",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Reference #1: Maxwell 20 cr. 330 (AJN) XOL 20.08.05 NV-15 31.0A 07/2020",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "RENEE MCREYNOLDS",
+      "DANIEL P. MOYNIHAN"
+    ],
+    "organizations": [
+      "HADDON, MORGAN AND FOREMAN, P.",
+      "US DISTRICT COURT - SDNY",
+      "UPS"
+    ],
+    "locations": [
+      "DENVER",
+      "NEW YORK"
+    ],
+    "dates": [
+      "07/2020"
+    ],
+    "reference_numbers": [
+      "20-806380",
+      "3038317364",
+      "1Z F46 61F 01 9417 6904",
+      "Maxwell 20 cr. 330 (AJN)"
+    ]
+  },
+  "additional_notes": "The document is a UPS shipping label with a clear and legible format. The text is printed, and there are no visible stamps or handwritten notes."
+}

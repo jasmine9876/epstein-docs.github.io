@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "DOJ-OGR-00015759",
+    "date": "Mar 03 05",
+    "document_type": "Grocery List",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Mar 03 05 01:03p P. 2\nFresh meat, poultry & fish\n1/2 pound Boar's Head black forest ham\n1/2 pound cracked pepper turkey breast\nMs Maxwell or David will advise any additional meat, poultry or fish to purchase.\nBeverages\nApple Juice\nCranberry juice\n4 Diet Coke (place in refrigerator)\n4 Coke (place in refrigerator)\nGatorade\nLarge bottle Perrier water (place in refrigerator)\nVitamin water (place in refrigerator)\nTonic Water\nBreads, Cereals and baked goods\nCheerios\nKix\n6 assorted bagels\n1 pack Tortilla wraps\n1 pack Pita bread\nTreats\nChocolate\nCheetos\nOther\n\"Skippy\" Chunky Peanut Butter\nCarmine Giardini's Market\nHomemade mozzarella\n1 inch wedge parmesan cheese\nSmoked salmon\n6 Laughing Cow mini cheese\n6 Baby Bell Cheeses\nBric cheese\n1/2 pound Cheddar cheese\n1 fresh salmon\nDATE: ____________________ SIGNATURE: ____________________ 30\n3/3/2005\nDOJ-OGR-00015759",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Fresh meat, poultry & fish",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Beverages",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Breads, Cereals and baked goods",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Treats",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Other",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Carmine Giardini's Market",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DATE: ____________________ SIGNATURE: ____________________ 30",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "3/3/2005",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ms Maxwell",
+      "David"
+    ],
+    "organizations": [
+      "Boar's Head",
+      "Carmine Giardini's Market",
+      "Laughing Cow",
+      "Baby Bell"
+    ],
+    "locations": [],
+    "dates": [
+      "Mar 03 05",
+      "3/3/2005"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00015759"
+    ]
+  },
+  "additional_notes": "The document appears to be a grocery list with various categories and items listed. The date '3/3/2005' is handwritten at the bottom."
+}

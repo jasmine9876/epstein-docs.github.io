@@ -1,0 +1,123 @@
+{
+  "document_metadata": {
+    "page_number": "9",
+    "document_number": "4-495-75031",
+    "date": "Dec 23, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Invoice Number: 4-495-75031 Invoice Date: Dec 23, 2002 Account Number: 1144-2081-6 Page: 9 of 21 FedEx Express Shipment Detail By Payment Type (Original) Dropped off: Dec 12, 2002 Payer: Shipper Reference: NO REFERENCE INFORMATION Fuel Surcharge FedEx has applied a fuel surcharge of 4.00% to this shipment. Distance Based Pricing, Zone 4 The delivery commitment for Express Saver Packages to homes or private residences (including home offices) is 7PM the third business day for all regions. FedEx has audited this shipment for correct packages, weight, and service. Any changes made are reflected in the invoice amount. Release signature on file. Tracking ID 828694900948 Sender JEFFREY E EPSTEIN Recipient LAUREN PETRELLA Service Type FedEx Express Saver Package Type Customer Packaging Zone 4 Weight 2.0 lbs, 0.9 kgs Delivered Dec 16, 2002 13:52 Svc Area 3R Signed by L.NNA266287 FedEx Use 348188670/071711/02 Transportation Charge 8.10 Discount 0.81 Fuel Surcharge 0.29 Residential Delivery 1.35 Total Transportation Charges USD $ 8.93 Picked up: Dec 12, 2002 Payer: Shipper Reference: NO REFERENCE INFORMATION Fuel Surcharge FedEx has applied a fuel surcharge of 4.00% to this shipment. Distance Based Pricing, Zone 6 Tracking ID 83716935013 Sender LAUREN KWINTNER Recipient HUGH BLATE Service Type FedEx Priority Overnight Package Type FedEx Envelope Zone 6 Weight 1.0 lbs, 0.5 kgs Delivered Dec 13, 200210:46 Svc Area AA Signed by H.BAK FedEx Use 348171900/0230/ Transportation Charge 16.00 Discount -2.56 Fuel Surcharge 0.54 Total Transportation Charges USD $ 13.98 Picked up: Dec 13, 2002 Payer: Shipper Reference: NO REFERENCE INFORMATION Fuel Surcharge FedEx has applied a fuel surcharge of 4.00% to this shipment. Distance Based Pricing, Zone 8 Release signature on file. InternetShip Tracking ID 790161678197 Sender CECILIA STEEN Recipient ISABEL MAXWELL Service Type FedEx Standard Overnight Package Type FedEx Pak Zone 8 Weight 2.0 lbs, 0.9 kgs Delivered Dec 16, 200214:02 Svc Area A1 Signed by 15318572 FedEx Use 523497064/01415/02 Transportation Charge 25.50 Discount -2.55 Fuel Surcharge 0.92 Residential Delivery 1.35 Total Transportation Charges USD $ 25.22 DOJ-OGR-00016072",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Invoice Number: 4-495-75031 Invoice Date: Dec 23, 2002 Account Number: 1144-2081-6 Page: 9 of 21",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Dropped off: Dec 12, 2002 Payer: Shipper Reference: NO REFERENCE INFORMATION",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Fuel Surcharge FedEx has applied a fuel surcharge of 4.00% to this shipment. Distance Based Pricing, Zone 4",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Tracking ID 828694900948 Sender JEFFREY E EPSTEIN Recipient LAUREN PETRELLA",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Total Transportation Charges USD $ 8.93",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Picked up: Dec 12, 2002 Payer: Shipper Reference: NO REFERENCE INFORMATION",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Fuel Surcharge FedEx has applied a fuel surcharge of 4.00% to this shipment. Distance Based Pricing, Zone 6",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Tracking ID 83716935013 Sender LAUREN KWINTNER Recipient HUGH BLATE",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Total Transportation Charges USD $ 13.98",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Picked up: Dec 13, 2002 Payer: Shipper Reference: NO REFERENCE INFORMATION",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Fuel Surcharge FedEx has applied a fuel surcharge of 4.00% to this shipment. Distance Based Pricing, Zone 8",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Tracking ID 790161678197 Sender CECILIA STEEN Recipient ISABEL MAXWELL",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Total Transportation Charges USD $ 25.22",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00016072",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY E EPSTEIN",
+      "LAUREN PETRELLA",
+      "LAUREN KWINTNER",
+      "HUGH BLATE",
+      "CECILIA STEEN",
+      "ISABEL MAXWELL"
+    ],
+    "organizations": [
+      "FedEx",
+      "CHANOTS OF PALM BEACH"
+    ],
+    "locations": [
+      "NEW YORK NY 10022-6843 US"
+    ],
+    "dates": [
+      "Dec 12, 2002",
+      "Dec 23, 2002",
+      "Dec 16, 2002",
+      "Dec 13, 2002"
+    ],
+    "reference_numbers": [
+      "4-495-75031",
+      "1144-2081-6",
+      "828694900948",
+      "83716935013",
+      "790161678197",
+      "348188670/071711/02",
+      "348171900/0230/",
+      "523497064/01415/02",
+      "DOJ-OGR-00016072"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx invoice with detailed shipment information. There are no visible redactions or damage."
+}

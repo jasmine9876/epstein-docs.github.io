@@ -1,0 +1,77 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "JPM-SDNY-00005505",
+    "date": "September 1 - September 30, 2002",
+    "document_type": "Asset Account Portfolio",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "09 | 2002 JPMorgan Chase Bank 345 Park Avenue, New York, NY 10154-1002 JPMorgan Private Bank Account Number 1-00-1 JEFFREY EPSTEIN Confidential Page 1 of 9 Asset Account Portfolio September 1 - September 30, 2002 Table of Contents Portfolio Summary Page 2 Cash and Short Term 3 Trade Activity 5 Account Transactions 6 Account Officers Service Specialist: RILEY/HORNBECKER 000000.0000.00.000000.000000000.000000 JEFFREY E EPSTEIN C/O FINANCIAL TRUST COMPANY ATTN JEANNE BRENNAN 6100 RED HOOK QUARTER B-3 ST THOMAS VI 00802 Confidential Treatment Requested by JPMorgan Chase GOVERNMENT EXHIBIT 504 $2.20 Cr. 330 (AIN) JPM-SDNY-00005505 DOJ-OGR-00015699",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "09 | 2002 JPMorgan Chase Bank 345 Park Avenue, New York, NY 10154-1002 JPMorgan Private Bank Account Number 1-00-1 JEFFREY EPSTEIN Confidential Page 1 of 9",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Asset Account Portfolio September 1 - September 30, 2002",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Table of Contents Portfolio Summary Page 2 Cash and Short Term 3 Trade Activity 5 Account Transactions 6",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Account Officers Service Specialist: RILEY/HORNBECKER",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "JEFFREY E EPSTEIN C/O FINANCIAL TRUST COMPANY ATTN JEANNE BRENNAN 6100 RED HOOK QUARTER B-3 ST THOMAS VI 00802",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Confidential Treatment Requested by JPMorgan Chase",
+      "position": "footer"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 504 $2.20 Cr. 330 (AIN) JPM-SDNY-00005505 DOJ-OGR-00015699",
+      "position": "bottom right"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN",
+      "JEFFREY E EPSTEIN",
+      "JEANNE BRENNAN",
+      "RILEY",
+      "HORNBECKER"
+    ],
+    "organizations": [
+      "JPMorgan Chase Bank",
+      "JPMorgan Private Bank",
+      "FINANCIAL TRUST COMPANY"
+    ],
+    "locations": [
+      "New York",
+      "NY",
+      "ST THOMAS VI"
+    ],
+    "dates": [
+      "September 1, 2002",
+      "September 30, 2002"
+    ],
+    "reference_numbers": [
+      "1-00-1",
+      "JPM-SDNY-00005505",
+      "DOJ-OGR-00015699"
+    ]
+  },
+  "additional_notes": "The document is a confidential asset account portfolio for Jeffrey Epstein's account with JPMorgan Chase Bank. The account number is partially redacted. The document has been stamped as 'GOVERNMENT EXHIBIT 504' and contains a reference number 'JPM-SDNY-00005505' and 'DOJ-OGR-00015699'."
+}

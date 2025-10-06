@@ -1,0 +1,81 @@
+{
+  "document_metadata": {
+    "page_number": "9",
+    "document_number": "DOJ-OGR-00015891",
+    "date": "2002-06",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... Day Night IFR Helicopter 2002 JUN 8 B-727-31N N909JC EIDW JFK 111 1/ 6 9 8 \" JFK PBI 112 2 3 12 G-1159B N909JC PBI PBI 1957 1/1 2 7 14 B727-31N N909JC PBI BOS 113 2 6 14 \" \" \" BOS TEST 114 3 7 16 \" \" \" TIST JFK 115 1/1 3 0 19 G-1159B N909JC PBI TEB 1560 1/1 3 2 19 \" \" \" TEB PBI 1564 2 5 21 \" \" \" PBI MYEF 1570 1/1 1 1 21 \" \" \" MYEF PBI (1571) 0/0 1 2 23 \" \" \" PBI MYEF 1572 0/0 1 1 23 \" \" \" MYEF TEB 1572 1/1 2 6 23 \" \" \" TEB PBI 1574 2 5 27 B-727-31N N909JC JFK LFPB 116 1/1 7 1 29 \" \" \" LFPB LGTH 117 1 3 30 \" \" \" LGTH LFPB 118 1 1 5 13 \" \" \" LFPB LMN 114 0/0 1 2 I certify that the statements made by me on this form are true. Pilot's Signature David Redfern Page Total 31 476 Amount Forward 6539 86925 33 112 6 6547 87401 33 112 6 Total to Date 94",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... Day Night IFR Helicopter",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "2002 JUN 8 B-727-31N N909JC EIDW JFK 111 1/ 6 9 8 \" JFK PBI 112 2 3 12 G-1159B N909JC PBI PBI 1957 1/1 2 7 14 B727-31N N909JC PBI BOS 113 2 6 14 \" \" \" BOS TEST 114 3 7 16 \" \" \" TIST JFK 115 1/1 3 0 19 G-1159B N909JC PBI TEB 1560 1/1 3 2 19 \" \" \" TEB PBI 1564 2 5 21 \" \" \" PBI MYEF 1570 1/1 1 1 21 \" \" \" MYEF PBI (1571) 0/0 1 2 23 \" \" \" PBI MYEF 1572 0/0 1 1 23 \" \" \" MYEF TEB 1572 1/1 2 6 23 \" \" \" TEB PBI 1574 2 5 27 B-727-31N N909JC JFK LFPB 116 1/1 7 1 29 \" \" \" LFPB LGTH 117 1 3 30 \" \" \" LGTH LFPB 118 1 1 5 13 \" \" \" LFPB LMN 114 0/0 1 2",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "I certify that the statements made by me on this form are true.",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "David Redfern",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "31 476 6539 86925 33 112 6 6547 87401 33 112 6",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Redfern"
+    ],
+    "organizations": [],
+    "locations": [
+      "EIDW",
+      "JFK",
+      "PBI",
+      "BOS",
+      "TEST",
+      "TIST",
+      "TEB",
+      "MYEF",
+      "LFPB",
+      "LGTH",
+      "LMN"
+    ],
+    "dates": [
+      "2002-06-08",
+      "2002-06-12",
+      "2002-06-14",
+      "2002-06-16",
+      "2002-06-19",
+      "2002-06-21",
+      "2002-06-23",
+      "2002-06-27",
+      "2002-06-29",
+      "2002-06-30"
+    ],
+    "reference_numbers": [
+      "N909JC",
+      "B-727-31N",
+      "G-1159B",
+      "DOJ-OGR-00015891"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The log includes details such as date, aircraft make and model, identification mark, points of departure and arrival, miles flown, flight number, and remarks. The document has a signature at the bottom."
+}

@@ -1,0 +1,88 @@
+{
+  "document_metadata": {
+    "page_number": "10 of 10",
+    "document_number": "4-495-86910",
+    "date": "Dec 23, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\n\nPicked up: Dec 16, 2002 Payor: Third Party Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nRegulatory clearance delay.\n\nTracking ID 791255124922\nService Type FedEx Intl Priority\nPackage Type Customer Packaging\nZone I\nOrig/Dest. ZT/STT\nPackages 7\nWeight 305.0 lbs, 138.6 kgs\nDelivered Dec 18, 2002 14:08\nSigned by D.WALLACE\nDec. Value USD 7,000.00\nFedEx Use _JUS01O/55\n\nSender Recipient\nAYAL ARMON MR MILES ALEXANDER\nARMON & GILMORE INC FINANCIAL TRUST COMPANY\n6100 RED HOOK QUARTERS\nSUITE B3\nST. THOMAS 00802 VI\n\nTransportation Charge 1,427.40\nFuel Surcharge 55.39\nDeclared Value Charge 17.20\nDiscount -42.70\nTotal Transportation Charges USD $ 1,457.29\n\nShipment Detail Subtotal USD $ 1,457.29\n\nCONFIDENTIAL\nSDNY_GM_00340834 152\nDOJ-OGR-00015461",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Picked up: Dec 16, 2002 Payor: Third Party Reference: NO REFERENCE INFORMATION",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Fuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nRegulatory clearance delay.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Tracking ID 791255124922\nService Type FedEx Intl Priority\nPackage Type Customer Packaging\nZone I\nOrig/Dest. ZT/STT\nPackages 7\nWeight 305.0 lbs, 138.6 kgs\nDelivered Dec 18, 2002 14:08\nSigned by D.WALLACE\nDec. Value USD 7,000.00\nFedEx Use _JUS01O/55",
+      "position": "left"
+    },
+    {
+      "type": "printed",
+      "content": "Sender Recipient\nAYAL ARMON MR MILES ALEXANDER\nARMON & GILMORE INC FINANCIAL TRUST COMPANY\n6100 RED HOOK QUARTERS\nSUITE B3\nST. THOMAS 00802 VI",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Transportation Charge 1,427.40\nFuel Surcharge 55.39\nDeclared Value Charge 17.20\nDiscount -42.70\nTotal Transportation Charges USD $ 1,457.29",
+      "position": "right"
+    },
+    {
+      "type": "printed",
+      "content": "Shipment Detail Subtotal USD $ 1,457.29",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "SDNY_GM_00340834 152\nDOJ-OGR-00015461",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "AYAL ARMON",
+      "MR MILES ALEXANDER",
+      "D.WALLACE"
+    ],
+    "organizations": [
+      "FedEx",
+      "ARMON & GILMORE INC",
+      "FINANCIAL TRUST COMPANY"
+    ],
+    "locations": [
+      "ZT/STT",
+      "ST. THOMAS",
+      "RED HOOK QUARTERS"
+    ],
+    "dates": [
+      "Dec 16, 2002",
+      "Dec 18, 2002",
+      "Dec 23, 2002"
+    ],
+    "reference_numbers": [
+      "791255124922",
+      "4-495-86910",
+      "1144-2081-6",
+      "SDNY_GM_00340834",
+      "DOJ-OGR-00015461"
+    ]
+  },
+  "additional_notes": "The document is a FedEx shipment detail report with a 'CONFIDENTIAL' watermark at the bottom."
+}

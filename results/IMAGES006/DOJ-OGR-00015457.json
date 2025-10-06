@@ -1,0 +1,71 @@
+{
+  "document_metadata": {
+    "page_number": "6 of 10",
+    "document_number": "4-495-86910",
+    "date": "Dec 23, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\nInvoice Number: 4-495-86910\nInvoice Date: Dec 23, 2002\nAccount Number: 1144-2081-6\nPage: 6 of 10\n\nPicked up: Dec 11, 2002\nPayor: Shipper\nReference: NO REFERENCE INFORMATION\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nTracking D 792149287424\nService Type FedEx Intl Economy\nPackage Type Customer Packaging\nZone D\nOrig./Dest. JRB/LON\nPackages 1\nWeight 2.0 lbs, 0.9 kgs\nDelivered Dec 16, 2002 08:54\nSigned by M BEDFORD\nFedEx Use _/US01O/_\nSender\nCECILIA STEEN\nJEFFREY E. EPSTEIN\n457 MADISON AVENUE\n4TH FLOOR\nNEW YORK NY 10022 US\nRecipient\nALEXANDRA DIXON\n\nTransportation Charge 45.55\nFuel Surcharge 1.77\nDiscount -1.37\nTotal Transportation Charges USD $ 45.95\n\nPicked up: Dec 11, 2002\nPayor: Shipper\nReference: NO REFERENCE INFORMATION\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nTracking D 792149300540\nService Type FedEx Intl Economy\nPackage Type Customer Packaging\nZone H\nOrig./Dest. JRB/STO\nPackages 1\nWeight 2.0 lbs, 0.9 kgs\nDelivered Dec 16, 2002 15:40\nSigned by C.ARLA\nFedEx Use _/US01O/_\nSender\nCECILIA STEEN\nJEFFREY E. EPSTEIN\n457 MADISON AVENUE\n4TH FLOOR\nNEW YORK NY 10022 US\nRecipient\nANN LAWESSON\nGEMINI ERNST & YOUNG\n\nTransportation Charge 54.56\nFuel Surcharge 2.12\nDiscount -1.64\nTotal Transportation Charges USD $ 55.04\n\nPicked up: Dec 11, 2002\nPayor: Shipper\nReference: NO REFERENCE INFORMATION\nRecipient not in/business closed.\nTracking D 792790137854\nService Type FedEx Intl Economy\nPackage Type Customer Packaging\nZone D\nOrig./Dest. JRB/PAR\nPackages 1\nWeight 2.0 lbs, 0.9 kgs\nDelivered Dec 17, 2002 11:11\nSigned by MYLENE JAMPANOI\nFedEx Use _/US01O/08\nSender\nCECILIA STEEN\nJEFFREY E. EPSTEIN\n457 MADISON AVENUE\n4TH FLOOR\nNEW YORK NY 10022 US\nRecipient\nMYLENE JAMPANOI\n\nTransportation Charge 45.55\nFuel Surcharge 1.77\nDiscount -1.37\nTotal Transportation Charges USD $ 45.95\n\nCONFIDENTIAL\nSDNY_GM_00340830 148\nDOJ-OGR-00015457",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Number: 4-495-86910\nInvoice Date: Dec 23, 2002\nAccount Number: 1144-2081-6\nPage: 6 of 10",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "SDNY_GM_00340830 148\nDOJ-OGR-00015457",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "CECILIA STEEN",
+      "JEFFREY E. EPSTEIN",
+      "ALEXANDRA DIXON",
+      "ANN LAWESSON",
+      "MYLENE JAMPANOI",
+      "M BEDFORD",
+      "C.ARLA"
+    ],
+    "organizations": [
+      "FedEx",
+      "GEMINI ERNST & YOUNG"
+    ],
+    "locations": [
+      "NEW YORK",
+      "JRB",
+      "LON",
+      "STO",
+      "PAR"
+    ],
+    "dates": [
+      "Dec 11, 2002",
+      "Dec 16, 2002",
+      "Dec 17, 2002",
+      "Dec 23, 2002"
+    ],
+    "reference_numbers": [
+      "4-495-86910",
+      "1144-2081-6",
+      "792149287424",
+      "792149300540",
+      "792790137854",
+      "SDNY_GM_00340830",
+      "DOJ-OGR-00015457"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx shipment detail report, containing information about three separate shipments. The report includes details such as tracking numbers, sender and recipient information, and transportation charges. The document is marked as 'CONFIDENTIAL' and contains a reference number 'DOJ-OGR-00015457' at the bottom."
+}

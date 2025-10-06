@@ -1,0 +1,101 @@
+{
+  "document_metadata": {
+    "page_number": "68",
+    "document_number": "DOJ-OGR-00015865",
+    "date": null,
+    "document_type": "Pilot's Logbook Page",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date 19 Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... 29 G11593 N904JC SAF PBI 1262 3 5 4 \" \" \" JFK \" \" \" 3 8 5 \" \" \" \" \" \" 3 8 6 \" -SWF- \" \" 2 1 7 N908JC TGB PBI 1262 2 3 8 PBI TGB 1263 2 4 11 TEB PBI 12X 2 7 14 PBI MTPP 1215 1 9 14 MTPP TST 1216 1 4 16 TST TGB 1217 2 6 19 206L3 720H FLL LNA 2 6 23 G11593 N904JC PBI TST 1218 2 6 26 \" \" TST PBI 1219 2 7 28 \" PBI TGB 1220 2 5 SEP 1 \" TEB AGC 1221 1 0 1 \" AGC CMH 1222 1 7 2 \" CMH TEB 1223 1 4 2 \" TEB SAF 1224 3 7 5 \" SAF SAN 1225 1 7 I certify that the statements made by me on this form are true. Pilot's Signature David Rodriguez Page Total 129 43 4 14 Amount Forward 5946 75746 33 729 Total to Date 5458 76180 33 743",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date 19 Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "29 G11593 N904JC SAF PBI 1262 3 5 4 \" \" \" JFK \" \" \" 3 8 5 \" \" \" \" \" \" 3 8 6 \" -SWF- \" \" 2 1 7 N908JC TGB PBI 1262 2 3 8 PBI TGB 1263 2 4 11 TEB PBI 12X 2 7 14 PBI MTPP 1215 1 9 14 MTPP TST 1216 1 4 16 TST TGB 1217 2 6 19 206L3 720H FLL LNA 2 6 23 G11593 N904JC PBI TST 1218 2 6 26 \" \" TST PBI 1219 2 7 28 \" PBI TGB 1220 2 5 SEP 1 \" TEB AGC 1221 1 0 1 \" AGC CMH 1222 1 7 2 \" CMH TEB 1223 1 4 2 \" TEB SAF 1224 3 7 5 \" SAF SAN 1225 1 7",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David Rodriguez",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "129 43 4 14 5946 75746 33 729 5458 76180 33 743",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rodriguez"
+    ],
+    "organizations": [],
+    "locations": [
+      "SAF",
+      "PBI",
+      "JFK",
+      "SWF",
+      "TGB",
+      "TEB",
+      "MTPP",
+      "TST",
+      "FLL",
+      "LNA",
+      "AGC",
+      "CMH",
+      "SAN"
+    ],
+    "dates": [
+      "19 Aug 29",
+      "19 Aug 4",
+      "19 Aug 5",
+      "19 Aug 6",
+      "19 Aug 7",
+      "19 Aug 8",
+      "19 Aug 11",
+      "19 Aug 14",
+      "19 Aug 14",
+      "19 Aug 16",
+      "19 Aug 19",
+      "19 Aug 23",
+      "19 Aug 26",
+      "19 Aug 28",
+      "19 Sep 1",
+      "19 Sep 1",
+      "19 Sep 2",
+      "19 Sep 2",
+      "19 Sep 5"
+    ],
+    "reference_numbers": [
+      "N904JC",
+      "N908JC",
+      "G11593",
+      "206L3",
+      "720H",
+      "1262",
+      "1215",
+      "1216",
+      "1217",
+      "1218",
+      "1219",
+      "1220",
+      "1221",
+      "1222",
+      "1223",
+      "1224",
+      "1225",
+      "DOJ-OGR-00015865"
+    ]
+  },
+  "additional_notes": "The document is a pilot's logbook page with handwritten entries. The page is partially obscured by a black rectangle, but the surrounding text is still legible."
+}

@@ -1,0 +1,41 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00015661",
+    "date": null,
+    "document_type": "Exhibit",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "GOVERNMENT EXHIBIT 345 S2 20 Cr. 330 (AJN) DOJ-OGR-00015661",
+  "text_blocks": [
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 345 S2 20 Cr. 330 (AJN)",
+      "position": "bottom right"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015661",
+      "position": "bottom right"
+    },
+    {
+      "type": "printed",
+      "content": "191GM",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00015661",
+      "S2 20 Cr. 330 (AJN)",
+      "345",
+      "191GM"
+    ]
+  },
+  "additional_notes": "The image is a photograph of a helicopter with the registration number '191GM'. The document appears to be an exhibit in a court case, as indicated by the 'GOVERNMENT EXHIBIT' stamp."
+}

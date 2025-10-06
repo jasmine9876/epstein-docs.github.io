@@ -1,0 +1,96 @@
+{
+  "document_metadata": {
+    "page_number": "97",
+    "document_number": "DOJ-OGR-00016012",
+    "date": null,
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... Oct 29 B-727-31 N909RJ LFPB EGGW 146 Same as above less JG, SK 1/1 9 2 B-727-31 N909RJ EGCW LFPB 147 JG, GM, NICK & GO WENP S2MUMMS 1 0 2 B-727-31 N909RJ LFPB JFK 148 JG,SK,CAMPBELL RGO METROBUCH 8 1 3 B-727-31 N909RJ JFK PBI 149 JG-SK, ANDREA METROBUCH, NICK SIMMONDS 2 4 6 G-1159B N909JC PBI TEB 137 JG,SK, ANDREA, PDU, I, EC 2 3 11 G-1159B N909JC TEB PBI 138 JG, GM, AMOREGA, RIAN, STAFF 2 5 14 G-1159B N909JC PBI-OPF-PBI 1592 MARK POTTER- PPC S9 SINGLE ENGINE GO AROUND SE 1/8 15 G-1159B N909JC PBE TEB 1600 JG, GM, AMOREGA METROBUCH 1/1 2 4 17 G-1159B N909JC TGO TIST 162 JG,SK, ANDRGA METRO VCHK 3 7 21 G-1159B N909JC TIST PBI 162 JG,SK, AM, ANNA BRYANT JULIET SIMMONDS 2 6 30 G-1159B SEMULATOR JFK MIN SN 388P TYLER, STALL, SLOW FLIGHT, STALL RECOV 2 0 31 G-1159B N909JC MIN JFK SN 212 ENG FAILURE, REJECT, ECC, ELEVATOR GM,C,G,D SINCLE C-WING APPRO poor engine control special control 3/3 2 6 Nov 3 G-1159B N909JC PBI TIST 1603 JG,SK, ANDRGA METROUSH 2 3 6 B-727-200 SEMULATOR MLP MLP  DOUBLE ENGINE FAILURE LOSS OF CONTROL GOOD LOW OR PRESSURE, HOLD YR LES ON THE GROUND 2 0 6 B-727-200 SEMULATOR MDP MDP 2 0 10 G-1159B N909JC TIST TEB 1604 JG,SK, KELLY, IHY,MAX, MASHIE 4 3 15 G-1159B N909JC TEB TIST 1605 JG,SK, RYAN ORRINS, MAX, LESLIE, RYAN 3 6 15 G-1159B N909JC TIST PBI 1606 REPOSION 2 6 I certify that the statements made by me on this form are true. Pilot's Signature: David Rodgers Page Total 48 485 Amount Forward 6558 8846 6 331131 Total to Date 6214 8246 1 331131",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Oct 29 B-727-31 N909RJ LFPB EGGW 146 Same as above less JG, SK 1/1 9",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature: David Rodgers",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rodgers",
+      "JG",
+      "GM",
+      "NICK",
+      "GO WENP",
+      "CAMPBELL",
+      "ANDREA",
+      "RGO",
+      "NICK SIMMONDS",
+      "PDU",
+      "RIAN",
+      "STAFF",
+      "MARK POTTER",
+      "ANNA BRYANT",
+      "JULIET SIMMONDS",
+      "TYLER",
+      "KELLY",
+      "IHY",
+      "MAX",
+      "MASHIE",
+      "RYAN ORRINS",
+      "LESLIE",
+      "RYAN"
+    ],
+    "organizations": [],
+    "locations": [
+      "LFPB",
+      "EGGW",
+      "EGCW",
+      "JFK",
+      "PBI",
+      "TEB",
+      "PBE",
+      "TGO",
+      "TIST",
+      "MIN",
+      "MLP",
+      "MDP"
+    ],
+    "dates": [
+      "Oct 29",
+      "Oct 2",
+      "Oct 3",
+      "Oct 6",
+      "Oct 11",
+      "Oct 14",
+      "Oct 15",
+      "Oct 17",
+      "Oct 21",
+      "Oct 30",
+      "Oct 31",
+      "Nov 3",
+      "Nov 6",
+      "Nov 10",
+      "Nov 15"
+    ],
+    "reference_numbers": [
+      "N909RJ",
+      "G-1159B",
+      "N909JC",
+      "B-727-31",
+      "B-727-200",
+      "DOJ-OGR-00016012"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The log includes details such as date, aircraft make and model, identification mark, points of departure and arrival, miles flown, flight number, remarks, procedures, maneuvers, endorsements, number of landings, and aircraft category. The pilot has signed the document certifying the statements made."
+}

@@ -1,0 +1,79 @@
+{
+  "document_metadata": {
+    "page_number": "70",
+    "document_number": "DOJ-OGR-00015867",
+    "date": null,
+    "document_type": "Pilot's Logbook Page",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... Oct 14 G-1159B N908JG BED PBI 1292 29 25 Oct 16 \" \" \" PBI TIST 1293 25 Oct 18 \" \" \" TIST TEB 294 3 6 Oct 21 \" \" \" TEB PBI 1295 2 7 Oct 27 \" \" \" PBI TEB 1296 2 4 Oct 29 \" \" \" TEB PBI 1297 2 4 Oct 31 \" \" \" PBI TEB 1298 2 5 Nov 4 \" \" \" TEB BED 299 1 8 Nov 5 \" \" \" BED PBI 300 2 8 Nov 9 \" \" \" PBI TEB 301 2 6 Nov 11 \" \" \" TEB SAF 302 4 0 Nov 12 \" \" \" SAF VNY 303 1 7 Nov 13 \" \" \" VNY SAN 304 7 Nov 13 \" \" \" SAN SAF 305 1 6 Nov 14 \" \" \" SAF TEB 306 3 6 Nov 16 \" \" \" TEB PBI 307 2 4 Nov 18 \" \" \" PBI TEB 308 2 5 Nov 19 \" \" \" TEB PBI 309 2 5 Nov 22 \" \" \" PBI TIST 1310 2 2 I certify that the statements made by me on this form are true. David Rodge Pilot's Signature Page Total 91 464 Amount Forward 579 76608 33 743 Total to Date 5976 77072 33 743",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Oct 14 G-1159B N908JG BED PBI 1292 29 25",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "David Rodge",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "I certify that the statements made by me on this form are true.",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "91 464 579 76608 33 743 5976 77072 33 743",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rodge"
+    ],
+    "organizations": [],
+    "locations": [
+      "BED",
+      "PBI",
+      "TIST",
+      "TEB",
+      "SAF",
+      "VNY",
+      "SAN"
+    ],
+    "dates": [
+      "Oct 14",
+      "Oct 16",
+      "Oct 18",
+      "Oct 21",
+      "Oct 27",
+      "Oct 29",
+      "Oct 31",
+      "Nov 4",
+      "Nov 5",
+      "Nov 9",
+      "Nov 11",
+      "Nov 12",
+      "Nov 13",
+      "Nov 14",
+      "Nov 16",
+      "Nov 18",
+      "Nov 19",
+      "Nov 22"
+    ],
+    "reference_numbers": [
+      "G-1159B",
+      "N908JG",
+      "DOJ-OGR-00015867"
+    ]
+  },
+  "additional_notes": "The document is a pilot's logbook page with handwritten entries. The page is numbered 70 and has a document number DOJ-OGR-00015867."
+}

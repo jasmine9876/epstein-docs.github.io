@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "57",
+    "document_number": "DOJ-OGR-00015854",
+    "date": null,
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date 18 TUE Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... From To Number of Landings Aircraft Category... 5 G11598 N908JC PBI OXC 1126 1/1 2 5 5 11 \" OXC TEB 1127 1/1 4 10 \" \" TEB PBI 1128 1/1 2 3 12 C150 N45563 JVX JVX * 2/2 6 12 \" N778MC JVX JVX 1 2/2 1 4 13 \" \" \" \" 2 3/3 1 1 18 \" \" \" \" 2/2 5 16 \" \" \" \" 3,4 4/4 1 0 16 \" \" \" \" 5 3/3 9 17 \" \" \" \" 6 2/2 1 1 17 \" N45563 JVX BQM 7 2/2 8 17 \" BQM JVX 7 4/4 8 17 \" N778MG JVX JVX 8 5/5 12 17 \" \" \" \" 1 9 8 18 \" \" JVX (LG+) IMS 19 1/1 1 4 18 \" IMS JVX 19 1/1 1 4 28 G11598 SIMULATOR IRW IRW 29 \" \" HUB itou 30 \" \" CYS COS I certify that the statements made by me on this form are true. Pilot's Signature David Roddy Page Total 43/43 23 2 Amount Forward 6094 7250 6 Total to Date 6122 7273 8",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date 18 TUE Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "5 G11598 N908JC PBI OXC 1126 1/1 2 5",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David Roddy",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Roddy"
+    ],
+    "organizations": [],
+    "locations": [
+      "PBI",
+      "OXC",
+      "TEB",
+      "JVX",
+      "JVX (LG+)",
+      "IMS",
+      "IRW",
+      "HUB",
+      "itou",
+      "CYS",
+      "COS",
+      "BQM"
+    ],
+    "dates": [
+      "18 TUE"
+    ],
+    "reference_numbers": [
+      "G11598",
+      "N908JC",
+      "N45563",
+      "N778MC",
+      "N778MG",
+      "DOJ-OGR-00015854"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The log includes details such as date, aircraft make and model, identification mark, points of departure and arrival, miles flown, flight number, remarks, and number of landings. The document has a signature at the bottom."
+}

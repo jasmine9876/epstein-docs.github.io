@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "91",
+    "document_number": "DOJ-OGR-00015888",
+    "date": "2007",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category Airplane Glider Helicopter 2007 18 B-727-31 N908JC PBI ABY 64 1 3 16 B-727-31 N908JC ABY JFK 65 2 1 20 B-727-31 N908JC JFK MRY 66 5 9 23 B-727-31 N908JC MRY VNY 67 4 8 23 B-727-31 N908JC VNY JAX 68 4 2 25 G-159B N908JC PBI PBI ABQ TCB 1564 2 5 25 B-727-31 N908JC TGB ABQ 152 4 3 28 B-727-31 N908JC JAX PBI 17 1 2 Mar 7 B-727-200 Simulator MRY MIA 20 2 0 7 B-727-31 N908JC MRY MIA 20 2 0 8 B-727-31 N908JC MRY MIA 20 2 0 10 B-727-31 N908JC TSS JFK 72 1 1 4 1 14 B-727-31 N908JC JFK PBI 73 2 5 17 B-727-31 N908JC PBI JFK 74 2 6 19 B-727-31 N908JC JFK EGGW 75 6 7 21 B-727-31 N908JC EGGW JFK 76 7 8 22 B-727-31 N908JC JFK PBI 77 2 6 I certify that the statements made by me on this form are true. Pilot's Signature: Daniel Redgate Page Total 2457 566 Amount Forward 6517 85419 3 3 112 6 Total to Date 6526 85945 3 3 112 6",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category Airplane Glider Helicopter",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "2007 18 B-727-31 N908JC PBI ABY 64 1 3 16 B-727-31 N908JC ABY JFK 65 2 1 20 B-727-31 N908JC JFK MRY 66 5 9 23 B-727-31 N908JC MRY VNY 67 4 8 23 B-727-31 N908JC VNY JAX 68 4 2 25 G-159B N908JC PBI PBI ABQ TCB 1564 2 5 25 B-727-31 N908JC TGB ABQ 152 4 3 28 B-727-31 N908JC JAX PBI 17 1 2 Mar 7 B-727-200 Simulator MRY MIA 20 2 0 7 B-727-31 N908JC MRY MIA 20 2 0 8 B-727-31 N908JC MRY MIA 20 2 0 10 B-727-31 N908JC TSS JFK 72 1 1 4 1 14 B-727-31 N908JC JFK PBI 73 2 5 17 B-727-31 N908JC PBI JFK 74 2 6 19 B-727-31 N908JC JFK EGGW 75 6 7 21 B-727-31 N908JC EGGW JFK 76 7 8 22 B-727-31 N908JC JFK PBI 77 2 6",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature: Daniel Redgate",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "2457 566 6517 85419 3 3 112 6 6526 85945 3 3 112 6",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Daniel Redgate"
+    ],
+    "organizations": [],
+    "locations": [
+      "PBI",
+      "ABY",
+      "JFK",
+      "MRY",
+      "VNY",
+      "JAX",
+      "TGB",
+      "ABQ",
+      "MIA",
+      "TSS",
+      "EGGW"
+    ],
+    "dates": [
+      "2007"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00015888",
+      "N908JC"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The page number is 91, and the document number is DOJ-OGR-00015888. The log includes details of flights taken in 2007 and March of an unspecified year, including aircraft make and model, identification mark, departure and arrival points, miles flown, flight numbers, and number of landings."
+}

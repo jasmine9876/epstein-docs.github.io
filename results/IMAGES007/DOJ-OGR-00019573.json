@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "120366008380",
+    "date": "August 24, 2020",
+    "document_type": "Court Document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 120366008380\nThe Honorable Alison J. Nathan\nAugust 24, 2020\nPage 3\nRespectfully Submitted,\nJeffrey S. Pagliuca\nCC: Counsel of Record (via Email)\nApp.114\nDOJ-OGR-00019573",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 120366008380",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "The Honorable Alison J. Nathan\nAugust 24, 2020\nPage 3",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Respectfully Submitted,",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Jeffrey S. Pagliuca",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CC: Counsel of Record (via Email)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "App.114\nDOJ-OGR-00019573",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Alison J. Nathan",
+      "Jeffrey S. Pagliuca"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "August 24, 2020"
+    ],
+    "reference_numbers": [
+      "120366008380",
+      "DOJ-OGR-00019573"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a signature and a reference number. The image quality is clear, and there are no visible redactions or damage."
+}

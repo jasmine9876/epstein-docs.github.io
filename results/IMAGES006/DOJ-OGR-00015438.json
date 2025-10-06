@@ -1,0 +1,67 @@
+{
+  "document_metadata": {
+    "page_number": "11 of 15",
+    "document_number": "4-495-33932",
+    "date": "Dec 16, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\nPicked up: Dec 11, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 8\nThe delivery commitment for Express Saver Packages to homes or private residences (Including home offices) is 7PM the third business day for all regions.\n1st attempt Dec 13, 2002 at 10:48 AM.\nIncorrect recipient address.\nOriginal address - 4337 MARINA CITY DR/MAR NA DEL REY,CA 90292\nFedEx has audited this shipment for correct packages, weight, and service. Any changes made are reflected in the invoice amount.\nTracking D 828694009059 Sender J EPSTEIN Recipient BAM KUCUKKOOGLU\nService Type FedEx Express Saver JEFFREY E EPSTEIN\nPackage Type Customer Packaging 457 MADISON AVE\nZone 8 NEW YORK NY 10022-6843 US\nPackages 1\nWeight 2.0 lbs, 0.9 kgs\nDelivered Dec 13, 2002 11:19 Transportation Charge 10 55\nSvc Area 3R Residential Delivery 1 35\nSigned by C.MARIA Discount -1 06\nFedEx Use 3471504 10/07179/03 Address Correction 10 00\nFuel Surcharge 0 38\nTotal Transportation Charges USD $ 21.22\nPicked up: Dec 11, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 2\nThe delivery commitment for Express Saver Packages to homes or private residences (Including home offices) is 7PM the third business day for all regions.\nRelease signature on file.\nTracking D 828694009092 Sender J EPSTEIN Recipient DIANA COOK\nService Type FedEx Express Saver JEFFREY E EPSTEIN\nPackage Type Customer Packaging 457 MADISON AVE\nZone 2 NEW YORK NY 10022-6843 US\nPackages 1\nWeight 2.0 lbs, 0.9 kgs\nDelivered Dec 13, 2002 10:27 Transportation Charge 7 80\nSvc Area 3R Discount -0.78\nSigned by D COOK Fuel Surcharge 0 28\nFedEx Use 3471504 10/07167/02 Residential Delivery 1 35\nTotal Transportation Charges USD $ 8.65\nCONFIDENTIAL\nSDNY_GM_00340790 129\nDOJ-OGR-00015438",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Number: 4-495-33932\nInvoice Date: Dec 16, 2002\nAccount Number: 1144-2081-6\nPage: 11 of 15",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "SDNY_GM_00340790 129\nDOJ-OGR-00015438",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "J EPSTEIN",
+      "JEFFREY E EPSTEIN",
+      "BAM KUCUKKOOGLU",
+      "C.MARIA",
+      "DIANA COOK",
+      "D COOK"
+    ],
+    "organizations": [
+      "FedEx"
+    ],
+    "locations": [
+      "MARINA CITY DR/MAR NA DEL REY,CA 90292",
+      "NEW YORK NY 10022-6843 US",
+      "457 MADISON AVE"
+    ],
+    "dates": [
+      "Dec 11, 2002",
+      "Dec 13, 2002",
+      "Dec 16, 2002"
+    ],
+    "reference_numbers": [
+      "4-495-33932",
+      "1144-2081-6",
+      "828694009059",
+      "828694009092",
+      "3471504 10/07179/03",
+      "3471504 10/07167/02",
+      "SDNY_GM_00340790",
+      "DOJ-OGR-00015438"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx shipment detail report, containing information about two separate shipments. The document is marked 'CONFIDENTIAL' and has a footer with reference numbers."
+}

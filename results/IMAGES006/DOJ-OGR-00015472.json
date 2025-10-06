@@ -1,0 +1,82 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "S2 20 Cr. 330 (AJN)",
+    "date": null,
+    "document_type": "Important Message",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "IMPORTANT MESSAGE FOR JE Eps tein DATE 02/01/03 TIME 3454 A.M. P.M. MR DORON OF PHONE 310 779 AREA CODE NUMBER TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED Evelyn 1184 IMPORTANT MESSAGE FOR JE DATE 01/02/03 TIME 12:05 A.M. P.M. MR DOJ REDACTION OF PHONE 478 AREA CODE NUMBER 5 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 1184 IMPORTANT MESSAGE DOJ REDACTION FOR DATE DOJ REDACTION TIME A.M. P.M. MR OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE She will be here tomorrow Ham SIGNED 1184 IMPORTANT MESSAGE FOR JE DAT DOJ REDACTION TIME 2:25 A.M. P.M. MR OF PHONE 91391 AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 1184 GOVERNMENT EXHIBIT 2-D-R S2 20 Cr. 330 (AJN) DOJ-OGR-00015472",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "JE Eps tein",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "02/01/03",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "3454",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "DORON",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "310 779",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Evelyn",
+      "position": "bottom"
+    },
+    {
+      "type": "stamp",
+      "content": "DOJ REDACTION",
+      "position": "top"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 2-D-R S2 20 Cr. 330 (AJN)",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein",
+      "Doron",
+      "Evelyn",
+      "Ham"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "02/01/03",
+      "01/02/03"
+    ],
+    "reference_numbers": [
+      "S2 20 Cr. 330 (AJN)",
+      "DOJ-OGR-00015472",
+      "310 779",
+      "478 5",
+      "91391"
+    ]
+  },
+  "additional_notes": "The document contains multiple 'Important Message' forms with some information redacted by the DOJ. The forms are filled out with handwritten notes and contain phone numbers and names."
+}

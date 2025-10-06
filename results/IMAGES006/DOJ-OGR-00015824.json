@@ -1,0 +1,82 @@
+{
+  "document_metadata": {
+    "page_number": "27",
+    "document_number": "DOJ-OGR-00015824",
+    "date": "1994 May",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE 1994 may AIRCRAFT MAKE AND MODEL HS125-700 AIRCRAFT IDENTIFICATION MARK N988JC POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FLOWN FLT. NO. REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS AIRCRAFT CATEGORY NO. LDG. AIRBORNE COMPLEX TURB. 6 BOS TEB 505 V1 9 9 6 TEB PBI 506 V1 25 25 2 9 PBI SAV 507 V1 10 10 1 9 SAV TXKF 508 V1 21 21 2 10 TXKF TEB 509 V1 23 23 2 13 TEB DCA 510 V1 8 8 13 DCA PBI 511 V1 21 21 2 14 PBI MYGF 512 V1 3 3 14 MYGF PBI 513 V1 4 4 15 PBI MIA 514 V1 3 3 15 MIA PBI 515 V1 3 3 15 PBI DCA 516 V1 20 20 2 15 DCA TEB 517 V1 7 7 20 TEB JFK 518 V1 6 6 20 JFK PBI 519 V1 24 24 2 22 PBI CMH 520 V1 25 25 2 23 CMH TEB 521 V1 13 13 1 26 TEB MDW 522 V1 22 22 2 PAGE TOTAL 2477 2477 24 AMT. FORWARD 3603 6121 9 4490 4 2482 TOTAL TO DATE 8589 6146 6 4515 1 2506 I certify that the statements made by me on this form are true. PILOT'S SIGNATURE David Rodgers",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE AIRCRAFT MAKE AND MODEL AIRCRAFT IDENTIFICATION MARK POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FLOWN FLT. NO. REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS AIRCRAFT CATEGORY NO. LDG. AIRBORNE COMPLEX TURB.",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "1994 may HS125-700 N988JC ... David Rodgers",
+      "position": "main content"
+    },
+    {
+      "type": "printed",
+      "content": "I certify that the statements made by me on this form are true. PILOT'S SIGNATURE",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Rodgers"
+    ],
+    "organizations": [],
+    "locations": [
+      "BOS",
+      "TEB",
+      "PBI",
+      "SAV",
+      "TXKF",
+      "DCA",
+      "MYGF",
+      "MIA",
+      "JFK",
+      "CMH",
+      "MDW"
+    ],
+    "dates": [
+      "1994 May 6",
+      "1994 May 9",
+      "1994 May 10",
+      "1994 May 13",
+      "1994 May 14",
+      "1994 May 15",
+      "1994 May 20",
+      "1994 May 22",
+      "1994 May 23",
+      "1994 May 26"
+    ],
+    "reference_numbers": [
+      "N988JC",
+      "DOJ-OGR-00015824",
+      "505",
+      "506",
+      "507",
+      "508",
+      "509",
+      "510",
+      "511",
+      "512",
+      "513",
+      "514",
+      "515",
+      "516",
+      "517",
+      "518",
+      "519",
+      "520",
+      "521",
+      "522"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The log includes details such as dates, aircraft information, flight routes, and remarks. The document is signed by the pilot, David Rodgers."
+}

@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "image",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "LITERARY CRITICISM A SHORT WILLIAM EMISON THE ROYAL BEASTS DOLE MYTH BECKETT and BARRETT and GIBSON QUINE David R. Clark Lyric Resonance University of Massachusetts GOVERNMENT EXHIBIT 250-R S2 20 Cr. 330 (AJN) DOJ-OGR-00015589",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "LITERARY CRITICISM A SHORT WILLIAM EMISON THE ROYAL BEASTS",
+      "position": "left"
+    },
+    {
+      "type": "printed",
+      "content": "DOLE MYTH",
+      "position": "left"
+    },
+    {
+      "type": "printed",
+      "content": "BECKETT and BARRETT and GIBSON QUINE",
+      "position": "left"
+    },
+    {
+      "type": "printed",
+      "content": "David R. Clark Lyric Resonance University of Massachusetts",
+      "position": "left"
+    },
+    {
+      "type": "printed",
+      "content": "GOVERNMENT EXHIBIT 250-R S2 20 Cr. 330 (AJN)",
+      "position": "bottom right"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015589",
+      "position": "bottom right"
+    }
+  ],
+  "entities": {
+    "people": [
+      "William Emison",
+      "David R. Clark"
+    ],
+    "organizations": [
+      "University of Massachusetts",
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "250-R",
+      "S2 20 Cr. 330 (AJN)",
+      "DOJ-OGR-00015589"
+    ]
+  },
+  "additional_notes": "The image appears to be a photograph of a bookshelf with a vinyl record on it. The text is mostly from book titles and a government exhibit label."
+}

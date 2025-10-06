@@ -1,0 +1,82 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "JPM-SDNY-00052158",
+    "date": "June 01, 2007 - June 29, 2007",
+    "document_type": "Banking Summary",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "June 01, 2007 - June 29, 2007 Ghislaine Maxwell JPMorgan Private Bank Total enclosures: 12 Page 1 of 8 Primary Account Number: 6312 GHISLAINE MAXWELL C/O NEW YORK STRATEGY GROUP 457 MADISON AVENUE 4TH FLOOR NEW YORK NY 10022 967 6001000000415 000 PB JPMorgan Chase Bank, N.A. Your JPMorgan Private Bank Team: FRANCISCO VILLACIS MELISSA DALTON (888) 207-5225 Private Bank ServiceLine For assistance after business hours, 7 days a week, (800) 243-6727 Morgan Premier Banking Summary Deposit Accounts Description Number Opening Balance Total Credits Total Debits Ending Balance Premier Checking 6312 $149,704.20 $7,634,946.28 $7,663,408.95 $121,241.53 Total $121,241.53 Confidential Treatment Requested by JPMorgan Chase GOVERNMENT EXHIBIT 502 S2 20 Cr. 330 (AJN) JPM-SDNY-00052158 DOJ-OGR-00015691",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "June 01, 2007 - June 29, 2007 Ghislaine Maxwell JPMorgan Private Bank Total enclosures: 12 Page 1 of 8",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Primary Account Number: 6312",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "GHISLAINE MAXWELL C/O NEW YORK STRATEGY GROUP 457 MADISON AVENUE 4TH FLOOR NEW YORK NY 10022",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "JPMorgan Chase Bank, N.A. Your JPMorgan Private Bank Team: FRANCISCO VILLACIS MELISSA DALTON (888) 207-5225 Private Bank ServiceLine For assistance after business hours, 7 days a week, (800) 243-6727",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Morgan Premier Banking Summary Deposit Accounts",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Description Number Opening Balance Total Credits Total Debits Ending Balance Premier Checking 6312 $149,704.20 $7,634,946.28 $7,663,408.95 $121,241.53 Total $121,241.53",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Confidential Treatment Requested by JPMorgan Chase",
+      "position": "footer"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 502 S2 20 Cr. 330 (AJN)",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "JPM-SDNY-00052158 DOJ-OGR-00015691",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ghislaine Maxwell",
+      "Francisco Villacis",
+      "Melissa Dalton"
+    ],
+    "organizations": [
+      "JPMorgan Chase Bank",
+      "New York Strategy Group"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "June 01, 2007",
+      "June 29, 2007"
+    ],
+    "reference_numbers": [
+      "6312",
+      "JPM-SDNY-00052158",
+      "DOJ-OGR-00015691"
+    ]
+  },
+  "additional_notes": "The document appears to be a banking summary for Ghislaine Maxwell's account with JPMorgan Chase Bank. It includes details about her account activity and balance. The document has been marked as a government exhibit and has a confidential treatment request."
+}

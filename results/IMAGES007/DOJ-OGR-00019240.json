@@ -1,0 +1,59 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "5501229",
+    "date": null,
+    "document_type": "court document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Respectfully submitted,\nLaura A. Menninger (LM-1374)\nJeffrey S. Pagliuca (pro hac vice)\nHADDON, MORGAN AND FOREMAN, P.C.\n150 East 10th Avenue\nDenver, CO 80203\nPhone: 303.831.7364\nFax: 303.832.2628\nlmenninger@hmflaw.com\njpagliuca@hmflaw.com\nAttorneys for Ghislaine Maxwell\n2\nDOJ-OGR-00019240",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Respectfully submitted,",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Laura A. Menninger",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Laura A. Menninger (LM-1374)\nJeffrey S. Pagliuca (pro hac vice)\nHADDON, MORGAN AND FOREMAN, P.C.\n150 East 10th Avenue\nDenver, CO 80203\nPhone: 303.831.7364\nFax: 303.832.2628\nlmenninger@hmflaw.com\njpagliuca@hmflaw.com\nAttorneys for Ghislaine Maxwell",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "2",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00019240",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Laura A. Menninger",
+      "Jeffrey S. Pagliuca",
+      "Ghislaine Maxwell"
+    ],
+    "organizations": [
+      "HADDON, MORGAN AND FOREMAN, P.C."
+    ],
+    "locations": [
+      "Denver, CO"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "20-80033",
+      "5501229",
+      "LM-1374",
+      "DOJ-OGR-00019240"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a signature block. The signature is handwritten."
+}

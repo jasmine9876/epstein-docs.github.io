@@ -1,0 +1,89 @@
+{
+  "document_metadata": {
+    "page_number": "70",
+    "document_number": "DOJ-OGR-00015985",
+    "date": null,
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... Oct 14 G-1159B N908JG BED PBI 1292 JG, GM, ET, PM, ANDREY RAIMBAULT 1/1 2.9 16 \" N908JG PBI TIST 1293 JG, GM, ANDREY RAIMBAULT 2.5 18 \" TIST T6B 294 JG, GM, ANDREY, MELINDA LUNT 2 1/1 3.6 21 \" T6B PBI 285 JG, GM, ET 2.7 27 \" PBI T6B 286 JG, ET, GWENDOLYNE BLACK, MR. BROWN 1/1 2.4 29 \" T6B PBI 297 JG, GM, ET, CLAIRE HAZEL 2.4 31 \" PBI T6B 298 JG, GM, ET, CLAIRE HAZEL 2.5 Nov 5 \" T6B BED 299 JG, SHELLY ANNE LEWIS 1/1 2.8 5 \" BED PBI 300 JG, SHELLY ANNE LEWIS 2.8 9 \" PBI T6B 301 JG, ET 2.6 11 \" T6B SAF 302 JG, AP, ALBERTO PINTO 1 MAL 4.0 14 \" SAF VNY 303 JG, ET 1.7 13 \" VNY SAN 304 JG 7 13 \" SAN SAF 305 JG 1.6 14 \" SAF T6B 306 JG, AP, ALBERTO PINTO 1 MAL 3.6 16 \" T6B PBI 307 JG 2.4 18 \" PBI T6B 308 JG 1/1 2.5 19 \" T6B PBF 309 JG, MANDY GLISSON, JEAN MERKEL 2.5 22 \" PBF TIST 310 JG, GM, GT, JEAN MERKEL GATHY 2.2 I certify that the statements made by me on this form are true. Pilot's Signature David Rodge Page Total 9/11 46.4 Amount Forward 579 7660.8 33 743 Total to Date 5976 7707.2 33 743",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Oct 14 G-1159B N908JG BED PBI 1292 JG, GM, ET, PM, ANDREY RAIMBAULT 1/1 2.9 ...",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. David Rodge",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Pilot's Signature",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "ANDREY RAIMBAULT",
+      "MELINDA LUNT",
+      "GWENDOLYNE BLACK",
+      "MR. BROWN",
+      "CLAIRE HAZEL",
+      "SHELLY ANNE LEWIS",
+      "ALBERTO PINTO",
+      "MANDY GLISSON",
+      "JEAN MERKEL",
+      "JEAN MERKEL GATHY",
+      "David Rodge"
+    ],
+    "organizations": [],
+    "locations": [
+      "BED",
+      "PBI",
+      "TIST",
+      "T6B",
+      "SAF",
+      "VNY",
+      "SAN"
+    ],
+    "dates": [
+      "Oct 14",
+      "Oct 16",
+      "Oct 18",
+      "Oct 21",
+      "Oct 27",
+      "Oct 29",
+      "Oct 31",
+      "Nov 5",
+      "Nov 9",
+      "Nov 11",
+      "Nov 14",
+      "Nov 13",
+      "Nov 13",
+      "Nov 14",
+      "Nov 16",
+      "Nov 18",
+      "Nov 19",
+      "Nov 22"
+    ],
+    "reference_numbers": [
+      "N908JG",
+      "G-1159B",
+      "DOJ-OGR-00015985"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The log includes details such as flight dates, aircraft identification, departure and arrival points, miles flown, flight numbers, remarks, and number of landings. The document is signed by the pilot, David Rodge."
+}

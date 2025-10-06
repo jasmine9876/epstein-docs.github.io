@@ -1,0 +1,143 @@
+{
+  "document_metadata": {
+    "page_number": "12 of 21",
+    "document_number": "4-495-75031",
+    "date": "Dec 23, 2002",
+    "document_type": "Invoice",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\n\nDropped off: Dec 16, 2002 Payer: Shipper Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 6\nFedEx has audited this shipment for correct packages, weight, and service. Any charges made are reflected in the invoice amount.\nWe calculated your charges based on a dimensional weight of 24.0 lbs .24\" x 16\" x 12\", divided by 194.\nRelease signature on file.\n\nInternetShip Tracking ID Service Type Package Type Zone Packages Weight Delivered Svc Area Signed by FedEx Use 790655282289 FedEx Priority Overnight Customer Packaging 6 1 15.0 lbs, 6.8 kgs Dec 17, 2002 09:40 AA EJSPTEIN 523702206/01574/02\n\nSender CECILIA STEIN JEFFREY E EPSTEIN 457 MADISON AVE NEW YORK NY 10022-6843 US\n\nRecipient JEFFREY E. EPSTEN 358 EL BRILLO WAY PALM BEACH FL 33480 US\n\nTransportation Charge Discount Fuel Surcharge Residential Delivery Total Transportation Charges 77.75 -7.78 2.80 1.35 USD $ 74.12\n\nPicked up: Dec 16, 2002 Payer: Shipper Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge FedEx has applied a fuel surcharge of 4.00% to this shipment.\nDistance Based Pricing, Zone 4\n\nInternetShip Tracking ID Service Type Package Type Zone Packages Weight Delivered Svc Area Signed by FedEx Use 791996415167 FedEx Express Saver Customer Packaging 4 1 5.0 lbs, 2.3 kgs Dec 18, 2002 11:57 A2 K.DANIELS 523763807/07171/\n\nSender CECILIA STEIN JEFFREY E EPSTEIN 457 MADISON AVE NEW YORK NY 10022-6843 US\n\nRecipient LES WEXNER\n\nTransportation Charge Discount Fuel Surcharge Total Transportation Charges 10.40 -1.04 0.37 USD $ 9.73\n\nDOJ-OGR-00016075",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Dropped off: Dec 16, 2002 Payer: Shipper Reference: NO REFERENCE INFORMATION",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Fuel Surcharge FedEx has applied a fuel surcharge of 4.00% to this shipment.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Distance Based Pricing, Zone 6",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "FedEx has audited this shipment for correct packages, weight, and service. Any charges made are reflected in the invoice amount.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "We calculated your charges based on a dimensional weight of 24.0 lbs .24\" x 16\" x 12\", divided by 194.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Release signature on file.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "InternetShip Tracking ID Service Type Package Type Zone Packages Weight Delivered Svc Area Signed by FedEx Use 790655282289 FedEx Priority Overnight Customer Packaging 6 1 15.0 lbs, 6.8 kgs Dec 17, 2002 09:40 AA EJSPTEIN 523702206/01574/02",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Sender CECILIA STEIN JEFFREY E EPSTEIN 457 MADISON AVE NEW YORK NY 10022-6843 US",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Recipient JEFFREY E. EPSTEN 358 EL BRILLO WAY PALM BEACH FL 33480 US",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Transportation Charge Discount Fuel Surcharge Residential Delivery Total Transportation Charges 77.75 -7.78 2.80 1.35 USD $ 74.12",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Picked up: Dec 16, 2002 Payer: Shipper Reference: NO REFERENCE INFORMATION",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Fuel Surcharge FedEx has applied a fuel surcharge of 4.00% to this shipment.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Distance Based Pricing, Zone 4",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "InternetShip Tracking ID Service Type Package Type Zone Packages Weight Delivered Svc Area Signed by FedEx Use 791996415167 FedEx Express Saver Customer Packaging 4 1 5.0 lbs, 2.3 kgs Dec 18, 2002 11:57 A2 K.DANIELS 523763807/07171/",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Sender CECILIA STEIN JEFFREY E EPSTEIN 457 MADISON AVE NEW YORK NY 10022-6843 US",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Recipient LES WEXNER",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Transportation Charge Discount Fuel Surcharge Total Transportation Charges 10.40 -1.04 0.37 USD $ 9.73",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00016075",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "CECILIA STEIN",
+      "JEFFREY E EPSTEIN",
+      "JEFFREY E. EPSTEN",
+      "LES WEXNER",
+      "EJSPTEIN",
+      "K.DANIELS"
+    ],
+    "organizations": [
+      "FedEx"
+    ],
+    "locations": [
+      "NEW YORK",
+      "PALM BEACH",
+      "FL",
+      "NY",
+      "US"
+    ],
+    "dates": [
+      "Dec 16, 2002",
+      "Dec 17, 2002",
+      "Dec 18, 2002",
+      "Dec 23, 2002"
+    ],
+    "reference_numbers": [
+      "4-495-75031",
+      "1144-2081-6",
+      "790655282289",
+      "791996415167",
+      "523702206/01574/02",
+      "523763807/07171/"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx invoice with details about two shipments. The document is clear and legible, with no visible damage or redactions."
+}

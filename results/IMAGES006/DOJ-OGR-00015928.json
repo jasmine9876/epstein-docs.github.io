@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": "13",
+    "document_number": "DOJ-OGR-00015928",
+    "date": "1992-08",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE AIRCRAFT MAKE AND MODEL AIRCRAFT IDENTIFICATION MARK POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FLOWN FLT. NO. REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS NO. LDG. AIRCRAFT CATEGORY COMPLEX TYPE 1992 Aug 24 HS125-700 N908SK GRS TCB 199  JEFFREY, G HOLSINE 1 29 29 2 26 \" TCB CMH 4.0 200 JEFFREY 1 1 1 1 27 \" CMH TCB 9.0 201 JEFFREY 1 14 14 1 27 \" TCB DAB  JEFFREY, ARTHUR HOLLERING, TOMMY QUINN (Students of ANGELA ANDREW), DEBORAH 1 22 22 2 27 \" DAB PBI 3.0 203 JEFFREY  6 6  28 \" PBI DAB 4.0 204 JEFFREY  5 5  29 \" DAB PBI 15.0 205 JEFFREY  6 6  30 \" PBI DAB  JEFFREY ARTHUR HOLLERING TOMMY QUINN 2 1 21 2 30 \" DAB HJC 207 JEFFREY  6  30 \" HJD TCB 208 JEFFREY  6  30 \" TCB CMH 0 209 DEAP HEAD FOR MAINTENANCE (ELECTRONIC) 1 3 1 3 1 30-Sep \" CMH SPI 10.5 210 DEAP HEAD FOR MAINTENANCE (B1 MPI) CAN'T IT 1 9 9  17 \" SPI CMH 7.0 211 APPROACH FROM MPE TO 1 0 1 0 1 19 \" CMH SAF 82 212 JEFFREY, G HOLSINE 1 33 33 3 24 \" SAF PBI 9.0 213 JEFFREY, G HOLSINE 3 6 3 6 3 27 \" PBI TCB 5.5 214 JEFFREY, G HOLSINE 2 6 2 6 2 28 \" TCB BOS 60 215 JEFFREY, EVA ANDERSON 1 7  7  28 \" BOS TCB 216 JEFFREY  9 9  I certify that the statements made by me on this form are true. PILOT'S SIGNATURE Daniel Redefie PAGE TOTAL 13 269 269 26 AMT. FORWARD 5063 5 4633 0 2024 TOTAL TO DATE 5321 5690 4 4059 9 2051",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE AIRCRAFT MAKE AND MODEL AIRCRAFT IDENTIFICATION MARK POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FLOWN FLT. NO. REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS NO. LDG. AIRCRAFT CATEGORY COMPLEX TYPE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "1992 Aug 24 HS125-700 N908SK GRS TCB 199  JEFFREY, G HOLSINE 1 29 29 2 ...",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. PILOT'S SIGNATURE Daniel Redefie",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE TOTAL 13 269 269 26 AMT. FORWARD 5063 5 4633 0 2024 TOTAL TO DATE 5321 5690 4 4059 9 2051",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey",
+      "G Holsine",
+      "Arthur Hollering",
+      "Tommy Quinn",
+      "Angela Andrew",
+      "Deborah",
+      "Eva Anderson",
+      "Daniel Redefie"
+    ],
+    "organizations": [],
+    "locations": [
+      "GRS",
+      "TCB",
+      "CMH",
+      "DAB",
+      "PBI",
+      "HJC",
+      "HJD",
+      "SPI",
+      "SAF",
+      "BOS",
+      "MPE",
+      "MPI"
+    ],
+    "dates": [
+      "1992-08-24",
+      "1992-08-26",
+      "1992-08-27",
+      "1992-08-28",
+      "1992-08-29",
+      "1992-08-30",
+      "1992-09-30"
+    ],
+    "reference_numbers": [
+      "N908SK",
+      "DOJ-OGR-00015928"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log from August 1992, detailing various flights with corresponding dates, aircraft information, departure and arrival points, miles flown, flight numbers, and remarks. The log includes handwritten entries and a certification statement signed by the pilot, Daniel Redefie."
+}

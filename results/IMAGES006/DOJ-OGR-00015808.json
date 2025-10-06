@@ -1,0 +1,91 @@
+{
+  "document_metadata": {
+    "page_number": "11",
+    "document_number": null,
+    "date": "1942 Jul",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE 1942 JUL AIRCRAFT MAKE AND MODEL AIRCRAFT IDENTIFICATION MARK POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FLOWN FLT. NO. REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS NO. LDG. AIRCRAFT CATEGORY AIRPLANE COMPLEX TURB 5 HS125-700 N908JC GRE TGB 163 2 6 2 6 5 TGB CMH 164 1 4 1 4 12 CMH TGB 130 165 1 2 1 2 12 TGB MVY 166 7 7 12 MVY BVY 167 3 3 12 BVY TGB 168 9 9 16 TGB CMH 43 169 1 3 1 3 21 CMH TGB 102 170 1 2 1 2 1 22 TGB PBI 62 171 2 4 2 4 26 PBI MER 7.0 172 4 4 26 MER TGB 173 2 8 2 8 27 TGB CMH 4.9 174 1 4 1 4 28 CMH LGX 7.0 175 5 5 28 LGX CMH 176 5 5 29 CMH TGB 6.0 177 1 3 1 3 1 31 TGB TVC 4.5 178 1 6 1 6 1 31 TVC POU 105 179 1 4 1 4 1 3 POU HTO 180 5 PAGE TOTAL 13 724 724 22 AMT. FORWARD 54.85 5617 3987 4 1979 TOTAL TO DATE 5474 5640 3 4009 8 2001 I certify that the statements made by me on this form are true. PILOT'S SIGNATURE David R. deGruy",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE 1942 JUL AIRCRAFT MAKE AND MODEL AIRCRAFT IDENTIFICATION MARK POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FLOWN FLT. NO. REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS NO. LDG. AIRCRAFT CATEGORY AIRPLANE COMPLEX TURB",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "5 HS125-700 N908JC GRE TGB 163 2 6 2 6 5 TGB CMH 164 1 4 1 4 12 CMH TGB 130 165 1 2 1 2 12 TGB MVY 166 7 7 12 MVY BVY 167 3 3 12 BVY TGB 168 9 9 16 TGB CMH 43 169 1 3 1 3 21 CMH TGB 102 170 1 2 1 2 1 22 TGB PBI 62 171 2 4 2 4 26 PBI MER 7.0 172 4 4 26 MER TGB 173 2 8 2 8 27 TGB CMH 4.9 174 1 4 1 4 28 CMH LGX 7.0 175 5 5 28 LGX CMH 176 5 5 29 CMH TGB 6.0 177 1 3 1 3 1 31 TGB TVC 4.5 178 1 6 1 6 1 31 TVC POU 105 179 1 4 1 4 1 3 POU HTO 180 5",
+      "position": "main"
+    },
+    {
+      "type": "printed",
+      "content": "I certify that the statements made by me on this form are true. PILOT'S SIGNATURE",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "David R. deGruy",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "PAGE TOTAL 13 724 724 22 AMT. FORWARD 54.85 5617 3987 4 1979 TOTAL TO DATE 5474 5640 3 4009 8 2001",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David R. deGruy"
+    ],
+    "organizations": [],
+    "locations": [
+      "GRE",
+      "TGB",
+      "CMH",
+      "MVY",
+      "BVY",
+      "PBI",
+      "MER",
+      "LGX",
+      "TVC",
+      "POU",
+      "HTO"
+    ],
+    "dates": [
+      "1942 Jul 5",
+      "1942 Jul 12",
+      "1942 Jul 16",
+      "1942 Jul 21",
+      "1942 Jul 22",
+      "1942 Jul 26",
+      "1942 Jul 27",
+      "1942 Jul 28",
+      "1942 Jul 29",
+      "1942 Jul 31"
+    ],
+    "reference_numbers": [
+      "N908JC",
+      "163",
+      "164",
+      "165",
+      "166",
+      "167",
+      "168",
+      "169",
+      "170",
+      "171",
+      "172",
+      "173",
+      "174",
+      "175",
+      "176",
+      "177",
+      "178",
+      "179",
+      "180"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log from July 1942. It contains handwritten entries detailing flight information, including dates, aircraft identification, departure and arrival points, miles flown, and flight numbers. The log also includes a certification statement signed by the pilot, David R. deGruy."
+}

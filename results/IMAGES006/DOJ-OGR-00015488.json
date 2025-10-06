@@ -1,0 +1,94 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00015488",
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "IMPORTANT MESSAGE FOR SE DATE 11/03/03 TIME 15:45 A.M. P.M. M DOJ Redaction OF PHONE 963 AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 1184 IMPORTANT MESSAGE FOR JE Epstein DATE 03/11/03 TIME 12:15 A.M. P.M. M DOJ Redaction OF PHONE 478 AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED Evelyne 1184 IMPORTANT MESSAGE FOR DATE TIME 2:24 A.M. P.M. M OF Loswernos PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Please call SIGNED 1184 IMPORTANT MESSAGE FOR JR Epstein DATE 03/14/03 TIME 12:21 A.M. P.M. M Tony OF PHONE 255 AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED Evely GOVERNMENT EXHIBIT 2-T-R S2 20 Cr. 330 (AJN) 1184 DOJ-OGR-00015488",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "SE",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "FOR DATE TIME A.M. P.M. M OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "11/03/03 15:45 DOJ Redaction 963",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "JE Epstein 03/11/03 12:15 DOJ Redaction 478",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Evelyne",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "2:24 Loswernos Please call",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "JR Epstein 03/14/03 12:21 Tony 255 Evely",
+      "position": "top"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 2-T-R S2 20 Cr. 330 (AJN)",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "SE",
+      "JE Epstein",
+      "JR Epstein",
+      "Tony",
+      "Evelyne"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "11/03/03",
+      "03/11/03",
+      "03/14/03"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00015488",
+      "S2 20 Cr. 330 (AJN)"
+    ]
+  },
+  "additional_notes": "The document contains four 'Important Message' forms with various handwritten notes and a government exhibit stamp. Some information is redacted by the DOJ."
+}

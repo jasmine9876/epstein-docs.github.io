@@ -1,0 +1,52 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "S2 20 Cr. 330 (AJN)",
+    "date": null,
+    "document_type": "Defendant's Exhibit",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FIL A LA GRANDE SOEUR R & C DEFENDANT'S EXHIBIT AF-1-R S2 20 Cr. 330 (AJN) Property of DOJ REDACTION Not For Media Use DOJ REDACTION DOJ-OGR-00015178",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FIL A LA GRANDE SOEUR",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "R & C",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DEFENDANT'S EXHIBIT AF-1-R S2 20 Cr. 330 (AJN)",
+      "position": "bottom right"
+    },
+    {
+      "type": "printed",
+      "content": "Property of DOJ REDACTION Not For Media Use",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ REDACTION DOJ-OGR-00015178",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "S2 20 Cr. 330 (AJN)",
+      "DOJ-OGR-00015178",
+      "AF-1-R"
+    ]
+  },
+  "additional_notes": "The image is a photograph of a spiral-bound notebook with a cover featuring an illustration of two women. The notebook is labeled as 'Defendant's Exhibit AF-1-R' in a court case 'S2 20 Cr. 330 (AJN)'. The image contains redactions by the Department of Justice (DOJ)."
+}

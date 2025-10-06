@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "4-495-05371",
+    "date": "Dec 09, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\n\nPicked up: Nov 26, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nFedEx has audited this airbill for correct pieces, weight, and service. Any changes made are reflected in the invoice amount.\nRecipient not in/business closed.\n\nTracking D 828821138023 Sender Recipient\nService Type FedEx Intl Priority BELLA JEFFREY E EPSTEIN JEANNIE BREANON\nPackage Type FedEx Pak 457 MADISON AVE FINANCIAL TRUST CO\nZone JRB/STT NEW YORK NY 10022-6843 US E100 RED HOOK QUARTER STE B3\nPackages 1 ST THOMAS 00802 VI\nWeight 3.7 lbs, 1.7 kgs\nDelivered Dec 02, 2002 14:44\nSigned by D.WALLACE\nFedEx Use _/US010/08\n\nTransportation Charge 65.03\nFuel Surcharge 2.52\nDiscount -1.95\n\nTotal Transportation Charges USD $ 65.60\n\nPicked up: Dec 02, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\nRegulatory clearance delay.\n\nTracking D 790643688788 Sender Recipient\nService Type FedEx Intl Priority CECILIA STEEN SEVASTIANOVA VALENTINA\nPackage Type Customer Packaging JEFFREY E. EPSTE N\nZone M 457 MADISON AVENUE 4TH FLOOR\nOrig./Dest. JRB/MOW NEW YORK NY 10022 US\nPackages 1\nWeight 2.0 lbs, 0.9 kgs\nDelivered Dec 05, 2002 11:34\nSigned by .SEVOSTYANOV\nFedEx Use _/US010/55\n\nTransportation Charge 98.65\nFuel Surcharge 3.83\nDiscount -2.96\n\nTotal Transportation Charges USD $ 99.52\n\nPicked up: Dec 02, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment.\n\nTracking D 790643715650 Sender Recipient\nService Type FedEx Intl Priority CECILIA STEEN ANN LAWESSON\nPackage Type Customer Packaging JEFFREY E. EPSTE N GEMINI ERNST & YOUNG\nZone H 457 MADISON AVENUE 4TH FLOOR\nOrig./Dest. JRB/STO NEW YORK NY 10022 US\nPackages 1\nWeight 3.0 lbs, 1.4 kgs\nDelivered Dec 04, 2002 11:15\nSigned by C.UBO\nFedEx Use _/US010/_\n\nTransportation Charge 70.37\nFuel Surcharge 2.73\nDiscount -2.11\n\nTotal Transportation Charges USD $ 70.99\n\nCONFIDENTIAL",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "BELLA JEFFREY E EPSTEIN",
+      "JEANNIE BREANON",
+      "CECILIA STEEN",
+      "SEVASTIANOVA VALENTINA",
+      "ANN LAWESSON",
+      "D.WALLACE",
+      ".SEVOSTYANOV",
+      "C.UBO"
+    ],
+    "organizations": [
+      "FedEx",
+      "FINANCIAL TRUST CO",
+      "GEMINI ERNST & YOUNG"
+    ],
+    "locations": [
+      "NEW YORK",
+      "ST THOMAS",
+      "MADISON AVENUE",
+      "RED HOOK QUARTER",
+      "4TH FLOOR"
+    ],
+    "dates": [
+      "Nov 26, 2002",
+      "Dec 02, 2002",
+      "Dec 05, 2002",
+      "Dec 04, 2002",
+      "Dec 09, 2002"
+    ],
+    "reference_numbers": [
+      "4-495-05371",
+      "828821138023",
+      "790643688788",
+      "790643715650",
+      "1144-2081-6"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx shipment detail report, containing information about three separate shipments. The document is marked 'CONFIDENTIAL' at the bottom."
+}

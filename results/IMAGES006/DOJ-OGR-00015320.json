@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "3 of 4",
+    "document_number": "4-443-36929",
+    "date": "Nov 08, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Express Shipment Detail By Payment Type (Original)\n\nPicked up: Oct 30, 2002    Payor: Shipper    Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 3.00% to this shipment.\nDistance Based Pricing, Zone 5\n\nTracking D    838319149440\nService Type    FedEx Standard Overnight\nPackage Type    FedEx Envelope\nZone    5\nPackages    1\nWeight    1.0 lbs, 0.5 kgs\nDelivered    Oct 31, 2002 10:18\nSvc Area    AA\nSigned by    C.BREEDEN\nFedEx Use    306075130/06964/\n\nSender    DARREN INDYKE    Recipient    JIM MOORE\n    NYSG LLC    MOORE CLARKE DUVALL & RODGERS\n    457 MADISON AVE    \n    NEW YORK NY 10022-6843 US    \n\nTransportation Charge    6.94\nFuel Surcharge    0.21\nTotal Transportation Charges    USD $    7.15\n\nPicked up: Oct 31, 2002    Payor: Shipper    Reference: NO REFERENCE INFORMATION\n\nFuel Surcharge - FedEx has applied a fuel surcharge of 3.00% to this shipment.\nDistance Based Pricing, Zone 4\n\nTracking D    838319149418\nService Type    FedEx Standard Overnight\nPackage Type    FedEx Envelope\nZone    4\nPackages    1\nWeight    1.0 lbs, 0.5 kgs\nDelivered    Nov 01, 2002 10:12\nSvc Area    A2\nSigned by    D.OAKLEY\nFedEx Use    306075230/06963/\n\nSender    LAUREN KW NTNER    Recipient    PEG UGLAND\n    NYSG LLC    N A PROPERTY INC\n    457 MADISON AVE    \n    NEW YORK NY 10022-6843 US    \n\nTransportation Charge    6.45\nFuel Surcharge    0.19\nTotal Transportation Charges    USD $    6.64\n\nShipment Detail Subtotal    USD $    13.79\n\nCONFIDENTIAL\nSDNY_GM_00340630 11\nDOJ-OGR-00015320",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "DARREN INDYKE",
+      "JIM MOORE",
+      "LAUREN KW NTNER",
+      "PEG UGLAND",
+      "C.BREEDEN",
+      "D.OAKLEY"
+    ],
+    "organizations": [
+      "FedEx",
+      "NYSG LLC",
+      "MOORE CLARKE DUVALL & RODGERS",
+      "N A PROPERTY INC"
+    ],
+    "locations": [
+      "NEW YORK NY 10022-6843 US",
+      "457 MADISON AVE"
+    ],
+    "dates": [
+      "Oct 30, 2002",
+      "Oct 31, 2002",
+      "Nov 01, 2002",
+      "Nov 08, 2002"
+    ],
+    "reference_numbers": [
+      "4-443-36929",
+      "2292-0750-4",
+      "838319149440",
+      "838319149418",
+      "306075130/06964/",
+      "306075230/06963/",
+      "SDNY_GM_00340630",
+      "DOJ-OGR-00015320"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx shipment detail report, containing information about two shipments. The document is marked as 'CONFIDENTIAL' at the bottom."
+}

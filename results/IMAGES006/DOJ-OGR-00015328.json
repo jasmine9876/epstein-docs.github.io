@@ -1,0 +1,80 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "4-447-40902",
+    "date": "Nov 11, 2002",
+    "document_type": "Invoice",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx\nInvoice Number: 4-447-40902\nInvoice Date: Nov 11, 2002\nAccount Number: 1144-2081-6\nPage: 3 of 11\nFedEx Express Shipment Summary by Payment Type\nOriginal\nShipper\nNumber of Shipments 19\nTransportation Charges 658.75\nBase Discount -69.66\nSpecial Handling Charges 48.81\nTOTAL USD $ 637.90\nNumber of Shipments 19\nTotal Charges USD $ 637.90\nRecipient\nNumber of Shipments 1\nTransportation Charges 16.00\nBase Discount -2.56\nSpecial Handling Charges 0.54\nTOTAL USD $ 13.98\nNumber of Shipments 1\nTotal Charges USD $ 13.98\nTOTAL SHIPMENTS 20\nTOTAL CHARGES USD $ 651.88\nCONFIDENTIAL\nSDNY_GM_00340681 19\nDOJ-OGR-00015328",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Invoice Number: 4-447-40902\nInvoice Date: Nov 11, 2002\nAccount Number: 1144-2081-6\nPage: 3 of 11",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Summary by Payment Type",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Shipper\nNumber of Shipments 19\nTransportation Charges 658.75\nBase Discount -69.66\nSpecial Handling Charges 48.81\nTOTAL USD $ 637.90",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Number of Shipments 19\nTotal Charges USD $ 637.90",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Recipient\nNumber of Shipments 1\nTransportation Charges 16.00\nBase Discount -2.56\nSpecial Handling Charges 0.54\nTOTAL USD $ 13.98",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Number of Shipments 1\nTotal Charges USD $ 13.98",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TOTAL SHIPMENTS 20\nTOTAL CHARGES USD $ 651.88",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "SDNY_GM_00340681 19\nDOJ-OGR-00015328",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "FedEx"
+    ],
+    "locations": [],
+    "dates": [
+      "Nov 11, 2002"
+    ],
+    "reference_numbers": [
+      "4-447-40902",
+      "1144-2081-6",
+      "SDNY_GM_00340681",
+      "DOJ-OGR-00015328"
+    ]
+  },
+  "additional_notes": "The document is a FedEx invoice with a 'CONFIDENTIAL' watermark. It contains shipment details and charges."
+}

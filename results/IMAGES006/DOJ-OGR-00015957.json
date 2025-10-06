@@ -1,0 +1,83 @@
+{
+  "document_metadata": {
+    "page_number": "42",
+    "document_number": "DOJ-OGR-00015957",
+    "date": "June 1996",
+    "document_type": "Pilot's Logbook",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... 19 Jun 96 G1159B N9083K TEB PBI 847 JE 20 PAULA GIBSON, ALLISON, SWANBY JEFFANY 1/1 2 0 2 JUN 2 \" PBI TEB 848 JE 2 5 5 \" TEB PBI 849 JE, ALLISON, CHARLES, COLINA 1/1 2 3 18 \" PBI TEB 850 NO PASSENGERS JIM WILSON 1/1 2 2 19 \" TEB PBI 851 JE, GM 2 1 24-Jul \" SIMULATOR SAV SAV RECURRING TRAINING 6 0 9 \" N9083E SAF CMH 860 JE, GM 1/1 2 5 10 \" CMH TEB 861 JE, GM, IRA TICHEMAN 1/1 1 2 12 \" TEB MVY 862 JE 1/1 6 12 \" MVY TEB 863 JE 9 12 \" TEB PBI 864 JE, GM 2 4 15 \" PBI TEB 865 JE, GM 1/1 2 3 16 \" TEB PBI 866 JE, COLINA 2 1 17 \" PBI SAV 867 OPS 1 INSPECTION 1/1 9 25 \" SAV EWR 869 OPS 1 INSPECTION 1/1 1 7 19 \" PBI TEB 873 JE, GM, ANDY, MANDY, RALPH 1/1 2 3 14 \" TEB TVC 874 JE, GM 1/1 1 5 16 \" TVC TEB 875 JE, GM 1/1 1 4 18 \" TEB MVY 876 JE, DAVID ROTHMAN, FELICIA TAYLOR 1/1 6 I certify that the statements made by me on this form are true. Pilot's Signature David Rodge Page Total 13 12 375 Amount Forward 584 561 6702.6 Total to Date 585 313 6740.1",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "19 Jun 96 G1159B N9083K TEB PBI 847 JE 20 PAULA GIBSON, ALLISON, SWANBY JEFFANY 1/1 2 0 ...",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David Rodge",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "PAULA GIBSON",
+      "ALLISON",
+      "SWANBY",
+      "JEFFANY",
+      "JIM WILSON",
+      "IRA TICHEMAN",
+      "COLINA",
+      "ANDY",
+      "MANDY",
+      "RALPH",
+      "DAVID ROTHMAN",
+      "FELICIA TAYLOR",
+      "David Rodge"
+    ],
+    "organizations": [],
+    "locations": [
+      "TEB",
+      "PBI",
+      "SAV",
+      "SAF",
+      "CMH",
+      "MVY",
+      "EWR",
+      "TVC"
+    ],
+    "dates": [
+      "19 Jun 96",
+      "2 JUN 2",
+      "5",
+      "18",
+      "19",
+      "24-Jul",
+      "9",
+      "10",
+      "12",
+      "12",
+      "12",
+      "15",
+      "16",
+      "17",
+      "25",
+      "19",
+      "14",
+      "16",
+      "18"
+    ],
+    "reference_numbers": [
+      "N9083K",
+      "N9083E",
+      "DOJ-OGR-00015957"
+    ]
+  },
+  "additional_notes": "The document is a pilot's logbook page with handwritten entries. The page is filled with flight records, including dates, aircraft information, flight details, and remarks. The pilot has signed the page at the bottom."
+}

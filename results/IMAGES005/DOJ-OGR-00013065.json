@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": "52",
+    "document_number": "753",
+    "date": "08/10/22",
+    "document_type": "Court Transcript",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 753 Filed 08/10/22 Page 52 of 264 1478 LC7Cmax2 Flatley - direct 1 A. Sure. There is a possibility of three different tools that we can use. One is a physical piece of equipment called a TX1 disc duplicator -- 2 Q. Mr. Flatley, sorry to interrupt. In this case, what did you use here? 3 A. I used the TX1 disc duplicator. 4 Q. Why not just examine the drive itself in this case, Government Exhibit 54? 5 A. Hard drives are a little fragile, especially this one, it's pretty old. The fact that we spin it up, that may be the last time it ever spins. So we always make a copy and we work off the copy so that we have our data. We can make arguably infinite copies of that data and prove that it's the same data. So that's what we do. 6 Q. What, if anything, do you do to determine that the image you made from Government Exhibit 54 matched the data on Government Exhibit 54? 7 A. We run a hash algorithm, which is basically a math problem against the data that we copied and the data from the original, and if the hashes match, then the data is identical, and the data was in this case. 8 Q. After you made an image of Government Exhibit 54, what do you do next? 9 A. After the 54 was imaged, I then placed it through our software, AccessData's lab to categorize and organize the data. SOUTHERN DISTRICT REPORTERS, P.C. (212) 805-0300 DOJ-OGR-00013065",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 753 Filed 08/10/22 Page 52 of 264 1478",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "LC7Cmax2 Flatley - direct",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "1 A. Sure. There is a possibility of three different tools that we can use. One is a physical piece of equipment called a TX1 disc duplicator -- 2 Q. Mr. Flatley, sorry to interrupt. In this case, what did you use here? 3 A. I used the TX1 disc duplicator. 4 Q. Why not just examine the drive itself in this case, Government Exhibit 54? 5 A. Hard drives are a little fragile, especially this one, it's pretty old. The fact that we spin it up, that may be the last time it ever spins. So we always make a copy and we work off the copy so that we have our data. We can make arguably infinite copies of that data and prove that it's the same data. So that's what we do. 6 Q. What, if anything, do you do to determine that the image you made from Government Exhibit 54 matched the data on Government Exhibit 54? 7 A. We run a hash algorithm, which is basically a math problem against the data that we copied and the data from the original, and if the hashes match, then the data is identical, and the data was in this case. 8 Q. After you made an image of Government Exhibit 54, what do you do next? 9 A. After the 54 was imaged, I then placed it through our software, AccessData's lab to categorize and organize the data.",
+      "position": "main"
+    },
+    {
+      "type": "printed",
+      "content": "SOUTHERN DISTRICT REPORTERS, P.C. (212) 805-0300",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00013065",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Mr. Flatley"
+    ],
+    "organizations": [
+      "SOUTHERN DISTRICT REPORTERS, P.C.",
+      "AccessData"
+    ],
+    "locations": [],
+    "dates": [
+      "08/10/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "753",
+      "54",
+      "DOJ-OGR-00013065"
+    ]
+  },
+  "additional_notes": "The document appears to be a court transcript with a clear and legible format. There are no visible redactions or damage."
+}

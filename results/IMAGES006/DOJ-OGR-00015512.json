@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "S220 Cr. 330 (AJN)",
+    "date": "2005-11-26, 2005-11-27",
+    "document_type": "Important Message",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "IMPORTANT MESSAGE FOR Jeffey DATE 11/26/05 TIME 9:25 A.M. M Glen Dubin OF PHONE/MOBILE 212 287 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE That he called and he is at home SIGNED 1184 IMPORTANT MESSAGE FOR Jeffey DATE 11/26/05 TIME 6:51 A.M. M Glen Dubin OF PHONE/MOBILE 212287 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE He is sending a fax and he will have more color about portfolio tomorrow SIGNED 1184 IMPORTANT MESSAGE FOR Jeffey DATE 11/27/05 TIME 9:25 A.M. M Darrien OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE He will call you back little bit later. SIGNED ATM 1184 IMPORTANT MESSAGE FOR Jeffey DATE 11/27/05 TIME 10:0 A.M. M DOJ REDACTION OF PHONE/MOBILE 917 204 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE She is returning phone call sort of that so later but she took a nap. SIGNED GOVERNMENT EXHIBIT 3-KK-R S220 Cr. 330 (AJN) DOJ-OGR-00015512",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffey 11/26/05 9:25 Glen Dubin 212 287 That he called and he is at home",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffey 11/26/05 6:51 Glen Dubin 212287 He is sending a fax and he will have more color about portfolio tomorrow",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffey 11/27/05 9:25 Darrien He will call you back little bit later.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffey 11/27/05 10:0 DOJ REDACTION 917 204 She is returning phone call sort of that so later but she took a nap.",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 3-KK-R S220 Cr. 330 (AJN) DOJ-OGR-00015512",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffey",
+      "Glen Dubin",
+      "Darrien"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "11/26/05",
+      "11/27/05"
+    ],
+    "reference_numbers": [
+      "212 287",
+      "917 204",
+      "S220 Cr. 330 (AJN)",
+      "DOJ-OGR-00015512"
+    ]
+  },
+  "additional_notes": "The document appears to be a set of message slips from a legal or government context, with some redaction and a government exhibit stamp."
+}

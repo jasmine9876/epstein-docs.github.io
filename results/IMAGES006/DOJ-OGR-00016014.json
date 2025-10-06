@@ -1,0 +1,79 @@
+{
+  "document_metadata": {
+    "page_number": "99",
+    "document_number": null,
+    "date": "2003",
+    "document_type": "Pilot's Logbook",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... 2003 JAN 11 Aero Commander 1159A N69JC PBI PBI AS FLC - SMILE ON CABIN 0 5 2 2 13 B-727-314 N905JC PBI JFK GMSK M AGILE BLACKHAWK VALSON, ANDREW LIEBMAN, ANOR62 MARITIME 1 2 3 1 17 \" \" JFK PBI GMSK M AGILE LIEGMAN, RAYMON 22 \" PBI TIST 171 GMSK, MAGAZINE BLACKOUT, RANDOM 1 2 2 25 \" TIST PBI 172 GMSK, RYAN DIAMOND, MICHAEL LIEGMAN 1 2 8 26 \" PBI JAX 173 1 1 9 26 G-1159B N69JC PBI TCB 164 GMSK M AGILE LIEGMAN GARY 1 2 5 31 \" TCB PBI 145 GMSK M AGILE BLACKHUN 1 2 6 FEB 3 B-727-314 N905JC JAX PBI 74 RPMCOFF 1 1 0 3 \" PBI JFK 175 GMSK MICHAEL LIEGMAN, BLACKHAWK 1 2 3 7 \" JFK PBI 176 GMSK M AGILE BLACKHAWK 1 2 8 11 \" PBI TIST 170 GMSK M AGILE BLACKHOUT PATRICK 1 2 5 12 \" TIST LCGR 178 GMSK M AGILE BLACKHAWK, RANDM 1 7 2 13 \" LCGR LFPG 174 GMSK M AGILE BLACKHAWK, PATRICK 1 2 2 17 \" LFPG CYQX 180 GMSK M AGILE BLACKHAWK, RANDM 5 5 17 \" CYQX PBI 181 GMSK M AGILE BLACKHAWK, RANDM 5 5 23 \" PBI JFK 182 GMSK M AGILE BLACKHAWK, PATRICK 1 2 8 25 \" JFK MRY 183 GMSK M AGILE BLACKHAWK, RANDM 6 3 OMITTED LOGBOOK ENTRIES 109 109 11 8 I certify that the statements made by me on this form are true. Pilot's Signature David R. Dalfonso Page Total 115 115 Amount Forward 6574 8449 2 3 3 113 Total to Date 6619 9615 2 3 3 113 DOJ-OGR-00016014",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "JAN 11 Aero Commander 1159A N69JC PBI PBI AS FLC - SMILE ON CABIN 0 5 2 2",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David R. Dalfonso",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David R. Dalfonso",
+      "VALSON",
+      "ANDREW LIEBMAN",
+      "RAYMON",
+      "GARY",
+      "MICHAEL LIEGMAN",
+      "BLACKHAWK",
+      "RYAN DIAMOND",
+      "PATRICK"
+    ],
+    "organizations": [],
+    "locations": [
+      "PBI",
+      "JFK",
+      "TIST",
+      "JAX",
+      "TCB",
+      "LCGR",
+      "LFPG",
+      "CYQX",
+      "MRY"
+    ],
+    "dates": [
+      "2003",
+      "JAN 11",
+      "JAN 13",
+      "JAN 17",
+      "JAN 22",
+      "JAN 25",
+      "JAN 26",
+      "JAN 31",
+      "FEB 3",
+      "FEB 7",
+      "FEB 11",
+      "FEB 12",
+      "FEB 13",
+      "FEB 17",
+      "FEB 23",
+      "FEB 25"
+    ],
+    "reference_numbers": [
+      "N69JC",
+      "N905JC",
+      "G-1159B",
+      "B-727-314",
+      "DOJ-OGR-00016014"
+    ]
+  },
+  "additional_notes": "The document is a pilot's logbook with handwritten entries. The logbook appears to be filled with flight records, including dates, aircraft information, flight details, and remarks. The document has some minor wear and tear but is overall in good condition."
+}

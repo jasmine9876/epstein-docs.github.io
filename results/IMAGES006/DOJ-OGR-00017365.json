@@ -1,0 +1,51 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "743",
+    "date": "08/10/22",
+    "document_type": "court transcript",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 743 Filed 08/10/22 Page 3 of 247 122 LBUCmax1 1 MS. STERNHEIM: Judge, I have an issue I would prefer to raise at sidebar very quickly. 2 3 THE COURT: Okay. 4 (Continued on next page) 5 (Pages 123 to 125 SEALED) 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 SOUTHERN DISTRICT REPORTERS, P.C. (212) 805-0300 DOJ-OGR-00017365",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 743 Filed 08/10/22 Page 3 of 247 122 LBUCmax1",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "1 MS. STERNHEIM: Judge, I have an issue I would prefer to raise at sidebar very quickly. 2 3 THE COURT: Okay. 4 (Continued on next page) 5 (Pages 123 to 125 SEALED)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SOUTHERN DISTRICT REPORTERS, P.C. (212) 805-0300",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00017365",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "MS. STERNHEIM"
+    ],
+    "organizations": [
+      "SOUTHERN DISTRICT REPORTERS, P.C."
+    ],
+    "locations": [],
+    "dates": [
+      "08/10/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "743",
+      "DOJ-OGR-00017365"
+    ]
+  },
+  "additional_notes": "The document appears to be a court transcript with a header and footer. The content is mostly printed text, with some indications of redaction or sealing on certain pages."
+}

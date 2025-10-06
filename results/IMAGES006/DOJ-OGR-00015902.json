@@ -1,0 +1,88 @@
+{
+  "document_metadata": {
+    "page_number": "105",
+    "document_number": "DOJ-OGR-00015902",
+    "date": "October 2003",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category... OCT 26 G-1159B N9093C TIST TEB 1676 39 9 26 \" TEB MIV 1677 9 27 B-727-31H N9083C JAX JAX 220 1 1 4 28 \" JAX PBI 221 1 0 30 \" PBI JFK 222 2 5 30 \" JFK LFPB 223 6 9 4 \" LFPB EBBR 224 9 4 \" EBBR ENGM 225 1 8 4 \" ENGM ESSA 226 9 5 \" ESSA ENGM 227 1 1 9 5 \" ENGM UNNT 228 5 3 6 \" UNNT VHHH 229 6 5 9 \" VHHH ZUUU 230 2 4 9 \" ZUUU ZBAA 231 2 2 11 \" ZBAA PANC 232 7 8 11 \" PANC JFK 233 6 3 14 \" JFK PBI 234 2 5 18 \" PBI JFK 235 2 6 21 \" JFK CMH 236 1 5 I certify that the statements made by me on this form are true. Pilot's Signature David Ridgeway Page Total 6 9 502 Amount Forward 6362 92275 331250 Total to Date 6734 92857 331250",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date Aircraft Make and Model Aircraft Identification Mark Points of Departure & Arrival Miles Flown Flight No. Remarks, Procedures, Maneuvers, Endorsements Number of Landings Aircraft Category...",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "OCT 26 G-1159B N9093C TIST TEB 1676 39 9 26 \" TEB MIV 1677 9 27 B-727-31H N9083C JAX JAX 220 1 1 4 28 \" JAX PBI 221 1 0 30 \" PBI JFK 222 2 5 30 \" JFK LFPB 223 6 9 4 \" LFPB EBBR 224 9 4 \" EBBR ENGM 225 1 8 4 \" ENGM ESSA 226 9 5 \" ESSA ENGM 227 1 1 9 5 \" ENGM UNNT 228 5 3 6 \" UNNT VHHH 229 6 5 9 \" VHHH ZUUU 230 2 4 9 \" ZUUU ZBAA 231 2 2 11 \" ZBAA PANC 232 7 8 11 \" PANC JFK 233 6 3 14 \" JFK PBI 234 2 5 18 \" PBI JFK 235 2 6 21 \" JFK CMH 236 1 5",
+      "position": "main"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. Pilot's Signature David Ridgeway",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page Total Amount Forward Total to Date",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "6 9 502 6362 92275 331250 6734 92857 331250",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Ridgeway"
+    ],
+    "organizations": [],
+    "locations": [
+      "TIST",
+      "TEB",
+      "MIV",
+      "JAX",
+      "PBI",
+      "JFK",
+      "LFPB",
+      "EBBR",
+      "ENGM",
+      "ESSA",
+      "UNNT",
+      "VHHH",
+      "ZUUU",
+      "ZBAA",
+      "PANC",
+      "CMH"
+    ],
+    "dates": [
+      "OCT 26",
+      "OCT 27",
+      "OCT 28",
+      "OCT 30",
+      "NOV 4",
+      "NOV 4",
+      "NOV 5",
+      "NOV 5",
+      "NOV 6",
+      "NOV 9",
+      "NOV 9",
+      "NOV 11",
+      "NOV 11",
+      "NOV 14",
+      "NOV 18",
+      "NOV 21"
+    ],
+    "reference_numbers": [
+      "N9093C",
+      "N9083C",
+      "G-1159B",
+      "B-727-31H",
+      "DOJ-OGR-00015902"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log from October 2003. It contains handwritten entries detailing flights, including dates, aircraft information, departure and arrival points, miles flown, flight numbers, and number of landings. The log is signed by the pilot, David Ridgeway."
+}

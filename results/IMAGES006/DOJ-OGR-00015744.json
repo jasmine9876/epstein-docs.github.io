@@ -1,0 +1,47 @@
+{
+  "document_metadata": {
+    "page_number": "15",
+    "document_number": "DOJ-OGR-00015744",
+    "date": "2/14/2005",
+    "document_type": "Inventory List",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Lever 2000 soap\nBubble Bath, Bath Gel, Bath Salts (variety)\nRazor and shaving gel\nShampoo / Conditioner (Frédéric Fekkai Technical & Apple Cider)\nAquis Hair Towel\nMason Pearson Hair Brush\nBabor Hand & Nail Repair\nNail polish remover (Cutex)\nFingernail clippers and file\nTweezers\nOB tampons (light & heavy)\n\nDATE: 2/14/2005 SIGNATURE:\nDOJ-OGR-00015744",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Lever 2000 soap\nBubble Bath, Bath Gel, Bath Salts (variety)\nRazor and shaving gel\nShampoo / Conditioner (Frédéric Fekkai Technical & Apple Cider)\nAquis Hair Towel\nMason Pearson Hair Brush\nBabor Hand & Nail Repair\nNail polish remover (Cutex)\nFingernail clippers and file\nTweezers\nOB tampons (light & heavy)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "DATE: 2/14/2005 SIGNATURE:",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015744",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Lever",
+      "Frédéric Fekkai",
+      "Mason Pearson",
+      "Babor",
+      "Cutex",
+      "OB"
+    ],
+    "locations": [],
+    "dates": [
+      "2/14/2005"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00015744"
+    ]
+  },
+  "additional_notes": "The document appears to be an inventory list of personal care items. The date is handwritten in the 'DATE:' field, but there is no signature in the 'SIGNATURE:' field."
+}

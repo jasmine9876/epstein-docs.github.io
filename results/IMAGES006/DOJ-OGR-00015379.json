@@ -1,0 +1,80 @@
+{
+  "document_metadata": {
+    "page_number": "7",
+    "document_number": "4-494-19676",
+    "date": "Nov 25, 2002",
+    "document_type": "FedEx Express Shipment Detail By Payment Type",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "FedEx Invoice Number: 4-494-19676 Invoice Date: Nov 25, 2002 Account Number: 1144-2081-6 Page: 7 of 10 FedEx Express Shipment Detail By Payment Type (Original) Dropped off: Nov 20, 2002 Payor: Shipper Reference: 116 E 65TH Fuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment. Distance Based Pricing, Zone 2 Tracking D 000807508516 Sender DOUG SCHUETTLE JEFFREY E EPSTEIN 457 MADISON AVE NEW YORK NY 10022-6843 US Recipient JOAN HUMPHREYS ATH ARCHITECTS Service Type FedEx Standard Overnight Package Type FedEx Tube Zone 2 Packages 1 Weight 1.0 lbs, 0.5 kgs Delivered Nov 21, 2002 13 25 Svc Area A1 Signed by C.KENNEDY Dec. Value USD 2 00 FedEx Use 325057850/01283/_ Transportation Charge 13 25 Discount -1 33 Declared Value Charge 0.00 Fuel Surcharge 0.48 Total Transportation Charges USD $ 12.40 Dropped off: Nov 20, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION Fuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment. Distance Based Pricing, Zone 2 Tracking D 000807508520 Sender RICHARD BARNETT JEFFREY E EPSTEIN 457 MADISON AVE NEW YORK NY 10022-6843 US Recipient MILLER & RAVID CHARLES MILLER Service Type FedEx Standard Overnight Package Type FedEx Tube Zone 2 Packages 1 Weight 2.0 lbs, 0.9 kgs Delivered Nov 22, 2002 14 31 Svc Area A2 Signed by S BROCK FedEx Use 325057990/01283/_ Transportation Charge 14 50 Discount -1 45 Fuel Surcharge 0 52 Total Transportation Charges USD $ 13.57 Dropped off: Nov 20, 2002 Payor: Shipper Reference: NO REFERENCE INFORMATION Fuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment. Distance Based Pricing, Zone 2 Tracking D 000807508531 Sender RICHARD BARNETT JEFFREY E EPSTEIN 457 MADISON AVE NEW YORK NY 10022-6843 US Recipient RICHARD ARENDT JUSLER ELECTRICAL CORP Service Type FedEx Standard Overnight Package Type FedEx Tube Zone 2 Packages 1 Weight 3.0 lbs, 1.4 kgs Delivered Nov 21, 2002 13 00 Svc Area A1 Signed by C.PERIERA FedEx Use 325057850/01283/_ Transportation Charge 15 25 Discount -1 53 Fuel Surcharge 0 55 Total Transportation Charges USD $ 14.27 CONFIDENTIAL SDNY_GM_00340739 70 DOJ-OGR-00015379",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx Invoice Number: 4-494-19676 Invoice Date: Nov 25, 2002 Account Number: 1144-2081-6 Page: 7 of 10",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "FedEx Express Shipment Detail By Payment Type (Original)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Dropped off: Nov 20, 2002 Payor: Shipper Reference: 116 E 65TH",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Fuel Surcharge - FedEx has applied a fuel surcharge of 4.00% to this shipment. Distance Based Pricing, Zone 2",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "DOUG SCHUETTLE",
+      "JEFFREY E EPSTEIN",
+      "JOAN HUMPHREYS",
+      "RICHARD BARNETT",
+      "CHARLES MILLER",
+      "RICHARD ARENDT",
+      "C.KENNEDY",
+      "S BROCK",
+      "C.PERIERA"
+    ],
+    "organizations": [
+      "FedEx",
+      "ATH ARCHITECTS",
+      "MILLER & RAVID",
+      "JUSLER ELECTRICAL CORP"
+    ],
+    "locations": [
+      "NEW YORK",
+      "457 MADISON AVE",
+      "116 E 65TH"
+    ],
+    "dates": [
+      "Nov 20, 2002",
+      "Nov 21, 2002",
+      "Nov 22, 2002",
+      "Nov 25, 2002"
+    ],
+    "reference_numbers": [
+      "4-494-19676",
+      "1144-2081-6",
+      "000807508516",
+      "000807508520",
+      "000807508531",
+      "325057850/01283/",
+      "325057990/01283/",
+      "SDNY_GM_00340739",
+      "DOJ-OGR-00015379"
+    ]
+  },
+  "additional_notes": "The document appears to be a FedEx invoice with shipment details. It contains information about three separate shipments, including sender and recipient details, package information, and transportation charges. The document is marked as 'CONFIDENTIAL' at the bottom."
+}

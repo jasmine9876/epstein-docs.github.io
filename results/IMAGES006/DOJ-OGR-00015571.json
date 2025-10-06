@@ -1,0 +1,38 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "image",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "GOVERNMENT EXHIBIT 230 DOJ-OGR-00015571 22 Cr. 330 (AJN)",
+  "text_blocks": [
+    {
+      "type": "stamp",
+      "content": "GOVERNMENT EXHIBIT 230",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00015571 22 Cr. 330 (AJN)",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ",
+      "OGR"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00015571",
+      "22 Cr. 330 (AJN)",
+      "230"
+    ]
+  },
+  "additional_notes": "The image appears to be a photograph of a home office or study with a desk, chairs, bookshelves, and various decorative items. The image is dimly lit, and there is a yellow stamp in the bottom-right corner indicating that it is a government exhibit."
+}
