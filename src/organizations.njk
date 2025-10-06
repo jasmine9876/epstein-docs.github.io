@@ -10,40 +10,65 @@ title: Organizations
   <input type="text" id="search" placeholder="Search organizations...">
 </div>
 
+<div class="alphabet-nav">
+  <button class="letter-btn active" data-letter="all">All</button>
+  {% for letter in 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' %}
+  <button class="letter-btn" data-letter="{{ letter }}">{{ letter }}</button>
+  {% endfor %}
+</div>
+
 <div id="results">
   {% for org in indices.organizations %}
-  <div class="section" id="{{ org.name | slugify }}">
-    <h2>{{ org.name }}</h2>
-    <p>Mentioned in {{ org.count }} documents</p>
-
-    <div style="margin-top: 1rem;">
+  <details class="entity-item" data-name="{{ org.name }}" data-letter="{{ org.name[0] | upper }}" id="{{ org.name | slugify }}">
+    <summary class="entity-summary">
+      <span class="entity-name">{{ org.name }}</span>
+      <span class="entity-count">{{ org.count }} {{ "document" if org.count == 1 else "documents" }}</span>
+    </summary>
+    <div class="entity-content">
       {% for doc in org.docs %}
-      <div class="document-card">
-        <h4>Document {{ doc.document_number }}</h4>
-        <div class="meta">
-          {% if doc.document_metadata.document_type %}Type: {{ doc.document_metadata.document_type }} | {% endif %}
-          {% if doc.document_metadata.date %}Date: {{ doc.document_metadata.date }} | {% endif %}
-          Pages: {{ doc.page_count }}
+      <div class="document-card-compact">
+        <a href="/document/{{ doc.unique_id | slugify }}/" class="doc-link">
+          <strong>Document {{ doc.document_number }}</strong>
+        </a>
+        <div class="meta-compact">
+          {% if doc.document_metadata.document_type %}{{ doc.document_metadata.document_type }}{% endif %}
+          {% if doc.document_metadata.date %} · {{ doc.document_metadata.date }}{% endif %}
+          · {{ doc.page_count }} {{ "page" if doc.page_count == 1 else "pages" }}
         </div>
-        <a href="/document/{{ doc.unique_id | slugify }}/" style="font-size: 0.9rem;">View document →</a>
       </div>
       {% endfor %}
     </div>
-  </div>
+  </details>
   {% endfor %}
 </div>
 
 <script>
   const search = document.getElementById('search');
   const results = document.getElementById('results');
+  const letterBtns = document.querySelectorAll('.letter-btn');
+  const allItems = results.querySelectorAll('.entity-item');
 
   search.addEventListener('input', (e) => {
     const query = e.target.value.toLowerCase();
-    const sections = results.querySelectorAll('.section');
+    allItems.forEach(item => {
+      const name = item.dataset.name.toLowerCase();
+      item.style.display = name.includes(query) ? 'block' : 'none';
+    });
+  });
 
-    sections.forEach(section => {
-      const title = section.querySelector('h2').textContent.toLowerCase();
-      section.style.display = title.includes(query) ? 'block' : 'none';
+  letterBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      const letter = btn.dataset.letter;
+      letterBtns.forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      search.value = '';
+      allItems.forEach(item => {
+        if (letter === 'all') {
+          item.style.display = 'block';
+        } else {
+          item.style.display = item.dataset.letter === letter ? 'block' : 'none';
+        }
+      });
     });
   });
 </script>

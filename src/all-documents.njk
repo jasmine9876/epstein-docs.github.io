@@ -10,9 +10,13 @@ title: All Documents
   <input type="text" id="search" placeholder="Search documents...">
 </div>
 
+<div class="pagination-info" style="margin: 1rem 0; text-align: center; color: #666;">
+  Showing <span id="showing-start">1</span>-<span id="showing-end">50</span> of <span id="total-count">{{ documents.length }}</span>
+</div>
+
 <div id="results">
   {% for doc in documents %}
-  <div class="document-card">
+  <div class="document-card" data-index="{{ loop.index0 }}">
     <h4>Document {{ doc.document_number }}</h4>
     <div class="meta">
       {% if doc.document_metadata.document_type %}Type: {{ doc.document_metadata.document_type }} | {% endif %}
@@ -33,17 +37,129 @@ title: All Documents
   {% endfor %}
 </div>
 
+<div class="pagination-controls" style="display: flex; justify-content: center; align-items: center; gap: 1rem; margin: 2rem 0; flex-wrap: wrap;">
+  <button id="prev-btn" class="page-btn">← Previous</button>
+  <div id="page-numbers" style="display: flex; gap: 0.5rem; flex-wrap: wrap;"></div>
+  <button id="next-btn" class="page-btn">Next →</button>
+</div>
+
 <script>
   const search = document.getElementById('search');
   const results = document.getElementById('results');
+  const allCards = Array.from(results.querySelectorAll('.document-card'));
+  const prevBtn = document.getElementById('prev-btn');
+  const nextBtn = document.getElementById('next-btn');
+  const pageNumbersContainer = document.getElementById('page-numbers');
+  const showingStart = document.getElementById('showing-start');
+  const showingEnd = document.getElementById('showing-end');
+  const totalCount = document.getElementById('total-count');
 
+  const itemsPerPage = 50;
+  let currentPage = 1;
+  let filteredCards = allCards;
+
+  function updatePagination() {
+    const totalPages = Math.ceil(filteredCards.length / itemsPerPage);
+    const startIndex = (currentPage - 1) * itemsPerPage;
+    const endIndex = Math.min(startIndex + itemsPerPage, filteredCards.length);
+
+    // Hide all cards
+    allCards.forEach(card => card.style.display = 'none');
+
+    // Show current page cards
+    filteredCards.slice(startIndex, endIndex).forEach(card => card.style.display = 'block');
+
+    // Update info
+    showingStart.textContent = filteredCards.length > 0 ? startIndex + 1 : 0;
+    showingEnd.textContent = endIndex;
+    totalCount.textContent = filteredCards.length;
+
+    // Update buttons
+    prevBtn.disabled = currentPage === 1;
+    nextBtn.disabled = currentPage === totalPages || filteredCards.length === 0;
+
+    // Update page numbers
+    pageNumbersContainer.innerHTML = '';
+    const maxPageButtons = 7;
+    let startPage = Math.max(1, currentPage - Math.floor(maxPageButtons / 2));
+    let endPage = Math.min(totalPages, startPage + maxPageButtons - 1);
+
+    if (endPage - startPage < maxPageButtons - 1) {
+      startPage = Math.max(1, endPage - maxPageButtons + 1);
+    }
+
+    if (startPage > 1) {
+      const btn = createPageButton(1);
+      pageNumbersContainer.appendChild(btn);
+      if (startPage > 2) {
+        const ellipsis = document.createElement('span');
+        ellipsis.textContent = '...';
+        ellipsis.style.padding = '0.5rem';
+        pageNumbersContainer.appendChild(ellipsis);
+      }
+    }
+
+    for (let i = startPage; i <= endPage; i++) {
+      const btn = createPageButton(i);
+      pageNumbersContainer.appendChild(btn);
+    }
+
+    if (endPage < totalPages) {
+      if (endPage < totalPages - 1) {
+        const ellipsis = document.createElement('span');
+        ellipsis.textContent = '...';
+        ellipsis.style.padding = '0.5rem';
+        pageNumbersContainer.appendChild(ellipsis);
+      }
+      const btn = createPageButton(totalPages);
+      pageNumbersContainer.appendChild(btn);
+    }
+  }
+
+  function createPageButton(page) {
+    const btn = document.createElement('button');
+    btn.textContent = page;
+    btn.className = 'page-num';
+    if (page === currentPage) {
+      btn.classList.add('active');
+    }
+    btn.addEventListener('click', () => {
+      currentPage = page;
+      updatePagination();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+    return btn;
+  }
+
+  // Search functionality
   search.addEventListener('input', (e) => {
     const query = e.target.value.toLowerCase();
-    const cards = results.querySelectorAll('.document-card');
-
-    cards.forEach(card => {
+    filteredCards = allCards.filter(card => {
       const text = card.textContent.toLowerCase();
-      card.style.display = text.includes(query) ? 'block' : 'none';
+      return text.includes(query);
     });
+    currentPage = 1;
+    updatePagination();
   });
+
+  // Navigation buttons
+  prevBtn.addEventListener('click', () => {
+    if (currentPage > 1) {
+      currentPage--;
+      updatePagination();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+  });
+
+  nextBtn.addEventListener('click', () => {
+    const totalPages = Math.ceil(filteredCards.length / itemsPerPage);
+    if (currentPage < totalPages) {
+      currentPage++;
+      updatePagination();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+  });
+
+  // Initial render
+  updatePagination();
 </script>

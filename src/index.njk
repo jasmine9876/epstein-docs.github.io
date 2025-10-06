@@ -1,11 +1,17 @@
 ---
 layout: base.njk
-title: Document Explorer
+title: Home
 ---
 
 <div class="hero">
-  <h1>Document Archive</h1>
+  <h1>Epstein Archive</h1>
   <p class="subtitle">Browse {{ documents.length }} processed documents</p>
+
+  <div class="search-box" style="margin-top: 2rem; max-width: 600px; margin-left: auto; margin-right: auto;">
+    <input type="text" id="global-search" placeholder="Search people, organizations, locations...">
+  </div>
+
+  <div id="search-results" style="display: none; margin-top: 1.5rem; text-align: left; max-width: 600px; margin-left: auto; margin-right: auto;"></div>
 </div>
 
 <div class="stats">
@@ -82,3 +88,99 @@ title: Document Explorer
   </ul>
   <a href="/organizations/" class="view-all">View all organizations →</a>
 </div>
+
+<script>
+  const globalSearch = document.getElementById('global-search');
+  const searchResults = document.getElementById('search-results');
+
+  // Build lightweight search index (name and count only)
+  const searchIndex = {
+    people: [
+      {% for person in indices.people %}
+      { name: {{ person.name | dump | safe }}, count: {{ person.count }} }{{ "," if not loop.last else "" }}
+      {% endfor %}
+    ],
+    organizations: [
+      {% for org in indices.organizations %}
+      { name: {{ org.name | dump | safe }}, count: {{ org.count }} }{{ "," if not loop.last else "" }}
+      {% endfor %}
+    ],
+    locations: [
+      {% for loc in indices.locations %}
+      { name: {{ loc.name | dump | safe }}, count: {{ loc.count }} }{{ "," if not loop.last else "" }}
+      {% endfor %}
+    ]
+  };
+
+  globalSearch.addEventListener('input', (e) => {
+    const query = e.target.value.toLowerCase().trim();
+
+    if (query.length === 0) {
+      searchResults.style.display = 'none';
+      return;
+    }
+
+    const results = {
+      people: searchIndex.people.filter(p => p.name.toLowerCase().includes(query)).slice(0, 5),
+      organizations: searchIndex.organizations.filter(o => o.name.toLowerCase().includes(query)).slice(0, 5),
+      locations: searchIndex.locations.filter(l => l.name.toLowerCase().includes(query)).slice(0, 5)
+    };
+
+    const totalResults = results.people.length + results.organizations.length + results.locations.length;
+
+    if (totalResults === 0) {
+      searchResults.innerHTML = '<div style="background: white; padding: 1rem; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); color: #666;">No results found</div>';
+      searchResults.style.display = 'block';
+      return;
+    }
+
+    let html = '<div style="background: white; padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">';
+
+    if (results.people.length > 0) {
+      html += '<div style="margin-bottom: 1.5rem;"><h4 style="color: #666; font-size: 0.85rem; text-transform: uppercase; margin-bottom: 0.75rem;">People</h4><div style="display: grid; gap: 0.5rem;">';
+      results.people.forEach(person => {
+        html += `<a href="/people/#${slugify(person.name)}" style="display: flex; justify-content: space-between; padding: 0.5rem; background: #f8f9fa; border-radius: 4px; text-decoration: none; color: #3498db; border-left: 3px solid #3498db;">
+          <span>${person.name}</span>
+          <span style="color: #999; font-size: 0.85rem;">${person.count} docs</span>
+        </a>`;
+      });
+      html += '</div></div>';
+    }
+
+    if (results.organizations.length > 0) {
+      html += '<div style="margin-bottom: 1.5rem;"><h4 style="color: #666; font-size: 0.85rem; text-transform: uppercase; margin-bottom: 0.75rem;">Organizations</h4><div style="display: grid; gap: 0.5rem;">';
+      results.organizations.forEach(org => {
+        html += `<a href="/organizations/#${slugify(org.name)}" style="display: flex; justify-content: space-between; padding: 0.5rem; background: #f8f9fa; border-radius: 4px; text-decoration: none; color: #3498db; border-left: 3px solid #3498db;">
+          <span>${org.name}</span>
+          <span style="color: #999; font-size: 0.85rem;">${org.count} docs</span>
+        </a>`;
+      });
+      html += '</div></div>';
+    }
+
+    if (results.locations.length > 0) {
+      html += '<div><h4 style="color: #666; font-size: 0.85rem; text-transform: uppercase; margin-bottom: 0.75rem;">Locations</h4><div style="display: grid; gap: 0.5rem;">';
+      results.locations.forEach(loc => {
+        html += `<a href="/locations/#${slugify(loc.name)}" style="display: flex; justify-content: space-between; padding: 0.5rem; background: #f8f9fa; border-radius: 4px; text-decoration: none; color: #3498db; border-left: 3px solid #3498db;">
+          <span>${loc.name}</span>
+          <span style="color: #999; font-size: 0.85rem;">${loc.count} docs</span>
+        </a>`;
+      });
+      html += '</div></div>';
+    }
+
+    html += '</div>';
+    searchResults.innerHTML = html;
+    searchResults.style.display = 'block';
+  });
+
+  // Simple slugify function matching 11ty's slugify filter
+  function slugify(str) {
+    return str.toString().toLowerCase()
+      .replace(/\s+/g, '-')
+      .replace(/[^\w\-]+/g, '')
+      .replace(/\-\-+/g, '-')
+      .replace(/^-+/, '')
+      .replace(/-+$/, '');
+  }
+</script>
