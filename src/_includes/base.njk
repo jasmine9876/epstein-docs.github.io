@@ -195,7 +195,7 @@
 
     .document-full {
       background: white;
-      padding: 2rem;
+      padding: 1.5rem;
       border-radius: 8px;
       margin-bottom: 2rem;
       box-shadow: 0 2px 4px rgba(0,0,0,0.1);
@@ -456,9 +456,9 @@
     /* Document Detail Page Layout */
     .doc-layout {
       display: grid;
-      grid-template-columns: 250px 1fr;
-      gap: 2rem;
-      margin-top: 2rem;
+      grid-template-columns: 200px 1fr;
+      gap: 1.5rem;
+      margin-top: 1rem;
     }
 
     .doc-sidebar {
@@ -468,22 +468,23 @@
     }
 
     .doc-main {
-      max-width: 800px;
+      max-width: 700px;
     }
 
     .doc-toc {
       background: white;
-      padding: 1.5rem;
-      border-radius: 8px;
-      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-      margin-bottom: 1.5rem;
+      padding: 1rem;
+      border-radius: 6px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+      margin-bottom: 1rem;
     }
 
     .doc-toc h3 {
-      font-size: 0.9rem;
+      font-size: 0.75rem;
       text-transform: uppercase;
       color: #666;
-      margin-bottom: 1rem;
+      margin-bottom: 0.75rem;
+      font-weight: 600;
     }
 
     .toc-list {
@@ -491,13 +492,13 @@
     }
 
     .toc-list li {
-      margin-bottom: 0.5rem;
+      margin-bottom: 0.35rem;
     }
 
     .toc-list a {
       color: #3498db;
       text-decoration: none;
-      font-size: 0.9rem;
+      font-size: 0.8rem;
     }
 
     .toc-list a:hover {
@@ -506,26 +507,32 @@
 
     .doc-entities {
       background: white;
-      padding: 1.5rem;
-      border-radius: 8px;
-      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      padding: 1rem;
+      border-radius: 6px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.08);
     }
 
     .doc-entities h3 {
-      font-size: 0.9rem;
+      font-size: 0.75rem;
       text-transform: uppercase;
       color: #666;
-      margin-bottom: 1rem;
+      margin-bottom: 0.75rem;
+      font-weight: 600;
     }
 
     .entity-section {
-      margin-bottom: 1.5rem;
+      margin-bottom: 1rem;
+    }
+
+    .entity-section:last-child {
+      margin-bottom: 0;
     }
 
     .entity-section h4 {
-      font-size: 0.85rem;
+      font-size: 0.7rem;
       color: #888;
-      margin-bottom: 0.5rem;
+      margin-bottom: 0.4rem;
+      font-weight: 600;
     }
 
     .entity-section ul {
@@ -535,8 +542,8 @@
     }
 
     .entity-section li {
-      padding: 0.25rem 0;
-      font-size: 0.9rem;
+      padding: 0.15rem 0;
+      font-size: 0.8rem;
     }
 
     .entity-section a {
@@ -550,55 +557,61 @@
 
     .metadata-box {
       background: #f8f9fa;
-      padding: 1.5rem;
-      border-radius: 8px;
-      margin-bottom: 2rem;
-      border-left: 4px solid #3498db;
+      padding: 1rem;
+      border-radius: 6px;
+      margin-bottom: 1.5rem;
+      border-left: 3px solid #3498db;
     }
 
     .metadata-item strong {
       display: block;
-      font-size: 0.75rem;
+      font-size: 0.65rem;
       text-transform: uppercase;
       color: #666;
-      margin-bottom: 0.25rem;
+      margin-bottom: 0.2rem;
+    }
+
+    .metadata-item div {
+      font-size: 0.9rem;
     }
 
     .full-text-container {
       background: white;
-      padding: 2rem;
-      border-radius: 8px;
-      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-      margin-bottom: 2rem;
+      padding: 1.5rem;
+      border-radius: 6px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+      margin-bottom: 1.5rem;
     }
 
     .full-text-container h2 {
-      margin-bottom: 1.5rem;
+      margin-bottom: 1rem;
       color: #2c3e50;
+      font-size: 1.5rem;
     }
 
     .full-text-container .full-text {
       font-family: Georgia, serif;
-      font-size: 1.05rem;
-      line-height: 1.8;
+      font-size: 0.95rem;
+      line-height: 1.6;
       white-space: pre-wrap;
       color: #333;
     }
 
     .page-details {
-      margin-top: 2rem;
+      margin-top: 1.5rem;
     }
 
     .page-detail {
-      margin-bottom: 1rem;
+      margin-bottom: 0.75rem;
     }
 
     .page-summary {
-      padding: 1rem 1.5rem;
+      padding: 0.75rem 1rem;
       background: #f8f9fa;
       border-radius: 4px;
       cursor: pointer;
       font-weight: 500;
+      font-size: 0.9rem;
     }
 
     .page-summary:hover {
@@ -606,21 +619,53 @@
     }
 
     .page-content {
-      padding: 1.5rem;
+      padding: 1rem;
       background: white;
       border: 1px solid #e0e0e0;
       border-top: none;
       border-radius: 0 0 4px 4px;
     }
 
+    .page-content .full-text {
+      font-family: Georgia, serif;
+      font-size: 0.9rem;
+      line-height: 1.6;
+      white-space: pre-wrap;
+      color: #333;
+    }
+
     /* Responsive Design */
     @media (max-width: 968px) {
       .doc-layout {
         grid-template-columns: 1fr;
+        gap: 1rem;
       }
 
       .doc-sidebar {
         position: static;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 1rem;
+      }
+
+      .doc-toc, .doc-entities {
+        margin-bottom: 0;
+      }
+
+      .container {
+        padding: 15px;
+      }
+
+      .full-text-container {
+        padding: 1rem;
+      }
+
+      .full-text-container h2 {
+        font-size: 1.25rem;
+      }
+
+      .metadata-box {
+        padding: 0.75rem;
       }
 
       nav .container {
@@ -638,8 +683,16 @@
     }
 
     @media (max-width: 600px) {
+      .container {
+        padding: 10px;
+      }
+
       .hero h1 {
-        font-size: 2rem;
+        font-size: 1.75rem;
+      }
+
+      .hero {
+        padding: 1.5rem 1rem;
       }
 
       .stats {
@@ -657,6 +710,45 @@
 
       .entity-content {
         padding: 0 1rem 1rem 2.5rem;
+      }
+
+      .doc-sidebar {
+        grid-template-columns: 1fr;
+      }
+
+      .full-text-container {
+        padding: 0.75rem;
+      }
+
+      .full-text-container .full-text {
+        font-size: 0.9rem;
+        line-height: 1.55;
+      }
+
+      .page-content {
+        padding: 0.75rem;
+      }
+
+      .page-content .full-text {
+        font-size: 0.85rem;
+      }
+
+      .metadata-box {
+        padding: 0.75rem;
+      }
+
+      .metadata-grid {
+        grid-template-columns: 1fr;
+        gap: 0.75rem;
+      }
+
+      .document-full {
+        padding: 0.75rem;
+      }
+
+      .page-summary {
+        padding: 0.5rem 0.75rem;
+        font-size: 0.85rem;
       }
     }
 
