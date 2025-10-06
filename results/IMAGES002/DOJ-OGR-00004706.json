@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "293-9",
+    "date": "05/25/21",
+    "document_type": "Exhibit",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 293-9 Filed 05/25/21 Page 1 of 1 Exhibit I (Filed Under Seal) DOJ-OGR-00004706",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 293-9 Filed 05/25/21 Page 1 of 1",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Exhibit I (Filed Under Seal)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00004706",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "05/25/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "293-9",
+      "DOJ-OGR-00004706"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a sealed exhibit. The content of the exhibit is not visible in the provided image."
+}

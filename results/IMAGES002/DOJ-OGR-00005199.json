@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "21",
+    "document_number": "338",
+    "date": "10/12/21",
+    "document_type": "court document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 338 Filed 10/12/21 Page 21 of 22 Clerk of Court, Please file the enclosed motion to intervene into United States v. Ghislaine Maxwell (2021 U.S. Dist. Lexis 73982 (S.D.N.Y., April 2021) per Fed. R. Civ. P. 24(b)(1). Please notify me at the below problem address of any problems Respectfully David A. Diehl 8-4-2021 53214018 Federal Correctional Complex USP Coleman II PO 130x 1034",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 338 Filed 10/12/21 Page 21 of 22",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Clerk of Court, Please file the enclosed motion to intervene into United States v. Ghislaine Maxwell (2021 U.S. Dist. Lexis 73982 (S.D.N.Y., April 2021) per Fed. R. Civ. P. 24(b)(1). Please notify me at the below problem address of any problems",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Respectfully David A. Diehl 8-4-2021",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "David A. Diehl 53214018 Federal Correctional Complex USP Coleman II PO 130x 1034",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00005199",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David A. Diehl",
+      "Ghislaine Maxwell"
+    ],
+    "organizations": [
+      "USP Coleman II",
+      "Federal Correctional Complex"
+    ],
+    "locations": [
+      "S.D.N.Y.",
+      "Coleman II"
+    ],
+    "dates": [
+      "10/12/21",
+      "8-4-2021",
+      "April 2021"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "Document 338",
+      "53214018",
+      "73982",
+      "PO 130x 1034"
+    ]
+  },
+  "additional_notes": "The document appears to be a handwritten letter to the Clerk of Court regarding filing a motion to intervene in a court case. The letter is signed by David A. Diehl, who is incarcerated at the Federal Correctional Complex, USP Coleman II."
+}

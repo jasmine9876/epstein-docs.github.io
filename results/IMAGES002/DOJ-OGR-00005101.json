@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": "839",
+    "document_number": "336019",
+    "date": "09/07/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cv-030838-PAE Document 336019 Filed 09/07/21 Page 839 of 60 GIUFFRE007181 CONFIDENTIAL AFARMER00000557 DOJ-OGR-00005101",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cv-030838-PAE Document 336019 Filed 09/07/21 Page 839 of 60",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "GIUFFRE007181",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "AFARMER00000557",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00005101",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "09/07/21"
+    ],
+    "reference_numbers": [
+      "1:20-cv-030838-PAE",
+      "336019",
+      "GIUFFRE007181",
+      "AFARMER00000557",
+      "DOJ-OGR-00005101"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a large blacked-out section, indicating redacted content. The presence of 'CONFIDENTIAL' suggests sensitive information."
+}

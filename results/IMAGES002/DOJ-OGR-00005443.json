@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "50",
+    "document_number": "380",
+    "date": "10/29/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 380 Filed 10/29/21 Page 50 of 54",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 380 Filed 10/29/21 Page 50 of 54",
+      "position": "header"
+    },
+    {
+      "type": "other",
+      "content": "49",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00005443",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "10/29/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "380",
+      "DOJ-OGR-00005443"
+    ]
+  },
+  "additional_notes": "The document is heavily redacted, with most of the content obscured by black bars."
+}

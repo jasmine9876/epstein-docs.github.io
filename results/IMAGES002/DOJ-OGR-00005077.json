@@ -1,0 +1,52 @@
+{
+  "document_metadata": {
+    "page_number": "25",
+    "document_number": "336-1",
+    "date": "09/07/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 336-1 Filed 09/07/21 Page 25 of 69 Property of Annie Farmer - Not For Media Use AFARMER00011693 DOJ-OGR-00005077",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 336-1 Filed 09/07/21 Page 25 of 69",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Property of Annie Farmer - Not For Media Use",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "AFARMER00011693",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00005077",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Annie Farmer"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "09/07/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "336-1",
+      "AFARMER00011693",
+      "DOJ-OGR-00005077"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a large blacked-out section, suggesting sensitive or redacted information. The footer contains a notice indicating the document is not for media use and includes reference numbers."
+}

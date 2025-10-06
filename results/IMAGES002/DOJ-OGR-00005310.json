@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "34",
+    "document_number": "365",
+    "date": "10/22/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 365 Filed 10/22/21 Page 34 of 40 Introduction [PLACEHOLDER FOR INTRODUCTORY REMARKS] 1 DOJ-OGR-00005310",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 365 Filed 10/22/21 Page 34 of 40",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Introduction",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "[PLACEHOLDER FOR INTRODUCTORY REMARKS]",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "1",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00005310",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "10/22/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "365",
+      "DOJ-OGR-00005310"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a placeholder for introductory remarks. The page is mostly blank."
+}

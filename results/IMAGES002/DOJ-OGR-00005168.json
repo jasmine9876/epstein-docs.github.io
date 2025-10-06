@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "13",
+    "document_number": "336-4",
+    "date": "09/07/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 336-4 Filed 09/07/21 Page 13 of 22 EXHIBIT B DOJ-OGR-00005168",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 336-4 Filed 09/07/21 Page 13 of 22",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EXHIBIT B",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00005168",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "09/07/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "336-4",
+      "DOJ-OGR-00005168"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear header and footer. The content is mostly blank except for the title 'EXHIBIT B' and a reference number at the bottom."
+}

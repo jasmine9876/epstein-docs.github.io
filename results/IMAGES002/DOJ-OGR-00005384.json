@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "373",
+    "date": "10/26/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-AJN Document 373 Filed 10/26/21 Page 2 of 2 2 DOJ-OGR-00005384",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-AJN Document 373 Filed 10/26/21 Page 2 of 2",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "2",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00005384",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "10/26/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-AJN",
+      "373",
+      "DOJ-OGR-00005384"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a case number and document number. The content is minimal, with most of the page being blank."
+}

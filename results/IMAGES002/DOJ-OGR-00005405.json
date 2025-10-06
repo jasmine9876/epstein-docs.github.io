@@ -1,0 +1,69 @@
+{
+  "document_metadata": {
+    "page_number": "12",
+    "document_number": "380",
+    "date": "10/29/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 380 Filed 10/29/21 Page 12 of 54 The Government also requests that two witnesses (\"Witness-1\" and \"Witness-2\"), who the Government expects will testify at trial about Minor Victim-1, be permitted to testify under pseudonyms. This request is a corollary of the protection requested for Minor Victim-1: Witness-1 is Witness-2 is The Government requests that Minor Victim-4 be permitted to testify using her first name only, and that two witnesses (\"Witness-3\" and \"Witness-4\"), who the Government anticipates will testify about Minor Victim-4, also be permitted to testify using their first names. Further, the Government requests that Minor Victim-6, who will not testify at trial, be referred to in open court by her first name only. Finally, the Government asks that the Court: (1) limit references at trial for the above Minor Victims and witnesses to the manner described above, including in jury addresses and 11 DOJ-OGR-00005405",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 380 Filed 10/29/21 Page 12 of 54",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "The Government also requests that two witnesses (\"Witness-1\" and \"Witness-2\"), who the Government expects will testify at trial about Minor Victim-1, be permitted to testify under pseudonyms. This request is a corollary of the protection requested for Minor Victim-1: Witness-1 is Witness-2 is",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "The Government requests that Minor Victim-4 be permitted to testify using her first name only, and that two witnesses (\"Witness-3\" and \"Witness-4\"), who the Government anticipates will testify about Minor Victim-4, also be permitted to testify using their first names. Further, the Government requests that Minor Victim-6, who will not testify at trial, be referred to in open court by her first name only.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Finally, the Government asks that the Court: (1) limit references at trial for the above Minor Victims and witnesses to the manner described above, including in jury addresses and",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "11",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00005405",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Minor Victim-1",
+      "Witness-1",
+      "Witness-2",
+      "Minor Victim-4",
+      "Witness-3",
+      "Witness-4",
+      "Minor Victim-6"
+    ],
+    "organizations": [
+      "Government",
+      "Court",
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "10/29/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "Document 380",
+      "DOJ-OGR-00005405"
+    ]
+  },
+  "additional_notes": "The document contains redactions for sensitive information, likely related to minor victims and witnesses in a court case."
+}

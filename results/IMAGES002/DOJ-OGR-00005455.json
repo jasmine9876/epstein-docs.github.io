@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": "5",
+    "document_number": "381",
+    "date": "10/29/21",
+    "document_type": "delivery status update",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 381 Filed 10/29/21 Page 5 of 5 Tracking Number: EJ699436427US Scheduled Delivery by THURSDAY 28 OCTOBER 2021 by 6:00pm Status Available for Pickup October 28, 2021 at 10:59 am BROOKLYN, NY 11232 Get Updates Available for Pickup Text & Email Updates Proof of Delivery Tracking History Product Information See Less Tracking Number: EJ699436413US Scheduled Delivery by SATURDAY 9 OCTOBER 2021 by 6:00pm Status Available for Pickup October 12, 2021 at 9:07 am BROOKLYN, NY 11232 Get Updates Available for Pickup See More DOJ-OGR-00005455",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 381 Filed 10/29/21 Page 5 of 5",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Tracking Number: EJ699436427US Scheduled Delivery by THURSDAY 28 OCTOBER 2021 by 6:00pm Status Available for Pickup October 28, 2021 at 10:59 am BROOKLYN, NY 11232 Get Updates Available for Pickup Text & Email Updates Proof of Delivery Tracking History Product Information See Less",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Tracking Number: EJ699436413US Scheduled Delivery by SATURDAY 9 OCTOBER 2021 by 6:00pm Status Available for Pickup October 12, 2021 at 9:07 am BROOKLYN, NY 11232 Get Updates Available for Pickup See More",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00005455",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [
+      "BROOKLYN",
+      "NY"
+    ],
+    "dates": [
+      "October 28, 2021",
+      "October 12, 2021",
+      "10/29/21",
+      "OCTOBER 2021"
+    ],
+    "reference_numbers": [
+      "EJ699436427US",
+      "EJ699436413US",
+      "1:20-cr-00330-PAE",
+      "381",
+      "DOJ-OGR-00005455"
+    ]
+  },
+  "additional_notes": "The document appears to be a delivery status update for two packages with tracking numbers EJ699436427US and EJ699436413US. Both packages were available for pickup in Brooklyn, NY."
+}

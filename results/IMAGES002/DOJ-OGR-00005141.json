@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "8",
+    "document_number": "336-3",
+    "date": "09/07/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 336-3 Filed 09/07/21 Page 8 of 22 EXHIBIT A DOJ-OGR-00005141",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 336-3 Filed 09/07/21 Page 8 of 22",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EXHIBIT A",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00005141",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "09/07/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "336-3",
+      "DOJ-OGR-00005141"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear header and footer. The main content is labeled 'EXHIBIT A' but is otherwise blank on this page."
+}

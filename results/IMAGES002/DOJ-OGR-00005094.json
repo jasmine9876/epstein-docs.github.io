@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": "842",
+    "document_number": "336019",
+    "date": "09/07/2021",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cv-030838-PAE Document 336-19 Filed 09/07/21 Page 842 of 60 GIUFFRE007174 CONFIDENTIAL AFARMER00000550 DOJ-OGR-00005094",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cv-030838-PAE Document 336-19 Filed 09/07/21 Page 842 of 60",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "GIUFFRE007174",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "AFARMER00000550",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00005094",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "09/07/2021"
+    ],
+    "reference_numbers": [
+      "1:20-cv-030838-PAE",
+      "336-19",
+      "GIUFFRE007174",
+      "AFARMER00000550",
+      "DOJ-OGR-00005094"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a large blacked-out section, indicating redaction of sensitive information. The page is marked as confidential."
+}

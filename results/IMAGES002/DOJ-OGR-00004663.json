@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "293-3",
+    "date": "05/25/21",
+    "document_type": "Exhibit",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 293-3 Filed 05/25/21 Page 1 of 34 Exhibit C DOJ-OGR-00004663",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 293-3 Filed 05/25/21 Page 1 of 34",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Exhibit C",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00004663",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "05/25/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "293-3",
+      "DOJ-OGR-00004663"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear header and footer. The content is mostly blank except for the title 'Exhibit C'."
+}

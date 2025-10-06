@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "396-1",
+    "date": "10/29/21",
+    "document_type": "Exhibit",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 396-1 Filed 10/29/21 Page 1 of 1 EXHIBIT A FILED UNDER SEAL DOJ-OGR-00005783",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 396-1 Filed 10/29/21 Page 1 of 1",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EXHIBIT A FILED UNDER SEAL",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00005783",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "10/29/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "396-1",
+      "DOJ-OGR-00005783"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear header and footer. The content is mostly printed text, with no visible handwriting or stamps. The document is marked as 'FILED UNDER SEAL'."
+}

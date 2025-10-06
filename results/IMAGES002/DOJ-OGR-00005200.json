@@ -1,0 +1,69 @@
+{
+  "document_metadata": {
+    "page_number": "22",
+    "document_number": "338",
+    "date": "10/12/21",
+    "document_type": "Envelope",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "David A. Dick1, 53214018 Federal Correctional USP Coleman II PO Box 1034 Coleman, FL 33521 Filed 10/12/21 Document 338 Case 1:20-cr-00330-PAE SDNY PRO SE OFFICE RECEIVED SEP 2 6 2021 CLERK'S OFFICE S.D.N.Y. Daniel Patrick Moyniham U.S. Courthouse 500 Pearl St. Room 120 New York, NY 10007-1312 Legal mail pro se DOJ-OGR-00005200",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "David A. Dick1, 53214018 Federal Correctional USP Coleman II PO Box 1034 Coleman, FL 33521",
+      "position": "top"
+    },
+    {
+      "type": "stamp",
+      "content": "SDNY PRO SE OFFICE RECEIVED SEP 2 6 2021 CLERK'S OFFICE S.D.N.Y.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Daniel Patrick Moyniham U.S. Courthouse 500 Pearl St. Room 120 New York, NY 10007-1312 Legal mail",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "pro se",
+      "position": "right"
+    },
+    {
+      "type": "printed",
+      "content": "Filed 10/12/21 Document 338 Case 1:20-cr-00330-PAE",
+      "position": "left margin"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00005200",
+      "position": "bottom right"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David A. Dick1",
+      "Daniel Patrick Moyniham"
+    ],
+    "organizations": [
+      "Federal Correctional USP Coleman II",
+      "SDNY PRO SE OFFICE",
+      "CLERK'S OFFICE S.D.N.Y."
+    ],
+    "locations": [
+      "Coleman, FL",
+      "New York, NY"
+    ],
+    "dates": [
+      "10/12/21",
+      "SEP 2 6 2021"
+    ],
+    "reference_numbers": [
+      "53214018",
+      "1:20-cr-00330-PAE",
+      "338",
+      "DOJ-OGR-00005200"
+    ]
+  },
+  "additional_notes": "The document is an envelope with handwritten address and stamps. It appears to be a legal mail from a correctional facility to a courthouse."
+}

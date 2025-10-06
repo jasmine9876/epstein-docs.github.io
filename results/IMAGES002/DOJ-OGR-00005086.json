@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "34",
+    "document_number": "336019",
+    "date": "09/07/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cv-030838-PAE Document 336019 Filed 09/07/21 Page 34 of 60 GIUFFRE007166 CONFIDENTIAL AFARMER00000542 DOJ-OGR-00005086",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cv-030838-PAE Document 336019 Filed 09/07/21 Page 34 of 60",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "GIUFFRE007166",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "AFARMER00000542",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00005086",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "09/07/21"
+    ],
+    "reference_numbers": [
+      "1:20-cv-030838-PAE",
+      "336019",
+      "GIUFFRE007166",
+      "AFARMER00000542",
+      "DOJ-OGR-00005086"
+    ]
+  },
+  "additional_notes": "The document contains a large blacked-out section, indicating redaction of sensitive information. The presence of 'CONFIDENTIAL' suggests the document contains confidential material."
+}

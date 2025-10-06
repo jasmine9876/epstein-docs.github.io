@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "16 of 40",
+    "document_number": "383",
+    "date": "10/29/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 383 Filed 10/29/21 Page 16 of 40 Government's proposal, the Minor Victims' names will not be said in open court. A person in the gallery, or a person reading the transcript, cannot simply write down the Minor Victims' names and put them on the internet. 15 DOJ-OGR-00005570",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 383 Filed 10/29/21 Page 16 of 40",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Government's proposal, the Minor Victims' names will not be said in open court. A person in the gallery, or a person reading the transcript, cannot simply write down the Minor Victims' names and put them on the internet.",
+      "position": "top"
+    },
+    {
+      "type": "other",
+      "content": "[redacted text]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "15",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00005570",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "10/29/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "383",
+      "DOJ-OGR-00005570"
+    ]
+  },
+  "additional_notes": "The document contains redactions, likely to protect sensitive information such as the names of minor victims."
+}

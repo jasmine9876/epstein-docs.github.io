@@ -1,0 +1,45 @@
+{
+  "document_metadata": {
+    "page_number": "27",
+    "document_number": "336-1",
+    "date": "09/07/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 336-1 Filed 09/07/21 Page 27 of 89 Not for Media Use AFARMER00012106 DOJ-OGR-00005079",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 336-1 Filed 09/07/21 Page 27 of 89",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Not for Media Use",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "AFARMER00012106 DOJ-OGR-00005079",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "09/07/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "336-1",
+      "AFARMER00012106",
+      "DOJ-OGR-00005079"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a case number and document number. The majority of the page is blank, with some metadata at the top and bottom."
+}

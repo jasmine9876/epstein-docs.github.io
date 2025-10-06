@@ -1,0 +1,46 @@
+{
+  "document_metadata": {
+    "page_number": "2 of 22",
+    "document_number": "338",
+    "date": "10/12/21",
+    "document_type": "court document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 338 Filed 10/12/21 Page 2 of 22\n\nDienl's request to intervene will not unduly delay or prejudice the adjudication of the rights of the parties if granted.\n\nDienl has no further interest in the aforementioned cause.",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 338 Filed 10/12/21 Page 2 of 22",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Dienl's request to intervene will not unduly delay or prejudice the adjudication of the rights of the parties if granted.\n\nDienl has no further interest in the aforementioned cause.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00005180",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Dienl"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "10/12/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "338",
+      "DOJ-OGR-00005180"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with handwritten notes. The text is mostly legible, but the handwriting is not uniform. There are no visible redactions or damage."
+}

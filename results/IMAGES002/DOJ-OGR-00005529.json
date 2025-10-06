@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "382-5",
+    "date": "10/29/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 382-5 Filed 10/29/21 Page 1 of 16 EXHIBIT E DOJ-OGR-00005529",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 382-5 Filed 10/29/21 Page 1 of 16",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EXHIBIT E",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00005529",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "10/29/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "382-5",
+      "DOJ-OGR-00005529"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear header and footer. The content is mostly printed text with no visible handwriting or stamps."
+}

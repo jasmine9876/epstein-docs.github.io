@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "830",
+    "document_number": "1:20-cv-03380-PAE",
+    "date": "09/07/21",
+    "document_type": "Case Document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cv-03380-PAE Document 336019 Filed 09/07/21 Page 830 of 60 FBI 31E-MM-108062 maxell CD-R 80 min 700 MB Photos from Virginia Roberts GIUFFRE007162 CONFIDENTIAL AFARMER00000538 DOJ-OGR-00005082",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cv-03380-PAE Document 336019 Filed 09/07/21 Page 830 of 60",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "FBI 31E-MM-108062",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "maxell CD-R 80 min 700 MB",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Photos from Virginia Roberts",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "GIUFFRE007162 CONFIDENTIAL",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "AFARMER00000538 DOJ-OGR-00005082",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Virginia Roberts"
+    ],
+    "organizations": [
+      "FBI",
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "09/07/21"
+    ],
+    "reference_numbers": [
+      "1:20-cv-03380-PAE",
+      "336019",
+      "31E-MM-108062",
+      "GIUFFRE007162",
+      "AFARMER00000538",
+      "DOJ-OGR-00005082"
+    ]
+  },
+  "additional_notes": "The document is a case file from a court case, containing a CD with photos from Virginia Roberts, labeled with an FBI reference number."
+}

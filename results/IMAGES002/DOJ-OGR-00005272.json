@@ -1,0 +1,72 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "362",
+    "date": "10/20/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 362 Filed 10/20/21 Page 4 of 4\nWashington, DC 20005\n(202) 795-9300\nktownsend@rcfp.org\nThe Miami Herald\nThe National Press Club\nAmerican Broadcasting Companies, Inc.\nThe National Press Club Journalism Institute\nThe Center for Investigative Reporting\nNBCUniversal Media, LLC\nThe Daily Beast Company LLC\nThe New York Times Company\nDaily News, LP\nRadio Television Digital News Association\nThe Media Institute\nReuters News & Media Inc.\nMPA—The Association of Magazine Media\nSociety of Professional Journalists\nNational Newspaper Association\nThe WNET Group\nSociety of Environmental Journalists\n4\nDOJ-OGR-00005272",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Washington, DC 20005\n(202) 795-9300\nktownsend@rcfp.org",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "The Miami Herald\nAmerican Broadcasting Companies, Inc.\nThe Center for Investigative Reporting\nThe Daily Beast Company LLC\nDaily News, LP\nThe Media Institute\nMPA—The Association of Magazine Media\nNational Newspaper Association\nSociety of Environmental Journalists",
+      "position": "left"
+    },
+    {
+      "type": "printed",
+      "content": "The National Press Club\nThe National Press Club Journalism Institute\nNBCUniversal Media, LLC\nThe New York Times Company\nRadio Television Digital News Association\nReuters News & Media Inc.\nSociety of Professional Journalists\nThe WNET Group",
+      "position": "right"
+    },
+    {
+      "type": "printed",
+      "content": "4",
+      "position": "center"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00005272",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "The Miami Herald",
+      "American Broadcasting Companies, Inc.",
+      "The Center for Investigative Reporting",
+      "The Daily Beast Company LLC",
+      "Daily News, LP",
+      "The Media Institute",
+      "MPA—The Association of Magazine Media",
+      "National Newspaper Association",
+      "Society of Environmental Journalists",
+      "The National Press Club",
+      "The National Press Club Journalism Institute",
+      "NBCUniversal Media, LLC",
+      "The New York Times Company",
+      "Radio Television Digital News Association",
+      "Reuters News & Media Inc.",
+      "Society of Professional Journalists",
+      "The WNET Group"
+    ],
+    "locations": [
+      "Washington, DC"
+    ],
+    "dates": [
+      "10/20/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "362",
+      "DOJ-OGR-00005272"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a list of media organizations. The text is clear and legible."
+}

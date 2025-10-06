@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "10 of 11",
+    "document_number": "389",
+    "date": "10/29/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 389 Filed 10/29/21 Page 10 of 11 Phone: 212-243-1100 Attorneys for Ghislaine Maxwell 7 DOJ-OGR-00005711",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 389 Filed 10/29/21 Page 10 of 11",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Phone: 212-243-1100",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Attorneys for Ghislaine Maxwell",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "7",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00005711",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ghislaine Maxwell"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "10/29/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "389",
+      "DOJ-OGR-00005711"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing related to the case of Ghislaine Maxwell. The page is mostly blank with some header and footer information."
+}

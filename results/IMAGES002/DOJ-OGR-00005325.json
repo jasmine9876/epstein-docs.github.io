@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "367",
+    "date": "10/22/21",
+    "document_type": "Jury Questionnaire",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 367 Filed 10/22/21 Page 3 of 35 Juror ID: _____________________________________ Ms. Maxwell has pled not guilty to all charges. Ms. Maxwell is presumed innocent, and before she can be found guilty on any charge, the jury must find that the Government has proven each element of that crime beyond a reasonable doubt. (Please turn the page and read and complete the questionnaire.) -3- DOJ-OGR-00005325",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 367 Filed 10/22/21 Page 3 of 35",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Juror ID: _____________________________________",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Ms. Maxwell has pled not guilty to all charges. Ms. Maxwell is presumed innocent, and before she can be found guilty on any charge, the jury must find that the Government has proven each element of that crime beyond a reasonable doubt.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(Please turn the page and read and complete the questionnaire.)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "-3-",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00005325",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ms. Maxwell"
+    ],
+    "organizations": [
+      "Government"
+    ],
+    "locations": [],
+    "dates": [
+      "10/22/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "367",
+      "DOJ-OGR-00005325"
+    ]
+  },
+  "additional_notes": "The document appears to be a jury questionnaire from a court case involving Ms. Maxwell. The page is clean and free of handwritten notes or stamps."
+}

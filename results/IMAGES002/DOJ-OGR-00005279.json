@@ -1,0 +1,55 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "365",
+    "date": "10/22/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 365 Filed 10/22/21 Page 3 of 40 Juror ID: INSERT JUROR INFORMATION SHEET FROM JURY DEPARTMENT -2- DOJ-OGR-00005279",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 365 Filed 10/22/21 Page 3 of 40",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Juror ID:",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "INSERT JUROR INFORMATION SHEET FROM JURY DEPARTMENT",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "-2-",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00005279",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "JURY DEPARTMENT",
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "10/22/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "365",
+      "DOJ-OGR-00005279"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a placeholder for juror information. The page is mostly blank, with some header and footer text."
+}

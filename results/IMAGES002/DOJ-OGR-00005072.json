@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": "20",
+    "document_number": "336-1",
+    "date": "09/07/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 336-1 Filed 09/07/21 Page 20 of 60 From: [redacted] Sent: Tuesday, October 05, 2021 3:53:54 PM To: Annie Farmer Subject: Re: Photos Thank you Annie! Get Outlook for iOS From: Annie Farmer Sent: Tuesday, October 05, 2021 9:47:13 AM To: [redacted] Subject: Photos Property of Annie Farmer - Not For Media Use AFARMER00011688 DOJ-OGR-00005072",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 336-1 Filed 09/07/21 Page 20 of 60",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "From: [redacted] Sent: Tuesday, October 05, 2021 3:53:54 PM To: Annie Farmer Subject: Re: Photos Thank you Annie!",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Get Outlook for iOS From: Annie Farmer Sent: Tuesday, October 05, 2021 9:47:13 AM To: [redacted] Subject: Photos",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Property of Annie Farmer - Not For Media Use",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "AFARMER00011688 DOJ-OGR-00005072",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Annie Farmer"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "Tuesday, October 05, 2021",
+      "09/07/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "336-1",
+      "AFARMER00011688",
+      "DOJ-OGR-00005072"
+    ]
+  },
+  "additional_notes": "The document contains redacted email addresses and a large blacked-out section, likely containing sensitive or confidential information."
+}

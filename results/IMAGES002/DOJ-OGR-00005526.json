@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "382-2",
+    "date": "10/29/21",
+    "document_type": "Exhibit",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 382-2 Filed 10/29/21 Page 1 of 1 EXHIBIT B FILED UNDER SEAL DOJ-OGR-00005526",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 382-2 Filed 10/29/21 Page 1 of 1",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EXHIBIT B FILED UNDER SEAL",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00005526",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "10/29/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "382-2",
+      "DOJ-OGR-00005526"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear indication that it has been filed under seal. The content is minimal, with a header, a central statement, and a footer containing a reference number."
+}

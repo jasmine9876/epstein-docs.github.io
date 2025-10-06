@@ -1,0 +1,86 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "381",
+    "date": "10/29/21",
+    "document_type": "delivery status update",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Tracking Number: EJ699436400US Scheduled Delivery by SATURDAY 16 OCTOBER 2021 by 6:00pm Status Available for Pickup October 19, 2021 at 6:51 am BROOKLYN, NY 11232 Get Updates Available for Pickup See More Tracking Number: EJ699436435US Scheduled Delivery by THURSDAY 14 OCTOBER 2021 by 6:00pm Status Available for Pickup October 15, 2021 at 7:55 am BROOKLYN, NY 11232 Get Updates Available for Pickup See More Case 1:20-cr-00330-PAE Document 381 Filed 10/29/21 Page 4 of 5 DOJ-OGR-00005454",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Tracking Number: EJ699436400US",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Scheduled Delivery by SATURDAY 16 OCTOBER 2021 by 6:00pm",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Status Available for Pickup October 19, 2021 at 6:51 am BROOKLYN, NY 11232",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Get Updates Available for Pickup See More",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Tracking Number: EJ699436435US",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Scheduled Delivery by THURSDAY 14 OCTOBER 2021 by 6:00pm",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Status Available for Pickup October 15, 2021 at 7:55 am BROOKLYN, NY 11232",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Get Updates Available for Pickup See More",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 381 Filed 10/29/21 Page 4 of 5",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00005454",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [
+      "BROOKLYN",
+      "NY"
+    ],
+    "dates": [
+      "October 19, 2021",
+      "October 15, 2021",
+      "10/29/21",
+      "OCTOBER 2021",
+      "SATURDAY 16 OCTOBER 2021",
+      "THURSDAY 14 OCTOBER 2021"
+    ],
+    "reference_numbers": [
+      "EJ699436400US",
+      "EJ699436435US",
+      "1:20-cr-00330-PAE",
+      "DOJ-OGR-00005454"
+    ]
+  },
+  "additional_notes": "The document appears to be a delivery status update for two packages with tracking numbers EJ699436400US and EJ699436435US. The document is part of a larger case file (1:20-cr-00330-PAE) and is page 4 of 5."
+}

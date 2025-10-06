@@ -1,0 +1,49 @@
+{
+  "document_metadata": {
+    "page_number": "340",
+    "document_number": "293-1",
+    "date": "05/25/21",
+    "document_type": "Court Document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 293-1 Filed 05/25/21 Page 340 of 349 EXHIBIT 4 Addendum to the Non-Prosecution Agreement DOJ-OGR-00004637",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 293-1 Filed 05/25/21 Page 340 of 349",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EXHIBIT 4",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Addendum to the Non-Prosecution Agreement",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00004637",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "05/25/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "293-1",
+      "DOJ-OGR-00004637"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing related to a non-prosecution agreement, with a clear header and footer indicating the case number, document number, and page number. The content is mostly printed text, with no visible handwriting or stamps."
+}

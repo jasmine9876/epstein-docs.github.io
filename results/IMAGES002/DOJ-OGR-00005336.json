@@ -1,0 +1,85 @@
+{
+  "document_metadata": {
+    "page_number": "14",
+    "document_number": "367",
+    "date": "10/22/21",
+    "document_type": "Juror Questionnaire",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 367 Filed 10/22/21 Page 14 of 35 Juror ID: Please identify by name (all that apply) Newspapers Online News Sources Magazines Radio stations Television/Cable stations Streaming sources (Netflix, Peacock, Amazon, etc.) Podcast providers Internet Sites Social media platform (Facebook, Instagram, Twitter, etc.) Do you belong to any groups on social media (ex. Facebook or WhatsApp groups)? Yes No If Yes, please list the groups: Have you ever posted messages, comments, or opinions on websites/social media, or blogged? Yes No If Yes, please describe the websites or social media platforms that you have used; the types of things you have posted or blogged; and how often you have done it: Do you regularly watch any television shows, movies, dramas, documentaries, or docuseries (on any video platform) involving criminal investigations, crime solving, or criminal trials? Yes No If Yes, please identify the shows: Please indicate your agreement or disagreement with the following: The media can be trusted to report both sides of controversial issues. Strongly agree Agree Disagree Strongly disagree Please identify by name any criminal cases have you followed in the media? -14- DOJ-OGR-00005336",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 367 Filed 10/22/21 Page 14 of 35",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Juror ID:",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Please identify by name (all that apply) Newspapers Online News Sources Magazines Radio stations Television/Cable stations Streaming sources (Netflix, Peacock, Amazon, etc.) Podcast providers Internet Sites Social media platform (Facebook, Instagram, Twitter, etc.)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Do you belong to any groups on social media (ex. Facebook or WhatsApp groups)? Yes No If Yes, please list the groups:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Have you ever posted messages, comments, or opinions on websites/social media, or blogged? Yes No If Yes, please describe the websites or social media platforms that you have used; the types of things you have posted or blogged; and how often you have done it:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Do you regularly watch any television shows, movies, dramas, documentaries, or docuseries (on any video platform) involving criminal investigations, crime solving, or criminal trials? Yes No If Yes, please identify the shows:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Please indicate your agreement or disagreement with the following: The media can be trusted to report both sides of controversial issues. Strongly agree Agree Disagree Strongly disagree",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Please identify by name any criminal cases have you followed in the media?",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "-14-",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00005336",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Netflix",
+      "Peacock",
+      "Amazon",
+      "Facebook",
+      "Instagram",
+      "Twitter",
+      "WhatsApp"
+    ],
+    "locations": [],
+    "dates": [
+      "10/22/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "367",
+      "DOJ-OGR-00005336"
+    ]
+  },
+  "additional_notes": "The document appears to be a juror questionnaire with multiple choice and open-ended questions. There is no handwriting or stamps on the document."
+}

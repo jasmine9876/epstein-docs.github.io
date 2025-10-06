@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "395",
+    "date": "10/29/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 395 Filed 10/29/21 Page 2 of 9\n\nTABLE OF CONTENTS\n\nTable of Contents ............................................................................................................................... ii\nTable of Authorities ....................................................................................................................... iii\nArgument .......................................................................................................................................... 1\nConclusion ....................................................................................................................................... 5\nii",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 395 Filed 10/29/21 Page 2 of 9",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "TABLE OF CONTENTS",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Table of Contents ............................................................................................................................... ii\nTable of Authorities ....................................................................................................................... iii\nArgument .......................................................................................................................................... 1\nConclusion ....................................................................................................................................... 5",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "ii",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00005767",
+      "position": "margin"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "10/29/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "395",
+      "DOJ-OGR-00005767"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a table of contents. The text is clear and legible."
+}

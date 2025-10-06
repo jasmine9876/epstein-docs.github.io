@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "8",
+    "document_number": "390",
+    "date": "10/29/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 390 Filed 10/29/21 Page 8 of 11 is not a document that was given to Detective Recarey. II. The Document is Not a Business Record In addition to there being no witness to authenticate the document it is clear that the pages of Putative Exhibit 52 were not a business record and there is no record custodian who can establish a foundation for the admission of the document under Federal Rule of Evidence 803(6). Mr. Rodriguez apparently gave something to Federal Agents in 2009. Someone, perhaps Mr. Rodriguez, created the document. Mr. Rodriguez was convicted of trying to extort money 4 DOJ-OGR-00005720",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 390 Filed 10/29/21 Page 8 of 11",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "is not a document that was given to Detective Recarey.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "II. The Document is Not a Business Record",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "In addition to there being no witness to authenticate the document it is clear that the pages of Putative Exhibit 52 were not a business record and there is no record custodian who can establish a foundation for the admission of the document under Federal Rule of Evidence 803(6).",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Mr. Rodriguez apparently gave something to Federal Agents in 2009. Someone, perhaps Mr. Rodriguez, created the document. Mr. Rodriguez was convicted of trying to extort money",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "4",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00005720",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Detective Recarey",
+      "Mr. Rodriguez"
+    ],
+    "organizations": [
+      "Federal Agents",
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "10/29/21",
+      "2009"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "Document 390",
+      "Putative Exhibit 52",
+      "DOJ-OGR-00005720"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with redactions. The redactions are likely due to sensitive information being withheld."
+}

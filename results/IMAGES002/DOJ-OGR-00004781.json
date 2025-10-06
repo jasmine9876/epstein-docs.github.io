@@ -1,0 +1,69 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "303",
+    "date": "June 25, 2021",
+    "document_type": "Court Order",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 303 Filed 06/25/21 Page 2 of 2\n\nSO ORDERED.\n\nDated: June 25, 2021\nNew York, New York\n\nALISON J. NATHAN\nUnited States District Judge\n\n2\nDOJ-OGR-00004781",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 303 Filed 06/25/21 Page 2 of 2",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "SO ORDERED.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Dated: June 25, 2021\nNew York, New York",
+      "position": "middle"
+    },
+    {
+      "type": "signature",
+      "content": "Alison J. Nathan",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "ALISON J. NATHAN\nUnited States District Judge",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "2",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00004781",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Alison J. Nathan"
+    ],
+    "organizations": [
+      "United States District Court"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "June 25, 2021",
+      "06/25/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "303",
+      "DOJ-OGR-00004781"
+    ]
+  },
+  "additional_notes": "The document appears to be a court order signed by Judge Alison J. Nathan. The document is well-formatted and legible."
+}

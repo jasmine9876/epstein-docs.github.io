@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "29",
+    "document_number": "365",
+    "date": "10/22/21",
+    "document_type": "juror questionnaire",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 365 Filed 10/22/21 Page 29 of 40 Juror ID: You may use these pages to finish any answers that you could not fit in the spaces provided above. If you write anything below, please indicate the number of the relevant question. -28- DOJ-OGR-00005305",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 365 Filed 10/22/21 Page 29 of 40",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Juror ID:",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "You may use these pages to finish any answers that you could not fit in the spaces provided above. If you write anything below, please indicate the number of the relevant question.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "-28-",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00005305",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "10/22/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "365",
+      "DOJ-OGR-00005305"
+    ]
+  },
+  "additional_notes": "The document appears to be a juror questionnaire with a blank space for the juror to provide additional information. The document is clean and free of any notable damage or redactions."
+}

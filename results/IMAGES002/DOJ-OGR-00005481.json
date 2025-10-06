@@ -1,0 +1,49 @@
+{
+  "document_metadata": {
+    "page_number": "26",
+    "document_number": "382",
+    "date": "10/29/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 382 Filed 10/29/21 Page 26 of 69 2. 18 DOJ-OGR-00005481",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 382 Filed 10/29/21 Page 26 of 69",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "2.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "18",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00005481",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "10/29/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "382",
+      "DOJ-OGR-00005481"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with redacted content. The image quality is clear, but most of the content is blacked out."
+}

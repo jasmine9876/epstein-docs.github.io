@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": "9",
+    "document_number": "336-4",
+    "date": "09/07/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case:1:20-cr-00330-PAE Document 336-4 Filed 09/07/21 Page 9 of 22\nRELENTLESS PURSUIT MY FIGHT FOR THE VICTIMS OF JEFFREY EPSTEIN BRADLEY J. EDWARDS WITH BRITTANY HENDERSON DOJ-OGR-00005164",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case:1:20-cr-00330-PAE Document 336-4 Filed 09/07/21 Page 9 of 22",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "RELENTLESS PURSUIT",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "MY FIGHT FOR THE VICTIMS OF JEFFREY EPSTEIN",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "BRADLEY J. EDWARDS WITH BRITTANY HENDERSON",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00005164",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Bradley J. Edwards",
+      "Brittany Henderson",
+      "Jeffrey Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "09/07/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "336-4",
+      "DOJ-OGR-00005164"
+    ]
+  },
+  "additional_notes": "The image appears to be a court document with a book cover image of 'RELENTLESS PURSUIT' by Bradley J. Edwards. The document is related to the Jeffrey Epstein case."
+}

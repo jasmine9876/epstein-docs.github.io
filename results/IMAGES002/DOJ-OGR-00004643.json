@@ -1,0 +1,49 @@
+{
+  "document_metadata": {
+    "page_number": "346",
+    "document_number": "293-1",
+    "date": "05/25/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 293-1 Filed 05/25/21 Page 346 of 349 EXHIBIT 5 State Information DOJ-OGR-00004643",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 293-1 Filed 05/25/21 Page 346 of 349",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EXHIBIT 5",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "State Information",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00004643",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "05/25/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "293-1",
+      "DOJ-OGR-00004643"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear header and footer. The content is mostly related to a court case, with a specific exhibit labeled 'EXHIBIT 5' and titled 'State Information'."
+}

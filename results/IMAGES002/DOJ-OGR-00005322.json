@@ -1,0 +1,51 @@
+{
+  "document_metadata": {
+    "page_number": "6",
+    "document_number": "366",
+    "date": "10/22/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 366 Filed 10/22/21 Page 6 of 6\nquestions posed to you, and by your careful following of the rules and instructions I have\nprovided, you are doing your part to support the cherished American institution of trial by jury.\nThank you.\n5\nDOJ-OGR-00005322",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 366 Filed 10/22/21 Page 6 of 6",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "questions posed to you, and by your careful following of the rules and instructions I have\nprovided, you are doing your part to support the cherished American institution of trial by jury.\nThank you.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "5",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00005322",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Department of Justice"
+    ],
+    "locations": [
+      "America"
+    ],
+    "dates": [
+      "10/22/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "366",
+      "DOJ-OGR-00005322"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing related to a criminal case. The text is typed, and there are no visible redactions or damage."
+}

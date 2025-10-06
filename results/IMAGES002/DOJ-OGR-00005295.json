@@ -1,0 +1,83 @@
+{
+  "document_metadata": {
+    "page_number": "19",
+    "document_number": "365",
+    "date": "10/22/21",
+    "document_type": "Juror Questionnaire",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 365 Filed 10/22/21 Page 19 of 40\nJuror ID: \n32e3 Do you or does any member of your family or a close friend personally know or 3e. have past or present dealings with any of the defense attorneys or law firms who are representing the Defendant:\nChristian Everdell of Cohen & Gresser LLP Yes No\nJeffrey Pagliuca of Haddon, Morgan and Foreman, P.C. Yes No\nLaura Menninger of Haddon, Morgan and Foreman, P.C. Yes No\nBobbi Sternheim of Law Offices of Bobbi C. Sternheim Yes No\n32f3 Do you or does any member of your family or a close friend personally know or 3f. have past or present dealings with the United States District Court Judge who is presiding over this case, Alison J. Nathan, or anyone who works on her staff?\nYes No\n32g3 If you answered \"yes\" to any of the above sub-questions (32a, 32b, 32e, 32d, 3g. 32e33a, 33b, 33c, 33d, 33e, or 32f33f), please explain whom you know, how you know the individual(s), and whether your relationship with that person might make it difficult for you to be a fair and impartial juror in this case:\n-18-\nDOJ-OGR-00005295",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 365 Filed 10/22/21 Page 19 of 40",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Juror ID:",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "32e3 Do you or does any member of your family or a close friend personally know or 3e. have past or present dealings with any of the defense attorneys or law firms who are representing the Defendant:",
+      "position": "main"
+    },
+    {
+      "type": "printed",
+      "content": "Christian Everdell of Cohen & Gresser LLP Yes No\nJeffrey Pagliuca of Haddon, Morgan and Foreman, P.C. Yes No\nLaura Menninger of Haddon, Morgan and Foreman, P.C. Yes No\nBobbi Sternheim of Law Offices of Bobbi C. Sternheim Yes No",
+      "position": "main"
+    },
+    {
+      "type": "printed",
+      "content": "32f3 Do you or does any member of your family or a close friend personally know or 3f. have past or present dealings with the United States District Court Judge who is presiding over this case, Alison J. Nathan, or anyone who works on her staff?",
+      "position": "main"
+    },
+    {
+      "type": "printed",
+      "content": "Yes No",
+      "position": "main"
+    },
+    {
+      "type": "printed",
+      "content": "32g3 If you answered \"yes\" to any of the above sub-questions (32a, 32b, 32e, 32d, 3g. 32e33a, 33b, 33c, 33d, 33e, or 32f33f), please explain whom you know, how you know the individual(s), and whether your relationship with that person might make it difficult for you to be a fair and impartial juror in this case:",
+      "position": "main"
+    },
+    {
+      "type": "printed",
+      "content": "-18-",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00005295",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Christian Everdell",
+      "Jeffrey Pagliuca",
+      "Laura Menninger",
+      "Bobbi Sternheim",
+      "Alison J. Nathan"
+    ],
+    "organizations": [
+      "Cohen & Gresser LLP",
+      "Haddon, Morgan and Foreman, P.C.",
+      "Law Offices of Bobbi C. Sternheim",
+      "United States District Court"
+    ],
+    "locations": [],
+    "dates": [
+      "10/22/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "365",
+      "DOJ-OGR-00005295"
+    ]
+  },
+  "additional_notes": "The document appears to be a juror questionnaire from a court case. It is a printed form with no handwritten annotations or stamps."
+}

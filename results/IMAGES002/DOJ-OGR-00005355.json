@@ -1,0 +1,49 @@
+{
+  "document_metadata": {
+    "page_number": "33",
+    "document_number": "367",
+    "date": "10/22/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 367 Filed 10/22/21 Page 33 of 35 Juror ID: ____________________________________________________________________________________ -33- DOJ-OGR-00005355",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 367 Filed 10/22/21 Page 33 of 35",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Juror ID:",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "-33-",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00005355",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "10/22/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "367",
+      "DOJ-OGR-00005355"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a juror ID section. The page is mostly blank with lines for writing."
+}

@@ -1,0 +1,53 @@
+{
+  "document_metadata": {
+    "page_number": "317",
+    "document_number": "293-1",
+    "date": "05/25/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 293-1 Filed 05/25/21 Page 317 of 349 the victims to provide OPR with information regarding their contacts with, and notification received from, the FBI and USAO, during the period before the NPA was signed or before Epstein's state plea hearing, about the status of the federal investigation, about Epstein's state plea, or about the NPA. OPR received information from or pertaining to 13 victims. 290 DOJ-OGR-00004614",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 293-1 Filed 05/25/21 Page 317 of 349",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "the victims to provide OPR with information regarding their contacts with, and notification received from, the FBI and USAO, during the period before the NPA was signed or before Epstein's state plea hearing, about the status of the federal investigation, about Epstein's state plea, or about the NPA. OPR received information from or pertaining to 13 victims.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "290",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00004614",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [
+      "FBI",
+      "USAO",
+      "OPR"
+    ],
+    "locations": [],
+    "dates": [
+      "05/25/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "293-1",
+      "DOJ-OGR-00004614"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing related to the case against Jeffrey Epstein. The text is mostly printed, with no visible handwriting or stamps. The document is well-formatted and legible."
+}

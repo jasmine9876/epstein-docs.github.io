@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": "27 of 40",
+    "document_number": "365",
+    "date": "10/22/21",
+    "document_type": "Juror Questionnaire",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 365 Filed 10/22/21 Page 27 of 40 Juror ID: CLOSING QUESTION 50,51 Do you wish for any particular answers to remain confidential and to not go beyond the Judge, counsel, and the Defendant, because the answer would embarrass you or otherwise seriously compromise your privacy? Yes No If yes, please list which question number(s): -26- DOJ-OGR-00005303",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 365 Filed 10/22/21 Page 27 of 40",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Juror ID:",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CLOSING QUESTION",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "50,51 Do you wish for any particular answers to remain confidential and to not go beyond the Judge, counsel, and the Defendant, because the answer would embarrass you or otherwise seriously compromise your privacy? Yes No If yes, please list which question number(s):",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "-26-",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00005303",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Judge",
+      "Defendant"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "10/22/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "365",
+      "DOJ-OGR-00005303"
+    ]
+  },
+  "additional_notes": "The document appears to be a juror questionnaire from a court case. The page is clean and free of handwritten notes or stamps."
+}

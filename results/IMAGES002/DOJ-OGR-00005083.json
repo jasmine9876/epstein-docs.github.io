@@ -1,0 +1,46 @@
+{
+  "document_metadata": {
+    "page_number": "31",
+    "document_number": "1:20-cv-03380-PAE",
+    "date": "09/07/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cv-03380-PAE Document 336-19 Filed 09/07/21 Page 31 of 60 scan scan0001 scan0003 scan0004 scan0005 scan0006 scan0007 scan0008 scan0009 scan0010 scan0011 scan0012 scan0013 scan0014 scan0015 scan0016 scan0017 scan0018 scan0019 GIUFFRE007163 CONFIDENTIAL AFARMER00000539 DOJ-OGR-00005083",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cv-03380-PAE Document 336-19 Filed 09/07/21 Page 31 of 60",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "scan\nscan0001\nscan0003\nscan0004\nscan0005\nscan0006\nscan0007\nscan0008\nscan0009\nscan0010\nscan0011\nscan0012\nscan0013\nscan0014\nscan0015\nscan0016\nscan0017\nscan0018\nscan0019",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "GIUFFRE007163\nCONFIDENTIAL\nAFARMER00000539\nDOJ-OGR-00005083",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "09/07/21"
+    ],
+    "reference_numbers": [
+      "1:20-cv-03380-PAE",
+      "336-19",
+      "GIUFFRE007163",
+      "AFARMER00000539",
+      "DOJ-OGR-00005083"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a list of scan references and a confidentiality notice."
+}
