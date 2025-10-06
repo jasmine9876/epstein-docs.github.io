@@ -1,0 +1,88 @@
+{
+  "document_metadata": {
+    "page_number": "2 of 4",
+    "document_number": "701-1",
+    "date": "07/12/22",
+    "document_type": "Letter",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 701-1 Filed 07/12/22 Page 2 of 4 U.S. Department of Justice United States Attorney Southern District of New York The Silvio J. Mollo Building One Saint Andrew's Plaza New York, New York 10007 November 26, 2021 BY ELECTRONIC MAIL Christian Everdell, Esq. Cohen & Gresser LLP 800 Third Avenue New York, NY 10022 Laura Menninger, Esq. Jeffrey Pagliuca, Esq. Haddon, Morgan and Foreman, P.C. 150 East Tenth Avenue Denver, CO 80203 Bobbi Sternheim, Esq. Law Offices of Bobbi C. Sternheim 33 West 19th Street-4th Fl. New York, NY 10007 Re: United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN) Dear Counsel: The Government expects to offer testimony from Computer Forensic Examiner Stephen Flatley of the Federal Bureau of Investigation's (\"FBI\") Computer Analysis Response Team (\"CART\"). As noted in the Government's September 15, 2021 letter, although the Government believes that Examiner Flatley's testimony will not require admission through Rule 702 of the Federal Rules of Evidence, the Government provided expert notice. In an abundance of caution, the Government is providing additional description of Examiner Flatley's anticipated testimony. The Government anticipates that Examiner Flatley will testify regarding the forensic examination of the devices marked for identification as Government Exhibits 54 and 55, and his determination that those exhibits are clones. He is expected to testify that a clone is an exact copy of one piece of media to another. Examiner Flatley is expected to explain that he connected Government Exhibits 54 and 55 to a write blocker and subsequently imaged, or made an exact copy, of the exhibits. The Government anticipates that Examiner Flatley will explain that the images of Government Exhibits 54 and 55 are exact copies of the original devices because he ran a hash, or mathematical algorithm that uniquely identifies data, on the original devices and the images, which are identical. DOJ-OGR-00011191",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 701-1 Filed 07/12/22 Page 2 of 4",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "U.S. Department of Justice United States Attorney Southern District of New York The Silvio J. Mollo Building One Saint Andrew's Plaza New York, New York 10007 November 26, 2021",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "BY ELECTRONIC MAIL",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Christian Everdell, Esq. Cohen & Gresser LLP 800 Third Avenue New York, NY 10022 Laura Menninger, Esq. Jeffrey Pagliuca, Esq. Haddon, Morgan and Foreman, P.C. 150 East Tenth Avenue Denver, CO 80203 Bobbi Sternheim, Esq. Law Offices of Bobbi C. Sternheim 33 West 19th Street-4th Fl. New York, NY 10007",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Re: United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Dear Counsel: The Government expects to offer testimony from Computer Forensic Examiner Stephen Flatley of the Federal Bureau of Investigation's (\"FBI\") Computer Analysis Response Team (\"CART\"). As noted in the Government's September 15, 2021 letter, although the Government believes that Examiner Flatley's testimony will not require admission through Rule 702 of the Federal Rules of Evidence, the Government provided expert notice. In an abundance of caution, the Government is providing additional description of Examiner Flatley's anticipated testimony.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "The Government anticipates that Examiner Flatley will testify regarding the forensic examination of the devices marked for identification as Government Exhibits 54 and 55, and his determination that those exhibits are clones. He is expected to testify that a clone is an exact copy of one piece of media to another. Examiner Flatley is expected to explain that he connected Government Exhibits 54 and 55 to a write blocker and subsequently imaged, or made an exact copy, of the exhibits. The Government anticipates that Examiner Flatley will explain that the images of Government Exhibits 54 and 55 are exact copies of the original devices because he ran a hash, or mathematical algorithm that uniquely identifies data, on the original devices and the images, which are identical.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00011191",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Christian Everdell",
+      "Laura Menninger",
+      "Jeffrey Pagliuca",
+      "Bobbi Sternheim",
+      "Stephen Flatley",
+      "Ghislaine Maxwell"
+    ],
+    "organizations": [
+      "U.S. Department of Justice",
+      "United States Attorney",
+      "Cohen & Gresser LLP",
+      "Haddon, Morgan and Foreman, P.C.",
+      "Law Offices of Bobbi C. Sternheim",
+      "Federal Bureau of Investigation"
+    ],
+    "locations": [
+      "New York",
+      "Denver",
+      "Southern District of New York"
+    ],
+    "dates": [
+      "November 26, 2021",
+      "September 15, 2021",
+      "07/12/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "20 Cr. 330 (AJN)",
+      "701-1",
+      "DOJ-OGR-00011191"
+    ]
+  },
+  "additional_notes": "The document appears to be a letter from the U.S. Department of Justice to counsel regarding the testimony of Computer Forensic Examiner Stephen Flatley in the case United States v. Ghislaine Maxwell. The document is well-formatted and legible, with no visible redactions or damage."
+}

@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "703-1",
+    "date": "07/12/22",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 703-1 Filed 07/12/22 Page 2 of 9 RULE 16_007 DOJ-OGR-00011214",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 703-1 Filed 07/12/22 Page 2 of 9",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "RULE 16_007",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00011214",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "07/12/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "703-1",
+      "DOJ-OGR-00011214"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear header and footer. The content is mostly printed text, with no visible handwriting or stamps."
+}

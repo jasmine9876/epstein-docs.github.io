@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": "8",
+    "document_number": "711",
+    "date": "07/12/22",
+    "document_type": "Court Document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 711 Filed 07/12/22 Page 8 of 11\n\nB. Annie\n\n| Trial Testimony | 3500 Material | Quote | Government Position | Defense position |\n| --- | --- | --- | --- | --- |\n| 2151:2 - 16 | 3514-001, p. 2, 2d full paragraph | Originally Maria was going to accompany Annie to New Mexico. | Objection. Although the witness testified that she did not recall making the statement, she acknowledged that the statement is contained in the 302. There is no basis for further impeachment. | A denial of making the statement may be impeached via extrinsic evidence. FRE 613(b) |\n| 2160:12 - 2161:25 | 3514-001, p. 3, 2d full paragraph | The chef prepared dinner and all three ate together. | Objection. Not inconsistent with the witness's testimony. Also, whether a chef prepared dinner is a collateral matter. | Indicates another eye witness; not collateral and inconsistent with her direct testimony |\n| 2165:7 - 2166:6 | 3514-001, p. 2, last paragraph | They spent a significant amount of time horseback riding. | Objection. Not inconsistent with the witness's testimony. The witness did not deny making the statement on page 2166. Also, whether the witness went horseback riding for a significant amount of time is collateral. | Witness omitted this activity from her recitation of the weekend events, although she earlier said it was \"significant\" part of her trip. |\n\n8\nDOJ-OGR-00011296",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 711 Filed 07/12/22 Page 8 of 11",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "B. Annie",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "| Trial Testimony | 3500 Material | Quote | Government Position | Defense position |",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "8",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00011296",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Maria",
+      "Annie"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [
+      "New Mexico"
+    ],
+    "dates": [
+      "07/12/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "Document 711",
+      "3514-001",
+      "302",
+      "2166",
+      "DOJ-OGR-00011296"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing related to a criminal case, with a table comparing trial testimony and 3500 material. The document is well-formatted and legible."
+}

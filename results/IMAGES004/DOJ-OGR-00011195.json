@@ -1,0 +1,88 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "701-2",
+    "date": "07/12/22",
+    "document_type": "Letter",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 701-2 Filed 07/12/22 Page 2 of 3\nHaddon, Morgan and Foreman, P.C\nLaura A. Menninger\n150 East 10th Avenue\nDenver, Colorado 80203\nPH 303.831.7364 FX 303.832.2628\nwww.hmflaw.com\nLMenninger@hmflaw.com\nNovember 27, 2021\nMaurene Comey\nAlison Moe\nLara Pomerantz\nAndrew Rohrbach\nUnited States Attorney's Office\nSouthern District of New York\n1 St. Andrew's Plaza\nNew York, NY 10007\nRe: United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN)\nDear Counsel:\nI write pursuant to the Court's Order of November 23, 2021 directing a supplement to the disclosure for Certified Forensic Examiner Robert Kelso's expert opinion to the extent he intends to offer rebuttal testimony to any opinions offered in the government's original disclosure for Stephen Flatley, dated September 15, 2021.\nI note that yesterday you provided a supplemental notice for Mr. Flatley. That supplement was untimely. Thus, we intend to object at trial to the admission of any opinions from Mr. Flatley not included in your September 15, 2021 disclosure. This supplement for Mr. Kelso does not purport to respond to anything contained in your Flatley supplement.\nWe anticipate that Mr. Kelso will testify about the meaning of certain pieces of metadata associated with computers and computer files, such as \"Authors,\" \"Last saved by,\" \"Registered Organization,\" and \"Registered Owner\" and potentially others. Mr. Kelso will testify about where the data contained in these types of metadata fields originates and how it propagates. Mr. Kelso will testify that a particular value in one or more of these metadata fields, such as a version of person's name, does not necessarily mean that person authored the underlying documents or had any interaction with the documents. This testimony may cover any exhibits offered by the Government.\nMr. Kelso's testimony may also encompass the metadata associated with defense exhibits, including testimony about the values contained in certain metadata fields and their meaning. Because the defense cannot anticipate at this juncture which exhibits may be necessary, depending upon evidence offered by the government during its case in chief, the defense reserves the right to disclose the metadata testimony from Mr. Kelso at the same time it identifies any particular exhibit that it will introduce as impeachment or rebuttal exhibits.\nDOJ-OGR-00011195",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Haddon, Morgan and Foreman, P.C\nLaura A. Menninger\n150 East 10th Avenue\nDenver, Colorado 80203\nPH 303.831.7364 FX 303.832.2628\nwww.hmflaw.com\nLMenninger@hmflaw.com",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "November 27, 2021\nMaurene Comey\nAlison Moe\nLara Pomerantz\nAndrew Rohrbach\nUnited States Attorney's Office\nSouthern District of New York\n1 St. Andrew's Plaza\nNew York, NY 10007",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Re: United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN)\nDear Counsel:",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "I write pursuant to the Court's Order of November 23, 2021 directing a supplement to the disclosure for Certified Forensic Examiner Robert Kelso's expert opinion to the extent he intends to offer rebuttal testimony to any opinions offered in the government's original disclosure for Stephen Flatley, dated September 15, 2021.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "I note that yesterday you provided a supplemental notice for Mr. Flatley. That supplement was untimely. Thus, we intend to object at trial to the admission of any opinions from Mr. Flatley not included in your September 15, 2021 disclosure. This supplement for Mr. Kelso does not purport to respond to anything contained in your Flatley supplement.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "We anticipate that Mr. Kelso will testify about the meaning of certain pieces of metadata associated with computers and computer files, such as \"Authors,\" \"Last saved by,\" \"Registered Organization,\" and \"Registered Owner\" and potentially others. Mr. Kelso will testify about where the data contained in these types of metadata fields originates and how it propagates. Mr. Kelso will testify that a particular value in one or more of these metadata fields, such as a version of person's name, does not necessarily mean that person authored the underlying documents or had any interaction with the documents. This testimony may cover any exhibits offered by the Government.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Mr. Kelso's testimony may also encompass the metadata associated with defense exhibits, including testimony about the values contained in certain metadata fields and their meaning. Because the defense cannot anticipate at this juncture which exhibits may be necessary, depending upon evidence offered by the government during its case in chief, the defense reserves the right to disclose the metadata testimony from Mr. Kelso at the same time it identifies any particular exhibit that it will introduce as impeachment or rebuttal exhibits.",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00011195",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Laura A. Menninger",
+      "Maurene Comey",
+      "Alison Moe",
+      "Lara Pomerantz",
+      "Andrew Rohrbach",
+      "Ghislaine Maxwell",
+      "Robert Kelso",
+      "Stephen Flatley"
+    ],
+    "organizations": [
+      "Haddon, Morgan and Foreman, P.C",
+      "United States Attorney's Office",
+      "Southern District of New York"
+    ],
+    "locations": [
+      "Denver",
+      "Colorado",
+      "New York"
+    ],
+    "dates": [
+      "November 27, 2021",
+      "November 23, 2021",
+      "September 15, 2021",
+      "07/12/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "20 Cr. 330 (AJN)",
+      "701-2",
+      "DOJ-OGR-00011195"
+    ]
+  },
+  "additional_notes": "The document appears to be a formal letter from a law firm to the United States Attorney's Office regarding a court case. The letter is typed and contains no handwritten text or stamps. The document is page 2 of 3."
+}

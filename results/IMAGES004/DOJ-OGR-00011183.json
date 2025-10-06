@@ -1,0 +1,76 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "701",
+    "date": "07/12/22",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 701 Filed 07/12/22 Page 4 of 10\n\nCarpenter v. United States, 138 S. Ct. 2206 (2018). Exclusion is \"a harsh sanction not to be imposed lightly.\" Id. at 117; see United States v. Canada, 858 F. App'x 436, 439 (2d Cir. 2021) (Mem.) (affirming a decision to permit an expert to testify who was noticed \"the night before the last day of trial\" because the defendant \"would have ample opportunity for cross-examination\").\n\nIII. Discussion\n\nThe Government will offer testimony tomorrow for which the defense has received ample notice, and there is no reason to preclude any testimony or permit any delayed cross-examination.\n\nFirst, the primary issue concerns Flatley's discussion of metadata. The Government believes that Flatley's anticipated testimony on this subject is properly considered fact testimony. For instance, Flatley is expected to read an exhibit reflecting that the author of a document is \"gmax.\" That is pure fact testimony. See, e.g., GX 418-B. He is also expected to testify that he used a program to confirm, for example, that the metadata reflected in GX 418-B is the metadata for GX 418. That does not constitute expert opinion, either, because it is based on his investigatory findings, not rooted exclusively in his expertise. See, e.g., United States v. Rigas, 490 F.3d 208, 224 (2d Cir. 2007) (\"A witness's specialized knowledge, or the fact that he was chosen to carry out an investigation because of this knowledge, does not render his testimony expert as long as it was based on his investigation and reflected his investigatory findings and conclusions, and was not rooted exclusively in his expertise.\" (internal quotation marks and alteration omitted)). This expected testimony is thus quite unlike the case cited by the defendant, In re Digital Music Antitrust Litigation, 321 F.R.D. 64 (S.D.N.Y. 2017). There, the witness testimony included claims like the fact that \"he chose to use a program named 'ExifTool,' which is a commonly accepted tool used for forensic data extraction,\" based on \"his experience with it and because it would allow\n\n4\n\nDOJ-OGR-00011183",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 701 Filed 07/12/22 Page 4 of 10",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Carpenter v. United States, 138 S. Ct. 2206 (2018). Exclusion is \"a harsh sanction not to be imposed lightly.\" Id. at 117; see United States v. Canada, 858 F. App'x 436, 439 (2d Cir. 2021) (Mem.) (affirming a decision to permit an expert to testify who was noticed \"the night before the last day of trial\" because the defendant \"would have ample opportunity for cross-examination\").",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "III. Discussion",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "The Government will offer testimony tomorrow for which the defense has received ample notice, and there is no reason to preclude any testimony or permit any delayed cross-examination.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "First, the primary issue concerns Flatley's discussion of metadata. The Government believes that Flatley's anticipated testimony on this subject is properly considered fact testimony. For instance, Flatley is expected to read an exhibit reflecting that the author of a document is \"gmax.\" That is pure fact testimony. See, e.g., GX 418-B. He is also expected to testify that he used a program to confirm, for example, that the metadata reflected in GX 418-B is the metadata for GX 418. That does not constitute expert opinion, either, because it is based on his investigatory findings, not rooted exclusively in his expertise. See, e.g., United States v. Rigas, 490 F.3d 208, 224 (2d Cir. 2007) (\"A witness's specialized knowledge, or the fact that he was chosen to carry out an investigation because of this knowledge, does not render his testimony expert as long as it was based on his investigation and reflected his investigatory findings and conclusions, and was not rooted exclusively in his expertise.\" (internal quotation marks and alteration omitted)). This expected testimony is thus quite unlike the case cited by the defendant, In re Digital Music Antitrust Litigation, 321 F.R.D. 64 (S.D.N.Y. 2017). There, the witness testimony included claims like the fact that \"he chose to use a program named 'ExifTool,' which is a commonly accepted tool used for forensic data extraction,\" based on \"his experience with it and because it would allow",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "4",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00011183",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "United States"
+    ],
+    "locations": [
+      "S.D.N.Y."
+    ],
+    "dates": [
+      "2018",
+      "2021",
+      "2007",
+      "2017",
+      "07/12/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "Document 701",
+      "138 S. Ct. 2206",
+      "858 F. App'x 436",
+      "490 F.3d 208",
+      "321 F.R.D. 64",
+      "GX 418-B",
+      "GX 418",
+      "DOJ-OGR-00011183"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing related to a criminal case. The text is mostly printed, with no handwritten content or stamps visible. The document is well-formatted and legible."
+}

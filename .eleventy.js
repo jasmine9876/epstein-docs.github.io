@@ -25,6 +25,122 @@ module.exports = function(eleventyConfig) {
     return dedupeMappings[entityType]?.[entityName] || entityName;
   }
 
+  // Helper function to normalize document types (for grouping)
+  function normalizeDocType(docType) {
+    if (!docType) return null;
+    return String(docType).toLowerCase().trim();
+  }
+
+  // Helper function to format document types for display (title case)
+  function formatDocType(docType) {
+    if (!docType) return 'Unknown';
+    return String(docType)
+      .toLowerCase()
+      .trim()
+      .split(' ')
+      .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+      .join(' ');
+  }
+
+  // Helper function to normalize dates to consistent format
+  function normalizeDate(dateStr) {
+    if (!dateStr) return null;
+
+    const str = String(dateStr).trim();
+
+    // Already in ISO format (YYYY-MM-DD)
+    if (/^\d{4}-\d{2}-\d{2}$/.test(str)) {
+      return str;
+    }
+
+    // Just a year (YYYY)
+    if (/^\d{4}$/.test(str)) {
+      return `${str}-00-00`;
+    }
+
+    // Try to parse various date formats
+    const months = {
+      'jan': '01', 'january': '01',
+      'feb': '02', 'february': '02',
+      'mar': '03', 'march': '03',
+      'apr': '04', 'april': '04',
+      'may': '05',
+      'jun': '06', 'june': '06',
+      'jul': '07', 'july': '07',
+      'aug': '08', 'august': '08',
+      'sep': '09', 'september': '09',
+      'oct': '10', 'october': '10',
+      'nov': '11', 'november': '11',
+      'dec': '12', 'december': '12'
+    };
+
+    // "February 15, 2005" or "Feb 15, 2005"
+    const match1 = str.match(/^(\w+)\s+(\d{1,2}),?\s+(\d{4})$/i);
+    if (match1) {
+      const month = months[match1[1].toLowerCase()];
+      if (month) {
+        const day = match1[2].padStart(2, '0');
+        return `${match1[3]}-${month}-${day}`;
+      }
+    }
+
+    // "15 February 2005" or "15 Feb 2005"
+    const match2 = str.match(/^(\d{1,2})\s+(\w+)\s+(\d{4})$/i);
+    if (match2) {
+      const month = months[match2[2].toLowerCase()];
+      if (month) {
+        const day = match2[1].padStart(2, '0');
+        return `${match2[3]}-${month}-${day}`;
+      }
+    }
+
+    // "2005/02/15" or "2005.02.15"
+    const match3 = str.match(/^(\d{4})[\/\.](\d{1,2})[\/\.](\d{1,2})$/);
+    if (match3) {
+      const month = match3[2].padStart(2, '0');
+      const day = match3[3].padStart(2, '0');
+      return `${match3[1]}-${month}-${day}`;
+    }
+
+    // "02/15/2005" or "02.15.2005" (US format)
+    const match4 = str.match(/^(\d{1,2})[\/\.](\d{1,2})[\/\.](\d{4})$/);
+    if (match4) {
+      const month = match4[1].padStart(2, '0');
+      const day = match4[2].padStart(2, '0');
+      return `${match4[3]}-${month}-${day}`;
+    }
+
+    // Couldn't parse - return original
+    return str;
+  }
+
+  // Helper function to format dates for display
+  function formatDate(normalizedDate) {
+    if (!normalizedDate) return 'Unknown Date';
+
+    // Year only (YYYY-00-00)
+    if (normalizedDate.endsWith('-00-00')) {
+      return normalizedDate.substring(0, 4);
+    }
+
+    // Full date (YYYY-MM-DD)
+    const match = normalizedDate.match(/^(\d{4})-(\d{2})-(\d{2})$/);
+    if (match) {
+      const months = ['', 'January', 'February', 'March', 'April', 'May', 'June',
+                      'July', 'August', 'September', 'October', 'November', 'December'];
+      const year = match[1];
+      const month = parseInt(match[2]);
+      const day = parseInt(match[3]);
+
+      if (month > 0 && month <= 12) {
+        return `${months[month]} ${day}, ${year}`;
+      }
+    }
+
+    // Fallback
+    return normalizedDate;
+  }
+
   // Cache the documents data - only compute once
   let cachedDocuments = null;
 
@@ -143,8 +259,22 @@ module.exports = function(eleventyConfig) {
         people: [...new Set(Array.from(allEntities.people).map(p => applyDedupe('people', p)))],
         organizations: [...new Set(Array.from(allEntities.organizations).map(o => applyDedupe('organizations', o)))],
         locations: [...new Set(Array.from(allEntities.locations).map(l => applyDedupe('locations', l)))],
-        dates: Array.from(allEntities.dates),
+        dates: [...new Set(Array.from(allEntities.dates).map(d => {
+          const normalized = normalizeDate(d);
+          return normalized ? formatDate(normalized) : d;
+        }))],
         reference_numbers: Array.from(allEntities.reference_numbers)
+      };
+
+      // Normalize document metadata
+      const normalizedMetadata = {
+        ...firstPage.document_metadata,
+        document_type: firstPage.document_metadata?.document_type
+          ? formatDocType(firstPage.document_metadata.document_type)
+          : null,
+        date: firstPage.document_metadata?.date
+          ? formatDate(normalizeDate(firstPage.document_metadata.date))
+          : firstPage.document_metadata?.date
       };
 
       return {
@@ -153,7 +283,7 @@ module.exports = function(eleventyConfig) {
         raw_document_numbers: rawDocNums, // All variations found
         pages: docPages,
         page_count: docPages.length,
-        document_metadata: firstPage.document_metadata,
+        document_metadata: normalizedMetadata,
         entities: deduplicatedEntities,
         full_text: docPages.map(p => p.full_text).join('\n\n--- PAGE BREAK ---\n\n'),
         folder: folders.join(', '),  // Show all folders if document spans multiple
@@ -223,19 +353,25 @@ module.exports = function(eleventyConfig) {
         });
       }
 
-      // Dates
+      // Dates (normalize for grouping)
       if (doc.entities?.dates) {
         doc.entities.dates.forEach(date => {
-          if (!dates.has(date)) dates.set(date, []);
-          dates.get(date).push(doc);
+          const normalized = normalizeDate(date);
+          if (normalized) {
+            if (!dates.has(normalized)) dates.set(normalized, []);
+            dates.get(normalized).push(doc);
+          }
         });
       }
 
-      // Document types
+      // Document types (normalize for grouping)
       const docType = doc.document_metadata?.document_type;
       if (docType) {
-        if (!documentTypes.has(docType)) documentTypes.set(docType, []);
-        documentTypes.get(docType).push(doc);
+        const normalized = normalizeDocType(docType);
+        if (normalized) {
+          if (!documentTypes.has(normalized)) documentTypes.set(normalized, []);
+          documentTypes.get(normalized).push(doc);
+        }
       }
     });
 
@@ -265,13 +401,17 @@ module.exports = function(eleventyConfig) {
         docs: dedupeDocArray(docs),
         count: dedupeDocArray(docs).length
       })).sort((a, b) => b.count - a.count),
-      dates: Array.from(dates.entries()).map(([name, docs]) => ({
-        name,
+      dates: Array.from(dates.entries()).map(([normalizedDate, docs]) => ({
+        name: formatDate(normalizedDate),  // Display formatted version
+        normalizedDate,  // Keep normalized for sorting
         docs: dedupeDocArray(docs),
         count: dedupeDocArray(docs).length
-      })).sort((a, b) => b.count - a.count),
-      documentTypes: Array.from(documentTypes.entries()).map(([name, docs]) => ({
-        name,
+      })).sort((a, b) => {
+        // Sort by normalized date (YYYY-MM-DD format sorts correctly)
+        return b.normalizedDate.localeCompare(a.normalizedDate);
+      }),
+      documentTypes: Array.from(documentTypes.entries()).map(([normalizedType, docs]) => ({
+        name: formatDocType(normalizedType),  // Display formatted version
         docs: dedupeDocArray(docs),
         count: dedupeDocArray(docs).length
       })).sort((a, b) => b.count - a.count)

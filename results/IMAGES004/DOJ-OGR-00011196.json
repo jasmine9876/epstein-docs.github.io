@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "701-2",
+    "date": "July 12, 2022",
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 701-2 Filed 07/12/22 Page 3 of 3\nMs. Comey, Moe and Pomerantz\nNovember 27, 2021\nPage 2\nRespectfully submitted,\nLaura A. Menninger\nCC: Counsel of Record via email\nDOJ-OGR-00011196",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 701-2 Filed 07/12/22 Page 3 of 3",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Ms. Comey, Moe and Pomerantz\nNovember 27, 2021\nPage 2",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Respectfully submitted,",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Laura A. Menninger",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CC: Counsel of Record via email",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00011196",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Laura A. Menninger",
+      "Ms. Comey",
+      "Moe",
+      "Pomerantz"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "July 12, 2022",
+      "November 27, 2021"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "701-2",
+      "DOJ-OGR-00011196"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a signature and contact information. The image is rotated 90 degrees counterclockwise."
+}

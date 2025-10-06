@@ -1,0 +1,43 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "SDNY_GM_00165986_DOJ-OGR-00011252",
+    "date": null,
+    "document_type": "handwritten note",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "I'm still owed Maria's bonus. I ought not redirect to come out to see her as she's been without a year xray + is in weakness + in bad shape or pay for will lodge my hospes because I hate disappointment and it would be really cool it it happened + even if it doesn't + $300 spent I got to go see him.",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "I'm still owed Maria's bonus. I ought not redirect to come out to see her as she's been without a year xray + is in weakness + in bad shape or pay for will lodge my hospes because I hate disappointment and it would be really cool it it happened + even if it doesn't + $300 spent I got to go see him.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "SDNY_GM_00165986_DOJ-OGR-00011252",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Maria",
+      "him"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "SDNY_GM_00165986",
+      "DOJ-OGR-00011252",
+      "$300"
+    ]
+  },
+  "additional_notes": "The document is a handwritten note on lined paper with a shadow obscuring part of the page. The text is mostly legible, but some words are difficult to decipher. The document is marked 'CONFIDENTIAL' at the bottom."
+}

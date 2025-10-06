@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "11",
+    "document_number": "705",
+    "date": "07/12/22",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 705 Filed 07/12/22 Page 11 of 12 EXHIBIT B DOJ-OGR-00011251",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 705 Filed 07/12/22 Page 11 of 12",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EXHIBIT B",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00011251",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "07/12/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "705",
+      "DOJ-OGR-00011251"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear header and footer. The content is mostly printed text, with no visible handwriting or stamps."
+}

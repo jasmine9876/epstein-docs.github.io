@@ -1,0 +1,51 @@
+{
+  "document_metadata": {
+    "page_number": "10 of 12",
+    "document_number": "705",
+    "date": "07/12/22",
+    "document_type": "handwritten note",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-03330-RAE Document 705 Filed 07/12/22 Page 10 of 12 I'm so excited. Maria's Boss brought me a ticket to come out & see her. It's been almost a year - scary. He is very wealthy & might help me get into or pay for college. I don't want to get my hopes up because I hate disappointment but it would be really cool if it happened & even if it doesn't it is so great I get to go see him. Property of Annie Farmer - Not For Media Use AFARMER00010472 DOJ-OGR-00011250",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-03330-RAE Document 705 Filed 07/12/22 Page 10 of 12",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "I'm so excited. Maria's Boss brought me a ticket to come out & see her. It's been almost a year - scary. He is very wealthy & might help me get into or pay for college. I don't want to get my hopes up because I hate disappointment but it would be really cool if it happened & even if it doesn't it is so great I get to go see him.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Property of Annie Farmer - Not For Media Use",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "AFARMER00010472 DOJ-OGR-00011250",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Maria",
+      "Annie Farmer"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "07/12/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-03330-RAE",
+      "705",
+      "AFARMER00010472",
+      "DOJ-OGR-00011250"
+    ]
+  },
+  "additional_notes": "The document is a handwritten note on lined paper, likely from a notebook. The handwriting is clear and legible. There are no visible redactions or damage to the document."
+}

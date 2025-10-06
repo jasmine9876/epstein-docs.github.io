@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "4 of 4",
+    "document_number": "701-1",
+    "date": "07/12/22",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 701-1 Filed 07/12/22 Page 4 of 4\nPage 3\nVery truly yours,\nDAMIAN WILLIAMS\nUnited States Attorney\nby: s/\nMaurene Comey\nAlison Moe\nLara Pomerantz\nAndrew Rohrbach\nAssistant United States Attorneys\nDOJ-OGR-00011193",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 701-1 Filed 07/12/22 Page 4 of 4",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Page 3",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Very truly yours,",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DAMIAN WILLIAMS\nUnited States Attorney",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "by: s/\nMaurene Comey\nAlison Moe\nLara Pomerantz\nAndrew Rohrbach\nAssistant United States Attorneys",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00011193",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "DAMIAN WILLIAMS",
+      "Maurene Comey",
+      "Alison Moe",
+      "Lara Pomerantz",
+      "Andrew Rohrbach"
+    ],
+    "organizations": [
+      "United States Attorney"
+    ],
+    "locations": [],
+    "dates": [
+      "07/12/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "701-1",
+      "DOJ-OGR-00011193"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a signature block. The text is clear and legible."
+}
