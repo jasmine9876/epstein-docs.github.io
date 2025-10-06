@@ -1,0 +1,77 @@
+{
+  "document_metadata": {
+    "page_number": "5",
+    "document_number": "730",
+    "date": "07/14/22",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 730 Filed 07/14/22 Page 5 of 5\nPage 5\nJuror #\n585\n617\n620\n639\n656\n659\n662\n684\nRespectfully submitted,\nDAMIAN WILLIAMS\nUnited States Attorney\nBy: s/\nAlison Moe\nLara Pomerantz\nAndrew Rohrbach\nAssistant United States Attorneys\nSouthern District of New York\nCc: Defense Counsel (By email)\nDOJ-OGR-00011405",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 730 Filed 07/14/22 Page 5 of 5",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Page 5",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Juror #\n585\n617\n620\n639\n656\n659\n662\n684",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Respectfully submitted,",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DAMIAN WILLIAMS\nUnited States Attorney",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "By: s/\nAlison Moe\nLara Pomerantz\nAndrew Rohrbach\nAssistant United States Attorneys\nSouthern District of New York",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Cc: Defense Counsel (By email)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00011405",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "DAMIAN WILLIAMS",
+      "Alison Moe",
+      "Lara Pomerantz",
+      "Andrew Rohrbach"
+    ],
+    "organizations": [
+      "United States Attorney",
+      "Southern District of New York"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "07/14/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "730",
+      "DOJ-OGR-00011405"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a list of juror numbers and signatures from the United States Attorney's office."
+}

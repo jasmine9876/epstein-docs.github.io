@@ -1,0 +1,67 @@
+{
+  "document_metadata": {
+    "page_number": "22",
+    "document_number": "732",
+    "date": "07/14/22",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 732 Filed 07/14/22 Page 22 of 25 The Honorable Alison J. Nathan November 22, 2021 Page 22 She did not identify Ms. Maxwell as having had any role in any alleged sexual abuse or trafficking. Accuser-4 Accuser-4 has Like the other accusers, Accuser-4's DOJ-OGR-00011445",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 732 Filed 07/14/22 Page 22 of 25",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "The Honorable Alison J. Nathan November 22, 2021 Page 22",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "She did not identify Ms. Maxwell as having had any role in any alleged sexual abuse or trafficking.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Accuser-4",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Accuser-4 has",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Like the other accusers, Accuser-4's",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00011445",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Alison J. Nathan",
+      "Ms. Maxwell",
+      "Accuser-4"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "November 22, 2021",
+      "07/14/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "732",
+      "DOJ-OGR-00011445"
+    ]
+  },
+  "additional_notes": "The document contains redactions, likely for sensitive or personal information."
+}

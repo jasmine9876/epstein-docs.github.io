@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "721-2",
+    "date": "07/12/22",
+    "document_type": "Exhibit",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 721-2 Filed 07/12/22 Page 1 of 1\nEXHIBIT 2\nFILED UNDER SEAL\nDOJ-OGR-00011355",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 721-2 Filed 07/12/22 Page 1 of 1",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EXHIBIT 2\nFILED UNDER SEAL",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00011355",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "07/12/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "721-2",
+      "DOJ-OGR-00011355"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a case number and document number. The content is largely redacted or not visible, with a clear indication that it is filed under seal."
+}

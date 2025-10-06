@@ -1,0 +1,88 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "715",
+    "date": "07/12/22",
+    "document_type": "Court Document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 715 Filed 07/12/22 Page 3 of 8 The Honorable Alison J. Nathan December 6, 2021 Page 3 Flatley is expected to testify that that the metadata fields listed on Government Exhibits 417, 418, 420, 421, and 422 are true and accurate reflections of the metadata properties for those files, such as the fields listing the author, content created date, date last saved, last saved by, and last printed. Examiner Flatley will explain that he confirmed the accuracy of metadata fields by running Access Data AD Lab. In the course of doing so, Examiner Flatley will explain that metadata is information about a file, such as the file name and when the file was created. He will also explain that metadata can be stored in a computer's file system or embedded inside certain files, like Word documents. Gov. Nov. 26, 2021 Letter. Next, at 12:10 a.m. on December 3, the government provided yet another disclosure, in the form of email notes apparently taken by Ms. Pomerantz during a December 2 meeting with Examiner Flatley: December 2, 2021 Meeting with Flatley Pomerantz McKay Young GX 332 is a picture off of a compact disk or CD; GX 332 was copied from compact disk onto a computer; when copy file from CD onto another computer, computer will reset the created date to the date it was copied; access date was empty because CD did not have an access date; operating system put date and time that file was copied onto that computer; SF confirmed GX 332B is metadata of photo on computer to which photo was copied from compact disk Once a file is burned onto a CD, can't unburn it On original CD, created date would be the same date as the modified date Cannot tell when photograph was taken from info on GX 332B; May 7, 2002 is when put on CD or put on computer and burned onto CD User accounts on GX 54: 3 total; 2 are default (guest, administrator); third is ghislaine; default and admin logins were zero; over 400 ghislaine logins gmax1@mindspring.com on all emails SF saw on GX 54 Prepared for trial testimony DOJ-OGR-00011313",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 715 Filed 07/12/22 Page 3 of 8",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "The Honorable Alison J. Nathan December 6, 2021 Page 3",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Flatley is expected to testify that that the metadata fields listed on Government Exhibits 417, 418, 420, 421, and 422 are true and accurate reflections of the metadata properties for those files, such as the fields listing the author, content created date, date last saved, last saved by, and last printed. Examiner Flatley will explain that he confirmed the accuracy of metadata fields by running Access Data AD Lab. In the course of doing so, Examiner Flatley will explain that metadata is information about a file, such as the file name and when the file was created. He will also explain that metadata can be stored in a computer's file system or embedded inside certain files, like Word documents.",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Gov. Nov. 26, 2021 Letter.",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Next, at 12:10 a.m. on December 3, the government provided yet another disclosure, in the form of email notes apparently taken by Ms. Pomerantz during a December 2 meeting with Examiner Flatley:",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "December 2, 2021 Meeting with Flatley Pomerantz McKay Young",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "GX 332 is a picture off of a compact disk or CD; GX 332 was copied from compact disk onto a computer; when copy file from CD onto another computer, computer will reset the created date to the date it was copied; access date was empty because CD did not have an access date; operating system put date and time that file was copied onto that computer; SF confirmed GX 332B is metadata of photo on computer to which photo was copied from compact disk Once a file is burned onto a CD, can't unburn it On original CD, created date would be the same date as the modified date Cannot tell when photograph was taken from info on GX 332B; May 7, 2002 is when put on CD or put on computer and burned onto CD User accounts on GX 54: 3 total; 2 are default (guest, administrator); third is ghislaine; default and admin logins were zero; over 400 ghislaine logins gmax1@mindspring.com on all emails SF saw on GX 54 Prepared for trial testimony",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00011313",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Alison J. Nathan",
+      "Flatley",
+      "Pomerantz",
+      "McKay",
+      "Young",
+      "SF",
+      "Ghislaine"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "December 6, 2021",
+      "07/12/22",
+      "Nov. 26, 2021",
+      "December 3",
+      "December 2",
+      "May 7, 2002"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "Document 715",
+      "GX 332",
+      "GX 332B",
+      "GX 54",
+      "417",
+      "418",
+      "420",
+      "421",
+      "422",
+      "DOJ-OGR-00011313"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing related to a criminal case. It discusses metadata and digital evidence. The text is printed and there are no visible stamps or handwritten notes."
+}

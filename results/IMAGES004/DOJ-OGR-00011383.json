@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "726",
+    "date": "July 13, 2022",
+    "document_type": "Court Document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 726 Filed 07/13/22 Page 3 of 3\nDated: July 13, 2022 New York, New York\n\nALISON J. NATHAN\nUnited States Circuit Judge\nSitting by Designation\n\n3\nDOJ-OGR-00011383",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 726 Filed 07/13/22 Page 3 of 3",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Dated: July 13, 2022 New York, New York",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Alison J. Nathan",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "ALISON J. NATHAN\nUnited States Circuit Judge\nSitting by Designation",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "3",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00011383",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Alison J. Nathan"
+    ],
+    "organizations": [
+      "United States Circuit Court"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "July 13, 2022",
+      "07/13/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "726",
+      "DOJ-OGR-00011383"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a signature from Judge Alison J. Nathan. The document is page 3 of 3."
+}

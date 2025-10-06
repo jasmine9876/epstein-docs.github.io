@@ -1,0 +1,69 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "725",
+    "date": "07/12/22",
+    "document_type": "court document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 725 Filed 07/12/22 Page 2 of 2 The Honorable Alison J. Nathan November 28, 2021 Page 2 Respectfully submitted, Jeffrey S. Pagliuca CC: Counsel of Record DOJ-OGR-00011380",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 725 Filed 07/12/22 Page 2 of 2",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "The Honorable Alison J. Nathan November 28, 2021 Page 2",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Respectfully submitted,",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Jeffrey S. Pagliuca",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CC: Counsel of Record",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00011380",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Alison J. Nathan",
+      "Jeffrey S. Pagliuca"
+    ],
+    "organizations": [
+      "Counsel of Record",
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "November 28, 2021",
+      "07/12/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "725",
+      "DOJ-OGR-00011380"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a signature redacted."
+}

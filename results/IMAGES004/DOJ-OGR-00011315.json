@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": "5",
+    "document_number": "715",
+    "date": "07/12/22",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 715 Filed 07/12/22 Page 5 of 8\nThe Honorable Alison J. Nathan\nDecember 6, 2021\nPage 5\n- December 3: Examiner Flatley will explain metadata and its significance. He will opine that a photo cannot be \"unburned\" from a CD. He will explain the difference between and significance of a \"created date\" and a \"modified date.\" And he will opine about the three user accounts on Ex. 54 (guest, administrator, Ghislaine). All of this is expert opinion subject to Rule 702.\n- December 5: Examiner Flatley will testify about the metadata he examined (registry files and user account data) to be able to opine about the number of times \"ghislaine\" or the \"administrator\" logged in to GX54.\nAll of this is newly and untimely-disclosed expert opinion testimony.\nTestimony defining metadata and translating extracted metadata for the jury is expert opinion testimony under Rule 702. In re Digital Music Antitrust Litig., 321 F.R.D. 64, 85 (S.D.N.Y. 2017) (\"However, as described above, Mr. Read's analysis involved using a forensic tool to convert Plaintiffs' Digital Music metadata into data readable in an Excel spreadsheet, reviewing hundreds of data fields, and performing a comparative analysis. Plaintiffs make no showing that a lay person could have performed any of these tasks without specialized knowledge or training. Furthermore, various courts have rejected assertions that an expert \"does not really offer expert testimony, in the sense that he has done no more than run a search that any lay person could run,\" where, as here, the expert \"offers expertise beyond that of the typical lay juror\" that \"would therefore be helpful to a jury.\" (citing Marten Transp., Ltd. v. Platform Advert., Inc., 184 F.Supp.3d 1006, 1010 (D. Kan. 2016); United States v. Ganier, 468 F.3d 920, 926 (6th Cir. 2006) (\"The average layperson today may be able to interpret the outputs of popular software programs as easily as he or she interprets everyday vernacular, but the interpretation [the expert] needed to apply to make sense of the software reports is more similar to the specialized knowledge police officers use to interpret slang and code words used by drug dealers.\"))).\nDOJ-OGR-00011315",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 715 Filed 07/12/22 Page 5 of 8",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "The Honorable Alison J. Nathan\nDecember 6, 2021\nPage 5",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "- December 3: Examiner Flatley will explain metadata and its significance. He will opine that a photo cannot be \"unburned\" from a CD. He will explain the difference between and significance of a \"created date\" and a \"modified date.\" And he will opine about the three user accounts on Ex. 54 (guest, administrator, Ghislaine). All of this is expert opinion subject to Rule 702.\n- December 5: Examiner Flatley will testify about the metadata he examined (registry files and user account data) to be able to opine about the number of times \"ghislaine\" or the \"administrator\" logged in to GX54.",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "All of this is newly and untimely-disclosed expert opinion testimony.",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Testimony defining metadata and translating extracted metadata for the jury is expert opinion testimony under Rule 702. In re Digital Music Antitrust Litig., 321 F.R.D. 64, 85 (S.D.N.Y. 2017) (\"However, as described above, Mr. Read's analysis involved using a forensic tool to convert Plaintiffs' Digital Music metadata into data readable in an Excel spreadsheet, reviewing hundreds of data fields, and performing a comparative analysis. Plaintiffs make no showing that a lay person could have performed any of these tasks without specialized knowledge or training. Furthermore, various courts have rejected assertions that an expert \"does not really offer expert testimony, in the sense that he has done no more than run a search that any lay person could run,\" where, as here, the expert \"offers expertise beyond that of the typical lay juror\" that \"would therefore be helpful to a jury.\" (citing Marten Transp., Ltd. v. Platform Advert., Inc., 184 F.Supp.3d 1006, 1010 (D. Kan. 2016); United States v. Ganier, 468 F.3d 920, 926 (6th Cir. 2006) (\"The average layperson today may be able to interpret the outputs of popular software programs as easily as he or she interprets everyday vernacular, but the interpretation [the expert] needed to apply to make sense of the software reports is more similar to the specialized knowledge police officers use to interpret slang and code words used by drug dealers.\"))).",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00011315",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Alison J. Nathan",
+      "Examiner Flatley",
+      "Ghislaine",
+      "Mr. Read"
+    ],
+    "organizations": [],
+    "locations": [
+      "S.D.N.Y.",
+      "D. Kan.",
+      "6th Cir."
+    ],
+    "dates": [
+      "December 3",
+      "December 5",
+      "December 6, 2021",
+      "07/12/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "Document 715",
+      "Ex. 54",
+      "GX54",
+      "321 F.R.D. 64",
+      "184 F.Supp.3d 1006",
+      "468 F.3d 920",
+      "DOJ-OGR-00011315"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing related to a criminal case. The text is mostly printed, with no handwritten content or stamps visible. The document is well-formatted and legible."
+}

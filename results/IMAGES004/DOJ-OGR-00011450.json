@@ -1,0 +1,79 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "733",
+    "date": "07/14/22",
+    "document_type": "court document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 733 Filed 07/14/22 Page 2 of 2\nThe Honorable Alison J. Nathan\nNovember 28, 2021\nPage 2\nshould be permitted to cross-examine Accuser-1 about because it is relevant to her ability to recall the events in question accurately. As the government concedes, it is\nThe defense\nRespectfully submitted,\nJeffrey S. Pagliuca\nCC: Counsel of Record\nDOJ-OGR-00011450",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 733 Filed 07/14/22 Page 2 of 2",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "The Honorable Alison J. Nathan\nNovember 28, 2021\nPage 2",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "should be permitted to cross-examine Accuser-1 about because it is relevant to her ability to recall the events in question accurately. As the government concedes, it is",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "The defense",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Respectfully submitted,",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffrey S. Pagliuca",
+      "position": "signature"
+    },
+    {
+      "type": "printed",
+      "content": "Jeffrey S. Pagliuca",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "CC: Counsel of Record",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00011450",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Alison J. Nathan",
+      "Jeffrey S. Pagliuca",
+      "Accuser-1"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "November 28, 2021",
+      "07/14/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "733",
+      "DOJ-OGR-00011450"
+    ]
+  },
+  "additional_notes": "The document contains redactions and a handwritten signature."
+}

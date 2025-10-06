@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": "5",
+    "document_number": "731-1",
+    "date": "07/14/22",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 731-1 Filed 07/14/22 Page 5 of 14 PANISH SHEA & BOYLE LLP The Honorable Alison J. Nathan December 6, 2021 Page 5 Respectfully submitted, /s/ Kevin Boyle PANISH SHEA & BOYLE LLP 11111 Santa Monica Blvd., Ste. 700 Los Angeles, CA 90025 Phone: 310-477-1700 Attorneys for Witness Jane Cc: Counsel of record DOJ-OGR-00011411",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 731-1 Filed 07/14/22 Page 5 of 14",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "PANISH SHEA & BOYLE LLP",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "The Honorable Alison J. Nathan December 6, 2021 Page 5",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Respectfully submitted, /s/ Kevin Boyle PANISH SHEA & BOYLE LLP 11111 Santa Monica Blvd., Ste. 700 Los Angeles, CA 90025 Phone: 310-477-1700 Attorneys for Witness Jane Cc: Counsel of record",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00011411",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Alison J. Nathan",
+      "Kevin Boyle",
+      "Jane"
+    ],
+    "organizations": [
+      "PANISH SHEA & BOYLE LLP"
+    ],
+    "locations": [
+      "Los Angeles",
+      "Santa Monica"
+    ],
+    "dates": [
+      "December 6, 2021",
+      "07/14/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "731-1",
+      "DOJ-OGR-00011411"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a signature block and contact information for the attorney."
+}

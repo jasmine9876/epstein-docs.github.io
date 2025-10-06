@@ -1,0 +1,98 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "715",
+    "date": "07/12/22",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 715 Filed 07/12/22 Page 4 of 8\nThe Honorable Alison J. Nathan\nDecember 6, 2021\nPage 4\n\nFinally, at 11:17 p.m. last night (December 5), the government disclosed yet more expert opinions from Examiner Flatley, again in the form of notes apparently taken by Ms. Pomerantz.1\nDecember 5, 2021 Call with Flatley\nPomerantz\nYoung\n- Checked registry file called SAM file which documents users on machine, has identifiers for the users; checked Access Data's AD Lab\n- Re-checked 3 user accounts on GX 54: for guest account, zero logins; for administrator account, approximately 30 logins; ghislaine logins: 390 logins\n\nIf there were any doubt before, the government's midnight disclosure puts to bed the notion that Examiner Flatley does not intend to offer expert opinion testimony.\n\nAs elaborated below, this Court should exclude any opinion testimony first disclosed to Ms. Maxwell in the November 26 letter, the December 3 email, or the December 5 email.\n\nARGUMENT\n\nIn substance and in brief, here's what the government's November 26, December 3, and December 5 disclosures reveal about the intended substance of Examiner Flatley's testimony, who is expected to testify tomorrow, December 7.\n\n- November 26: Examiner Flatley will testify that Exhibits 54 and 55 are clones, i.e., exact copies, of seized devices. He will testify how he cloned them and how he's sure Exhibits 54 and 55 are clones. He will testify that other exhibits (documents, photos, emails) were extracted from the clones. He will testify that certain of these were created under the username \"gmax.\" He will opine about metadata, what it is, and what the metadata on these extracted documents, photos, and emails shows. He will testify that he verified the accuracy of the metadata and how he did so.\n\n1 Defense counsel conferred with Ms. Pomerantz on Friday, December 3 about this issue, after receiving the government's midnight disclosure from that day but before the government made yet another untimely disclosure late last night.\n\nDOJ-OGR-00011314",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 715 Filed 07/12/22 Page 4 of 8",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "The Honorable Alison J. Nathan\nDecember 6, 2021\nPage 4",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Finally, at 11:17 p.m. last night (December 5), the government disclosed yet more expert opinions from Examiner Flatley, again in the form of notes apparently taken by Ms. Pomerantz.1",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "December 5, 2021 Call with Flatley\nPomerantz\nYoung\n- Checked registry file called SAM file which documents users on machine, has identifiers for the users; checked Access Data's AD Lab\n- Re-checked 3 user accounts on GX 54: for guest account, zero logins; for administrator account, approximately 30 logins; ghislaine logins: 390 logins",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "If there were any doubt before, the government's midnight disclosure puts to bed the notion that Examiner Flatley does not intend to offer expert opinion testimony.",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "As elaborated below, this Court should exclude any opinion testimony first disclosed to Ms. Maxwell in the November 26 letter, the December 3 email, or the December 5 email.",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "ARGUMENT",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "In substance and in brief, here's what the government's November 26, December 3, and December 5 disclosures reveal about the intended substance of Examiner Flatley's testimony, who is expected to testify tomorrow, December 7.",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "- November 26: Examiner Flatley will testify that Exhibits 54 and 55 are clones, i.e., exact copies, of seized devices. He will testify how he cloned them and how he's sure Exhibits 54 and 55 are clones. He will testify that other exhibits (documents, photos, emails) were extracted from the clones. He will testify that certain of these were created under the username \"gmax.\" He will opine about metadata, what it is, and what the metadata on these extracted documents, photos, and emails shows. He will testify that he verified the accuracy of the metadata and how he did so.",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "1 Defense counsel conferred with Ms. Pomerantz on Friday, December 3 about this issue, after receiving the government's midnight disclosure from that day but before the government made yet another untimely disclosure late last night.",
+      "position": "footnote"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00011314",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Alison J. Nathan",
+      "Examiner Flatley",
+      "Ms. Pomerantz",
+      "Ms. Maxwell",
+      "Ghislaine"
+    ],
+    "organizations": [
+      "Department of Justice"
+    ],
+    "locations": [],
+    "dates": [
+      "December 6, 2021",
+      "December 5, 2021",
+      "November 26",
+      "December 3",
+      "December 7",
+      "December 5",
+      "July 12, 2022"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "Document 715",
+      "DOJ-OGR-00011314",
+      "GX 54",
+      "Exhibits 54 and 55"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing related to a criminal case. The text is mostly printed, with one footnote. There are no visible stamps or handwritten text. The document is well-formatted and legible."
+}

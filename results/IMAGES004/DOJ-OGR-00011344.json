@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "720",
+    "date": "07/12/22",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 720 Filed 07/12/22 Page 3 of 3 The Honorable Alison J. Nathan December 14, 2021 Page 3 25. 26. Eva Dubin 27. Kelly Bovino 28. 29. Michelle Healy Sincerely, /s/ Christian Everdell Christian R. Everdell COHEN & GRESSER LLP 800 Third Avenue, 21st Floor New York, New York 10022 (212) 957-7600 cc: All Counsel of Record (By Email) 2064893.1 DOJ-OGR-00011344",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 720 Filed 07/12/22 Page 3 of 3",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "The Honorable Alison J. Nathan December 14, 2021 Page 3",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "25. 26. Eva Dubin 27. Kelly Bovino 28. 29. Michelle Healy",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Sincerely, /s/ Christian Everdell Christian R. Everdell COHEN & GRESSER LLP 800 Third Avenue, 21st Floor New York, New York 10022 (212) 957-7600",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "cc: All Counsel of Record (By Email)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "2064893.1 DOJ-OGR-00011344",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Alison J. Nathan",
+      "Eva Dubin",
+      "Kelly Bovino",
+      "Michelle Healy",
+      "Christian Everdell",
+      "Christian R. Everdell"
+    ],
+    "organizations": [
+      "COHEN & GRESSER LLP"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "December 14, 2021",
+      "07/12/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "720",
+      "2064893.1",
+      "DOJ-OGR-00011344"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a list of names and a signature block. There are some redacted names in the list."
+}

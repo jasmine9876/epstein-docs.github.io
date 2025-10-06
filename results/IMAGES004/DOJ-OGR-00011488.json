@@ -1,0 +1,52 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "734-5",
+    "date": "07/15/22",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 734-5 Filed 07/15/22 Page 2 of 17\n\nKEY PROGRAM DATES:\n\nEFFECTIVE DATE: June 25, 2020\nREGISTRATION FILING DEADLINE: February 8, 2021\nFILING DEADLINE: March 25, 2021\n\n1|Page\nDOJ-OGR-00011488",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 734-5 Filed 07/15/22 Page 2 of 17",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "KEY PROGRAM DATES:\nEFFECTIVE DATE: June 25, 2020\nREGISTRATION FILING DEADLINE: February 8, 2021\nFILING DEADLINE: March 25, 2021",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "1|Page",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00011488",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "June 25, 2020",
+      "February 8, 2021",
+      "March 25, 2021",
+      "07/15/22"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "734-5",
+      "DOJ-OGR-00011488"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with key program dates highlighted. The text is clear and legible."
+}
