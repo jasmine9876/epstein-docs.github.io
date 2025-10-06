@@ -1,0 +1,49 @@
+---
+layout: base.njk
+title: People
+---
+
+<h1>People</h1>
+<p class="subtitle">{{ indices.people.length }} people mentioned across documents</p>
+
+<div class="search-box">
+  <input type="text" id="search" placeholder="Search people...">
+</div>
+
+<div id="results">
+  {% for person in indices.people %}
+  <div class="section" id="{{ person.name | slugify }}">
+    <h2>{{ person.name }}</h2>
+    <p>Mentioned in {{ person.count }} documents</p>
+
+    <div style="margin-top: 1rem;">
+      {% for doc in person.docs %}
+      <div class="document-card">
+        <h4>Document {{ doc.document_number }}</h4>
+        <div class="meta">
+          {% if doc.document_metadata.document_type %}Type: {{ doc.document_metadata.document_type }} | {% endif %}
+          {% if doc.document_metadata.date %}Date: {{ doc.document_metadata.date }} | {% endif %}
+          Pages: {{ doc.page_count }}
+        </div>
+        <a href="/document/{{ doc.unique_id | slugify }}/" style="font-size: 0.9rem;">View document →</a>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+<script>
+  const search = document.getElementById('search');
+  const results = document.getElementById('results');
+
+  search.addEventListener('input', (e) => {
+    const query = e.target.value.toLowerCase();
+    const sections = results.querySelectorAll('.section');
+
+    sections.forEach(section => {
+      const title = section.querySelector('h2').textContent.toLowerCase();
+      section.style.display = title.includes(query) ? 'block' : 'none';
+    });
+  });
+</script>

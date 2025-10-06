@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "91",
+    "date": "12/07/20",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-AJN Document 91 Filed 12/07/20 Page 4 of 10 EXHIBIT A DOJ-OGR-00001869",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-AJN Document 91 Filed 12/07/20 Page 4 of 10",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EXHIBIT A",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00001869",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "12/07/20"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-AJN",
+      "91",
+      "DOJ-OGR-00001869"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear header and footer. The main content is labeled 'EXHIBIT A'."
+}

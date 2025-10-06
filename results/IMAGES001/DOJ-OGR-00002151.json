@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "27",
+    "document_number": "97-22",
+    "date": "12/14/20",
+    "document_type": "Exhibit",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-AJN Document 97-22 Filed 12/14/20 Page 27 of 30 Exhibit B DOJ-OGR-00002151",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-AJN Document 97-22 Filed 12/14/20 Page 27 of 30",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Exhibit B",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00002151",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "12/14/20"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-AJN",
+      "97-22",
+      "DOJ-OGR-00002151"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear header and footer. The content is mostly blank except for the title 'Exhibit B' and a reference number at the bottom."
+}

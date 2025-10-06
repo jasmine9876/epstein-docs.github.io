@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "d21",
+    "document_number": "20-0770080",
+    "date": null,
+    "document_type": "Exhibit",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case: 20-0770080 Document: 1-202 Filed: 03/23/21 Page: d21 of 518\n\nEXHIBIT A\n\nDOJ-OGR-00001266",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case: 20-0770080 Document: 1-202 Filed: 03/23/21 Page: d21 of 518",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EXHIBIT A",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00001266",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "03/23/21"
+    ],
+    "reference_numbers": [
+      "20-0770080",
+      "1-202",
+      "DOJ-OGR-00001266"
+    ]
+  },
+  "additional_notes": "The document appears to be a cover page for an exhibit in a legal case. The content is mostly metadata and a title. The document is clean and free of damage or redactions."
+}

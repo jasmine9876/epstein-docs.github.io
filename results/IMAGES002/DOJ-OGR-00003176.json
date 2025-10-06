@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": null,
+    "date": "2007-06-14",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "To: Villafana, Ann Marie C. (USAFLS)\nFrom: Nakano, Serene\nSent: Thur 6/14/2007 5:23:41 PM (UTC)\nSubject: RE: A question regarding a very old case\nCOMPLAIN.03.wpd\nEJECT2.BRF.wpd\nDECISION.02.wpd\nDECISION.01.wpd\n\nMarie,\n\nAttached is a copy of the complaint, summary judgment brief and court's decisions. Please let me know if you need any further info. Good luck!\n\nSerene\n212-510-0505\n\nFrom: Villafana, Ann Marie C. (USAFLS) [mailto:Ann.Maric.C.Villafana@usdoj.gov]\nSent: Tuesday, June 12, 2007 3:40 PM\nTo: Nakano, Serene\nSubject: A question regarding a very old case\n\nHi Serene - I saw that you were the AUSA who worked on a case several years ago against Jeffrey Epstein involving the lease of a former embassy. Do you remember anything about the case that you might be willing to share?\n\nA. Marie Villafaña\nAssistant U.S. Attorney\n500 S. Australian Ave, Suite 400\nWest Palm Beach, FL 33401\nPhone 561 209-1047\nFax 561 820-8777\n\nDOJ-OGR-00003176",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "To: Villafana, Ann Marie C. (USAFLS)\nFrom: Nakano, Serene\nSent: Thur 6/14/2007 5:23:41 PM (UTC)\nSubject: RE: A question regarding a very old case",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "COMPLAIN.03.wpd\nEJECT2.BRF.wpd\nDECISION.02.wpd\nDECISION.01.wpd",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Marie,\n\nAttached is a copy of the complaint, summary judgment brief and court's decisions. Please let me know if you need any further info. Good luck!\n\nSerene\n212-510-0505",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "From: Villafana, Ann Marie C. (USAFLS) [mailto:Ann.Maric.C.Villafana@usdoj.gov]\nSent: Tuesday, June 12, 2007 3:40 PM\nTo: Nakano, Serene\nSubject: A question regarding a very old case",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Hi Serene - I saw that you were the AUSA who worked on a case several years ago against Jeffrey Epstein involving the lease of a former embassy. Do you remember anything about the case that you might be willing to share?",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "A. Marie Villafaña\nAssistant U.S. Attorney\n500 S. Australian Ave, Suite 400\nWest Palm Beach, FL 33401\nPhone 561 209-1047\nFax 561 820-8777",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00003176",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ann Marie C. Villafana",
+      "Serene Nakano",
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "USAFLS",
+      "USDOJ"
+    ],
+    "locations": [
+      "West Palm Beach, FL"
+    ],
+    "dates": [
+      "2007-06-12",
+      "2007-06-14"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00003176"
+    ]
+  },
+  "additional_notes": "The document is an email chain between Ann Marie C. Villafana and Serene Nakano regarding a case involving Jeffrey Epstein. The email includes attachments and contact information for the sender."
+}

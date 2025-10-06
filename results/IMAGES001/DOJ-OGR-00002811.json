@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "182-4",
+    "date": "03/26/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 182-4 Filed 03/26/21 Page 2 of 2\n\nAll attorneys appearing before this Court are subject to the Local Rules of this Court, including the Rules governing discipline of attorneys.\n\nDated: ____________________________________ Honorable Alison J. Nathan United States District Judge\n\n2\nDOJ-OGR-00002811",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 182-4 Filed 03/26/21 Page 2 of 2",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "All attorneys appearing before this Court are subject to the Local Rules of this Court, including the Rules governing discipline of attorneys.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Dated:",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "____________________________________",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Honorable Alison J. Nathan United States District Judge",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "2",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00002811",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Alison J. Nathan"
+    ],
+    "organizations": [
+      "United States District Court"
+    ],
+    "locations": [],
+    "dates": [
+      "03/26/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "182-4",
+      "DOJ-OGR-00002811"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a standard notice regarding attorney discipline. The date field is blank, suggesting it may need to be filled in manually."
+}

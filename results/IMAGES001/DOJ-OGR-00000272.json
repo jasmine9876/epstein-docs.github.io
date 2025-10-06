@@ -1,0 +1,85 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "3",
+    "date": "07/08/19",
+    "document_type": "Unsealing Order",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "Case 1:19-cr-00490-RMB Document 3 Filed 07/08/19 Page 1 of 1\nUNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK\nUNITED STATES OF AMERICA - v. - JEFFREY EPSTEIN, Defendant.\nUpon the application of the United States, by the United States Attorney for the Southern District of New York, Geoffrey S. Berman, by Assistant United States Attorney Alex Rossmiller; It is found that the Indictment in the above-captioned case is currently sealed and the United States Attorney's Office has applied to have that Indictment unsealed, and it is therefore: ORDERED that the Indictment in the above-captioned action be unsealed and remain unsealed pending further order of the Court.\nDated: New York, New York July 8, 2019\nHONORABLE HENRY PITMAN UNITED STATES MAGISTRATE JUDGE SOUTHERN DISTRICT OF NEW YORK\nUSDC SDNY DOCUMENT ELECTRONICALLY FILED DOC#: FILED JUL 08 2019\nDOJ-OGR-00000272",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:19-cr-00490-RMB Document 3 Filed 07/08/19 Page 1 of 1",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "UNITED STATES OF AMERICA - v. - JEFFREY EPSTEIN, Defendant.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Upon the application of the United States, by the United States Attorney for the Southern District of New York, Geoffrey S. Berman, by Assistant United States Attorney Alex Rossmiller; It is found that the Indictment in the above-captioned case is currently sealed and the United States Attorney's Office has applied to have that Indictment unsealed, and it is therefore: ORDERED that the Indictment in the above-captioned action be unsealed and remain unsealed pending further order of the Court.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Dated: New York, New York July 8, 2019",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Henry Pitman",
+      "position": "signature"
+    },
+    {
+      "type": "printed",
+      "content": "HONORABLE HENRY PITMAN UNITED STATES MAGISTRATE JUDGE SOUTHERN DISTRICT OF NEW YORK",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "USDC SDNY DOCUMENT ELECTRONICALLY FILED DOC#: FILED JUL 08 2019",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00000272",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Geoffrey S. Berman",
+      "Alex Rossmiller",
+      "Henry Pitman"
+    ],
+    "organizations": [
+      "UNITED STATES DISTRICT COURT",
+      "SOUTHERN DISTRICT OF NEW YORK",
+      "UNITED STATES ATTORNEY'S OFFICE"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "July 8, 2019",
+      "07/08/19"
+    ],
+    "reference_numbers": [
+      "1:19-cr-00490-RMB",
+      "Document 3",
+      "19 Cr. 490",
+      "DOJ-OGR-00000272"
+    ]
+  },
+  "additional_notes": "The document is a court order to unseal an indictment. It is signed by Honorable Henry Pitman, United States Magistrate Judge. The document is filed electronically and has a stamp indicating the filing date."
+}

@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "134-1",
+    "date": "02/04/21",
+    "document_type": "Exhibit",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-AJN Document 134-1 Filed 02/04/21 Page 1 of 7 EXHIBIT A DOJ-OGR-00002371",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-AJN Document 134-1 Filed 02/04/21 Page 1 of 7",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EXHIBIT A",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00002371",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "02/04/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-AJN",
+      "134-1",
+      "DOJ-OGR-00002371"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear header and footer. The content is mostly printed text with no visible handwriting or stamps."
+}

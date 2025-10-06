@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": "7",
+    "document_number": "204-12",
+    "date": "04/16/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 204-12 Filed 04/16/21 Page 7 of 30\nrandom sample. First, the inactive voters in all counties except Dutchess were excluded from selection. Assuming that they should have been considered,3 this exclusion resulted in the sample frame (the voter lists) being improperly defined for all counties except Dutchess. The second issue is that, of the six counties which make up the White Plains community, three counties feed both the Manhattan and White Plains master jury wheel, while three counties feed only White Plains. The process for selecting for the White Plains master jury wheel from the three non-overlapping counties was to select one out of every three voters, while the process for selecting from the three overlapping counties was to select one out of every 4.5 voters.4 Thus, the White Plains sampling methodology underrepresents the voters in the three overlapping counties.5\n14. If the sample from the voter registration lists had been a simple random sample, then the master jury wheel would be expected to mirror that of the voter registration lists as of November 1, 2016. Any difference would be due to chance as a result of random selection and, given the large number of selections, the difference due to chance should be trivial. Of course, the master jury wheel could vary from the actual demographics of the community due to\n3 There may be some valid reason for excluding inactive voters, but inactive voters from Dutchess county were included in the selection process, and some inactive voters responded and were on the qualified jury wheel. Thus, I assume that the exclusion of the inactive voters was in error and I explore the impact of this error in explaining any differences between the wheel and community demographics.\n4 The methodology was to first select the Manhattan wheel by selecting one out of every 3 voters from each county in the Manhattan community, and then for the overlapping counties to remove those selected for the Manhattan wheel from consideration for the White Plains community and then selecting one out of every 3 of the remaining voters. The result is that, considering all voters in the county, only 1 out of every 4.5 are selected for the White Plains community.\n5 The procedure may have been a compromise between having an overly burdensome process for voters in the overlapping counties whose chances of jury selection would be twice that of voters in non-overlapping counties and the underrepresentation of voters in the overlapping counties in the White Plains master jury wheel.\n7\nDOJ-OGR-00003627",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 204-12 Filed 04/16/21 Page 7 of 30",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "random sample. First, the inactive voters in all counties except Dutchess were excluded from selection. Assuming that they should have been considered,3 this exclusion resulted in the sample frame (the voter lists) being improperly defined for all counties except Dutchess. The second issue is that, of the six counties which make up the White Plains community, three counties feed both the Manhattan and White Plains master jury wheel, while three counties feed only White Plains. The process for selecting for the White Plains master jury wheel from the three non-overlapping counties was to select one out of every three voters, while the process for selecting from the three overlapping counties was to select one out of every 4.5 voters.4 Thus, the White Plains sampling methodology underrepresents the voters in the three overlapping counties.5",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "14. If the sample from the voter registration lists had been a simple random sample, then the master jury wheel would be expected to mirror that of the voter registration lists as of November 1, 2016. Any difference would be due to chance as a result of random selection and, given the large number of selections, the difference due to chance should be trivial. Of course, the master jury wheel could vary from the actual demographics of the community due to",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "3 There may be some valid reason for excluding inactive voters, but inactive voters from Dutchess county were included in the selection process, and some inactive voters responded and were on the qualified jury wheel. Thus, I assume that the exclusion of the inactive voters was in error and I explore the impact of this error in explaining any differences between the wheel and community demographics.",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "4 The methodology was to first select the Manhattan wheel by selecting one out of every 3 voters from each county in the Manhattan community, and then for the overlapping counties to remove those selected for the Manhattan wheel from consideration for the White Plains community and then selecting one out of every 3 of the remaining voters. The result is that, considering all voters in the county, only 1 out of every 4.5 are selected for the White Plains community.",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "5 The procedure may have been a compromise between having an overly burdensome process for voters in the overlapping counties whose chances of jury selection would be twice that of voters in non-overlapping counties and the underrepresentation of voters in the overlapping counties in the White Plains master jury wheel.",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "7",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00003627",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [
+      "Dutchess",
+      "White Plains",
+      "Manhattan"
+    ],
+    "dates": [
+      "04/16/21",
+      "November 1, 2016"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "204-12",
+      "DOJ-OGR-00003627"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing discussing the methodology used for selecting jurors. The text is mostly clear, but there are some complex sentences and legal terminology."
+}

@@ -1,0 +1,83 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "81",
+    "date": "12/03/20",
+    "document_type": "Court Order",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "Case 1:20-cr-00330-AJN Document 81 Filed 12/03/20 Page 1 of 2\nUSDC SDNY DOCUMENT ELECTRONICALLY FILED DOC #: DATE FILED: 12/3/20\nUNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK\nUnited States of America,\n-v-\nGhislain Maxwell,\nDefendant.\n20-CR-330 (AJN)\nORDER\nALISON J. NATHAN, District Judge:\nOn November 25, 2020, counsel for Defendant Ghislaine Maxwell filed a letter request seeking an in camera conference for the presentation of a renewed motion for release on bail and a request to seal the November 25, 2020 letter in its entirety. The Court required justification for the sealing request. On November 30, 2020, the defense counsel filed a second letter no longer fully pressing the unsupported request to file the letter entirely under seal and instead proposing redactions to both the November 25th and November 30th letters. The Government has indicated that it does not oppose the redactions. Dkt. No. 80.\nAfter due consideration, the Court will adopt the Defendant's proposed redactions, which are consented to by the Government. The Court's decision is guided by the three-part test articulated by the Second Circuit in Lugosch v. Pyramid Co. of Onondaga, 435 F.3d 110 (2d Cir. 2006). Under this test, the Court must: (i) determine whether the documents in question are \"judicial documents;\" (ii) assess the weight of the common law presumption of access to the materials; and (iii) balance competing considerations against the presumption of access. Id. at 119-20. \"Such countervailing factors include but are not limited to 'the danger of impairing law enforcement or judicial efficiency' and 'the privacy interests of those resisting disclosure.'\" Id. at 120 (quoting United States v. Amodeo, 71 F.3d 1044, 1050 (2d Cir. 1995) (\"Amodeo II\")).\n1\nDOJ-OGR-00001847",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-AJN Document 81 Filed 12/03/20 Page 1 of 2",
+      "position": "header"
+    },
+    {
+      "type": "stamp",
+      "content": "USDC SDNY DOCUMENT ELECTRONICALLY FILED DOC #: DATE FILED: 12/3/20",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "United States of America, -v- Ghislain Maxwell, Defendant.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "20-CR-330 (AJN) ORDER",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "ALISON J. NATHAN, District Judge: ...",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "1",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00001847",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ghislaine Maxwell",
+      "Alison J. Nathan"
+    ],
+    "organizations": [
+      "United States District Court",
+      "Southern District of New York",
+      "Second Circuit"
+    ],
+    "locations": [
+      "New York",
+      "Onondaga"
+    ],
+    "dates": [
+      "November 25, 2020",
+      "November 30, 2020",
+      "12/03/20",
+      "1995",
+      "2006"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-AJN",
+      "Document 81",
+      "20-CR-330 (AJN)",
+      "Dkt. No. 80",
+      "DOJ-OGR-00001847"
+    ]
+  },
+  "additional_notes": "The document appears to be a court order from the United States District Court for the Southern District of New York. The document is related to the case of Ghislaine Maxwell and includes a stamp indicating it was electronically filed."
+}

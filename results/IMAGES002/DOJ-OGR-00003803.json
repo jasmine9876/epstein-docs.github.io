@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "212-2",
+    "date": "04/16/21",
+    "document_type": "Exhibit",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 212-2 Filed 04/16/21 Page 1 of 30 EXHIBIT B DOJ-OGR-00003803",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 212-2 Filed 04/16/21 Page 1 of 30",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EXHIBIT B",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00003803",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "04/16/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "212-2",
+      "DOJ-OGR-00003803"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear header and footer. The content is mostly blank except for the title 'EXHIBIT B' and a reference number at the bottom."
+}

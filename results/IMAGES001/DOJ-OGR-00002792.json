@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "12",
+    "document_number": "171",
+    "date": "03/23/21",
+    "document_type": "Exhibit",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 171 Filed 03/23/21 Page 12 of 18 EXHIBIT A DOJ-OGR-00002792",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 171 Filed 03/23/21 Page 12 of 18",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EXHIBIT A",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00002792",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "03/23/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "171",
+      "DOJ-OGR-00002792"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear header and footer. The main content is labeled 'EXHIBIT A'."
+}

@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": "8",
+    "document_number": "25-2",
+    "date": "07/17/19",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:19-cr-00490-RMB Document 25-2 Filed 07/17/19 Page 8 of 8\nFrom: jeffrey E. [redacted]\nSubject: [redacted]\nDate: July 31, 2015 at 11:25 AM\nTo: Deborah Anaya [redacted]\nCc: Darren Indyke [redacted]\nAs an extra precaution I am letting you know that I will be on my ranch for the month of August. Hope you are well\n--\nplease note\nThe information contained in this communication is confidential, may be attorney-client privileged, may constitute inside information, and is intended only for the use of the addressee. It is the property of JEE\nUnauthorized use, disclosure or copying of this communication or any part thereof is strictly prohibited and may be unlawful. If you have received this communication in error, please notify us immediately by return e-mail or by e-mail to [redacted] and destroy this communication and all copies thereof, including all attachments. copyright -all rights reserved\nDOJ-OGR-00000465",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:19-cr-00490-RMB Document 25-2 Filed 07/17/19 Page 8 of 8",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "From: jeffrey E. [redacted]\nSubject: [redacted]\nDate: July 31, 2015 at 11:25 AM\nTo: Deborah Anaya [redacted]\nCc: Darren Indyke [redacted]",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "As an extra precaution I am letting you know that I will be on my ranch for the month of August. Hope you are well",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "--\nplease note\nThe information contained in this communication is confidential, may be attorney-client privileged, may constitute inside information, and is intended only for the use of the addressee. It is the property of JEE\nUnauthorized use, disclosure or copying of this communication or any part thereof is strictly prohibited and may be unlawful. If you have received this communication in error, please notify us immediately by return e-mail or by e-mail to [redacted] and destroy this communication and all copies thereof, including all attachments. copyright -all rights reserved",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00000465",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey E.",
+      "Deborah Anaya",
+      "Darren Indyke"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "July 31, 2015",
+      "07/17/19",
+      "August"
+    ],
+    "reference_numbers": [
+      "1:19-cr-00490-RMB",
+      "25-2",
+      "DOJ-OGR-00000465"
+    ]
+  },
+  "additional_notes": "The document contains redactions, likely for privacy or confidentiality reasons."
+}

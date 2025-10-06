@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "6-1",
+    "date": "07/11/19",
+    "document_type": "Exhibit",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:19-cr-00490-RMB Document 6-1 Filed 07/11/19 Page 1 of 15 EXHIBIT 1 DOJ-OGR-00000290",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:19-cr-00490-RMB Document 6-1 Filed 07/11/19 Page 1 of 15",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EXHIBIT 1",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00000290",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "07/11/19"
+    ],
+    "reference_numbers": [
+      "1:19-cr-00490-RMB",
+      "6-1",
+      "DOJ-OGR-00000290"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear header and footer. The main content is labeled as 'EXHIBIT 1'. There are no visible redactions or damage."
+}

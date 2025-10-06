@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "138-4",
+    "date": "02/04/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-AJN Document 138-4 Filed 02/04/21 Page 1 of 14 EXHIBIT D DOJ-OGR-00002533",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-AJN Document 138-4 Filed 02/04/21 Page 1 of 14",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EXHIBIT D",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00002533",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "02/04/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-AJN",
+      "138-4",
+      "DOJ-OGR-00002533"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear header and footer. The main content is labeled 'EXHIBIT D'."
+}

@@ -1,0 +1,42 @@
+{
+  "document_metadata": {
+    "page_number": "166",
+    "document_number": "201-cv-700320",
+    "date": null,
+    "document_type": "Exhibit",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case: 20-cv-07003 Document #: 134 Filed: 01/03/21 Page 166 of 4 Exhibit B DOJ-OGR-00001205",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case: 20-cv-07003 Document #: 134 Filed: 01/03/21 Page 166 of 4",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Exhibit B",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00001205",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "01/03/21"
+    ],
+    "reference_numbers": [
+      "20-cv-07003",
+      "134",
+      "DOJ-OGR-00001205"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear header and footer. The content is mostly printed text with no visible handwriting or stamps."
+}

@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "5",
+    "document_number": "234",
+    "date": "April 22, 2021",
+    "document_type": "court document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 234 Filed 04/22/21 Page 5 of 5\nThe Hon. Alison J. Nathan\nApril 22, 2021\nPage 5\nFor these reasons, Ms. Maxwell respectfully requests that this Court hold an evidentiary hearing on her motions to suppress and that it rule on the merits of her arguments before the trial on the non-perjury counts.\nRespectfully submitted,\nJeffrey S. Pagliuca\nCC: Counsel of Record\nDOJ-OGR-00003942",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 234 Filed 04/22/21 Page 5 of 5",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "The Hon. Alison J. Nathan\nApril 22, 2021\nPage 5",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "For these reasons, Ms. Maxwell respectfully requests that this Court hold an evidentiary hearing on her motions to suppress and that it rule on the merits of her arguments before the trial on the non-perjury counts.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Respectfully submitted,",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffrey S. Pagliuca",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CC: Counsel of Record",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00003942",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Alison J. Nathan",
+      "Ms. Maxwell",
+      "Jeffrey S. Pagliuca"
+    ],
+    "organizations": [
+      "Court",
+      "Counsel of Record"
+    ],
+    "locations": [],
+    "dates": [
+      "April 22, 2021",
+      "04/22/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "Document 234",
+      "DOJ-OGR-00003942"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a handwritten signature. The content is related to a legal case involving Ms. Maxwell."
+}

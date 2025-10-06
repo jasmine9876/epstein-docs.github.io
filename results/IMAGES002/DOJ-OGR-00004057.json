@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "256",
+    "date": "04/29/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 256 Filed 04/29/21 Page 4 of 4 EXHIBIT B DOJ-OGR-00004057",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 256 Filed 04/29/21 Page 4 of 4",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EXHIBIT B",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00004057",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "04/29/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "256",
+      "DOJ-OGR-00004057"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with an image of a person's face, labeled as 'EXHIBIT B'. The image is likely a piece of evidence in a court case."
+}

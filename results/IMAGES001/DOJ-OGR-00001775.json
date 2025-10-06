@@ -1,0 +1,71 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "A18-1416",
+    "date": "17-SEP-18",
+    "document_type": "UPS Express Envelope",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "UPS US DISTRICT COURT - SDNY 500 PEARL ST NEW YORK NY 10007 P:PURPLE S:FRNT 1:028 A18-1416 12ZF681F019417 6904 SAT08485 Seq 4 09:05:13 2828 UB 1801 HIPPS 20.3.0 SAT08485L 1030 Express Env RECEIVED 17-SEP-8 AM11:20 U.S. OFFICE Case 1:20-cv-03003-AJN Document 155 Filed 09/16/20 Page 1 of 2 DOJ-OGR-00001775",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "UPS",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "US DISTRICT COURT - SDNY 500 PEARL ST NEW YORK NY 10007",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "P:PURPLE S:FRNT 1:028 A18-1416 12ZF681F019417 6904 SAT08485 Seq 4 09:05:13 2828 UB 1801 HIPPS 20.3.0 SAT08485L 1030",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Express Env",
+      "position": "right"
+    },
+    {
+      "type": "stamp",
+      "content": "RECEIVED 17-SEP-8 AM11:20 U.S. OFFICE",
+      "position": "top-right"
+    },
+    {
+      "type": "printed",
+      "content": "Case 1:20-cv-03003-AJN Document 155 Filed 09/16/20 Page 1 of 2",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00001775",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "UPS",
+      "US DISTRICT COURT - SDNY",
+      "U.S. OFFICE",
+      "DOJ"
+    ],
+    "locations": [
+      "NEW YORK"
+    ],
+    "dates": [
+      "17-SEP-18",
+      "09/16/20"
+    ],
+    "reference_numbers": [
+      "A18-1416",
+      "12ZF681F019417 6904",
+      "1:20-cv-03003-AJN",
+      "DOJ-OGR-00001775"
+    ]
+  },
+  "additional_notes": "The document is a UPS Express Envelope addressed to the US District Court - SDNY. The envelope has a receipt stamp from the U.S. Office dated 17-SEP-18. The document is related to a court case with the number 1:20-cv-03003-AJN."
+}

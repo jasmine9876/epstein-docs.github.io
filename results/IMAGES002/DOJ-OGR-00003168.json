@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "234",
+    "document_number": "204",
+    "date": "04/16/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 204 Filed 04/16/21 Page 234 of 239\nhow the particular Master Wheel is selected. It says nothing about the process by which a Master Wheel is reduced to the subset of qualified jurors contained in the Qualified Wheel. Because the \"systematic defect\" alleged by the defendant relates to the Master Jury Wheel, the White Plains Master Jury Wheel is the appropriate \"relevant jury pool.\" Rioux, 930 F. Supp. at 1566-68.\nAlthough the Master Jury Wheel does not include reliable information regarding the race and ethnicity of the individuals selected from voter registration lists, the racial and ethnic makeup of the White Plains Master Jury Wheel can be estimated using geocoding and Bayesian Improved Surname Geocoding (\"BISG\").69 Taking into account those estimates, the White Plains Master Wheel is 11.20% Black or African-American and 12.97% Hispanic or Latino. (Siskin Aff. at ¶ 28). By contrast, the White Plains Qualified Wheel is 8.76% Black or African-American and 10.48% Hispanic or Latino. (Id. at ¶ 17).\nThe community population for purposes of assessing representativeness is the population eligible for jury service in the community. See, e.g., Taylor v. Louisiana, 419 U.S. 522, 524 (1975) (focusing on population eligible for jury service); Rioux, 97 F.3d at 657 (\"We conclude that the appropriate measure in this case is the eighteen and older subset of the population . . .\"). But how should the relevant \"community\" be defined? The defendant contends that it is the jury eligible population of the \"Manhattan Division,\" because that is where the offense occurred and where she assumes she will be tried. (Def. Mot. 9 at 6). As set forth above, she is wrong. The relevant\n69 The defense motion references the expert report of an expert witness named Jeffrey O'Neal Martin (\"Martin Aff.\"), which was prepared for the defense in United States v. Balde, No. 20 Cr. 281 (KPF), where a similar motion is currently pending before Judge Failla. The Government is likewise attaching the expert report of Dr. Bernard R. Siskin, which was prepared for the Government in Balde. As detailed Dr. Skiskin's report, geocoding is based on estimating the proportion of persons who are of a given race or ethnicity based on the racial and ethnic area in which they live. (See Affidavit of Dr. Bernard R. Siskin (\"Siskin Aff.\"), attached hereto as Exhibit 12, at ¶ 26). BISG enhances the accuracy of geocoding for Hispanic or Latino persons by using information about persons' last names. (Id.).\n207\nDOJ-OGR-00003168",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 204 Filed 04/16/21 Page 234 of 239",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "how the particular Master Wheel is selected. It says nothing about the process by which a Master Wheel is reduced to the subset of qualified jurors contained in the Qualified Wheel. Because the \"systematic defect\" alleged by the defendant relates to the Master Jury Wheel, the White Plains Master Jury Wheel is the appropriate \"relevant jury pool.\" Rioux, 930 F. Supp. at 1566-68.\nAlthough the Master Jury Wheel does not include reliable information regarding the race and ethnicity of the individuals selected from voter registration lists, the racial and ethnic makeup of the White Plains Master Jury Wheel can be estimated using geocoding and Bayesian Improved Surname Geocoding (\"BISG\").69 Taking into account those estimates, the White Plains Master Wheel is 11.20% Black or African-American and 12.97% Hispanic or Latino. (Siskin Aff. at ¶ 28). By contrast, the White Plains Qualified Wheel is 8.76% Black or African-American and 10.48% Hispanic or Latino. (Id. at ¶ 17).\nThe community population for purposes of assessing representativeness is the population eligible for jury service in the community. See, e.g., Taylor v. Louisiana, 419 U.S. 522, 524 (1975) (focusing on population eligible for jury service); Rioux, 97 F.3d at 657 (\"We conclude that the appropriate measure in this case is the eighteen and older subset of the population . . .\"). But how should the relevant \"community\" be defined? The defendant contends that it is the jury eligible population of the \"Manhattan Division,\" because that is where the offense occurred and where she assumes she will be tried. (Def. Mot. 9 at 6). As set forth above, she is wrong. The relevant",
+      "position": "main content"
+    },
+    {
+      "type": "printed",
+      "content": "69 The defense motion references the expert report of an expert witness named Jeffrey O'Neal Martin (\"Martin Aff.\"), which was prepared for the defense in United States v. Balde, No. 20 Cr. 281 (KPF), where a similar motion is currently pending before Judge Failla. The Government is likewise attaching the expert report of Dr. Bernard R. Siskin, which was prepared for the Government in Balde. As detailed Dr. Skiskin's report, geocoding is based on estimating the proportion of persons who are of a given race or ethnicity based on the racial and ethnic area in which they live. (See Affidavit of Dr. Bernard R. Siskin (\"Siskin Aff.\"), attached hereto as Exhibit 12, at ¶ 26). BISG enhances the accuracy of geocoding for Hispanic or Latino persons by using information about persons' last names. (Id.).",
+      "position": "footnote"
+    },
+    {
+      "type": "printed",
+      "content": "207",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00003168",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey O'Neal Martin",
+      "Dr. Bernard R. Siskin",
+      "Failla"
+    ],
+    "organizations": [
+      "Government"
+    ],
+    "locations": [
+      "White Plains",
+      "Manhattan",
+      "Louisiana"
+    ],
+    "dates": [
+      "04/16/21",
+      "1975"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "Document 204",
+      "20 Cr. 281 (KPF)"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing related to a criminal case, discussing the composition of a jury wheel and the representativeness of the jury pool. The text is printed and there are no visible stamps or handwritten annotations."
+}

@@ -1,0 +1,71 @@
+{
+  "document_metadata": {
+    "page_number": "2 of 2",
+    "document_number": "123",
+    "date": "01/25/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-AJN Document 123 Filed 01/25/21 Page 2 of 2 Respectfully submitted, s/ Jeffrey S. Pagliuca Jeffrey S. Pagliuca Laura A. Menninger HADDON, MORGAN & FOREMAN P.C. 150 East 10th Avenue Denver, CO 80203 Phone: 303-831-7264 Mark S. Cohen Christian R. Everdell COHEN & GRESSER LLP 800 Third Avenue New York, NY 10022 Phone: 212-957-7600 Bobbi C. Sternheim Law Offices of Bobbi C. Sternheim 33 West 19th Street - 4th Floor New York, NY 10011 Phone: 212-243-1100 Attorneys for Ghislaine Maxwell 1 DOJ-OGR-00002310",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-AJN Document 123 Filed 01/25/21 Page 2 of 2",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Respectfully submitted,",
+      "position": "top"
+    },
+    {
+      "type": "signature",
+      "content": "s/ Jeffrey S. Pagliuca",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Jeffrey S. Pagliuca Laura A. Menninger HADDON, MORGAN & FOREMAN P.C. 150 East 10th Avenue Denver, CO 80203 Phone: 303-831-7264 Mark S. Cohen Christian R. Everdell COHEN & GRESSER LLP 800 Third Avenue New York, NY 10022 Phone: 212-957-7600 Bobbi C. Sternheim Law Offices of Bobbi C. Sternheim 33 West 19th Street - 4th Floor New York, NY 10011 Phone: 212-243-1100 Attorneys for Ghislaine Maxwell",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "1",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00002310",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey S. Pagliuca",
+      "Laura A. Menninger",
+      "Mark S. Cohen",
+      "Christian R. Everdell",
+      "Bobbi C. Sternheim",
+      "Ghislaine Maxwell"
+    ],
+    "organizations": [
+      "HADDON, MORGAN & FOREMAN P.C.",
+      "COHEN & GRESSER LLP",
+      "Law Offices of Bobbi C. Sternheim"
+    ],
+    "locations": [
+      "Denver, CO",
+      "New York, NY"
+    ],
+    "dates": [
+      "01/25/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-AJN",
+      "123",
+      "DOJ-OGR-00002310"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a signature block and attorney information. The quality is clear and legible."
+}

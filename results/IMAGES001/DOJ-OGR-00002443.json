@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "136-7",
+    "date": "02/04/21",
+    "document_type": "Exhibit",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-AJN Document 136-7 Filed 02/04/21 Page 1 of 23\nEXHIBIT G\nDOJ-OGR-00002443",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-AJN Document 136-7 Filed 02/04/21 Page 1 of 23",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EXHIBIT G",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00002443",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "02/04/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-AJN",
+      "136-7",
+      "DOJ-OGR-00002443"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear header and footer. The content is mostly blank except for the 'EXHIBIT G' label."
+}

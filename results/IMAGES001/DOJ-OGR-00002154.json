@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "30 of 30",
+    "document_number": "97-22",
+    "date": "12/14/20",
+    "document_type": "court document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-AJN Document 97-22 Filed 12/14/20 Page 30 of 30\nI hereby certify that on this ___ day of December 2020, Ghislaine Maxwell personally appeared before me and made her oath in due form of law that the statements herein are true.\nThe Honorable Alison J. Nathan\nUnited States District Judge\nSouthern District of New York\n3\nDOJ-OGR-00002154",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-AJN Document 97-22 Filed 12/14/20 Page 30 of 30",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "I hereby certify that on this ___ day of December 2020, Ghislaine Maxwell personally appeared before me and made her oath in due form of law that the statements herein are true.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "The Honorable Alison J. Nathan\nUnited States District Judge\nSouthern District of New York",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "3",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00002154",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ghislaine Maxwell",
+      "Alison J. Nathan"
+    ],
+    "organizations": [
+      "United States District Court"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "December 2020",
+      "12/14/20"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-AJN",
+      "97-22",
+      "DOJ-OGR-00002154"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a certification statement signed or to be signed by a judge or legal representative. The date '___ day of December 2020' is left blank, suggesting it was not filled in or was redacted."
+}

@@ -1,0 +1,12 @@
+{
+  "name": "document-explorer",
+  "version": "1.0.0",
+  "description": "Static site for exploring OCR'd documents",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}

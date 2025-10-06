@@ -1,0 +1,83 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "173-1",
+    "date": "3/24/2021",
+    "document_type": "FedEx shipping label and court receipt",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "ORIGIN ID:MPBA (305) 379-6667 DAVID MARKUS MARKUS/MOSS PLLC 40 NW THIRD STREET PENTHOUSE ONE MIAMI, FL 33128 UNITED STATES US TO FINANCE DEPARTMENT US DISTRICT COURT OF NEW YORK 500 PEARL ST NEW YORK NY 10007 (212) 805-0636 INV: REF: MAXWELL PO: DEPT: SHIP DATE: 24MAR21 ACTWGT: 1.00 LB CAD: 9297036/INET4340 BILL SENDER FedEx Ship Manager - Print Your Label(s) TRK# 7732 5364 9012 THU - 25 MAR 10:30A PRIORITY OVERNIGHT XA PCTA 10007 EWR NY-US 3/24/2021 Case 1:20-cr-00330-PAE Document 173-1 Filed 03/24/21 Page 1 of 1 DOJ-OGR-00002803",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "ORIGIN ID:MPBA (305) 379-6667 DAVID MARKUS MARKUS/MOSS PLLC 40 NW THIRD STREET PENTHOUSE ONE MIAMI, FL 33128 UNITED STATES US",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "TO FINANCE DEPARTMENT US DISTRICT COURT OF NEW YORK 500 PEARL ST NEW YORK NY 10007 (212) 805-0636 INV: REF: MAXWELL PO: DEPT:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SHIP DATE: 24MAR21 ACTWGT: 1.00 LB CAD: 9297036/INET4340 BILL SENDER",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "FedEx Ship Manager - Print Your Label(s)",
+      "position": "left margin"
+    },
+    {
+      "type": "printed",
+      "content": "TRK# 7732 5364 9012 THU - 25 MAR 10:30A PRIORITY OVERNIGHT",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "XA PCTA 10007 EWR NY-US",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 173-1 Filed 03/24/21 Page 1 of 1",
+      "position": "right margin"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00002803",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "DAVID MARKUS",
+      "MAXWELL",
+      "BRISLANE MAXWELL"
+    ],
+    "organizations": [
+      "MARKUS/MOSS PLLC",
+      "US DISTRICT COURT OF NEW YORK",
+      "FedEx",
+      "District Court"
+    ],
+    "locations": [
+      "MIAMI, FL",
+      "NEW YORK NY",
+      "EWR"
+    ],
+    "dates": [
+      "24MAR21",
+      "3/24/2021",
+      "8/29/2021"
+    ],
+    "reference_numbers": [
+      "7732 5364 9012",
+      "9297036/INET4340",
+      "1:20-cr-00330-PAE",
+      "DOJ-OGR-00002803"
+    ]
+  },
+  "additional_notes": "The document is a FedEx shipping label with a receipt from the US District Court of New York. The label is addressed to the Finance Department of the court, and the receipt confirms the filing of a document in a court case."
+}

@@ -1,0 +1,67 @@
+{
+  "document_metadata": {
+    "page_number": "22 of 23",
+    "document_number": "148",
+    "date": "02/04/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-AJN Document 148 Filed 02/04/21 Page 22 of 23 Laura A. Menninger HADDON, MORGAN & FOREMAN P.C. 150 East 10th Avenue Denver, Colorado 80203 Phone: 303-831-7364 Bobbi C. Sternheim Law Offices of Bobbi C. Sternheim 33 West 19th Street - 4th Floor New York, NY 10011 Phone: 212-243-1100 Attorneys for Ghislaine Maxwell 18 DOJ-OGR-00002715",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-AJN Document 148 Filed 02/04/21 Page 22 of 23",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Laura A. Menninger HADDON, MORGAN & FOREMAN P.C. 150 East 10th Avenue Denver, Colorado 80203 Phone: 303-831-7364",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Bobbi C. Sternheim Law Offices of Bobbi C. Sternheim 33 West 19th Street - 4th Floor New York, NY 10011 Phone: 212-243-1100",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Attorneys for Ghislaine Maxwell",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "18",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00002715",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Laura A. Menninger",
+      "Bobbi C. Sternheim",
+      "Ghislaine Maxwell"
+    ],
+    "organizations": [
+      "HADDON, MORGAN & FOREMAN P.C.",
+      "Law Offices of Bobbi C. Sternheim"
+    ],
+    "locations": [
+      "Denver, Colorado",
+      "New York, NY"
+    ],
+    "dates": [
+      "02/04/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-AJN",
+      "148",
+      "DOJ-OGR-00002715"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with attorney information for Ghislaine Maxwell's case."
+}

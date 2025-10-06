@@ -1,0 +1,48 @@
+{
+  "document_metadata": {
+    "page_number": "2 of 2",
+    "document_number": "204-1",
+    "date": "04/16/21",
+    "document_type": "Case document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 204-1 Filed 04/16/21 Page 2 of 2 sublet to Ivan Fisher Serene Cano Helegal subtenant on house owned Had lease w/ state Dept and illegally sublet to Ivan Fisher a prominent criminal defense atty who then sublet to a number of others Very nervous about financial records turning over Ties to became very nervous any time name came up Ghid aine Maxwell had a social relationship with the real estate broker DOJ-OGR-00003175",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 204-1 Filed 04/16/21 Page 2 of 2",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "sublet to Ivan Fisher Serene Cano Helegal subtenant on house owned Had lease w/ state Dept and illegally sublet to Ivan Fisher a prominent criminal defense atty who then sublet to a number of others Very nervous about financial records turning over Ties to became very nervous any time name came up Ghid aine Maxwell had a social relationship with the real estate broker",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00003175",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ivan Fisher",
+      "Serene Cano",
+      "Ghid aine Maxwell"
+    ],
+    "organizations": [
+      "State Dept"
+    ],
+    "locations": [],
+    "dates": [
+      "04/16/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "204-1",
+      "DOJ-OGR-00003175"
+    ]
+  },
+  "additional_notes": "The document contains handwritten notes with some redacted text. The handwriting is generally legible, but some words are difficult to decipher due to the quality of the image."
+}

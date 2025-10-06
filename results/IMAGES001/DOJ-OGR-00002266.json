@@ -1,0 +1,72 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "1:20-cr-00330-AJN Document 636 Filed 01/13/21",
+    "date": "1/4/2021",
+    "document_type": "COVID-19 Inmate Test Information",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "1/4/2021 Case 1:20-cr-00330-AJN Document 636 Filed 01/13/21 Page 3 of 4 COVID-19 Inmate Test Information Completed Tests 95,830 Number of inmates who have completed testing. Archived on 11/4/20 Pending Tests 2,220 Number of inmates with pending tests and no previous completed test. Positive Tests 38,569 Number of inmates that have ever had a positive test. Learn more about the data and view individual facility stats + COVID-19 Home Confinement Information https://www.bop.gov/coronavirus/ 3/4 DOJ-OGR-00002266",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "COVID-19 Inmate Test Information",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Completed Tests 95,830 Number of inmates who have completed testing. Archived on 11/4/20",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Pending Tests 2,220 Number of inmates with pending tests and no previous completed test.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Positive Tests 38,569 Number of inmates that have ever had a positive test.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Learn more about the data and view individual facility stats +",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "COVID-19 Home Confinement Information",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "https://www.bop.gov/coronavirus/",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00002266",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ",
+      "BOP"
+    ],
+    "locations": [],
+    "dates": [
+      "1/4/2021",
+      "11/4/20",
+      "01/13/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-AJN",
+      "Document 636",
+      "DOJ-OGR-00002266"
+    ]
+  },
+  "additional_notes": "The document contains statistical information about COVID-19 testing among inmates. The data includes the number of completed tests, pending tests, and positive tests. The document is from a legal case file."
+}

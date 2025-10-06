@@ -1,0 +1,92 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "50",
+    "date": "08/26/19",
+    "document_type": "Court Order",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "Case 1:19-cr-00490-RMB Document 50 Filed 08/26/19 Page 1 of 1\nUNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK\nUNITED STATES OF AMERICA, Government, - against - JEFFREY EPSTEIN, Defendant.\n19 CR. 490 (RMB)\nORDER\nThe hearing scheduled for Tuesday, August 27, 2019 at 10:30 a.m. will be held in Courtroom 110 of the Thurgood Marshall United States Courthouse located at 40 Foley Square.\nDated: New York, New York August 26, 2019\nRichard M. Berman\nRICHARD M. BERMAN, U.S.D.J.\nDOJ-OGR-00000632",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:19-cr-00490-RMB Document 50 Filed 08/26/19 Page 1 of 1",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "UNITED STATES OF AMERICA, Government, - against - JEFFREY EPSTEIN, Defendant.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "19 CR. 490 (RMB)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "ORDER",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "The hearing scheduled for Tuesday, August 27, 2019 at 10:30 a.m. will be held in Courtroom 110 of the Thurgood Marshall United States Courthouse located at 40 Foley Square.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Dated: New York, New York August 26, 2019",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Richard M. Berman",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "RICHARD M. BERMAN, U.S.D.J.",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "USDC SDNY DOCUMENT ELECTRONICALLY FILED DOC#: DATE FILED: 8/26/19",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00000632",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Richard M. Berman"
+    ],
+    "organizations": [
+      "United States District Court",
+      "United States Courthouse"
+    ],
+    "locations": [
+      "New York",
+      "Foley Square"
+    ],
+    "dates": [
+      "August 27, 2019",
+      "August 26, 2019"
+    ],
+    "reference_numbers": [
+      "1:19-cr-00490-RMB",
+      "19 CR. 490 (RMB)",
+      "DOJ-OGR-00000632"
+    ]
+  },
+  "additional_notes": "The document is a court order with a handwritten signature. It appears to be a standard court document with no redactions or damage."
+}

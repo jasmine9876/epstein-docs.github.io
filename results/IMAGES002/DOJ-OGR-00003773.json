@@ -1,0 +1,51 @@
+{
+  "document_metadata": {
+    "page_number": "10 of 11",
+    "document_number": "211",
+    "date": "04/16/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 211 Filed 04/16/21 Page 10 of 11\n33 West 19th Street - 4th Floor\nNew York, NY 10011\nPhone: 212-243-1100\nAttorneys for Ghislaine Maxwell\n7\nDOJ-OGR-00003773",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 211 Filed 04/16/21 Page 10 of 11",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "33 West 19th Street - 4th Floor\nNew York, NY 10011\nPhone: 212-243-1100\nAttorneys for Ghislaine Maxwell",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "7",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00003773",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ghislaine Maxwell"
+    ],
+    "organizations": [],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "04/16/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "211",
+      "DOJ-OGR-00003773"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing related to the case of Ghislaine Maxwell. The text is mostly printed, with no visible handwriting or stamps. The document is likely a formal legal document."
+}

@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": "27",
+    "document_number": "97",
+    "date": "12/14/20",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-AJN Document 97 Filed 12/14/20 Page 27 of 45 (Ex. A ¶¶ 8-10). Ms. Maxwell had no choice but to separate herself (Id. ¶ 11). Since Ms. Maxwell's own arrest in July 2020, the press attention has exploded. It significantly dwarfs the media attention given to other recent high-profile defendants such as Harvey Weinstein, Bill Cosby, Joaquín 'El Chapo' Guzmán Loera, and Keith Raniere. As reflected in the graph below, in the 90-day period immediately following her arrest, Ms. Maxwell was mentioned in more national media articles than in the analogous 90-day periods for Mr. Weinstein, Mr. Cosby, Mr. Guzmán Loera, and Mr. Raniere combined. ALL U.S. MEDIA COVERAGE COMPARISON (90 DAYS OF ARREST) 21 DOJ-OGR-00001999",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-AJN Document 97 Filed 12/14/20 Page 27 of 45",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "(Ex. A ¶¶ 8-10). Ms. Maxwell had no choice but to separate herself (Id. ¶ 11). Since Ms. Maxwell's own arrest in July 2020, the press attention has exploded. It significantly dwarfs the media attention given to other recent high-profile defendants such as Harvey Weinstein, Bill Cosby, Joaquín 'El Chapo' Guzmán Loera, and Keith Raniere. As reflected in the graph below, in the 90-day period immediately following her arrest, Ms. Maxwell was mentioned in more national media articles than in the analogous 90-day periods for Mr. Weinstein, Mr. Cosby, Mr. Guzmán Loera, and Mr. Raniere combined.",
+      "position": "main"
+    },
+    {
+      "type": "printed",
+      "content": "ALL U.S. MEDIA COVERAGE COMPARISON (90 DAYS OF ARREST)",
+      "position": "main"
+    },
+    {
+      "type": "printed",
+      "content": "21",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00001999",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ghislaine Maxwell",
+      "Harvey Weinstein",
+      "Bill Cosby",
+      "Joaquín 'El Chapo' Guzmán Loera",
+      "Keith Raniere"
+    ],
+    "organizations": [],
+    "locations": [
+      "U.S."
+    ],
+    "dates": [
+      "July 2020",
+      "12/14/20"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-AJN",
+      "Document 97",
+      "DOJ-OGR-00001999"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing related to the case of Ghislaine Maxwell. The page contains a graph comparing media coverage of Maxwell's arrest to that of other high-profile defendants. The text is mostly printed, with some redacted sections."
+}

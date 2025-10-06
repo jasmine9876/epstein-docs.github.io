@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": "16",
+    "document_number": "204-12",
+    "date": "04/16/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 204-12 Filed 04/16/21 Page 16 of 30\n\nReasons 4 and 5\n\n31. The actual selection of the master jury wheel was not a simple random sample from the November 1, 2016 voter registration lists.12 Reasons 4 and 5 delineate why the selection from the voter registration list was not a simple random sample. The impacts of this can easily be measured by simply estimating what the demographics of the master jury wheel would have been if the sample had been a simple random sample. The difference thus measures the impact of not drawing a simple random sample. For reason 4, the prorating issue, we can exactly measure the impact by simply weighting upward the selections from the overlapping counties so that they represent 1/3 of the registered voters in those counties, as do the actual selections for the non-overlapping counties, and then seeing what effect it has on the percent African American and Hispanic. To address reason 5, the sample frame issue, in order to determine the demographics of a random master jury wheel if they had been considered, we need to know two things. One, we need to know the number of inactive voters in each of these counties who were not considered, and two, we need to know what the percent African American and Hispanic is among those inactive voters. While I have the counts of inactive voters in each county, unfortunately, I was not supplied with, nor do I have access to names and addresses necessary to determine the extent to which the demographic characteristics of inactive and active registered voters are different. This information is available only for Dutchess county. Therefore, precisely determining the characteristics of a sample frame including the inactive voters can only be done for Dutchess county, where such data exists. However, if we assume that the relative difference (percent change in percent African American or Hispanic) in the percent African American or Hispanic in the master jury wheel is the same as the relative difference in the sample frame, then we can estimate the impact.\n\n12 A simple random sample is one in which the sample frame is unbiased and each element in the frame has an equal probability of selection.\n\n16\nDOJ-OGR-00003636",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 204-12 Filed 04/16/21 Page 16 of 30",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Reasons 4 and 5",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "31. The actual selection of the master jury wheel was not a simple random sample from the November 1, 2016 voter registration lists.12 Reasons 4 and 5 delineate why the selection from the voter registration list was not a simple random sample. The impacts of this can easily be measured by simply estimating what the demographics of the master jury wheel would have been if the sample had been a simple random sample. The difference thus measures the impact of not drawing a simple random sample. For reason 4, the prorating issue, we can exactly measure the impact by simply weighting upward the selections from the overlapping counties so that they represent 1/3 of the registered voters in those counties, as do the actual selections for the non-overlapping counties, and then seeing what effect it has on the percent African American and Hispanic. To address reason 5, the sample frame issue, in order to determine the demographics of a random master jury wheel if they had been considered, we need to know two things. One, we need to know the number of inactive voters in each of these counties who were not considered, and two, we need to know what the percent African American and Hispanic is among those inactive voters. While I have the counts of inactive voters in each county, unfortunately, I was not supplied with, nor do I have access to names and addresses necessary to determine the extent to which the demographic characteristics of inactive and active registered voters are different. This information is available only for Dutchess county. Therefore, precisely determining the characteristics of a sample frame including the inactive voters can only be done for Dutchess county, where such data exists. However, if we assume that the relative difference (percent change in percent African American or Hispanic) in the percent African American or Hispanic in the master jury wheel is the same as the relative difference in the sample frame, then we can estimate the impact.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "12 A simple random sample is one in which the sample frame is unbiased and each element in the frame has an equal probability of selection.",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "16",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00003636",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [
+      "Dutchess county"
+    ],
+    "dates": [
+      "November 1, 2016",
+      "04/16/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "204-12",
+      "DOJ-OGR-00003636"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing discussing the selection process for a master jury wheel and its demographic implications. The text is well-formatted and printed, with no visible handwriting or stamps. The document includes a footnote explaining the concept of a simple random sample."
+}

@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "120",
+    "date": "01/25/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-AJN Document 120 Filed 01/25/21 Page 4 of 19\n\nStatutes\n18 U.S.C. § 1623............................................................ 3\n18 U.S.C. § 2422............................................................ 2\n18 U.S.C. § 2423(a) ....................................................... 2\n\nRules\nFed. R. Crim. P. 8(a)...................................................... passim\nFed. R. Crim. P. 14(a).................................................... passim\nRule of Professional Conduct 3.7 .................................... 14\niii\nDOJ-OGR-00002282",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-AJN Document 120 Filed 01/25/21 Page 4 of 19",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Statutes\n18 U.S.C. § 1623............................................................ 3\n18 U.S.C. § 2422............................................................ 2\n18 U.S.C. § 2423(a) ....................................................... 2",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Rules\nFed. R. Crim. P. 8(a)...................................................... passim\nFed. R. Crim. P. 14(a).................................................... passim\nRule of Professional Conduct 3.7 .................................... 14",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "iii",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00002282",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "01/25/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-AJN",
+      "120",
+      "DOJ-OGR-00002282"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with references to various statutes and rules. The text is mostly printed, with no visible handwriting or stamps. The document is well-formatted and clear."
+}

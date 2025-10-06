@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "9",
+    "document_number": "204-12",
+    "date": "04/16/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 204-12 Filed 04/16/21 Page 9 of 30\n\n18. The master jury wheel, which defined the potential pool of jurors for the qualified jury wheel, was based on the voter registration lists as of November 1, 2016 and was used to select all potential pools of jurors for juries composed after that date. The date on which the comparable demographics of the community should be ascertained is unclear. Should it be the population as of November 1, 2016 or some date thereafter? Of course, data on the population in the community is not available for any specific date. The best one can do is look at the best available data closest the appropriate date. The best data source is the latest available American Community Survey (ACS) data published by the U.S. Census Bureau. The latest available data is the 2018 5-year survey combining the 2014, 2015, 2016, 2017, and 2018 survey data.7 The 2018 survey includes data both before and after November 1, 2016. The ACS collects survey information continuously nearly every day of the 5 years and then aggregates the results. The data collection is spread evenly across the entire period represented, so as not to overrepresent any particular month or year within the period, but it does not measure the population at a single point in time. The decennial census samples are designed to measure characteristics as of a certain date (or a narrow time period). For example, Census 2010 was designed to measure the characteristics of the population and housing in the United States based upon data collected around April 1, 2010, and thus its data reflects a narrower time frame than ACS data. If areas have consistent population characteristics throughout the ACS time period, their period estimates may not look much different from estimates that would be obtained from a \"point-in-time\" survey design. However, if areas experience significant changes in the characteristics of the population over the time period, ACS period estimates (especially for a 5-year period) may noticeably differ from \"point-in-time\" estimates. I mention this only to point out that there will\n\n7 The 2019 ACS is due to be released to the public on December 10, 2020.\n9\nDOJ-OGR-00003629",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 204-12 Filed 04/16/21 Page 9 of 30",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "18. The master jury wheel, which defined the potential pool of jurors for the qualified jury wheel, was based on the voter registration lists as of November 1, 2016 and was used to select all potential pools of jurors for juries composed after that date. The date on which the comparable demographics of the community should be ascertained is unclear. Should it be the population as of November 1, 2016 or some date thereafter? Of course, data on the population in the community is not available for any specific date. The best one can do is look at the best available data closest the appropriate date. The best data source is the latest available American Community Survey (ACS) data published by the U.S. Census Bureau. The latest available data is the 2018 5-year survey combining the 2014, 2015, 2016, 2017, and 2018 survey data.7 The 2018 survey includes data both before and after November 1, 2016. The ACS collects survey information continuously nearly every day of the 5 years and then aggregates the results. The data collection is spread evenly across the entire period represented, so as not to overrepresent any particular month or year within the period, but it does not measure the population at a single point in time. The decennial census samples are designed to measure characteristics as of a certain date (or a narrow time period). For example, Census 2010 was designed to measure the characteristics of the population and housing in the United States based upon data collected around April 1, 2010, and thus its data reflects a narrower time frame than ACS data. If areas have consistent population characteristics throughout the ACS time period, their period estimates may not look much different from estimates that would be obtained from a \"point-in-time\" survey design. However, if areas experience significant changes in the characteristics of the population over the time period, ACS period estimates (especially for a 5-year period) may noticeably differ from \"point-in-time\" estimates. I mention this only to point out that there will",
+      "position": "main content"
+    },
+    {
+      "type": "printed",
+      "content": "7 The 2019 ACS is due to be released to the public on December 10, 2020.",
+      "position": "footnote"
+    },
+    {
+      "type": "printed",
+      "content": "9",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00003629",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "U.S. Census Bureau"
+    ],
+    "locations": [
+      "United States"
+    ],
+    "dates": [
+      "November 1, 2016",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "April 1, 2010",
+      "December 10, 2020"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "204-12",
+      "DOJ-OGR-00003629"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing discussing the use of voter registration lists for jury selection and the relevance of demographic data from the American Community Survey (ACS). The text is well-formatted and clear, with a footnote providing additional information about the release date of the 2019 ACS data."
+}

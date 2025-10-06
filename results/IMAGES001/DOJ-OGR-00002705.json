@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": "12",
+    "document_number": "148",
+    "date": "02/04/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-AJN Document 148 Filed 02/04/21 Page 12 of 23 The contents of this interview are therefore exculpatory Brady material and should be produced to the defense. However, the notes and any reports of these interviews do not appear to be in the discovery, despite the fact that the government obtained and produced documents from the Miami FBI's investigation. We therefore ask the Court to order the government to produce to the defense any notes or reports memorializing these interviews There are also numerous redacted FBI reports in the discovery. The defense asked the government to produce unredacted copies of two such reports. The first is (Ex. C). The second is (Ex. D). Each time, the government responded that it had not applied the redactions and had produced the documents as they obtained them. As to the second, 5 We hereafter refer to Minor Victim-2 as Accuser-2. 8 DOJ-OGR-00002705",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-AJN Document 148 Filed 02/04/21 Page 12 of 23",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "The contents of this interview are therefore exculpatory Brady material and should be produced to the defense. However, the notes and any reports of these interviews do not appear to be in the discovery, despite the fact that the government obtained and produced documents from the Miami FBI's investigation. We therefore ask the Court to order the government to produce to the defense any notes or reports memorializing these interviews There are also numerous redacted FBI reports in the discovery. The defense asked the government to produce unredacted copies of two such reports. The first is (Ex. C). The second is (Ex. D). Each time, the government responded that it had not applied the redactions and had produced the documents as they obtained them. As to the second,",
+      "position": "main body"
+    },
+    {
+      "type": "printed",
+      "content": "5 We hereafter refer to Minor Victim-2 as Accuser-2.",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "8",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00002705",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "FBI",
+      "DOJ"
+    ],
+    "locations": [
+      "Miami"
+    ],
+    "dates": [
+      "02/04/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-AJN",
+      "148",
+      "DOJ-OGR-00002705"
+    ]
+  },
+  "additional_notes": "The document contains redactions and is a court filing related to a criminal case."
+}

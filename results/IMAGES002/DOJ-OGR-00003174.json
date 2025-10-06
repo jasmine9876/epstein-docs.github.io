@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "204-1",
+    "date": "04/16/21",
+    "document_type": "court document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 204-1 Filed 04/16/21 Page 1 of 2 JEREME CANO UNY. AuJA. DOJ-OGR-00003174",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 204-1 Filed 04/16/21 Page 1 of 2",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "JEREME CANO UNY. AuJA.",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00003174",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jereme Cano"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "04/16/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "204-1",
+      "DOJ-OGR-00003174"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a handwritten note in the margin. The document is mostly blank with some printed header and footer information."
+}

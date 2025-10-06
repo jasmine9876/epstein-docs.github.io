@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "24",
+    "document_number": "204-12",
+    "date": "04/16/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 204-12 Filed 04/16/21 Page 24 of 30 APPENDIX A DOJ-OGR-00003644",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 204-12 Filed 04/16/21 Page 24 of 30",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "APPENDIX A",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00003644",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "04/16/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "204-12",
+      "DOJ-OGR-00003644"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a case number and document number. The page is mostly blank except for the header and footer information."
+}

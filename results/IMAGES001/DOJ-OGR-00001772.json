@@ -1,0 +1,49 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "55",
+    "date": "09/04/20",
+    "document_type": "court receipt",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-AJN Document 55 Filed 09/04/20 Page 4 of 9 Court Name: District Court Division: 1 Receipt Number: 465461266036 Cashier ID: Swooten Transaction Date: 09/09/2020 Payer Name: GHISLANE MAXWELL - NOTICE OF APPEAL/DOCKETING FEE For: GHISLANE MAXWELL Amount: $505.00 CHECK Check/Money Order Num: 329 Amt Tendered: $505.00 Total Due: $505.00 Total Tendered: $505.00 Change Amt: $0.00 20CR000330 DOJ-OGR-00001772",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-AJN Document 55 Filed 09/04/20 Page 4 of 9",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Court Name: District Court Division: 1 Receipt Number: 465461266036 Cashier ID: Swooten Transaction Date: 09/09/2020 Payer Name: GHISLANE MAXWELL - NOTICE OF APPEAL/DOCKETING FEE For: GHISLANE MAXWELL Amount: $505.00 CHECK Check/Money Order Num: 329 Amt Tendered: $505.00 Total Due: $505.00 Total Tendered: $505.00 Change Amt: $0.00 20CR000330",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00001772",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "GHISLANE MAXWELL"
+    ],
+    "organizations": [
+      "District Court"
+    ],
+    "locations": [],
+    "dates": [
+      "09/04/20",
+      "09/09/2020"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-AJN",
+      "Document 55",
+      "465461266036",
+      "20CR000330",
+      "DOJ-OGR-00001772"
+    ]
+  },
+  "additional_notes": "The document is a court receipt for a notice of appeal/docketing fee paid by Ghislaine Maxwell. The receipt is from the District Court and is dated 09/09/2020. The document is part of a larger case file (1:20-cr-00330-AJN)."
+}

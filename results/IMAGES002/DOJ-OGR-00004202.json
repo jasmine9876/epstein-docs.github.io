@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "285-8",
+    "date": "05/20/21",
+    "document_type": "Exhibit",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 285-8 Filed 05/20/21 Page 1 of 12 EXHIBIT Q DOJ-OGR-00004202",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 285-8 Filed 05/20/21 Page 1 of 12",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EXHIBIT Q",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00004202",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "05/20/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "285-8",
+      "DOJ-OGR-00004202"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear header and footer. The main content is labeled as 'EXHIBIT Q'. The document is likely part of a larger legal case."
+}

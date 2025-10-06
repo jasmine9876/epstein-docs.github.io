@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "143",
+    "date": "02/04/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-AJN Document 143 Filed 02/04/21 Page 2 of 2\n\nHADDON, MORGAN & FOREMAN P.C.\n150 East 10th Avenue\nDenver, Colorado 80203\nPhone: 303-831-7364\n\nBobbi C. Sternheim\nLaw Offices of Bobbi C. Sternheim\n33 West 19th Street - 4th Floor\nNew York, NY 10011\nPhone: 212-243-1100\n\nAttorneys for Ghislaine Maxwell\n\n2\nDOJ-OGR-00002648",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "HADDON, MORGAN & FOREMAN P.C.\n150 East 10th Avenue\nDenver, Colorado 80203\nPhone: 303-831-7364",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Bobbi C. Sternheim\nLaw Offices of Bobbi C. Sternheim\n33 West 19th Street - 4th Floor\nNew York, NY 10011\nPhone: 212-243-1100",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Attorneys for Ghislaine Maxwell",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "2",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00002648",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ghislaine Maxwell",
+      "Bobbi C. Sternheim"
+    ],
+    "organizations": [
+      "HADDON, MORGAN & FOREMAN P.C.",
+      "Law Offices of Bobbi C. Sternheim"
+    ],
+    "locations": [
+      "Denver, Colorado",
+      "New York, NY"
+    ],
+    "dates": [
+      "02/04/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-AJN",
+      "143",
+      "DOJ-OGR-00002648"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with attorney information for Ghislaine Maxwell's case."
+}

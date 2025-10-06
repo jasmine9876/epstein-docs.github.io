@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "2 of 2",
+    "document_number": "12",
+    "date": "07/15/19",
+    "document_type": "Certificate of Service",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:19-cr-00490-RMB Document 12 Filed 07/15/19 Page 2 of 2 Certificate of Service I, Martin G. Weinberg, hereby certify that on this date, July 15, 2019, a copy of the foregoing document has been served via CM/ECF on Assistant U.S. Attorney Alex Rossmiller and all other counsel of record. /s/ Martin G. Weinberg Martin G. Weinberg DOJ-OGR-00000358",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:19-cr-00490-RMB Document 12 Filed 07/15/19 Page 2 of 2",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Certificate of Service",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "I, Martin G. Weinberg, hereby certify that on this date, July 15, 2019, a copy of the foregoing document has been served via CM/ECF on Assistant U.S. Attorney Alex Rossmiller and all other counsel of record.",
+      "position": "middle"
+    },
+    {
+      "type": "signature",
+      "content": "/s/ Martin G. Weinberg",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Martin G. Weinberg",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00000358",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Martin G. Weinberg",
+      "Alex Rossmiller"
+    ],
+    "organizations": [
+      "U.S. Attorney"
+    ],
+    "locations": [],
+    "dates": [
+      "July 15, 2019",
+      "07/15/19"
+    ],
+    "reference_numbers": [
+      "1:19-cr-00490-RMB",
+      "Document 12",
+      "DOJ-OGR-00000358"
+    ]
+  },
+  "additional_notes": "The document appears to be a standard Certificate of Service form used in legal proceedings, with no visible redactions or damage."
+}

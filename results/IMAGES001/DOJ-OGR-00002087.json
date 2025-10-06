@@ -1,0 +1,50 @@
+{
+  "document_metadata": {
+    "page_number": "5",
+    "document_number": "97-19",
+    "date": "12/14/20",
+    "document_type": "court document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-AJN Document 97-19 Filed 12/14/20 Page 5 of 5 All of the above is true and to the best of my knowledge Signed: 25/11/2020 DOJ-OGR-00002087",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-AJN Document 97-19 Filed 12/14/20 Page 5 of 5",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "All of the above is true and to the best of my knowledge Signed:",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "25/11/2020",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00002087",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "12/14/20",
+      "25/11/2020"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-AJN",
+      "97-19",
+      "DOJ-OGR-00002087"
+    ]
+  },
+  "additional_notes": "The document contains a signature that is redacted. The date '25/11/2020' is handwritten."
+}

@@ -1,0 +1,78 @@
+{
+  "document_metadata": {
+    "page_number": "53",
+    "document_number": "204-11",
+    "date": "04/16/21",
+    "document_type": "Confidential",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 204-11 Filed 04/16/21 Page 5 of 21 Confidential Page 53 G. Maxwell - Confidential MR. PAGLIUCA: Why don't we both stop making speeches. BY MR. BOIES: [REDACTED TEXT]",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 204-11 Filed 04/16/21 Page 5 of 21",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Confidential",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Page 53",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "G. Maxwell - Confidential",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "MR. PAGLIUCA: Why don't we both stop making speeches.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "BY MR. BOIES:",
+      "position": "middle"
+    },
+    {
+      "type": "other",
+      "content": "[REDACTED TEXT]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "MAGNA LEGAL SERVICES",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00003604",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "G. Maxwell",
+      "MR. PAGLIUCA",
+      "MR. BOIES"
+    ],
+    "organizations": [
+      "MAGNA LEGAL SERVICES"
+    ],
+    "locations": [],
+    "dates": [
+      "04/16/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "204-11",
+      "DOJ-OGR-00003604"
+    ]
+  },
+  "additional_notes": "The document contains redactions, indicated by black bars covering text. The document is marked as 'Confidential'."
+}

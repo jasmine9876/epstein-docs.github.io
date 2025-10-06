@@ -1,0 +1,71 @@
+{
+  "document_metadata": {
+    "page_number": "7",
+    "document_number": "62",
+    "date": "July 2, 2020",
+    "document_type": "Court Order",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case#:2020mjo09302JAD Document#:62 Filed#:07/02/20 Page#:28of33\n\nSO ORDERED.\n\nAndrea K. Johnstone\nUnited States Magistrate Judge\n\nJuly 2, 2020\n\ncc: Counsel of record\n\n7\nDOJ-OGR-00001526",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case#:2020mjo09302JAD Document#:62 Filed#:07/02/20 Page#:28of33",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "SO ORDERED.",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Andrea K. Johnstone",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Andrea K. Johnstone\nUnited States Magistrate Judge",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "July 2, 2020",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "cc: Counsel of record",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "7",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00001526",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Andrea K. Johnstone"
+    ],
+    "organizations": [
+      "United States"
+    ],
+    "locations": [],
+    "dates": [
+      "July 2, 2020"
+    ],
+    "reference_numbers": [
+      "2020mjo09302JAD",
+      "62",
+      "DOJ-OGR-00001526"
+    ]
+  },
+  "additional_notes": "The document appears to be a court order signed by a United States Magistrate Judge. The document is in good condition with clear text and a handwritten signature."
+}

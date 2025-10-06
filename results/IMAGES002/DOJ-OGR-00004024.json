@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": "7",
+    "document_number": "248",
+    "date": "04/26/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 248 Filed 04/26/21 Page 7 of 9 the institution. Please note, that you may put these documents in the legal mail box in the body or the east building. Thank you for understanding. Best, Sophia DOJ-OGR-00004024",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 248 Filed 04/26/21 Page 7 of 9",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "the institution. Please note, that you may put these documents in the legal mail box in the body or the east building.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Thank you for understanding.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Best,",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Sophia",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00004024",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Sophia"
+    ],
+    "organizations": [],
+    "locations": [
+      "east building"
+    ],
+    "dates": [
+      "04/26/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "248",
+      "DOJ-OGR-00004024"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear and legible text. There are no visible redactions or damage."
+}

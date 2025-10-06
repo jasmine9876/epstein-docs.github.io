@@ -1,0 +1,71 @@
+{
+  "document_metadata": {
+    "page_number": "6 of 18",
+    "document_number": "17",
+    "date": "07/08/20",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-AJN Document 17 Filed 07/08/20 Page 6 of 18 b. An estate in Palm Beach, Florida owned by Epstein (the \"Palm Beach Residence\"), which is depicted in the following photograph: [Image of Palm Beach Residence] c. A ranch in Santa Fe, New Mexico owned by Epstein (the \"New Mexico Residence\"), which is depicted in the following photograph: [Image of New Mexico Residence] 6 DOJ-OGR-00001568",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-AJN Document 17 Filed 07/08/20 Page 6 of 18",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "b. An estate in Palm Beach, Florida owned by Epstein (the \"Palm Beach Residence\"), which is depicted in the following photograph:",
+      "position": "top"
+    },
+    {
+      "type": "image",
+      "content": "[Image of Palm Beach Residence]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "c. A ranch in Santa Fe, New Mexico owned by Epstein (the \"New Mexico Residence\"), which is depicted in the following photograph:",
+      "position": "middle"
+    },
+    {
+      "type": "image",
+      "content": "[Image of New Mexico Residence]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "6",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00001568",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [
+      "Palm Beach",
+      "Florida",
+      "Santa Fe",
+      "New Mexico"
+    ],
+    "dates": [
+      "07/08/20"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-AJN",
+      "17",
+      "DOJ-OGR-00001568"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with two images of properties owned by Epstein. The document is typed and has a clear format."
+}

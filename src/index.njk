@@ -1,0 +1,84 @@
+---
+layout: base.njk
+title: Document Explorer
+---
+
+<div class="hero">
+  <h1>Document Archive</h1>
+  <p class="subtitle">Browse {{ documents.length }} processed documents</p>
+</div>
+
+<div class="stats">
+  <div class="stat-card">
+    <h3>{{ indices.people.length }}</h3>
+    <p>People</p>
+  </div>
+  <div class="stat-card">
+    <h3>{{ indices.organizations.length }}</h3>
+    <p>Organizations</p>
+  </div>
+  <div class="stat-card">
+    <h3>{{ indices.locations.length }}</h3>
+    <p>Locations</p>
+  </div>
+  <div class="stat-card">
+    <h3>{{ documents.length }}</h3>
+    <p>Documents</p>
+  </div>
+</div>
+
+<div class="section">
+  <h2>Browse By</h2>
+  <div class="browse-grid">
+    <a href="/people/" class="browse-card">
+      <h3>People</h3>
+      <p>{{ indices.people.length }} individuals mentioned</p>
+    </a>
+    <a href="/organizations/" class="browse-card">
+      <h3>Organizations</h3>
+      <p>{{ indices.organizations.length }} organizations</p>
+    </a>
+    <a href="/locations/" class="browse-card">
+      <h3>Locations</h3>
+      <p>{{ indices.locations.length }} locations</p>
+    </a>
+    <a href="/dates/" class="browse-card">
+      <h3>Dates</h3>
+      <p>{{ indices.dates.length }} dates</p>
+    </a>
+    <a href="/document-types/" class="browse-card">
+      <h3>Document Types</h3>
+      <p>{{ indices.documentTypes.length }} types</p>
+    </a>
+    <a href="/all-documents/" class="browse-card">
+      <h3>All Documents</h3>
+      <p>View complete list</p>
+    </a>
+  </div>
+</div>
+
+<div class="section">
+  <h2>Top People</h2>
+  <ul class="entity-list">
+    {% for person in indices.people | slice(0, 10) %}
+    <li>
+      <a href="/people/#{{ person.name | slugify }}">{{ person.name }}</a>
+      <span class="count">{{ person.count }} documents</span>
+    </li>
+    {% endfor %}
+  </ul>
+  <a href="/people/" class="view-all">View all people →</a>
+</div>
+
+<div class="section">
+  <h2>Top Organizations</h2>
+  <ul class="entity-list">
+    {% for org in indices.organizations | slice(0, 10) %}
+    <li>
+      <a href="/organizations/#{{ org.name | slugify }}">{{ org.name }}</a>
+      <span class="count">{{ org.count }} documents</span>
+    </li>
+    {% endfor %}
+  </ul>
+  <a href="/organizations/" class="view-all">View all organizations →</a>
+</div>

@@ -1,0 +1,48 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "285-1",
+    "date": "05/20/21",
+    "document_type": "court document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 285-1 Filed 05/20/21 Page 3 of 10\n2\n- US Attorney has said could be prosecuted elsewhere\nAgnt. under 2255 if victim elect to proceed [under 2255 + forfeit crt] remedies Epstein must pay stat. min. 50K or 150K. At least 12 proceeded under that provision\nNamed\nGhislain Maxwell - daughter of Robert Maxwell - head recruiter\n- Evidence = 2000 (Virginia Roberts - her Case unclear at time)\n- NO END\nCONFIDENTIAL",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 285-1 Filed 05/20/21 Page 3 of 10",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "- US Attorney has said could be prosecuted elsewhere\nAgnt. under 2255 if victim elect to proceed [under 2255 + forfeit crt] remedies Epstein must pay stat. min. 50K or 150K. At least 12 proceeded under that provision\nNamed\nGhislain Maxwell - daughter of Robert Maxwell - head recruiter\n- Evidence = 2000 (Virginia Roberts - her Case unclear at time)\n- NO END",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Epstein",
+      "Ghislain Maxwell",
+      "Robert Maxwell",
+      "Virginia Roberts"
+    ],
+    "organizations": [
+      "US Attorney"
+    ],
+    "locations": [],
+    "dates": [
+      "05/20/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "285-1"
+    ]
+  },
+  "additional_notes": "The document contains handwritten notes and redactions. The content appears to be related to a court case involving Ghislain Maxwell and Epstein."
+}

@@ -1,0 +1,67 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "103",
+    "date": "12/23/20",
+    "document_type": "TABLE OF AUTHORITIES",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-AJN Document 103 Filed 12/23/20 Page 3 of 15\n\nTABLE OF AUTHORITIES\n\nCases                                                 Page(s)\n\nUnited States v. Chen,\n820 F. Supp. 1205 (N.D. Cal. 1992)..........................................10\n\nUnited States v. Orta,\n760 F.2d 887 (8th Cir. 1985)...............................................1\n\nDOJ-OGR-00002209",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-AJN Document 103 Filed 12/23/20 Page 3 of 15",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "TABLE OF AUTHORITIES",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Cases                                                 Page(s)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "United States v. Chen,\n820 F. Supp. 1205 (N.D. Cal. 1992)..........................................10",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "United States v. Orta,\n760 F.2d 887 (8th Cir. 1985)...............................................1",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00002209",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Chen",
+      "Orta"
+    ],
+    "organizations": [
+      "United States"
+    ],
+    "locations": [
+      "N.D. Cal.",
+      "8th Cir."
+    ],
+    "dates": [
+      "12/23/20",
+      "1992",
+      "1985"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-AJN",
+      "103",
+      "DOJ-OGR-00002209"
+    ]
+  },
+  "additional_notes": "The document appears to be a table of authorities from a legal case, with no visible redactions or damage."
+}

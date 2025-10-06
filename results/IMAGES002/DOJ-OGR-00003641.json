@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "21",
+    "document_number": "204-12",
+    "date": "04/16/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 204-12 Filed 04/16/21 Page 21 of 30\n\nVI. REVIEW OF JEFFREY MARTIN'S AFFIDAVIT\n\n39. Mr. Martin computes the percent African American on the White Plains qualified jury wheel and the estimated percent African American and Hispanic in White Plains, Manhattan, and the overall Southern District using the 5-year ACS. I can reproduce his calculations. He then compares the demographics of the White Plains qualified jury wheel to that of the White Plains community, the Manhattan community, and the Southern District community.\n\n40. He computes the absolute difference between the White Plains qualified jury wheel and the White Plains community based on the 5-year 2018 ACS data, as I do. While I did not compare the White Plains qualified jury wheel and the Manhattan and Southern District community estimates, I do not dispute his reported absolute disparities. However, since the percent African American and Hispanic in Manhattan and the Southern District are significantly larger than in White Plains, and the master jury wheel is designed to represent White Plains, by design the White Plains master jury wheel and hence its qualified jury wheel will be significantly demographically different, since the communities' demographics are different.\n\n41. Mr. Martin properly notes that the master jury wheel was not a valid simple random sample, so it does not properly represent the voter lists from which potential jurors are selected, due to what he labels a proration issue (the voters in different overlapping counties have a different selection rate than those non-overlapping counties) and the fact that inactive voters on the voter list were not selected in five counties. He also points out that, in making the master jury wheel, there was a clerical error in that zip codes were not included for individuals who provided an alternative mailing address when they registered to vote. The result of this error was that voters who provided an alternative mailing address never responded to the questionnaire, presumably because they never received it due to the clerical error.\n\n21\n\nDOJ-OGR-00003641",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 204-12 Filed 04/16/21 Page 21 of 30",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "VI. REVIEW OF JEFFREY MARTIN'S AFFIDAVIT",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "39. Mr. Martin computes the percent African American on the White Plains qualified jury wheel and the estimated percent African American and Hispanic in White Plains, Manhattan, and the overall Southern District using the 5-year ACS. I can reproduce his calculations. He then compares the demographics of the White Plains qualified jury wheel to that of the White Plains community, the Manhattan community, and the Southern District community.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "40. He computes the absolute difference between the White Plains qualified jury wheel and the White Plains community based on the 5-year 2018 ACS data, as I do. While I did not compare the White Plains qualified jury wheel and the Manhattan and Southern District community estimates, I do not dispute his reported absolute disparities. However, since the percent African American and Hispanic in Manhattan and the Southern District are significantly larger than in White Plains, and the master jury wheel is designed to represent White Plains, by design the White Plains master jury wheel and hence its qualified jury wheel will be significantly demographically different, since the communities' demographics are different.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "41. Mr. Martin properly notes that the master jury wheel was not a valid simple random sample, so it does not properly represent the voter lists from which potential jurors are selected, due to what he labels a proration issue (the voters in different overlapping counties have a different selection rate than those non-overlapping counties) and the fact that inactive voters on the voter list were not selected in five counties. He also points out that, in making the master jury wheel, there was a clerical error in that zip codes were not included for individuals who provided an alternative mailing address when they registered to vote. The result of this error was that voters who provided an alternative mailing address never responded to the questionnaire, presumably because they never received it due to the clerical error.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "21",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00003641",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Martin",
+      "Mr. Martin"
+    ],
+    "organizations": [],
+    "locations": [
+      "White Plains",
+      "Manhattan",
+      "Southern District"
+    ],
+    "dates": [
+      "04/16/21",
+      "2018"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "204-12",
+      "DOJ-OGR-00003641"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing related to a criminal case. The text is printed and there are no visible stamps or handwritten notes. The document is page 21 of 30."
+}

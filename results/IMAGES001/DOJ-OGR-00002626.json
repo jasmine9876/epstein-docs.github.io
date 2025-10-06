@@ -1,0 +1,69 @@
+{
+  "document_metadata": {
+    "page_number": "15",
+    "document_number": "1:10cv1580",
+    "date": "December 7, 2007",
+    "document_type": "Affirmation",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:10cv1580 Document 142 Filed 02/06/2015 Page 15 of 15 Dec-07-07 04:55pm From-Fowler-White Burnett 3057809201 T-266 P.003/004 F-276 Affirmation I, Jeffrey E. Epstein do hereby re-affirm the Non-Prosecution Agreement and Addendum to same dated October 30, 2007. Jeffrey E. Epstein 12/1/10 Date DOJ-OGR-00002626",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:10cv1580 Document 142 Filed 02/06/2015 Page 15 of 15",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Dec-07-07 04:55pm From-Fowler-White Burnett 3057809201 T-266 P.003/004 F-276",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Affirmation",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "I, Jeffrey E. Epstein do hereby re-affirm the Non-Prosecution Agreement and Addendum to same dated October 30, 2007.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "12/1/10",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00002626",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey E. Epstein"
+    ],
+    "organizations": [
+      "Fowler-White Burnett",
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "October 30, 2007",
+      "December 1, 2010",
+      "February 6, 2015",
+      "December 7, 2007"
+    ],
+    "reference_numbers": [
+      "1:10cv1580",
+      "142",
+      "3057809201",
+      "T-266",
+      "P.003/004",
+      "F-276",
+      "DOJ-OGR-00002626"
+    ]
+  },
+  "additional_notes": "The document appears to be a faxed affirmation signed by Jeffrey E. Epstein, affirming a Non-Prosecution Agreement dated October 30, 2007. The document is dated December 1, 2010, and was filed on February 6, 2015. The image quality is clear, with some minor speckling and a vertical black line on the left edge."
+}

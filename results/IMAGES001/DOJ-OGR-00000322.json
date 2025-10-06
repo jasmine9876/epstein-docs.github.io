@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "7",
+    "date": "07/11/19",
+    "document_type": "Certificate of Service",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:19-cr-00490-RMB Document 7 Filed 07/11/19 Page 3 of 3 CERTIFICATE OF SERVICE I, Reid Weingarten, hereby certify that on this date, July 11, 2019, a copy of the foregoing document has been served via Electronic Court Filing system on all registered participants. /s/ Reid Weingarten 3 DOJ-OGR-00000322",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:19-cr-00490-RMB Document 7 Filed 07/11/19 Page 3 of 3",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CERTIFICATE OF SERVICE",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "I, Reid Weingarten, hereby certify that on this date, July 11, 2019, a copy of the foregoing document has been served via Electronic Court Filing system on all registered participants.",
+      "position": "middle"
+    },
+    {
+      "type": "signature",
+      "content": "/s/ Reid Weingarten",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "3",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00000322",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Reid Weingarten"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "July 11, 2019",
+      "07/11/19"
+    ],
+    "reference_numbers": [
+      "1:19-cr-00490-RMB",
+      "Document 7",
+      "DOJ-OGR-00000322"
+    ]
+  },
+  "additional_notes": "The document appears to be a Certificate of Service, filed electronically, with a clear signature block indicating the person who served the document."
+}

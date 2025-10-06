@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "25",
+    "date": "07/17/19",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:19-cr-00490-RMB Document 25 Filed 07/17/19 Page 2 of 2\n\nMartin G. Weinberg (pro hac vice)\nMartin G. Weinberg, P.C.\n20 Park Plaza, Suite 1000\nBoston, MA 02116\n(617) 227-3700\nFax: (617) 338-9538\nowlmgw@att.net\n\nMarc Allan Fernich\nLaw Office of Marc Fernich\n810 Seventh Ave\nSuite 620\nNew York, NY 10019\n(212) 446-2346\nFax: (212) 446 2330\nmaf@fernichlaw.com\n\nDOJ-OGR-00000455",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:19-cr-00490-RMB Document 25 Filed 07/17/19 Page 2 of 2",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Martin G. Weinberg (pro hac vice)\nMartin G. Weinberg, P.C.\n20 Park Plaza, Suite 1000\nBoston, MA 02116\n(617) 227-3700\nFax: (617) 338-9538\nowlmgw@att.net",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Marc Allan Fernich\nLaw Office of Marc Fernich\n810 Seventh Ave\nSuite 620\nNew York, NY 10019\n(212) 446-2346\nFax: (212) 446 2330\nmaf@fernichlaw.com",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00000455",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Martin G. Weinberg",
+      "Marc Allan Fernich"
+    ],
+    "organizations": [
+      "Martin G. Weinberg, P.C.",
+      "Law Office of Marc Fernich"
+    ],
+    "locations": [
+      "Boston, MA",
+      "New York, NY"
+    ],
+    "dates": [
+      "07/17/19"
+    ],
+    "reference_numbers": [
+      "1:19-cr-00490-RMB",
+      "Document 25",
+      "DOJ-OGR-00000455"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with attorney contact information. The quality is clear and legible."
+}

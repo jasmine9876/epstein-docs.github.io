@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "16",
+    "document_number": "136",
+    "date": "02/04/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-AJN Document 136 Filed 02/04/21 Page 16 of 27\n\n2. The Second Question: \"List all of the people under the age of 18 that you interacted with at any of Jeffrey's properties?\"\n\nThe second \"question\" was equally improper. First, this is not a question. Rather, it is a demand to do something, make a list. Fed. R. Civ. P. 30(a)(1) limits a deposition to \"oral questions.\" The question was grossly ambiguous: who was \"Jeffrey\"; what were \"Jeffrey's properties;\" to what time frame did the question apply; what was the basis for Ms. Maxwell to determine who may or may not have been \"under the age of 18\"; and what did \"interact with\" mean?\n\nAgain, the Government selectively omits objections, context, and relevant colloquy. This series of questions begins at page 382 of the April 2016 deposition:\n\n[REDACTED TEXT BLOCK]\n\n11\nDOJ-OGR-00002425",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-AJN Document 136 Filed 02/04/21 Page 16 of 27",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "2. The Second Question: \"List all of the people under the age of 18 that you interacted with at any of Jeffrey's properties?\"",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "The second \"question\" was equally improper. First, this is not a question. Rather, it is a demand to do something, make a list. Fed. R. Civ. P. 30(a)(1) limits a deposition to \"oral questions.\" The question was grossly ambiguous: who was \"Jeffrey\"; what were \"Jeffrey's properties;\" to what time frame did the question apply; what was the basis for Ms. Maxwell to determine who may or may not have been \"under the age of 18\"; and what did \"interact with\" mean?",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Again, the Government selectively omits objections, context, and relevant colloquy. This series of questions begins at page 382 of the April 2016 deposition:",
+      "position": "middle"
+    },
+    {
+      "type": "other",
+      "content": "[REDACTED TEXT BLOCK]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "11",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00002425",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey",
+      "Ms. Maxwell"
+    ],
+    "organizations": [
+      "Government"
+    ],
+    "locations": [],
+    "dates": [
+      "02/04/21",
+      "April 2016"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-AJN",
+      "Document 136",
+      "Page 16 of 27",
+      "DOJ-OGR-00002425",
+      "382"
+    ]
+  },
+  "additional_notes": "The document contains redactions in the form of blacked-out text blocks. The quality of the document is otherwise clear and legible."
+}

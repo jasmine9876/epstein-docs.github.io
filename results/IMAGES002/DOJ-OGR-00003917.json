@@ -1,0 +1,59 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "226",
+    "date": "April 21, 2021",
+    "document_type": "Court Document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 226 Filed 04/21/21 Page 2 of 2 Dated: April 21, 2021 New York, New York ALISON J. NATHAN United States District Judge",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 226 Filed 04/21/21 Page 2 of 2",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Dated: April 21, 2021 New York, New York",
+      "position": "left margin"
+    },
+    {
+      "type": "handwritten",
+      "content": "Alison J. Nathan",
+      "position": "right margin"
+    },
+    {
+      "type": "printed",
+      "content": "ALISON J. NATHAN United States District Judge",
+      "position": "right margin"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00003917",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Alison J. Nathan"
+    ],
+    "organizations": [
+      "United States District Court"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "April 21, 2021",
+      "04/21/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "226",
+      "DOJ-OGR-00003917"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a signature from a United States District Judge. The document is page 2 of 2."
+}

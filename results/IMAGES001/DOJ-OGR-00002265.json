@@ -1,0 +1,69 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "1:20-cr-00330-AJN",
+    "date": "1/4/2021",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "1/4/2021 Case 1:20-cr-00330-AJN Document docket#16-1 Filed 01/13/21 Page 2 of 4 Learn More Coronavirus.gov The primary lane of information for the public regarding Coronavirus (COVID-19) is a portal for public information published by the Coronavirus (COVID-19) Task Force at the White House, working in conjunction with CDC, HHS and other agency stakeholders. Go to coronavirus.gov CDC.gov The Centers for Disease Control and Prevention (CDC) has established a resource portal on CDC.gov with the latest information from CDC and the overarching medical community on COVID-19. Go to cdc.gov USA.gov To learn about international travel restrictions, how you can prepare for coronavirus, and what the U.S. government is doing in response to the virus, visit https://www.usa.gov/coronavirus Go to usa.gov/coronavirus COVID-19 Cases Loading data ... https://www.bop.gov/coronavirus/ 2/4 DOJ-OGR-00002265",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "1/4/2021 Case 1:20-cr-00330-AJN Document docket#16-1 Filed 01/13/21 Page 2 of 4",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Learn More",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Coronavirus.gov The primary lane of information for the public regarding Coronavirus (COVID-19) is a portal for public information published by the Coronavirus (COVID-19) Task Force at the White House, working in conjunction with CDC, HHS and other agency stakeholders. Go to coronavirus.gov",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "CDC.gov The Centers for Disease Control and Prevention (CDC) has established a resource portal on CDC.gov with the latest information from CDC and the overarching medical community on COVID-19. Go to cdc.gov",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "USA.gov To learn about international travel restrictions, how you can prepare for coronavirus, and what the U.S. government is doing in response to the virus, visit https://www.usa.gov/coronavirus Go to usa.gov/coronavirus",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "COVID-19 Cases Loading data ...",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "https://www.bop.gov/coronavirus/ 2/4 DOJ-OGR-00002265",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "CDC",
+      "HHS",
+      "White House",
+      "U.S. government"
+    ],
+    "locations": [
+      "USA"
+    ],
+    "dates": [
+      "1/4/2021",
+      "01/13/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-AJN",
+      "DOJ-OGR-00002265"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing related to COVID-19, with links to various government websites providing information on the pandemic. The document is watermarked with 'Archived in US Maximo on 12/20/20 Decided on 1/4/21' and 'Further reproduction is prohibited without permission.'"
+}

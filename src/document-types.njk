@@ -1,0 +1,48 @@
+---
+layout: base.njk
+title: Document Types
+---
+
+<h1>Document Types</h1>
+<p class="subtitle">{{ indices.documentTypes.length }} document types</p>
+
+<div class="search-box">
+  <input type="text" id="search" placeholder="Search document types...">
+</div>
+
+<div id="results">
+  {% for type in indices.documentTypes %}
+  <div class="section" id="{{ type.name | slugify }}">
+    <h2>{{ type.name }}</h2>
+    <p>{{ type.count }} documents</p>
+
+    <div style="margin-top: 1rem;">
+      {% for doc in type.docs %}
+      <div class="document-card">
+        <h4>Document {{ doc.document_number }}</h4>
+        <div class="meta">
+          {% if doc.document_metadata.date %}Date: {{ doc.document_metadata.date }} | {% endif %}
+          Pages: {{ doc.page_count }}
+        </div>
+        <a href="/document/{{ doc.unique_id | slugify }}/" style="font-size: 0.9rem;">View document →</a>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+<script>
+  const search = document.getElementById('search');
+  const results = document.getElementById('results');
+
+  search.addEventListener('input', (e) => {
+    const query = e.target.value.toLowerCase();
+    const sections = results.querySelectorAll('.section');
+
+    sections.forEach(section => {
+      const title = section.querySelector('h2').textContent.toLowerCase();
+      section.style.display = title.includes(query) ? 'block' : 'none';
+    });
+  });
+</script>

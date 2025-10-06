@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "224",
+    "date": "04/20/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 224 Filed 04/20/21 Page 4 of 17\nRules\nABA Annotated Model Rules of Prof'l Conduct, R. 3.7 cmt. 1...............................10\nNYRPC 3.7 ...............................................................9\nFed. R. Crim. P. 14(a)..............................................6\nFed. R. Crim. P. 8(a)..............................................1\nFed. R. Evid. 8(a)....................................................3\nFed. R. Evid. 401, 402, 403, and 404(b)...............................7\niii\nDOJ-OGR-00003901",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 224 Filed 04/20/21 Page 4 of 17",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Rules",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "ABA Annotated Model Rules of Prof'l Conduct, R. 3.7 cmt. 1...............................10\nNYRPC 3.7 ...............................................................9\nFed. R. Crim. P. 14(a)..............................................6\nFed. R. Crim. P. 8(a)..............................................1\nFed. R. Evid. 8(a)....................................................3\nFed. R. Evid. 401, 402, 403, and 404(b)...............................7",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "iii",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00003901",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "ABA"
+    ],
+    "locations": [],
+    "dates": [
+      "04/20/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "224",
+      "DOJ-OGR-00003901"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a list of rules and their corresponding page numbers. The document is well-formatted and legible."
+}

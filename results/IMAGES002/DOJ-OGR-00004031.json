@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "5",
+    "document_number": "2020-08-03-008-BAE-N",
+    "date": "April 24, 2021",
+    "document_type": "Email",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "Case#: 2020-08-03-008-BAE-N Document#: 22438 Filed#: 04/26/2021 Page#: 5 of 9\n\nFrom: Sophia Papapetru spapapetru@bop.gov\nSubject: Legal Visit 04.24.21\nDate: April 24, 2021 at 4:07 PM\nTo: bcsternheim@mac.com\nCc: Nicole McFarland nmcfarland@bop.gov\n\nGood afternoon Bobbi:\n\nIt had been brought to my attention by the staff of MDC Brooklyn that Ms. Maxwell received paperwork that was not in her possession upon entering the legal visiting area. As you are aware, the policies set forth for MDC Brooklyn legal visits do not allow for passing of any material during a legal visit. Due to our policy and procedures, the additional documents that were provided to Ms. Maxwell were confiscated. Those materials were put in an envelope and will be returned to you tomorrow upon your arrival to the institution. Please note, that you may put these documents in the legal mail box in the lobby of the east building.\n\nThank you for understanding.\n\nBest,\nSophia\n\nEXHIBIT A\nDOJ-OGR-00004031",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case#: 2020-08-03-008-BAE-N Document#: 22438 Filed#: 04/26/2021 Page#: 5 of 9",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "From: Sophia Papapetru spapapetru@bop.gov\nSubject: Legal Visit 04.24.21\nDate: April 24, 2021 at 4:07 PM\nTo: bcsternheim@mac.com\nCc: Nicole McFarland nmcfarland@bop.gov",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Good afternoon Bobbi:\n\nIt had been brought to my attention by the staff of MDC Brooklyn that Ms. Maxwell received paperwork that was not in her possession upon entering the legal visiting area. As you are aware, the policies set forth for MDC Brooklyn legal visits do not allow for passing of any material during a legal visit. Due to our policy and procedures, the additional documents that were provided to Ms. Maxwell were confiscated. Those materials were put in an envelope and will be returned to you tomorrow upon your arrival to the institution. Please note, that you may put these documents in the legal mail box in the lobby of the east building.\n\nThank you for understanding.\n\nBest,\nSophia",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "SP",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "EXHIBIT A\nDOJ-OGR-00004031",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Sophia Papapetru",
+      "Bobbi",
+      "Ms. Maxwell",
+      "Nicole McFarland"
+    ],
+    "organizations": [
+      "MDC Brooklyn",
+      "BOP"
+    ],
+    "locations": [
+      "Brooklyn",
+      "East Building"
+    ],
+    "dates": [
+      "April 24, 2021",
+      "04.24.21",
+      "04/26/2021"
+    ],
+    "reference_numbers": [
+      "2020-08-03-008-BAE-N",
+      "22438",
+      "DOJ-OGR-00004031"
+    ]
+  },
+  "additional_notes": "The document is an email from Sophia Papapetru to bcsternheim@mac.com regarding a legal visit to Ms. Maxwell at MDC Brooklyn. The email discusses the confiscation of additional documents provided to Ms. Maxwell during the visit."
+}

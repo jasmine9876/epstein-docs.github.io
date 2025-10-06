@@ -1,0 +1,71 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "85",
+    "date": "December 4, 2020",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-AJN Document 85 Filed 12/04/20 Page 2 of 2\nThe Honorable Alison J. Nathan\nDecember 4, 2020\nPage 2\nRespectfully submitted,\n/s/ Christian R. Everdell\nMark S. Cohen\nChristian R. Everdell\nCOHEN & GRESSER LLP\n800 Third Avenue, 21st Floor\nNew York, New York 10022\n(212) 957-7600\ncc: All counsel of record (via email)\nDOJ-OGR-00001850",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-AJN Document 85 Filed 12/04/20 Page 2 of 2",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "The Honorable Alison J. Nathan\nDecember 4, 2020\nPage 2",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Respectfully submitted,",
+      "position": "middle"
+    },
+    {
+      "type": "signature",
+      "content": "/s/ Christian R. Everdell",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Mark S. Cohen\nChristian R. Everdell\nCOHEN & GRESSER LLP\n800 Third Avenue, 21st Floor\nNew York, New York 10022\n(212) 957-7600",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "cc: All counsel of record (via email)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00001850",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Alison J. Nathan",
+      "Mark S. Cohen",
+      "Christian R. Everdell"
+    ],
+    "organizations": [
+      "COHEN & GRESSER LLP"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "December 4, 2020",
+      "12/04/20"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-AJN",
+      "Document 85",
+      "DOJ-OGR-00001850"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a signature block and contact information for the attorneys."
+}

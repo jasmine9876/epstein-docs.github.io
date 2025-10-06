@@ -1,0 +1,75 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "61",
+    "date": "October 6, 2020",
+    "document_type": "court document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-0030-AJN Document 61 Filed 10/06/20 Page 2 of 2\nfile an opposition to any motion by the Government seeking authorization to delay disclosure of the Materials.\n4. I hereby certify that the foregoing statements made by me are true.\nDated: New York, New York October 6, 2020\nMaurene Comey Assistant United States Attorney Telephone: (212) 637-2324\n2\nDOJ-OGR-00001783",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-0030-AJN Document 61 Filed 10/06/20 Page 2 of 2",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "file an opposition to any motion by the Government seeking authorization to delay disclosure of the Materials.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "4. I hereby certify that the foregoing statements made by me are true.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Dated: New York, New York October 6, 2020",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Maurene Comey",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Assistant United States Attorney Telephone: (212) 637-2324",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "2",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00001783",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Maurene Comey"
+    ],
+    "organizations": [
+      "United States Attorney"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "October 6, 2020",
+      "10/06/20"
+    ],
+    "reference_numbers": [
+      "1:20-cr-0030-AJN",
+      "Document 61",
+      "DOJ-OGR-00001783",
+      "(212) 637-2324"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a signature and contact information for the Assistant United States Attorney."
+}

@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "9",
+    "document_number": "285-1",
+    "date": "05/20/21",
+    "document_type": "court document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 285-1 Filed 05/20/21 Page 9 of 10\n\n- They will send me outtakes to deposing\n- Blind part. size + shape\nWanted to have baby w/her -\nSame MO w/one other victim - 12 yr. old - emaciated w/her\n- As young as 12 but younger the better.\nVirginia emaciated Epstein\nThailand - no charges + handwritten note w/name of girl - written by Maxwell\n\nCONFIDENTIAL\nSDNY_GM_02742885\nDOJ-OGR-00004178",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 285-1 Filed 05/20/21 Page 9 of 10",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "- They will send me outtakes to deposing\n- Blind part. size + shape\nWanted to have baby w/her -\nSame MO w/one other victim - 12 yr. old - emaciated w/her\n- As young as 12 but younger the better.\nVirginia emaciated Epstein\nThailand - no charges + handwritten note w/name of girl - written by Maxwell",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "SDNY_GM_02742885\nDOJ-OGR-00004178",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Virginia",
+      "Epstein",
+      "Maxwell"
+    ],
+    "organizations": [],
+    "locations": [
+      "Thailand"
+    ],
+    "dates": [
+      "05/20/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "285-1",
+      "SDNY_GM_02742885",
+      "DOJ-OGR-00004178"
+    ]
+  },
+  "additional_notes": "The document contains handwritten notes and is marked as 'CONFIDENTIAL'. There are redactions on the page."
+}

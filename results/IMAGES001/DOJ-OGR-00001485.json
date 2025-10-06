@@ -1,0 +1,78 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "2",
+    "date": "07/02/20",
+    "document_type": "Unsealing Order",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-AJN Document 2 Filed 07/02/20 Page 1 of 2\n\nUNITED STATES DISTRICT COURT\nSOUTHERN DISTRICT OF NEW YORK\n\nUNITED STATES OF AMERICA\n\n- v. -\n\nGHISLAINE MAXWELL,\nDefendant.\n\nUpon the application of the United States, by the Acting United States Attorney for the Southern District of New York, Audrey Strauss, by Assistant United States Attorney Alex Rossmiller;\n\nIt is found that the Indictment in the above-captioned case is currently sealed and the United States Attorney's Office has applied to have that Indictment unsealed, and it is therefore:\n\nORDERED that the Indictment in the above-captioned action be unsealed and remain unsealed pending further order of the Court.\n\nDated: New York, New York July 2, 2020\n\nKatherine H Parker\nHONORABLE KATHARINE H. PARKER\nUNITED STATES MAGISTRATE JUDGE\nSOUTHERN DISTRICT OF NEW YORK\n\nDOJ-OGR-00001485",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-AJN Document 2 Filed 07/02/20 Page 1 of 2",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "UNITED STATES DISTRICT COURT\nSOUTHERN DISTRICT OF NEW YORK",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "UNITED STATES OF AMERICA\n\n- v. -\n\nGHISLAINE MAXWELL,\nDefendant.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Upon the application of the United States, by the Acting United States Attorney for the Southern District of New York, Audrey Strauss, by Assistant United States Attorney Alex Rossmiller;\n\nIt is found that the Indictment in the above-captioned case is currently sealed and the United States Attorney's Office has applied to have that Indictment unsealed, and it is therefore:\n\nORDERED that the Indictment in the above-captioned action be unsealed and remain unsealed pending further order of the Court.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Dated: New York, New York July 2, 2020",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "Katherine H Parker",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "HONORABLE KATHARINE H. PARKER\nUNITED STATES MAGISTRATE JUDGE\nSOUTHERN DISTRICT OF NEW YORK",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00001485",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Audrey Strauss",
+      "Alex Rossmiller",
+      "Ghislaine Maxwell",
+      "Katharine H. Parker"
+    ],
+    "organizations": [
+      "United States District Court",
+      "United States Attorney's Office"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "July 2, 2020",
+      "07/02/20"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-AJN",
+      "20 Cr. 330",
+      "DOJ-OGR-00001485"
+    ]
+  },
+  "additional_notes": "The document is a court order with a handwritten signature. It appears to be a formal legal document from the United States District Court for the Southern District of New York."
+}

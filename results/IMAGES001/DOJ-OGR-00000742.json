@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "64",
+    "date": "07/25/25",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:19-cr-00490-RMB Document 64 Filed 07/25/25 Page 2 of 4 ATTACHMENT 1 DOJ-OGR-00000742",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:19-cr-00490-RMB Document 64 Filed 07/25/25 Page 2 of 4",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "ATTACHMENT 1",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00000742",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "07/25/25"
+    ],
+    "reference_numbers": [
+      "1:19-cr-00490-RMB",
+      "64",
+      "DOJ-OGR-00000742"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a header indicating the case number, document number, filing date, and page number. The main content is labeled 'ATTACHMENT 1' and is otherwise blank. The footer contains a reference number."
+}

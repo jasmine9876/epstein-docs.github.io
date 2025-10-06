@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": "13",
+    "document_number": "204-12",
+    "date": "04/16/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 204-12 Filed 04/16/21 Page 13 of 30\n\n25. Now that I have defined the likely causes, the next step is to estimate the effect of each of these causes.\n\nReasons 1, 2, and 3\n\n26. The first reason requires analysis of the master jury wheel and the voter registration lists, which do not contain reliable race and ethnicity information. Therefore, I had to estimate the race and ethnicity composition of the master jury wheel and voter registration lists. The common and widely used method for estimating race is geocoding.8 Geocoding is based on estimating the proportion of persons who are of a given race based on the racial mix of where they live. In defining where they live, I used the residence address on the voter registration list. Conceptually, geocoding uses the racial/ethnic mix of the area where one resides to estimate the race of persons on the list from that area. That is, if 100 persons on the master jury wheel live in an area in which 85% of the voter age U.S. citizens are African American, then we would estimate that 85 of these 100 are African American, and 15 are not. Assuming that the probability of being randomly selected for the master jury wheel if you live in that area is the same for everyone, this estimate will be very reliable, especially if we are selecting large numbers of persons. For example, if there are 343,984 (the size of the master jury wheel) selections from the area, the probability is 95% that the actual percent of African Americans will be within .001 percentage points of 85%. The more homogeneous the areas defined for the geocoding, the more accurate the estimate of the race of the wheel will be. To maximize accuracy of the geocoding, I defined the area as the census tract,9 which is the smallest area for which information about the race of voter age U.S. citizens was available. The smaller the area,\n\n8 Defendant's expert also geocoded the voter registration lists.\n9 Census tracts generally have a population size between 1,200 and 8,000 people, with an optimum size of 4,000 people. A census tract usually covers a contiguous area.\n\n13\nDOJ-OGR-00003633",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 204-12 Filed 04/16/21 Page 13 of 30",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "25. Now that I have defined the likely causes, the next step is to estimate the effect of each of these causes.\n\nReasons 1, 2, and 3\n\n26. The first reason requires analysis of the master jury wheel and the voter registration lists, which do not contain reliable race and ethnicity information. Therefore, I had to estimate the race and ethnicity composition of the master jury wheel and voter registration lists. The common and widely used method for estimating race is geocoding.8 Geocoding is based on estimating the proportion of persons who are of a given race based on the racial mix of where they live. In defining where they live, I used the residence address on the voter registration list. Conceptually, geocoding uses the racial/ethnic mix of the area where one resides to estimate the race of persons on the list from that area. That is, if 100 persons on the master jury wheel live in an area in which 85% of the voter age U.S. citizens are African American, then we would estimate that 85 of these 100 are African American, and 15 are not. Assuming that the probability of being randomly selected for the master jury wheel if you live in that area is the same for everyone, this estimate will be very reliable, especially if we are selecting large numbers of persons. For example, if there are 343,984 (the size of the master jury wheel) selections from the area, the probability is 95% that the actual percent of African Americans will be within .001 percentage points of 85%. The more homogeneous the areas defined for the geocoding, the more accurate the estimate of the race of the wheel will be. To maximize accuracy of the geocoding, I defined the area as the census tract,9 which is the smallest area for which information about the race of voter age U.S. citizens was available. The smaller the area,",
+      "position": "main content"
+    },
+    {
+      "type": "printed",
+      "content": "8 Defendant's expert also geocoded the voter registration lists.\n9 Census tracts generally have a population size between 1,200 and 8,000 people, with an optimum size of 4,000 people. A census tract usually covers a contiguous area.",
+      "position": "footnote"
+    },
+    {
+      "type": "printed",
+      "content": "13",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00003633",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [
+      "U.S."
+    ],
+    "dates": [
+      "04/16/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "204-12",
+      "DOJ-OGR-00003633"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing related to a criminal case, discussing the methodology used to estimate the racial composition of a master jury wheel and voter registration lists."
+}

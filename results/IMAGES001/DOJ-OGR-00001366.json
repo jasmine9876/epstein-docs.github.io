@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "47",
+    "date": "04/13/2021",
+    "document_type": "Court Document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 21-770, Document 47, 04/13/2021, 3077576, Page1 of 1\n21-58 - (L)\n21-770 (con)\nUnited States of America v. Maxwell\nSEALED SUPPORTING EXHIBIT\nDOJ-OGR-00001366",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 21-770, Document 47, 04/13/2021, 3077576, Page1 of 1",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "21-58 - (L)\n21-770 (con)\nUnited States of America v. Maxwell",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "SEALED SUPPORTING EXHIBIT",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00001366",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Maxwell"
+    ],
+    "organizations": [
+      "United States of America",
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "04/13/2021"
+    ],
+    "reference_numbers": [
+      "21-770",
+      "21-58",
+      "Document 47",
+      "3077576",
+      "DOJ-OGR-00001366"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing related to the case 'United States of America v. Maxwell'. The content is largely redacted or not visible, with the exception of the header and footer information. The document is marked as 'SEALED SUPPORTING EXHIBIT'."
+}

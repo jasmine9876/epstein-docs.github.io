@@ -1,0 +1,52 @@
+{
+  "document_metadata": {
+    "page_number": "6",
+    "document_number": "70-2",
+    "date": "05/17/2021",
+    "document_type": "Court Order",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 21-770, Document 70-2, 05/17/2021, 3102450, Page6 of 20\nExhibit B\nDoc. 282\nLower Court Order\nMay 14, 2021\nDOJ-OGR-00001426",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 21-770, Document 70-2, 05/17/2021, 3102450, Page6 of 20",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Exhibit B",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Doc. 282\nLower Court Order\nMay 14, 2021",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00001426",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "05/17/2021",
+      "May 14, 2021"
+    ],
+    "reference_numbers": [
+      "21-770",
+      "70-2",
+      "3102450",
+      "282",
+      "DOJ-OGR-00001426"
+    ]
+  },
+  "additional_notes": "The document appears to be a court order from a legal case, with a clear header and footer indicating the case number and document details. The content is mostly printed text, with no visible handwriting or stamps."
+}

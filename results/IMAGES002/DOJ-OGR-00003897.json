@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "223-1",
+    "date": "04/20/21",
+    "document_type": "Exhibit",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 223-1 Filed 04/20/21 Page 1 of 1 Exhibit A (Filed Under Seal) DOJ-OGR-00003897",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 223-1 Filed 04/20/21 Page 1 of 1",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Exhibit A (Filed Under Seal)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00003897",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "04/20/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "223-1",
+      "DOJ-OGR-00003897"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a case number and document number. The content is largely blank except for the title 'Exhibit A (Filed Under Seal)' and a reference number at the bottom."
+}

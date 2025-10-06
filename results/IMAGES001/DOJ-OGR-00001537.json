@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "8",
+    "date": "July 6, 2020",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-AJN Document 8 Filed 07/06/20 Page 2 of 2\nThe Honorable Alison J. Nathan\nJuly 6, 2020\nPage 2\nNew York, New York 10022\n(212) 957-7600\ncc: Alison Moe (by e-mail)\nAlex Rossmiller (by e-mail)\nMaurene Comey (by e-mail)\nDOJ-OGR-00001537",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-AJN Document 8 Filed 07/06/20 Page 2 of 2",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "The Honorable Alison J. Nathan\nJuly 6, 2020\nPage 2",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "New York, New York 10022\n(212) 957-7600",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "cc: Alison Moe (by e-mail)\nAlex Rossmiller (by e-mail)\nMaurene Comey (by e-mail)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00001537",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Alison J. Nathan",
+      "Alison Moe",
+      "Alex Rossmiller",
+      "Maurene Comey"
+    ],
+    "organizations": [],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "July 6, 2020",
+      "07/06/20"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-AJN",
+      "Document 8",
+      "DOJ-OGR-00001537"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear and legible format. There are no visible redactions or damage."
+}

@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "25-1",
+    "date": "07/17/19",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:19-cr-00490-RMB Document 25-1 Filed 07/17/19 Page 1 of 2\n\nEXHIBIT A\n\nDOJ-OGR-00000456",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:19-cr-00490-RMB Document 25-1 Filed 07/17/19 Page 1 of 2",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EXHIBIT A",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00000456",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "07/17/19"
+    ],
+    "reference_numbers": [
+      "1:19-cr-00490-RMB",
+      "25-1",
+      "DOJ-OGR-00000456"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear header and footer. The main content is labeled 'EXHIBIT A', suggesting it is part of a larger legal document. The document is clean and free of handwritten notes or stamps."
+}

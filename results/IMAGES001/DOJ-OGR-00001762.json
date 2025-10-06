@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "53",
+    "date": "09/08/20",
+    "document_type": "court document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-AJN Document 53 Filed 09/08/20 Page 3 of 3\nThe Honorable Alison J. Nathan\nAugust 24, 2020\nPage 3\nRespectfully Submitted,\nJeffrey S. Pagliuca\nCC: Counsel of Record (via Email)\nDOJ-OGR-00001762",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-AJN Document 53 Filed 09/08/20 Page 3 of 3",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "The Honorable Alison J. Nathan\nAugust 24, 2020\nPage 3",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Respectfully Submitted,",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Jeffrey S. Pagliuca\nCC: Counsel of Record (via Email)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00001762",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Alison J. Nathan",
+      "Jeffrey S. Pagliuca"
+    ],
+    "organizations": [
+      "Counsel of Record",
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "August 24, 2020",
+      "09/08/20"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-AJN",
+      "53",
+      "DOJ-OGR-00001762"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a signature and a reference number at the bottom."
+}

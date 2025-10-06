@@ -1,0 +1,80 @@
+{
+  "document_metadata": {
+    "page_number": "6 of 9",
+    "document_number": "55",
+    "date": "09/04/20",
+    "document_type": "shipping label",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-AJN Document 55 Filed 09/04/20 Page 6 of 9 RENEE MCREYNOLDS 3038317364 HADDON, MORGAN AND FOREMAN, P. 150 EAST 10TH AVENUE DENVER CO 80203 LTR 1 OF 1 SHIP TO: CLERK OF COURT US DISTRICT COURT - SDNY 500 PEARL STREET DANIEL P. MOYNIHAN US COURTHOUSE NEW YORK NY 10007 NY 102 9-10 UPS NEXT DAY AIR TRACKING #: 1Z F46 61F 01 9417 6904 1 BILLING: P/P UPS CARBON NEUTRAL SHIPMENT Reference #1: Maxwell 20 cr. 330 (AJN) XOL 20.08.05 NV-15 31.0A 07/2020* TM DOJ-OGR-00001774",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-AJN Document 55 Filed 09/04/20 Page 6 of 9",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "RENEE MCREYNOLDS 3038317364 HADDON, MORGAN AND FOREMAN, P. 150 EAST 10TH AVENUE DENVER CO 80203 LTR 1 OF 1",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "SHIP TO: CLERK OF COURT US DISTRICT COURT - SDNY 500 PEARL STREET DANIEL P. MOYNIHAN US COURTHOUSE NEW YORK NY 10007",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "NY 102 9-10",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "UPS NEXT DAY AIR TRACKING #: 1Z F46 61F 01 9417 6904 1",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "BILLING: P/P UPS CARBON NEUTRAL SHIPMENT",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Reference #1: Maxwell 20 cr. 330 (AJN) XOL 20.08.05 NV-15 31.0A 07/2020* TM",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00001774",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "RENEE MCREYNOLDS",
+      "DANIEL P. MOYNIHAN"
+    ],
+    "organizations": [
+      "HADDON, MORGAN AND FOREMAN, P.",
+      "US DISTRICT COURT - SDNY",
+      "UPS"
+    ],
+    "locations": [
+      "DENVER CO 80203",
+      "NEW YORK NY 10007"
+    ],
+    "dates": [
+      "09/04/20",
+      "07/2020"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-AJN",
+      "Document 55",
+      "1Z F46 61F 01 9417 6904",
+      "Maxwell 20 cr. 330 (AJN)",
+      "DOJ-OGR-00001774"
+    ]
+  },
+  "additional_notes": "The document is a shipping label for a UPS Next Day Air package sent from Haddon, Morgan and Foreman, P. in Denver, CO to the US District Court - SDNY in New York, NY."
+}

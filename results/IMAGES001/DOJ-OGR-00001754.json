@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "52",
+    "date": "09/02/20",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-AJN Document 52 Filed 09/02/20 Page 3 of 8\nThe Honorable Alison J. Nathan\nAugust 17, 2020\nPage 3\nThe Material\nThe government apparently contacted at some time before February 2019. Based on some discussion with, the government served with a subpoena to produce. Ms. Maxwell was not served with",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-AJN Document 52 Filed 09/02/20 Page 3 of 8",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "The Honorable Alison J. Nathan\nAugust 17, 2020\nPage 3",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "The Material",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "The government apparently contacted at some time before February 2019. Based on some discussion with, the government served with a subpoena to produce. Ms. Maxwell was not served with",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00001754",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Alison J. Nathan",
+      "Ms. Maxwell"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "August 17, 2020",
+      "09/02/20",
+      "February 2019"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-AJN",
+      "Document 52",
+      "DOJ-OGR-00001754"
+    ]
+  },
+  "additional_notes": "The document contains redactions, likely for sensitive or personal information."
+}

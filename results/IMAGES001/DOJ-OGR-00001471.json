@@ -1,0 +1,59 @@
+{
+  "document_metadata": {
+    "page_number": "5",
+    "document_number": "1",
+    "date": "06/29/20",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-AJN Document 1 Filed 06/29/20 Page 5 of 18\ndirecting a victim to touch Epstein while he masturbated, and\ndirecting a victim to touch Epstein's genitals.\nMAXWELL AND EPSTEIN'S VICTIMS\n6. Between approximately in or about 1994 and in or about 1997, GHISLAINE MAXWELL, the defendant, facilitated Jeffrey Epstein's access to minor victims by, among other things, inducing and enticing, and aiding and abetting the inducement and enticement of, multiple minor victims. Victims were groomed and/or abused at multiple locations, including the following:\na. A multi-story private residence on the Upper East Side of Manhattan, New York owned by Epstein (the \"New York Residence\"), which is depicted in the following photograph:\n[Image of a building]\n5\nDOJ-OGR-00001471",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-AJN Document 1 Filed 06/29/20 Page 5 of 18",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "directing a victim to touch Epstein while he masturbated, and\ndirecting a victim to touch Epstein's genitals.\nMAXWELL AND EPSTEIN'S VICTIMS\n6. Between approximately in or about 1994 and in or about 1997, GHISLAINE MAXWELL, the defendant, facilitated Jeffrey Epstein's access to minor victims by, among other things, inducing and enticing, and aiding and abetting the inducement and enticement of, multiple minor victims. Victims were groomed and/or abused at multiple locations, including the following:\na. A multi-story private residence on the Upper East Side of Manhattan, New York owned by Epstein (the \"New York Residence\"), which is depicted in the following photograph:",
+      "position": "main content"
+    },
+    {
+      "type": "image",
+      "content": "[Image of a building]",
+      "position": "main content"
+    },
+    {
+      "type": "printed",
+      "content": "5",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00001471",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "GHISLAINE MAXWELL",
+      "Jeffrey Epstein"
+    ],
+    "organizations": [],
+    "locations": [
+      "Manhattan",
+      "New York"
+    ],
+    "dates": [
+      "1994",
+      "1997",
+      "06/29/20"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-AJN",
+      "DOJ-OGR-00001471"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing related to the case against Ghislaine Maxwell. The image is of a building described as Epstein's New York Residence."
+}

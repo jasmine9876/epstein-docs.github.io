@@ -1,0 +1,49 @@
+---
+layout: base.njk
+title: All Documents
+---
+
+<h1>All Documents</h1>
+<p class="subtitle">{{ documents.length }} documents</p>
+
+<div class="search-box">
+  <input type="text" id="search" placeholder="Search documents...">
+</div>
+
+<div id="results">
+  {% for doc in documents %}
+  <div class="document-card">
+    <h4>Document {{ doc.document_number }}</h4>
+    <div class="meta">
+      {% if doc.document_metadata.document_type %}Type: {{ doc.document_metadata.document_type }} | {% endif %}
+      {% if doc.document_metadata.date %}Date: {{ doc.document_metadata.date }} | {% endif %}
+      Pages: {{ doc.page_count }} |
+      Folder: {{ doc.folder }}
+    </div>
+    <div style="margin-top: 0.5rem;">
+      {% if doc.entities.people.length > 0 %}
+        <strong>People:</strong> {{ doc.entities.people | join(", ") }}<br>
+      {% endif %}
+      {% if doc.entities.organizations.length > 0 %}
+        <strong>Organizations:</strong> {{ doc.entities.organizations | join(", ") }}<br>
+      {% endif %}
+    </div>
+    <a href="/document/{{ doc.unique_id | slugify }}/" style="font-size: 0.9rem; margin-top: 0.5rem; display: inline-block;">View document →</a>
+  </div>
+  {% endfor %}
+</div>
+
+<script>
+  const search = document.getElementById('search');
+  const results = document.getElementById('results');
+
+  search.addEventListener('input', (e) => {
+    const query = e.target.value.toLowerCase();
+    const cards = results.querySelectorAll('.document-card');
+
+    cards.forEach(card => {
+      const text = card.textContent.toLowerCase();
+      card.style.display = text.includes(query) ? 'block' : 'none';
+    });
+  });
+</script>

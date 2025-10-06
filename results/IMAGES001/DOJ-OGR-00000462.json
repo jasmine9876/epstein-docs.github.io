@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": "5",
+    "document_number": "25-2",
+    "date": "07/17/19",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:19-cr-00490-RMB Document 25-2 Filed 07/17/19 Page 5 of 8 From: Jeffrey Epstein Subject: Date: February 23, 2013 at 8:52 AM To: Deborah Anaya Cc: Darren Indyke i will be in new mexico , 23-25 hope you are well -- The information contained in this communication is confidential, may be attorney-client privileged, may constitute inside information, and is intended only for the use of the addressee. It is the property of Jeffrey Epstein Unauthorised use, disclosure or copying of this communication or any part thereof is strictly prohibited and may be unlawful. If you have received this communication in error, please notify us immediately by return e-mail or by e-mail to and destroy this communication and all copies thereof, including all attachments. copyright -all rights reserved DOJ-OGR-00000462",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:19-cr-00490-RMB Document 25-2 Filed 07/17/19 Page 5 of 8",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "From: Jeffrey Epstein Subject: Date: February 23, 2013 at 8:52 AM To: Deborah Anaya Cc: Darren Indyke",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "i will be in new mexico , 23-25 hope you are well",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "--",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "The information contained in this communication is confidential, may be attorney-client privileged, may constitute inside information, and is intended only for the use of the addressee. It is the property of Jeffrey Epstein Unauthorised use, disclosure or copying of this communication or any part thereof is strictly prohibited and may be unlawful. If you have received this communication in error, please notify us immediately by return e-mail or by e-mail to and destroy this communication and all copies thereof, including all attachments. copyright -all rights reserved",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00000462",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Deborah Anaya",
+      "Darren Indyke"
+    ],
+    "organizations": [],
+    "locations": [
+      "New Mexico"
+    ],
+    "dates": [
+      "February 23, 2013",
+      "07/17/19"
+    ],
+    "reference_numbers": [
+      "1:19-cr-00490-RMB",
+      "25-2",
+      "DOJ-OGR-00000462"
+    ]
+  },
+  "additional_notes": "The email contains redactions in the 'From', 'To', 'Cc', and email addresses in the footer of the email content."
+}

@@ -1,0 +1,76 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "252",
+    "date": "04/27/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 252 Filed 04/27/21 Page 3 of 9\n\nMaxwell's pending motions to suppress evidence. While ordinarily Rule 17(c) is \"trial-focused\" and \"may be used only to obtain materials admissible as evidence at trial,\" at least some courts have held that Rule 17(c) can be used to compel the production of documents in connection with a suppression hearing. United States v. Louis, No. 04-CR-203 (LTS), 2005 WL 180885, at *3 (S.D.N.Y. Jan. 27, 2005). Even then, the requests fail for the reasons stated below.\n\nRequests 1 through 5 all fail on the basis that they do not comply with Nixon's specificity requirement. Requests 1 through 5 all target communications between \"any\" owner, shareholder, partner or employee of BSF and government officials or co-counsel in civil litigation, from 2015 to the date of the subpoena. While the requests focus on a certain subject, the requests are so overbroad that issuance of the Rule 17(c) subpoena would be improper. As set forth in the subpoena, the term \"communications\" encompasses \"all forms of correspondence, including regular mail, email, text message, memorandum, or other written communication of information of any kind.\" The use of the terms \"all\" and \"any\" \"do not evince specificity.\"\n\nUnited States v. Tagliaferro, No. 19-CR-472 (PAC), 2021 WL 980004, at *3 (S.D.N.Y. Mar. 16, 2021). Here, the requests do not identify specific lawyers or employees of BSF whose communications are relevant. See United States v. Wey, 252 F. Supp. 3d 237, 243 (S.D.N.Y. 2017) (discussing that while an originally requested subpoena was insufficiently specific, a new requested subpoena satisfied the specificity requirement because it identified a specified set of individuals whose records were sought). The requests also encompass \"all\" forms of correspondence without limitation. And while the requested subpoenas are limited to the period between 2015 and 2021, the timeframe is still overly broad. These requests are precisely the kind of \"fishing expedition\" that the specificity requirement is designed to prevent. See Bowman Dairy Co., 341 U.S. at 221. Indeed, the requests are akin to discovery requests in civil litigation.\n\n3\nDOJ-OGR-00004041",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 252 Filed 04/27/21 Page 3 of 9",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Maxwell's pending motions to suppress evidence. While ordinarily Rule 17(c) is \"trial-focused\" and \"may be used only to obtain materials admissible as evidence at trial,\" at least some courts have held that Rule 17(c) can be used to compel the production of documents in connection with a suppression hearing. United States v. Louis, No. 04-CR-203 (LTS), 2005 WL 180885, at *3 (S.D.N.Y. Jan. 27, 2005). Even then, the requests fail for the reasons stated below.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Requests 1 through 5 all fail on the basis that they do not comply with Nixon's specificity requirement. Requests 1 through 5 all target communications between \"any\" owner, shareholder, partner or employee of BSF and government officials or co-counsel in civil litigation, from 2015 to the date of the subpoena. While the requests focus on a certain subject, the requests are so overbroad that issuance of the Rule 17(c) subpoena would be improper. As set forth in the subpoena, the term \"communications\" encompasses \"all forms of correspondence, including regular mail, email, text message, memorandum, or other written communication of information of any kind.\" The use of the terms \"all\" and \"any\" \"do not evince specificity.\"",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "United States v. Tagliaferro, No. 19-CR-472 (PAC), 2021 WL 980004, at *3 (S.D.N.Y. Mar. 16, 2021). Here, the requests do not identify specific lawyers or employees of BSF whose communications are relevant. See United States v. Wey, 252 F. Supp. 3d 237, 243 (S.D.N.Y. 2017) (discussing that while an originally requested subpoena was insufficiently specific, a new requested subpoena satisfied the specificity requirement because it identified a specified set of individuals whose records were sought). The requests also encompass \"all\" forms of correspondence without limitation. And while the requested subpoenas are limited to the period between 2015 and 2021, the timeframe is still overly broad. These requests are precisely the kind of \"fishing expedition\" that the specificity requirement is designed to prevent. See Bowman Dairy Co., 341 U.S. at 221. Indeed, the requests are akin to discovery requests in civil litigation.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "3",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00004041",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Maxwell",
+      "Louis",
+      "Nixon",
+      "Tagliaferro",
+      "Wey"
+    ],
+    "organizations": [
+      "BSF",
+      "DOJ"
+    ],
+    "locations": [
+      "S.D.N.Y."
+    ],
+    "dates": [
+      "04/27/21",
+      "Jan. 27, 2005",
+      "Mar. 16, 2021",
+      "2015",
+      "2021"
+    ],
+    "reference_numbers": [
+      "Case 1:20-cr-00330-PAE",
+      "Document 252",
+      "No. 04-CR-203 (LTS)",
+      "No. 19-CR-472 (PAC)",
+      "252 F. Supp. 3d 237",
+      "341 U.S. 221",
+      "DOJ-OGR-00004041"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing related to a criminal case, discussing the specificity requirement for subpoenas under Rule 17(c)."
+}

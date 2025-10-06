@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": "17",
+    "document_number": "247",
+    "date": "04/23/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 247 Filed 04/23/21 Page 17 of 17\nThe Honorable Alison J. Nathan\nApril 5, 2021\nPage 17 of 17\nRespectfully submitted,\n/s/ Sigrid S. McCawley\nSigrid S. McCawley\nDOJ-OGR-00004017",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 247 Filed 04/23/21 Page 17 of 17",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "The Honorable Alison J. Nathan\nApril 5, 2021\nPage 17 of 17",
+      "position": "left margin"
+    },
+    {
+      "type": "printed",
+      "content": "Respectfully submitted,",
+      "position": "middle"
+    },
+    {
+      "type": "signature",
+      "content": "/s/ Sigrid S. McCawley",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Sigrid S. McCawley",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00004017",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Alison J. Nathan",
+      "Sigrid S. McCawley"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "April 5, 2021",
+      "04/23/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "247",
+      "DOJ-OGR-00004017"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a signature block. The text is clear and legible."
+}

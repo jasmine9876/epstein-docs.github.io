@@ -1,0 +1,81 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "26",
+    "date": "07/17/19",
+    "document_type": "Court Order",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "Case 1:19-cr-00490-RMB Document 26 Filed 07/17/19 Page 1 of 1\nUSDC SDNY DOCUMENT ELECTRONICALLY FILED DOC #: DATE FILED: 7/17/19\nUNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK\nUNITED STATES OF AMERICA, : Government, : 19 Cr 490 (RMB)\n- against - : ORDER\nJEFFREY EPSTEIN, : Defendant.\nThe conference in this matter is rescheduled from 9:30 am on July 18, 2019 to 11:30 am on July 18, 2019.\nDated: New York, New York July 17, 2019\nRMB\nRICHARD M. BERMAN U.S.D.J.\nDOJ-OGR-00000466",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:19-cr-00490-RMB Document 26 Filed 07/17/19 Page 1 of 1",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "UNITED STATES OF AMERICA, : Government, : 19 Cr 490 (RMB)\n- against - : ORDER\nJEFFREY EPSTEIN, : Defendant.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "The conference in this matter is rescheduled from 9:30 am on July 18, 2019 to 11:30 am on July 18, 2019.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Dated: New York, New York July 17, 2019",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "RMB",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "RICHARD M. BERMAN U.S.D.J.",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "USDC SDNY DOCUMENT ELECTRONICALLY FILED DOC #: DATE FILED: 7/17/19",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00000466",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY EPSTEIN",
+      "RICHARD M. BERMAN"
+    ],
+    "organizations": [
+      "UNITED STATES DISTRICT COURT",
+      "UNITED STATES OF AMERICA"
+    ],
+    "locations": [
+      "NEW YORK"
+    ],
+    "dates": [
+      "July 18, 2019",
+      "July 17, 2019"
+    ],
+    "reference_numbers": [
+      "1:19-cr-00490-RMB",
+      "19 Cr 490 (RMB)",
+      "DOJ-OGR-00000466"
+    ]
+  },
+  "additional_notes": "The document is a court order rescheduling a conference. It is signed by Judge Richard M. Berman and includes a stamp indicating it was electronically filed."
+}

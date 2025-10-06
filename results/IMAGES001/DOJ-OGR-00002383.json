@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "6",
+    "document_number": "124-6",
+    "date": "03/04/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-AJN Document 124-6 Filed 03/04/21 Page 6 of 28\nEXHIBIT 5\nDOJ-OGR-00002383",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-AJN Document 124-6 Filed 03/04/21 Page 6 of 28",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EXHIBIT 5",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00002383",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "03/04/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-AJN",
+      "124-6",
+      "DOJ-OGR-00002383"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear header and footer. The content is mostly blank except for the title 'EXHIBIT 5' and a reference number 'DOJ-OGR-00002383'."
+}

@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "204-5",
+    "date": "04/16/21",
+    "document_type": "court document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 204-5 Filed 04/16/21 Page 3 of 9 3 Virginia Roberts - recruited summer 2020 @age 16 - about to turn 17 - taken to NY for training by Maxwell/Epstein - how k sence men - in Cincinati, got records com. her an his phone - she goes to private island Little St. James - USVI - few miles off st An. - Virginia said that in affidavit - same thing happened - 2000-2002 was live in for slave - for Epstein + other - Promised edu. in mass. then DOJ-OGR-00003533",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 204-5 Filed 04/16/21 Page 3 of 9",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "3 Virginia Roberts - recruited summer 2020 @age 16 - about to turn 17 - taken to NY for training by Maxwell/Epstein - how k sence men - in Cincinati, got records com. her an his phone - she goes to private island Little St. James - USVI - few miles off st An. - Virginia said that in affidavit - same thing happened - 2000-2002 was live in for slave - for Epstein + other - Promised edu. in mass. then",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00003533",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Virginia Roberts",
+      "Maxwell",
+      "Epstein"
+    ],
+    "organizations": [],
+    "locations": [
+      "NY",
+      "Cincinnati",
+      "Little St. James",
+      "USVI",
+      "St. An"
+    ],
+    "dates": [
+      "summer 2020",
+      "2000-2002",
+      "04/16/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "204-5",
+      "DOJ-OGR-00003533"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with handwritten notes about Virginia Roberts and her interactions with Maxwell and Epstein. The document is partially redacted."
+}

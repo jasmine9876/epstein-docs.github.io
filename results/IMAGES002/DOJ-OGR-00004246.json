@@ -1,0 +1,78 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "288",
+    "date": "05/20/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 288 Filed 05/20/21 Page 2 of 2\nPage 2\nThe Government has conferred with defense counsel in accordance with the Order. The defense has indicated that it has no objection to the Government's proposed redactions to Exhibit C.\nRespectfully submitted,\nAUDREY STRAUSS\nUnited States Attorney\nBy: s/\nMaurene Comey\nAlison Moe\nLara Pomerantz\nAndrew Rohrbach\nAssistant United States Attorneys\nSouthern District of New York\nCc: Defense counsel (By ECF)\nDOJ-OGR-00004246",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 288 Filed 05/20/21 Page 2 of 2",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Page 2",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "The Government has conferred with defense counsel in accordance with the Order. The defense has indicated that it has no objection to the Government's proposed redactions to Exhibit C.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Respectfully submitted,",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "AUDREY STRAUSS\nUnited States Attorney",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "By: s/\nMaurene Comey\nAlison Moe\nLara Pomerantz\nAndrew Rohrbach\nAssistant United States Attorneys\nSouthern District of New York",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Cc: Defense counsel (By ECF)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00004246",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Audrey Strauss",
+      "Maurene Comey",
+      "Alison Moe",
+      "Lara Pomerantz",
+      "Andrew Rohrbach"
+    ],
+    "organizations": [
+      "United States Attorney",
+      "Southern District of New York"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "05/20/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "288",
+      "DOJ-OGR-00004246"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with no visible redactions or damage."
+}

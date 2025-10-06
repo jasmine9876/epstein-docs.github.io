@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "9",
+    "document_number": "22493",
+    "date": "2020-08-03",
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case: 2020-00003030-PAEN Document: 22493 Filed: 20200803/2211 Page: 9 of 9\nthe institution. Please note, that you may put these documents in the legal mail box in the body or in the east building.\nThank you for understanding.\nBest,\nSophia\nDOJ-OGR-00004033",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case: 2020-00003030-PAEN Document: 22493 Filed: 20200803/2211 Page: 9 of 9",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "the institution. Please note, that you may put these documents in the legal mail box in the body or in the east building.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Thank you for understanding.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Best,",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Sophia",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00004033",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Sophia"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "2020-08-03"
+    ],
+    "reference_numbers": [
+      "2020-00003030-PAEN",
+      "22493",
+      "20200803/2211",
+      "DOJ-OGR-00004033"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear and legible text. There are no visible redactions or damage."
+}

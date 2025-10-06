@@ -1,0 +1,49 @@
+{
+  "document_metadata": {
+    "page_number": "280",
+    "document_number": "204-3",
+    "date": "04/16/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 204-3 Filed 04/16/21 Page 280 of 348 [Page Left Intentionally Blank] 254 DOJ-OGR-00003456",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 204-3 Filed 04/16/21 Page 280 of 348",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "[Page Left Intentionally Blank]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "254",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00003456",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "04/16/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "204-3",
+      "DOJ-OGR-00003456"
+    ]
+  },
+  "additional_notes": "The page is intentionally left blank as indicated by the text '[Page Left Intentionally Blank]'. The document appears to be a court filing with a case number and document number."
+}

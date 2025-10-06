@@ -1,0 +1,55 @@
+{
+  "document_metadata": {
+    "page_number": "12 of 13",
+    "document_number": "126",
+    "date": "01/25/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-AJN Document 126 Filed 01/25/21 Page 12 of 13\nDenver, Colorado 80203\nPhone: 303-831-7364\nBobbi C. Sternheim\nLaw Offices of Bobbi C. Sternheim\n33 West 19th Street - 4th Floor\nNew York, NY 10011\nPhone: 212-243-1100\nAttorneys for Ghislaine Maxwell\n9\nDOJ-OGR-00002332",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-AJN Document 126 Filed 01/25/21 Page 12 of 13",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Denver, Colorado 80203\nPhone: 303-831-7364\nBobbi C. Sternheim\nLaw Offices of Bobbi C. Sternheim\n33 West 19th Street - 4th Floor\nNew York, NY 10011\nPhone: 212-243-1100\nAttorneys for Ghislaine Maxwell",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "9",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00002332",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Bobbi C. Sternheim",
+      "Ghislaine Maxwell"
+    ],
+    "organizations": [
+      "Law Offices of Bobbi C. Sternheim"
+    ],
+    "locations": [
+      "Denver, Colorado",
+      "New York, NY"
+    ],
+    "dates": [
+      "01/25/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-AJN",
+      "126",
+      "DOJ-OGR-00002332"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear and legible format. There are no visible redactions or damage."
+}

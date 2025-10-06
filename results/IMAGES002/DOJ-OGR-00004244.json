@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "287-1",
+    "date": "05/20/21",
+    "document_type": "Exhibit",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 287-1 Filed 05/20/21 Page 1 of 1 Exhibit A (Filed Under Seal) DOJ-OGR-00004244",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 287-1 Filed 05/20/21 Page 1 of 1",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Exhibit A (Filed Under Seal)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00004244",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "05/20/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "287-1",
+      "DOJ-OGR-00004244"
+    ]
+  },
+  "additional_notes": "The document appears to be a cover page for an exhibit filed under seal in a court case. The content is mostly metadata and a single reference number at the bottom."
+}

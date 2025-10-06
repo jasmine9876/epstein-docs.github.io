@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": "2 of 2",
+    "document_number": "292",
+    "date": "05/25/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 292 Filed 05/25/21 Page 2 of 2 Denver, Colorado 80203 Phone: 303-831-7364 Bobbi C. Sternheim Law Offices of Bobbi C. Sternheim 33 West 19th Street - 4th Floor New York, NY 10011 Phone: 212-243-1100 Attorneys for Ghislaine Maxwell 2 DOJ-OGR-00004265",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 292 Filed 05/25/21 Page 2 of 2",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Denver, Colorado 80203 Phone: 303-831-7364 Bobbi C. Sternheim Law Offices of Bobbi C. Sternheim 33 West 19th Street - 4th Floor New York, NY 10011 Phone: 212-243-1100 Attorneys for Ghislaine Maxwell",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "2",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00004265",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Bobbi C. Sternheim",
+      "Ghislaine Maxwell"
+    ],
+    "organizations": [
+      "Law Offices of Bobbi C. Sternheim"
+    ],
+    "locations": [
+      "Denver",
+      "Colorado",
+      "New York"
+    ],
+    "dates": [
+      "05/25/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "292",
+      "DOJ-OGR-00004265"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear and legible format. There are no visible redactions or damage."
+}

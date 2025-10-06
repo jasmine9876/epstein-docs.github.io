@@ -1,0 +1,84 @@
+{
+  "document_metadata": {
+    "page_number": "15",
+    "document_number": "6-1",
+    "date": "07/11/19",
+    "document_type": "Affirmation",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:19-cr-00490-RMB Document 6-1 Filed 07/11/19 Page 15 of 15\nCase 9:08-cv-80736-KAM Document 361-62 Entered on FLSD Docket 02/10/2016 Page 15 of 15\nDec-07-07 04:55pm From-Fowler White Burnett 3057898201 T-056 P.003/004 F-076\nAffirmation\nI, Jeffrey E. Epstein do hereby re-affirm the Non-Prosecution Agreement and Addendum to same dated October 30, 2007.\n12/7/07 Date\nJeffrey E. Epstein\nDOJ-OGR-00000304",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:19-cr-00490-RMB Document 6-1 Filed 07/11/19 Page 15 of 15",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Case 9:08-cv-80736-KAM Document 361-62 Entered on FLSD Docket 02/10/2016 Page 15 of 15",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Dec-07-07 04:55pm From-Fowler White Burnett 3057898201 T-056 P.003/004 F-076",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Affirmation",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "I, Jeffrey E. Epstein do hereby re-affirm the Non-Prosecution Agreement and Addendum to same dated October 30, 2007.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "12/7/07",
+      "position": "middle"
+    },
+    {
+      "type": "signature",
+      "content": "Jeffrey E. Epstein",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00000304",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey E. Epstein"
+    ],
+    "organizations": [
+      "Fowler White Burnett",
+      "DOJ"
+    ],
+    "locations": [
+      "FLSD"
+    ],
+    "dates": [
+      "07/11/19",
+      "02/10/2016",
+      "Dec-07-07",
+      "12/7/07",
+      "October 30, 2007"
+    ],
+    "reference_numbers": [
+      "1:19-cr-00490-RMB",
+      "9:08-cv-80736-KAM",
+      "Document 6-1",
+      "Document 361-62",
+      "3057898201",
+      "T-056",
+      "P.003/004",
+      "F-076",
+      "DOJ-OGR-00000304"
+    ]
+  },
+  "additional_notes": "The document appears to be a faxed affirmation signed by Jeffrey E. Epstein. The document is related to a court case and includes a reference to a non-prosecution agreement."
+}

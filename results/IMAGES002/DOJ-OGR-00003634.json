@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": "14",
+    "document_number": "204-12",
+    "date": "04/16/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 204-12 Filed 04/16/21 Page 14 of 30\nand the more homogeneous the area, the more accurate the geocoding estimate. I defined the population in the census tract as U.S. citizens of voting age. To estimate the percent Hispanic, I used the Bayesian Improved Surname Geocoding (BISG) method, which enhances the accuracy of the geocoding by also using information about the ethnicity of a person's last name. This method has been shown to significantly improve the estimation for Hispanics.10\n27. There is one constraint on the accuracy of the geocoding methodology. The basic assumption is that if the potential voting eligible population (U.S. citizens of voting age) in a census tract is 85% African American, then we would expect 85% of those on the master jury wheel who reside in that census tract to be African American. However, since the master jury wheel is selected from registered voters and not from potentially voting-eligible persons, this assumes that the likelihood of registering to vote for those who live within the same census tract is the same by race and ethnicity. If African Americans and/or Hispanics are less likely to register to vote, the results of the geocoding will overestimate the percent of African Americans and Hispanics on the master jury wheel (reason 1). However, there is no valid statistical evidence to conclude there is such a difference.11\n28. Based on the geocoding, the race and ethnicity representation of the master jury wheel is 11.20% African American and 12.97% Hispanic. Thus, the master jury wheel is 1.25\n10 For additional information on BISG, see Elliott, M.N., Morrison, P.A., et al. \"Using the Census Bureau's Surname List to Improve Estimates of Race/Ethnicity and Associated Disparities\" in Health Serv Outcomes Res Method 9:69–83 (2009).\n11 The only data available on citizens registering to vote by race and ethnicity is published by the U.S. Census Bureau, Current Population Survey November 2016, and it shows the rates across the state, not within the same census tract. The difference in rates of registering by race and ethnicity statewide would be expected to be greater than within census tracts. The data for November 2016 shows African American citizens more likely to register by 1 percentage point, and Hispanic citizens less likely to register by 7.2 percentage points. Neither of these differences are statistically significantly.\n14\nDOJ-OGR-00003634",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 204-12 Filed 04/16/21 Page 14 of 30",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "and the more homogeneous the area, the more accurate the geocoding estimate. I defined the population in the census tract as U.S. citizens of voting age. To estimate the percent Hispanic, I used the Bayesian Improved Surname Geocoding (BISG) method, which enhances the accuracy of the geocoding by also using information about the ethnicity of a person's last name. This method has been shown to significantly improve the estimation for Hispanics.10",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "27. There is one constraint on the accuracy of the geocoding methodology. The basic assumption is that if the potential voting eligible population (U.S. citizens of voting age) in a census tract is 85% African American, then we would expect 85% of those on the master jury wheel who reside in that census tract to be African American. However, since the master jury wheel is selected from registered voters and not from potentially voting-eligible persons, this assumes that the likelihood of registering to vote for those who live within the same census tract is the same by race and ethnicity. If African Americans and/or Hispanics are less likely to register to vote, the results of the geocoding will overestimate the percent of African Americans and Hispanics on the master jury wheel (reason 1). However, there is no valid statistical evidence to conclude there is such a difference.11",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "28. Based on the geocoding, the race and ethnicity representation of the master jury wheel is 11.20% African American and 12.97% Hispanic. Thus, the master jury wheel is 1.25",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "10 For additional information on BISG, see Elliott, M.N., Morrison, P.A., et al. \"Using the Census Bureau's Surname List to Improve Estimates of Race/Ethnicity and Associated Disparities\" in Health Serv Outcomes Res Method 9:69–83 (2009).",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "11 The only data available on citizens registering to vote by race and ethnicity is published by the U.S. Census Bureau, Current Population Survey November 2016, and it shows the rates across the state, not within the same census tract. The difference in rates of registering by race and ethnicity statewide would be expected to be greater than within census tracts. The data for November 2016 shows African American citizens more likely to register by 1 percentage point, and Hispanic citizens less likely to register by 7.2 percentage points. Neither of these differences are statistically significantly.",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "14",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00003634",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Elliott, M.N.",
+      "Morrison, P.A."
+    ],
+    "organizations": [
+      "U.S. Census Bureau"
+    ],
+    "locations": [],
+    "dates": [
+      "04/16/21",
+      "November 2016",
+      "2009"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "204-12",
+      "DOJ-OGR-00003634"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing discussing the methodology used for geocoding and its implications for jury representation. The text is mostly clear, with some technical terms related to statistical analysis and demographics."
+}

@@ -1,0 +1,43 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "285-6",
+    "date": "05/20/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 285-6 Filed 05/20/21 Page 3 of 3 Phone Numbers Mobile: Other: Email Addresses Email: Notes CONFIDENTIAL",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 285-6 Filed 05/20/21 Page 3 of 3",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Phone Numbers Mobile: Other: Email Addresses Email: Notes",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CONFIDENTIAL",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "05/20/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "285-6",
+      "SDNY_GM_02742754",
+      "DOJ-OGR-00004199"
+    ]
+  },
+  "additional_notes": "The image is a court document with a photo of a Blackberry phone screen displaying contact information. The contact details are redacted."
+}

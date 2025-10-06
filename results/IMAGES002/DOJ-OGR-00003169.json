@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": "235 of 239",
+    "document_number": "204",
+    "date": "04/16/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 204 Filed 04/16/21 Page 235 of 239 comparator is the jury eligible population of the five counties from which the White Plains Master Wheel is drawn. The American Community Survey (\"ACS\") 2018 data indicate that the jury eligible population for the White Plains counties in 2018 was 12.45% Black or African-American and 14.12% Hispanic or Latino.70 (See Siskin Aff. at ¶ 19; see also Martin Aff. at ¶ 21). Once the relevant comparators are defined, an additional threshold question is the statistical method by which to compare them. Courts have applied different approaches over time, such as the statistical decision theory, the comparative disparity theory, and the absolute disparity theory. See Rioux, 97 F.3d at 655. Although no method is perfect, see Berghuis v. Smith, 559 U.S. 314, 329 (2010), the Second Circuit has made clear that the comparative disparity theory is disfavored and strongly suggested that the absolute disparity theory is generally appropriate, see Rioux, 97 F.3d at 655-56; see also United States v. Barnes, 520 F. Supp. 2d 510, 514 (S.D.N.Y. 2007) (\"[T]he absolute disparity approach is the primary approach used in this Circuit.\"). The \"absolute disparity\" approach measures the absolute numerical difference between the distinctive group's representation in the community population and the group's representation in the relevant jury pool. See Rioux, 97 F.3d at 655; United States v. Barlow, 732 F. Supp. 2d 1, 30-31 (E.D.N.Y. 2010), aff'd 479 F. App'x 372, 373 (2d Cir. 2012). For example, if Blacks represented 10% of the community population but only 2% of the relevant jury pool, the \"absolute disparity\" would be 8%. There is no specific numerical threshold that constitutes unacceptable disparity under the \"absolute disparity\" method. \"[P]erfectly proportional representation is not required, since no 70 The American Community Survey gathers demographic information in between the decennial census, and is published by the United States Census Bureau. (See Siskin Aff. at ¶ 18). The latest available data is the 2018 five-year survey combining the 2014, 2015, 2016, 2017, and 2018 survey data. (Id.). 208 DOJ-OGR-00003169",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 204 Filed 04/16/21 Page 235 of 239",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "comparator is the jury eligible population of the five counties from which the White Plains Master Wheel is drawn. The American Community Survey (\"ACS\") 2018 data indicate that the jury eligible population for the White Plains counties in 2018 was 12.45% Black or African-American and 14.12% Hispanic or Latino.70 (See Siskin Aff. at ¶ 19; see also Martin Aff. at ¶ 21). Once the relevant comparators are defined, an additional threshold question is the statistical method by which to compare them. Courts have applied different approaches over time, such as the statistical decision theory, the comparative disparity theory, and the absolute disparity theory. See Rioux, 97 F.3d at 655. Although no method is perfect, see Berghuis v. Smith, 559 U.S. 314, 329 (2010), the Second Circuit has made clear that the comparative disparity theory is disfavored and strongly suggested that the absolute disparity theory is generally appropriate, see Rioux, 97 F.3d at 655-56; see also United States v. Barnes, 520 F. Supp. 2d 510, 514 (S.D.N.Y. 2007) (\"[T]he absolute disparity approach is the primary approach used in this Circuit.\"). The \"absolute disparity\" approach measures the absolute numerical difference between the distinctive group's representation in the community population and the group's representation in the relevant jury pool. See Rioux, 97 F.3d at 655; United States v. Barlow, 732 F. Supp. 2d 1, 30-31 (E.D.N.Y. 2010), aff'd 479 F. App'x 372, 373 (2d Cir. 2012). For example, if Blacks represented 10% of the community population but only 2% of the relevant jury pool, the \"absolute disparity\" would be 8%. There is no specific numerical threshold that constitutes unacceptable disparity under the \"absolute disparity\" method. \"[P]erfectly proportional representation is not required, since no",
+      "position": "main content"
+    },
+    {
+      "type": "printed",
+      "content": "70 The American Community Survey gathers demographic information in between the decennial census, and is published by the United States Census Bureau. (See Siskin Aff. at ¶ 18). The latest available data is the 2018 five-year survey combining the 2014, 2015, 2016, 2017, and 2018 survey data. (Id.).",
+      "position": "footnote"
+    },
+    {
+      "type": "printed",
+      "content": "208",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00003169",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Siskin",
+      "Martin",
+      "Rioux",
+      "Smith",
+      "Berghuis",
+      "Barnes",
+      "Barlow"
+    ],
+    "organizations": [
+      "United States Census Bureau",
+      "Second Circuit"
+    ],
+    "locations": [
+      "White Plains",
+      "New York",
+      "S.D.N.Y.",
+      "E.D.N.Y."
+    ],
+    "dates": [
+      "2018",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2010",
+      "04/16/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "Document 204",
+      "DOJ-OGR-00003169"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing discussing jury composition and statistical methods for analyzing disparities. The text is mostly printed, with some footnotes and a header/footer. There are no visible stamps or handwritten annotations."
+}

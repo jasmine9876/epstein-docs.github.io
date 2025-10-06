@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "2",
+    "date": "07/02/20",
+    "document_type": "Court Order",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-AJN Document 2 Filed 07/02/20 Page 2 of 2\n\nUNITED STATES DISTRICT COURT\nSOUTHERN DISTRICT OF NEW YORK\n\nUNITED STATES OF AMERICA\nv.\nGHISLAINE MAXWELL,\nDefendant.\n\nORDER\n20 Cr. 330 ( )\n(18 U.S.C. §§ 2422, 2423(a), 1623, 371, & 2.)\n\nAUDREY STRAUSS\nActing United States Attorney.\n\nDOJ-OGR-00001486",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-AJN Document 2 Filed 07/02/20 Page 2 of 2",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "UNITED STATES DISTRICT COURT\nSOUTHERN DISTRICT OF NEW YORK",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "UNITED STATES OF AMERICA\nv.\nGHISLAINE MAXWELL,\nDefendant.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "ORDER",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "20 Cr. 330 ( )\n(18 U.S.C. §§ 2422, 2423(a), 1623, 371, & 2.)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "AUDREY STRAUSS\nActing United States Attorney.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00001486",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ghislaine Maxwell",
+      "Audrey Strauss"
+    ],
+    "organizations": [
+      "United States District Court",
+      "United States Attorney"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "07/02/20"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-AJN",
+      "20 Cr. 330",
+      "DOJ-OGR-00001486"
+    ]
+  },
+  "additional_notes": "The document appears to be a court order in a criminal case against Ghislaine Maxwell. The document is typed and has no handwritten annotations or stamps."
+}

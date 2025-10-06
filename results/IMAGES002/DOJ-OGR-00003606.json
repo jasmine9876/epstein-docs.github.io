@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "55",
+    "document_number": "204-11",
+    "date": "04/16/21",
+    "document_type": "Confidential",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 204-11 Filed 04/16/21 Page 7 of 21 Confidential Page 55 1 G. Maxwell - Confidential 2 Epstein's home in Palm Beach? 3 MR. PAGLIUCA: Objection to form 4 and foundation. 5",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 204-11 Filed 04/16/21 Page 7 of 21",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Confidential",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Page 55",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "1 G. Maxwell - Confidential 2 Epstein's home in Palm Beach? 3 MR. PAGLIUCA: Objection to form 4 and foundation. 5",
+      "position": "middle"
+    },
+    {
+      "type": "other",
+      "content": "[redacted text]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "MAGNA LEGAL SERVICES",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00003606",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "G. Maxwell",
+      "Epstein",
+      "MR. PAGLIUCA"
+    ],
+    "organizations": [
+      "MAGNA LEGAL SERVICES"
+    ],
+    "locations": [
+      "Palm Beach"
+    ],
+    "dates": [
+      "04/16/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "204-11",
+      "DOJ-OGR-00003606"
+    ]
+  },
+  "additional_notes": "The document contains redactions, indicated by black bars, and is marked as 'Confidential'."
+}

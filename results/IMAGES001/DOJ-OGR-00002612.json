@@ -1,0 +1,49 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "142",
+    "date": "03/04/2015",
+    "document_type": "Court Document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:10-cr-00330-AJN Document 142 Filed 03/04/15 Page 1 of 15 COMPOSITE EXHIBIT A NON-PROSECUTION AGREEMENT AND ADDENDUM DOJ-OGR-00002612",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "COMPOSITE EXHIBIT A",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "NON-PROSECUTION AGREEMENT AND ADDENDUM",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Case 1:10-cr-00330-AJN Document 142 Filed 03/04/15 Page 1 of 15",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00002612",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "03/04/2015"
+    ],
+    "reference_numbers": [
+      "1:10-cr-00330-AJN",
+      "142",
+      "DOJ-OGR-00002612"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing related to a non-prosecution agreement. The image is clear and legible."
+}

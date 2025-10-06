@@ -1,0 +1,53 @@
+{
+  "document_metadata": {
+    "page_number": "16",
+    "document_number": "6",
+    "date": "07/11/19",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:19-cr-00490-RMB Document 6 Filed 07/11/19 Page 16 of 16\nMarc Allan Fernich\nLaw Office of Marc Fernich\n810 Seventh Ave\nSuite 620\nNew York, NY 10019\n(212) 446-2346\nFax: (212) 446 2330\nmaf@fernichlaw.com\n\n\n\n\n\n\n\n\n\n\n\n\n\n16\nDOJ-OGR-00000289",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:19-cr-00490-RMB Document 6 Filed 07/11/19 Page 16 of 16",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Marc Allan Fernich\nLaw Office of Marc Fernich\n810 Seventh Ave\nSuite 620\nNew York, NY 10019\n(212) 446-2346\nFax: (212) 446 2330\nmaf@fernichlaw.com",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "16",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00000289",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Marc Allan Fernich"
+    ],
+    "organizations": [
+      "Law Office of Marc Fernich"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "07/11/19"
+    ],
+    "reference_numbers": [
+      "1:19-cr-00490-RMB",
+      "Document 6",
+      "DOJ-OGR-00000289"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a letterhead or contact information for Marc Allan Fernich. The quality is clear, and there are no visible redactions or damage."
+}

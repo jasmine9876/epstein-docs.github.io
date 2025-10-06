@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "24-1073",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "24-1073\nMAXWELL, GHISLAINE\nUSA\n\nSARA KROPF\nKROPF MOSELEY SCHMITT PLLC\n1100 H STREET, NW\nSUITE 1220\nWASHINGTON, DC 20005\n202-627-6900\nSARA@KMLAWFIRM.COM\n\nDAVID OSCAR MARKUS\nMARKUS/MOSS PLLC\n40 N.W. 3RD STREET\nPENTHOUSE ONE\nMIAMI, FL 33128\n305-379-6667\nDMARKUS@MARKUSLAW.COM\n\nVIA EMAIL\n\nDOJ-OGR-00000241",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "24-1073\nMAXWELL, GHISLAINE\nUSA",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "SARA KROPF\nKROPF MOSELEY SCHMITT PLLC\n1100 H STREET, NW\nSUITE 1220\nWASHINGTON, DC 20005\n202-627-6900",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "SARA@KMLAWFIRM.COM",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DAVID OSCAR MARKUS\nMARKUS/MOSS PLLC\n40 N.W. 3RD STREET\nPENTHOUSE ONE\nMIAMI, FL 33128\n305-379-6667",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "DMARKUS@MARKUSLAW.COM",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "VIA EMAIL",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00000241",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "SARA KROPF",
+      "DAVID OSCAR MARKUS",
+      "MAXWELL, GHISLAINE"
+    ],
+    "organizations": [
+      "KROPF MOSELEY SCHMITT PLLC",
+      "MARKUS/MOSS PLLC"
+    ],
+    "locations": [
+      "WASHINGTON, DC",
+      "MIAMI, FL",
+      "USA"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "24-1073",
+      "DOJ-OGR-00000241"
+    ]
+  },
+  "additional_notes": "The document appears to be a formal letter or correspondence, likely related to a legal matter given the presence of law firm names and addresses. The text is mostly printed, with a few email addresses highlighted or typed in a different format."
+}

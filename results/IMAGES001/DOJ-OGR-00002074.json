@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "97-16",
+    "date": "12/14/20",
+    "document_type": "Court Document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-AJN Document 97-16 Filed 12/14/20 Page 4 of 4\n\nFinancial Condition Report. I also posed questions to the Macalvins accountants and requested additional documents that I required to confirm the amounts listed in the Financial Condition Report and accompanying schedules. At all times, I was given complete access to the relevant documents and allowed to ask any questions I thought pertinent to my analysis.\n\nConclusion\n\n7. Based on my review, I believe that the Financial Condition Report represents a complete and accurate summary of the assets held by Ms. Maxwell and her husband, as well as assets that were, or are currently, held in trust for the benefit of Ms. Maxwell, for the time period from 2015-2020.\n\n[Redacted Signature]\n\n3\nDOJ-OGR-00002074",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-AJN Document 97-16 Filed 12/14/20 Page 4 of 4",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Financial Condition Report. I also posed questions to the Macalvins accountants and requested additional documents that I required to confirm the amounts listed in the Financial Condition Report and accompanying schedules. At all times, I was given complete access to the relevant documents and allowed to ask any questions I thought pertinent to my analysis.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Conclusion",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "7. Based on my review, I believe that the Financial Condition Report represents a complete and accurate summary of the assets held by Ms. Maxwell and her husband, as well as assets that were, or are currently, held in trust for the benefit of Ms. Maxwell, for the time period from 2015-2020.",
+      "position": "middle"
+    },
+    {
+      "type": "signature",
+      "content": "[Redacted Signature]",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "3",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00002074",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Macalvins",
+      "Ms. Maxwell"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "12/14/20",
+      "2015-2020"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-AJN",
+      "97-16",
+      "DOJ-OGR-00002074"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a redacted signature. The content discusses a Financial Condition Report and its accuracy regarding Ms. Maxwell's assets."
+}

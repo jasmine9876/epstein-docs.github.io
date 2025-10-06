@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "6",
+    "document_number": "64",
+    "date": "October 14, 2020",
+    "document_type": "Court Document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-AJN Document 64 Filed 10/14/20 Page 6 of 6\nThe Honorable Alison J. Nathan\nOctober 14, 2020\nPage 6\ncc: Mark S. Cohen, Esq.\nJeff Pagliuca, Esq.\nLaura Menninger, Esq.\nBobbi C. Sternheim, Esq.\nDOJ-OGR-00001800",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-AJN Document 64 Filed 10/14/20 Page 6 of 6",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "The Honorable Alison J. Nathan\nOctober 14, 2020\nPage 6",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "cc: Mark S. Cohen, Esq.\nJeff Pagliuca, Esq.\nLaura Menninger, Esq.\nBobbi C. Sternheim, Esq.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00001800",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Alison J. Nathan",
+      "Mark S. Cohen",
+      "Jeff Pagliuca",
+      "Laura Menninger",
+      "Bobbi C. Sternheim"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "October 14, 2020",
+      "10/14/20"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-AJN",
+      "64",
+      "DOJ-OGR-00001800"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear and legible format. There are no visible redactions or damage."
+}

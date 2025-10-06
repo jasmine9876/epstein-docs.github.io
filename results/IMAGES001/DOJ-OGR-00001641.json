@@ -1,0 +1,73 @@
+{
+  "document_metadata": {
+    "page_number": "7",
+    "document_number": "27",
+    "date": "July 21, 2020",
+    "document_type": "court document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-AJN Document 27 Filed 07/21/20 Page 7 of 7\nThe Honorable Alison J. Nathan\nJuly 21, 2020\nPage 7\nRespectfully Submitted,\nJeffrey S. Pagliuca\ncc:\nAlex Rossmiller\nAllison Moe\nMaurene Comey\nU.S. Attorney's Office for the Southern District of New York\nMark Cohen\nChristian Everdell\nCohen & Gresser LLP\nLaura A. Menninger\nHaddon, Morgan & Foreman, P.C.\nDOJ-OGR-00001641",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-AJN Document 27 Filed 07/21/20 Page 7 of 7",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "The Honorable Alison J. Nathan\nJuly 21, 2020\nPage 7",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Respectfully Submitted,",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Jeffrey S. Pagliuca\ncc:\nAlex Rossmiller\nAllison Moe\nMaurene Comey\nU.S. Attorney's Office for the Southern District of New York\nMark Cohen\nChristian Everdell\nCohen & Gresser LLP\nLaura A. Menninger\nHaddon, Morgan & Foreman, P.C.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00001641",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Alison J. Nathan",
+      "Jeffrey S. Pagliuca",
+      "Alex Rossmiller",
+      "Allison Moe",
+      "Maurene Comey",
+      "Mark Cohen",
+      "Christian Everdell",
+      "Laura A. Menninger"
+    ],
+    "organizations": [
+      "U.S. Attorney's Office for the Southern District of New York",
+      "Cohen & Gresser LLP",
+      "Haddon, Morgan & Foreman, P.C."
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "July 21, 2020",
+      "07/21/20"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-AJN",
+      "Document 27",
+      "DOJ-OGR-00001641"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a signature and a list of recipients. The quality is clear, and there are no visible redactions or damage."
+}

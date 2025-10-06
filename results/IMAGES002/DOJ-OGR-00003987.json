@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "245",
+    "date": "04/23/2021",
+    "document_type": "court document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 245 Filed 04/23/21 Page 2 of 2 The Hon. Alison J. Nathan April 19, 2021 Page 2 Ms. McCawley of BSF. It is the privacy rights of this third-party witness that would be implicated by any public release. Because BSF does not know what materials have been exchanged in this criminal action or what has been designated confidential, BSF takes no position on whether the Defendant's proposed redactions are necessary. Respectfully submitted, Laura A. Menninger",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 245 Filed 04/23/21 Page 2 of 2",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "The Hon. Alison J. Nathan April 19, 2021 Page 2",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Ms. McCawley of BSF. It is the privacy rights of this third-party witness that would be implicated by any public release.",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Because BSF does not know what materials have been exchanged in this criminal action or what has been designated confidential, BSF takes no position on whether the Defendant's proposed redactions are necessary.",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "Respectfully submitted, Laura A. Menninger",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00003987",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Alison J. Nathan",
+      "Laura A. Menninger",
+      "Ms. McCawley"
+    ],
+    "organizations": [
+      "BSF",
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "April 19, 2021",
+      "04/23/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "Document 245",
+      "DOJ-OGR-00003987"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a handwritten signature. The text is mostly printed, with some handwritten elements."
+}

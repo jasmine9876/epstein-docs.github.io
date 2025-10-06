@@ -1,0 +1,49 @@
+{
+  "document_metadata": {
+    "page_number": "345",
+    "document_number": "204-3",
+    "date": "04/16/21",
+    "document_type": "Exhibit",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 204-3 Filed 04/16/21 Page 345 of 348\n\nEXHIBIT 5\nState Information\n\nDOJ-OGR-00003521",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 204-3 Filed 04/16/21 Page 345 of 348",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EXHIBIT 5",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "State Information",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00003521",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "04/16/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "204-3",
+      "DOJ-OGR-00003521"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear header and footer. The content is mostly related to a legal case, with a specific exhibit number and reference number."
+}

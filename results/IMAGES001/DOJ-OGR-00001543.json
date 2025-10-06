@@ -1,0 +1,67 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "10",
+    "date": "07/07/20",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-AJN Document 10 Filed 07/07/20 Page 4 of 4\n\nAll members of the public, including attorneys, appearing at a Southern District of New York courthouse must complete a questionnaire and have their temperature taken before being allowed entry into that courthouse.\n\nOn the day you are due to arrive at the courthouse, click on the following weblink, or scan the following QR code with a mobile device camera to begin the enrollment process. Follow the instructions and fill out the questionnaire. If your answers meet the requirements for entry, you will be sent a QR code to be used at the SDNY entry device at the courthouse entrance.\n\nhttps://app.certify.me/SDNYPublic\n\nNote: If you do not have a mobile phone or mobile phone number, you must complete the questionnaire and temperature screening at an entry device at the courthouse.\n\nDOJ-OGR-00001543",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-AJN Document 10 Filed 07/07/20 Page 4 of 4",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "All members of the public, including attorneys, appearing at a Southern District of New York courthouse must complete a questionnaire and have their temperature taken before being allowed entry into that courthouse.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "On the day you are due to arrive at the courthouse, click on the following weblink, or scan the following QR code with a mobile device camera to begin the enrollment process. Follow the instructions and fill out the questionnaire. If your answers meet the requirements for entry, you will be sent a QR code to be used at the SDNY entry device at the courthouse entrance.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "https://app.certify.me/SDNYPublic",
+      "position": "middle"
+    },
+    {
+      "type": "other",
+      "content": "[QR code image]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Note: If you do not have a mobile phone or mobile phone number, you must complete the questionnaire and temperature screening at an entry device at the courthouse.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00001543",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Southern District of New York",
+      "SDNY"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "dates": [
+      "07/07/20"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-AJN",
+      "Document 10",
+      "DOJ-OGR-00001543"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing related to COVID-19 protocols for entering a Southern District of New York courthouse. The document is clear and legible, with no visible redactions or damage."
+}

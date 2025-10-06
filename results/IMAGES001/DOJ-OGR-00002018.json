@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "97-1",
+    "date": "12/14/2020",
+    "document_type": "Exhibit",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-AJN Document 97-1 Filed 12/14/20 Page 1 of 4\nExhibit A\nDOJ-OGR-00002018",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-AJN Document 97-1 Filed 12/14/20 Page 1 of 4",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Exhibit A",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00002018",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "12/14/2020"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-AJN",
+      "97-1",
+      "DOJ-OGR-00002018"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear header and footer. The content is mostly printed text with no visible handwriting or stamps."
+}

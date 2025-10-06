@@ -1,0 +1,39 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "204-3",
+    "date": "04/16/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 204-3 Filed 04/16/21 Page 2 of 348 DOJ-OGR-00003178",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 204-3 Filed 04/16/21 Page 2 of 348",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00003178",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "04/16/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "204-3",
+      "DOJ-OGR-00003178"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a case number and document number. The page is blank except for the header and footer information."
+}

@@ -1,0 +1,68 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "97-17",
+    "date": "12/14/20",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cv-0330-AJN Document 97-17 Filed 12/14/20 Page 4 of 5 Bounty On Ms. Maxwell NOVEMBER 19, 2019 THE Sun WANTED The Sun is offering a £10,000 reward for information on Jeffrey Epstein pal Ghislaine Maxwell https://www.the-sun.com/news/74018/the-sun-is-offering-a-10000-reward-for-information-on-jeffrey-epstein-pal-ghislaine-maxwell/ DOJ-OGR-00002078",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cv-0330-AJN Document 97-17 Filed 12/14/20 Page 4 of 5",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Bounty On Ms. Maxwell",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "NOVEMBER 19, 2019",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "THE Sun",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "WANTED The Sun is offering a £10,000 reward for information on Jeffrey Epstein pal Ghislaine Maxwell",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "https://www.the-sun.com/news/74018/the-sun-is-offering-a-10000-reward-for-information-on-jeffrey-epstein-pal-ghislaine-maxwell/",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00002078",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Ghislaine Maxwell"
+    ],
+    "organizations": [
+      "The Sun"
+    ],
+    "locations": [],
+    "dates": [
+      "NOVEMBER 19, 2019",
+      "12/14/20"
+    ],
+    "reference_numbers": [
+      "1:20-cv-0330-AJN",
+      "97-17",
+      "DOJ-OGR-00002078"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a screenshot of a news article from The Sun."
+}

@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "15",
+    "document_number": "126-3",
+    "date": "02/04/26",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:29-cv-09233-AJN Document 126-3 Filed 02/04/26 Page 15 of 28 BY THE COURT UNITED STATES DISTRICT JUDGE Formatted: Font: 12 pt DOJ-OGR-00002457",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:29-cv-09233-AJN Document 126-3 Filed 02/04/26 Page 15 of 28",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "BY THE COURT",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "UNITED STATES DISTRICT JUDGE",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Formatted: Font: 12 pt",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00002457",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "UNITED STATES DISTRICT JUDGE"
+    ],
+    "locations": [],
+    "dates": [
+      "02/04/26"
+    ],
+    "reference_numbers": [
+      "1:29-cv-09233-AJN",
+      "126-3",
+      "DOJ-OGR-00002457"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a header indicating the case number, document number, and filing date. The main content is a signature block for a United States District Judge. There is a handwritten annotation in the margin regarding font size."
+}

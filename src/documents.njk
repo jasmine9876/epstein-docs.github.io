@@ -1,0 +1,124 @@
+---
+pagination:
+  data: documents
+  size: 1
+  alias: doc
+layout: base.njk
+eleventyComputed:
+  title: "{{ doc.document_number }}"
+  permalink: "/document/{{ doc.unique_id | slugify }}/"
+---
+
+<div class="document-full">
+  <div style="margin-bottom: 2rem;">
+    <a href="/" style="color: #3498db; text-decoration: none;">← Back to home</a>
+  </div>
+
+  <h1>Document {{ doc.document_number }}</h1>
+
+  <div class="metadata">
+    <div class="metadata-grid">
+      <div class="metadata-item">
+        <strong>Document Type</strong>
+        <div>{{ doc.document_metadata.document_type or "Unknown" }}</div>
+      </div>
+      <div class="metadata-item">
+        <strong>Date</strong>
+        <div>{{ doc.document_metadata.date or "Unknown" }}</div>
+      </div>
+      <div class="metadata-item">
+        <strong>Pages</strong>
+        <div>{{ doc.page_count }}</div>
+      </div>
+      <div class="metadata-item">
+        <strong>Folder</strong>
+        <div>{{ doc.folder }}</div>
+      </div>
+      {% if doc.document_metadata.has_handwriting %}
+      <div class="metadata-item">
+        <strong>Has Handwriting</strong>
+        <div>Yes</div>
+      </div>
+      {% endif %}
+      {% if doc.document_metadata.has_stamps %}
+      <div class="metadata-item">
+        <strong>Has Stamps</strong>
+        <div>Yes</div>
+      </div>
+      {% endif %}
+    </div>
+  </div>
+
+  <h2>Full Text</h2>
+  <div class="full-text">{{ doc.full_text }}</div>
+
+  <h2>Referenced Entities</h2>
+  <div class="entities">
+    {% if doc.entities.people.length > 0 %}
+    <div class="entity-group">
+      <h4>People ({{ doc.entities.people.length }})</h4>
+      <ul>
+        {% for person in doc.entities.people %}
+        <li><a href="/people/#{{ person | slugify }}">{{ person }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+
+    {% if doc.entities.organizations.length > 0 %}
+    <div class="entity-group">
+      <h4>Organizations ({{ doc.entities.organizations.length }})</h4>
+      <ul>
+        {% for org in doc.entities.organizations %}
+        <li><a href="/organizations/#{{ org | slugify }}">{{ org }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+
+    {% if doc.entities.locations.length > 0 %}
+    <div class="entity-group">
+      <h4>Locations ({{ doc.entities.locations.length }})</h4>
+      <ul>
+        {% for loc in doc.entities.locations %}
+        <li><a href="/locations/#{{ loc | slugify }}">{{ loc }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+
+    {% if doc.entities.dates.length > 0 %}
+    <div class="entity-group">
+      <h4>Dates ({{ doc.entities.dates.length }})</h4>
+      <ul>
+        {% for date in doc.entities.dates %}
+        <li>{{ date }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+
+    {% if doc.entities.reference_numbers.length > 0 %}
+    <div class="entity-group">
+      <h4>Reference Numbers ({{ doc.entities.reference_numbers.length }})</h4>
+      <ul>
+        {% for ref in doc.entities.reference_numbers %}
+        <li>{{ ref }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+  </div>
+
+  <h2>Page Details</h2>
+  {% for page in doc.pages %}
+  <details style="margin-bottom: 1rem;">
+    <summary style="cursor: pointer; padding: 1rem; background: #f8f9fa; border-radius: 4px;">
+      Page {{ page.document_metadata.page_number }} - {{ page.filename }}
+    </summary>
+    <div style="padding: 1rem; background: white; border: 1px solid #e0e0e0; border-top: none;">
+      <div class="full-text">{{ page.full_text }}</div>
+    </div>
+  </details>
+  {% endfor %}
+</div>

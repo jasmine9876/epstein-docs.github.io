@@ -1,0 +1,73 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "48",
+    "date": "August 24, 2020",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-AJN Document 48 Filed 08/24/20 Page 2 of 2\nHon. Alison J. Nathan\nAugust 24, 2020\nPage 2\nSincerely,\nHADDON, MORGAN AND FOREMAN, P.C.\n/s/ Laura A. Menninger\nLaura A. Menninger\nCC: All Counsel of Record (Via ECF)\nDOJ-OGR-00001742",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-AJN Document 48 Filed 08/24/20 Page 2 of 2",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Hon. Alison J. Nathan\nAugust 24, 2020\nPage 2",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Sincerely,",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "HADDON, MORGAN AND FOREMAN, P.C.",
+      "position": "middle"
+    },
+    {
+      "type": "signature",
+      "content": "/s/ Laura A. Menninger",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Laura A. Menninger",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "CC: All Counsel of Record (Via ECF)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00001742",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Alison J. Nathan",
+      "Laura A. Menninger"
+    ],
+    "organizations": [
+      "HADDON, MORGAN AND FOREMAN, P.C."
+    ],
+    "locations": [],
+    "dates": [
+      "August 24, 2020",
+      "08/24/20"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-AJN",
+      "Document 48",
+      "DOJ-OGR-00001742"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a signature block and a CC section indicating it was sent to all counsel of record via ECF."
+}

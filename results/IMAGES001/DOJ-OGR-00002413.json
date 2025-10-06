@@ -1,0 +1,49 @@
+{
+  "document_metadata": {
+    "page_number": "4 of 27",
+    "document_number": "136",
+    "date": "02/04/21",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-AJN Document 136 Filed 02/04/21 Page 4 of 27\nFed. R. Evid. 106 .............................................. 20\nFed. R. Evid. 602 .............................................. 9\nOther\nThefreedictionary.com .............................................. 16\niii\nDOJ-OGR-00002413",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-AJN Document 136 Filed 02/04/21 Page 4 of 27",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Fed. R. Evid. 106 .............................................. 20\nFed. R. Evid. 602 .............................................. 9\nOther\nThefreedictionary.com .............................................. 16",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "iii",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00002413",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "02/04/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-AJN",
+      "136",
+      "DOJ-OGR-00002413"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with references to Federal Rules of Evidence and an external dictionary website. The document is well-formatted and clear."
+}

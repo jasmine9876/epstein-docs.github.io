@@ -1,0 +1,69 @@
+{
+  "document_metadata": {
+    "page_number": "11",
+    "document_number": "DOJ-OGR-00000996",
+    "date": null,
+    "document_type": "Court Document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "of those individuals, including where they are based or whether the Government would be able to collect from them. Nor does she provide information sufficient to know whether her proposed co-signers are so wealthy that they would be willing to purchase the defendant's freedom for $5 million, an entirely too modest sum for a person of the defendant's means. In any event, as further described below, the defendant appears to have the financial resources to make her co-signers whole if she were to flee. The defendant's failure to pledge any liquid assets, or to provide detailed financial information about herself or her proposed co-signers, is particularly jarring because she appears to have access to millions of dollars, principally in foreign accounts. In recent years, the defendant has been associated with multiple accounts with a Swiss bank (the \"Swiss Bank\") and multiple accounts with at least one bank headquartered in England (the \"English Bank\"). In 2018 and 2019, Form 114 (\"FBAR\") submissions on behalf of the defendant filed with the United States Treasury Department list accounts at the English Bank with maximum values totaling well over $2 million. In connection with the Swiss Bank, the defendant appears to be the grantor of a trust account (the \"Trust Account\") with a balance in June 2020 of more than $4 million. Among other transactions, the defendant appears to have transferred approximately $500,000 in March 2019 from one Swiss Bank account in her name to the Trust Account, and records further reflect a transfer between those same accounts in June 2019 of more than $750,000. The Trustees of the trust account, each of whom may act independently according to relevant Trust Account documents, appear to include both a relative and a close associate of the defendant. Additionally, the defendant was arrested last week at a property in New Hampshire that was purchased for more than $1 million in cash in December 2019. It is unknown whether the defendant purchased the property in cash, or whether she has a wealthy patron who did so on her behalf, but either scenario",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "of those individuals, including where they are based or whether the Government would be able to collect from them. Nor does she provide information sufficient to know whether her proposed co-signers are so wealthy that they would be willing to purchase the defendant's freedom for $5 million, an entirely too modest sum for a person of the defendant's means. In any event, as further described below, the defendant appears to have the financial resources to make her co-signers whole if she were to flee.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "The defendant's failure to pledge any liquid assets, or to provide detailed financial information about herself or her proposed co-signers, is particularly jarring because she appears to have access to millions of dollars, principally in foreign accounts. In recent years, the defendant has been associated with multiple accounts with a Swiss bank (the \"Swiss Bank\") and multiple accounts with at least one bank headquartered in England (the \"English Bank\").",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "In 2018 and 2019, Form 114 (\"FBAR\") submissions on behalf of the defendant filed with the United States Treasury Department list accounts at the English Bank with maximum values totaling well over $2 million.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "In connection with the Swiss Bank, the defendant appears to be the grantor of a trust account (the \"Trust Account\") with a balance in June 2020 of more than $4 million. Among other transactions, the defendant appears to have transferred approximately $500,000 in March 2019 from one Swiss Bank account in her name to the Trust Account, and records further reflect a transfer between those same accounts in June 2019 of more than $750,000.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "The Trustees of the trust account, each of whom may act independently according to relevant Trust Account documents, appear to include both a relative and a close associate of the defendant. Additionally, the defendant was arrested last week at a property in New Hampshire that was purchased for more than $1 million in cash in December 2019. It is unknown whether the defendant purchased the property in cash, or whether she has a wealthy patron who did so on her behalf, but either scenario",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "defendant"
+    ],
+    "organizations": [
+      "Swiss Bank",
+      "English Bank",
+      "United States Treasury Department"
+    ],
+    "locations": [
+      "England",
+      "New Hampshire"
+    ],
+    "dates": [
+      "2018",
+      "2019",
+      "June 2020",
+      "March 2019",
+      "June 2019",
+      "December 2019"
+    ],
+    "reference_numbers": [
+      "$5 million",
+      "$2 million",
+      "$4 million",
+      "$500,000",
+      "$750,000",
+      "$1 million"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing discussing a defendant's financial situation and potential flight risk. The text is printed and there are no visible stamps or handwritten notes. The document is page 11 of a larger filing."
+}

@@ -1,0 +1,42 @@
+{
+  "document_metadata": {
+    "page_number": "155",
+    "document_number": "201-cv-700320",
+    "date": null,
+    "document_type": "Exhibit",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case: 20-cv-07003 Document #: 86 Filed: 01/03/21 Page 155 of 4 Exhibit A DOJ-OGR-00001201",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case: 20-cv-07003 Document #: 86 Filed: 01/03/21 Page 155 of 4",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Exhibit A",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00001201",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "01/03/21"
+    ],
+    "reference_numbers": [
+      "20-cv-07003",
+      "Document #: 86",
+      "DOJ-OGR-00001201"
+    ]
+  },
+  "additional_notes": "The document appears to be a court filing with a clear header and footer. The main content is labeled 'Exhibit A'."
+}

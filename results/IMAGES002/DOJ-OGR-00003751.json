@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "208-3",
+    "date": "04/16/21",
+    "document_type": "Exhibit",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 1:20-cr-00330-PAE Document 208-3 Filed 04/16/21 Page 1 of 2 EXHIBIT N DOJ-OGR-00003751",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 1:20-cr-00330-PAE Document 208-3 Filed 04/16/21 Page 1 of 2",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "EXHIBIT N",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00003751",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "04/16/21"
+    ],
+    "reference_numbers": [
+      "1:20-cr-00330-PAE",
+      "208-3",
+      "DOJ-OGR-00003751"
+    ]
+  },
+  "additional_notes": "The document appears to be a court exhibit with a clear header and footer. The content is mostly printed text with no visible handwriting or stamps."
+}
