@@ -1,0 +1,104 @@
+{
+  "document_metadata": {
+    "page_number": "141",
+    "document_number": "17-295",
+    "date": "09/14/2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "09/14/2005 14:16 FAX\n\nHYPERION AIR, INC.\nPASSENGER MANIFEST\n\nRegistration Number: N909JG Type: G-1159B Pilots: Dave Rodgers, Larry Visoski\nDATE: 9 - 2 , 2005 FROM PBI TO TIST\nDeparture 5 : 13 AM PM Arrival 7 : 36 AM PM Trip Time Number 1812\n\nPASSENGERS\n1. Jeffrey Epstein\n2. NO PASSENGERS\n3.\n4.\n5.\n6.\n7.\n8.\n9.\n10.\n11.\n12.\n13.\n\nCOMMENTS\n\nFROM Identifier Defined\nCity WEST PALM BEACH\nState or Country FL\nTO Identifier Defined\nCity ST THOMAS\nState or Country USVI\nNautical Miles 985\nStatute Miles 1333\nGallons 1650 Pounds 9988 AIRFRAME 98388\nFlight Time 2+23 24\nAltitude FL 410 98412\nTAKE-OFF POWER Night 1.0\nFlex Take-Off T/L 111\nMin Take-Off IMC .1\nCondition Approach P\n\n07/26/17 Page 141 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032180",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "HYPERION AIR, INC.\nPASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "B.J. Hammond",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: N909JG Type: G-1159B Pilots: Dave Rodgers, Larry Visoski",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "9 - 2 , 2005 PBI TIST 5 : 13 AM PM 7 : 36 AM PM 1812",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGERS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1. Jeffrey Epstein\n2. NO PASSENGERS",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FROM Identifier Defined\nTO Identifier Defined",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "City WEST PALM BEACH\nState or Country FL\nCity ST THOMAS\nState or Country USVI\nNautical Miles 985\nStatute Miles 1333\nGallons 1650 Pounds 9988 AIRFRAME 98388\nFlight Time 2+23 24\nAltitude FL 410 98412",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TAKE-OFF POWER\nFlex Take-Off\nMin Take-Off\nCondition",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "Night 1.0\nT/L 111\nIMC .1\nApproach P",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "COMMENTS",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 141 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032180",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Dave Rodgers",
+      "Larry Visoski",
+      "B.J. Hammond"
+    ],
+    "organizations": [
+      "Hyperion Air, Inc."
+    ],
+    "locations": [
+      "West Palm Beach",
+      "St Thomas",
+      "FL",
+      "USVI",
+      "PBI",
+      "TIST"
+    ],
+    "dates": [
+      "9-2-2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N909JG",
+      "G-1159B",
+      "1812",
+      "17-295",
+      "DOJ-OGR-00032180"
+    ]
+  },
+  "additional_notes": "The document is a passenger manifest for a flight operated by Hyperion Air, Inc. on September 2, 2005. The flight was from West Palm Beach (PBI) to St Thomas (TIST). The manifest lists Jeffrey Epstein as the only passenger. The document contains handwritten notes and appears to be a faxed copy."
+}

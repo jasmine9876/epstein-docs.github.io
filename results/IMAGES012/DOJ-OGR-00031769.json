@@ -1,0 +1,59 @@
+{
+  "document_metadata": {
+    "page_number": "48",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Message slips",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR J.E DATE 6/10/05 TIME 5:04 M Maik Saks OF PHONE/MOBILE 917 716 - 9111 TELEPHONED X PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED J IMPORTANT MESSAGE FOR J.E DATE 6/10/05 TIME 10:35 M Svetlana OF PHONE/MOBILE 917 774 - 3061 TELEPHONED X PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED J IMPORTANT MESSAGE FOR DATE TIME A.M. P.M. M OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE 07/26/17 SIGNED Page 48 of 124 IMPORTANT MESSAGE FOR J.E DATE TIME 11:45 A.M. P.M. M Vanessa Moody OF PHONE/MOBILE 6262284738 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED Public Records Request No.: 17-295",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "J.E 6/10/05 5:04 Maik Saks 917 716 - 9111 X J",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "J.E 6/10/05 10:35 Svetlana 917 774 - 3061 X J",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "J.E 11:45 Vanessa Moody 6262284738",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "J.E",
+      "Maik Saks",
+      "Svetlana",
+      "Vanessa Moody"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "6/10/05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "917 716 - 9111",
+      "917 774 - 3061",
+      "6262284738"
+    ]
+  },
+  "additional_notes": "The document appears to be a scan of a page from a binder containing message slips. The page is labeled as 'Page 48 of 124'. The message slips are mostly filled out with handwritten information, including names, phone numbers, and dates. The document is related to a public records request, as indicated by the 'Public Records Request No.: 17-295' stamp on the bottom right."
+}

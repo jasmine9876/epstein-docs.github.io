@@ -1,0 +1,55 @@
+{
+  "document_metadata": {
+    "page_number": "12",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Police Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Call Number: 052160203 Call Type: 008 ALARM/BURG-INTRUSION-PAN Police Entry Day/Tm: 8/04/05 18:30:10 REVIEW 008 ALARM/BURG-INTRUSION-PAN Police Caller Name: Last BENHAM First OPER STEVIE Mid See Caller: Address...: Dr Phone#: 877-280-6549 Mod City/State: Location....: 358 Dr EL BRILLO WY Mod City.......: PALM BEACH Block#: 300 Loc. ID: Mapr.: 10S NARRATIVE 001 called alrm co/they spoke to rep/not responding 20:33:26 001 aud/masterbedroom/655 7626/epstein 18:30:10 000 00:00:00 000 00:00:00 000 00:00:00 1 PDC02A 1 PDC05A F7=Scroll Back F8=Scroll Forward F12=Return No Update 07/26/17 Page 12 of 135 PPublic Records Request No.: 17-295 DOJ-OGR-00031185",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Call Number: 052160203 Call Type: 008 ALARM/BURG-INTRUSION-PAN Police Entry Day/Tm: 8/04/05 18:30:10 REVIEW 008 ALARM/BURG-INTRUSION-PAN Police Caller Name: Last BENHAM First OPER STEVIE Mid See Caller: Address...: Dr Phone#: 877-280-6549 Mod City/State: Location....: 358 Dr EL BRILLO WY Mod City.......: PALM BEACH Block#: 300 Loc. ID: Mapr.: 10S",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "NARRATIVE 001 called alrm co/they spoke to rep/not responding 20:33:26 001 aud/masterbedroom/655 7626/epstein 18:30:10 000 00:00:00 000 00:00:00 000 00:00:00 1 PDC02A 1 PDC05A",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "F7=Scroll Back F8=Scroll Forward F12=Return No Update",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 12 of 135 PPublic Records Request No.: 17-295 DOJ-OGR-00031185",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "BENHAM",
+      "OPER STEVIE",
+      "epstein"
+    ],
+    "organizations": [],
+    "locations": [
+      "PALM BEACH",
+      "EL BRILLO"
+    ],
+    "dates": [
+      "8/04/05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "052160203",
+      "17-295",
+      "DOJ-OGR-00031185"
+    ]
+  },
+  "additional_notes": "The document appears to be a police report with a narrative section detailing an alarm call. The document is from a public records request."
+}

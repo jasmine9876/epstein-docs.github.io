@@ -1,0 +1,97 @@
+{
+  "document_metadata": {
+    "page_number": "96",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "JEGE, INC.\nPASSENGER MANIFEST\nRegistration Number: N908JE Type: B-727-31 Pilots: Dave Rodgers, Larry Visoski Flight Engineer: Larry Morrison\nDATE: 3 -18, 2005 FROM KJFK TO KPBI\nDeparture Arrival Trip Time 10:02 AM Time 12:48 PM Number 331\nPASSENGERS\n1. Jeffrey Epstein\n2. Ghislaine Maxwell\n3. Dana Burns\nFROM Identifier Defined City NEW YORK State or Country NY TO Identifier Defined City WEST PALM BEACH State or Country FL Nautical Miles 894 Statute Miles 1028 Gallons 3435 Pounds 23013 AIRFRAME 33084.1 Flight Time 2+40 27 Altitude FL 330 33086.8",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "JEGE, INC.\nPASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: N908JE Type: B-727-31",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Pilots: Dave Rodgers, Larry Visoski Flight Engineer: Larry Morrison",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "3 -18, 2005",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "KJFK",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "KPBI",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "10:02 AM",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "12:48 PM",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "331",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1. Jeffrey Epstein\n2. Ghislaine Maxwell\n3. Dana Burns",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "NEW YORK\nNY\nWEST PALM BEACH\nFL\n894\n1028\n3435\n23013\n2+40\n330\n33084.1\n27\n33086.8",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Ghislaine Maxwell",
+      "Dana Burns",
+      "Dave Rodgers",
+      "Larry Visoski",
+      "Larry Morrison"
+    ],
+    "organizations": [
+      "JEGE, INC."
+    ],
+    "locations": [
+      "New York",
+      "West Palm Beach",
+      "KJFK",
+      "KPBI"
+    ],
+    "dates": [
+      "3-18, 2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N908JE",
+      "17-295",
+      "331"
+    ]
+  },
+  "additional_notes": "The document is a passenger manifest for a flight on March 18, 2005. It includes the names of the passengers and crew members, as well as flight details such as departure and arrival times, and fuel consumption."
+}

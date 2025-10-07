@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "214",
+    "document_number": "17-295",
+    "date": "7/26/17, 1/20/02",
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR Kirkwell DATE May 23, 2002 TIME 2:45 P.M. OF Mr. Potts PHONE TELEPHONED PLEASE CALL RETURNED YOUR CALL MESSAGE SIGNED 3/31 IMPORTANT MESSAGE FOR MK Kirkwell DATE 1/20/02 TIME M. Kowalstal OF PHONE 646-232-2111 TELEPHONED PLEASE CALL MESSAGE SIGNED 7/26/17 7/5 IMPORTANT MESSAGE FOR Mike Kirkwell DATE May 23, 2002 TIME P.M. OF PHONE TELEPHONED PLEASE CALL RETURNED YOUR CALL MESSAGE SIGNED 7/26/17 IMPORTANT MESSAGE FOR DATE 1/20/02 TIME OF PHONE TELEPHONED PLEASE CALL MESSAGE SIGNED Public Records Request No.: 17-295",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Kirkwell, May 23, 2002, 2:45 P.M., Mr. Potts, RETURNED YOUR CALL",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "MK Kirkwell, 1/20/02, 646-232-2111, 7/26/17 7/5",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Mike Kirkwell, May 23, 2002, RETURNED YOUR CALL, 7/26/17",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1/20/02, Public Records Request No.: 17-295",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Kirkwell",
+      "Mr. Potts",
+      "MK Kirkwell",
+      "Mike Kirkwell",
+      "Kowalstal"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "May 23, 2002",
+      "1/20/02",
+      "7/26/17",
+      "7/5"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "646-232-2111"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned image of a page from a notebook containing four 'Important Message' forms. The forms are filled out with handwritten notes, and some of the writing is difficult to decipher. The page is labeled as 'Page 214' and has a 'Public Records Request No.: 17-295' notation at the bottom."
+}

@@ -1,0 +1,55 @@
+{
+  "document_metadata": {
+    "page_number": "62",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Public Records Request Response",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "28) (a) = Operator #\n(b) = Computer Terminal ID #\n(c) = Sender's Identification: (Type\\Number\\Issuing State)\nDOMESTIC\n\"1\" = Driver's License\n\"2\" = Passport\n\"3\" = State ID\n\"4\" = Government ID\n\"5\" = Alien ID\n(d) = Date/time transaction accessed\nINTERNATIONAL\n\"A\" = Passport\n\"B\" = National Identification Card\n\"C\" = Driver's License\n\"D\" = Other Government Issued ID\n\"E\" = Other\n\n29) (a) = Operator #\n(b) = Computer Terminal ID #\n(c) = Payee's Identification: (Type\\Number\\Issuing State)\nDOMESTIC\n\"1\" = Driver's License\n\"2\" = Passport\n\"3\" = State ID\n\"4\" = Government ID\n\"5\" = Alien ID\n(d) = Date/time transaction accessed\nINTERNATIONAL\n\"A\" = Passport\n\"B\" = National Identification Card\n\"C\" = Driver's License\n\"D\" = Other Government Issued ID\n\"E\" = Other\n\n30) (a) = Operator #\n(b) = Computer Terminal ID #\n(c) = Payee's Address\n(d) = Date/time transaction accessed\n\n31) (a) = Operator #\n(b) = Computer Terminal ID #\n(c) = Payee's Telephone Number\n(d) = Date/time transaction accessed\n\n32) Senders name, senders address, payee name, senders phone #, recording operator #, amount quoted including fee, sending agent id #, sending agent phone #\n\n07/26/17 Page 62 of 81 Public Records Request No.: 17-295",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "28) (a) = Operator #\n(b) = Computer Terminal ID #\n(c) = Sender's Identification: (Type\\Number\\Issuing State)\nDOMESTIC\n\"1\" = Driver's License\n\"2\" = Passport\n\"3\" = State ID\n\"4\" = Government ID\n\"5\" = Alien ID\n(d) = Date/time transaction accessed\nINTERNATIONAL\n\"A\" = Passport\n\"B\" = National Identification Card\n\"C\" = Driver's License\n\"D\" = Other Government Issued ID\n\"E\" = Other",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "29) (a) = Operator #\n(b) = Computer Terminal ID #\n(c) = Payee's Identification: (Type\\Number\\Issuing State)\nDOMESTIC\n\"1\" = Driver's License\n\"2\" = Passport\n\"3\" = State ID\n\"4\" = Government ID\n\"5\" = Alien ID\n(d) = Date/time transaction accessed\nINTERNATIONAL\n\"A\" = Passport\n\"B\" = National Identification Card\n\"C\" = Driver's License\n\"D\" = Other Government Issued ID\n\"E\" = Other",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "30) (a) = Operator #\n(b) = Computer Terminal ID #\n(c) = Payee's Address\n(d) = Date/time transaction accessed",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "31) (a) = Operator #\n(b) = Computer Terminal ID #\n(c) = Payee's Telephone Number\n(d) = Date/time transaction accessed",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "32) Senders name, senders address, payee name, senders phone #, recording operator #, amount quoted including fee, sending agent id #, sending agent phone #",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 62 of 81 Public Records Request No.: 17-295",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295"
+    ]
+  },
+  "additional_notes": "The document appears to be a page from a larger report or document related to a public records request. The content is related to identification types and transaction details. The document is typed and does not contain any handwritten text or stamps."
+}

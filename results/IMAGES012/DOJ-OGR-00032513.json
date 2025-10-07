@@ -1,0 +1,78 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00032513",
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR J.E. DATE 1/30/05 TIME 7:35 A.M. M Vanessa Modely OF her new phone number PHONE/MOBILE (805) 452-7254 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Just to let you Know my new phone number SIGNED IMPORTANT MESSAGE FOR J.E. DATE 2/2/05 TIME 1:22 P.M. M Gibson Co. OF PHONE/MOBILE (888) 274-5101 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Please call them about Texaco stock ID # 3108 SIGNED IMPORTANT MESSAGE FOR J.E. DATE 2/3/05 TIME 10:12 A.M. M [redacted] OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Please call her back SIGNED IMPORTANT MESSAGE FOR J.E. DATE 2/5/05 TIME 3:05 P.M. M Glen and Eva OF (914) 669-4651 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED Public Records Request No. 17-295",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Vanessa Modely her new phone number (805) 452-7254 Just to let you Know my new phone number",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Gibson Co. (888) 274-5101 Please call them about Texaco stock ID # 3108",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "[redacted] Please call her back",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Glen and Eva (914) 669-4651",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No. 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032513",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "J.E.",
+      "Vanessa Modely",
+      "Glen",
+      "Eva"
+    ],
+    "organizations": [
+      "Gibson Co.",
+      "Texaco"
+    ],
+    "locations": [],
+    "dates": [
+      "1/30/05",
+      "2/2/05",
+      "2/3/05",
+      "2/5/05"
+    ],
+    "reference_numbers": [
+      "ID # 3108",
+      "Public Records Request No. 17-295",
+      "DOJ-OGR-00032513"
+    ]
+  },
+  "additional_notes": "The document is a set of four 'Important Message' forms with handwritten notes. Some information is redacted."
+}

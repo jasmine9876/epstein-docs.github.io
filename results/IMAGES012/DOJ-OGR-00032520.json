@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "301-3101",
+    "date": null,
+    "document_type": "note",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Lynn & JoJo\n1. I sent Lucian & Rushia's mail to their correct address and called Post office to make sure all future mail will be sent to them.\n2. I scheduled the cable company to come on Thursday. This is their soonest appointment. Ghislaine asked me to make an appointment because the TV in the Blue Room does not get a clear reception.\n3. Shutter company will come early Thursday to measure shutter next to Ghislaine's desk. The shutter will not roll down.\n* Both cable company & shutter company will call me on my cell phone to make sure Jeffrey & Ghislaine are not here.\nJeffrey E. Epstein\n# 301-3101\nNicole\nDOJ-OGR-00032520",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "Lynn & JoJo",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "1. I sent Lucian & Rushia's mail to their correct address and called Post office to make sure all future mail will be sent to them.\n2. I scheduled the cable company to come on Thursday. This is their soonest appointment. Ghislaine asked me to make an appointment because the TV in the Blue Room does not get a clear reception.\n3. Shutter company will come early Thursday to measure shutter next to Ghislaine's desk. The shutter will not roll down.\n* Both cable company & shutter company will call me on my cell phone to make sure Jeffrey & Ghislaine are not here.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffrey E. Epstein\n# 301-3101",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "Nicole",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032520",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Lynn",
+      "JoJo",
+      "Lucian",
+      "Rushia",
+      "Ghislaine",
+      "Jeffrey",
+      "Nicole",
+      "Jeffrey E. Epstein"
+    ],
+    "organizations": [
+      "Post office",
+      "cable company",
+      "Shutter company"
+    ],
+    "locations": [
+      "Blue Room"
+    ],
+    "dates": [
+      "Thursday"
+    ],
+    "reference_numbers": [
+      "301-3101",
+      "DOJ-OGR-00032520"
+    ]
+  },
+  "additional_notes": "The document appears to be a handwritten note with three main points regarding tasks completed or to be completed. The note is addressed to Lynn & JoJo and signed off with a reference number. The handwriting is generally legible, but there are some minor inconsistencies in formatting and spelling."
+}

@@ -1,0 +1,69 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "06-6702",
+    "date": "01/21/2006",
+    "document_type": "Incident Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Incident Report CHEROKEE COUNTY SHERIFF'S OFFICE 498 CHATTIN DRIVE (678) 493-4200 J6-6702 ORIG Supplement No ORIG Reported Date 01/21/2006 Nature of Call MIS PER Officer BRYANT, CHRISTOPHER Administrative Information Agency CHEROKEE COUNTY SHERIFF'S OFFICE Report No 06-6702 Supplement No ORIG Reported Date 01/21/2006 Reported Time 09:08 CAD Call No 060011543 Status INCIDENT REPORT Nature of Call MISSING PERSON (ADULT) City CANTON Zip Code CANTON From Date 01/20/2006 From Time 19:00 To Date 01/21/2006 To Time 13:00 Officer 000025/BRYANT, CHRISTOPHER 2nd Officer BRYANT, CHRISTOPHER Assignment ADULT DETENTION CENTER Assignment ADULT DETENTION CENTER Entered by 000025 Assignment RMS Transfer Approving Officer 000455 Approval Time 07:00:19 Successful Approval Date 01/23/2006 Person Summary InvI InvI No Type Name CLR 2 I InvI InvI No Name JUV 1 See Confidential Page MNI 264217 Race W Sex F Date of Birth 03/17/1969 Report Officer 000025/BRYANT, CHRISTOPHER Printed At 06/06/2006 11:12 Page 1 of 3 07/26/17 Page 50 of 95 Public Records Request No.: 17-295 DOJ-OGR-00032240",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Incident Report CHEROKEE COUNTY SHERIFF'S OFFICE 498 CHATTIN DRIVE (678) 493-4200",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Administrative Information",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Person Summary",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Report Officer 000025/BRYANT, CHRISTOPHER Printed At 06/06/2006 11:12 Page 1 of 3",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 50 of 95 Public Records Request No.: 17-295 DOJ-OGR-00032240",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "BRYANT, CHRISTOPHER"
+    ],
+    "organizations": [
+      "CHEROKEE COUNTY SHERIFF'S OFFICE",
+      "ADULT DETENTION CENTER"
+    ],
+    "locations": [
+      "CANTON",
+      "CHATTIN DRIVE"
+    ],
+    "dates": [
+      "01/20/2006",
+      "01/21/2006",
+      "01/23/2006",
+      "03/17/1969",
+      "06/06/2006",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "06-6702",
+      "060011543",
+      "000025",
+      "000455",
+      "264217",
+      "17-295",
+      "DOJ-OGR-00032240"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned incident report from the Cherokee County Sheriff's Office. The report is related to a missing person case. The document is in good condition with clear text."
+}

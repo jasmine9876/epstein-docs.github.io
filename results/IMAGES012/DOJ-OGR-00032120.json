@@ -1,0 +1,79 @@
+{
+  "document_metadata": {
+    "page_number": "81",
+    "document_number": "17-295",
+    "date": "11_2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "JEGE, INC.\nPASSENGER MANIFEST\nRegistration Number: N908JE Type: B-727-31 Pilots: Dave Rodgers, Larry Visoski Flight Engineer: Larry Morrison\nDATE: 1_11_2005 FROM PBI TO TIST\nDeparture Arrival Trip Time 8:03 AM Time 11:14 AM Number 310\nPASSENGERS\n1. Jeffrey Epstein FROM Identifier Defined\n2. SARAH KELLEN City WEST PALM BEACH\n3. NADIA MARCENKOVA State or Country FL\n4. FEMALE TO Identifier Defaulted\n5. FEMALE City ST. THOMAS\n6. State or Country USVI\n7. Nautical Miles 975\n8. Statute Miles 1121\n9. Gallons 3410 AIRFRAME\n10. Pounds 18669 33042.1\n11. Flight Time 2+10 22\n12. Altitude FL 370 33044.3\n13. 20. Night 2.8\n14. 21. T/L 1.1\n15. 22. IMC 2.0\n16. 23. Approach\n17. 24.\n18. 25.\n19. 26.\n07/26/17 Page 81 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032120",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "JEGE, INC.\nPASSENGER MANIFEST",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: N908JE Type: B-727-31 Pilots: Dave Rodgers, Larry Visoski Flight Engineer: Larry Morrison",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "1_11_2005 PBI TIST\n8:03 AM 11:14 AM 310",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGERS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1. Jeffrey Epstein\n2. SARAH KELLEN\n3. NADIA MARCENKOVA\n4. FEMALE\n5. FEMALE",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "WEST PALM BEACH FL\nST. THOMAS USVI\n975\n1121\n3410\n18669\n2+10\n370\n2.8\n1.1\n2.0",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 81 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032120",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Sarah Kellen",
+      "Nadia Marcenkova",
+      "Dave Rodgers",
+      "Larry Visoski",
+      "Larry Morrison"
+    ],
+    "organizations": [
+      "JEGE, INC."
+    ],
+    "locations": [
+      "West Palm Beach",
+      "Palm Beach",
+      "St. Thomas",
+      "USVI",
+      "FL"
+    ],
+    "dates": [
+      "1_11_2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N908JE",
+      "17-295",
+      "DOJ-OGR-00032120",
+      "310"
+    ]
+  },
+  "additional_notes": "The document is a passenger manifest for a flight on a B-727-31 aircraft. The document contains handwritten entries for passengers and flight details. The document is part of a larger collection of public records."
+}

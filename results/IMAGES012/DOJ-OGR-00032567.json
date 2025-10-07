@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": "2254",
+    "document_number": "DOJ-OGR-00032567",
+    "date": "07/26/17",
+    "document_type": "Important Message Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR DATE TIME A.M. P.M. M OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED IMPORTANT MESSAGE FOR Jeffery DATE 11/12/05 TIME 3:35 A.M. P.M. M Jeff OF TELEPHONED CAME TO SEE YOU PLEASE CALL WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED IMPORTANT MESSAGE FOR DATE TIME A.M. P.M. M OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED IMPORTANT MESSAGE FOR JE DATE M COLLEEN OF PHONE/MOBILE 640.289.6551 TELEPHONED CAME TO SEE YOU PLEASE CALL WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Good backe 07/26/17 Page 2254 Public Records Request No.: 17-295 DOJ-OGR-00032567",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE FOR DATE TIME A.M. P.M. M OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffery 11/12/05 3:35 Jeff",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE FOR DATE TIME A.M. P.M. M OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "JE COLLEEN 640.289.6551 Good backe",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 2254 Public Records Request No.: 17-295 DOJ-OGR-00032567",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffery",
+      "Jeff",
+      "JE",
+      "COLLEEN"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "11/12/05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032567",
+      "640.289.6551"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned copy of a message log from a notebook. The pages are numbered, and there is a public records request number and a DOJ reference number at the bottom of the page."
+}

@@ -1,0 +1,73 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00032445",
+    "date": "07/26/17",
+    "document_type": "Important Message",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR JT DATE Amanda TIME 3:30 P.M. OF PHONE 6582 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 1184 IMPORTANT MESSAGE FOR JE DATE 09/02/03 TIME 13:30 P.M. M Amanda OF PHONE 6594 2458 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED MICHAEL 1184 IMPORTANT MESSAGE FOR JE DATE TIME A.M. P.M. M OF PHONE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 07/26/17 Page 2132 IMPORTANT MESSAGE FOR JE DATE 09/02/03 TIME 2:15 P.M. M Alana OF PHONE 917 345 3107 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED Public Records Request No.: 17-295 1184 DOJ-OGR-00032445",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "JT Amanda 3:30 P.M. 6582",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "FOR DATE TIME OF PHONE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "JE 09/02/03 13:30 P.M. Amanda 6594 2458 MICHAEL",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "FOR DATE TIME M OF PHONE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "JE 09/02/03 2:15 P.M. Alana 917 345 3107",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032445",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JT",
+      "JE",
+      "Amanda",
+      "Alana",
+      "MICHAEL"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "09/02/03",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032445"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned image of a notepad with four 'Important Message' forms filled out. The forms contain handwritten notes with names, dates, times, and phone numbers. The document quality is clear, with no visible redactions or damage."
+}

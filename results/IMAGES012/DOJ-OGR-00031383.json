@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": "5",
+    "document_number": "17-295",
+    "date": "September 22, 2005",
+    "document_type": "Subpoena",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "Dec. 13 2005 3:25PM PALM BEACH POLICE 5618385491 P.5 OFFICE OF THE STATE ATTORNEY FIFTEENTH JUDICIAL CIRCUIT OF FLORIDA IN AND FOR PALM BEACH COUNTY September 22, 2005 TO WHOM IT MAY CONCERN: Pursuant to an official investigation of a suspected felony being conducted by the Town of Palm Beach Police Department is requested that your company furnish INSTANTER, information requested in State Attorney Subpoena # 05-595 PURSUANT TO FLORIDA STATE STATUTE 896.101(10), YOU ARE NOT TO DISCLOSE THE EXISTENCE OF THIS REQUEST. Any such disclosure could obstruct and impede the investigation being conducted and thereby interfere with the enforcement of the law. Thank you for your cooperation. Detective Joe Recarey Sworn to and subscribed before me this 22nd day of September, 2005. Sarah Ruth Orsak NOTARY PUBLIC SHARON LYN BOLTNE Expires August 15, 2007 07/26/17 Page 75 of 102 Public Records Request No.: 17-295 DOJ-OGR-00031383",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "OFFICE OF THE STATE ATTORNEY FIFTEENTH JUDICIAL CIRCUIT OF FLORIDA IN AND FOR PALM BEACH COUNTY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "TO WHOM IT MAY CONCERN: Pursuant to an official investigation of a suspected felony being conducted by the Town of Palm Beach Police Department is requested that your company furnish INSTANTER, information requested in State Attorney Subpoena # 05-595 PURSUANT TO FLORIDA STATE STATUTE 896.101(10), YOU ARE NOT TO DISCLOSE THE EXISTENCE OF THIS REQUEST. Any such disclosure could obstruct and impede the investigation being conducted and thereby interfere with the enforcement of the law. Thank you for your cooperation.",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "Detective Joe Recarey",
+      "position": "body"
+    },
+    {
+      "type": "stamp",
+      "content": "SHARON LYN BOLTNE Expires August 15, 2007",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Sworn to and subscribed before me this 22nd day of September, 2005. Sarah Ruth Orsak NOTARY PUBLIC",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Joe Recarey",
+      "Sarah Ruth Orsak",
+      "Sharon Lyn Boltne"
+    ],
+    "organizations": [
+      "Town of Palm Beach Police Department",
+      "Office of the State Attorney"
+    ],
+    "locations": [
+      "Palm Beach County",
+      "Florida"
+    ],
+    "dates": [
+      "September 22, 2005",
+      "August 15, 2007",
+      "December 13, 2005",
+      "July 26, 2017"
+    ],
+    "reference_numbers": [
+      "05-595",
+      "17-295",
+      "DOJ-OGR-00031383",
+      "5618385491"
+    ]
+  },
+  "additional_notes": "The document is a subpoena issued by the Office of the State Attorney. It contains a handwritten signature of Detective Joe Recarey and a notary stamp. The document is page 5 of a larger document."
+}

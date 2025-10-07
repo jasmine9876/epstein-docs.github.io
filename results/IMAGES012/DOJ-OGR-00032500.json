@@ -1,0 +1,83 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Important Message Slips",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR J.E. DATE 1.8.05 TIME 4:05 A.M. P.M. M s Amya OF PHONE/MOBILE (818) 445-9879 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Please call me back I SIGNED R a 1184 IMPORTANT MESSAGE FOR Jeffrey DATE 6/20/05 TIME 10 A.M. P.M. M Nadia OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Please call for SIGNED a 1184 IMPORTANT MESSAGE FOR J.E. DATE 1.8.05 TIME 4:55 A.M. P.M. Mr Copra hold OF Call (702) 235 5555 PHONE/MOBILE (212) 753-6555 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Please cell him SIGNED R a 1187 IMPORTANT MESSAGE FOR 04/10/05 8:50 DATE on Lee TIME A.M. P.M. OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE having if you have called him he has st for some allsage for you SIGNED Public Records Request No. 17-295 a 1184 DOJ-OGR-00032500",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "J.E. 1.8.05 4:05 Amya (818) 445-9879 Please call me back R",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffrey 6/20/05 10 Nadia Please call for",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "J.E. 1.8.05 4:55 Copra hold (702) 235 5555 (212) 753-6555 Please cell him R",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "04/10/05 8:50 on Lee having if you have called him he has st for some allsage for you Public Records Request No. 17-295",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032500",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "J.E.",
+      "Jeffrey",
+      "Amya",
+      "Nadia",
+      "Copra hold",
+      "on Lee"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "1.8.05",
+      "6/20/05",
+      "04/10/05"
+    ],
+    "reference_numbers": [
+      "(818) 445-9879",
+      "(702) 235 5555",
+      "(212) 753-6555",
+      "17-295",
+      "DOJ-OGR-00032500"
+    ]
+  },
+  "additional_notes": "The document appears to be a set of four 'Important Message' slips, likely from a professional or business setting. The slips contain handwritten notes with names, dates, times, phone numbers, and messages. The handwriting varies across the slips, suggesting different individuals took the messages. There are no visible redactions or significant damage to the document."
+}

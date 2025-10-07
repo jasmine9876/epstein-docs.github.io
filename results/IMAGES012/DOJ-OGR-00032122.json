@@ -1,0 +1,90 @@
+{
+  "document_metadata": {
+    "page_number": "83 of 151",
+    "document_number": "17-295",
+    "date": "1-17-2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "JEGE, INC. PASSENGER MANIFEST Registration Number: N908JE Type: B-727-31 Pilots: Dave Rodgers, Larry Visotki Flight Engineer: Larry Morrison DATE: 1-17-2005 FROM PBT TO JFK Departure Time 5:10 AM Arrival Time 7:39 AM Trip Number 312 PASSENGERS 1. Jeffrey Epstein FROM Identifier Defined City WEST PALM BCH 2. Ghislaine Maxwell State or Country FL 3. Sarah Kellen TO Identifier Defined City NEW YORK 4. David Muller State or Country NY 5. Nadia Marcinkova Nautical Miles 894 6. Andrea Statute Miles 1028 7. Ted Myster Gallons 2415 8. Pago POUNDS 21200 9. Pago AIRFRAME 33046.8 10. Flight Time 2:28 25 11. Altitude FL FL370 33049.3 12. 20. Night 13. 21. T/L 1 14. 22. IMC 15. 23. Approach 16. 24. 17. 25. 18. 26. 19. 07/26/17 Page 83 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032122",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "JEGE, INC. PASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: N908JE Type: B-727-31 Pilots: Dave Rodgers, Larry Visotki Flight Engineer: Larry Morrison",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "1-17-2005 PBT JFK 5:10 AM 7:39 AM 312",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGERS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1. Jeffrey Epstein 2. Ghislaine Maxwell 3. Sarah Kellen 4. David Muller 5. Nadia Marcinkova 6. Andrea 7. Ted Myster 8. Pago 9. Pago",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "WEST PALM BCH FL NEW YORK NY 894 1028 2415 21200 2:28 FL370 33049.3 1",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032122",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Ghislaine Maxwell",
+      "Sarah Kellen",
+      "David Muller",
+      "Nadia Marcinkova",
+      "Andrea",
+      "Ted Myster",
+      "Pago",
+      "Dave Rodgers",
+      "Larry Visotki",
+      "Larry Morrison"
+    ],
+    "organizations": [
+      "JEGE, INC."
+    ],
+    "locations": [
+      "West Palm Beach",
+      "Palm Beach",
+      "Florida",
+      "New York",
+      "PBT",
+      "JFK"
+    ],
+    "dates": [
+      "1-17-2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N908JE",
+      "17-295",
+      "DOJ-OGR-00032122",
+      "312"
+    ]
+  },
+  "additional_notes": "The document is a passenger manifest for a flight on January 17, 2005, operated by JEGE, INC. The flight was from PBT to JFK and carried 9 passengers, including Jeffrey Epstein and Ghislaine Maxwell. The document contains handwritten notes and appears to be a photocopy or scan of the original."
+}

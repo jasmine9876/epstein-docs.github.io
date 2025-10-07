@@ -1,0 +1,76 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00032495",
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR Mr. J.E DATE 12/13/04 TIME 9:36 A.M. P.M. M OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Just tell him that I called SIGNED a 1184 IMPORTANT MESSAGE FOR Jeffery DATE 12/14/04 TIME 3:53 A.M. P.M. M OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Helly called hi:561 308 0282 SIGNED a 1184 IMPORTANT MESSAGE FOR Jeffery DATE 12/14/04 TIME A.M. P.M. M Sarah OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Called to Remind you of Ms. G's fathers papers on here in PB. (Should they come back to NY?) SIGNED for 07/26/17 a 1184 Page 2182 IMPORTANT MESSAGE FOR Mr. J.E DATE 12/16/04 TIME 2:23 A.M. P.M. M Dr.zen OF PHONE (561)379-5467 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE L SIGNED a 1184 Public Records Request No.: 17-295 DOJ-OGR-00032495",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Mr. J.E\n12/13/04\n9:36\nJust tell him that I called",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffery\n12/14/04\n3:53\nHelly called\nhi:561 308 0282",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffery\n12/14/04\nSarah\nCalled to Remind you of Ms. G's fathers papers on here in PB. (Should they come back to NY?)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Mr. J.E\n12/16/04\n2:23\nDr.zen\n(561)379-5467",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032495",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Mr. J.E",
+      "Jeffery",
+      "Helly",
+      "Sarah",
+      "Ms. G",
+      "Dr.zen"
+    ],
+    "organizations": [],
+    "locations": [
+      "NY",
+      "PB"
+    ],
+    "dates": [
+      "12/13/04",
+      "12/14/04",
+      "12/16/04",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032495",
+      "(561)379-5467",
+      "561 308 0282"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned image of four 'Important Message' forms, likely from a office or business setting. The forms contain handwritten notes and messages, with some dates and times recorded. The document quality is generally good, with some minor blurring and scanning artifacts. There are no visible redactions or damage to the document."
+}

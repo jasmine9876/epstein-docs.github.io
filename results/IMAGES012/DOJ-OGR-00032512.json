@@ -1,0 +1,83 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR Mr. J.E DATE 1/29/05 TIME 10:00 A.M. M Mic OF PHONE/MOBILE (317) 774-4552 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Please call her. SIGNED IMPORTANT MESSAGE FOR Mr. J.F DATE 1/29/05 TIME 10:10 A.M. M J Coch OF Brazil PHONE/MOBILE 00551183834951 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE This is her new call. number. Please call her SIGNED JR IMPORTANT MESSAGE FOR J.E DATE 1/29/05 TIME 9:00 A.M. M Technik OF PHONE/MOBILE (501) 667-1372 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Please call her back SIGNED 07/29/17 IMPORTANT MESSAGE FOR J.E DATE 1/30/05 TIME 4:10 A.M. M OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE I have a female for him SIGNED Public Records Request No.: 17-295",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Mr. J.E 1/29/05 10:00 A.M. Mic (317) 774-4552 Please call her.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Mr. J.F 1/29/05 10:10 A.M. J Coch Brazil 00551183834951 This is her new call. number. Please call her JR",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "J.E 1/29/05 9:00 A.M. Technik (501) 667-1372 Please call her back",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "J.E 1/30/05 4:10 A.M.  I have a female for him",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Public Records Request No.: 17-295",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Mr. J.E",
+      "Mr. J.F",
+      "J Coch",
+      "JR",
+      "Technik"
+    ],
+    "organizations": [],
+    "locations": [
+      "Brazil"
+    ],
+    "dates": [
+      "1/29/05",
+      "1/30/05",
+      "07/29/17"
+    ],
+    "reference_numbers": [
+      "(317) 774-4552",
+      "(501) 667-1372",
+      "00551183834951",
+      "17-295"
+    ]
+  },
+  "additional_notes": "The document appears to be a collection of 'Important Message' forms, likely from a business or organizational setting. The forms contain handwritten notes and phone messages for various individuals. Some of the handwriting is difficult to decipher, but the overall content is clear. There are no visible redactions or significant damage to the document."
+}

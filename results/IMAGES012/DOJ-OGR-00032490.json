@@ -1,0 +1,59 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "telephone message slips",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR Sarah DATE 11-4-04 TIME 2:40 A.M. OF PHONE/MOBILE 644.7226 TELEPHONED PLEASE CALL MESSAGE Return [REDACTED] Cost SIGNED IMPORTANT MESSAGE FOR Tracy DATE 11-4-04 TIME 2:55 P.M. M. From Sarah TELEPHONED PLEASE CALL MESSAGE [REDACTED] would like to work @ 4:00 pm possible. [REDACTED] is scheduled for 5.00 today the movie is @ 7:30 SIGNED IMPORTANT MESSAGE FOR Sarah DATE 12/6/04 TIME 1:00 A.M. M. Brancy OF PHONE/MOBILE 561)965-6857 TELEPHONED PLEASE CALL MESSAGE Please call her SIGNED IMPORTANT MESSAGE FOR Mr. J.E. DATE 12/6/04 TIME 1:30 P.M. M. Harry Baller OF PHONE/MOBILE (212) 750-1176 TELEPHONED SPECIAL ATTENTION MESSAGE Returning your Cell SIGNED",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR Sarah DATE 11-4-04 TIME 2:40 A.M. OF PHONE/MOBILE 644.7226 TELEPHONED PLEASE CALL MESSAGE Return [REDACTED] Cost SIGNED",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR Tracy DATE 11-4-04 TIME 2:55 P.M. M. From Sarah TELEPHONED PLEASE CALL MESSAGE [REDACTED] would like to work @ 4:00 pm possible. [REDACTED] is scheduled for 5.00 today the movie is @ 7:30 SIGNED",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR Sarah DATE 12/6/04 TIME 1:00 A.M. M. Brancy OF PHONE/MOBILE 561)965-6857 TELEPHONED PLEASE CALL MESSAGE Please call her SIGNED",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR Mr. J.E. DATE 12/6/04 TIME 1:30 P.M. M. Harry Baller OF PHONE/MOBILE (212) 750-1176 TELEPHONED SPECIAL ATTENTION MESSAGE Returning your Cell SIGNED",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Sarah",
+      "Tracy",
+      "Brancy",
+      "Mr. J.E.",
+      "Harry Baller"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "11-4-04",
+      "12/6/04"
+    ],
+    "reference_numbers": [
+      "644.7226",
+      "561)965-6857",
+      "(212) 750-1176"
+    ]
+  },
+  "additional_notes": "The document contains four telephone message slips with handwritten notes. Some information is redacted."
+}

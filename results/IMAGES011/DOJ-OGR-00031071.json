@@ -1,0 +1,72 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "17-295",
+    "date": "10/24/2005",
+    "document_type": "Community Service Documentation Form",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "10/24/2005 18:09 905426545454 RAINOPSHINE Faxed to narty 10/24/05 6:10pm PAGE 03 COMMUNITY SERVICE DOCUMENTATION FORM VOLUNTEER: DATE TIME IN/OUT DESCRIPTION OF DUTY AUTHORIZED BY 10-20-05 8am - 10:15 am childcare 705-2766 cell 2.25hrs 10-20-05 10:45am -4:45 pm office work (copies, filing etc.) Ellin M. Finley 278-9237 705-2766 cell 6 hrs 10-21-05 8-1:30pm childcare Rod M. Matheson 4.5hrs 10-23-05 10 -4 pm childcare Rod M. Matheson 6 hrs 3 of 3 Total: 18.75 hrs 07/26/17 Page 74 of 95 Public Records Request No.: 17-295 DOJ-OGR-00031071",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "COMMUNITY SERVICE DOCUMENTATION FORM",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Faxed to narty 10/24/05 6:10pm",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "VOLUNTEER:",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "10-20-05 8am - 10:15 am childcare 705-2766 cell 2.25hrs",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "10-20-05 10:45am -4:45 pm office work (copies, filing etc.) Ellin M. Finley 278-9237 705-2766 cell 6 hrs",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "10-21-05 8-1:30pm childcare Rod M. Matheson 4.5hrs",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "10-23-05 10 -4 pm childcare Rod M. Matheson 6 hrs",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "3 of 3 Total: 18.75 hrs",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ellin M. Finley",
+      "Rod M. Matheson"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "10/20/2005",
+      "10/21/2005",
+      "10/23/2005",
+      "10/24/2005"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00031071"
+    ]
+  },
+  "additional_notes": "The document is a community service documentation form filled out by hand. It contains information about the volunteer's activities and hours worked."
+}

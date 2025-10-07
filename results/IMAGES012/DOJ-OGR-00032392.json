@@ -1,0 +1,90 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00032392",
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR SARAHIN DATE 07/10/04 TIME 6.33 P.M. M SCHANDLER OF RAGHUN PHONE/MOBILE 646 791 0644 TELEPHONED PLEASE CALL MESSAGE PL CALL CALLED SIGNED 1184 IMPORTANT MESSAGE FOR MR EPSTEIN DATE TIME 9.1 A.M. P.M. M CECILIA (OFFICE) OF PHONE/MOBILE 212 759 1176 21 TELEPHONED PLEASE CALL MESSAGE SIGNED 1184 IMPORTANT MESSAGE FOR SARAHIT DATE 7/9/04 TIME 10.31 A.M. M MILES OF LESLIE (NY OFFICE) PHONE/MOBILE 203 472 4488 TELEPHONED PLEASE CALL MESSAGE SHE IS WORKING F RIDAY SECARATE DAY PL DATE THE ARIVE A HSP SIGNED 07/26 Page 2029 IMPORTANT MESSAGE FOR MR EPSTEIN DATE 7/9/04 TIME 7.50 P.M. MS HAVITIL OF PHONE/MOBILE TELEPHONED PLEASE CALL MESSAGE IS AVAILABLE ON TUESDAY NO ONE FRI TOMORROW SIGNED Public Records Request No.: 17-295 1184 DOJ-OGR-00032392",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "SARAHIN, 07/10/04, 6.33 P.M., SCHANDLER, RAGHUN, 646 791 0644, PL CALL, CALLED",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "MR EPSTEIN, 9.1 A.M., CECILIA (OFFICE), 212 759 1176 21",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "SARAHIT, 7/9/04, 10.31 A.M., MILES, LESLIE (NY OFFICE), 203 472 4488, SHE IS WORKING F RIDAY SECARATE DAY PL DATE THE ARIVE A HSP",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "MR EPSTEIN, 7/9/04, 7.50 P.M., MS HAVITIL, IS AVAILABLE ON TUESDAY NO ONE FRI TOMORROW",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032392",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "SARAHIN",
+      "SCHANDLER",
+      "RAGHUN",
+      "MR EPSTEIN",
+      "CECILIA",
+      "SARAHIT",
+      "MILES",
+      "LESLIE",
+      "MS HAVITIL"
+    ],
+    "organizations": [],
+    "locations": [
+      "NY OFFICE"
+    ],
+    "dates": [
+      "07/10/04",
+      "7/9/04",
+      "07/26"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032392"
+    ]
+  },
+  "additional_notes": "The document appears to be a set of four 'Important Message' forms, likely from a professional or business setting. The forms contain handwritten notes with names, dates, times, phone numbers, and messages. The document quality is generally good, with some minor variations in handwriting legibility."
+}

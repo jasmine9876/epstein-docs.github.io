@@ -1,0 +1,110 @@
+{
+  "document_metadata": {
+    "page_number": "143 of 151",
+    "document_number": "17-295",
+    "date": "09/14/2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "09/14/2005 14:16 FAX\n\nHYPERION AIR, INC.\nPASSENGER MANIFEST\n\nRegistration Number: N909JE Type: G-1159B Pilots: Dave Roggers, Larry Visinski Bill Hammond, DAVE RODGERS\n\nDATE: 9 -10 2005 FROM PBI TO TEB\nDeparture Arrival Trip Time 3:59 PM Time 6:11 PM Number 1214\n\nPASSENGERS\n1. Jeffrey Epstein\n2. Ghislaine maxwese\n3. Dana Burns\n4. Adriana mcmnsPA\n5. Female\n\nFROM Identifier Defined\nCity WEST Palm\nState or Country FL\n\nTO Identifier Defined\nCity TETERBORO\nState or Country NJ\nNautical Miles 954\nStatute Miles 1097\nGallons 1425\nPounds 9477 9843.6\nFlight Time 2+1 2.2\nAltitude FL 410 9845.8\n\nTAKE-OFF POWER Night\nFlex Take-Off T/L 611\nMin Take-Off IMC\nCondition Approach\n\nCOMMENTS\n\n07/26/17 Page 143 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032182",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "HYPERION AIR, INC.\nPASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: N909JE Type: G-1159B Pilots: Dave Roggers, Larry Visinski",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Bill Hammond, DAVE RODGERS",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "9 -10 2005 PBI TEB 3:59 PM 6:11 PM 1214",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGERS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1. Jeffrey Epstein\n2. Ghislaine maxwese\n3. Dana Burns\n4. Adriana mcmnsPA\n5. Female",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FROM Identifier Defined\nTO Identifier Defined",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "WEST Palm FL TETERBORO NJ 954 1097 1425 9477 9843.6 2+1 2.2 410 9845.8",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TAKE-OFF POWER Night\nFlex Take-Off T/L\nMin Take-Off IMC\nCondition Approach",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "611",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "COMMENTS",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 143 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032182",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Ghislaine Maxwell",
+      "Dana Burns",
+      "Adriana",
+      "Bill Hammond",
+      "Dave Rodgers",
+      "Dave Roggers",
+      "Larry Visinski"
+    ],
+    "organizations": [
+      "Hyperion Air, Inc.",
+      "DOJ"
+    ],
+    "locations": [
+      "West Palm",
+      "Florida",
+      "Teterboro",
+      "New Jersey",
+      "PBI",
+      "TEB"
+    ],
+    "dates": [
+      "09/14/2005",
+      "9-10-2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N909JE",
+      "G-1159B",
+      "1214",
+      "17-295",
+      "DOJ-OGR-00032182"
+    ]
+  },
+  "additional_notes": "The document is a passenger manifest for a flight on September 10, 2005, operated by Hyperion Air, Inc. The manifest lists the passengers, flight details, and other relevant information. The document contains handwritten notes and appears to be a faxed copy."
+}

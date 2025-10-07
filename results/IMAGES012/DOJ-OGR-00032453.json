@@ -1,0 +1,77 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00032453",
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR gr DATE TIME A.M. P.M. M DARA OF 7 4 8 946 PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 1184 IMPORTANT MESSAGE FOR JE DATE 10/02 TIME 5:22 A.M. P.M. M ALINA OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN X WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED DEBORAH 1184 IMPORTANT MESSAGE FOR SE DATE 20 TIME 9:25 A.M. P.M. M DARA OF PHONE AREA CODE 704 NUMBER 89946 EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 07/26/17 Page 2140 IMPORTANT MESSAGE FOR SE DATE 7/02/16 TIME 17:50 A.M. P.M. M DARA OF PHONE AREA CODE 704 NUMBER 89946 EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE what time would you like her to come over SIGNED Public Records Request No: 17-295 1184",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "gr DARA 7 4 8 946 PLEASE CALL",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "JE 10/02 5:22 ALINA PLEASE CALL WILL CALL AGAIN X DEBORAH",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "SE 20 9:25 DARA 704 89946 PLEASE CALL",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "SE 7/02/16 17:50 DARA 704 89946 what time would you like her to come over Public Records Request No: 17-295",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [
+      "DARA",
+      "ALINA",
+      "JE",
+      "DEBORAH",
+      "gr",
+      "SE"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "10/02",
+      "20",
+      "7/02/16",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "70489946",
+      "17-295",
+      "DOJ-OGR-00032453"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned image of a notepad with four 'Important Message' forms filled out. The forms contain handwritten notes and phone messages. The document quality is clear, with some minor wear on the edges."
+}

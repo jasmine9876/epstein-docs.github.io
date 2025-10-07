@@ -1,0 +1,81 @@
+{
+  "document_metadata": {
+    "page_number": "41",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Message slips",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR Jeffrey DATE 03/05/05 TIME 02:30 P.M. M Debora Paula OF PHONE/MOBILE 917 518 2484 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE She is at the Brickel Hotel SIGNED IMPORTANT MESSAGE FOR Douglas DATE TIME 10:40 A.M. P.M. M Helen OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Please call her as soon as you have time. SIGNED OKR IMPORTANT MESSAGE FOR Jeffrey DATE 3/05/05 TIME 03:40 P.M. M Les from Columbus OF PHONE/MOBILE You have it TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Please call him back SIGNED 07/26/17 IMPORTANT MESSAGE FOR Douglas DATE 21 TIME 10 A.M. P.M. M Cuilla OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Please call her at the office SIGNED Page 41 of 128 Public Records Request No.: 17-295 DOJ-OGR-00031762",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR Jeffrey DATE 03/05/05 TIME 02:30 P.M. M Debora Paula OF PHONE/MOBILE 917 518 2484 TELEPHONED MESSAGE She is at the Brickel Hotel SIGNED",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR Douglas DATE TIME 10:40 A.M. P.M. M Helen OF PHONE/MOBILE MESSAGE Please call her as soon as you have time. SIGNED OKR",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR Jeffrey DATE 3/05/05 TIME 03:40 P.M. M Les from Columbus OF PHONE/MOBILE You have it TELEPHONED MESSAGE Please call him back SIGNED 07/26/17",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR Douglas DATE 21 TIME 10 A.M. P.M. M Cuilla OF PHONE/MOBILE MESSAGE Please call her at the office SIGNED",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 41 of 128 Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00031762",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey",
+      "Debora Paula",
+      "Douglas",
+      "Helen",
+      "Les",
+      "Cuilla",
+      "OKR"
+    ],
+    "organizations": [
+      "Brickel Hotel"
+    ],
+    "locations": [
+      "Columbus"
+    ],
+    "dates": [
+      "03/05/05",
+      "07/26/17",
+      "21"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00031762",
+      "917 518 2484"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned image of a page from a notebook containing message slips. The page is labeled 'Page 41 of 128' and has a 'Public Records Request No.: 17-295' stamp. The messages are from various individuals and contain phone numbers and messages."
+}

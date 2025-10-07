@@ -1,0 +1,67 @@
+{
+  "document_metadata": {
+    "page_number": "5",
+    "document_number": null,
+    "date": "Mar 06, 2005",
+    "document_type": "Customer Service Document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Customer Service Number 1-800-937-8997 Mar 06, 2005 Itemized Details For: Account Number: [REDACTED] Page 5 of 28 LOCAL AIRTIME, LONG DISTANCE and INTERNATIONAL CHARGES - (Continued) Date Call Destination Time Number Called Minutes Airtime Charges Toll Charges Total 2/05/05 Incoming 11:54 AM 561-602-5720 1 $ - $ - $ - 2/05/05 Incoming 12:08 PM 561-602-5720 1 $ - $ - $ - 2/05/05 W Palm Bch, FL 12:09 PM 561-719-1519 2 $ - $ - $ - 2/05/05 Incoming 12:36 PM 561-602-5720 1 $ - $ - $ - 2/06/05 W Palm Bch, FL 10:10 AM 561-317-8722 (A) 2 $ - $ - $ - 2/06/05 Incoming 10:10 AM 561-317-8722 (A) 2 $ - $ - $ - 2/06/05 W Palm Bch, FL 10:13 AM 561-602-5720 1 $ - $ - $ - 2/06/05 W Palm Bch, FL 10:40 AM 561-602-5720 1 $ - $ - $ - 2/06/05 W Palm Bch, FL 10:41 AM 561-383-6810 1 $ - $ - $ - 2/06/05 Incoming 11:16 AM 561-602-5723 3 $ - $ - $ - 2/06/05 Incoming 12:19 PM 561-383-6810 7 $ - $ - $ - 2/06/05 Incoming 12:42 PM 561-383-6810 7 $ - $ - $ - 2/06/05 Incoming 12:49 PM 561-333-0180 1 $ - $ - $ - 2/06/05 W Palm Bch, FL 12:50 PM 561-383-6810 1 $ - $ - $ - 2/06/05 W Palm Bch, FL 12:52 PM 561-719-1519 1 $ - $ - $ - 2/06/05 W Palm Bch, FL 12:54 PM 561-383-6810 1 $ - $ - $ - 2/06/05 W Palm Bch, FL 1:01 PM 561-602-5723 1 $ - $ - $ - 2/06/05 Incoming 1:02 PM 561-308-0282 1 $ - $ - $ - 2/06/05 Incoming 1:26 PM 561-383-6810 2 $ - $ - $ - 2/06/05 Incoming 3:19 PM 561-602-5720 (A) 1 $ - $ - $ - 2/06/05 Incoming 4:47 PM 561-602-5720 1 $ - $ - $ - 2/06/05 W Palm Bch, FL 5:11 PM 561-383-6810 1 $ - $ - $ - 2/06/05 W Palm Bch, FL 5:50 PM 561-333-7190 1 $ - $ - $ - 2/06/05 Incoming 6:50 PM 561-333-7190 3 $ - $ - $ - 2/06/05 Incoming 6:53 PM 561-333-7190 5 $ - $ - $ - 2/06/05 Incoming 6:57 PM 561-333-7190 1 $ - $ - $ - 2/06/05 Incoming 6:58 PM 561-333-7190 1 $ - $ - $ - 2/06/05 Incoming 7:21 PM 561-791-8716 2 $ - $ - $ - 2/06/05 W Palm Bch, FL 7:23 PM 561-333-7190 1 $ - $ - $ - 2/06/05 W Palm Bch, FL 7:25 PM 561-791-8716 10 $ - $ - $ - 2/06/05 W Palm Bch, FL 7:34 PM 561-333-7190 1 $ - $ - $ - 2/06/05 Incoming 7:59 PM 561-723-7751 (A) 1 $ - $ - $ - 2/06/05 Incoming 8:00 PM 561-791-8716 (A) 2 $ - $ - $ - 2/06/05 Incoming 8:00 PM 561-723-7751 (A) 4 $ - $ - $ - 2/06/05 W Palm Bch, FL 8:04 PM 561-333-7190 (A) 2 $ - $ - $ - 2/06/05 Incoming 8:05 PM 561-791-8716 (A) 1 $ - $ - $ - Call Type: (A) Call Waiting (B) Call Forward (C) Conference Call (E) Data/Fax (F) Mobile2Mobile (G) Voicemail (H) Free Calls (K) WPS Call 07/26/17 Page 68 Public Records Request No.: 17-295 DOJ-OGR-00031589",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Customer Service Number 1-800-937-8997 Mar 06, 2005",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "LOCAL AIRTIME, LONG DISTANCE and INTERNATIONAL CHARGES - (Continued)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Date Call Destination Time Number Called Minutes Airtime Charges Toll Charges Total",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Call Type: (A) Call Waiting (B) Call Forward (C) Conference Call (E) Data/Fax (F) Mobile2Mobile (G) Voicemail (H) Free Calls (K) WPS Call",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 68 Public Records Request No.: 17-295 DOJ-OGR-00031589",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [
+      "W Palm Bch, FL"
+    ],
+    "dates": [
+      "Mar 06, 2005",
+      "2/05/05",
+      "2/06/05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "1-800-937-8997",
+      "561-602-5720",
+      "561-317-8722",
+      "561-719-1519",
+      "561-383-6810",
+      "561-602-5723",
+      "561-333-0180",
+      "561-308-0282",
+      "561-333-7190",
+      "561-791-8716",
+      "561-723-7751",
+      "17-295",
+      "DOJ-OGR-00031589"
+    ]
+  },
+  "additional_notes": "The document appears to be a customer service document detailing call records. The account number is redacted."
+}

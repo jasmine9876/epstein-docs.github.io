@@ -1,0 +1,88 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00032447",
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR: JOE DATE: Shantz TIME: 10:35 A.M. PHONE: AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 1184 IMPORTANT MESSAGE FOR: S DATE: 02/1/6 TIME: 3:00 A.M. M: Linda OF: PHONE: 212 758 700 AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 1184 IMPORTANT MESSAGE FOR: SARAH DATE: 09/02/07 TIME: 17:52 A.M. M: CAROLINE CASEY OF: PHONE: 832 6908 AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED Page 2134 1184 IMPORTANT MESSAGE FOR: JE DATE: 9/02/07 TIME: 17:52 A.M. M: CAROLINE OF: PHONE: 471 - 3984 AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED Public Records Request No.: 17-295 1184",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "JOE Shantz 10:35",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "FOR: DATE: TIME: A.M. P.M. PHONE: AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "S 02/1/6 3:00 Linda",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "FOR: DATE: TIME: A.M. P.M. M: OF: PHONE: AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "SARAH 09/02/07 17:52 CAROLINE CASEY 832 6908",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "FOR: DATE: TIME: A.M. P.M. M: OF: PHONE: AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "JE 9/02/07 17:52 CAROLINE 471 - 3984",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "FOR: DATE: TIME: A.M. P.M. M: OF: PHONE: AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Public Records Request No.: 17-295",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JOE",
+      "Shantz",
+      "S",
+      "Linda",
+      "SARAH",
+      "CAROLINE CASEY",
+      "JE",
+      "CAROLINE"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "02/1/6",
+      "09/02/07"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "212 758 700",
+      "832 6908",
+      "471 - 3984"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned image of four 'Important Message' forms, likely from a business or organizational setting. The forms contain handwritten notes with names, dates, times, and phone numbers. The document is in a relatively good condition, with some minor signs of wear and tear."
+}

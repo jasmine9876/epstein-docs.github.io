@@ -1,0 +1,80 @@
+{
+  "document_metadata": {
+    "page_number": "89",
+    "document_number": "DOJ-OGR-00032128",
+    "date": "2-10-2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "JEGE, INC. PASSENGER MANIFEST Registration Number: N471JE Type: B-727-31 Pilots: Dave Rodgers, Larry Visoaki Flight Engineer: Larry Morrison DATE: 2-10-2005 FROM JFK TO PBI Departure Time 9 4 AM Arrival Time 11:54 AM Trip Number 320 PASSENGERS 1. Jeffrey Epstein 2. Natalia Marcinkova 3. Sarah Kellen 4. John Sykes 5. Aleksandra 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. FROM Identifier Defined City New York State or Country NY TO Identifier Defined City West Palm Beach State or Country FL Nautical Miles 894 Statute Miles 1028 Gallons 2900 AIRFRAME Pounds 18257 33068.0 Flight Time 3+12 2.2 Altitude FL 360 33065.2 20. Night 2.2 21. T/L 1 22. IMC 23. Approach 24. 25. 26. 07/26/17 Page 89 of 151 Public Records Request No.: 17-295",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "JEGE, INC. PASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: N471JE Type: B-727-31 Pilots: Dave Rodgers, Larry Visoaki Flight Engineer: Larry Morrison",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "2-10-2005 JFK PBI 9 4 AM 11:54 AM 320",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffrey Epstein Natalia Marcinkova Sarah Kellen John Sykes Aleksandra",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "New York NY West Palm Beach FL 894 1028 2900 18257 3+12 360",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 89 of 151 Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032128",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Natalia Marcinkova",
+      "Sarah Kellen",
+      "John Sykes",
+      "Aleksandra",
+      "Dave Rodgers",
+      "Larry Visoaki",
+      "Larry Morrison"
+    ],
+    "organizations": [
+      "JEGE, INC."
+    ],
+    "locations": [
+      "New York",
+      "West Palm Beach",
+      "JFK",
+      "PBI"
+    ],
+    "dates": [
+      "2-10-2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N471JE",
+      "320",
+      "17-295",
+      "DOJ-OGR-00032128"
+    ]
+  },
+  "additional_notes": "The document is a passenger manifest for a flight from JFK to PBI on 2-10-2005. The document contains handwritten information, including passenger names and flight details. The document is page 89 of 151 and is related to a public records request."
+}

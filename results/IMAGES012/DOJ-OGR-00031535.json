@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "New York Social Diary article",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "David Patrick Columbia's New York Social Diary HOME | PARTY PICTURES | SOCIAL DIARY | SHOPPING DIARY | THE LIST | CALENDAR | ARCHIVES A beautiful warm day in New York Under a canopy of Cherry Blossoms in Central Park. 1:45 PM. Photo: JH. Some people were beginning to complain about the heat. A good sign. Beauty abounds. I went to an early dinner over at Swifty's with some old friends in from out of town. The place was jammed on this early Monday night in New York. At the table by the open windows was Lee Radziwill with friends. At another table, Jim Kaufman was dining with Laura Codman, in from Texas on her way to London. Laura is directly descended from Ogden Codman, the gran-pappy of 20th century interior design. Ogden Codman is now the god of interior design. Talk about influence, talk about power in New York! Except he's dead. Daid. And I'll bet at least 50% of the design community (sorry, but I'll bet I'm right) doesn't have a clue as to WHO Ogden Codman is/was. Or even his collaborator Edith Wharton. That's okay, that's show biz.",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "David Patrick Columbia's New York Social Diary",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "HOME | PARTY PICTURES | SOCIAL DIARY | SHOPPING DIARY | THE LIST | CALENDAR | ARCHIVES",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "A beautiful warm day in New York",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Under a canopy of Cherry Blossoms in Central Park. 1:45 PM. Photo: JH.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Some people were beginning to complain about the heat. A good sign. Beauty abounds.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "I went to an early dinner over at Swifty's with some old friends in from out of town. The place was jammed on this early Monday night in New York. At the table by the open windows was Lee Radziwill with friends. At another table, Jim Kaufman was dining with Laura Codman, in from Texas on her way to London. Laura is directly descended from Ogden Codman, the gran-pappy of 20th century interior design. Ogden Codman is now the god of interior design. Talk about influence, talk about power in New York! Except he's dead. Daid. And I'll bet at least 50% of the design community (sorry, but I'll bet I'm right) doesn't have a clue as to WHO Ogden Codman is/was. Or even his collaborator Edith Wharton. That's okay, that's show biz.",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David Patrick Columbia",
+      "Lee Radziwill",
+      "Jim Kaufman",
+      "Laura Codman",
+      "Ogden Codman",
+      "Edith Wharton"
+    ],
+    "organizations": [],
+    "locations": [
+      "New York",
+      "Central Park",
+      "Texas",
+      "London"
+    ],
+    "dates": [],
+    "reference_numbers": []
+  },
+  "additional_notes": "The document appears to be a scanned article from the New York Social Diary. The text is clear and legible, with no visible redactions or damage."
+}

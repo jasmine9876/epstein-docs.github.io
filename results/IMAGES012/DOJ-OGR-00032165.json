@@ -1,0 +1,116 @@
+{
+  "document_metadata": {
+    "page_number": "126",
+    "document_number": "17-295",
+    "date": "5 29, 2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "HYPERION AIR, INC. PASSENGER MANIFEST Registration Number: N909JE Type: G-1159B Pilots: Dave Rodgers, Larry Visoski DATE: 5 29 2005 FROM TST TO PBI Departure Time 3 :37 AM Arrival Time 6 :07 AM Trip Number 2780 PASSENGERS 1. Jeffrey Epstein 2. David Mullen 3. Ghislaine Maxwell 4. Areana Masirovska FROM Identifier Defined City ST. THOMAS State or Country U.S.V.I. TO Identifier Defined City WEST. PALM BEACH State or Country F.L. Nautical Miles 975 Statute Miles 1121 Gallons 1564 AIRFRAME 9770.1 Pounds 11089 Flight Time 2:29 2.5 Altitude FL FL400 9772.6 TAKE-OFF POWER Night Flex Take-Off T/L 1 Min Take-Off IMC Condition Approach COMMENTS",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "HYPERION AIR, INC. PASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: Type: Pilots:",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "N909JE G-1159B Dave Rodgers, Larry Visoski",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "DATE: FROM TO",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "5 29 2005 TST PBI",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Departure Time Arrival Time Trip Number",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "3 :37 AM 6 :07 AM 2780",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGERS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1. Jeffrey Epstein 2. David Mullen 3. Ghislaine Maxwell 4. Areana Masirovska",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FROM Identifier Defined TO Identifier Defined",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "City ST. THOMAS State or Country U.S.V.I. City WEST. PALM BEACH State or Country F.L.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Nautical Miles Statute Miles Gallons AIRFRAME Pounds Flight Time Altitude FL TAKE-OFF POWER Night Flex Take-Off T/L Min Take-Off IMC Condition Approach",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "975 1121 1564 9770.1 11089 2:29 2.5 FL400 9772.6 1",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "COMMENTS",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "David Mullen",
+      "Ghislaine Maxwell",
+      "Areana Masirovska",
+      "Dave Rodgers",
+      "Larry Visoski"
+    ],
+    "organizations": [
+      "Hyperion Air, Inc."
+    ],
+    "locations": [
+      "ST. THOMAS",
+      "U.S.V.I.",
+      "WEST. PALM BEACH",
+      "F.L.",
+      "TST",
+      "PBI"
+    ],
+    "dates": [
+      "5 29, 2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N909JE",
+      "G-1159B",
+      "2780",
+      "17-295",
+      "DOJ-OGR-00032165"
+    ]
+  },
+  "additional_notes": "The document is a passenger manifest for Hyperion Air, Inc. with handwritten entries. It includes details about the flight, passengers, and flight statistics."
+}

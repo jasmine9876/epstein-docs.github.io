@@ -1,0 +1,86 @@
+{
+  "document_metadata": {
+    "page_number": "57",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "check and handwritten note",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "JEFFREY E. EPSTEIN HOUSEHOLD ACCOUNT 358 EL BRILLO WAY PALM BEACH, FL 33480 Date 4/15/09 2513 Fay to the Order of Getting Dimensions Inc. $ 2500.00 Twenty five hundred 00/100 Dollars COLONIAL BANK Palm Beach, Florida Time#: 04 - 358 24 Hr Call:877-502-2265 For Commence Work Hello Hellen: I need you to please cover this chck with funds, Mr. Epstein wants this job to start ASAP, please; also I need money to buy emergency lets for all cars, regards, Nfrodo Page 57 of 100 Public Records Request No.: 17-295 DOJ-OGR-00031996",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "JEFFREY E. EPSTEIN HOUSEHOLD ACCOUNT 358 EL BRILLO WAY PALM BEACH, FL 33480",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "4/15/09",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "2513",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Getting Dimensions Inc.",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "$ 2500.00 Twenty five hundred 00/100 Dollars",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "COLONIAL BANK Palm Beach, Florida Time#: 04 - 358 24 Hr Call:877-502-2265 For Commence Work",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Hello Hellen: I need you to please cover this chck with funds, Mr. Epstein wants this job to start ASAP, please; also I need money to buy emergency lets for all cars, regards, Nfrodo",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 57 of 100 Public Records Request No.: 17-295",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00031996",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY E. EPSTEIN",
+      "Hellen",
+      "Mr. Epstein",
+      "Nfrodo"
+    ],
+    "organizations": [
+      "Getting Dimensions Inc.",
+      "COLONIAL BANK"
+    ],
+    "locations": [
+      "PALM BEACH",
+      "FL",
+      "Palm Beach, Florida"
+    ],
+    "dates": [
+      "4/15/09",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "2513",
+      "17-295",
+      "DOJ-OGR-00031996",
+      "04 - 358"
+    ]
+  },
+  "additional_notes": "The document is a scanned image of a check and a handwritten note. The check is from Jeffrey E. Epstein's household account, dated 4/15/09, and is made out to Getting Dimensions Inc. for $2500.00. The handwritten note is addressed to Hellen and requests that she cover the check with funds and buy emergency lets for all cars. The document is part of a public records request (No.: 17-295) and is page 57 of 100."
+}

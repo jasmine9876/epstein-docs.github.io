@@ -1,0 +1,80 @@
+{
+  "document_metadata": {
+    "page_number": "3 of 11",
+    "document_number": "BST05078732",
+    "date": "07/26/17",
+    "document_type": "Subpoena Results",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Page 3 of 11\nResults for Subpoena BST05078732\nStandard Results\nRequest 1\nType Number Result\n------ End Request ------\n07/26/17 Page 35 of 104 Public Records Request No.: 17-295\nDOJ-OGR-00031652",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Page 3 of 11",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Results for Subpoena BST05078732",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Standard Results",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Request 1",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Type Number Result",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "------ End Request ------",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 35 of 104",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00031652",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "BELLSOUTH",
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "BST05078732",
+      "17-295",
+      "DOJ-OGR-00031652"
+    ]
+  },
+  "additional_notes": "The document appears to be a subpoena result from BellSouth, with a public records request number and a date. The page is mostly blank, with some header and footer information."
+}

@@ -1,0 +1,73 @@
+{
+  "document_metadata": {
+    "page_number": "7",
+    "document_number": null,
+    "date": null,
+    "document_type": "List of Donors",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Albuquerque Tribune Online Page 7 of 28 estate $50,000 Jeffrey E. Epstein, Stanley Investor $50,000 Riviera Gaming Management Inc., Las Vegas, Nev. Gaming $25,000-$49,999 $45,000 Committee to Elect Diane Denish, Albuquerque Political Action Committee $40,000 Gavin P. Maloof, Las Vegas, Nev. Beverage distributor $39,554 ULLICO Inc., Washington, D.C. Labor union $35,000 Gallagher Lewis Downey and Kim, Houston, Texas Law firm $35,000 John L. Tishman, Santa Fe, President $35,000 Steven E. Cauley, Boca Raton Fla. Attorney $30,950 Mescalero Apache Tribe, Mescalero Reservation. American Indian Nation $30,000 Forest City Covington NM LLC, Las Vegas, Nev. Real estate $30,000 Joe G. Maloof Company, Albuquerque Beverage distributor $30,000 John Hess, New York, N.Y., Chairman $30,000 Richard & Nancy Bloch, Rancho Santa Fe, Calif., Real estate investment firm $30,000 Sunray Gaming of NM, Farmington Horse racing $30,000 NM Building Trades PAC, Albuquerque Labor committee http://www.abqtrib.com/archives/news02/120702_Page_07_of_28.shtml PPublic Records Request No.: 17365/2006 DOJ-OGR-00031280",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Albuquerque Tribune Online Page 7 of 28",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "estate $50,000 Jeffrey E. Epstein, Stanley Investor $50,000 Riviera Gaming Management Inc., Las Vegas, Nev. Gaming $25,000-$49,999 $45,000 Committee to Elect Diane Denish, Albuquerque Political Action Committee $40,000 Gavin P. Maloof, Las Vegas, Nev. Beverage distributor $39,554 ULLICO Inc., Washington, D.C. Labor union $35,000 Gallagher Lewis Downey and Kim, Houston, Texas Law firm $35,000 John L. Tishman, Santa Fe, President $35,000 Steven E. Cauley, Boca Raton Fla. Attorney $30,950 Mescalero Apache Tribe, Mescalero Reservation. American Indian Nation $30,000 Forest City Covington NM LLC, Las Vegas, Nev. Real estate $30,000 Joe G. Maloof Company, Albuquerque Beverage distributor $30,000 John Hess, New York, N.Y., Chairman $30,000 Richard & Nancy Bloch, Rancho Santa Fe, Calif., Real estate investment firm $30,000 Sunray Gaming of NM, Farmington Horse racing $30,000 NM Building Trades PAC, Albuquerque Labor committee",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "http://www.abqtrib.com/archives/news02/120702_Page_07_of_28.shtml PPublic Records Request No.: 17365/2006 DOJ-OGR-00031280",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey E. Epstein",
+      "Gavin P. Maloof",
+      "Diane Denish",
+      "John L. Tishman",
+      "Steven E. Cauley",
+      "John Hess",
+      "Richard Bloch",
+      "Nancy Bloch"
+    ],
+    "organizations": [
+      "Riviera Gaming Management Inc.",
+      "Committee to Elect Diane Denish",
+      "ULLICO Inc.",
+      "Gallagher Lewis Downey and Kim",
+      "Joe G. Maloof Company",
+      "Mescalero Apache Tribe",
+      "Forest City Covington NM LLC",
+      "Sunray Gaming of NM",
+      "NM Building Trades PAC"
+    ],
+    "locations": [
+      "Las Vegas",
+      "Albuquerque",
+      "Washington, D.C.",
+      "Houston",
+      "Santa Fe",
+      "Boca Raton",
+      "Mescalero Reservation",
+      "New York",
+      "Rancho Santa Fe",
+      "Farmington",
+      "Nevada",
+      "Texas",
+      "Florida",
+      "California"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "17365/2006",
+      "DOJ-OGR-00031280"
+    ]
+  },
+  "additional_notes": "The document appears to be a list of donors with their respective donation amounts, occupations, and locations. The list is categorized by donation amount ranges. The document is from the Albuquerque Tribune Online and is page 7 of 28."
+}

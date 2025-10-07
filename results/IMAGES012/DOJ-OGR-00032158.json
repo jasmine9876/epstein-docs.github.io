@@ -1,0 +1,128 @@
+{
+  "document_metadata": {
+    "page_number": "10",
+    "document_number": "17-295",
+    "date": "05/20/2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "05/20/2005 13:00 5614786553 JEGE OR HYPERION AIR PAGE 10 HYPERION AIR, INC. PASSENGER MANIFEST Registration Number: N909JE Type: G-1159B Pilots: D. HAMMOND Dave Rodgees, Larry Visoski DATE: 4-12-2005 FROM PBI TO TIST Departure Time 6:20 PM Arrival Time 8:26 PM Trip Number 1770 PASSENGERS 1. Jeffrey Epstein 2. Sarah Kellen 3. Andrea Musinska 4. Nadia Marcinkova FROM Identifier Defined City WEST PALM BEACH State or Country FL TO Identifier Defined City ST. THOMAS State or Country U.S.V.I. Nautical Miles 975 Statute Miles 1121 Gallons 1200 AIRFRAME Pounds 6425 9743.1 Flight Time 2+05 2.1 Altitude FL FL40 9745.2 TAKE-OFF POWER Night Flex Take-Off TIL IMC COMMENTS Min Take-Off Condition Approach 07/26/17 Page 119 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032158",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "HYPERION AIR, INC. PASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "D. HAMMOND",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: N909JE Type: G-1159B Pilots:",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Dave Rodgees, Larry Visoski",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DATE: FROM TO",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "4-12-2005 PBI TIST",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Departure Time Arrival Time Trip Number",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "6:20 PM 8:26 PM 1770",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGERS",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "1. Jeffrey Epstein 2. Sarah Kellen 3. Andrea Musinska 4. Nadia Marcinkova",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FROM Identifier Defined City State or Country TO Identifier Defined City State or Country",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "WEST PALM BEACH FL ST. THOMAS U.S.V.I.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Nautical Miles Statute Miles Gallons AIRFRAME Pounds Flight Time Altitude FL TAKE-OFF POWER Night",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "975 1121 1200 6425 9743.1 2+05 2.1 FL40 9745.2 TIL IMC",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "COMMENTS",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Min Take-Off Condition Approach",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Sarah Kellen",
+      "Andrea Musinska",
+      "Nadia Marcinkova",
+      "D. Hammond",
+      "Dave Rodgees",
+      "Larry Visoski"
+    ],
+    "organizations": [
+      "Hyperion Air, Inc."
+    ],
+    "locations": [
+      "West Palm Beach",
+      "FL",
+      "St. Thomas",
+      "U.S.V.I.",
+      "PBI",
+      "TIST"
+    ],
+    "dates": [
+      "05/20/2005",
+      "4-12-2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N909JE",
+      "G-1159B",
+      "1770",
+      "17-295",
+      "DOJ-OGR-00032158"
+    ]
+  },
+  "additional_notes": "The document is a passenger manifest for Hyperion Air, Inc. The flight took place on April 12, 2005, from West Palm Beach, FL to St. Thomas, U.S.V.I. The passengers included Jeffrey Epstein, Sarah Kellen, Andrea Musinska, and Nadia Marcinkova. The pilots were Dave Rodgees and Larry Visoski."
+}

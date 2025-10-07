@@ -1,0 +1,41 @@
+{
+  "document_metadata": {
+    "page_number": "61",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Public Records Request Response",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "HOW TO INTERPRET PAID MONEY TRANSFER COMPUTER RECORD\n1) Money transfer number assigned to transfer by computer at time of recording.\n2) Originating city\n3) Originating agent identification number (O-Agent XXX#######)\n4) Paying agent identification number (P-Agent XXX#####)\n5) Payee name\n6) Sender name\n7) A - Sender's phone number\nB - Willcall Money Order\nC - Originating city\nD - Date recorded\nE - Time recorded (all times are eastern standard time)\n8) Internal code\n9) A - Money transfer control number\nB - Intended payout city and state (CITYST)\n10) Principal amount of transfer\n11) Payee name\n12) Test question? Answer\n13) Will Call = Customer will come in to pick up money transfer.\n14) Sender's name\n15) DYID = Paying Agent ID #\n16) ANI Phone = Phone number of caller if transfer called in by agent or credit card holder if credit card transaction.\n17) Recipient information if any given such as address, id#, phone #, etc.\n18) Message for paying agent or recipient\nEach time a transaction is accessed, our computer system records it:\n19 - 26\nA - Operator #\nB - Computer terminal id#\nC - Date transaction accessed\nD - Time transaction accessed\n27) Operator 810 added a test question & a message - Proper ID required\n07/26/17 Page 61 of 81 Public Records Request No.: 17-295 DOJ-OGR-00031153",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "HOW TO INTERPRET PAID MONEY TRANSFER COMPUTER RECORD",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "1) Money transfer number assigned to transfer by computer at time of recording.\n2) Originating city\n3) Originating agent identification number (O-Agent XXX#######)\n4) Paying agent identification number (P-Agent XXX#####)\n5) Payee name\n6) Sender name\n7) A - Sender's phone number\nB - Willcall Money Order\nC - Originating city\nD - Date recorded\nE - Time recorded (all times are eastern standard time)\n8) Internal code\n9) A - Money transfer control number\nB - Intended payout city and state (CITYST)\n10) Principal amount of transfer\n11) Payee name\n12) Test question? Answer\n13) Will Call = Customer will come in to pick up money transfer.\n14) Sender's name\n15) DYID = Paying Agent ID #\n16) ANI Phone = Phone number of caller if transfer called in by agent or credit card holder if credit card transaction.\n17) Recipient information if any given such as address, id#, phone #, etc.\n18) Message for paying agent or recipient\nEach time a transaction is accessed, our computer system records it:\n19 - 26\nA - Operator #\nB - Computer terminal id#\nC - Date transaction accessed\nD - Time transaction accessed\n27) Operator 810 added a test question & a message - Proper ID required",
+      "position": "main"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 61 of 81 Public Records Request No.: 17-295 DOJ-OGR-00031153",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00031153"
+    ]
+  },
+  "additional_notes": "The document appears to be a guide on interpreting paid money transfer computer records. It is a typed document with no handwritten notes or stamps. The document is part of a larger record set, as indicated by the 'Page 61 of 81' notation."
+}

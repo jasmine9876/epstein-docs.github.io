@@ -1,0 +1,55 @@
+{
+  "document_metadata": {
+    "page_number": "60",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Customer Service Document",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "TEDS SHEDS Thank you for your business! Ted's Sheds Call Center will now be assisting you with all aspects of your purchase. A representative from Ted's Sheds will be contacting you within 3 days after your purchase. Please contact Ted's Sheds 0866 for all future inquiries by calling 1-800-771-0866. East Coast Delivery Schedule - Ext. #2949 West Coast Delivery Schedule - Ext. #2912 Customer Service - Ext. #2911 Operations Manager - Ext. #2909 RANDY Could be last week of January or 2nd week of February 07/26/17 Page 60 of 100 Public Records Request No.: 17-295 DOJ-OGR-00031999",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "TEDS SHEDS Thank you for your business! Ted's Sheds Call Center will now be assisting you with all aspects of your purchase. A representative from Ted's Sheds will be contacting you within 3 days after your purchase. Please contact Ted's Sheds 0866 for all future inquiries by calling 1-800-771-0866. East Coast Delivery Schedule - Ext. #2949 West Coast Delivery Schedule - Ext. #2912 Customer Service - Ext. #2911 Operations Manager - Ext. #2909",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "RANDY Could be last week of January or 2nd week of February",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 60 of 100 Public Records Request No.: 17-295 DOJ-OGR-00031999",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Randy"
+    ],
+    "organizations": [
+      "Ted's Sheds"
+    ],
+    "locations": [
+      "East Coast",
+      "West Coast"
+    ],
+    "dates": [
+      "07/26/17",
+      "January",
+      "February"
+    ],
+    "reference_numbers": [
+      "1-800-771-0866",
+      "Ext. #2949",
+      "Ext. #2912",
+      "Ext. #2911",
+      "Ext. #2909",
+      "17-295",
+      "DOJ-OGR-00031999"
+    ]
+  },
+  "additional_notes": "The document appears to be a customer service document from Ted's Sheds, with a handwritten note in the middle of the page. The document is page 60 of 100 and is related to a public records request."
+}

@@ -1,0 +1,91 @@
+{
+  "document_metadata": {
+    "page_number": "136",
+    "document_number": "17-295",
+    "date": "7.25.2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "HYPERION AIR, INC. PASSENGER MANIFEST Registration Number: N909JE Type: G-1159B Pilots: Dave Rodgers, BILL HAMMOND DATE: 7.25.2005 FROM PBI TO TEB Departure Time 5:09 AM Arrival Time 7:34 AM Trip Number 1796 PASSENGERS 1. Jeffrey Epstein 2. SARAH KELLEN 3. DANA BURNS 4. TATIANA FROM Identifier Defined City WEST PALM BEACH State or Country FL TO Identifier Defined City TETERBORO State or Country NJ Nautical Miles 900 Statute Miles 1035 Gallons 1500 Pounds 10058 AIRFRAME Flight Time 2+24 24 Altitude FL 450 9807.1 9809.5 TAKE-OFF POWER Night Flex Take-Off 2.15 T/L Min Take-Off IMC Condition Approach COMMENTS",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "HYPERION AIR, INC. PASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "BILL HAMMOND",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: N909JE Type: G-1159B Pilots: Dave Rodgers,",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "7.25.2005 PBI TEB 5:09 AM 7:34 AM 1796",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGERS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1. Jeffrey Epstein 2. SARAH KELLEN 3. DANA BURNS 4. TATIANA",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FROM Identifier Defined City State or Country TO Identifier Defined City State or Country Nautical Miles Statute Miles Gallons Pounds Flight Time Altitude FL TAKE-OFF POWER Night Flex Take-Off T/L Min Take-Off IMC Condition Approach",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "WEST PALM BEACH FL TETERBORO NJ 900 1035 1500 10058 2+24 450 2.15 IMC",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "COMMENTS",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "SARAH KELLEN",
+      "DANA BURNS",
+      "TATIANA",
+      "Dave Rodgers",
+      "BILL HAMMOND"
+    ],
+    "organizations": [
+      "HYPERION AIR, INC."
+    ],
+    "locations": [
+      "WEST PALM BEACH",
+      "FL",
+      "TETERBORO",
+      "NJ",
+      "PBI",
+      "TEB"
+    ],
+    "dates": [
+      "7.25.2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N909JE",
+      "G-1159B",
+      "1796",
+      "17-295",
+      "DOJ-OGR-00032175"
+    ]
+  },
+  "additional_notes": "The document is a passenger manifest for a flight on July 25, 2005. It includes the names of the passengers and flight details. The document appears to be a photocopy or scan of the original, with some handwritten notes and stamps. The page number is 136 of 151."
+}

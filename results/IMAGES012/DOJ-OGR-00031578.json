@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": "7",
+    "document_number": null,
+    "date": "Mar 06, 2005",
+    "document_type": "Customer Service Details",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Customer Service Number 1-800-937-8997 Mar 06, 2005 Itemized Details For: Account Number: [redacted] Page 7 of 28 LOCAL AIRTIME, LONG DISTANCE and INTERNATIONAL CHARGES - (Continued) Date Call Destination Time Number Called Call Type Minutes Airtime Charges Toll Charges Total 2/08/05 Incoming 5:56 PM 561-790-2849 (A) 26 $ - $ - $ - 2/08/05 W Palm Bch, FL 6:21 PM 561-602-5720 1 $ - $ - $ - 2/08/05 Incoming 6:53 PM 561-602-5720 8 $ - $ - $ - 2/08/05 Incoming 7:26 PM 561-602-5720 2 $ - $ - $ - 2/08/05 Incoming 7:33 PM 561-602-5720 1 $ - $ - $ - 2/08/05 W Palm Bch, FL 7:42 PM 561-602-5720 1 $ - $ - $ - 2/08/05 Incoming 8:38 PM 561-602-5720 (A) 1 $ - $ - $ - 2/08/05 W Palm Bch, FL 8:42 PM 561-602-5720 1 $ - $ - $ - 2/08/05 W Palm Bch, FL 8:52 PM 561-602-5720 2 $ - $ - $ - 2/08/05 W Palm Bch, FL 8:54 PM 561-602-5720 10 $ - $ - $ - 2/08/05 Incoming 9:10 PM 561-791-8368 1 $ - $ - $ - 2/08/05 W Palm Bch, FL 9:12 PM 561-602-5720 (A) 2 $ - $ - $ - 2/08/05 Incoming 9:14 PM 561-791-8368 (A) 1 $ - $ - $ - 2/08/05 W Palm Bch, FL 9:19 PM 561-301-6596 2 $ - $ - $ - 2/08/05 Incoming 9:24 PM 561-301-6596 8 $ - $ - $ - 2/08/05 W Palm Bch, FL 9:34 PM 561-267-3548 1 $ - $ - $ - 2/08/05 Incoming 9:36 PM 561-793-2403 12 $ - $ - $ - 2/08/05 Incoming 10:08 PM 561-301-6596 50 $ - $ - $ - 2/09/05 W Palm Bch, FL 12:20 PM 561-301-6596 3 $ - $ - $ - 2/09/05 Incoming 12:30 PM 561-790-2849 2 $ - $ - $ - 2/09/05 Incoming 3:39 PM 561-795-5165 3 $ - $ - $ - 2/09/05 W Palm Bch, FL 3:55 PM 561-602-5720 1 $ - $ - $ - 2/09/05 W Palm Bch, FL 4:04 PM 561-317-8722 (F) 6 $ - $ - $ - 2/09/05 Incoming 4:10 PM 561-317-8722 (F) 7 $ - $ - $ - 2/09/05 W Palm Bch, FL 4:32 PM 561-366-0123 1 $ - $ - $ - 2/09/05 W Palm Bch, FL 4:33 PM 561-659-5408 1 $ - $ - $ - 2/10/05 Incoming 10:57 AM 561-951-2830 1 $ - $ - $ - 2/10/05 Incoming 11:46 AM 561-267-3548 2 $ - $ - $ - 2/10/05 W Palm Bch, FL 11:48 AM 561-267-3548 1 $ - $ - $ - 2/10/05 W Palm Bch, FL 11:48 AM 561-267-3548 18 $ - $ - $ - 2/10/05 Incoming 2:51 PM 561-301-6596 3 $ - $ - $ - 2/11/05 Incoming 11:43 AM 561-301-6596 2 $ - $ - $ - 2/11/05 Incoming 12:11 PM 561-616-3163 1 $ - $ - $ - 2/11/05 Incoming 12:17 PM 561-790-2849 1 $ - $ - $ - 2/11/05 W Palm Bch, FL 12:54 PM 561-301-6596 1 $ - $ - $ - 2/11/05 Incoming 1:26 PM 561-301-6596 1 $ - $ - $ - Call Type: (A) Call Waiting (B) Call Forward (C) Conference Call (E) Data/Fax (F) Mobile2Mobile (G) Voicemail (H) Free Calls K) WPS Call 07/26/17 Page 57 Public Records Request No.: 17-295 DOJ-OGR-00031578",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Customer Service Number 1-800-937-8997 Mar 06, 2005 Itemized Details For: Account Number: [redacted] Page 7 of 28",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "LOCAL AIRTIME, LONG DISTANCE and INTERNATIONAL CHARGES - (Continued)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Date Call Destination Time Number Called Call Type Minutes Airtime Charges Toll Charges Total",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "2/08/05 Incoming 5:56 PM 561-790-2849 (A) 26 $ - $ - $ - ...",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Call Type: (A) Call Waiting (B) Call Forward (C) Conference Call (E) Data/Fax (F) Mobile2Mobile (G) Voicemail (H) Free Calls K) WPS Call",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 57 Public Records Request No.: 17-295 DOJ-OGR-00031578",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [
+      "W Palm Bch, FL"
+    ],
+    "dates": [
+      "Mar 06, 2005",
+      "2/08/05",
+      "2/09/05",
+      "2/10/05",
+      "2/11/05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "1-800-937-8997",
+      "17-295",
+      "DOJ-OGR-00031578"
+    ]
+  },
+  "additional_notes": "The document appears to be a customer service details page with a redacted account number. The page contains a table with call details, including date, time, destination, and charges. The document is page 7 of 28."
+}

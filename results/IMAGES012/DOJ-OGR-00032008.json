@@ -1,0 +1,85 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR J.E. DATE 2/27/05 TIME 10:18 A.M. M OF 145 Maxwell PHONE/MOBILE TELEPHONED | PLEASE CALL CAME TO SEE YOU | WILL CALL AGAIN WANTS TO SEE YOU | RUSH RETURNED YOUR CALL | SPECIAL ATTENTION MESSAGE she is home SIGNED IMPORTANT MESSAGE FOR J.E. DATE 2/26/05 TIME 4:40 A.M. M Geon Luc OF PHONE/MOBILE No phone # TELEPHONED | PLEASE CALL CAME TO SEE YOU | WILL CALL AGAIN WANTS TO SEE YOU | RUSH RETURNED YOUR CALL | SPECIAL ATTENTION MESSAGE Please! call him SIGNED J COPY IMPORTANT MESSAGE FOR Jeff. up DATE 2/28/05 TIME 12:32 A.M. M OF PHONE/MOBILE TELEPHONED | PLEASE CALL CAME TO SEE YOU | WILL CALL AGAIN WANTS TO SEE YOU | RUSH RETURNED YOUR CALL | SPECIAL ATTENTION MESSAGE She is wondering if 2:30 is ok cue are credits to stay in school SIGNED IMPORTANT MESSAGE FOR Jeffcy DATE 2/27/05 TIME 01:00 A.M. M Mom OF PHONE/MOBILE TELEPHONED | PLEASE CALL CAME TO SEE YOU | WILL CALL AGAIN WANTS TO SEE YOU | RUSH RETURNED YOUR CALL | SPECIAL ATTENTION MESSAGE that he culldnt back SIGNED Public Records Request No. 17-295 DOJ-OGR-00032008",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "J.E. 2/27/05 10:18 A.M. 145 Maxwell she is home",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "J.E. 2/26/05 4:40 A.M. Geon Luc No phone # Please! call him J",
+      "position": "top"
+    },
+    {
+      "type": "stamp",
+      "content": "COPY",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeff. up 2/28/05 12:32 A.M. She is wondering if 2:30 is ok cue are credits to stay in school",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffcy 2/27/05 01:00 A.M. Mom that he culldnt back Public Records Request No. 17-295",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032008",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "J.E.",
+      "Geon Luc",
+      "Jeff",
+      "Jeffcy",
+      "Mom"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "2/27/05",
+      "2/26/05",
+      "2/28/05",
+      "2/27/05"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032008"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned copy of a notepad page containing four 'Important Message' forms. The forms are filled out with handwritten notes, and one of them is stamped 'COPY'. The document is likely related to a public records request, as indicated by the 'Public Records Request No. 17-295' notation on the bottom right form."
+}

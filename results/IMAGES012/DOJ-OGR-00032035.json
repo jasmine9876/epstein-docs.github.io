@@ -1,0 +1,90 @@
+{
+  "document_metadata": {
+    "page_number": "98",
+    "document_number": "17-295",
+    "date": null,
+    "document_type": "Telephone Message Slips",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "SAGE FOR Sexa DATE 12/13/04 TIME 3:45 A.M. P.M. M OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Please Call her to set up time for tomorrow SIGNED IR IMPORTANT MESSAGE FOR DATE 1/12/05 TIME 4:10 A.M. P.M. M OF PHONE/ MOBILE (305) 588-8013 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Please call her. SIGNED AR IMPORTANT MESSAGE FOR J.E. DATE 1/12/06 TIME 4:25 A.M. P.M. M Lawrence Kreuss OF PHONE/ MOBILE (216) 970-3496 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE He left a message in NY Office, and wants to follow up the conversation. SIGNED IMPORTANT MESSAGE FOR J.E. DATE 1/12/05 TIME 4:35 A.M. P.M. M Y Lawrence Krauel OF PHONE/ MOBILE (216) 970-3496 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE He left a message in NY and wants to follow upon the conversation. SIGNED AR Public Records Request No.: 17-295 DOJ-OGR-00032035",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "SAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Sexa 12/13/04 3:45 P.M.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "1/12/05 4:10 P.M. (305) 588-8013 Please call her.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "J.E. 1/12/06 4:25 P.M. Lawrence Kreuss (216) 970-3496 He left a message in NY Office, and wants to follow up the conversation.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "J.E. 1/12/05 4:35 P.M. Lawrence Krauel (216) 970-3496 He left a message in NY and wants to follow upon the conversation.",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032035",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Sexa",
+      "Micie",
+      "J.E.",
+      "Lawrence Kreuss",
+      "Lawrence Krauel"
+    ],
+    "organizations": [
+      "SAGE"
+    ],
+    "locations": [
+      "NY"
+    ],
+    "dates": [
+      "12/13/04",
+      "1/12/05",
+      "1/12/06"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "(305) 588-8013",
+      "(216) 970-3496",
+      "DOJ-OGR-00032035"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned copy of telephone message slips. The quality is generally good, but some handwritten text is difficult to read due to the quality of the scan or the handwriting itself. There are no visible redactions or damage to the document."
+}

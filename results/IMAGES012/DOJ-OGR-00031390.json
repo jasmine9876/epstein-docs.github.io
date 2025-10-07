@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "0035224228",
+    "date": "April 12, 2005",
+    "document_type": "Invoice",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Cingular Account Number 0035224228 Account Name HOLLY ROBSON Date of Invoice April 12, 2005 Page 4 of 8 DETAIL OF CURRENT ACTIVITY - CONTINUED VOICE USAGE FOR (561)308-0282 - Continued ... (rest of the text from the image)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Cingular Account Number 0035224228 Account Name HOLLY ROBSON Date of Invoice April 12, 2005",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DETAIL OF CURRENT ACTIVITY - CONTINUED",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "VOICE USAGE FOR (561)308-0282 - Continued",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Item Date Time Number Called Calls To Qty Used Rate Description Charge",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "31 03/20 12:20P 561)308-0282 INCOMING 2MIN UNLIMITED N/WKND MIN",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00031390",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "HOLLY ROBSON"
+    ],
+    "organizations": [
+      "Cingular"
+    ],
+    "locations": [
+      "WPALMBEACH FL",
+      "LAKE WORTH FL",
+      "JUPITER FL",
+      "NEW YORK NY"
+    ],
+    "dates": [
+      "April 12, 2005",
+      "03/20",
+      "03/21"
+    ],
+    "reference_numbers": [
+      "0035224228",
+      "17-295",
+      "DOJ-OGR-00031390",
+      "(561)308-0282"
+    ]
+  },
+  "additional_notes": "The document appears to be a page from a phone bill invoice, detailing voice usage for a specific phone number. The page is part of a larger document, as indicated by 'Page 4 of 8'."
+}

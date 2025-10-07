@@ -1,0 +1,192 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Message slips",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR Mr. J.E DATE 12/16/04 TIME 2:23 M S Dragana OF Southbay Realty PHONE/ MOBILE (561) 379-5467 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE She has some houses to show you SIGNED ZZ IMPORTANT MESSAGE FOR M. J.E DATE 12/18/09 TIME 7:10 M r Joan-Luc OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Tell him that I called SIGNED JR IMPORTANT MESSAGE FOR Mr. J.E DATE 12/18/09 TIME 8:15 M S Eva OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Just called to say Hello SIGNED ZZ IMPORTANT MESSAGE FOR Mr. J.E DATE 12/18/04 TIME 8:16 M Natalie OF PHONE/ MOBILE (317) 204-9686 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE She spoke with Jean-Luc and everything it's ok SIGNED JR",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Mr. J.E",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "12/16/04",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "2:23",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Dragana",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Southbay Realty",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "(561) 379-5467",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "She has some houses to show you",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "ZZ",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "M. J.E",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "12/18/09",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "7:10",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Joan-Luc",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Tell him that I called",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "JR",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Mr. J.E",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "12/18/09",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "8:15",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Eva",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Just called to say Hello",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "ZZ",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Mr. J.E",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "12/18/04",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "8:16",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Natalie",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "(317) 204-9686",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "She spoke with Jean-Luc and everything it's ok",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "JR",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Mr. J.E",
+      "Dragana",
+      "Joan-Luc",
+      "Eva",
+      "Natalie",
+      "Jean-Luc"
+    ],
+    "organizations": [
+      "Southbay Realty"
+    ],
+    "locations": [],
+    "dates": [
+      "12/16/04",
+      "12/18/09",
+      "12/18/04"
+    ],
+    "reference_numbers": [
+      "(561) 379-5467",
+      "(317) 204-9686"
+    ]
+  },
+  "additional_notes": "The document appears to be a set of message slips from a real estate office, with handwritten notes and signatures. The messages are from various individuals to Mr. J.E, and contain information about phone calls and property showings."
+}

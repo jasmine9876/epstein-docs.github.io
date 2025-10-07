@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR GM DATE 4/5/05 TIME 10:50 A.M. P.M. M Philip OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED IMPORTANT MESSAGE FOR M. Judelson DATE TIME A.M. P.M. M OF PHONE/MOBILE 1758000 #467 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Buhr on SIGNED IMPORTANT MESSAGE FOR M. J. Epstein DATE 2/4/07 TIME 2:08 A.M. P.M. M elissa Haney OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED IMPORTANT MESSAGE FOR Jeffery DATE TIME 10.40 A.M. P.M. M Mr. Madelson OF 4/5/05 PHONE/MOBILE 1758000 room 467 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Please call him back SIGNED Public Records Request No.: 17-295 DOJ-OGR-00032536",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "GM Philip 4/5/05 10:50 Buhr on elissa Haney M. Judelson 1758000 #467 M. J. Epstein 2/4/07 Jeffery Mr. Madelson 4/5/05 1758000 room 467 Please call him back",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FOR DATE TIME A.M. P.M. M OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032536",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "GM",
+      "Philip",
+      "M. Judelson",
+      "M. J. Epstein",
+      "elissa Haney",
+      "Jeffery",
+      "Mr. Madelson"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "4/5/05",
+      "2/4/07"
+    ],
+    "reference_numbers": [
+      "1758000 #467",
+      "1758000 room 467",
+      "17-295",
+      "DOJ-OGR-00032536"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned image of a notepad containing four 'Important Message' forms. The forms contain handwritten notes with names, dates, phone numbers, and messages."
+}

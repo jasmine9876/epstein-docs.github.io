@@ -1,0 +1,67 @@
+{
+  "document_metadata": {
+    "page_number": "82",
+    "document_number": "17-295",
+    "date": "05/05/2005",
+    "document_type": "Fax",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "05/05/2005 08:41 FAX 19732928680 T MOBILE LER 003/016 04/12/2005 09:12 5613557 PAGE 02 TO WHOM IT MAY CONCERN: Pursuant to an official investigation of a suspected felony being conducted by DETECTIVE MICHELE PAGAN, it is requested that your company furnish PLEASE SEE ATTACHED YOU ARE NOT TO DISCLOSE THE EXISTENCE OF THIS REQUEST. Any such disclosure could obstruct and impede the investigation being conducted and thereby with the enforcement of the law. Thank you for your cooperation. PRESTON HIGHDOLL ASSISTANT STATE ATTORNEY MAY-05-2005 10:59 19732928680 P.03 07/26/17 Page 82 Public Records Request No.: 17-295 DOJ-OGR-00031603",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "05/05/2005 08:41 FAX 19732928680 T MOBILE LER 003/016 04/12/2005 09:12 5613557 PAGE 02",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "TO WHOM IT MAY CONCERN: Pursuant to an official investigation of a suspected felony being conducted by DETECTIVE MICHELE PAGAN, it is requested that your company furnish PLEASE SEE ATTACHED YOU ARE NOT TO DISCLOSE THE EXISTENCE OF THIS REQUEST. Any such disclosure could obstruct and impede the investigation being conducted and thereby with the enforcement of the law. Thank you for your cooperation.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "PRESTON HIGHDOLL",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "ASSISTANT STATE ATTORNEY",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "MAY-05-2005 10:59 19732928680 P.03",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 82 Public Records Request No.: 17-295 DOJ-OGR-00031603",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "MICHELE PAGAN",
+      "PRESTON HIGHDOLL"
+    ],
+    "organizations": [
+      "T MOBILE"
+    ],
+    "locations": [],
+    "dates": [
+      "05/05/2005",
+      "04/12/2005",
+      "MAY-05-2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "19732928680",
+      "5613557",
+      "003/016",
+      "17-295",
+      "DOJ-OGR-00031603"
+    ]
+  },
+  "additional_notes": "The document appears to be a faxed letter from an Assistant State Attorney to an unknown recipient, regarding a suspected felony investigation. The letter is signed by Preston Highdoll. The document has been stamped with a 'Public Records Request No.' and has a handwritten signature."
+}

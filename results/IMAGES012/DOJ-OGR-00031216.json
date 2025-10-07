@@ -1,0 +1,49 @@
+{
+  "document_metadata": {
+    "page_number": "43",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Police Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Call Number: 050850144 Call Type: 069 OPEN DOOR Police Entry Day/Tm: 3/26/05 16:35:22 REVIEW 069 OPEN DOOR Police Caller Name: Last UNK BM First LANGUAGE BARRIE Mid R See Caller: Address: Dr Phone#: City/State: Location: 358 Dr EL BRILLO WY Mod City: PALM BEACH Block#: 300 Loc ID: WY Mod Intersectn.: TRAVERS Agency: 001 Police Dept CmnN: Dspcher: 0000008741 GRABILL MOLLY Call Taker: 0000008182 MOORE, BETH 309 01 - .00000000 Disposition: 022 No Rpt./Asmt Comp *NONE RT 16:35:40 00:00:00 00:00:00 00:00:00 - 302 D 16:37:22 AT 16:51:02 AV 16:58:14 00:00:00 MILLER, JAMES F6=Add Unit F7/F8=Roll Units F9=Caller Check List F10=Print F11=Narrative F12=Return F14=Addtl Disp. F15=Addtl Locations F16=Vehicle F17=Persons 07/26/17 Page 43 of 135 PPublic Records Request No.: 17-295 DOJ-OGR-00031216",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Call Number: 050850144 Call Type: 069 OPEN DOOR Police Entry Day/Tm: 3/26/05 16:35:22 REVIEW 069 OPEN DOOR Police Caller Name: Last UNK BM First LANGUAGE BARRIE Mid R See Caller: Address: Dr Phone#: City/State: Location: 358 Dr EL BRILLO WY Mod City: PALM BEACH Block#: 300 Loc ID: WY Mod Intersectn.: TRAVERS Agency: 001 Police Dept CmnN: Dspcher: 0000008741 GRABILL MOLLY Call Taker: 0000008182 MOORE, BETH 309 01 - .00000000 Disposition: 022 No Rpt./Asmt Comp *NONE RT 16:35:40 00:00:00 00:00:00 00:00:00 - 302 D 16:37:22 AT 16:51:02 AV 16:58:14 00:00:00 MILLER, JAMES F6=Add Unit F7/F8=Roll Units F9=Caller Check List F10=Print F11=Narrative F12=Return F14=Addtl Disp. F15=Addtl Locations F16=Vehicle F17=Persons",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 43 of 135 PPublic Records Request No.: 17-295 DOJ-OGR-00031216",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "BARRIE",
+      "BETH MOORE",
+      "MOLLY GRABILL",
+      "JAMES MILLER"
+    ],
+    "organizations": [
+      "Police Dept"
+    ],
+    "locations": [
+      "PALM BEACH",
+      "EL BRILLO WY",
+      "TRAVERS"
+    ],
+    "dates": [
+      "3/26/05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "050850144",
+      "17-295",
+      "DOJ-OGR-00031216"
+    ]
+  },
+  "additional_notes": "The document appears to be a police report from Palm Beach, detailing a call made on March 26, 2005. The report includes various timestamps and personnel involved in handling the call."
+}

@@ -1,0 +1,59 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00032502",
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR DATE TIME A.M. P.M. M OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED IMPORTANT MESSAGE FOR J.E. DATE 1/09/05 TIME 10.00 A.M. P.M. M Nadia OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Just tell him that I called SIGNED XR IMPORTANT MESSAGE FOR J.E. DATE 1/10/05 TIME 12:22 A.M. P.M. M Derron OF PHONE/ MOBILE (373) 537-1169 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE PLease call me I'm at home SIGNED R IMPORTANT MESSAGE FOR J.H. DATE 01/10/05 TIME 1:25 A.M. P.M. M Karen OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Just that he called SIGNED",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE FOR DATE TIME A.M. P.M. M OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "J.E. 1/09/05 10.00 Nadia Just tell him that I called XR",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "J.E. 1/10/05 12:22 Derron (373) 537-1169 PLease call me I'm at home R",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "J.H. 01/10/05 1:25 Karen Just that he called",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032502",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "J.E.",
+      "Nadia",
+      "Derron",
+      "J.H.",
+      "Karen"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "1/09/05",
+      "1/10/05",
+      "01/10/05"
+    ],
+    "reference_numbers": [
+      "(373) 537-1169",
+      "DOJ-OGR-00032502"
+    ]
+  },
+  "additional_notes": "The document contains four 'Important Message' forms with handwritten notes. The forms are filled out with names, dates, times, and messages. One phone number is provided: (373) 537-1169. The document appears to be a scanned copy of a physical notebook page, with a document number 'DOJ-OGR-00032502' at the bottom."
+}

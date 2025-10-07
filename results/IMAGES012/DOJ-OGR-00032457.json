@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00032457",
+    "date": "03/06/03",
+    "document_type": "Important Message",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR Tic DATE 03/06/03 TIME 2 A.M. P.M. M OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Tanlifa 478 0449 SIGNED 1184 IMPORTANT MESSAGE FOR IR Eptin DATE 03/06/03 TIME 2 A.M. P.M. M Lesly NY office OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE she had RON BARTON for you SIGNED Egotye 1184 IMPORTANT MESSAGE FOR JE Eptin DATE 03/06/03 TIME 9425 A.M. P.M. MISS Alina OF PHONE 917 AREA CODE 345 NUMBER 3107 EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Please call her back SIGNED Evetge 07/26/17 Page 2144 IMPORTANT MESSAGE FOR TE DATE 03/06/03 TIME 612 A.M. P.M. M OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Donna Taravella 917 319 9591 SIGNED Public Records Request No.: 17-295 1184",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Tic 03/06/03 2 Tanlifa 478 0449",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "IR Eptin 03/06/03 2 she had RON BARTON for you Egotye",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "JE Eptin 03/06/03 9425 Please call her back Evetge 07/26/17",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "TE 03/06/03 612 Donna Taravella 917 319 9591 Public Records Request No.: 17-295",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Tic",
+      "IR Eptin",
+      "Lesly",
+      "RON BARTON",
+      "JE Eptin",
+      "Alina",
+      "Evetge",
+      "TE",
+      "Donna Taravella"
+    ],
+    "organizations": [],
+    "locations": [
+      "NY office"
+    ],
+    "dates": [
+      "03/06/03",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "478 0449",
+      "917 345 3107",
+      "917 319 9591",
+      "17-295"
+    ]
+  },
+  "additional_notes": "The document appears to be a set of four 'Important Message' slips, likely from a office setting. The handwriting is generally legible, but some parts may be difficult to read due to the quality of the scan."
+}

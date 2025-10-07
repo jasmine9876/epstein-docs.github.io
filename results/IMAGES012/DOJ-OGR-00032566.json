@@ -1,0 +1,69 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00032566",
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR: Jeffery DATE: 4/12/05 TIME: 4:43 A.M. P.M. M: Natalie OF: PHONE/MOBILE: You knows her number TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE: Hi, SIGNED: IMPORTANT MESSAGE FOR: Jeffery DATE: 4/11/05 TIME: 4:46 A.M. P.M. M: Cecilia OF: PHONE/MOBILE: TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE: She had Dr. Jarecki SIGNED: IMPORTANT MESSAGE FOR: Jeffery DATE: 4/11/05 TIME: 4:39 A.M. P.M. M: Cecilia OF: PHONE/MOBILE: TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE: She had Mr. Sperbery on the phone SIGNED: IMPORTANT MESSAGE FOR: Jeffery DATE: 4/11/05 TIME: 4:28 A.M. P.M. M: Cecilia OF: PHONE/MOBILE: TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE: She had Leon online SIGNED: Public Records Request No.: 17-295",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffery Natalie You knows her number Hi",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffery Cecilia She had Dr. Jarecki",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffery Cecilia She had Mr. Sperbery on the phone",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffery Cecilia She had Leon online",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032566",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffery",
+      "Natalie",
+      "Cecilia",
+      "Dr. Jarecki",
+      "Mr. Sperbery",
+      "Leon"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "4/12/05",
+      "4/11/05"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032566"
+    ]
+  },
+  "additional_notes": "The document appears to be a scan of a notepad with four 'Important Message' forms filled out. The forms are dated April 11 and 12, 2005, and contain handwritten notes about phone calls and messages for someone named Jeffery."
+}

@@ -1,0 +1,84 @@
+{
+  "document_metadata": {
+    "page_number": "148",
+    "document_number": "17-295",
+    "date": "10-6-2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "HYPERION AIR, INC. PASSENGER MANIFEST Registration Number: N909JE Type: G-1159B Pilots: Bill Hammond, Larry Visotski DATE: 10-6-2005 FROM TEB TO MIA Departure Time 11:21 PM Arrival Time 1:48 PM Trip Number 1829 PASSENGERS 1. Jeffrey Epstein 2. SARAH KELLEN 3. ADRIANNA MUSINSKA 4. DANA BURAWS FROM Identifier Defined City TETERBORO State or Country N.J. TO Identifier Defined City MIA MI State or Country FL Nautical Miles 954 Statute Miles 1096 Gallons 1700 Pounds 12212 AIRFRAME 9871.6 Flight Time 2 +26 2'5 Altitude FL FL450 9874.1 TAKE-OFF POWER Night Flex Take-Off T/L Min Take-Off IMC Condition Approach COMMENTS",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "HYPERION AIR, INC. PASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: N909JE Type: G-1159B Pilots: Bill Hammond, Larry Visotski",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "10-6-2005 TEB MIA 11:21 PM 1:48 PM 1829",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGERS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1. Jeffrey Epstein 2. SARAH KELLEN 3. ADRIANNA MUSINSKA 4. DANA BURAWS",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FROM Identifier Defined City State or Country TO Identifier Defined City State or Country Nautical Miles Statute Miles Gallons Pounds AIRFRAME Flight Time Altitude FL TAKE-OFF POWER Night Flex Take-Off T/L Min Take-Off IMC Condition Approach",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "TEB TETERBORO N.J. MIA MI FL 954 1096 1700 12212 9871.6 2 +26 2'5 FL450 9874.1 T/L IMC",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "COMMENTS",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "SARAH KELLEN",
+      "ADRIANNA MUSINSKA",
+      "DANA BURAWS",
+      "Bill Hammond",
+      "Larry Visotski"
+    ],
+    "organizations": [
+      "Hyperion Air, Inc."
+    ],
+    "locations": [
+      "Teterboro",
+      "New Jersey",
+      "Miami",
+      "Florida"
+    ],
+    "dates": [
+      "10-6-2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N909JE",
+      "G-1159B",
+      "17-295",
+      "1829",
+      "DOI-OGR-00032187"
+    ]
+  },
+  "additional_notes": "The document is a passenger manifest for a flight from Teterboro to Miami on October 6, 2005. The document contains handwritten information and appears to be a scanned copy."
+}

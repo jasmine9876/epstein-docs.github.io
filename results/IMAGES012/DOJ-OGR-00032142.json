@@ -1,0 +1,104 @@
+{
+  "document_metadata": {
+    "page_number": "103",
+    "document_number": "17-295",
+    "date": "10-15, 2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "JEGE, INC. PASSENGER MANIFEST Registration Number: N968JE Type: B-727-31 Pilots: Dave Rodgers, Larry Visoki Flight Engineer: Larry Morrison DATE: 10-15, 2005 FROM LCQ TO LCQ Departure Time 6:30 PM Arrival Time 6:41 PM Trip Number 344 PASSENGERS 1. [redacted] 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. FROM Identifier Defined City LAKE City State or Country FL TO Identifier Defined City LAKE City State or Country FL Nautical Miles 0 Statute Miles 0 Gallons Pounds 3015 33119.0 Flight Time +11 2 Altitude FL 3015 33119.2 20. Night 21. T/L 1 22. IMC 23. Approach 24. MAINTENANCE TEST FLIGHT 25. 26. 07/26/17 Page 103 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032142",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "JEGE, INC. PASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: N968JE Type: B-727-31",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Dave Rodgers, Larry Visoki Larry Morrison",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "DATE: FROM TO Departure Time Arrival Time Trip Number",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "10-15, 2005 LCQ LCQ 6:30 PM 6:41 PM 344",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGERS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "[redacted]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FROM Identifier Defined City State or Country TO Identifier Defined City State or Country",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "LAKE City FL LAKE City FL",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Nautical Miles Statute Miles Gallons Pounds Flight Time Altitude FL",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "0 0 3015 33119.0 +11 2 3015 33119.2",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "MAINTENANCE TEST FLIGHT",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 103 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032142",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Dave Rodgers",
+      "Larry Visoki",
+      "Larry Morrison"
+    ],
+    "organizations": [
+      "JEGE, INC."
+    ],
+    "locations": [
+      "LAKE City",
+      "FL",
+      "LCQ"
+    ],
+    "dates": [
+      "10-15, 2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N968JE",
+      "17-295",
+      "DOJ-OGR-00032142",
+      "344"
+    ]
+  },
+  "additional_notes": "The document contains a redacted passenger name and some handwritten notes. The document is a passenger manifest for a flight on October 15, 2005."
+}

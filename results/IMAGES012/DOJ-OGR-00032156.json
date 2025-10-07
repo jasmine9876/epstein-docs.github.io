@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "06",
+    "document_number": "17-295",
+    "date": "04/07/2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "04/07/2005 17:29 5614786553 JEGE OR HYPERION AIR PAGE 06 HYPERION AIR, INC. PASSENGER MANIFEST Registration Number: N909JE Type: G-1159B Pilots: Dave Rodgers, Larry Visoski DATE: 4.5.2005 FROM PBI TO PDK Departure Time 3:36 AM Arrival Time 4:59 AM Trip Number 1767 PASSENGERS 1. [REDACTED] 2. Ghislaine Maxwell 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. FROM Identifier Defined City WEST PALM BEACH State or Country FL TO Identifier Defined City ATLANTA State or Country GA Nautical Miles Statute Miles Gallons 900 Pounds 6600 AIRFRAME 9737.8 Flight Time 1+22 1.4 Altitude FL 410 9739.2 TAKE-OFF POWER Night Flex Take-Off T/L 1 Min Take-Off 2.15 IMC Condition Approach COMMENTS 07/26/17 Page 117 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032156",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "HYPERION AIR, INC. PASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Dave Rodgers, Larry Visoski",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGERS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Ghislaine Maxwell",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "COMMENTS",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 117 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032156",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Dave Rodgers",
+      "Larry Visoski",
+      "Ghislaine Maxwell"
+    ],
+    "organizations": [
+      "Hyperion Air, Inc."
+    ],
+    "locations": [
+      "West Palm Beach, FL",
+      "Atlanta, GA"
+    ],
+    "dates": [
+      "4.5.2005",
+      "04/07/2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N909JE",
+      "G-1159B",
+      "1767",
+      "17-295",
+      "DOJ-OGR-00032156"
+    ]
+  },
+  "additional_notes": "The document contains a redacted passenger name and various flight details."
+}

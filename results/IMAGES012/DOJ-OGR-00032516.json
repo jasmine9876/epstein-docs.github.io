@@ -1,0 +1,78 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00032516",
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR J. E. DATE 2/16/05 TIME 4:35 P.M. TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE NO message SIGNED J. IMPORTANT MESSAGE FOR J. E DATE 2/15/05 TIME 12:35 P.M. TELEPHONED X PLEASE CALL WILL CALL AGAIN CAME TO SEE YOU RUSH WANTS TO SEE YOU SPECIAL ATTENTION RETURNED YOUR CALL MESSAGE SIGNED J. B. IMPORTANT MESSAGE FOR Jeffie DATE 02/15/05 TIME 01:20 P.M. M Jeffie Cecil OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE She had Jeff Holman go to her phone SIGNED 07/25/17 IMPORTANT MESSAGE FOR J. E DATE TIME 5:35 P.M. M Eri Goldsmith OF PHONE/ MOBILE 844 9715 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED Public Records Request No.: 17-295",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "J. E. 2/16/05 4:35 P.M. NO message J.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "J. E 2/15/05 12:35 P.M. X J. B.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffie 02/15/05 01:20 P.M. Jeffie Cecil She had Jeff Holman go to her phone 07/25/17",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "J. E 5:35 P.M. Eri Goldsmith 844 9715 Public Records Request No.: 17-295",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "J. E.",
+      "Jeffie",
+      "Jeffie Cecil",
+      "Jeff Holman",
+      "Eri Goldsmith",
+      "J.",
+      "J. B."
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "2/16/05",
+      "2/15/05",
+      "02/15/05",
+      "07/25/17"
+    ],
+    "reference_numbers": [
+      "844 9715",
+      "17-295",
+      "DOJ-OGR-00032516"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned image of a notepad with four 'Important Message' forms. The forms contain handwritten notes and some printed text. The document quality is generally good, but there are some minor stains and marks on the pages."
+}

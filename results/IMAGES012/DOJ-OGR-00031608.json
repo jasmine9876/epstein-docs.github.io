@@ -1,0 +1,78 @@
+{
+  "document_metadata": {
+    "page_number": "7",
+    "document_number": "19732928680",
+    "date": "Feb 05, 2005",
+    "document_type": "T-Mobile Customer Service Fax",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "05/05/2005 08:42 FAX 19732928680 T MOBILE LER 008/016 Customer Service Number 1-800-937-8997 Feb 05, 2005 Itemized Details For: Account Number: Page 7 of 33 LOCAL AIRTIME, LONG DISTANCE and INTERNATIONAL CHARGES - (Continued) Date Call Destination Call Time Number Called Call Type Minutes Airtime Charges Toll Charges Total 2/02/05 W Palm Bch, FL 10:30 AM 561-317-8722 (F) 3 $ - $ - $ - 2/02/05 Incoming 3:44 PM 561-602-5720 2 $ - $ - $ - 2/02/05 W Palm Bch, FL 6:12 PM 561-602-5720 1 $ - $ - $ - 2/02/05 Incoming 6:15 PM 561-602-5720 4 $ - $ - $ - 2/02/05 Incoming 6:35 PM 561-802-5215 1 $ - $ - $ - 2/02/05 W Palm Bch, FL 10:25 PM 561-317-3375 (F) 1 $ - $ - $ - 2/02/05 Incoming 10:26 PM 561-602-5720 19 $ - $ - $ - 2/02/05 Incoming 10:45 PM 561-602-5720 7 $ - $ - $ - 2/03/05 W Palm Bch, FL 6:54 AM 561-602-5720 1 $ - $ - $ - 2/03/05 W Palm Bch, FL 9:32 PM 561-602-5720 9 $ - $ - $ - 2/03/05 Incoming 10:38 PM 561-602-5720 5 $ - $ - $ - 2/03/05 W Palm Bch, FL 11:48 PM 561-602-5720 1 $ - $ - $ - 2/04/05 Incoming 10:03 AM 561-602-5720 1 $ - $ - $ - 2/04/05 Incoming 4:40 PM 561-317-8722 (F) 3 $ - $ - $ - 2/04/05 W Palm Bch, FL 4:44 PM 561-317-3375 (F) 1 $ - $ - $ - 2/04/05 W Palm Bch, FL 4:48 PM 561-317-3375 (F) 1 $ - $ - $ - 2/04/05 W Palm Bch, FL 4:48 PM 561-317-3375 (F) 1 $ - $ - $ - 2/04/05 W Palm Bch, FL 4:49 PM 561-317-3375 (F) 1 $ - $ - $ - 2/04/05 W Palm Bch, FL 4:51 PM 561-317-3375 (F) 1 $ - $ - $ - 2/04/05 Incoming 9:23 PM 561-301-6596 1 $ - $ - $ - Total Zero VM calls 47 $ - $ - $ - SUBTOTAL 240 $ - $ - $ - Total of All Usage Charges $ - Call Type: (A) Call Waiting (B) Call Forward (C) Conference Call (E) Data/Fax (F) Mobile2Mobile (G) Voicemail (H) Free Calls (K) WPS Call 07/26/17 Page 87 Public Records Request No.: 17-295 MAY-05-2005 11:00 19732928680 98% P. 08 DOJ-OGR-00031608",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "05/05/2005 08:42 FAX 19732928680 T MOBILE LER 008/016",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Customer Service Number 1-800-937-8997 Feb 05, 2005 Itemized Details For: Account Number: Page 7 of 33",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "LOCAL AIRTIME, LONG DISTANCE and INTERNATIONAL CHARGES - (Continued)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Date Call Destination Call Time Number Called Call Type Minutes Airtime Charges Toll Charges Total",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "2/02/05 W Palm Bch, FL 10:30 AM 561-317-8722 (F) 3 $ - $ - $ -",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Total Zero VM calls 47 $ - $ - $ - SUBTOTAL 240 $ - $ - $ - Total of All Usage Charges $ -",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Call Type: (A) Call Waiting (B) Call Forward (C) Conference Call (E) Data/Fax (F) Mobile2Mobile (G) Voicemail (H) Free Calls (K) WPS Call 07/26/17 Page 87 Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "MAY-05-2005 11:00 19732928680 98% P. 08 DOJ-OGR-00031608",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "T-Mobile"
+    ],
+    "locations": [
+      "W Palm Bch, FL"
+    ],
+    "dates": [
+      "05/05/2005",
+      "Feb 05, 2005",
+      "2/02/05",
+      "2/03/05",
+      "2/04/05",
+      "MAY-05-2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "19732928680",
+      "1-800-937-8997",
+      "17-295",
+      "DOJ-OGR-00031608"
+    ]
+  },
+  "additional_notes": "The document appears to be a faxed itemized bill from T-Mobile, detailing local airtime, long distance, and international charges for a specific account. The document is page 7 of 33 and includes a list of calls made between February 2, 2005, and February 4, 2005. The total usage charges are listed as $0.00."
+}

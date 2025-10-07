@@ -1,0 +1,73 @@
+{
+  "document_metadata": {
+    "page_number": "24",
+    "document_number": null,
+    "date": null,
+    "document_type": "List of Donors",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Albuquerque Tribune Online Page 24 of 28 $5,000 Pacifica Companies, San Diego, Calif. Hospitality $5,000 Paleface Ranch, Alto Rancher $5,000 Paul A. Donisthorpe LLC, Albuquerque Investment banker $5,000 Pechanga Band of Mission Indians, Temecula, Calif. American Indian Tribe $5,000 Peter L. Buttenwieser, Philadelphia, Pa. Education consultant $5,000 Pharmaceutical Research & Manufacturers of America, Washington, D.C. Health care association $5,000 Philip D. Harvey, Wilmington, Del. Mental health expert $5,000 Philip J. Wolff, Las Vegas, N.M. Insurance $5,000 Plumbers & Steamfitters 412, Albuquerque Union $5,000 Prakash Ranka, Hobbs Physician $5,000 Pueblo of San Ildefonso, Santa Fe American Indian Pueblo $5,000 Ralph Schlosstein, New York, N.Y. President $5,000 Ray F. Padilla Jr., Aztec Manufacturing $5,000 Robert B. Millard, New York, N.Y. Managing director $5,000 Robert Denison, Santa Fe Investments $5,000 Robert F. McCallum, San Francisco, Calif. Software executive http://abqtrib.com/archives/news02/120702_Pagew24_donate.shtml PPublic Records Request No.: 17-2857/2006 DOJ-OGR-00031297",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Albuquerque Tribune Online Page 24 of 28",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "$5,000 Pacifica Companies, San Diego, Calif. Hospitality $5,000 Paleface Ranch, Alto Rancher $5,000 Paul A. Donisthorpe LLC, Albuquerque Investment banker $5,000 Pechanga Band of Mission Indians, Temecula, Calif. American Indian Tribe $5,000 Peter L. Buttenwieser, Philadelphia, Pa. Education consultant $5,000 Pharmaceutical Research & Manufacturers of America, Washington, D.C. Health care association $5,000 Philip D. Harvey, Wilmington, Del. Mental health expert $5,000 Philip J. Wolff, Las Vegas, N.M. Insurance $5,000 Plumbers & Steamfitters 412, Albuquerque Union $5,000 Prakash Ranka, Hobbs Physician $5,000 Pueblo of San Ildefonso, Santa Fe American Indian Pueblo $5,000 Ralph Schlosstein, New York, N.Y. President $5,000 Ray F. Padilla Jr., Aztec Manufacturing $5,000 Robert B. Millard, New York, N.Y. Managing director $5,000 Robert Denison, Santa Fe Investments $5,000 Robert F. McCallum, San Francisco, Calif. Software executive",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "http://abqtrib.com/archives/news02/120702_Pagew24_donate.shtml PPublic Records Request No.: 17-2857/2006 DOJ-OGR-00031297",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Paul A. Donisthorpe",
+      "Peter L. Buttenwieser",
+      "Philip D. Harvey",
+      "Philip J. Wolff",
+      "Prakash Ranka",
+      "Ralph Schlosstein",
+      "Ray F. Padilla Jr.",
+      "Robert B. Millard",
+      "Robert Denison",
+      "Robert F. McCallum"
+    ],
+    "organizations": [
+      "Pacifica Companies",
+      "Paleface Ranch",
+      "Paul A. Donisthorpe LLC",
+      "Pechanga Band of Mission Indians",
+      "Pharmaceutical Research & Manufacturers of America",
+      "Plumbers & Steamfitters 412",
+      "Pueblo of San Ildefonso",
+      "Aztec Manufacturing",
+      "Santa Fe Investments"
+    ],
+    "locations": [
+      "San Diego",
+      "Albuquerque",
+      "Temecula",
+      "Philadelphia",
+      "Washington, D.C.",
+      "Wilmington",
+      "Las Vegas",
+      "Hobbs",
+      "Santa Fe",
+      "New York",
+      "Aztec",
+      "San Francisco"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "17-2857/2006",
+      "DOJ-OGR-00031297"
+    ]
+  },
+  "additional_notes": "The document appears to be a list of donors with their respective donation amounts and occupations. The list is from the Albuquerque Tribune Online and is page 24 of 28."
+}

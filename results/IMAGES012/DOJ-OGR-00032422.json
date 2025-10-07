@@ -1,0 +1,41 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00032422",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "CD:30Wly Make pic' fireDept. Jeffrey E. Epstein",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "CD:30Wly Make pic' fireDept.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Jeffrey E. Epstein",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032422",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey E. Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "CD:30Wly",
+      "DOJ-OGR-00032422"
+    ]
+  },
+  "additional_notes": "The document appears to be a photocopy or scan of a note related to Jeffrey E. Epstein. The handwriting is likely a note from someone to make a picture for the fire department. The document quality is poor, with a grainy texture."
+}

@@ -1,0 +1,73 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Important Message Slips",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR MR EPSTEIN DATE TIME A.M. P.M. M OF PHONE/ MOBILE TELEPHONED PLEASE CALL WILL CALL AGAIN CAME TO SEE YOU WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 1184 Parver WILL CALL AGAIN IMPORTANT MESSAGE FOR MR. EPSTEIN DATE TIME 9:20 A.M. P.M. M OF Larry (Pilot) PHONE/ MOBILE TELEPHONED PLEASE CALL WILL CALL AGAIN CAME TO SEE YOU WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE He said he was to the boat place and he is developing some pictures. SIGNED 1184 IMPORTANT MESSAGE FOR MR EPSTEIN DATE TIME 3:20 A.M. P.M. M OF DAVE PHONE/ MOBILE TELEPHONED PLEASE CALL WILL CALL AGAIN CAME TO SEE YOU WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 158 IMPORTANT MESSAGE FOR MR EPSTEIN DATE TIME A.M. P.M. M OF SARAH PHONE/ MOBILE TELEPHONED PLEASE CALL WILL CALL AGAIN CAME TO SEE YOU WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Asking if she can be pick up by Kristoffe SIGNED Public Records Request No: 17-295 1184 DOJ-OGR-00032471",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE FOR DATE TIME A.M. P.M. M OF PHONE/ MOBILE TELEPHONED PLEASE CALL WILL CALL AGAIN CAME TO SEE YOU WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "MR EPSTEIN Parver WILL CALL AGAIN",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "MR. EPSTEIN 9:20 A.M. Larry (Pilot) He said he was to the boat place and he is developing some pictures.",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "MR EPSTEIN 3:20 DAVE",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "MR EPSTEIN SARAH Asking if she can be pick up by Kristoffe",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "Public Records Request No: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "1184",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032471",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "MR EPSTEIN",
+      "Parver",
+      "Larry (Pilot)",
+      "DAVE",
+      "SARAH",
+      "Kristoffe"
+    ],
+    "organizations": [],
+    "locations": [
+      "boat place"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032471"
+    ]
+  },
+  "additional_notes": "The document appears to be a set of four 'Important Message' slips, likely from a office or business setting. The slips are filled out with handwritten notes, indicating messages taken for 'MR EPSTEIN'. The document is in a relatively good condition, with some minor wear and tear visible on the edges. There are no visible redactions or damage to the document."
+}

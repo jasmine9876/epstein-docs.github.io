@@ -1,0 +1,136 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR Mr Epstein DATE 23/11/03 TIME 11:15 A.M. M JENNY OF PHONE 385 544 AREA CODE NUMBER EXTENSION TELEPHONED X PLEASE CALL X CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE \"South University\" SIGNED Erge 1184 IMPORTANT MESSAGE FOR DATE TIME A.M. P.M. M OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 1184 IMPORTANT MESSAGE FOR JE DATE 17/03/03 TIME 10:45 A.M. M ERIC OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE \"Please call\" SIGNED 07/26/17 image 2150 IMPORTANT MESSAGE FOR JE DATE 17/03/03 TIME 8:00 A.M. M NATASHA OF 3104801503 PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED M. Michael Public Records Request No.: 17-295 1184",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Mr Epstein",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "23/11/03",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "11:15",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "JENNY",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "385 544",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "\"South University\"",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Erge",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "JE",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "17/03/03",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "10:45",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "ERIC",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "\"Please call\"",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "07/26/17",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "JE",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "17/03/03",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "8:00",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "NATASHA",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "3104801503",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "M. Michael",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Mr Epstein",
+      "JENNY",
+      "ERIC",
+      "NATASHA",
+      "M. Michael"
+    ],
+    "organizations": [
+      "South University"
+    ],
+    "locations": [],
+    "dates": [
+      "23/11/03",
+      "17/03/03",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "3104801503"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned image of a set of 'Important Message' forms, likely from a office or business setting. The forms contain handwritten notes and messages, including names, dates, and phone numbers. The image quality is generally good, but there may be some minor artifacts or distortions due to the scanning process."
+}

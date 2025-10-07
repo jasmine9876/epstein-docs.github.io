@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "17",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Envelope",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "Herman & Mermelstein, P.A. ATTORNEYS AT LAW 18205 Biscayne Boulevard SUITE 2218 MIAMI, FL 33160 2008 MAR 24 AM Lanna Leigh Belohlavek State Attorney's Office 401 N. Dixie Hwy West Palm Beach, FL 33401 UNITED STATES POSTAL SERVICE PB8554366 169 5911 00.410 MAR 20 08 3447 NORTH MIAMI BEACH, FL 33160 33401+4298 07/26/17 Page 17 of 94 Public Records Request No.: 17-295 DOJ-OGR-00031862",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Herman & Mermelstein, P.A. ATTORNEYS AT LAW 18205 Biscayne Boulevard SUITE 2218 MIAMI, FL 33160",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "2008 MAR 24 AM",
+      "position": "left margin"
+    },
+    {
+      "type": "printed",
+      "content": "Lanna Leigh Belohlavek State Attorney's Office 401 N. Dixie Hwy West Palm Beach, FL 33401",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "UNITED STATES POSTAL SERVICE PB8554366 169 5911 00.410 MAR 20 08 3447 NORTH MIAMI BEACH, FL 33160",
+      "position": "top right"
+    },
+    {
+      "type": "printed",
+      "content": "33401+4298",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 17 of 94 Public Records Request No.: 17-295 DOJ-OGR-00031862",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Lanna Leigh Belohlavek"
+    ],
+    "organizations": [
+      "Herman & Mermelstein, P.A.",
+      "State Attorney's Office",
+      "UNITED STATES POSTAL SERVICE"
+    ],
+    "locations": [
+      "Miami",
+      "North Miami Beach",
+      "West Palm Beach",
+      "Florida"
+    ],
+    "dates": [
+      "2008 MAR 24",
+      "MAR 20 08",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "PB8554366",
+      "17-295",
+      "DOJ-OGR-00031862"
+    ]
+  },
+  "additional_notes": "The document is a scanned image of an envelope with a postal stamp and printed text. The envelope is addressed to Lanna Leigh Belohlavek at the State Attorney's Office in West Palm Beach, FL."
+}

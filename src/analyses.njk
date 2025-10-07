@@ -4,183 +4,244 @@ title: Document Analyses
 ---
 
 <h1>Document Analyses</h1>
-<p class="subtitle">AI-generated summaries and insights for {{ analyses.length }} documents</p>
+<p class="subtitle">AI-generated summaries for {{ analyses.length }} documents</p>
 
 <div class="search-box">
   <input type="text" id="search" placeholder="Search analyses...">
 </div>
 
-<div id="results">
-  {% for item in analyses %}
-  <div class="analysis-card" data-content="{{ [item.document_number, item.analysis.document_type, item.analysis.summary, item.analysis.significance, item.analysis.key_topics | join(' ')] | join(' ') | lower }}">
-    <div class="analysis-header">
-      <h3>
-        <a href="/document/{{ item.document_id | slugify }}/">Document {{ item.document_number }}</a>
-      </h3>
-      <span class="doc-type-badge">{{ item.analysis.document_type }}</span>
-    </div>
-
-    <div class="analysis-summary">
-      <strong>Summary:</strong> {{ item.analysis.summary }}
-    </div>
-
-    <div class="analysis-significance">
-      <strong>Significance:</strong> {{ item.analysis.significance }}
-    </div>
-
-    {% if item.analysis.key_topics.length > 0 %}
-    <div class="analysis-topics">
-      <strong>Key Topics:</strong>
-      <ul>
-        {% for topic in item.analysis.key_topics %}
-        <li>{{ topic }}</li>
-        {% endfor %}
-      </ul>
-    </div>
-    {% endif %}
-
-    {% if item.analysis.key_people.length > 0 %}
-    <div class="analysis-people">
-      <strong>Key People:</strong>
-      <ul>
-        {% for person in item.analysis.key_people %}
-        <li><strong>{{ person.name }}</strong> - {{ person.role }}</li>
-        {% endfor %}
-      </ul>
-    </div>
-    {% endif %}
-
-    <div class="analysis-meta">
-      <span>{{ item.page_count }} {{ "page" if item.page_count == 1 else "pages" }}</span>
-      <a href="/document/{{ item.document_id | slugify }}/" class="view-doc-link">View full document →</a>
-    </div>
-  </div>
+<div class="filter-buttons">
+  <button class="filter-btn active" data-type="all">All</button>
+  {% for type in analysisDocumentTypes %}
+  <button class="filter-btn" data-type="{{ type | lower }}">{{ type }}</button>
   {% endfor %}
 </div>
 
+<div class="table-container">
+  <table class="analyses-table">
+    <thead>
+      <tr>
+        <th>Document</th>
+        <th>Type</th>
+        <th>Pages</th>
+        <th>Summary</th>
+      </tr>
+    </thead>
+    <tbody id="results">
+      {% for item in analyses %}
+      <tr class="analysis-row" data-content="{{ [item.document_number, item.analysis.document_type, item.analysis.summary, item.analysis.significance, item.analysis.key_topics | join(' ')] | join(' ') | lower }}" data-type="{{ item.analysis.document_type | lower }}">
+        <td class="doc-number">
+          <a href="/document/{{ item.document_id | slugify }}/">{{ item.document_number }}</a>
+        </td>
+        <td class="doc-type">
+          <span class="doc-type-badge">{{ item.analysis.document_type }}</span>
+        </td>
+        <td class="page-count">{{ item.page_count }}</td>
+        <td class="summary">{{ item.analysis.summary }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+
 <style>
-  .analysis-card {
+  .filter-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .filter-btn {
+    padding: 0.5rem 1rem;
     background: white;
     border: 1px solid #e0e0e0;
-    border-radius: 8px;
-    padding: 1.5rem;
-    margin-bottom: 1.5rem;
+    border-radius: 6px;
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: #2c3e50;
+    cursor: pointer;
     transition: all 0.2s;
   }
 
-  .analysis-card:hover {
+  .filter-btn:hover {
     border-color: #3498db;
-    box-shadow: 0 4px 12px rgba(52, 152, 219, 0.15);
+    color: #3498db;
   }
 
-  .analysis-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 1rem;
-    flex-wrap: wrap;
-    gap: 0.5rem;
+  .filter-btn.active {
+    background: #3498db;
+    border-color: #3498db;
+    color: white;
   }
 
-  .analysis-header h3 {
-    margin: 0;
-    font-size: 1.25rem;
+  .table-container {
+    overflow-x: auto;
+    background: white;
+    border-radius: 8px;
+    border: 1px solid #e0e0e0;
   }
 
-  .analysis-header h3 a {
+  .analyses-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.9rem;
+    table-layout: fixed;
+  }
+
+  .analyses-table thead {
+    background: #f8f9fa;
+    border-bottom: 2px solid #e0e0e0;
+  }
+
+  .analyses-table th {
+    padding: 0.75rem 1rem;
+    text-align: left;
+    font-weight: 600;
     color: #2c3e50;
+  }
+
+  .analyses-table td {
+    padding: 0.75rem 1rem;
+    border-bottom: 1px solid #f0f0f0;
+    vertical-align: top;
+  }
+
+  .analyses-table tbody tr:hover {
+    background: #f8f9fa;
+  }
+
+  /* Fixed column widths */
+  .analyses-table th:nth-child(1),
+  .analyses-table td:nth-child(1) {
+    width: 15%;
+    min-width: 120px;
+  }
+
+  .analyses-table th:nth-child(2),
+  .analyses-table td:nth-child(2) {
+    width: 12%;
+    min-width: 100px;
+  }
+
+  .analyses-table th:nth-child(3),
+  .analyses-table td:nth-child(3) {
+    width: 8%;
+    min-width: 60px;
+  }
+
+  .analyses-table th:nth-child(4),
+  .analyses-table td:nth-child(4) {
+    width: 65%;
+  }
+
+  .doc-number {
+    font-weight: 500;
+    font-size: 0.85rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .doc-number a {
+    color: #3498db;
     text-decoration: none;
   }
 
-  .analysis-header h3 a:hover {
-    color: #3498db;
+  .doc-number a:hover {
+    text-decoration: underline;
+  }
+
+  .doc-type {
+    white-space: nowrap;
   }
 
   .doc-type-badge {
     display: inline-block;
-    padding: 0.25rem 0.75rem;
+    padding: 0.25rem 0.5rem;
     background: #3498db;
     color: white;
-    border-radius: 12px;
-    font-size: 0.8rem;
+    border-radius: 4px;
+    font-size: 0.7rem;
     font-weight: 500;
     text-transform: capitalize;
   }
 
-  .analysis-summary {
-    background: #f8f9fa;
-    padding: 1rem;
-    border-radius: 6px;
-    margin-bottom: 1rem;
-    border-left: 3px solid #3498db;
-  }
-
-  .analysis-significance {
-    margin-bottom: 1rem;
-    font-style: italic;
-    color: #555;
-  }
-
-  .analysis-topics {
-    margin-bottom: 1rem;
-  }
-
-  .analysis-topics ul {
-    margin: 0.5rem 0 0 1.5rem;
-    padding: 0;
-  }
-
-  .analysis-topics li {
-    margin-bottom: 0.25rem;
-  }
-
-  .analysis-people {
-    margin-bottom: 1rem;
-  }
-
-  .analysis-people ul {
-    margin: 0.5rem 0 0 1.5rem;
-    padding: 0;
-  }
-
-  .analysis-people li {
-    margin-bottom: 0.5rem;
-  }
-
-  .analysis-meta {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding-top: 1rem;
-    border-top: 1px solid #e0e0e0;
-    font-size: 0.9rem;
+  .page-count {
+    text-align: center;
     color: #666;
+    white-space: nowrap;
   }
 
-  .view-doc-link {
-    color: #3498db;
-    text-decoration: none;
-    font-weight: 500;
+  .summary {
+    line-height: 1.5;
+    color: #2c3e50;
   }
 
-  .view-doc-link:hover {
-    text-decoration: underline;
+  @media (max-width: 900px) {
+    .analyses-table {
+      font-size: 0.85rem;
+    }
+
+    .analyses-table th,
+    .analyses-table td {
+      padding: 0.5rem 0.75rem;
+    }
   }
 
   @media (max-width: 600px) {
-    .analysis-card {
-      padding: 1rem;
+    /* Stack table on mobile */
+    .analyses-table thead {
+      display: none;
     }
 
-    .analysis-header {
-      flex-direction: column;
-      align-items: flex-start;
+    .analyses-table,
+    .analyses-table tbody,
+    .analyses-table tr,
+    .analyses-table td {
+      display: block;
+      width: 100%;
     }
 
-    .analysis-meta {
-      flex-direction: column;
-      align-items: flex-start;
-      gap: 0.5rem;
+    .analyses-table tr {
+      margin-bottom: 1rem;
+      border: 1px solid #e0e0e0;
+      border-radius: 6px;
+      overflow: hidden;
+    }
+
+    .analyses-table td {
+      padding: 0.75rem;
+      border-bottom: 1px solid #f0f0f0;
+      position: relative;
+      padding-left: 40%;
+    }
+
+    .analyses-table td::before {
+      content: attr(data-label);
+      position: absolute;
+      left: 0.75rem;
+      font-weight: 600;
+      color: #666;
+    }
+
+    .analyses-table td:last-child {
+      border-bottom: none;
+    }
+
+    .doc-number::before { content: "Document: "; }
+    .doc-type::before { content: "Type: "; }
+    .page-count::before { content: "Pages: "; }
+    .summary::before { content: "Summary: "; }
+
+    .summary {
+      padding-left: 0.75rem;
+    }
+
+    .summary::before {
+      position: relative;
+      left: 0;
+      display: block;
+      margin-bottom: 0.5rem;
     }
   }
 </style>
@@ -188,14 +249,37 @@ title: Document Analyses
 <script>
   const search = document.getElementById('search');
   const results = document.getElementById('results');
-  const allCards = Array.from(results.querySelectorAll('.analysis-card'));
+  const allRows = Array.from(results.querySelectorAll('.analysis-row'));
+  const filterButtons = document.querySelectorAll('.filter-btn');
 
+  let currentFilter = 'all';
+  let currentSearch = '';
+
+  // Filter function that applies both type filter and search
+  function applyFilters() {
+    allRows.forEach(row => {
+      const matchesType = currentFilter === 'all' || row.dataset.type === currentFilter;
+      const matchesSearch = currentSearch === '' || row.dataset.content.includes(currentSearch);
+      row.style.display = (matchesType && matchesSearch) ? '' : 'none';
+    });
+  }
+
+  // Search handler
   search.addEventListener('input', (e) => {
-    const query = e.target.value.toLowerCase().trim();
+    currentSearch = e.target.value.toLowerCase().trim();
+    applyFilters();
+  });
 
-    allCards.forEach(card => {
-      const content = card.dataset.content;
-      card.style.display = content.includes(query) ? 'block' : 'none';
+  // Filter button handlers
+  filterButtons.forEach(btn => {
+    btn.addEventListener('click', () => {
+      // Update active state
+      filterButtons.forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+
+      // Update filter and apply
+      currentFilter = btn.dataset.type;
+      applyFilters();
     });
   });
 </script>

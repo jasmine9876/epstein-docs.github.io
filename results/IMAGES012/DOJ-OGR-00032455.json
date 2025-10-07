@@ -1,0 +1,108 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00032455",
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR: Ya Epshtein DATE: 02/22/03 TIME: 9:44 A.M. MISS Dawn OF: PHONE: 309 0079 AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE: Yossef thorapiste SIGNED: Eeltyne 1184 IMPORTANT MESSAGE FOR: Ya Epshtein DATE: 02/21/03 TIME: 7:35 P.M. MISS Miranda OF: PHONE: 963 8470 AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE: SIGNED: Eeltyun 1184 IMPORTANT MESSAGE FOR: JE DATE: 22/22 TIME: 11:07 A.M. P.M. M. OF: TONY PHONE: AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE: He'll be at 12:30 SIGNED: 1/15/17 042617 Pab84242 IMPORTANT MESSAGE FOR: JE DATE: 22/02/03 TIME: 10:40 A.M. P.M. M. Ma Brown OF: PHONE: 655 2721 AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE: SIGNED: Public Records Request No.: 17-295 1184",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Ya Epshtein",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "FOR: DATE: TIME: MISS OF: PHONE: AREA CODE NUMBER EXTENSION",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "02/22/03 9:44 A.M. Dawn 309 0079",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Yossef thorapiste Eeltyne",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "MESSAGE: SIGNED:",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Ya Epshtein 02/21/03 7:35 P.M. Miranda 963 8470",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Eeltyun",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "JE 22/22 11:07 A.M. P.M. TONY",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "He'll be at 12:30 1/15/17",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "JE 22/02/03 10:40 A.M. P.M. Ma Brown 655 2721",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Public Records Request No.: 17-295",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ya Epshtein",
+      "Dawn",
+      "Yossef",
+      "Miranda",
+      "Eeltyne",
+      "Eeltyun",
+      "JE",
+      "TONY",
+      "Ma Brown"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "02/22/03",
+      "02/21/03",
+      "22/22",
+      "22/02/03",
+      "1/15/17"
+    ],
+    "reference_numbers": [
+      "309 0079",
+      "963 8470",
+      "655 2721",
+      "17-295",
+      "DOJ-OGR-00032455"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned image of a set of 'Important Message' forms, likely from a office or business setting. The forms contain handwritten notes and phone messages. The document quality is generally good, but there may be some minor degradation due to scanning."
+}

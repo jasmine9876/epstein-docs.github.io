@@ -1,0 +1,87 @@
+{
+  "document_metadata": {
+    "page_number": "12",
+    "document_number": null,
+    "date": "2006-07-24 (handwritten date at the bottom right)",
+    "document_type": "Donation List",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Albuquerque Tribune Online Page 12 of 28 $10,000 Carlos Gallegos Jr., Santa Fe Businessman $10,000 CEMEX Inc., Houston, Texas Cement Wholesale Mfg. $10,000 Cimarron Exploration Company, El Paso, Texas Construction $10,000 Cordelia C. Trimble, Farmington Retired $10,000 Cozen O'Connor PAC, Philadelphia, Pa. Political Action Committee $10,000 Custer Basarich Ltd., Albuquerque Architecture firm $10,000 Dunn Kacal Adams Pappas & Law, Houston, Texas Law firm $10,000 Earth Energy & Environment LLC, Rapid City, S.D. Energy $10,000 Edward Garcia, Albuquerque Business owner $10,000 El Paso Energy Service Company, Houston, Texas Energy $10,000 EPV Management Inc., Palm Desert, Calif. Real estate management $10,000 Four-Four Inc., Farmington Pipeline contractor $10,000 Gerald Kessler, Melville, N.Y. CEO $10,000 H & R Block, Farmington Accounting and investments $10,000 Hunt Uptown II LLC, El Paso, Texas Construction $10,000 IGT, Reno, Nev. Gambling http://abqtrib.com/archives/news02/120702_pagesdonate.shtml PPublic Records Request No.: 17 2006 347/2006 DOJ-OGR-00031242",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Albuquerque Tribune Online Page 12 of 28",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "List of donations",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "http://abqtrib.com/archives/news02/120702_pagesdonate.shtml PPublic Records Request No.: 17 2006",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "347/2006",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00031242",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Carlos Gallegos Jr.",
+      "Cordelia C. Trimble",
+      "Edward Garcia",
+      "Gerald Kessler"
+    ],
+    "organizations": [
+      "CEMEX Inc.",
+      "Cimarron Exploration Company",
+      "Cozen O'Connor PAC",
+      "Custer Basarich Ltd.",
+      "Dunn Kacal Adams Pappas & Law",
+      "Earth Energy & Environment LLC",
+      "El Paso Energy Service Company",
+      "EPV Management Inc.",
+      "Four-Four Inc.",
+      "H & R Block",
+      "Hunt Uptown II LLC",
+      "IGT"
+    ],
+    "locations": [
+      "Santa Fe",
+      "Houston",
+      "Texas",
+      "El Paso",
+      "Farmington",
+      "Philadelphia",
+      "Pa",
+      "Albuquerque",
+      "Rapid City",
+      "S.D.",
+      "Palm Desert",
+      "Calif.",
+      "Melville",
+      "N.Y.",
+      "Reno",
+      "Nev."
+    ],
+    "dates": [
+      "2006"
+    ],
+    "reference_numbers": [
+      "17",
+      "347/2006",
+      "DOJ-OGR-00031242"
+    ]
+  },
+  "additional_notes": "The document appears to be a list of donations from various individuals and organizations. The page number is 12 of 28, indicating that this is part of a larger document. The date '24/07/2006' is handwritten at the bottom right corner."
+}

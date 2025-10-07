@@ -1,0 +1,112 @@
+{
+  "document_metadata": {
+    "page_number": "01",
+    "document_number": "5614785553",
+    "date": "04/07/2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "04/07/2005 16:53 5614785553 JEGE OR HYPERION AIR PAGE 01 HYPERION AIR, INC. PASSENGER MANIFEST Registration Number: N909JE Type: G-1159B Pilots: B. HAMMOND DaveRodgers, Larry Visoski DATE: 2 22 2005 FROM PBI TO TEB Departure Time 10:37 AM Arrival Time 12:56 PM Trip Number 1757 PASSENGERS 1. Jeffrey Epstein 2. Sarah Kellen 3. Nadia Marcinkova 4. JAMES STALEY 5. SOPHIA STALEY 6. ALEXA STALEY 7. STALEY 8. DAVID MULLEN 9. 10. 11. 12. 13. COMMENTS FROM Identifier Defined City WEST. PALM BEACH State or Country FL TO Identifier Defined City TETERBORO State or Country N.J. Nautical Miles Statute Miles Gallons 1700 AIRFRAME Pounds 8895 9727.7 Flight Time 2:18 23 Altitude FL FL410 9720.0 TAKE-OFF POWER Night Flex Take-Off T/O Min Take-Off IMC Condition Approach 07/26/17 Page 113 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032152",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "HYPERION AIR, INC. PASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "B. HAMMOND DaveRodgers, Larry Visoski",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: N909JE Type: G-1159B Pilots:",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "2 22 2005 PBI TEB 10:37 AM 12:56 PM 1757",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DATE: FROM TO Departure Time Arrival Time Trip Number",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGERS",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "1. Jeffrey Epstein 2. Sarah Kellen 3. Nadia Marcinkova 4. JAMES STALEY 5. SOPHIA STALEY 6. ALEXA STALEY 7. STALEY 8. DAVID MULLEN 9. 10. 11. 12. 13.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "JAMES STALEY SOPHIA STALEY ALEXA STALEY STALEY DAVID MULLEN",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "COMMENTS",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FROM Identifier Defined City WEST. PALM BEACH State or Country FL TO Identifier Defined City TETERBORO State or Country N.J. Nautical Miles Statute Miles Gallons 1700 AIRFRAME Pounds 8895 9727.7 Flight Time 2:18 23 Altitude FL FL410 9720.0 TAKE-OFF POWER Night Flex Take-Off T/O Min Take-Off IMC Condition Approach",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "WEST. PALM BEACH FL TETERBORO N.J. 1700 8895 9727.7 2:18 23 FL410 9720.0",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 113 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032152",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Sarah Kellen",
+      "Nadia Marcinkova",
+      "James Staley",
+      "Sophia Staley",
+      "Alexa Staley",
+      "David Mullen",
+      "B. Hammond",
+      "Dave Rodgers",
+      "Larry Visoski"
+    ],
+    "organizations": [
+      "Hyperion Air, Inc."
+    ],
+    "locations": [
+      "West Palm Beach",
+      "PBI",
+      "Teterboro",
+      "TEB",
+      "FL",
+      "N.J."
+    ],
+    "dates": [
+      "04/07/2005",
+      "2 22 2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "5614785553",
+      "N909JE",
+      "G-1159B",
+      "1757",
+      "17-295",
+      "DOJ-OGR-00032152"
+    ]
+  },
+  "additional_notes": "The document is a passenger manifest for Hyperion Air, Inc. The document contains handwritten information about the flight, including the date, departure and arrival times, and passenger names. The document also contains printed information about the flight, including the registration number, type, and pilots."
+}

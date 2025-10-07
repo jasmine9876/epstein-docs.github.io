@@ -1,0 +1,124 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-0003244",
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR JE DATE 09/02/03 TIME 12:57 P.M. M John Barrow OF PHONE 416 1223 361212 AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Returning Your Voice Message SIGNED MICHAEL 1184 IMPORTANT MESSAGE FOR JE DATE 09/08/03 TIME 6:33 P.M. M OF Carlyle PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 1184 IMPORTANT MESSAGE FOR JE DATE 09/22/03 TIME 10:05 P.M. M Tony OF PHONE 255 1393 AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Would Like To Know If You Would Like Anyone Today. 7869ED Page 2131 1184 IMPORTANT MESSAGE FOR DATE TIME A.M. P.M. M Annson OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED Public-Records-Request No.: 17-295 1184",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "JE",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "09/02/03",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "12:57 P.M.",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "John Barrow",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "416 1223 361212",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Returning Your Voice Message",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "MICHAEL",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "1184",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "Carlyle",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "09/08/03",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "6:33 P.M.",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Tony",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "255 1393",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Would Like To Know If You Would Like Anyone Today.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Annson",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Public-Records-Request No.: 17-295",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "John Barrow",
+      "Carlyle",
+      "Tony",
+      "Annson",
+      "MICHAEL"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "09/02/03",
+      "09/08/03",
+      "09/22/03"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-0003244"
+    ]
+  },
+  "additional_notes": "The document appears to be a collection of 'Important Message' forms, likely used for recording phone messages or visitor information. The forms are filled out with varying amounts of information, including names, dates, times, and phone numbers. Some of the handwriting is difficult to decipher."
+}

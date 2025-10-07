@@ -1,0 +1,110 @@
+{
+  "document_metadata": {
+    "page_number": "7 and 86",
+    "document_number": "003522422B",
+    "date": "April 12, 2005",
+    "document_type": "Invoice",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Cingular Account Number 003522422B Account Name HOLLY ROBSON Date of Invoice April 12, 2005 Page 7 of 8 DETAIL OF CURRENT ACTIVITY - CONTINUED VOICE USAGE FOR (561)308-0282 - Continued Item Date Time Called Number Calls To Qty Used Rate Description Charge 408 03/31 10:52A INCOMING 1MIN 0.09 AIRTIME MINUTES 0.09 ... 529 04/03 12:39A (561)308-0282 WPALMBEACH FL 2MIN UNLIMITED N/WKND MIN 1EVT MESSAGE RETRIEVAL 07/26/17 Page 86 of 102 Public Records Request No.: 17-295 DOJ-OGR-00031393",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Cingular",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Account Number 003522422B",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Account Name HOLLY ROBSON",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Date of Invoice April 12, 2005",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Page 7 of 8",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DETAIL OF CURRENT ACTIVITY - CONTINUED",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "VOICE USAGE FOR (561)308-0282 - Continued",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Item Date Time Called Number Calls To Qty Used Rate Description Charge",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "408 03/31 10:52A INCOMING 1MIN 0.09 AIRTIME MINUTES 0.09",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "529 04/03 12:39A (561)308-0282 WPALMBEACH FL 2MIN UNLIMITED N/WKND MIN 1EVT MESSAGE RETRIEVAL",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 86 of 102",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00031393",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "HOLLY ROBSON"
+    ],
+    "organizations": [
+      "Cingular"
+    ],
+    "locations": [
+      "WPALMBEACH FL",
+      "LAKE WORTH FL",
+      "MIAMIFL"
+    ],
+    "dates": [
+      "April 12, 2005",
+      "03/31",
+      "04/01",
+      "04/02",
+      "04/03",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "003522422B",
+      "17-295",
+      "DOJ-OGR-00031393"
+    ]
+  },
+  "additional_notes": "The document appears to be a Cingular invoice for HOLLY ROBSON, detailing voice usage for the phone number (561)308-0282. The document is paginated, with this image showing pages 7 and 86. The content includes detailed call records with dates, times, called numbers, and charges."
+}

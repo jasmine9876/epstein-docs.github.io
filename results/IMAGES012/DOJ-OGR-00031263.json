@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": "90",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Public Records Request",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "07/26/17 Page 90 of 135 PPublic Records Request No.: 17-295 Filed Summit of Oct. 8, 2015 DOJ-OGR-00031263",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "07/26/17",
+      "position": "bottom left"
+    },
+    {
+      "type": "printed",
+      "content": "Page 90 of 135",
+      "position": "bottom center"
+    },
+    {
+      "type": "printed",
+      "content": "PPublic Records Request No.: 17-295",
+      "position": "bottom right"
+    },
+    {
+      "type": "handwritten",
+      "content": "Filed Summit of Oct. 8, 2015",
+      "position": "right margin"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00031263",
+      "position": "bottom right footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ-OGR"
+    ],
+    "locations": [
+      "Summit"
+    ],
+    "dates": [
+      "07/26/17",
+      "Oct. 8, 2015"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00031263"
+    ]
+  },
+  "additional_notes": "The document appears to be a page from a larger document related to a public records request. The handwritten note on the right margin indicates that a summit was filed on October 8, 2015. The document is mostly blank with some printed text at the bottom indicating the date, page number, and public records request number."
+}

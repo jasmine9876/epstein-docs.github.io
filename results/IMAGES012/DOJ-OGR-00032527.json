@@ -1,0 +1,67 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR: Jeffry DATE: 4/11/05 TIME: 12:00 P.M. M: Cecilia OF: PHONE/MOBILE: TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE: She had Mr. Newton on the phone SIGNED: IMPORTANT MESSAGE FOR: Jeffry DATE: 4/11/05 TIME: 11:02 P.M. M: Cecilia OF: PHONE/MOBILE: TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE: She had Patricia on the phone SIGNED: IMPORTANT MESSAGE FOR: Jeffry DATE: 4/12/05 TIME: 02:58 A.M. M: Harry from the office OF: PHONE/MOBILE: TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE: 07/26/17 SIGNED: IMPORTANT MESSAGE FOR: Mr. J. Epstein DATE: 4/10 TIME: 12:20 P.M. M: OF: PHONE/MOBILE: TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE: Public Records Request No.: 17-295 DOJ-OGR-00032527 SIGNED:",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffry 4/11/05 12:00 P.M. Cecilia She had Mr. Newton on the phone",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffry 4/11/05 11:02 P.M. Cecilia She had Patricia on the phone",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffry 4/12/05 02:58 A.M. Harry from the office 07/26/17",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Mr. J. Epstein 4/10 12:20 P.M.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295 DOJ-OGR-00032527",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffry",
+      "Cecilia",
+      "Mr. Newton",
+      "Patricia",
+      "Harry",
+      "Mr. J. Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "4/11/05",
+      "4/11/05",
+      "4/12/05",
+      "4/10",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032527"
+    ]
+  },
+  "additional_notes": "The document appears to be a collection of 'Important Message' forms, likely from a professional or business setting. The forms are filled out by hand with varying levels of detail. One form has a date stamp from 2017, suggesting the documents may have been reviewed or processed at a later date."
+}

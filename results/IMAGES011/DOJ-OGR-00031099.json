@@ -1,0 +1,72 @@
+{
+  "document_metadata": {
+    "page_number": "7",
+    "document_number": "17-295",
+    "date": "11/07/2005",
+    "document_type": "email",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "\"Cabato, Nilda\" <ncabato@honolulu.gov> 11/07/2005 01:18 PM To <jrecarey@palmbeachpolice.com> cc bcc Subject FW: Sarah L. Kellen Trying again. Please let me know if you still don't see the face. Have a Nice Day Nilda I. Cabato Supervising Driver License Clerk City and County of Honolulu Phone: (808) 532-7730 Fax#: (808) 832-2904 From: Cabato, Nilda Sent: Monday, November 07, 2005 7:14 AM To: 'jrecarey@palmbeachpolice.com' Subject: Sarah L. Kellen Detective Joe Recarey, Below is the subject's photo image. Please call me if you have any questions or concerns. Nilda I. Cabato Supervising Driver License Clerk 808-832-4116 808-832-2904 fax# DLNumber: Name: KELLEN 07/26/17 Page 7 of 81 Public Records Request No.: 17-295 DOJ-OGR-00031099",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "\"Cabato, Nilda\" <ncabato@honolulu.gov> 11/07/2005 01:18 PM To <jrecarey@palmbeachpolice.com> cc bcc Subject FW: Sarah L. Kellen",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Trying again. Please let me know if you still don't see the face.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Have a Nice Day",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Nilda I. Cabato Supervising Driver License Clerk City and County of Honolulu Phone: (808) 532-7730 Fax#: (808) 832-2904",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "From: Cabato, Nilda Sent: Monday, November 07, 2005 7:14 AM To: 'jrecarey@palmbeachpolice.com' Subject: Sarah L. Kellen Detective Joe Recarey, Below is the subject's photo image. Please call me if you have any questions or concerns. Nilda I. Cabato Supervising Driver License Clerk 808-832-4116 808-832-2904 fax#",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DLNumber: Name: KELLEN",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 7 of 81 Public Records Request No.: 17-295 DOJ-OGR-00031099",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Nilda Cabato",
+      "Joe Recarey",
+      "Sarah L. Kellen"
+    ],
+    "organizations": [
+      "City and County of Honolulu",
+      "Palm Beach Police"
+    ],
+    "locations": [
+      "Honolulu",
+      "Palm Beach"
+    ],
+    "dates": [
+      "11/07/2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00031099"
+    ]
+  },
+  "additional_notes": "The document appears to be a printed email with a forwarded message and a driver's license image redacted."
+}

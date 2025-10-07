@@ -1,0 +1,92 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR GM DATE 24/03 TIME 14:10 A.M. P.M. MR PRITZER OF PHONE 212 750 8101 AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE RETURNED YOUR CALL SIGNED MICHAEL 1184 IMPORTANT MESSAGE FOR SE DATE 24/03 TIME 15:41 A.M. P.M. ALINA OF PHONE 917 345 7107 AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED MICHAEL 1184 IMPORTANT MESSAGE FOR DATE TIME A.M. P.M. OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 02/26/17 Pages 2153 IMPORTANT MESSAGE FOR SE DATE 24/03 TIME 15:20 A.M. P.M. JEFF SCHANIZ OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED MICHAEL Public Records Request No.: 17-295 1184 DOJ-OGR-00032466",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR GM DATE 24/03 TIME 14:10 A.M. P.M. MR PRITZER OF PHONE 212 750 8101",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "RETURNED YOUR CALL",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "SIGNED MICHAEL",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR SE DATE 24/03 TIME 15:41 A.M. P.M. ALINA OF PHONE 917 345 7107",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "SIGNED MICHAEL",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "02/26/17",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR SE DATE 24/03 TIME 15:20 A.M. P.M. JEFF SCHANIZ OF PHONE",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "SIGNED MICHAEL Public Records Request No.: 17-295",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "MR PRITZER",
+      "ALINA",
+      "JEFF SCHANIZ",
+      "MICHAEL"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "24/03",
+      "02/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032466"
+    ]
+  },
+  "additional_notes": "The document contains four 'Important Message' forms with handwritten notes. The forms are filled out with different names and phone numbers. The document appears to be a scanned copy of a physical notebook page."
+}

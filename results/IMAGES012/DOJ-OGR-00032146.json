@@ -1,0 +1,89 @@
+{
+  "document_metadata": {
+    "page_number": "03",
+    "document_number": "5614786553",
+    "date": "01/09/2005",
+    "document_type": "PASSENGER MANIFEST",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "01/09/2005 15:15 5614786553 JEGE OR HYPERION AIR PAGE 03 HYPERION AIR, INC. PASSENGER MANIFEST Registration Number: N909JE Type: G-1159B Pilots: Dave Rodgers, Larry Visoski DATE: 1 6 2005 FROM TEB TO PBI Departure 9 : 22 AM PM Time Arrival 11 : 50 AM PM Trip Time Number 1751 PASSENGERS 1. Jeffrey Epstein 2. DANA 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. FROM Identifier Defined City TETERBORO State or Country NJ TO Identifier Defined City WEST PALM BEACH State or Country FL Nautical Miles 900 Statute Miles 1035 Gallons 1400 Pounds 9015 Flight Time 2 : 28 Altitude FL 430 AIRFRAME 9708.8 25 9711.3 TAKE-OFF POWER Night 2.5 Flex Take-Off 2.15 T/L 1/1 Min Take-Off IMC 2.0 Condition Approach COMMENTS 07/26/17 Page 107 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032146",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "HYPERION AIR, INC. PASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: N909JE Type: G-1159B Pilots: Dave Rodgers, Larry Visoski",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "1 6 2005 TEB PBI 9 : 22 AM 11 : 50 AM 1751",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGERS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1. Jeffrey Epstein 2. DANA",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FROM Identifier Defined City TETERBORO State or Country NJ TO Identifier Defined City WEST PALM BEACH State or Country FL",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "TETERBORO NJ WEST PALM BEACH FL 900 1035 1400 9015 2 : 28 430 9708.8 25 9711.3 2.5 2.15 1/1 2.0",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "COMMENTS",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 107 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032146",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Dave Rodgers",
+      "Larry Visoski",
+      "DANA"
+    ],
+    "organizations": [
+      "HYPERION AIR, INC."
+    ],
+    "locations": [
+      "TETERBORO",
+      "NEW JERSEY",
+      "WEST PALM BEACH",
+      "FLORIDA"
+    ],
+    "dates": [
+      "01/09/2005",
+      "1 6 2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "5614786553",
+      "N909JE",
+      "G-1159B",
+      "1751",
+      "17-295",
+      "DOJ-OGR-00032146"
+    ]
+  },
+  "additional_notes": "The document is a passenger manifest for a flight from Teterboro, NJ to West Palm Beach, FL on January 6, 2005. The passengers listed are Jeffrey Epstein and DANA. The pilots were Dave Rodgers and Larry Visoski. The document appears to be a scanned copy and has some handwritten notes."
+}

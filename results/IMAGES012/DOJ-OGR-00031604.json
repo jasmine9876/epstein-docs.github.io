@@ -1,0 +1,86 @@
+{
+  "document_metadata": {
+    "page_number": "03",
+    "document_number": "17-295",
+    "date": "05/05/2005",
+    "document_type": "Fax",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "05/05/2005 08:41 FAX 19732928680 T MOBILE LER 004/018 PAGE 03 04/12/2005 03:12 5613557 null null null null 561 838 5491 P. 02/02 I DETECTIVE MICHELE PAGAN, of the TOWN OF PALM BEACH POLICE DEPARTMENT, agree that any information obtained by virtue of the State Attorney subpoena attached, is confidential and will not be released to anyone outside law enforcement. Dissemination of this information to anyone other than law enforcement personnel entitled to such information will be prosecuted as Obstructing Justice. I swear that this information is requested in good faith for the purpose of investigating crime. MICHELE PAGAN DETECTIVE MICHELE PAGAN APR-06-2005 11:16 5613557281 P. 02 07/26/17 Page 83 Public Records Request No.: 17-295 MAY-05-2005 10:59 19732928680 TOTAL P. 02 96% P. 04 DOJ-OGR-00031604",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "05/05/2005 08:41 FAX 19732928680 T MOBILE LER 004/018 PAGE 03",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "04/12/2005 03:12 5613557 null null null null 561 838 5491 P. 02/02",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "I DETECTIVE MICHELE PAGAN, of the TOWN OF PALM BEACH POLICE DEPARTMENT, agree that any information obtained by virtue of the State Attorney subpoena attached, is confidential and will not be released to anyone outside law enforcement. Dissemination of this information to anyone other than law enforcement personnel entitled to such information will be prosecuted as Obstructing Justice.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "I swear that this information is requested in good faith for the purpose of investigating crime.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "MICHELE PAGAN",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DETECTIVE MICHELE PAGAN",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "APR-06-2005 11:16 5613557281 P. 02",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 83 Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "MAY-05-2005 10:59 19732928680 TOTAL P. 02 96% P. 04 DOJ-OGR-00031604",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "MICHELE PAGAN"
+    ],
+    "organizations": [
+      "PALM BEACH POLICE DEPARTMENT",
+      "T MOBILE LER"
+    ],
+    "locations": [
+      "PALM BEACH"
+    ],
+    "dates": [
+      "05/05/2005",
+      "04/12/2005",
+      "APR-06-2005",
+      "07/26/17",
+      "MAY-05-2005"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "19732928680",
+      "5613557",
+      "561 838 5491",
+      "5613557281",
+      "DOJ-OGR-00031604"
+    ]
+  },
+  "additional_notes": "The document appears to be a faxed copy of a confidentiality agreement signed by Detective Michele Pagan. The document is from the Palm Beach Police Department and is related to a public records request."
+}

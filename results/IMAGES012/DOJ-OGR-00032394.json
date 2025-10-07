@@ -1,0 +1,80 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR JE DATE StanDubin TIME 4:30 A.M. OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Will be home(NY) in 20 min please call SIGNED IMPORTANT MESSAGE FOR Mr Epstein DATE 1/18/04 TIME 3:00 A.M. OF PHONE/MOBILE (He has my #) TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE \"Tell him I sent another one to read\" SIGNED RV IMPORTANT MESSAGE FOR MR EPSTEIN DATE 7/19/04 TIME 3:00 A.M. OF TATUM PHONE/MOBILE (561) 201 0237 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE \"Is it ok to take a taxi\" SIGNED un IMPORTANT MESSAGE FOR Mr. Epstein DATE 07/17/04 TIME 2:48 A.M. OF PETER from LONDON PHONE/MOBILE (Did not give the #) TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE \"I am returning your call\" SIGNED un Public Records Request No.: 17-295 1184 DOJ-OGR-00032394",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "JE StanDubin 4:30 A.M. Will be home(NY) in 20 min please call",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Mr Epstein 1/18/04 3:00 A.M. (He has my #) \"Tell him I sent another one to read\" RV",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "MR EPSTEIN 7/19/04 3:00 A.M. TATUM (561) 201 0237 \"Is it ok to take a taxi\" un",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Mr. Epstein 07/17/04 2:48 A.M. PETER from LONDON (Did not give the #) \"I am returning your call\" un Public Records Request No.: 17-295",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JE",
+      "StanDubin",
+      "Mr Epstein",
+      "Mr. Epstein",
+      "TATUM",
+      "PETER",
+      "ROGER"
+    ],
+    "organizations": [],
+    "locations": [
+      "LONDON",
+      "NY"
+    ],
+    "dates": [
+      "1/18/04",
+      "7/19/04",
+      "07/17/04"
+    ],
+    "reference_numbers": [
+      "(561) 201 0237",
+      "17-295",
+      "DOJ-OGR-00032394"
+    ]
+  },
+  "additional_notes": "The document appears to be a collection of 'Important Message' forms, likely from a log or registry book. The forms contain handwritten notes and messages for various individuals, including Mr. Epstein. The handwriting is generally legible, but some parts may be difficult to decipher due to the quality of the image."
+}

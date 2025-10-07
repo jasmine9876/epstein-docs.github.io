@@ -1,0 +1,112 @@
+{
+  "document_metadata": {
+    "page_number": "110",
+    "document_number": "17-295",
+    "date": "2-10-2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "HYPERION AIR, INC. PASSENGER MANIFEST Registration Number: N909JE Type: G-1159B Pilots: Dave Rodgers, Larry Visoski PETE RATHGEB DATE: 2-10-2005 FROM PBI TO PBI Departure Time 10:37 AM Arrival Time 11:23 AM Trip Number 1754 PASSENGERS 1. NEIL 2. BIGGIN FROM Identifier Defined City WEST PALM BEACH State or Country FL TO Identifier Defined City WEST PALM BEACH State or Country FL Nautical Miles Statute Miles Gallons 850 Pounds 4000 AIRFRAME 9712.1 8 9712.9 Flight Time +45 Altitude FL 150 TAKE-OFF POWER Night Flex Take-Off 2.15 T/L 1 Min Take-Off IMC Condition Approach COMMENTS TEST FLIGHT ENGING FUEL FLOW AUTO PILOT 07/26/17 Page 110 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032149",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "HYPERION AIR, INC. PASSENGER MANIFEST",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: N909JE Type: G-1159B Pilots: Dave Rodgers, Larry Visoski",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "PETE RATHGEB",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "DATE: FROM PBI TO PBI Departure Time Arrival Time Trip Number",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "2-10-2005 10:37 AM 11:23 AM 1754",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGERS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1. NEIL 2. BIGGIN",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FROM Identifier Defined City WEST PALM BEACH State or Country FL TO Identifier Defined City WEST PALM BEACH State or Country FL",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "FL FL",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Nautical Miles Statute Miles Gallons Pounds AIRFRAME Flight Time Altitude FL TAKE-OFF POWER Night Flex Take-Off T/L Min Take-Off IMC Condition Approach",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "850 4000 9712.1 8 9712.9 +45 150 2.15 1",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "COMMENTS",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "TEST FLIGHT ENGING FUEL FLOW AUTO PILOT",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 110 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032149",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Dave Rodgers",
+      "Larry Visoski",
+      "Pete Rathgeb",
+      "Neil",
+      "Biggin"
+    ],
+    "organizations": [
+      "Hyperion Air, Inc."
+    ],
+    "locations": [
+      "West Palm Beach",
+      "FL",
+      "PBI"
+    ],
+    "dates": [
+      "2-10-2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N909JE",
+      "G-1159B",
+      "1754",
+      "17-295",
+      "DOJ-OGR-00032149"
+    ]
+  },
+  "additional_notes": "The document is a passenger manifest for Hyperion Air, Inc. with handwritten notes and corrections. The document is dated 2-10-2005 and contains information about the flight, passengers, and pilots."
+}

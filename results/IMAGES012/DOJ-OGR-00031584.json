@@ -1,0 +1,90 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": null,
+    "date": "Jun 05, 2005",
+    "document_type": "Telephone Bill",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Customer Service Number 1-800-937-8997 Jun 05, 2005 Itemized Details For: Account Number: Page 4 of 19 Account Service Detail for Subscriber Available Service Type WHENEVER WEEKEND FamTime Uni Nts 1600 Free Minutes T-Mobile to T-Mobile Minutes Unlimited - T-Mobile to T-Mobile Minutes Use Them Or Lose Them Minutes - Unlimited Used Service Type WHENEVER PEAK OFF PEAK WEEKEND Included Plan Minutes Minutes 5 - - - Monthly Service Charges $9.99 Additional Line VM & Fax $ 9.99 $ - Taxes, Fees and Surcharges $ 2.91 Government Fees and Taxes Federal Excise Tax $ 0.03 State Communication Service Tax $ 0.92 Local Communication Service Tax $ 0.60 County 911 $ 0.50 Regulatory Programs Fee* $ 0.86 *Fee we collect and retain to help cover our costs related to funding and complying with government mandates, programs and obligations. Total Charges $ 12.90 LOCAL AIRTIME, LONG DISTANCE and INTERNATIONAL CHARGES Date Call Destination Time Number Called Call Type Minutes Airtime Charges Toll Charges Total Total Zero VM calls 5 $ - $ - $ - SUBTOTAL 5 $ - $ - $ - Total of All Usage Charges $ - Call Type: (A) Call Waiting (B) Call Forward (C) Conference Call (E) Data/Fax (F) Mobile2Mobile (G) Voicemail (H) Free Calls 07/26/17 Page 63 Public Records Request No.: 17-295 DOJ-OGR-00031584",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Customer Service Number 1-800-937-8997 Jun 05, 2005",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Itemized Details For: Account Number: Page 4 of 19",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Account Service Detail for Subscriber",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Available Service Type WHENEVER WEEKEND FamTime Uni Nts 1600 Free Minutes T-Mobile to T-Mobile Minutes Unlimited - T-Mobile to T-Mobile Minutes Use Them Or Lose Them Minutes - Unlimited",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Used Service Type WHENEVER PEAK OFF PEAK WEEKEND Included Plan Minutes Minutes 5 - - -",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Monthly Service Charges $9.99 Additional Line VM & Fax $ 9.99 $ -",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Taxes, Fees and Surcharges $ 2.91 Government Fees and Taxes Federal Excise Tax $ 0.03 State Communication Service Tax $ 0.92 Local Communication Service Tax $ 0.60 County 911 $ 0.50 Regulatory Programs Fee* $ 0.86",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "*Fee we collect and retain to help cover our costs related to funding and complying with government mandates, programs and obligations.",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Total Charges $ 12.90",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "LOCAL AIRTIME, LONG DISTANCE and INTERNATIONAL CHARGES",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Date Call Destination Time Number Called Call Type Minutes Airtime Charges Toll Charges Total Total Zero VM calls 5 $ - $ - $ - SUBTOTAL 5 $ - $ - $ - Total of All Usage Charges $ -",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Call Type: (A) Call Waiting (B) Call Forward (C) Conference Call (E) Data/Fax (F) Mobile2Mobile (G) Voicemail (H) Free Calls 07/26/17 Page 63 Public Records Request No.: 17-295 DOJ-OGR-00031584",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "T-Mobile"
+    ],
+    "locations": [],
+    "dates": [
+      "Jun 05, 2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "1-800-937-8997",
+      "17-295",
+      "DOJ-OGR-00031584"
+    ]
+  },
+  "additional_notes": "The document is a telephone bill from T-Mobile, dated Jun 05, 2005. The account number is redacted. The bill details various charges, including monthly service charges, taxes, fees, and surcharges. The total charges amount to $12.90. The document also includes a section for local airtime, long distance, and international charges, which shows zero VM calls and a subtotal of $0. The document has a customer service number and a public records request number."
+}

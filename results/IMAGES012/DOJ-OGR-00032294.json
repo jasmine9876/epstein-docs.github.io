@@ -1,0 +1,78 @@
+{
+  "document_metadata": {
+    "page_number": "9",
+    "document_number": "1-05-000368",
+    "date": "2/17/06",
+    "document_type": "Incident Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Date: 2/17/06 Time: 11:36:35 PALM BEACH POLICE DEPARTMENT Page: 9 Incident Report Program: CMS301L (Continued) Case No. : 1-05-000368 Victim Sobriety: Can Identify : Injury Extent : Injury Type 1 : Injury Type 2 : Med Treatment : Hospital ID : Phys Last Name : Phys First Name : ********* OTHER PERSON INFORMATION - # 1 ********* Case Number : 1-05-000368 Last Name : Street Number : 1 City : Employer? : Birth Date/Age : Oper Lic No. : Occupation : STUDENT Race : White Home Phone No. : Height : 0 Sex : Female Person Type : OTHER PERSON Weight : 0 Other Phone Nbr: ********* OTHER PERSON INFORMATION - # 2 ********* Case Number : 1-05-000368 Last Name : MARCINKOVA, NADA Street Number : 358 EL BRILLO WY City : PALM BEACH, FL 000033480 Employer? : Birth Date/Age : 2/21/1985 19 Oper Lic No. : M Race : White Occupation : Height : 510 Sex : Female Person Type : OTHER PERSON Weight : 0 Other Phone Nbr: ********* OTHER PERSON INFORMATION - # 3 ********* Case Number : 1-05-000368 Last Name : Street Number : City : Employer? : Birth Date/Age : Oper Lic No. : Occupation : Race : White Home Phone No. : Height : 0 Sex : Female Person Type : OTHER PERSON Weight : 0 Other Phone Nbr: 561/330-0400 ********* OTHER PERSON INFORMATION - # 4 ********* Case Number : 1-05-000368 Last Name : Street Number : City : FL 33411 Employer? : Birth Date/Age : 9/05/1967 37 Oper Lic No. : Occupation : PAINTER Race : White Home Phone No. : Height : 0 Sex : Male Person Type : OTHER PERSON Weight : 0 Other Phone Nbr: ********* OTHER PERSON INFORMATION - # 5 ********* Case Number : 1-05-000368 Last Name : BACK, KATHY 07/26/17 Page 1981 Public Records Request No.: 17-295 DOJ-OGR-00032294",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date: 2/17/06 Time: 11:36:35 PALM BEACH POLICE DEPARTMENT Page: 9 Incident Report Program: CMS301L (Continued)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Case No. : 1-05-000368 Victim Sobriety: Can Identify : Injury Extent : Injury Type 1 : Injury Type 2 : Med Treatment : Hospital ID : Phys Last Name : Phys First Name :",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "********* OTHER PERSON INFORMATION - # 1 ********* Case Number : 1-05-000368 Last Name : Street Number : 1 City : Employer? : Birth Date/Age : Oper Lic No. : Occupation : STUDENT Race : White Home Phone No. : Height : 0 Sex : Female Person Type : OTHER PERSON Weight : 0 Other Phone Nbr:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "********* OTHER PERSON INFORMATION - # 2 ********* Case Number : 1-05-000368 Last Name : MARCINKOVA, NADA Street Number : 358 EL BRILLO WY City : PALM BEACH, FL 000033480 Employer? : Birth Date/Age : 2/21/1985 19 Oper Lic No. : M Race : White Occupation : Height : 510 Sex : Female Person Type : OTHER PERSON Weight : 0 Other Phone Nbr:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "********* OTHER PERSON INFORMATION - # 3 ********* Case Number : 1-05-000368 Last Name : Street Number : City : Employer? : Birth Date/Age : Oper Lic No. : Occupation : Race : White Home Phone No. : Height : 0 Sex : Female Person Type : OTHER PERSON Weight : 0 Other Phone Nbr: 561/330-0400",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "********* OTHER PERSON INFORMATION - # 4 ********* Case Number : 1-05-000368 Last Name : Street Number : City : FL 33411 Employer? : Birth Date/Age : 9/05/1967 37 Oper Lic No. : Occupation : PAINTER Race : White Home Phone No. : Height : 0 Sex : Male Person Type : OTHER PERSON Weight : 0 Other Phone Nbr:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "********* OTHER PERSON INFORMATION - # 5 ********* Case Number : 1-05-000368 Last Name : BACK, KATHY",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 1981 Public Records Request No.: 17-295 DOJ-OGR-00032294",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "MARCINKOVA, NADA",
+      "BACK, KATHY"
+    ],
+    "organizations": [
+      "PALM BEACH POLICE DEPARTMENT"
+    ],
+    "locations": [
+      "PALM BEACH",
+      "FL"
+    ],
+    "dates": [
+      "2/17/06",
+      "2/21/1985",
+      "9/05/1967",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "1-05-000368",
+      "17-295",
+      "DOJ-OGR-00032294"
+    ]
+  },
+  "additional_notes": "The document appears to be a police incident report with redacted information. The report includes details about individuals involved in the incident, including their names, addresses, and personal characteristics."
+}

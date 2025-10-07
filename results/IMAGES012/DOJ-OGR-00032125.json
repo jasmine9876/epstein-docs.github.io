@@ -1,0 +1,85 @@
+{
+  "document_metadata": {
+    "page_number": "86",
+    "document_number": "17-295",
+    "date": "1.27.2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "JEGE, INC. PASSENGER MANIFEST Registration Number: N908JE Type: B-727-31 Pilots: Dave Rodgers, Larry Visoki Flight Engineer: Larry Morrison DATE: 1 .27 ,2005 FROM PBI TO TIST Departure 7 .46 AM PM Arrival Time 10 :53 AM PM Trip Number 315 PASSENGERS 1. Jeffrey Epstein 2. NAOIA MARCINKOVA 3. ANDREA FROM Identifier Defined City WEST PALM BEACH State or Country FL TO Identifier Defined City ST. THOMAS State or Country USVI Nautical Miles 975 Statute Miles 1121 Gallons 3210 Pounds 18274 Flight Time 2 .06 Altitude FL 370 AIRFRAME 33052 .0 2 .1 33054 .1 Night 2 .1 T/L 1/1 IMC .8 Approach 07/26/17 Page 86 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032125",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "JEGE, INC. PASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: N908JE Type: B-727-31 Pilots: Dave Rodgers, Larry Visoki Flight Engineer: Larry Morrison",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "1 .27 ,2005 PBI TIST 7 .46 AM PM 10 :53 AM PM 315",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGERS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1. Jeffrey Epstein 2. NAOIA MARCINKOVA 3. ANDREA",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FROM Identifier Defined City WEST PALM BEACH State or Country FL TO Identifier Defined City ST. THOMAS State or Country USVI Nautical Miles 975 Statute Miles 1121 Gallons 3210 Pounds 18274 Flight Time 2 .06 Altitude FL 370",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "AIRFRAME 33052 .0 2 .1 33054 .1 Night 2 .1 T/L 1/1 IMC .8 Approach",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 86 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032125",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "NAOIA MARCINKOVA",
+      "ANDREA",
+      "Dave Rodgers",
+      "Larry Visoki",
+      "Larry Morrison"
+    ],
+    "organizations": [
+      "JEGE, INC."
+    ],
+    "locations": [
+      "WEST PALM BEACH",
+      "FL",
+      "ST. THOMAS",
+      "USVI",
+      "PBI",
+      "TIST"
+    ],
+    "dates": [
+      "1.27.2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N908JE",
+      "315",
+      "17-295",
+      "DOJ-OGR-00032125"
+    ]
+  },
+  "additional_notes": "The document is a passenger manifest for a flight on January 27, 2005. It includes the names of the passengers, the flight crew, and other details about the flight. The document appears to be a photocopy or scan of the original manifest."
+}

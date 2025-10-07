@@ -1,0 +1,104 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "DOJ-OGR-00032400",
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR JT DATE TIME 2:45 P.M. TELEPHONED PLEASE CALL WILL CALL AGAIN RUSH SPECIAL ATTENTION MESSAGE SIGNED 1:01 IMPORTANT MESSAGE FOR JT DATE TIME 9:33 A.M. M Sarah OF PHONE/MOBILE TELEPHONED PLEASE CALL WILL CALL AGAIN RUSH SPECIAL ATTENTION MESSAGE She said she call everybody & let messages for everyone SIGNED Mimi IMPORTANT MESSAGE FOR MR. Epstein DATE TIME M Sophie Biddle OF PHONE/MOBILE 310-463-5759 TELEPHONED PLEASE CALL WILL CALL AGAIN RUSH SPECIAL ATTENTION MESSAGE SIGNED IMPORTANT MESSAGE FOR MR. Epstein DATE TIME 2:48 P.M. M Manuela OF PHONE/MOBILE TELEPHONED PLEASE CALL WILL CALL AGAIN RUSH SPECIAL ATTENTION MESSAGE She said that sophe ad her messages & said that she's sorry for not seeing you in California SIGNED Public Records Request No.: 17-295 DOJ-OGR-00032400",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "JT",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "FOR DATE TIME TELEPHONED PLEASE CALL WILL CALL AGAIN RUSH SPECIAL ATTENTION MESSAGE SIGNED",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "2:45 P.M. 1:01",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "JT Sarah Mimi She said she call everybody & let messages for everyone",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "FOR DATE TIME M OF PHONE/MOBILE TELEPHONED PLEASE CALL WILL CALL AGAIN RUSH SPECIAL ATTENTION MESSAGE SIGNED",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "9:33 A.M.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "MR. Epstein Sophie Biddle 310-463-5759",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "FOR DATE TIME M OF PHONE/MOBILE TELEPHONED PLEASE CALL WILL CALL AGAIN RUSH SPECIAL ATTENTION MESSAGE SIGNED",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Manuela She said that sophe ad her messages & said that she's sorry for not seeing you in California",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "FOR DATE TIME M OF PHONE/MOBILE TELEPHONED PLEASE CALL WILL CALL AGAIN RUSH SPECIAL ATTENTION MESSAGE SIGNED",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "2:48 P.M. Public Records Request No.: 17-295",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JT",
+      "Sarah",
+      "Mimi",
+      "MR. Epstein",
+      "Sophie Biddle",
+      "Manuela"
+    ],
+    "organizations": [],
+    "locations": [
+      "California"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032400",
+      "310-463-5759"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned copy of a page from a notebook containing four 'Important Message' forms. The forms are filled out with handwritten notes and contain various messages and phone numbers. The document is likely related to a public records request, as indicated by the 'Public Records Request No.: 17-295' notation at the bottom."
+}

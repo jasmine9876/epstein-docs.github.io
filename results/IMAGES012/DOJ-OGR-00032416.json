@@ -1,0 +1,71 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "17-295",
+    "date": "01/10/05",
+    "document_type": "Important Message",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR: Jeffroy DATE TIME 2:15 A.M. P.M. M. OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 1184 IMPORTANT MESSAGE FOR: Jeffroy DATE 01/10/05 TIME 1:30 A.M. P.M. M. Jean-Luc OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE That he called again SIGNED 1184 IMPORTANT MESSAGE FOR: Jeffroy DATE 01/11/05 TIME 10:00 A.M. P.M. M. Jean-Luc OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Just that he called SIGNED 97/28/17 1184 IMPORTANT MESSAGE FOR: Jeffroy DATE 01/10/05 TIME 2:20 A.M. P.M. M. Dorren OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE He called again SIGNED Public Records Request No.: 17-295 1184",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffroy",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "2:15",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "FOR: DATE TIME A.M. P.M. M. OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffroy 01/10/05 1:30 Jean-Luc That he called again",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffroy 01/11/05 10:00 Jean-Luc Just that he called",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffroy 01/10/05 2:20 Dorren He called again",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffroy",
+      "Jean-Luc",
+      "Dorren"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "01/10/05",
+      "01/11/05"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "1184"
+    ]
+  },
+  "additional_notes": "The document appears to be a set of four 'Important Message' slips, likely from a office or business setting. The slips contain handwritten notes and messages from various individuals, including Jean-Luc and Dorren, to Jeffroy. The document is likely related to a public records request, as indicated by the 'Public Records Request No.: 17-295' notation at the bottom."
+}

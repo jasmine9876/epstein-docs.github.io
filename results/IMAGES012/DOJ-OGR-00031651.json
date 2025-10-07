@@ -1,0 +1,81 @@
+{
+  "document_metadata": {
+    "page_number": "34",
+    "document_number": "17-295",
+    "date": "July 15, 2005",
+    "document_type": "Subpoena Duces Tecum",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "IN THE CIRCUIT COURT OF THE FIFTEENTH JUDICIAL CIRCUIT, IN AND FOR PALM BEACH COUNTY, FLORIDA CRIMINAL DIVISION 05/368 STATE'S ATTORNEY SUBPOENA DUCES TECUM TO: BELLSOUTH TELECOMMUNICATION FAX: 404-378-9289 GREETINGS: --- DUCES TECUM: PLEASE PROVIDE DETAILED CALL RECORDS, TO INCLUDE INCOMING AND OUTGOING FOR THE DATES OF JANUARY 27TH 2005, THROUGH JUNE 24TH 2005, FOR TELEPHONE NUMBER 561-832-4117. YOU MAY COMPLY BY FORWARDING THE REQUESTED INFORMATION TO DETECTIVE MICHELLE D. PAGAN, PALM BEACH POLICE DEPARTMENT, 345 SOUTH COUNTY ROAD, PALM BEACH, FL 33480, TELEPHONE NO. (561) 838-6470, FAX NO. (561) 838-5401. YOU ARE HEREBY COMMANDED TO BE AND APPEAR BEFORE THE STATE'S ATTORNEY or his assistant, in and for Palm Beach County, Florida, at 401 North Dixie Highway, West Palm Beach, Florida for interrogation and the truth to speak, in a certain matter pending and under investigation. Failure to appear will subject you to contempt of Court. Witness my hand and the seal of this Court on June 2, 2005 SHARON J. BOCK, CLERK AND COMPTROLLER By Deputy Clerk (SEAL) Received this subpoena on the _____ day of _____, 2005 and executed the same on the _____ day of _____, 2005 by delivering a True Copy thereof to the within named witness in the County of Palm Beach, State of Florida. SHERIFF, Palm Beach County By Deputy Sheriff RECEIVED JUL 15 2005",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IN THE CIRCUIT COURT OF THE FIFTEENTH JUDICIAL CIRCUIT, IN AND FOR PALM BEACH COUNTY, FLORIDA CRIMINAL DIVISION 05/368 STATE'S ATTORNEY SUBPOENA DUCES TECUM TO: BELLSOUTH TELECOMMUNICATION FAX: 404-378-9289",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "GREETINGS: --- DUCES TECUM: PLEASE PROVIDE DETAILED CALL RECORDS, TO INCLUDE INCOMING AND OUTGOING FOR THE DATES OF JANUARY 27TH 2005, THROUGH JUNE 24TH 2005, FOR TELEPHONE NUMBER 561-832-4117.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "YOU MAY COMPLY BY FORWARDING THE REQUESTED INFORMATION TO DETECTIVE MICHELLE D. PAGAN, PALM BEACH POLICE DEPARTMENT, 345 SOUTH COUNTY ROAD, PALM BEACH, FL 33480, TELEPHONE NO. (561) 838-6470, FAX NO. (561) 838-5401.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "YOU ARE HEREBY COMMANDED TO BE AND APPEAR BEFORE THE STATE'S ATTORNEY or his assistant, in and for Palm Beach County, Florida, at 401 North Dixie Highway, West Palm Beach, Florida for interrogation and the truth to speak, in a certain matter pending and under investigation. Failure to appear will subject you to contempt of Court.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Phillip Pugh/Jacoll Assistant State Attorney 561-355-7244",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "Witness my hand and the seal of this Court on June 2, 2005 SHARON J. BOCK, CLERK AND COMPTROLLER By Deputy Clerk",
+      "position": "footer"
+    },
+    {
+      "type": "stamp",
+      "content": "RECEIVED JUL 15 2005",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Michelle D. Pagan",
+      "Phillip Pugh/Jacoll",
+      "SHARON J. BOCK"
+    ],
+    "organizations": [
+      "Palm Beach Police Department",
+      "BELLSOUTH TELECOMMUNICATION"
+    ],
+    "locations": [
+      "Palm Beach County",
+      "Florida",
+      "West Palm Beach",
+      "Palm Beach"
+    ],
+    "dates": [
+      "January 27, 2005",
+      "June 24, 2005",
+      "June 2, 2005",
+      "July 15, 2005"
+    ],
+    "reference_numbers": [
+      "05/368",
+      "561-832-4117",
+      "561-838-6470",
+      "561-838-5401",
+      "17-295",
+      "404-378-9289",
+      "561-355-7244"
+    ]
+  },
+  "additional_notes": "The document is a subpoena duces tecum issued by the State's Attorney's office in Palm Beach County, Florida. It requires BellSouth Telecommunication to provide detailed call records for a specific phone number between January 27, 2005, and June 24, 2005. The document bears a stamp indicating it was received on July 15, 2005."
+}

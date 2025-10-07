@@ -1,0 +1,90 @@
+{
+  "document_metadata": {
+    "page_number": "87",
+    "document_number": "17-295",
+    "date": "2_3, 2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "JEGE, INC. PASSENGER MANIFEST Registration Number: N968JE Type: B-727-31 Pilots: Dave Rodgers, Larry Visoski Flight Engineer: Larry Morrison DATE: 2_3, 2005 FROM CMH TO PBI Departure Time 10:53 AM Arrival Time 12:45 PM Trip Number 318 PASSENGERS 1. Jeffrey Epstein 2. Sarah Kellen 3. Nadia Marcinkova 4. Jean Luk Brunel 5. David Mullen 6. Female 7. Female 8. Female FROM Identifier Defined City Columbus State or Country OH TO Identifier Defined City West Palm Beach State or Country FL Nautical Miles 810 Statute Miles 931 Gallons Pounds 16885 AIRFRAME 33059.0 Flight Time 1+47 1.8 Altitude FL 33060.8 20. Night 1.8 21. T/L 111 22. IMC 8 23. Approach 24. 25. 26.",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "JEGE, INC. PASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: N968JE Type: B-727-31 Pilots: Dave Rodgers, Larry Visoski Flight Engineer: Larry Morrison",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "2_3, 2005 CMH PBI 10:53 AM 12:45 PM 318",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGERS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1. Jeffrey Epstein 2. Sarah Kellen 3. Nadia Marcinkova 4. Jean Luk Brunel 5. David Mullen 6. Female 7. Female 8. Female",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FROM Identifier Defined City Columbus State or Country OH TO Identifier Defined City West Palm Beach State or Country FL Nautical Miles 810 Statute Miles 931 Gallons Pounds 16885 AIRFRAME 33059.0 Flight Time 1+47 1.8 Altitude FL 33060.8",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Columbus OH West Palm Beach FL 810 931 16885 33059.0 1+47 1.8 33060.8 1.8 111 8",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 87 of 151 Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-000321126",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Sarah Kellen",
+      "Nadia Marcinkova",
+      "Jean Luk Brunel",
+      "David Mullen",
+      "Dave Rodgers",
+      "Larry Visoski",
+      "Larry Morrison"
+    ],
+    "organizations": [
+      "JEGE, INC."
+    ],
+    "locations": [
+      "Columbus",
+      "West Palm Beach",
+      "CMH",
+      "PBI"
+    ],
+    "dates": [
+      "2_3, 2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N968JE",
+      "17-295",
+      "318",
+      "DOJ-OGR-000321126"
+    ]
+  },
+  "additional_notes": "The document is a passenger manifest for a flight on February 3, 2005, from Columbus (CMH) to West Palm Beach (PBI). The flight was operated by JEGE, INC. using a B-727-31 aircraft with registration number N968JE. The passengers included Jeffrey Epstein and several others. The document contains both printed and handwritten text."
+}

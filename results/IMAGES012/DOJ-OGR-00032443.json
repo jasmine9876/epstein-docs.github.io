@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": "2130",
+    "document_number": "DOJ-OGR-00032443",
+    "date": "02/08/03, 02/10/03",
+    "document_type": "Important Message",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "FOR JE DATE 02/08/03 TIME 2h30 A.M. M OF Miranda PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE 689 2452-4547 SIGNED 1184 FOR JE DATE 02/10/03 TIME 10:00 A.M. M Bryn OF PHONE 212 219 4958 AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE 6310 498 3045 RETURN MY CALL SIGNED 1184 IMPORTANT MESSAGE FOR JE DATE 02/08/03 TIME 2h30 A.M. M OF Tony PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 1184 IMPORTANT MESSAGE FOR JE DATE 02/10/03 TIME 12:52 A.M. M Crystal OF PHONE 646 232 3311 AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE PLEASE RETURN CALL WHEN YOU GET A CHANCE - CRYSTAL SIGNED 1184",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "JE, Miranda, 02/08/03, 2h30 A.M., 689 2452-4547",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "JE, Bryn, 02/10/03, 10:00 A.M., 212 219 4958, 6310 498 3045, RETURN MY CALL",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "JE, Tony, 02/08/03, 2h30 A.M.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "JE, Crystal, 02/10/03, 12:52 A.M., 646 232 3311, PLEASE RETURN CALL WHEN YOU GET A CHANCE - CRYSTAL",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JE",
+      "Miranda",
+      "Bryn",
+      "Tony",
+      "Crystal"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "02/08/03",
+      "02/10/03"
+    ],
+    "reference_numbers": [
+      "689 2452-4547",
+      "212 219 4958",
+      "6310 498 3045",
+      "646 232 3311",
+      "DOJ-OGR-00032443"
+    ]
+  },
+  "additional_notes": "The document appears to be a set of four 'Important Message' slips, likely from a office or business setting. The handwriting is generally legible, but some parts may be difficult to read due to the quality of the scan."
+}

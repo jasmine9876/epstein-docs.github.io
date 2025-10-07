@@ -1,0 +1,73 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00032491",
+    "date": "12/7/04",
+    "document_type": "Important Message",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR Mr. J.E. DATE 12/7/04 TIME 10:15 A.M. M r. Jorry Goldsmith OF PHONE/ MOBILE (772) 971-1000 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Please Call him SIGNED AR 1184 IMPORTANT MESSAGE FOR Mr. J.E. DATE 12/7/04 TIME 12:15 A.M. M Dr. Garecki OF PHONE/ MOBILE (212) 984-1440 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Please call him SIGNED AR 1184 IMPORTANT MESSAGE FOR Mr. J.E. DATE 12/7/04 TIME 12:40 A.M. M EWC NYC OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE 'Tell Jeffroy that's pouring rein and 40°F' SIGNED 07/23 1184 Page 817 IMPORTANT MESSAGE FOR Mr. J.E. DATE 12/7/04 TIME 18:35 A.M. M Erg OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE 'Says spill to ball \"Mr. J.E pouring reyn 400F\" in N' SIGNED Public Records Request No. 17-295 1184 DOJ-OGR-00032491",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR Mr. J.E. DATE 12/7/04 TIME 10:15 A.M. M r. Jorry Goldsmith OF PHONE/ MOBILE (772) 971-1000 MESSAGE Please Call him SIGNED AR",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR Mr. J.E. DATE 12/7/04 TIME 12:15 A.M. M Dr. Garecki OF PHONE/ MOBILE (212) 984-1440 MESSAGE Please call him SIGNED AR",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR Mr. J.E. DATE 12/7/04 TIME 12:40 A.M. M EWC NYC OF PHONE/ MOBILE MESSAGE 'Tell Jeffroy that's pouring rein and 40°F' SIGNED 07/23",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR Mr. J.E. DATE 12/7/04 TIME 18:35 A.M. M Erg OF PHONE/ MOBILE MESSAGE 'Says spill to ball \"Mr. J.E pouring reyn 400F\" in N' SIGNED Public Records Request No. 17-295",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032491",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Mr. J.E.",
+      "Jorry Goldsmith",
+      "Dr. Garecki",
+      "Jeffroy",
+      "Mr. J.E."
+    ],
+    "organizations": [
+      "EWC",
+      "NYC"
+    ],
+    "locations": [
+      "N"
+    ],
+    "dates": [
+      "12/7/04",
+      "07/23"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032491"
+    ]
+  },
+  "additional_notes": "The document appears to be a set of four 'Important Message' slips, likely from a office or business setting. The handwriting varies across the different messages, suggesting multiple individuals took the messages. The content of the messages includes phone calls and requests to contact specific individuals."
+}

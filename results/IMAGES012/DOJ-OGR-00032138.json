@@ -1,0 +1,82 @@
+{
+  "document_metadata": {
+    "page_number": "99",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "JEGE, INC. PASSENGER MANIFEST Registration Number: N908JE Type: B-727-31 Pilots: Dave Rodgers, Larry Visoaki Flight Engineer: Larry Morrison DATE: 4.6.2005 FROM PBI TO JFK Departure Time 10:54 AM Arrival Time 1:05 PM Trip Number 336 PASSENGERS 1. Jeffrey Epstein 2. SARAH KELLEN 3. DAVID MULLEN 4. ANDRGANA MUCINSKA 5. DANA BURNS FROM Identifier Defined City WEST PALM BEACH State or Country FL TO Identifier Defined City NEW YORK State or Country NY Nautical Miles 894 Statute Miles 1028 Gallons 3117 Pounds 18274 Flight Time 2+10 Altitude FL 370 AIRFRAME 33098.1 2.2 33100.3",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "JEGE, INC. PASSENGER MANIFEST",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: N908JE Type: B-727-31 Pilots: Dave Rodgers, Larry Visoaki Flight Engineer: Larry Morrison",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "4.6.2005 PBI JFK 10:54 AM 1:05 PM 336",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1. Jeffrey Epstein 2. SARAH KELLEN 3. DAVID MULLEN 4. ANDRGANA MUCINSKA 5. DANA BURNS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "WEST PALM BEACH FL NEW YORK NY 894 1028 3117 18274 2+10 370",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "AIRFRAME 33098.1 2.2 33100.3",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 99 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032138",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "SARAH KELLEN",
+      "DAVID MULLEN",
+      "ANDRGANA MUCINSKA",
+      "DANA BURNS",
+      "Dave Rodgers",
+      "Larry Visoaki",
+      "Larry Morrison"
+    ],
+    "organizations": [
+      "JEGE, INC."
+    ],
+    "locations": [
+      "WEST PALM BEACH",
+      "FL",
+      "NEW YORK",
+      "NY",
+      "PBI",
+      "JFK"
+    ],
+    "dates": [
+      "4.6.2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N908JE",
+      "17-295",
+      "DOJ-OGR-00032138",
+      "336"
+    ]
+  },
+  "additional_notes": "The document is a passenger manifest for a flight from West Palm Beach, FL to New York, NY on April 6, 2005. The flight was operated by JEGE, INC. using a B-727-31 aircraft with registration number N908JE. The manifest lists 5 passengers, including Jeffrey Epstein."
+}

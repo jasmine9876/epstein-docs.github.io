@@ -1,0 +1,53 @@
+{
+  "document_metadata": {
+    "page_number": "2255",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Public Records Request",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "07/26/17 Page 2255 Public Records Request No.: 17-295 Att. 3 m/s DOJ-OGR-00032568",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "07/26/17",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 2255",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "Att. 3 m/s",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032568",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032568"
+    ]
+  },
+  "additional_notes": "The document appears to be a page from a larger collection, with a handwritten note in the margin."
+}

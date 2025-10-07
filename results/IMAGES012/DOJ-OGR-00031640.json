@@ -1,0 +1,55 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "17-295",
+    "date": "APR 05 2005",
+    "document_type": "Bill/Invoice",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "** BELLSOUTH TELECOMMUNICATIONS, INC. **\n561 832 4117 908\nAPR 05 2005 R\nWPB PAGE 2 BST\nCURRENT CHARGES\nITEM SEE HELPFUL NUMBERS CODES AMOUNT\nNot Assigned\nMonthly Local Service Charges Amount\nMonthly Local Service - Apr 5 thru May 4\nBasic Services Quantity\n1. Federal Universal Service Charge 1 ... .75\n2. Residential Line 1 ... 10.96\n3. Emergency 911 Charge. This charge is billed 1 ... ** .50\non behalf of Palm Beach County.\n4. FCC Authorized Charge for Network Access 1 ... 6.76\nfor Additional Line\n** Unregulated Charge\nVisit us on the Internet: www.bellsouth.com\n07/26/17 Page 23 of 104 Public Records Request No.: 17-295\nDOJ-OGR-00031640",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "** BELLSOUTH TELECOMMUNICATIONS, INC. **\n561 832 4117 908\nAPR 05 2005 R\nWPB PAGE 2 BST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CURRENT CHARGES\nITEM SEE HELPFUL NUMBERS CODES AMOUNT\nNot Assigned\nMonthly Local Service Charges Amount\nMonthly Local Service - Apr 5 thru May 4\nBasic Services Quantity\n1. Federal Universal Service Charge 1 ... .75\n2. Residential Line 1 ... 10.96\n3. Emergency 911 Charge. This charge is billed 1 ... ** .50\non behalf of Palm Beach County.\n4. FCC Authorized Charge for Network Access 1 ... 6.76\nfor Additional Line\n** Unregulated Charge\nVisit us on the Internet: www.bellsouth.com",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 23 of 104 Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00031640",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "BELLSOUTH TELECOMMUNICATIONS, INC.",
+      "Palm Beach County"
+    ],
+    "locations": [
+      "Palm Beach County"
+    ],
+    "dates": [
+      "APR 05 2005",
+      "07/26/17",
+      "Apr 5",
+      "May 4"
+    ],
+    "reference_numbers": [
+      "561 832 4117",
+      "17-295",
+      "DOJ-OGR-00031640"
+    ]
+  },
+  "additional_notes": "The document appears to be a bill or invoice from BellSouth Telecommunications, Inc. dated April 5, 2005. It includes various charges for local service and other fees. The document is part of a larger public records request (No.: 17-295)."
+}

@@ -1,0 +1,77 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR Jeffy DATE 8/31/05 TIME 10:09 A.M. P.M. M OF 1 561 PHONE/MOBILE 6441639 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Reiner called SIGNED IMPORTANT MESSAGE FOR Jeffrey DATE TIME 5:36 A.M. P.M. M Mr. David Copperfield OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE He will be arriving later. He will be relating SIGNED IMPORTANT MESSAGE FOR Jeffy DATE 9/01/05 TIME 3:10 A.M. P.M. M Linda OF PHONE/MOBILE 206 760 3226 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL X SPECIAL ATTENTION MESSAGE Linda She would like to discuss something she is working on with you. You can rtb her tomorrow @ Pacific time SIGNED ALH 07/23 IMPORTANT MESSAGE FOR Anisa DATE 9/01/05 TIME 2:25 A.M. P.M. M OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL X SPECIAL ATTENTION MESSAGE SIGNED Public Records Request#: 17-295",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffy 8/31/05 10:09 A.M. 1 561 6441639 Reiner called",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffrey 5:36 P.M. Mr. David Copperfield He will be arriving later. He will be relating",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffy 9/01/05 3:10 P.M. Linda 206 760 3226 Linda She would like to discuss something she is working on with you. You can rtb her tomorrow @ Pacific time ALH 07/23",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Anisa 9/01/05 2:25 P.M. Public Records Request#: 17-295",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffy",
+      "Jeffrey",
+      "Mr. David Copperfield",
+      "Reiner",
+      "Linda",
+      "Anisa",
+      "ALH"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "8/31/05",
+      "9/01/05",
+      "07/23"
+    ],
+    "reference_numbers": [
+      "1 561",
+      "206 760 3226",
+      "17-295"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned image of a notepad with four 'Important Message' forms filled out. The handwriting is generally legible, but some parts may be difficult to read due to the quality of the scan."
+}

@@ -1,0 +1,86 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR JE DATE 21/02 TIME 8:20 A.M. P.M. M SVEDLAK OF PHONE 917 774 2061 AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED Micke L 1184 IMPORTANT MESSAGE FOR DATE 21/14/22 TIME A.M. P.M. M OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Halina SIGNED 1184 IMPORTANT MESSAGE FOR JE DATE 21/24/22 TIME 9 A.M. P.M. M OF Ava lania PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE 917 310 4581 SIGNED 01/26/17 60842 52 IMPORTANT MESSAGE FOR SARAH DATE 24/03 TIME A.M. P.M. M STEVE BURNS OF PHONE 310 210 9944 AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED Public Records Request No.: 17-295 1184 DOJ-OGR-00032465",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "JE 21/02 8:20 Svedlak 917 774 2061 Micke L",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "21/14/22 Halina",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "JE 21/24/22 9 Ava lania 917 310 4581",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "SARAH 24/03 STEVE BURNS 310 210 9944 Public Records Request No.: 17-295",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032465",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JE",
+      "Svedlak",
+      "Micke L",
+      "Halina",
+      "Ava lania",
+      "SARAH",
+      "STEVE BURNS"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "21/02",
+      "21/14/22",
+      "21/24/22",
+      "24/03",
+      "01/26/17"
+    ],
+    "reference_numbers": [
+      "917 774 2061",
+      "917 310 4581",
+      "310 210 9944",
+      "17-295",
+      "DOJ-OGR-00032465"
+    ]
+  },
+  "additional_notes": "The document is a scanned image of four 'Important Message' forms. The forms contain handwritten notes with names, dates, phone numbers, and messages. The document quality is clear, with some minor variations in handwriting legibility."
+}

@@ -1,0 +1,81 @@
+{
+  "document_metadata": {
+    "page_number": "9",
+    "document_number": "19732928680",
+    "date": "Mar 06, 2005",
+    "document_type": "T-Mobile phone bill",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "05/05/2005 08:44 FAX 19732928680 T MOBILE LER 014/016 Customer Service Number 1-800-937-8997 Mar 06. 2005 Itemized Details For: Account Number: Page 9 of 28 LOCAL AIRTIME, LONG DISTANCE and INTERNATIONAL CHARGES - (Continued) Date Call Destination Time Number Called Call Type Minutes Airtime Charges Toll Charges Total 2/11/05 W Palm Bch, FL 7:21 PM 561-602-5720 1 $ - $ $ 2/11/05 W Palm Bch, FL 7:22 PM 561-602-5720 1 $ - $ $ 2/11/05 W Palm Bch, FL 7:23 PM 561-602-5720 1 $ - $ $ 2/11/05 W Palm Bch, FL 7:25 PM 561-602-5720 1 $ - $ $ 2/11/05 W Palm Bch, FL 7:25 PM 561-602 5720 1 $ - $ $ 2/11/05 W Palm Bch, FL 7:26 PM 561-602-5720 1 $ - $ $ 2/11/05 W Palm Bch, FL 7:27 PM 561-602-5720 1 $ - $ $ 2/11/05 W Palm Bch, FL 7:27 PM 561-602-5720 1 $ - $ $ 2/11/05 W Palm Bch, FL 7:28 PM 561-602-5720 1 $ - $ $ 2/11/05 W Palm Bch, FL 7:29 PM 561-602-5720 1 $ - $ $ 2/11/05 W Palm Bch, FL 7:30 PM 561-602-5720 1 $ - $ $ 2/11/05 Incoming 7:54 PM 561-386-8956 1 $ - $ $ 2/11/05 Incoming 7:56 PM 561-317-8722 (F) 1 $ - $ $ 2/11/05 W Palm Bch, FL 8:00 PM 561-301-6596 2 $ - $ $ 2/11/05 W Palm Bch, FL 9:00 PM 561-267-3548 2 $ - $ $ 2/11/05 W Palm Bch, FL 9:25 PM 561-602-5720 1 $ - $ $ 2/11/05 Incoming 9:46 PM 561-317-8722 (F) 2 $ - $ $ 2/11/05 Incoming 10:49 PM 561-317-8722 (F) 1 $ - $ $ 2/11/05 Incoming 11:00 PM 561-267-3548 2 $ - $ $ 2/11/05 Incoming 11:10 PM 561-317-8722 (H) 1 $ - $ $ Total Zero VM calls 50 $ - $ $ SUBTOTAL 650 $ - $ $ Total of All Usage Charges $ Call Type: (A) Call Waiting (B) Call Forward (C) Conference Call (E) Data/Fax (F) Mobile2Mobile (G) Voicemail (H) Free Calls (K) WPS Call 07/26/17 Page 93 Public Records Request No.: 17-295 MAY-05-2005 11:02 19732928680 98% P. 14 DOJ-OGR-00031614",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "05/05/2005 08:44 FAX 19732928680 T MOBILE LER 014/016",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Customer Service Number 1-800-937-8997 Mar 06. 2005 Itemized Details For: Account Number: Page 9 of 28",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "LOCAL AIRTIME, LONG DISTANCE and INTERNATIONAL CHARGES - (Continued)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Date Call Destination Time Number Called Call Type Minutes Airtime Charges Toll Charges Total",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "2/11/05 W Palm Bch, FL 7:21 PM 561-602-5720 1 $ - $ $",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Total Zero VM calls 50 $ - $ $ SUBTOTAL 650 $ - $ $ Total of All Usage Charges $",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Call Type: (A) Call Waiting (B) Call Forward (C) Conference Call (E) Data/Fax (F) Mobile2Mobile (G) Voicemail (H) Free Calls (K) WPS Call 07/26/17 Page 93 Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "MAY-05-2005 11:02 19732928680 98% P. 14 DOJ-OGR-00031614",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "T-Mobile"
+    ],
+    "locations": [
+      "W Palm Bch, FL"
+    ],
+    "dates": [
+      "05/05/2005",
+      "Mar 06, 2005",
+      "2/11/05",
+      "07/26/17",
+      "MAY-05-2005"
+    ],
+    "reference_numbers": [
+      "19732928680",
+      "1-800-937-8997",
+      "561-602-5720",
+      "561-386-8956",
+      "561-317-8722",
+      "561-301-6596",
+      "561-267-3548",
+      "17-295",
+      "DOJ-OGR-00031614"
+    ]
+  },
+  "additional_notes": "The document is a T-Mobile phone bill with itemized details for a specific account. The bill includes call records, charges, and other relevant information. The document has been faxed and has a fax header. The document is page 9 of 28."
+}

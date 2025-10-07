@@ -1,0 +1,130 @@
+{
+  "document_metadata": {
+    "page_number": "05",
+    "document_number": "17-295",
+    "date": "04/07/2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "04/07/2005 17:29 5614786553 JEGE OR HYPERION AIR PAGE 05 HYPERION AIR, INC. PASSENGER MANIFEST Registration Number: N909JE Type: G-1159B Pilots: Dave Rodgers, Larry Visotki DATE: 4-1-2005 FROM SAV TO PBI Departure Time 3:59 AM Arrival Time 5:00 PM Trip Number 1766 PASSENGERS 1. Jeffrey Epstein FROM Identifier Defined City SAVANNAH State or Country GA TO Identifier Defined City PBI Palm Beach State or Country FL 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. COMMENTS MAINTENANCE REPOSTDN Nautical Miles Statute Miles Gallons Pounds 5169 AIRFRAME 9736.8 Flight Time 1+00 1.0 Altitude FL F320 9737.8 TAKE-OFF POWER Flex Take-Off T/L 1 Min Take-Off IMC Night Condition Approach 07/26/17 Page 116 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032155",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "HYPERION AIR, INC. PASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: N909JE Type: G-1159B Pilots: Dave Rodgers, Larry Visotki",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "4-1-2005",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "SAV",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "PBI",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "3:59 AM",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "5:00 PM",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "1766",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffrey Epstein",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "SAVANNAH",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "GA",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "PBI Palm Beach",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "FL",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "5169 9736.8",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "1+00 1.0",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "F320 9737.8",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "T/L 1",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "MAINTENANCE REPOSTDN",
+      "position": "body"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Dave Rodgers",
+      "Larry Visotki"
+    ],
+    "organizations": [
+      "Hyperion Air, Inc."
+    ],
+    "locations": [
+      "Savannah",
+      "Palm Beach"
+    ],
+    "dates": [
+      "4-1-2005",
+      "04/07/2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N909JE",
+      "G-1159B",
+      "1766",
+      "17-295",
+      "DOJ-OGR-00032155"
+    ]
+  },
+  "additional_notes": "The document is a passenger manifest for Hyperion Air, Inc. with handwritten entries. It includes details about the flight, passengers, and aircraft information."
+}

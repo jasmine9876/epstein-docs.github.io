@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "10 of 11",
+    "document_number": "BST05078732",
+    "date": "07/26/17",
+    "document_type": "Call Detail/Toll Records",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Call Detail/Toll Records: BST05078732\n\nCALL DETAILS FOR TARGET NUMBER: 5618324117\n\n#\tCall Date\tCall Time\tCalling Number\tCalled Number\tCall Duration\tAnswd Carrier\tCall Type\tBilled Number\tSrvc Feat\n#271\t06/21/05\t09:19:27e\t514-958-0000\t561-832-4117\t0:00:0\tNo\t119\t\t\n#272\t06/21/05\t15:02:58e\t416-958-0000\t561-832-4117\t0:00:0\tNo\t119\t\t\n#273\t06/22/05\t16:44:05c\t213-996-0000\t561-832-4117\t0:00:0\tNo\t119\t\t\n#274\t06/22/05\t17:33:58e\t888-282-9474\t561-832-4117\t0:00:0\tNo\t119\t\t\n#275\t06/23/05\t09:27:34e\t888-282-9474\t561-832-4117\t0:00:0\tNo\t119\t\t\n#276\t06/24/05\t10:07:08e\t214-000-0000\t561-832-4117\t0:00:0\tNo\t119\t\t\n\n07/26/17\tPage 42 of 104\tPublic Records Request No.: 17-295\nDOJ-OGR-00031659",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Call Detail/Toll Records: BST05078732",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "CALL DETAILS FOR TARGET NUMBER: 5618324117",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "#\tCall Date\tCall Time\tCalling Number\tCalled Number\tCall Duration\tAnswd Carrier\tCall Type\tBilled Number\tSrvc Feat",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "#271\t06/21/05\t09:19:27e\t514-958-0000\t561-832-4117\t0:00:0\tNo\t119\t\t\n#272\t06/21/05\t15:02:58e\t416-958-0000\t561-832-4117\t0:00:0\tNo\t119\t\t\n#273\t06/22/05\t16:44:05c\t213-996-0000\t561-832-4117\t0:00:0\tNo\t119\t\t\n#274\t06/22/05\t17:33:58e\t888-282-9474\t561-832-4117\t0:00:0\tNo\t119\t\t\n#275\t06/23/05\t09:27:34e\t888-282-9474\t561-832-4117\t0:00:0\tNo\t119\t\t\n#276\t06/24/05\t10:07:08e\t214-000-0000\t561-832-4117\t0:00:0\tNo\t119\t\t",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17\tPage 42 of 104\tPublic Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00031659",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "BELLSOUTH"
+    ],
+    "locations": [],
+    "dates": [
+      "06/21/05",
+      "06/22/05",
+      "06/23/05",
+      "06/24/05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "BST05078732",
+      "5618324117",
+      "17-295",
+      "DOJ-OGR-00031659",
+      "514-958-0000",
+      "416-958-0000",
+      "213-996-0000",
+      "888-282-9474",
+      "214-000-0000",
+      "561-832-4117"
+    ]
+  },
+  "additional_notes": "The document appears to be a call detail record from BellSouth, detailing calls made to the number 561-832-4117. The document is page 10 of 11 and has been stamped as page 42 of 104 in a public records request."
+}

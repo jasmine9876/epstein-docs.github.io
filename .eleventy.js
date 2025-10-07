@@ -19,6 +19,21 @@ module.exports = function(eleventyConfig) {
     console.log('ℹ️  No dedupe.json found - entities will not be deduplicated');
   }
 
+  // Load document type deduplication mappings if available
+  let typeDedupeMap = {};
+  const typeDedupeFile = path.join(__dirname, 'dedupe_types.json');
+  if (fs.existsSync(typeDedupeFile)) {
+    try {
+      const data = JSON.parse(fs.readFileSync(typeDedupeFile, 'utf8'));
+      typeDedupeMap = data.mappings || {};
+      console.log('✅ Loaded document type mappings from dedupe_types.json');
+    } catch (e) {
+      console.warn('⚠️  Could not load dedupe_types.json:', e.message);
+    }
+  } else {
+    console.log('ℹ️  No dedupe_types.json found - document types will not be deduplicated');
+  }
+
   // Helper function to apply deduplication mapping
   function applyDedupe(entityType, entityName) {
     if (!entityName) return entityName;
@@ -28,18 +43,24 @@ module.exports = function(eleventyConfig) {
   // Helper function to normalize document types (for grouping)
   function normalizeDocType(docType) {
     if (!docType) return null;
-    return String(docType).toLowerCase().trim();
+    const trimmed = String(docType).trim();
+
+    // Apply deduplication mapping if available
+    const canonical = typeDedupeMap[trimmed] || trimmed;
+
+    return canonical.toLowerCase().trim();
   }
 
   // Helper function to format document types for display (title case)
   function formatDocType(docType) {
     if (!docType) return 'Unknown';
-    return String(docType)
-      .toLowerCase()
-      .trim()
-      .split(' ')
-      .map(word => word.charAt(0).toUpperCase() + word.slice(1))
-      .join(' ');
+    const trimmed = String(docType).trim();
+
+    // Apply deduplication mapping if available
+    const canonical = typeDedupeMap[trimmed] || trimmed;
+
+    // Return the canonical name (already in proper case from dedupe script)
+    return canonical;
   }
 
   // Helper function to normalize dates to consistent format
@@ -301,8 +322,21 @@ module.exports = function(eleventyConfig) {
     if (fs.existsSync(analysesFile)) {
       try {
         const data = JSON.parse(fs.readFileSync(analysesFile, 'utf8'));
-        console.log(`✅ Loaded ${data.analyses?.length || 0} document analyses`);
-        return data.analyses || [];
+        const analyses = data.analyses || [];
+
+        // Apply document type deduplication to analyses
+        if (Object.keys(typeDedupeMap).length > 0) {
+          analyses.forEach(analysis => {
+            if (analysis.analysis?.document_type) {
+              const original = analysis.analysis.document_type;
+              const canonical = typeDedupeMap[original] || original;
+              analysis.analysis.document_type = canonical;
+            }
+          });
+        }
+
+        console.log(`✅ Loaded ${analyses.length} document analyses`);
+        return analyses;
       } catch (e) {
         console.warn('⚠️  Could not load analyses.json:', e.message);
         return [];
@@ -310,6 +344,41 @@ module.exports = function(eleventyConfig) {
     }
     console.log('ℹ️  No analyses.json found - run analyze_documents.py to generate');
     return [];
+  });
+
+  // Get unique canonical document types from analyses
+  eleventyConfig.addGlobalData("analysisDocumentTypes", () => {
+    const analysesFile = path.join(__dirname, 'analyses.json');
+    if (!fs.existsSync(analysesFile)) {
+      return [];
+    }
+
+    try {
+      const data = JSON.parse(fs.readFileSync(analysesFile, 'utf8'));
+      const analyses = data.analyses || [];
+
+      // Collect unique canonical types
+      const typesSet = new Set();
+      analyses.forEach(analysis => {
+        if (analysis.analysis?.document_type) {
+          let docType = analysis.analysis.document_type;
+
+          // Apply deduplication if available
+          if (Object.keys(typeDedupeMap).length > 0) {
+            docType = typeDedupeMap[docType] || docType;
+          }
+
+          typesSet.add(docType);
+        }
+      });
+
+      const uniqueTypes = Array.from(typesSet).sort();
+      console.log(`✅ Found ${uniqueTypes.length} unique canonical document types for filters`);
+      return uniqueTypes;
+    } catch (e) {
+      console.warn('⚠️  Could not load document types:', e.message);
+      return [];
+    }
   });
 
   // Add global data - load all pages and group into documents

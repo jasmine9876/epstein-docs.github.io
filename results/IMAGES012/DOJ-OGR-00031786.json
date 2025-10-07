@@ -1,0 +1,81 @@
+{
+  "document_metadata": {
+    "page_number": "65",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Message slips",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR J.E. DATE 10/2/05 TIME 10:00 M Mr Goldsmith OF PHONE/ cell. 772-971-1000 TELEPHONED X PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED J. IMPORTANT MESSAGE FOR J.E. DATE 9/20/05 TIME 3:45 M Lary OF PHONE/ MOBILE TELEPHONED X PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Global is at Jet Aviation SIGNED J. IMPORTANT MESSAGE FOR Jeffrey DATE 9/30/05 TIME 3:31 M Team Lee OF PHONE/ american cell TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE It's Sheet but he will make exception for you and he will answer phone when you call him back. 07/26/17 SIGNED Page 65 of 124 IMPORTANT MESSAGE FOR Sarah DATE 9/20/05 TIME 4:50 M Stephanie Burns OF PHONE/ MOBILE 1646/414-6596 TELEPHONED X PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED Public Records Request No.: 17-295 DOJ-OGR-00031786",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "J.E. 10/2/05 10:00 Mr Goldsmith 772-971-1000",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "TELEPHONED X PLEASE CALL",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "J. Global is at Jet Aviation J.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffrey 9/30/05 3:31 Team Lee american cell It's Sheet but he will make exception for you and he will answer phone when you call him back. 07/26/17",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Sarah 9/20/05 4:50 Stephanie Burns 1646/414-6596",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00031786",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "J.E.",
+      "Mr Goldsmith",
+      "Lary",
+      "Jeffrey",
+      "Team Lee",
+      "Sarah",
+      "Stephanie Burns"
+    ],
+    "organizations": [
+      "Jet Aviation"
+    ],
+    "locations": [],
+    "dates": [
+      "10/2/05",
+      "9/20/05",
+      "9/30/05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "772-971-1000",
+      "1646/414-6596",
+      "17-295",
+      "DOJ-OGR-00031786"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned copy of a page from a notebook containing message slips. The page is labeled 'Page 65 of 124' and has a 'Public Records Request No.: 17-295' stamp. The messages are from September and October 2005, but the page was stamped on July 26, 2017."
+}

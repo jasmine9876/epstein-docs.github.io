@@ -1,0 +1,113 @@
+{
+  "document_metadata": {
+    "page_number": "2284",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Emergency Contact List",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "EMERGENCY 911\nL888 221-015\nALARM SYSTEM Benham /Joe (Technician) 1-800-940-4112 954-578-1990\nFIRE RESCUE (561) 838-5422\nHOSPITAL Good Samaritan Hospital 1309 North Flagler Drive West Palm Beach, FL 33401 (561) 650-6201\nPOISON (561) 838-5422\nPOLICE (561) 471-2000\nVETERINARIAN Island Animal Hospital 262 Sunset Avenue Palm Beach, FL 33480 (561) 833-8552\nMIKE PEZZULO Neighbouring House Manager who can be called in emergencies (561) 854-9192 Disconnected\nMS MAXWELL Portable Home (917) 520-3106 (212) 879-9366\nJONITHA MACKENZIE Portable Home (917) 601-4143 (212) 535-7944\n07/26/17 Page 2284 Public Records Request No.: 17-295",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "EMERGENCY 911",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "L888 221-015",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "ALARM SYSTEM Benham /Joe (Technician) 1-800-940-4112 954-578-1990",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "FIRE RESCUE (561) 838-5422",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "HOSPITAL Good Samaritan Hospital 1309 North Flagler Drive West Palm Beach, FL 33401 (561) 650-6201",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "POISON (561) 838-5422",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "POLICE (561) 471-2000",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "VETERINARIAN Island Animal Hospital 262 Sunset Avenue Palm Beach, FL 33480 (561) 833-8552",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "MIKE PEZZULO Neighbouring House Manager who can be called in emergencies (561) 854-9192",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Disconnected",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "MS MAXWELL Portable Home (917) 520-3106 (212) 879-9366",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "JONITHA MACKENZIE Portable Home (917) 601-4143 (212) 535-7944",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 2284 Public Records Request No.: 17-295",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Joe",
+      "Mike Pezzulo",
+      "MS Maxwell",
+      "Jonitha MacKenzie",
+      "Benham"
+    ],
+    "organizations": [
+      "Good Samaritan Hospital",
+      "Island Animal Hospital"
+    ],
+    "locations": [
+      "West Palm Beach, FL",
+      "Palm Beach, FL"
+    ],
+    "dates": [
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "1-800-940-4112",
+      "(561) 838-5422",
+      "(561) 650-6201",
+      "(561) 471-2000",
+      "(561) 833-8552",
+      "(561) 854-9192",
+      "(917) 520-3106",
+      "(212) 879-9366",
+      "(917) 601-4143",
+      "(212) 535-7944",
+      "954-578-1990"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned emergency contact list with handwritten notes and redactions. The list includes various emergency services and personal contacts."
+}

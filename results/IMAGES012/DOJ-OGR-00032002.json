@@ -1,0 +1,98 @@
+{
+  "document_metadata": {
+    "page_number": "63",
+    "document_number": "847893384272",
+    "date": "8/24/04",
+    "document_type": "FedEx US Airbill Express",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "FedEx US Airbill Express Pick UP #194 847893384272 From Nicole Hesse 358 EL BRILLO WAY PALM BCH FL 33480 To LUCIAN MELLAWA 1233 GLADSTONE DRIVE ROCKVILLE MD 20851 Date: 8/24/04 Phone: (561) 301-3101 07/26/17 Page 63 of 1008 Sign to Authorize Delivery/Receipr Request No.: 17-295 DOJ-OGR-0003202",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FedEx US Airbill Express",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Pick UP #194 847893384272",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "From",
+      "position": "left"
+    },
+    {
+      "type": "handwritten",
+      "content": "Nicole Hesse",
+      "position": "left"
+    },
+    {
+      "type": "handwritten",
+      "content": "358 EL BRILLO WAY PALM BCH FL 33480",
+      "position": "left"
+    },
+    {
+      "type": "printed",
+      "content": "To",
+      "position": "left"
+    },
+    {
+      "type": "handwritten",
+      "content": "LUCIAN MELLAWA",
+      "position": "left"
+    },
+    {
+      "type": "handwritten",
+      "content": "1233 GLADSTONE DRIVE ROCKVILLE MD 20851",
+      "position": "left"
+    },
+    {
+      "type": "printed",
+      "content": "Date: 8/24/04 Phone: (561) 301-3101",
+      "position": "left"
+    },
+    {
+      "type": "handwritten",
+      "content": "07/26/17",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page 63 of 1008 Sign to Authorize Delivery/Receipr Request No.: 17-295",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-0003202",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Nicole Hesse",
+      "LUCIAN MELLAWA"
+    ],
+    "organizations": [
+      "FedEx"
+    ],
+    "locations": [
+      "PALM BCH",
+      "FL",
+      "ROCKVILLE",
+      "MD"
+    ],
+    "dates": [
+      "8/24/04",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "847893384272",
+      "17-295",
+      "DOJ-OGR-0003202"
+    ]
+  },
+  "additional_notes": "The document is a FedEx US Airbill Express form with handwritten information. The image quality is clear, and there are no visible redactions or damage."
+}

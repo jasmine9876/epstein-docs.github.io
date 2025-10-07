@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": "01",
+    "document_number": "17-295",
+    "date": "05/05/2005",
+    "document_type": "Fax Cover Sheet",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "05/05/2005 08:41 FAX 1973292880 T MOBILE LER 002/016 PAGE 01 OFFICE OF THE STATE ATTORNEY FIFTEENTH JUDICIAL CIRCUIT OF FLORIDA IN AND FOR PALM BEACH COUNTY BARRY E. KRISCHER STATE ATTORNEY FAX COVER SHEET TO: T-Mobile FROM: A. GRANT LOCATION: Subpoena Compliance LOCATION: S.A.O., WPB, FL. PHONE: PHONE: (561) 355-7110 FAX NO: 973-292-8697 FAX NO: (561) 355-7281 NUMBER OF PAGES TO FOLLOW: 4 SPECIAL INSTRUCTIONS: FAX OPERATOR: 07/26/17 401 N. Dixie Highway, West Palm Beach, Florida 33401-4209 (561) 355-9100 Public Records Request No.: 17-295 MAY-05-2005 10:59 1973292880 99% P.02 DOJ-OGR-00031602",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "OFFICE OF THE STATE ATTORNEY FIFTEENTH JUDICIAL CIRCUIT OF FLORIDA IN AND FOR PALM BEACH COUNTY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "FAX COVER SHEET",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "T-Mobile Subpoena Compliance 973-292-8697 4",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FROM: A. GRANT LOCATION: S.A.O., WPB, FL. PHONE: (561) 355-7110 FAX NO: (561) 355-7281",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "401 N. Dixie Highway, West Palm Beach, Florida 33401-4209 (561) 355-9100 Public Records Request No.: 17-295",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Barry E. Krischer",
+      "A. Grant"
+    ],
+    "organizations": [
+      "T-Mobile",
+      "Office of the State Attorney"
+    ],
+    "locations": [
+      "Palm Beach County",
+      "West Palm Beach",
+      "Florida"
+    ],
+    "dates": [
+      "05/05/2005",
+      "04/12/2005",
+      "07/26/17",
+      "MAY-05-2005"
+    ],
+    "reference_numbers": [
+      "1973292880",
+      "5613557",
+      "17-295",
+      "DOJ-OGR-00031602"
+    ]
+  },
+  "additional_notes": "The document is a fax cover sheet from the Office of the State Attorney, Fifteenth Judicial Circuit of Florida. It contains handwritten information and a stamp indicating it was received on May 5, 2005."
+}

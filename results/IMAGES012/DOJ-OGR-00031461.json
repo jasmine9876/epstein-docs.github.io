@@ -1,0 +1,75 @@
+{
+  "document_metadata": {
+    "page_number": "51",
+    "document_number": "17-295",
+    "date": "9/01/06",
+    "document_type": "Incident Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Date: 9/01/06 Time: 13:38:06 PALM BEACH POLICE DEPARTMENT Incident Report Page: 1 Program: CMS301L Case Number : 1-03-001498 Occur From Date: 10/05/03 0824 Occur To Date : 10/05/03 0824 Report Date : 10/05/03 0845 Day of Week : Sunday Common/Location: 358 EL BRILLO WY City : PALM BEACH, FL Location Type : RESIDENCE-SINGLE FAMILY Beat Assignment: SHIFT 2 Map Reference : 10 Dept Class : BURGLARY RESIDENCE Report Officer : DESMARAIS, WENDY Case Status : EXCEPTIONALLY CLEARED Case Status Dt : 10/15/03 Supervisory Dt.: FRICK, RONALD 10/05/03 Entry Date : OREBERO, LAURA 10/06/03 Names? : Property? : Vehicles? : Offenses? : Narrative? : Interfaces? : Related Cases? : ********* PROPERTY INFORMATION # 1 ********* Case number : 1-03-001498 Category : **MISC OR UNFOUNDED PROP ** Description : PISTOL Color : Serial number : Make : GLOCK Model : UCR Prop Type : FIREARMS Property type : HANDGUN Insured by : NCIC number : Value : 1,000.00 Recovered by : Recovered Date : 0/0/00 Recovery value : 0.00 Street number : City : Drug? : Property Msg : Document? : Property Seq : ********* PROPERTY INFORMATION # 2 ********* Case number : 1-03-001498 Category : *STOLEN/RECOVERED* Description : U.S.CURRENCY Color : Serial number : Make : Model : UCR Prop Type : CURRENCY, NOTE, ETC. Property type : CURRENCY/NEGOTIABLE Insured by : NCIC number : Value : 2,700.00 Recovered by : Recovered Date : 10/13/03 Recovery value : 2,700.00 Street number : City : Drug? : Property Msg : Document? : Property Seq : ********* PERSON REPORTING INFO - # 1 ********* Case Number : 1-03-001498 Last Name : KELLEN, SARAH LYNNELLE Street Number : 301 E 66TH ST 10N City : NEW YORK, NY 10021 Birth Date/Age : 5/25/1979 24 Employer? : Occupation : PERSONAL ASSISTANT Oper Lic No. : Home Phone No. : 212/750-9895 Race : White Sex : Female Height : 508 Weight : 0 Other Phone Nbr: 917/855-3363 07/26/17 Page 51 of 111 Public Records Request No.: 17-295 DOJ-OGR-00031461",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date: 9/01/06 Time: 13:38:06 PALM BEACH POLICE DEPARTMENT Incident Report Page: 1 Program: CMS301L",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Case Number : 1-03-001498 Occur From Date: 10/05/03 0824 Occur To Date : 10/05/03 0824 Report Date : 10/05/03 0845 Day of Week : Sunday Common/Location: 358 EL BRILLO WY City : PALM BEACH, FL Location Type : RESIDENCE-SINGLE FAMILY Beat Assignment: SHIFT 2 Map Reference : 10 Dept Class : BURGLARY RESIDENCE Report Officer : DESMARAIS, WENDY Case Status : EXCEPTIONALLY CLEARED Case Status Dt : 10/15/03 Supervisory Dt.: FRICK, RONALD 10/05/03 Entry Date : OREBERO, LAURA 10/06/03",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "********* PROPERTY INFORMATION # 1 ********* Case number : 1-03-001498 Category : **MISC OR UNFOUNDED PROP ** Description : PISTOL Color : Serial number : Make : GLOCK Model : UCR Prop Type : FIREARMS Property type : HANDGUN Insured by : NCIC number : Value : 1,000.00 Recovered by : Recovered Date : 0/0/00 Recovery value : 0.00 Street number : City : Drug? : Property Msg : Document? : Property Seq :",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "********* PROPERTY INFORMATION # 2 ********* Case number : 1-03-001498 Category : *STOLEN/RECOVERED* Description : U.S.CURRENCY Color : Serial number : Make : Model : UCR Prop Type : CURRENCY, NOTE, ETC. Property type : CURRENCY/NEGOTIABLE Insured by : NCIC number : Value : 2,700.00 Recovered by : Recovered Date : 10/13/03 Recovery value : 2,700.00 Street number : City : Drug? : Property Msg : Document? : Property Seq :",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "********* PERSON REPORTING INFO - # 1 ********* Case Number : 1-03-001498 Last Name : KELLEN, SARAH LYNNELLE Street Number : 301 E 66TH ST 10N City : NEW YORK, NY 10021 Birth Date/Age : 5/25/1979 24 Employer? : Occupation : PERSONAL ASSISTANT Oper Lic No. : Home Phone No. : 212/750-9895 Race : White Sex : Female Height : 508 Weight : 0 Other Phone Nbr: 917/855-3363",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 51 of 111 Public Records Request No.: 17-295 DOJ-OGR-00031461",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "SARAH LYNNELLE KELLEN",
+      "DESMARAIS, WENDY",
+      "FRICK, RONALD",
+      "OREBERO, LAURA"
+    ],
+    "organizations": [
+      "PALM BEACH POLICE DEPARTMENT"
+    ],
+    "locations": [
+      "PALM BEACH, FL",
+      "NEW YORK, NY",
+      "358 EL BRILLO WY",
+      "301 E 66TH ST 10N"
+    ],
+    "dates": [
+      "9/01/06",
+      "10/05/03",
+      "10/15/03",
+      "10/06/03",
+      "5/25/1979",
+      "07/26/17",
+      "10/13/03"
+    ],
+    "reference_numbers": [
+      "1-03-001498",
+      "17-295",
+      "DOJ-OGR-00031461"
+    ]
+  },
+  "additional_notes": "The document is a police incident report with detailed information about a burglary case. It includes property information and details about the person reporting the incident."
+}

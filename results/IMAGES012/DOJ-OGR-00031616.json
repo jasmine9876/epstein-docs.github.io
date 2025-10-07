@@ -1,0 +1,103 @@
+{
+  "document_metadata": {
+    "page_number": "16",
+    "document_number": "19732928680",
+    "date": "05/05/2005",
+    "document_type": "T-Mobile Bill",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "05/05/2005 08:45 FAX 19732928680 T MOBILE LER 016/016 Customer Service Number 1-800-937-8997 Apr 05, 2005 Itemized Details For: Account Number: Page 6 of 21 LOCAL AIRTIME, LONG DISTANCE and INTERNATIONAL CHARGES - (Continued) Date Call Destination Time Number Called Call Type Minutes Airtime Charges Toll Charges Total 4/01/05 W Palm Bch, FL 3:27 PM 561-333-0180 1 $ - $ - $ - 4/01/05 W Palm Bch, FL 3:59 PM 561-308-2082 1 $ - $ - $ - 4/01/05 W Palm Bch, FL 4:00 PM 561-333-0180 1 $ - $ - $ - Total Zero VM calls 21 $ - $ - $ - SUBTOTAL 41 $ - $ - $ - Total of All Usage Charges $ - Call Type: (A) Call Waiting (B) Call Forward (C) Conference Call (E) Data/Fax (F) Mobile2Mobile (G) Voicemail (H) Free Calls 07/26/17 Page 95 Public Records Request No.: 17-295 (K) WPS Call MAY-05-2005 11:02 19732928680 98% P. 16 DOJ-OGR-00031616",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "05/05/2005 08:45 FAX 19732928680 T MOBILE LER 016/016",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Customer Service Number 1-800-937-8997 Apr 05, 2005 Itemized Details For: Account Number: Page 6 of 21",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "LOCAL AIRTIME, LONG DISTANCE and INTERNATIONAL CHARGES - (Continued)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Date Call Destination Time Number Called Call Type Minutes Airtime Charges Toll Charges Total",
+      "position": "table header"
+    },
+    {
+      "type": "printed",
+      "content": "4/01/05 W Palm Bch, FL 3:27 PM 561-333-0180 1 $ - $ - $ -",
+      "position": "table row"
+    },
+    {
+      "type": "printed",
+      "content": "4/01/05 W Palm Bch, FL 3:59 PM 561-308-2082 1 $ - $ - $ -",
+      "position": "table row"
+    },
+    {
+      "type": "printed",
+      "content": "4/01/05 W Palm Bch, FL 4:00 PM 561-333-0180 1 $ - $ - $ -",
+      "position": "table row"
+    },
+    {
+      "type": "printed",
+      "content": "Total Zero VM calls 21 $ - $ - $ -",
+      "position": "table row"
+    },
+    {
+      "type": "printed",
+      "content": "SUBTOTAL 41 $ - $ - $ -",
+      "position": "table row"
+    },
+    {
+      "type": "printed",
+      "content": "Total of All Usage Charges $ -",
+      "position": "table footer"
+    },
+    {
+      "type": "printed",
+      "content": "Call Type: (A) Call Waiting (B) Call Forward (C) Conference Call (E) Data/Fax (F) Mobile2Mobile (G) Voicemail (H) Free Calls",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 95 Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "(K) WPS Call MAY-05-2005 11:02 19732928680 98% P. 16 DOJ-OGR-00031616",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "T-Mobile"
+    ],
+    "locations": [
+      "W Palm Bch, FL"
+    ],
+    "dates": [
+      "05/05/2005",
+      "Apr 05, 2005",
+      "4/01/05",
+      "07/26/17",
+      "MAY-05-2005"
+    ],
+    "reference_numbers": [
+      "19732928680",
+      "1-800-937-8997",
+      "561-333-0180",
+      "561-308-2082",
+      "17-295",
+      "DOJ-OGR-00031616"
+    ]
+  },
+  "additional_notes": "The document is a T-Mobile bill with itemized details for a specific account. The page is 6 of 21 and contains information about local airtime, long distance, and international charges. The document has been faxed and has a fax header with date and time. The footer contains information about call types and a public records request number."
+}

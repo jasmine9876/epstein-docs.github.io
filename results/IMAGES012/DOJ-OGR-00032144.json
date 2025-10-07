@@ -1,0 +1,96 @@
+{
+  "document_metadata": {
+    "page_number": "05",
+    "document_number": "17-295",
+    "date": "01/09/2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "01/09/2005 15:15 5614786553 JEGE OR HYPERION AIR PAGE 05 HYPERION AIR, INC. PASSENGER MANIFEST Registration Number: N909JE Type: G-1159B Pilots: Dave Rodgers, Larry Visoski DATE: 1-1-2005 FROM TQPFT TO PBI Departure Time 2:11 AM Arrival Time 4:09 AM Trip Number 1749 PASSENGERS 1. Jeffrey Epstein 2. Sarah Kellen 3. Nadia Marcinkova 4. David Mullen 5. ZINTA BROUKIS 6. JEAN LUC BRUNEL FROM Identifier Defined City WALBLAKE State or Country ANGUILLA TO Identifier Defined City WEST PALM BEACH State or Country FL Nautical Miles 1073 Statute Miles 1234 Gallons 0 Pounds 10345 AIRFRAME 9703.3 Flight Time 2+58 3.0 Altitude FL 430 9706.3 TAKE-OFF POWER Night Flex Take-Off T/L 1 Min Take-Off IMC 2 Condition Approach COMMENTS 07/26/17 Page 105 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032144",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "HYPERION AIR, INC. PASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: N909JE Type: G-1159B Pilots: Dave Rodgers, Larry Visoski",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "1-1-2005 TQPFT PBI 2:11 AM 4:09 AM 1749",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGERS",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "1. Jeffrey Epstein 2. Sarah Kellen 3. Nadia Marcinkova 4. David Mullen 5. 6.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "ZINTA BROUKIS JEAN LUC BRUNEL",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FROM Identifier Defined City State or Country TO Identifier Defined City State or Country Nautical Miles Statute Miles Gallons Pounds AIRFRAME Flight Time Altitude FL TAKE-OFF POWER Night Flex Take-Off Min Take-Off IMC Condition Approach",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "WALBLAKE ANGUILLA WEST PALM BEACH FL 1073 1234 0 10345 9703.3 2+58 3.0 430 9706.3 T/L 1 2",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "COMMENTS",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 105 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032144",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Sarah Kellen",
+      "Nadia Marcinkova",
+      "David Mullen",
+      "ZINTA BROUKIS",
+      "JEAN LUC BRUNEL",
+      "Dave Rodgers",
+      "Larry Visoski"
+    ],
+    "organizations": [
+      "HYPERION AIR, INC."
+    ],
+    "locations": [
+      "WALBLAKE",
+      "ANGUILLA",
+      "WEST PALM BEACH",
+      "FL"
+    ],
+    "dates": [
+      "01/09/2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N909JE",
+      "G-1159B",
+      "1749",
+      "17-295",
+      "DOJ-OGR-00032144"
+    ]
+  },
+  "additional_notes": "The document is a passenger manifest for a flight operated by Hyperion Air, Inc. on January 1, 2005. The manifest lists six passengers, including Jeffrey Epstein, and provides details about the flight, including departure and arrival times, trip number, and aircraft information."
+}

@@ -1,0 +1,123 @@
+{
+  "document_metadata": {
+    "page_number": "138",
+    "document_number": "17-295",
+    "date": "2-22-2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "HYPERION AIR, INC. PASSENGER MANIFEST Registration Number: N909JE Type: G-1159B Pilots: Dan Rodgers, Larry Visoski DATE: 2-22-2005 FROM PBI TO PBI Departure Time 1:58 PM Arrival Time 2:06 PM Trip Number 1805 PASSENGERS 1. Jeffrey Epstein 2. David Mullen FROM Identifier Defined City WEST PALM State or Country FL TO Identifier Defined City WEST PALM State or Country FL Nautical Miles 80 Statute Miles 48 Gallons 419 AIRFRAME Pounds 1926 98291 Flight Time 2+67 1 Altitude FL 2500 98292 TAKE-OFF POWER Night Flex Take-Off T/L 1 Min Take-Off IMC Condition Approach COMMENTS Training",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "HYPERION AIR, INC. PASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: N909JE Type: G-1159B",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Bill Haan",
+      "position": "margin"
+    },
+    {
+      "type": "handwritten",
+      "content": "Dan Rodgers, Larry Visoski",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "2-22-2005",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "PBI PBI",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1:58 PM 2:06 PM",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1805",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGERS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffrey Epstein David Mullen",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "WEST PALM FL WEST PALM FL",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "80 48",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "419 1926 2+67 2500",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "98291 1 98292",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "T/L 1 IMC",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Training",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "David Mullen",
+      "Dan Rodgers",
+      "Larry Visoski",
+      "Bill Haan"
+    ],
+    "organizations": [
+      "Hyperion Air, Inc."
+    ],
+    "locations": [
+      "West Palm",
+      "PBI",
+      "FL"
+    ],
+    "dates": [
+      "2-22-2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N909JE",
+      "G-1159B",
+      "17-295",
+      "1805",
+      "98291",
+      "98292"
+    ]
+  },
+  "additional_notes": "The document is a passenger manifest for Hyperion Air, Inc. with handwritten entries. It includes details about the flight, passengers, and pilots."
+}

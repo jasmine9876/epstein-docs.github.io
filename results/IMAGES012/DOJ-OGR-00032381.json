@@ -1,0 +1,78 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00032381",
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR 6m DATE 4/28/04 TIME 2:00 P.M. M Martha OF Colonial Bank PHONE/MOBILE 6513-5593 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED a 1184 IMPORTANT MESSAGE FOR MS. MAXWELL DATE 04/25/04 TIME 6:55 A.M. M S. NECOLE HESSE OF PHONE/MOBILE 832 6777 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE RETURNIN YOUR CALL SIGNED Rushe a 1184 IMPORTANT MESSAGE FOR DATE TIME A.M. P.M. M Amy Brise OF PHONE/MOBILE 561-373-9042 TELEPHONED PLEASE CALL X CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 07/26 Page 266B IMPORTANT MESSAGE FOR Jeffrey DATE TIME A.M. P.M. M Ghislaine OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE would be helpful to have come to Palm Beach today to stay here and help train new staff with Christine SIGNED Public Records Request No.: 17-295 1184",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "6m 4/28/04 2:00 P.M. Martha Colonial Bank 6513-5593",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "MS. MAXWELL 04/25/04 6:55 A.M. M S. NECOLE HESSE 832 6777 RETURNIN YOUR CALL Rushe",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Amy Brise 561-373-9042 X",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffrey Ghislaine would be helpful to have come to Palm Beach today to stay here and help train new staff with Christine",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Public Records Request No.: 17-295",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Martha",
+      "MS. MAXWELL",
+      "M S. NECOLE HESSE",
+      "Amy Brise",
+      "Jeffrey",
+      "Ghislaine",
+      "Christine"
+    ],
+    "organizations": [
+      "Colonial Bank"
+    ],
+    "locations": [
+      "Palm Beach"
+    ],
+    "dates": [
+      "4/28/04",
+      "04/25/04",
+      "07/26"
+    ],
+    "reference_numbers": [
+      "6513-5593",
+      "832 6777",
+      "561-373-9042",
+      "17-295",
+      "DOJ-OGR-00032381"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned copy of a notepad containing four 'Important Message' forms. The forms contain handwritten notes with names, phone numbers, and messages. One of the messages has a redacted section."
+}

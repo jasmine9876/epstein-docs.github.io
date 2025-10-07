@@ -1,0 +1,91 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR TIA DATE 9/1/04 TIME A.M. P.M. M Your sister OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Your sister called. Call her on her cell. SIGNED Nice Heana 1184 IMPORTANT MESSAGE FOR DATE 9/1/04 TIME 5:30 A.M. P.M. M OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 1184 IMPORTANT MESSAGE FOR Mr. J.E. DATE 9/13/04 TIME 2:11 A.M. P.M. M OF Joanne PHONE/MOBILE 561-714-6546 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE I have to am back in Florida safely SIGNED R 07/20/19SIGNED Page 2188 IMPORTANT MESSAGE FOR Asha J.E. DATE 9/16/04 TIME 8:00 A.M. P.M. M Amy OF PHONE 561-713-1924 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE her husband Kristen will like to meet him SIGNED R Public Records Request No.: 17-295 1184 DOJ-OGR-00032408",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "TIA 9/1/04 Your sister Your sister called. Call her on her cell. Nice Heana",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "9/1/04 5:30",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Mr. J.E. 9/13/04 2:11 Joanne 561-714-6546 I have to am back in Florida safely R",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Asha J.E. 9/16/04 8:00 Amy 561-713-1924 her husband Kristen will like to meet him R",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032408",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "TIA",
+      "Mr. J.E.",
+      "Joanne",
+      "Asha J.E.",
+      "Amy",
+      "Kristen",
+      "Nice Heana"
+    ],
+    "organizations": [],
+    "locations": [
+      "Florida"
+    ],
+    "dates": [
+      "9/1/04",
+      "9/13/04",
+      "9/16/04",
+      "07/20/19"
+    ],
+    "reference_numbers": [
+      "561-714-6546",
+      "561-713-1924",
+      "17-295",
+      "DOJ-OGR-00032408"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned copy of a set of 'Important Message' forms, likely from a professional or organizational setting. The forms contain handwritten notes and messages from various individuals. The document quality is generally good, with clear handwriting and minimal damage."
+}

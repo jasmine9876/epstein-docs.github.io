@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": "02",
+    "document_number": "5614786553",
+    "date": "01/09/2005",
+    "document_type": "PASSENGER MANIFEST",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "01/09/2005 15:15 5614786553 JEGE OR HYPERION AIR PAGE 02 HYPERION AIR, INC. PASSENGER MANIFEST Registration Number: N909JE Type: G-1159B Pilots: Dave Rodgers, Larry Visoski DATE: 7 , 2005 FROM PBI TO RSW Departure Time 8 : 09 AM PM Arrival Time 8 : 30 AM PM Trip Number 1752 PASSENGERS 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. FROM Identifier Defined City WEST Palm Bch State or Country FL TO Identifier Defined City Ft. Myers State or Country FL Nautical Miles 89 Statute Miles 102 Gallons 500 Pounds 2189 AIRFRAME 9711.3 4 Flight Time +21 Altitude FL FL120 9711.7 TAKE-OFF POWER Night Flex Take-Off T/L 1 Min Take-Off IMC Condition Approach COMMENTS COM SCAN INSP 07/26/17 Page 108 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032147",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "HYPERION AIR, INC. PASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: N909JE Type: G-1159B Pilots: Dave Rodgers, Larry Visoski",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "7 , 2005 PBI RSW 8 : 09 AM PM 8 : 30 AM PM 1752",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "WEST Palm Bch FL Ft. Myers FL 89 102 500 2189 +21 FL120",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "COM SCAN INSP",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Dave Rodgers",
+      "Larry Visoski"
+    ],
+    "organizations": [
+      "HYPERION AIR, INC."
+    ],
+    "locations": [
+      "West Palm Beach",
+      "Fort Myers",
+      "Florida"
+    ],
+    "dates": [
+      "01/09/2005",
+      "7, 2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N909JE",
+      "G-1159B",
+      "5614786553",
+      "1752",
+      "17-295",
+      "DOJ-OGR-00032147"
+    ]
+  },
+  "additional_notes": "The document is a passenger manifest for Hyperion Air, Inc. with some handwritten information. The document appears to be a scanned copy with some minor quality issues."
+}

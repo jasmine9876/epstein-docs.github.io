@@ -1,0 +1,94 @@
+{
+  "document_metadata": {
+    "page_number": "17",
+    "document_number": "5614786553",
+    "date": "05/20/2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "05/20/2005 13:00 5614786553 JEGE OR HYPERION AIR PAGE 17 HYPERION AIR, INC. PASSENGER MANIFEST Registration Number: N909JE Type: G-1159B Pilots: Dave Rodgers, Larry Visoski DATE: 5.6.2005 FROM TEB TO PBI Departure Time 9:10 AM PM Arrival Time 11:27 AM PM Trip Number 1775 PASSENGERS 1. Jeffrey Epstein 2. Nadia Marcinkova 3. Sarah Kellen 4. Andrea Musinska 5. L'Nalee 6. David Muller 7. Larry Morrison 8. 9. 10. 11. 12. 13. COMMENTS FROM Identifier Defined City TETERBORO State or Country N.J. TO Identifier Defined City WEST PALM BEACH State or Country FL. Nautical Miles Statute Miles Gallons 500 Pounds 8216 AIRFRAME 9757.3 Flight Time 2+16 2.3 Altitude FL F430 9759.6 TAKE-OFF POWER Night 23 Flex Take-Off T/L 41 Min Take-Off IMC Condition Approach 07/26/17 Page 122 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032161",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "HYPERION AIR, INC. PASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: N909JE Type: G-1159B Pilots: Dave Rodgers, Larry Visoski",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "5.6.2005 TEB PBI 9:10 AM PM 11:27 AM PM 1775",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGERS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1. Jeffrey Epstein 2. Nadia Marcinkova 3. Sarah Kellen 4. Andrea Musinska 5. L'Nalee 6. David Muller 7. Larry Morrison",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FROM Identifier Defined City TETERBORO State or Country N.J. TO Identifier Defined City WEST PALM BEACH State or Country FL.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "500 8216 2+16 F430 23 41",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "COMMENTS",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 122 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032161",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Nadia Marcinkova",
+      "Sarah Kellen",
+      "Andrea Musinska",
+      "L'Nalee",
+      "David Muller",
+      "Larry Morrison",
+      "Dave Rodgers",
+      "Larry Visoski"
+    ],
+    "organizations": [
+      "Hyperion Air, Inc."
+    ],
+    "locations": [
+      "Teterboro",
+      "New Jersey",
+      "West Palm Beach",
+      "Florida"
+    ],
+    "dates": [
+      "05/20/2005",
+      "5.6.2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "5614786553",
+      "N909JE",
+      "G-1159B",
+      "1775",
+      "17-295",
+      "DOJ-OGR-00032161"
+    ]
+  },
+  "additional_notes": "The document is a passenger manifest for Hyperion Air, Inc. The document contains handwritten information, including passenger names and flight details. The document is page 17 of a larger document."
+}

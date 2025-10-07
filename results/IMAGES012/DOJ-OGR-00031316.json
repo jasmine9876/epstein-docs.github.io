@@ -1,0 +1,80 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "1-05-001263",
+    "date": "11/18/05",
+    "document_type": "Incident Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "PALM BEACH POLICE DEPARTMENT Incident Report Page: 2 Program: CMS301L Date: 11/18/05 Time: 11:36:11 Case No. : 1-05-001263 Recovered by : Recovered Date : 0/00/00 Recovery value : 0.00 Street number : City . . . : Drug? . . . : Document? . . : PROPERTY INFORMATION # 4 Case number . : 1-05-001263 Category . . : **EVIDENCE/CONFISCATED (NOT UCR)*** Description : PAPER BAG W/MARIJUANA Color . . : Serial number : Make . . . : Model . . . : UCR Prop Type : MISCELLANEOUS Property type : MISCELLANEOUS Insured? . . : Value . . . : 0.00 NCIC number . : Recovered Date : 0/00/00 Recovered by : Street number : Recovery value : 0.00 City . . . : Drug? . . . : Document? . . : VEHICLE INFORMATION # 1 Case number . : 1-05-001263 State Veh Type : AUTO Category . . : **SEARCHED** Make . . . : MITSUBISHI Year . . : 1997 Model Name . : GALANT Model . . : GALANT Permit Number : 111076356 Style . . : 4 DOOR Color - Top : WHITE Color - Bottom : License # . : C104VY FL VIN . . . : 4A3AJ56G9VE196319 Stolen value . : 0 Disposition : Insured . . : Vehicle locked : Keys in car . : Date recovered : 0/00/00 Lien holder . : Street number : Recovery value : 0 City . . . : Recovery code : NCIC number . : Be On Look Out?: SUSPECT/ARRESTEE INFORMATION - #1 Case Number . : 1-05-001263 Street Number : 5691 STONINGTON WY Prompt valid in: BRYAN, BENJAMIN SKYLER City . . . : LAKE WORTH, FL 33463 Birth Date . : 12/29/1986 18 Maximum Age . : 18 Employer? . : Occupation . : Oper Lic No. : Home Phone No. : 561/715-6303 Other Phone Nbr: Race . . : White Sex . . . : Male Minimum Height : 603 Minimum Weight : 160 Maximum Height : 0 Maximum Weight : 0 Misc. ID# . : 16483 Aliases? . . : MO/Crime Spec? : Hair Color . . : BROWN Hair Style . . : Hair Length . : Eye Color . . : GREEN Glasses . . . : No Complexion . : MEDIUM 07/26/17 Page 8 of 102 Public Records Request No.: 17-295 DOJ-OGR-00031316",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PALM BEACH POLICE DEPARTMENT Incident Report",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Date: 11/18/05 Time: 11:36:11",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Case No. : 1-05-001263",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "PROPERTY INFORMATION # 4",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "VEHICLE INFORMATION # 1",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "SUSPECT/ARRESTEE INFORMATION - #1",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 8 of 102 Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00031316",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "BRYAN, BENJAMIN SKYLER"
+    ],
+    "organizations": [
+      "PALM BEACH POLICE DEPARTMENT"
+    ],
+    "locations": [
+      "LAKE WORTH, FL",
+      "5691 STONINGTON WY"
+    ],
+    "dates": [
+      "11/18/05",
+      "12/29/1986",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "1-05-001263",
+      "17-295",
+      "DOJ-OGR-00031316",
+      "C104VY FL",
+      "4A3AJ56G9VE196319",
+      "111076356",
+      "16483"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned incident report from the Palm Beach Police Department. The report includes details about a case, property, vehicle, and suspect information. The document is typed and contains no handwritten text or stamps. The quality of the scan is clear, and the text is legible."
+}

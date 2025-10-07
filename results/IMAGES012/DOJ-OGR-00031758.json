@@ -1,0 +1,51 @@
+{
+  "document_metadata": {
+    "page_number": "37",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Message Book",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "MESSAGE BOOK #1 07/26/17 Page 37 of 124 Public Records Request No.: 17-295 DOJ-OGR-00031758",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "MESSAGE BOOK #1",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 37 of 124",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00031758",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00031758"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned page from a message book, with a handwritten title 'MESSAGE BOOK #1' and printed metadata at the bottom."
+}

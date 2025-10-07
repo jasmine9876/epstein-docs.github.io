@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": "11/7/04",
+    "document_type": "Message Slips",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "FOR: Mr. J.E. DATE: 11/7/04 TIME: 8:37 P.M. M: Nine OF: PHONE/MOBILE: 1 (617) 294-1627 TELEPHONED: PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE: Returning your Call SIGNED: FOR: Mr. J.E. DATE: 11/7/04 TIME: 9:00 P.M. M: Mark Epstein OF: (Mr. J.E. brother) PHONE/MOBILE: (570) 723-1056 TELEPHONED: PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE: Please call him SIGNED: FOR: Mr. J.E. DATE: 11/7/04 TIME: 12:45 P.M. M: Emily OF: PHONE/MOBILE: (323) 821-3695 TELEPHONED: PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE: She would like to speak to you tomorrow. SIGNED: FOR: Mr. J.E. DATE: 11/7/04 TIME: 3:10 P.M. M: Robin Lovery OF: 'Friend' PHONE/MOBILE: (305)864-7500 TELEPHONED: PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE: Please call her SIGNED:",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FOR: DATE: TIME: M: OF: PHONE/MOBILE: TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE: SIGNED:",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Mr. J.E. 11/7/04 8:37 P.M. Nine 1 (617) 294-1627 Returning your Call",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Mr. J.E. 11/7/04 9:00 P.M. Mark Epstein (Mr. J.E. brother) (570) 723-1056 Please call him",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Mr. J.E. 11/7/04 12:45 P.M. Emily (323) 821-3695 She would like to speak to you tomorrow.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Mr. J.E. 11/7/04 3:10 P.M. Robin Lovery 'Friend' (305)864-7500 Please call her",
+      "position": "bottom"
+    },
+    {
+      "type": "signature",
+      "content": "",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Mr. J.E.",
+      "Mark Epstein",
+      "Emily",
+      "Robin Lovery"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "11/7/04"
+    ],
+    "reference_numbers": [
+      "1 (617) 294-1627",
+      "(570) 723-1056",
+      "(323) 821-3695",
+      "(305)864-7500"
+    ]
+  },
+  "additional_notes": "The document appears to be a set of four message slips, likely from a office or business setting. The messages are from different individuals and contain various phone numbers and requests to return calls."
+}

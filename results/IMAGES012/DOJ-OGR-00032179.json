@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "140",
+    "document_number": "17-295",
+    "date": "8-27-2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "HYPERION AIR, INC. PASSENGER MANIFEST Registration Number: N909JE Type: G-1159B Pilots: Dave Rodgers, Larry Visoski DATE: 8-27-2005 FROM TIST TO PBI Departure Time 3:48 PM Arrival Time 6:10 PM Trip Number 1811 PASSENGERS 1. [REDACTED] 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. FROM Identifier Defined City ST. THOMAS State or Country USVI TO Identifier Defined City WEST PALM BEACH State or Country FL Nautical Miles Statute Miles Gallons 1300 Pounds 9939 AIRFRAME 9836.4 Flight Time 2.21 24 Altitude FL 380 9838.8 TAKE-OFF POWER Night Flex Take-Off 2.15 T/L 1 Min Take-Off IMC Condition Approach COMMENTS WINDSHIELD HCDS RCPtd 110 PASSENGERS 07/26/17 Page 140 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032179",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "HYPERION AIR, INC. PASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: Type: Pilots: DATE: FROM TO Departure Time Arrival Time Trip Number PASSENGERS FROM Identifier Defined City State or Country TO Identifier Defined City State or Country Nautical Miles Statute Miles Gallons Pounds AIRFRAME Flight Time Altitude FL TAKE-OFF POWER Night Flex Take-Off T/L Min Take-Off IMC Condition Approach COMMENTS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "N909JE G-1159B Dave Rodgers, Larry Visoski 8-27-2005 TIST PBI 3:48 PM 6:10 PM 1811 ST. THOMAS USVI WEST PALM BEACH FL 1300 9939 9836.4 2.21 24 380 9838.8 2.15 1 WINDSHIELD HCDS RCPtd 110 PASSENGERS",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 140 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032179",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Dave Rodgers",
+      "Larry Visoski"
+    ],
+    "organizations": [
+      "Hyperion Air, Inc."
+    ],
+    "locations": [
+      "St. Thomas",
+      "USVI",
+      "West Palm Beach",
+      "FL"
+    ],
+    "dates": [
+      "8-27-2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N909JE",
+      "G-1159B",
+      "1811",
+      "17-295",
+      "DOJ-OGR-00032179"
+    ]
+  },
+  "additional_notes": "The document contains redactions, specifically for the passenger names. The document is a passenger manifest for a flight from St. Thomas to West Palm Beach on August 27, 2005."
+}

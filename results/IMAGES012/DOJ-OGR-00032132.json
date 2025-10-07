@@ -1,0 +1,72 @@
+{
+  "document_metadata": {
+    "page_number": "93",
+    "document_number": "DOJ-OGR-00032132",
+    "date": "3-1-2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "JEGE, INC. PASSENGER MANIFEST Registration Number: N908JE Type: B-727-31 Pilots: Dave Rodgers, Larry Visoaki Flight Engmeer: Larry Morrison DATE: 3 -1, 2005 FROM PBI TO JFK Departure Time 10:50 AM Arrival Time 12 53 PM Trip Number 325 PASSENGERS 1. Jeffrey Epstein 2. NADJA MARCINKOVA 3. ANDREANA MUNCINSKA 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. FROM Identifier Defined City WEST PALM BEACH State or Country FL TO Identifier Defined City NEW YORK State or Country NY Nautical Miles 894 Statute Miles 1028 Gallons 2777 Pounds 17799 AIRFRAME 33073.1 Flight Time 2.03 2.1 Altitude FL 370 33075.2 20. Night 21. T/L 1 22. IMC ,3 23. Approach ILS 24. 25. 26. Page 93 of 151 Public Records Request No.: 17-295 07/26/17",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "JEGE, INC. PASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: N908JE Type: B-727-31 Pilots: Dave Rodgers, Larry Visoaki Flight Engmeer: Larry Morrison",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "3 -1, 2005 PBI JFK 10:50 AM 12 53 PM 325",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffrey Epstein NADJA MARCINKOVA ANDREANA MUNCINSKA",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "WEST PALM BEACH FL NEW YORK NY 894 1028 2777 17799 2.03 2.1 370",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 93 of 151 Public Records Request No.: 17-295 07/26/17",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "NADJA MARCINKOVA",
+      "ANDREANA MUNCINSKA",
+      "Dave Rodgers",
+      "Larry Visoaki",
+      "Larry Morrison"
+    ],
+    "organizations": [
+      "JEGE, INC."
+    ],
+    "locations": [
+      "WEST PALM BEACH",
+      "NEW YORK",
+      "PBI",
+      "JFK"
+    ],
+    "dates": [
+      "3-1-2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N908JE",
+      "17-295",
+      "DOJ-OGR-00032132"
+    ]
+  },
+  "additional_notes": "The document is a passenger manifest for a flight from PBI to JFK on March 1, 2005. The passengers listed include Jeffrey Epstein, NADJA MARCINKOVA, and ANDREANA MUNCINSKA. The document contains handwritten notes and appears to be a scanned copy."
+}

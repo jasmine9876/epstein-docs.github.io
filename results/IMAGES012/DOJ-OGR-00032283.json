@@ -1,0 +1,73 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "000-000-0000",
+    "date": "12/10/04",
+    "document_type": "DDA Statement History",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMII 12/10/04 JEFFREY E EPSTEIN OR GHISLAINE MAXWELL OR ALFREDO RODRIGUEZ HOUSEHOLD ACCOUNT DDA STATEMENT HISTORY ACCOUNT 000-000-0000 10.02.11 PAGE 1 DATE LAST STATEMENT 11/23/04 DATE THIS STATEMENT 12/10/04 BEGINNING BALANCE 0.00 CHECKS/OTHER DEBITS DEPOSITS/OTHER CREDITS ENDING BALANCE NBR TOTAL AMOUNT NBR TOTAL AMOUNT 10 4006.36 2 7439.80 3433.44 DATE CK NBR AMOUNT TP TRANSACTION DESCRIPTION BALANCE 10/14 7439.56 DP DEPOSIT 7439.56 10/25 93 450.00 CK TELLER CASHED CHECK 6989.56 10/25 0.24 CR IOD INTEREST PAID 6989.80 10/27 169.38 DB CLARKE AMERICAN CHK ORD 6920.42 11/01 2500 150.00 CK TELLER CASHED CHECK 5770.42 11/08 2504 340.00 CK CHECK 5430.42 11/09 2502 684.87 CK CHECK 4745.55 11/09 2505 415.86 CK CHECK 4329.69 11/09 2503 406.25 CK CHECK 3923.44 11/15 2511 360.00 CK CHECK 3563.44 11/15 2512 80.00 CK CHECK 3483.44 11/15 2501 50.00 CK CHECK 3433.44 PF1 - PAGE FWD ESC=CLEAR SCREEN ALT-F2=PRINT SCREEN ALT-X=EXIT 7 561 820 - 8790 07/26/17 Page 93 of 95 Public Records Request No.: 17-295 Dec 01 2004 11:13AM DOJ-OGR-00032283",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMII 12/10/04 JEFFREY E EPSTEIN OR GHISLAINE MAXWELL OR ALFREDO RODRIGUEZ HOUSEHOLD ACCOUNT DDA STATEMENT HISTORY ACCOUNT 000-000-0000 10.02.11 PAGE 1 DATE LAST STATEMENT 11/23/04 DATE THIS STATEMENT 12/10/04",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "BEGINNING BALANCE 0.00 CHECKS/OTHER DEBITS DEPOSITS/OTHER CREDITS ENDING BALANCE NBR TOTAL AMOUNT NBR TOTAL AMOUNT 10 4006.36 2 7439.80 3433.44",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "DATE CK NBR AMOUNT TP TRANSACTION DESCRIPTION BALANCE 10/14 7439.56 DP DEPOSIT 7439.56 10/25 93 450.00 CK TELLER CASHED CHECK 6989.56 10/25 0.24 CR IOD INTEREST PAID 6989.80 10/27 169.38 DB CLARKE AMERICAN CHK ORD 6920.42 11/01 2500 150.00 CK TELLER CASHED CHECK 5770.42 11/08 2504 340.00 CK CHECK 5430.42 11/09 2502 684.87 CK CHECK 4745.55 11/09 2505 415.86 CK CHECK 4329.69 11/09 2503 406.25 CK CHECK 3923.44 11/15 2511 360.00 CK CHECK 3563.44 11/15 2512 80.00 CK CHECK 3483.44 11/15 2501 50.00 CK CHECK 3433.44",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PF1 - PAGE FWD ESC=CLEAR SCREEN ALT-F2=PRINT SCREEN ALT-X=EXIT 7",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "561 820 - 8790",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 93 of 95 Public Records Request No.: 17-295 Dec 01 2004 11:13AM DOJ-OGR-00032283",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY E EPSTEIN",
+      "GHISLAINE MAXWELL",
+      "ALFREDO RODRIGUEZ"
+    ],
+    "organizations": [
+      "CLARKE AMERICAN"
+    ],
+    "locations": [],
+    "dates": [
+      "12/10/04",
+      "11/23/04",
+      "10/14",
+      "10/25",
+      "10/27",
+      "11/01",
+      "11/08",
+      "11/09",
+      "11/15",
+      "07/26/17",
+      "Dec 01 2004"
+    ],
+    "reference_numbers": [
+      "000-000-0000",
+      "17-295",
+      "DOJ-OGR-00032283"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned copy of a bank statement. The handwritten note '561 820 - 8790' is likely a phone number."
+}

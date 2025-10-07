@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00032521",
+    "date": null,
+    "document_type": "note",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "LYNN & JOJO\nMAIL NEEDS TO BE SENT VIA FED-X ON THOR.\n*JUST CALL 1-800-463-3339 FOR A PICK UP. JUST KEEP TOP COPY.\nTHEY WILL GIVE YOU A PICK UP # AND PICK IT UP BY BACK SERVICE FRONT DOOR.\n1-5\nThanks Nicole\nJeffrey E. Epstein",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "LYNN & JOJO",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "MAIL NEEDS TO BE SENT VIA FED-X ON THOR.",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "*JUST CALL 1-800-463-3339 FOR A PICK UP. JUST KEEP TOP COPY.\nTHEY WILL GIVE YOU A PICK UP # AND PICK IT UP BY BACK SERVICE FRONT DOOR.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1-5\nThanks Nicole",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Jeffrey E. Epstein",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Lynn",
+      "Jojo",
+      "Nicole",
+      "Jeffrey E. Epstein"
+    ],
+    "organizations": [
+      "Fed-X"
+    ],
+    "locations": [],
+    "dates": [
+      "THOR"
+    ],
+    "reference_numbers": [
+      "1-800-463-3339"
+    ]
+  },
+  "additional_notes": "The document appears to be a handwritten note on a piece of paper with a printed name at the bottom. The handwriting is clear, but there are some scribbles and crossed-out text. The note is related to sending mail via Fed-X and includes a phone number for pickup."
+}

@@ -1,0 +1,101 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "17-295",
+    "date": "12/10/04",
+    "document_type": "DDA Statement Inquiry",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMI3 12/10/04 DDA STATEMENT INQUIRY 10.02.31 PAGE 1 JEFFREY E EPSTEIN OR GHISLAINE MAXWELL OR ALFREDO RODRIGUEZ HOUSEHOLD ACCOUNT ACCOUNT 000-000-000C DATE THIS STATEMENT 12/10/04 DATE LAST STATEMENT 11/23/04 *****DDA TRANSACTIONS***** BALANCE CHECKS/OTHER DEBITS DEPOSITS/OTHER CREDITS BALANCE LAST STATEMENT NBR TOTAL AMOUNT NBR TOTAL AMOUNT THIS STATEMENT 5825.46 10 9038.14 1 10000.00 6787.32 DATE CK NBR AMOUNT TY TRANSACTION DESCRIPTION BALANCE 11/30 2515 125.00 CHECK 5700.46 12/03 2516 1600.00 CHECK 12/03 2517 549.29 CHECK 3551.17 12/06 10000.00 INCOMING WIRE CREDIT 12/06 10.00 INCOMING WIRE FEE 12/06 2000.00 TELLER CASHED CHECK 11541.17 12/07 2521 517.74 CHECK 12/07 2522 210.00 CHECK 12/07 2518 101.03 CHECK 10712.40 12/08 2519 2925.08 CHECK 12/08 1000.00 TELLER CASHED CHECK (To Mr. J.E) 6787.32 ESC=CLEAR SCREEN ALT-F2=PRINT SCREEN ALT-X=EXIT E 7 07/26/17 Page 95 of 95 Public Records Request No.: 17-295 WOI :IZ 6007 4I 33C DOI-OGR-00032285",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMI3 12/10/04 DDA STATEMENT INQUIRY 10.02.31 PAGE 1",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "JEFFREY E EPSTEIN OR GHISLAINE MAXWELL OR ALFREDO RODRIGUEZ HOUSEHOLD ACCOUNT",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "ACCOUNT 000-000-000C DATE THIS STATEMENT 12/10/04 DATE LAST STATEMENT 11/23/04",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "*****DDA TRANSACTIONS*****",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "BALANCE LAST STATEMENT 5825.46 CHECKS/OTHER DEBITS NBR 10 TOTAL AMOUNT 9038.14 DEPOSITS/OTHER CREDITS NBR 1 TOTAL AMOUNT 10000.00 BALANCE THIS STATEMENT 6787.32",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "DATE CK NBR AMOUNT TY TRANSACTION DESCRIPTION BALANCE",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "11/30 2515 125.00 CHECK 5700.46 12/03 2516 1600.00 CHECK 12/03 2517 549.29 CHECK 3551.17 12/06 10000.00 INCOMING WIRE CREDIT 12/06 10.00 INCOMING WIRE FEE 12/06 2000.00 TELLER CASHED CHECK 11541.17 12/07 2521 517.74 CHECK 12/07 2522 210.00 CHECK 12/07 2518 101.03 CHECK 10712.40 12/08 2519 2925.08 CHECK 12/08 1000.00 TELLER CASHED CHECK",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "(To Mr. J.E)",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "ESC=CLEAR SCREEN ALT-F2=PRINT SCREEN ALT-X=EXIT E 7",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 95 of 95 Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOI-OGR-00032285",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY E EPSTEIN",
+      "GHISLAINE MAXWELL",
+      "ALFREDO RODRIGUEZ",
+      "J.E"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "12/10/04",
+      "11/23/04",
+      "11/30",
+      "12/03",
+      "12/06",
+      "12/07",
+      "12/08",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "000-000-000C",
+      "17-295",
+      "DOI-OGR-00032285",
+      "2515",
+      "2516",
+      "2517",
+      "2521",
+      "2522",
+      "2518",
+      "2519"
+    ]
+  },
+  "additional_notes": "The document appears to be a bank statement inquiry for Jeffrey E Epstein's household account. The statement shows various transactions, including checks, wire credits, and fees. There is a handwritten note '(To Mr. J.E)' next to one of the transactions."
+}

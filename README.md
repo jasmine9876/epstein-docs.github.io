@@ -34,6 +34,7 @@ This project automatically processes thousands of scanned document pages using A
 ├── process_images.py       # Python script to OCR images using AI
 ├── cleanup_failed.py       # Python script to clean up failed processing
 ├── deduplicate.py          # Python script to deduplicate entities
+├── deduplicate_types.py    # Python script to deduplicate document types
 ├── analyze_documents.py    # Python script to generate AI summaries
 ├── requirements.txt         # Python dependencies
 ├── .env.example            # Example environment configuration
@@ -41,6 +42,7 @@ This project automatically processes thousands of scanned document pages using A
 ├── results/                # Extracted JSON data per document
 ├── processing_index.json   # Processing progress tracking (generated)
 ├── dedupe.json             # Entity deduplication mappings (generated)
+├── dedupe_types.json       # Document type deduplication mappings (generated)
 ├── analyses.json           # AI document analyses (generated)
 ├── src/                    # 11ty source files for website
 ├── .eleventy.js            # Static site generator configuration
@@ -133,6 +135,37 @@ This will:
 }
 ```
 
+**Deduplicate Document Types:**
+
+The LLM may also extract document types with inconsistent formatting (e.g., "deposition", "Deposition", "DEPOSITION TRANSCRIPT"). Run the type deduplication script:
+
+```bash
+python deduplicate_types.py
+```
+
+This will:
+- Collect all document types from `./results/`
+- Use AI to merge similar types into canonical forms
+- Create a `dedupe_types.json` mapping file
+- The website build will automatically use this mapping
+
+**Example dedupe_types.json:**
+```json
+{
+  "stats": {
+    "original_types": 45,
+    "canonical_types": 12,
+    "reduction_percentage": 73.3
+  },
+  "mappings": {
+    "deposition": "Deposition",
+    "DEPOSITION": "Deposition",
+    "deposition transcript": "Deposition",
+    "court filing": "Court Filing"
+  }
+}
+```
+
 ### 5. Analyze Documents (Optional but Recommended)
 
 Generate AI summaries and insights for each document:
@@ -209,32 +242,18 @@ This is an open archive project. Contributions welcome:
 - Add additional document sources
 - Improve entity extraction
 
-## Support This Project
-
-If you find this archive useful, consider supporting its maintenance and hosting:
-
-**Bitcoin**: `bc1qmahlh5eql05w30cgf5taj3n23twmp0f5xcvnnz`
-
 ## Deployment
 
 The site is automatically deployed to GitHub Pages on every push to the main branch.
 
 ### GitHub Pages Setup
 
-1. Push this repository to GitHub: `https://github.com/epstein-docs/epstein-docs`
+1. Push this repository to GitHub: `https://github.com/epstein-docs/epstein-docs.github.io`
 2. Go to Settings → Pages
 3. Source: GitHub Actions
 4. The workflow will automatically build and deploy the site
 
-The site will be available at: `https://epstein-docs.github.io/epstein-docs/`
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-The code in this repository is open source and free to use. The documents themselves are public records.
-
-**Repository**: https://github.com/epstein-docs/epstein-docs
+The site will be available at: `https://epstein-docs.github.io/`
 
 ## Future: Relationship Graphs
 
@@ -278,3 +297,17 @@ The deduplication step is essential for accurate relationship mapping - without 
 ## Disclaimer
 
 This is an independent archival project. Documents are sourced from public releases. The maintainers make no representations about completeness or accuracy of the archive.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+The code in this repository is open source and free to use. The documents themselves are public records.
+
+**Repository**: https://github.com/epstein-docs/epstein-docs
+
+## Support This Project
+
+If you find this archive useful, consider supporting its maintenance and hosting:
+
+**Bitcoin**: `bc1qmahlh5eql05w30cgf5taj3n23twmp0f5xcvnnz`

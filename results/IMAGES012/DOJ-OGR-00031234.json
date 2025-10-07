@@ -1,0 +1,77 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": null,
+    "date": "2006-07-17",
+    "document_type": "news article",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Albuquerque Tribune Online Page 4 of 28 States. He also owns Chartwell Partners, a Los Angeles investment company. Perenchlo has actively supported candidates, mostly in California. He gave at least $200,000 to California Gov. Gray Davis during this election cycle. He also gave money to national Republican Congressional Committees and made smaller donations to Democratic congressional candidates. Richardson has known Perenchlo since his days in Congress. 7. Maloof family: $87,417 The high-profile New Mexico family, known for its support of Democratic candidates and causes, put its financial backing behind Richardson. The Joe G. Maloof Company, the family's liquor business, pitched in $30,000. Gavin Maloof donated $40,000. Family matriarch Colleen Maloof used her Albuquerque home and catered a fund-raising event - to the tune of $15,917 - on Richardson's behalf. Former Vice President Al Gore was the featured guest at the event. The Maloofs own the Sacramento Kings basketball team and the Palms Casino and Resort in Las Vegas, Nev. The Maloofs also donated a $1,500 trip to its Las Vegas resort as an auction item that Richardson used during a fund-raising event. 8. BGK Equities III LLC: $50,000 The Santa Fe real estate company is one of the largest commercial firms in the state. Among its clients are state agencies, which lease office space from BGK. PPublic Records Request No.: 17-2957/2006 http://abqtrib.com/archives/news02/120702_Page_04_donate.shtml DOJ-OGR-00031234",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Albuquerque Tribune Online Page 4 of 28",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "States. He also owns Chartwell Partners, a Los Angeles investment company. Perenchlo has actively supported candidates, mostly in California. He gave at least $200,000 to California Gov. Gray Davis during this election cycle. He also gave money to national Republican Congressional Committees and made smaller donations to Democratic congressional candidates. Richardson has known Perenchlo since his days in Congress.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "7. Maloof family: $87,417 The high-profile New Mexico family, known for its support of Democratic candidates and causes, put its financial backing behind Richardson. The Joe G. Maloof Company, the family's liquor business, pitched in $30,000. Gavin Maloof donated $40,000. Family matriarch Colleen Maloof used her Albuquerque home and catered a fund-raising event - to the tune of $15,917 - on Richardson's behalf. Former Vice President Al Gore was the featured guest at the event. The Maloofs own the Sacramento Kings basketball team and the Palms Casino and Resort in Las Vegas, Nev. The Maloofs also donated a $1,500 trip to its Las Vegas resort as an auction item that Richardson used during a fund-raising event.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "8. BGK Equities III LLC: $50,000 The Santa Fe real estate company is one of the largest commercial firms in the state. Among its clients are state agencies, which lease office space from BGK.",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "PPublic Records Request No.: 17-2957/2006",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "http://abqtrib.com/archives/news02/120702_Page_04_donate.shtml DOJ-OGR-00031234",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Perenchlo",
+      "Richardson",
+      "Gray Davis",
+      "Gavin Maloof",
+      "Colleen Maloof",
+      "Al Gore"
+    ],
+    "organizations": [
+      "Chartwell Partners",
+      "Joe G. Maloof Company",
+      "BGK Equities III LLC",
+      "Sacramento Kings",
+      "Palms Casino and Resort"
+    ],
+    "locations": [
+      "California",
+      "Los Angeles",
+      "New Mexico",
+      "Albuquerque",
+      "Las Vegas",
+      "Nevada",
+      "Santa Fe"
+    ],
+    "dates": [
+      "2006-07-17"
+    ],
+    "reference_numbers": [
+      "17-2957/2006",
+      "DOJ-OGR-00031234"
+    ]
+  },
+  "additional_notes": "The document appears to be a news article discussing political donations and their recipients. The text is clear and legible, with no visible redactions or damage."
+}

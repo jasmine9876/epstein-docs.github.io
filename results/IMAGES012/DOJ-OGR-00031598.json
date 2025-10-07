@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": "77",
+    "document_number": "17-295",
+    "date": "07/15/2005",
+    "document_type": "Public Records Request",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "07/15/2005 15:43 5613557281 SUE PAGE 03 Jul 15 2005 10:43AM PALM BEACH POLICE 5618385491 P. 2 07/15/2005 11:00 5613557281 SUE PAGE 02 I Detective Michellle D. Pagan, of the Palm Beach Police Department, agree that any information obtained by virtue of the State Attorney subpoena attached, is confidential and will not be released to anyone outside law enforcement. Dissemination of this information to anyone other than law enforcement personnel entitled to such information will be prosecuted as Obstructing Justice. I swear that this information is requested in good faith for the purpose of investigating crime. Detective Michellle D. Pagan 07/26/17 Page 77 Public Records Request No.: 17-295 DOJ-OGR-00031598",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "07/15/2005 15:43 5613557281 SUE PAGE 03 Jul 15 2005 10:43AM PALM BEACH POLICE 5618385491 P. 2 07/15/2005 11:00 5613557281 SUE PAGE 02",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "I Detective Michellle D. Pagan, of the Palm Beach Police Department, agree that any information obtained by virtue of the State Attorney subpoena attached, is confidential and will not be released to anyone outside law enforcement. Dissemination of this information to anyone other than law enforcement personnel entitled to such information will be prosecuted as Obstructing Justice. I swear that this information is requested in good faith for the purpose of investigating crime.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Michellle",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Detective Michellle D. Pagan",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 77 Public Records Request No.: 17-295 DOJ-OGR-00031598",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Michellle D. Pagan"
+    ],
+    "organizations": [
+      "Palm Beach Police Department",
+      "State Attorney"
+    ],
+    "locations": [
+      "Palm Beach"
+    ],
+    "dates": [
+      "07/15/2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "5613557281",
+      "5618385491",
+      "DOJ-OGR-00031598"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned copy of a signed affidavit from a detective with the Palm Beach Police Department. The document is related to a public records request."
+}

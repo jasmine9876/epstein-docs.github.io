@@ -108,9 +108,9 @@ class DocumentAnalyzer:
             }
 
             for page in doc_pages:
-                if 'entities' in page:
+                if 'entities' in page and page['entities']:
                     for key in all_entities.keys():
-                        if key in page['entities']:
+                        if key in page['entities'] and page['entities'][key]:
                             all_entities[key].update(page['entities'][key])
 
             documents.append({

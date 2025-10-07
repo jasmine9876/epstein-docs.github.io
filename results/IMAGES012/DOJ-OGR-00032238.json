@@ -1,0 +1,73 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "J5-104607",
+    "date": "11/24/2005",
+    "document_type": "Incident Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Incident Report CHEROKEE COUNTY SHERIFF'S OFFICE 498 CHATTIN DRIVE (678) 493-4200 J5-104607 Supplement No ORIG Reported Date 11/24/2005 Nature of Call INFO Officer BEDOYA,BROOKE Administrative Information Agency CHEROKEE COUNTY SHERIFF'S OFFICE CAD Call No 050174770 Status MISCELLANEOUS REPORT Location unknown area Report No 05-104607 Supplement No ORIG Reported Date 11/24/2005 Reported Time 21:49 Nature of Call INFORMATION City WALESKA ZIP Code WALESKA Beat/Zone Date 42 11/24/2005 From Time 21:49 Officer 000202/BEDOYA, BROOKE Assignment WARRANT UNIT Entered By Asgn: 000202 WARRANT UNIT RMS Transfer: Successful Approving Officer 000202 Approval Date 11/28/2005 Approval Time 20:21:19 Person Summary Inv No Type Name JUV 1 I JAMES OTH 1 I MNI 258904 Race W Sex M Date of Birth MNI 258903 Race W Sex F Date of Birth 03/17/1969 Summary Nar ****Information Only**** Report Officer 000202/BEDOYA, BROOKE Printed At 06/06/2006 11:21 Page 1 of 2 07/26/17 Page 48 of 95 Public Records Request No.: 17-295 DOJ-OGR-00032238",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Incident Report CHEROKEE COUNTY SHERIFF'S OFFICE 498 CHATTIN DRIVE (678) 493-4200",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Administrative Information",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Person Summary",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Summary Nar ****Information Only****",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Report Officer 000202/BEDOYA, BROOKE Printed At 06/06/2006 11:21 Page 1 of 2",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 48 of 95 Public Records Request No.: 17-295 DOJ-OGR-00032238",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "BEDOYA, BROOKE",
+      "JAMES"
+    ],
+    "organizations": [
+      "CHEROKEE COUNTY SHERIFF'S OFFICE"
+    ],
+    "locations": [
+      "WALESKA",
+      "CHATTIN DRIVE"
+    ],
+    "dates": [
+      "11/24/2005",
+      "11/28/2005",
+      "06/06/2006",
+      "07/26/17",
+      "03/17/1969"
+    ],
+    "reference_numbers": [
+      "J5-104607",
+      "050174770",
+      "000202",
+      "258904",
+      "258903",
+      "17-295",
+      "DOJ-OGR-00032238"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned incident report from the Cherokee County Sheriff's Office. Some information is redacted."
+}

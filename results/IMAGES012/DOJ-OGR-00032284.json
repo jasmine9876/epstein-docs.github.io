@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "000-000-0000",
+    "date": "12/10/04",
+    "document_type": "DDA Statement History",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMII 12/10/04 JEFFREY E EPSTEIN OR GHISLAINE MAXWELL OR ALFREDO RODRIGUEZ HOUSEHOLD ACCOUNT DDA STATEMENT HISTORY ACCOUNT 000-000-0000 DATE LAST STATEMENT 11/23/04 DATE THIS STATEMENT 12/10/04 10.02.11 PAGE 2 *****DDA TRANSACTIONS***** BEGINNING BALANCE CHECKS/OTHER DEBITS DEPOSITS/OTHER CREDITS ENDING BALANCE NBR TOTAL AMOUNT NBR TOTAL AMOUNT 0.00 19 11614.78 4 17440.24 5825.46 DATE CK NBR AMOUNT TP TRANSACTION DESCRIPTION BALANCE 11/16 2507 1135.03 CK CHECK 2298.41 11/16 2509 803.24 CK CHECK 1495.17 11/16 2506 344.91 CK CHECK 1150.26 11/16 2508 125.24 CK CHECK 1025.02 11/16 2510 110.00 CK CHECK 915.02 11/17 2514 80.00 CK TELLER CASHED CHECK 835.02 11/18 10000.00 CR INCOMING WIRE CREDIT 10835.02 11/18 10.00 DB INCOMING WIRE FEE 10825.02 11/18 2500.00 CK TELLER CASHED CHECK 8325.02 11/22 2513 2500.00 CK CHECK 5825.02 11/23 0.44 CR IOD INTEREST PAID 5825.46 LAST PAGE PF2 - PAGE BKWD ESC=CLEAR SCREEN ALT-F2=PRINT SCREEN ALT-X=EXIT E 7 07/26/17 Page 94 of 95 Public Records Request No.: 17-295 DOJ-OGR-00032284",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMII 12/10/04 JEFFREY E EPSTEIN OR GHISLAINE MAXWELL OR ALFREDO RODRIGUEZ HOUSEHOLD ACCOUNT DDA STATEMENT HISTORY ACCOUNT 000-000-0000 DATE LAST STATEMENT 11/23/04 DATE THIS STATEMENT 12/10/04 10.02.11 PAGE 2",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "*****DDA TRANSACTIONS***** BEGINNING BALANCE CHECKS/OTHER DEBITS DEPOSITS/OTHER CREDITS ENDING BALANCE NBR TOTAL AMOUNT NBR TOTAL AMOUNT 0.00 19 11614.78 4 17440.24 5825.46",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DATE CK NBR AMOUNT TP TRANSACTION DESCRIPTION BALANCE 11/16 2507 1135.03 CK CHECK 2298.41 11/16 2509 803.24 CK CHECK 1495.17 11/16 2506 344.91 CK CHECK 1150.26 11/16 2508 125.24 CK CHECK 1025.02 11/16 2510 110.00 CK CHECK 915.02 11/17 2514 80.00 CK TELLER CASHED CHECK 835.02 11/18 10000.00 CR INCOMING WIRE CREDIT 10835.02 11/18 10.00 DB INCOMING WIRE FEE 10825.02 11/18 2500.00 CK TELLER CASHED CHECK 8325.02 11/22 2513 2500.00 CK CHECK 5825.02 11/23 0.44 CR IOD INTEREST PAID 5825.46",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "LAST PAGE PF2 - PAGE BKWD ESC=CLEAR SCREEN ALT-F2=PRINT SCREEN ALT-X=EXIT E 7",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 94 of 95 Public Records Request No.: 17-295 DOJ-OGR-00032284",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY E EPSTEIN",
+      "GHISLAINE MAXWELL",
+      "ALFREDO RODRIGUEZ"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "12/10/04",
+      "11/23/04",
+      "11/16",
+      "11/17",
+      "11/18",
+      "11/22",
+      "11/23",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "000-000-0000",
+      "2507",
+      "2509",
+      "2506",
+      "2508",
+      "2510",
+      "2514",
+      "2513",
+      "17-295",
+      "DOJ-OGR-00032284"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned copy of a bank statement. The image quality is clear, and the text is legible. There are some handwritten checkmarks on the document."
+}

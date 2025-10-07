@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00032461",
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR JE DATE 16/03/03 TIME 16:19 A.M. P.M. M Colleen OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE She has been sick in bed. SIGNED Midrolet 1184 IMPORTANT MESSAGE FOR Sarah DATE 03/16/03 TIME 2:45 A.M. P.M. M OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Regarding wireless card 6247342144 SIGNED 1184 IMPORTANT MESSAGE FOR JE DATE 16/07/03 TIME 15:30 A.M. P.M. M Alanaff OF 2104801501 PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED MICHAEL 01/26/17 Page 2 48 IMPORTANT MESSAGE FOR Terry Goddard DATE TIME A.M. P.M. M OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE bill c/lates SIGNED Public Records Request No.: 17-295 1184",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "JE Colleen 16/03/03 16:19 She has been sick in bed. Midrolet",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Sarah 03/16/03 2:45 Regarding wireless card 6247342144",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "JE Alanaff 16/07/03 15:30 2104801501 MICHAEL 01/26/17",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Terry Goddard bill c/lates Public Records Request No.: 17-295",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JE",
+      "Colleen",
+      "Sarah",
+      "Alanaff",
+      "Terry Goddard",
+      "Midrolet",
+      "MICHAEL"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "16/03/03",
+      "03/16/03",
+      "16/07/03",
+      "01/26/17"
+    ],
+    "reference_numbers": [
+      "2104801501",
+      "6247342144",
+      "17-295",
+      "DOJ-OGR-00032461"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned copy of a notepad containing four 'Important Message' forms. The forms contain handwritten notes with various dates and names. The document quality is generally good, but there may be some minor degradation due to scanning."
+}

@@ -1,0 +1,71 @@
+{
+  "document_metadata": {
+    "page_number": "52",
+    "document_number": "17-295",
+    "date": "07/26/11",
+    "document_type": "Message Slips",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR J.E. DATE 7/4/05 TIME 6:28 P.M. M OF G.M. PHONE/MOBILE TELEPHONED X PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED J.F. 1184 IMPORTANT MESSAGE FOR J.E. DATE 7/4/05 TIME 7:20 P.M. M Tatiana OF PHONE/MOBILE TELEPHONED X PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 1184 IMPORTANT MESSAGE FOR DATE TIME 12:30 P.M. M 6- OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE She called Eduardo - he's going to have dinner w/ him - He's not going to Grand Prix - but he told her to call his secretary to organize passes. 07/26/11 SIGNED Page 52 of 124 1184 IMPORTANT MESSAGE FOR DATE TIME 10:35 P.M. M Tatayana OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE called to say goodnight SIGNED Public Records Request No.: 17-295 1184 DOJ-OGR-00031773",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "J.E. 7/4/05 6:28 P.M. G.M. X TELEPHONED PLEASE CALL J.F.",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "J.E. 7/4/05 7:20 P.M. Tatiana X TELEPHONED PLEASE CALL",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "12:30 P.M. 6- She called Eduardo - he's going to have dinner w/ him - He's not going to Grand Prix - but he told her to call his secretary to organize passes. 07/26/11",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "10:35 P.M. Tatayana called to say goodnight",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00031773",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "J.E.",
+      "G.M.",
+      "Tatiana",
+      "Eduardo",
+      "J.F.",
+      "Tatayana"
+    ],
+    "organizations": [],
+    "locations": [
+      "Grand Prix"
+    ],
+    "dates": [
+      "7/4/05",
+      "07/26/11"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00031773"
+    ]
+  },
+  "additional_notes": "The document appears to be a scan of a page from a binder containing message slips. The page is labeled 'Page 52 of 124'. The message slips contain handwritten notes and are dated July 4, 2005, and July 26, 2011. The document is related to a public records request (No.: 17-295)."
+}

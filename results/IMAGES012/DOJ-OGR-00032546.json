@@ -1,0 +1,69 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00032546",
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR: Jeffiey DATE 21/1/05 TIME 11 15 A.M. M Darren OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE He got details 04 John's deal SIGNED 1184 IMPORTANT MESSAGE FOR: Jeffiey DATE 21/7/05 TIME 2 30 A.M. M Cecilia OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Eric Ross called SIGNED 1184 IMPORTANT MESSAGE FOR: JEB DATE 2/6/06 TIME 2.00 A.M. M Natalie OF PHONE/ MOBILE 9172049676 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Anna definitely had a castor oil tomorrow at 9am she want know until 5.30pm today what it's for 9782617 Page 2233 1184 IMPORTANT MESSAGE FOR: JE DATE M David Copperfield TIME 8 10 A.M. OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Please call SIGNED Public Records Request No.: 17-295 1184",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffiey, 21/1/05, 11:15 A.M., Darren, He got details 04 John's deal",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffiey, 21/7/05, 2:30 P.M., Cecilia, Eric Ross called",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "JEB, 2/6/06, 2:00 P.M., Natalie, 9172049676, Anna definitely had a castor oil tomorrow at 9am she want know until 5.30pm today what it's for",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "JE, David Copperfield, 8:10 A.M., Please call",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffiey",
+      "Darren",
+      "Cecilia",
+      "Eric Ross",
+      "JEB",
+      "Natalie",
+      "Anna",
+      "JE",
+      "David Copperfield"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "21/1/05",
+      "21/7/05",
+      "2/6/06"
+    ],
+    "reference_numbers": [
+      "9172049676",
+      "17-295",
+      "DOJ-OGR-00032546"
+    ]
+  },
+  "additional_notes": "The document is a scanned image of four 'Important Message' forms, likely from a office or business setting. The forms contain handwritten notes with names, dates, times, phone numbers, and messages."
+}

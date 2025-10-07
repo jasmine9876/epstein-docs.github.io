@@ -1,0 +1,103 @@
+{
+  "document_metadata": {
+    "page_number": "142",
+    "document_number": "17-295",
+    "date": "09/14/2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "09/14/2005 14:16 FAX\nHYPERION AIR, INC.\nPASSENGER MANIFEST\nRegistration Number: N909JE Type: G-1159B Pilots: David Rodgers, Larry Visoski\nDATE: 9 - 3 ,2005 FROM TIST TO KPAI\nDeparture Arrival Trip Time 11:48 AM Time 2:12 PM Number 1813\nPASSENGERS\n1. Jeffrey Epstein FROM Identifier Defined\n2. David Mullen City ST THOMAS\n3. Adriana Mucinska State or Country USVI\n4. Dana Burns TO Identifier Defined\n5. City WEST Palm Beach\n6. Tatiana State or Country FL\n7. Nautical Miles 985\n8. Statute Miles 1132\n9. Gallons 1300 AIRFRAME 98412\n10. Pounds 24\n11. Flight Time 2+23 9843.6\n12. Altitude FL 430\n13. TAKE-OFF POWER Night\nCOMMENTS Flex Take-Off T/L 111\nMin Take-Off IMC 3\nCondition Approach\n07/26/17 Page 142 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032181",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "HYPERION AIR, INC.\nPASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: N909JE Type: G-1159B Pilots: David Rodgers, Larry Visoski",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Bill Hammond",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DATE: FROM TO\nDeparture Arrival Trip Time Time Number",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "9 - 3 ,2005 TIST KPAI\n11:48 AM 2:12 PM 1813",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGERS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1. Jeffrey Epstein\n2. David Mullen\n3. Adriana Mucinska\n4. Dana Burns\n5.\n6. Tatiana",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FROM Identifier Defined City State or Country TO Identifier Defined City State or Country Nautical Miles Statute Miles Gallons Pounds Flight Time Altitude FL TAKE-OFF POWER Night Flex Take-Off T/L Min Take-Off IMC Condition Approach",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "ST THOMAS USVI\nWEST Palm Beach FL\n985\n1132\n1300\n2+23 430\n111\n3",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "COMMENTS",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 142 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032181",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "David Mullen",
+      "Adriana Mucinska",
+      "Dana Burns",
+      "Tatiana",
+      "David Rodgers",
+      "Larry Visoski",
+      "Bill Hammond"
+    ],
+    "organizations": [
+      "Hyperion Air, Inc."
+    ],
+    "locations": [
+      "ST THOMAS",
+      "USVI",
+      "WEST Palm Beach",
+      "FL",
+      "TIST",
+      "KPAI"
+    ],
+    "dates": [
+      "9-3-2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N909JE",
+      "G-1159B",
+      "1813",
+      "17-295",
+      "DOJ-OGR-00032181"
+    ]
+  },
+  "additional_notes": "The document is a passenger manifest for Hyperion Air, Inc. with handwritten entries. It includes details about the flight, passengers, and other relevant information."
+}

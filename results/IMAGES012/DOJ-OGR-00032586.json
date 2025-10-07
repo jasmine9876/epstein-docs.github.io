@@ -1,0 +1,89 @@
+{
+  "document_metadata": {
+    "page_number": "2273",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Fax Cover Sheet",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "FAX COVER SHEET\nTO: Media FROM: Deb\nLOCATION: LOCATION: SAO, West Palm Beach, FL\nPHONE: PHONE:\nFAX NO: FAX NO:\nNUMBER OF PAGES TO FOLLOW: 1\nSPECIAL INSTRUCTIONS: Epstein plea incomplete\nFAX OPERATOR: DATE SENT: 6/30/08 TIME SENT:\nspecial conditions of his sex offender probation are in the court file,\nwe do not have a copy.\n07/26/17 Page 2273 Public Records Request No.: 17-295\nDOJ-OGR-00032586",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FAX COVER SHEET",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "TO: Media FROM: Deb\nLOCATION: LOCATION: SAO, West Palm Beach, FL\nPHONE: PHONE:\nFAX NO: FAX NO:",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Media",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Deb",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "NUMBER OF PAGES TO FOLLOW: 1",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Epstein plea incomplete",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FAX OPERATOR: DATE SENT: TIME SENT:",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "6/30/08",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "special conditions of his sex offender probation are in the court file,\nwe do not have a copy.",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 2273 Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032586",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Deb",
+      "Epstein"
+    ],
+    "organizations": [
+      "SAO"
+    ],
+    "locations": [
+      "West Palm Beach, FL"
+    ],
+    "dates": [
+      "6/30/08",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032586"
+    ]
+  },
+  "additional_notes": "The document is a fax cover sheet with handwritten notes. The fax is regarding Epstein's plea and special conditions of his sex offender probation."
+}

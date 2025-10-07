@@ -1,0 +1,105 @@
+{
+  "document_metadata": {
+    "page_number": "134",
+    "document_number": "17-295",
+    "date": "7.18.2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "HYPERION AIR, INC. PASSENGER MANIFEST Registration Number: N909JE Type: G-1159B Pilots: Dave Rodgers, Larry Visoski DATE: 7 .18, 2005 FROM PBI TO TEB Departure Time 1:49 AM Arrival Time 4:15 PM Trip Number 1792 PASSENGERS 1. Jeffrey Epstein 2. SARAH KELLEN 3. DANA BURNS FROM Identifier Defined City WEST PALM BEACH State or Country FL TO Identifier Defined City TETERBORO State or Country NJ Nautical Miles 900 Statute Miles 1035 Gallons 1500 Pounds 9366 Flight Time 2+26 Altitude FL 450 TAKE-OFF POWER Flex:Take-Off 2.15 T/L Min Take-Off IMC .3 Condition Approach ILS AIRFRAME 9800.4 2.4 9802.8 COMMENTS",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "HYPERION AIR, INC. PASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: Type: Pilots:",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "N909JE G-1159B Dave Rodgers, Larry Visoski",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "DATE: FROM TO Departure Time Arrival Time Trip Number",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "7 .18, 2005 PBI TEB 1:49 AM 4:15 PM 1792",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGERS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1. Jeffrey Epstein 2. SARAH KELLEN 3. DANA BURNS",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FROM Identifier Defined City State or Country TO Identifier Defined City State or Country Nautical Miles Statute Miles Gallons Pounds Flight Time Altitude FL TAKE-OFF POWER Flex:Take-Off T/L Min Take-Off IMC Condition Approach",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "WEST PALM BEACH FL TETERBORO NJ 900 1035 1500 9366 2+26 450 2.15 1 .3 ILS",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "AIRFRAME",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "9800.4 2.4 9802.8",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "COMMENTS",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Sarah Kellen",
+      "Dana Burns",
+      "Dave Rodgers",
+      "Larry Visoski"
+    ],
+    "organizations": [
+      "Hyperion Air, Inc."
+    ],
+    "locations": [
+      "West Palm Beach",
+      "PBI",
+      "Teterboro",
+      "TEB",
+      "FL",
+      "NJ"
+    ],
+    "dates": [
+      "7.18.2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N909JE",
+      "G-1159B",
+      "1792",
+      "17-295",
+      "DOJ-OGR-00032173"
+    ]
+  },
+  "additional_notes": "The document is a passenger manifest for Hyperion Air, Inc. with handwritten entries. It includes details about the flight, passengers, and aircraft. The document is page 134 of 151 and is related to a public records request No.: 17-295."
+}

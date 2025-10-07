@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "17-295",
+    "date": "Apr 05, 2005",
+    "document_type": "T-Mobile account statement",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Customer Service Number 1-800-937-8997 Apr 05, 2005 Itemized Details For: Account Number: Page 4 of 21 Account Service Detail for Subscriber Available Service Type WHENEVER WEEKEND Bonus 50 Minutes Bonus Minutes Minutes 20 - FamTime Unl Nts 1600 Free Minutes T-Mobile to T-Mobile Use Them Or Lose Them Minutes Unlimited - Text Message 300 Free Txt Msg Messages 300 Unlimited Used Service Type WHENEVER PEAK OFF PEAK WEEKEND Included Plan Minutes Minutes 29 - 2 T-Mobile to T-Mobile Minutes 10 - Totals Amount Monthly Service Charges $ 12.99 $10 Additional Line $ 10.00 Bonus 50 Minutes $ - Text Message 300 $ 2.99 VM & Fax $ - Taxes, Fees and Surcharges $ 3.41 Government Fees and Taxes Federal Excise Tax $ 0.03 Federal Universal Service Fund $ 0.05 State Communication Service Tax $ 1.19 Local Communication Service Tax $ 0.78 County 911 $ 0.50 Regulatory Programs Fee* $ 0.86 *Fee we collect and retain to help cover our costs related to funding and complying with government mandates, programs and obligations. Total Charges $ 16.40 LOCAL AIRTIME, LONG DISTANCE and INTERNATIONAL CHARGES Date Call Destination Time Number Called Call Type Minutes Airtime Charges Toll Charges Total 3/18/05 W Palm Bch, FL 12:50 PM 561-333-0180 1 $ - $ - $ - 3/18/05 W Palm Bch, FL 12:51 PM 561-333-0180 1 $ - $ - $ - 3/18/05 W Palm Bch, FL 4:16 PM 561-333-0180 1 $ - $ - $ - 3/18/05 W Palm Bch, FL 4:19 PM 561-798-7979 2 $ - $ - $ - 3/30/05 W Palm Bch, FL 3:34 PM 561-333-0180 1 $ - $ - $ - 3/30/05 W Palm Bch, FL 3:35 PM 561-308-0282 4 $ - $ - $ - 3/31/05 W Palm Bch, FL 11:24 AM 561-762-3450 1 $ - $ - $ - 3/31/05 W Palm Bch, FL 3:43 PM 561-308-0280 1 $ - $ - $ - 3/31/05 W Palm Bch, FL 4:25 PM 561-308-0282 2 $ - $ - $ - 4/01/05 W Palm Bch, FL 3:20 PM 561-308-0282 2 $ - $ - $ - 4/01/05 W Palm Bch, FL 3:21 PM 561-308-0282 1 $ - $ - $ - Call Type: (A) Call Waiting (B) Call Forward (C) Conference Call (E) Data/Fax (F) Mobile2Mobile (G) Voicemail (H) Free Calls (K) WPS Call 07/26/17 Page 60 Public Records Request No.: 17-295 DOJ-OGR-00031581",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Customer Service Number 1-800-937-8997",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Account Service Detail for Subscriber",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "LOCAL AIRTIME, LONG DISTANCE and INTERNATIONAL CHARGES",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Call Type: (A) Call Waiting (B) Call Forward (C) Conference Call (E) Data/Fax (F) Mobile2Mobile (G) Voicemail (H) Free Calls (K) WPS Call",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "T-Mobile"
+    ],
+    "locations": [
+      "W Palm Bch, FL"
+    ],
+    "dates": [
+      "Apr 05, 2005",
+      "3/18/05",
+      "3/30/05",
+      "3/31/05",
+      "4/01/05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "1-800-937-8997",
+      "17-295",
+      "DOJ-OGR-00031581",
+      "561-333-0180",
+      "561-798-7979",
+      "561-308-0282",
+      "561-762-3450",
+      "561-308-0280"
+    ]
+  },
+  "additional_notes": "The document appears to be a T-Mobile account statement from April 5, 2005. It includes details about the account service, monthly charges, taxes, and call records. The document is page 4 of 21 and has been requested as part of a public records request (No.: 17-295)."
+}

@@ -1,0 +1,98 @@
+{
+  "document_metadata": {
+    "page_number": "04",
+    "document_number": "17-295",
+    "date": "05/20/2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "05/20/2005 13:00 5614786553 JEGE OR HYPERION AIR PAGE 04 HYPERION AIR, INC. PASSENGER MANIFEST Registration Number: N909JE Type: G-1159B Pilots: Dave Rodgers, Larry Visoski DATE: 4 29 2005 FROM PBI TO TIST Departure Time 8 .22 AM Arrival Time 10 .28 AM Trip Number 1773 PASSENGERS 1. Jeffrey Epstein 2. [redacted] 3. [redacted] 4. ANDREANA MUCINSKA 5. VALO SON COTRIN 6. TATIANA 7. MANUELA SJOETTER 8. 9. 10. 11. 12. 13. COMMENTS FROM Identifier Defined City WEST PALM BEACH State or Country FL TO Identifier Defined City ST. THOMAS State or Country USVI Nautical Miles Statute Miles Gallons 1650 Pounds 8900 Flight Time 2 .06 Altitude FL 390 TAKE-OFF POWER Flex Take-Off 2 15 Min Take-Off IMC 1.9 Condition Approach AIRFRAME 9751.3 2.1 9753.4 Night 2.1 T/L 1/1 07/26/17 Page 121 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032160",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "HYPERION AIR, INC. PASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: N909JE Type: G-1159B Pilots: Dave Rodgers, Larry Visoski",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "4 29 2005",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "PBI TIST",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "8 .22 AM 10 .28 AM 1773",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGERS",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "1. Jeffrey Epstein 2. [redacted] 3. [redacted] 4. ANDREANA MUCINSKA 5. VALO SON COTRIN 6. TATIANA 7. MANUELA SJOETTER",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "FROM Identifier Defined City WEST PALM BEACH State or Country FL TO Identifier Defined City ST. THOMAS State or Country USVI",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "1650 8900 2 .06 390 2 15 1.9",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "COMMENTS",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Dave Rodgers",
+      "Larry Visoski",
+      "ANDREANA MUCINSKA",
+      "VALO SON COTRIN",
+      "TATIANA",
+      "MANUELA SJOETTER"
+    ],
+    "organizations": [
+      "HYPERION AIR, INC."
+    ],
+    "locations": [
+      "WEST PALM BEACH",
+      "FL",
+      "ST. THOMAS",
+      "USVI",
+      "PBI",
+      "TIST"
+    ],
+    "dates": [
+      "4 29 2005",
+      "05/20/2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N909JE",
+      "G-1159B",
+      "1773",
+      "17-295",
+      "DOJ-OGR-00032160"
+    ]
+  },
+  "additional_notes": "The document contains redactions for some passenger names. The document is a passenger manifest for a flight from PBI to TIST on April 29, 2005."
+}

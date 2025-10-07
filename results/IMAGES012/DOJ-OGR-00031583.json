@@ -1,0 +1,73 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "17-295",
+    "date": "May 05, 2005",
+    "document_type": "Account Service Detail",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Customer Service Number 1-800-937-8997 May 05, 2005 Itemized Details For: Account Number: Page 4 of 21 Account Service Detail for Subscriber Available Service Type WHENEVER WEEKEND FamTime Uni Nts 1600 Free Minutes T-Mobile to T-Mobile Minutes 1,600 Unlimited Use Them Or Lose Them Minutes - Unlimited Amount Totals Monthly Service Charges $ 12.29 $10 Additional Line $ 10.00 Partial monthly charge for Bonus 50 Minutes from 4/05/05 to 4/26/05 $ - Partial monthly charge for Text Message 300 from 4/05/05 to 4/27/05 $ 2.29 VM & Fax $ - Taxes, Fees and Surcharges $ 3.30 Government Fees and Taxes Federal Excise Tax $ 0.03 Federal Universal Service Fund $ 0.04 State Communication Service Tax $ 1.13 Local Communication Service Tax $ 0.74 County 911 $ 0.50 Regulatory Programs Fee* $ 0.86 *Fee we collect and retain to help cover our costs related to funding and complying with government mandates, programs and obligations. Total Charges $ 15.59 07/26/17 Page 62 Public Records Request No.: 17-295 DOJ-OGR-00031583",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Customer Service Number 1-800-937-8997 May 05, 2005 Itemized Details For: Account Number: Page 4 of 21",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Account Service Detail for Subscriber",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Available Service Type WHENEVER WEEKEND FamTime Uni Nts 1600 Free Minutes T-Mobile to T-Mobile Minutes 1,600 Unlimited Use Them Or Lose Them Minutes - Unlimited",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Monthly Service Charges $ 12.29 $10 Additional Line $ 10.00 Partial monthly charge for Bonus 50 Minutes from 4/05/05 to 4/26/05 $ - Partial monthly charge for Text Message 300 from 4/05/05 to 4/27/05 $ 2.29 VM & Fax $ -",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Taxes, Fees and Surcharges $ 3.30 Government Fees and Taxes Federal Excise Tax $ 0.03 Federal Universal Service Fund $ 0.04 State Communication Service Tax $ 1.13 Local Communication Service Tax $ 0.74 County 911 $ 0.50 Regulatory Programs Fee* $ 0.86",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "*Fee we collect and retain to help cover our costs related to funding and complying with government mandates, programs and obligations.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Total Charges $ 15.59",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 62 Public Records Request No.: 17-295 DOJ-OGR-00031583",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "T-Mobile"
+    ],
+    "locations": [],
+    "dates": [
+      "May 05, 2005",
+      "4/05/05",
+      "4/26/05",
+      "4/27/05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "1-800-937-8997",
+      "17-295",
+      "DOJ-OGR-00031583"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned or photocopied version of an original bill or invoice from T-Mobile. The image quality is clear, and there are no visible redactions or damage."
+}

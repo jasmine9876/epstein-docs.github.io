@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00032487",
+    "date": "11/21/04",
+    "document_type": "Important Message",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR Mr. J.E DATE 11/21/04 TIME 2:07 P.M. Mr Dand Copperhold OF PHONE/ MOBILE (702) 235-5555 TELEPHONED CAME TO SEE YOU WANTS TO SEE YOU RETURNED YOUR CALL PLEASE CALL WILL CALL AGAIN RUSH SPECIAL ATTENTION MESSAGE It's importent. SIGNED RZ IMPORTANT MESSAGE FOR Joe DATE TIME 1:10 A.M. M barron OF PHONE/ MOBILE TELEPHONED CAME TO SEE YOU WANTS TO SEE YOU RETURNED YOUR CALL PLEASE CALL WILL CALL AGAIN RUSH SPECIAL ATTENTION MESSAGE Please call at office SIGNED IMPORTANT MESSAGE FOR Joe DATE 11/21/04 TIME 47 P.M. M Jannie Saunders OF PHONE/ MOBILE 917-3301033 TELEPHONED CAME TO SEE YOU WANTS TO SEE YOU RETURNED YOUR CALL PLEASE CALL WILL CALL AGAIN RUSH SPECIAL ATTENTION MESSAGE Has call. 7/26/04 ED Page 174 IMPORTANT MESSAGE FOR Joe DATE TIME 125 P.M. M Glen Dubin OF PHONE/ MOBILE at office TELEPHONED CAME TO SEE YOU WANTS TO SEE YOU RETURNED YOUR CALL PLEASE CALL WILL CALL AGAIN RUSH SPECIAL ATTENTION MESSAGE Please call SIGNED Public Records Request No.: 17-295",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Mr. J.E 11/21/04 2:07 P.M. Mr Dand Copperhold (702) 235-5555 It's importent. RZ",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Joe barron 1:10 A.M. Please call at office",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Joe 11/21/04 47 P.M. Jannie Saunders 917-3301033 Has call. 7/26/04 ED",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Joe Glen Dubin 125 P.M. at office Please call Public Records Request No.: 17-295",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Mr. J.E",
+      "Dand Copperhold",
+      "Joe",
+      "barron",
+      "Jannie Saunders",
+      "Glen Dubin"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "11/21/04",
+      "7/26/04"
+    ],
+    "reference_numbers": [
+      "917-3301033",
+      "(702) 235-5555",
+      "17-295"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned image of a notepad with four 'Important Message' forms filled out by hand. The handwriting is mostly legible, but some parts are difficult to read."
+}

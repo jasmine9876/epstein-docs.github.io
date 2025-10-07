@@ -1,0 +1,69 @@
+{
+  "document_metadata": {
+    "page_number": "26",
+    "document_number": "17-295",
+    "date": "09/11/05",
+    "document_type": "Arrest/Notice to Appear Juvenile Referral Report",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "ARREST / NOTICE TO APPEAR Juvenile Referral Report OBTS Number Agency ORI Number Agency Name PALM BEACH POLICE DEPARTMENT Charge Type Felony FLO 5 0 0 6 0 0 Location of Arrest 100 BAHAMA LANE Date of Arrest 09/11/05 Time of Arrest 23:44 Booking Date Booking Time Jail Date Jail Time Location of Offense 100 BLK BAHAMA LANE Arrestee Name ISBYAR BENJAMIN SKINNER Race W Sex M Date of Birth 01/29/88 Arrested 1. At Large 2. At Large Charge Description Possession of Marijuana Drug Type M Amount / Unit Counts Domestic Statute Violation Number 893.13(6)(a) Warrant / Capias Number 05/1263 Charge Description Drug Paraphernalia - Possession Drug Type P Amount / Unit 1 pipc Counts Domestic Statute Violation Number 893.147(1) Warrant / Capias Number 05/1263 Instruction No. 1 Mandatory Appearance in Court Location 3228 Gun Club Road West Palm Beach FL Month SEPTEMBER Day 27 Year 2005 Time 0900 AM AGREE TO APPEAR AT THE TIME AND DATE DESIGNATED TO ANSWER THE OFFENSE CHARGED OR TO PAY THE FINE Signature of Defendant/Juvenile and Parent/Custodian Date Signed 9/11/05 Name of Arresting Officer (Print) NICOLAS CLEMENTS I.D. # PBPD Distribution WHITE - COURT COPY GREEN - STATE ATTORNEY YELLOW - AGENCY PINK - JAIL GOLD - DEFENDANT (N.T.A ONLY)",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "ARREST / NOTICE TO APPEAR Juvenile Referral Report",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "ISBYAR BENJAMIN SKINNER",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "100 BAHAMA LANE",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Possession of Marijuana",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "3228 Gun Club Road West Palm Beach FL",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "NICOLAS CLEMENTS",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "ISBYAR BENJAMIN SKINNER",
+      "NICOLAS CLEMENTS"
+    ],
+    "organizations": [
+      "PALM BEACH POLICE DEPARTMENT"
+    ],
+    "locations": [
+      "100 BAHAMA LANE",
+      "100 BLK BAHAMA LANE",
+      "3228 Gun Club Road West Palm Beach FL"
+    ],
+    "dates": [
+      "09/11/05",
+      "01/29/88",
+      "SEPTEMBER 27, 2005"
+    ],
+    "reference_numbers": [
+      "FLO 5 0 0 6 0 0",
+      "05/1263",
+      "17-295",
+      "DOJ-OGR-00031436"
+    ]
+  },
+  "additional_notes": "The document is a scanned copy of an Arrest/Notice to Appear Juvenile Referral Report. It contains handwritten information and appears to be a public records request response."
+}

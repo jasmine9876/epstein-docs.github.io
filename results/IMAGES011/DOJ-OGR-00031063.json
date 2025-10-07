@@ -1,0 +1,72 @@
+{
+  "document_metadata": {
+    "page_number": "66",
+    "document_number": "17-295",
+    "date": "12/19/2001",
+    "document_type": "Booking Blotter Search",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Palm Beach County Sheriff's Office - Booking Blotter Search http://www.pbso.org/index.cfm?36236E2D250215130035161D520F Palm Beach County Sheriff's Office - http://www.pbso.org/ Name: [redacted] Address: [redacted] OBTS Number: N/A Arresting Agency: Other Agency Original Bond: $0.00 Release Date: 01/01/01 Time: Warrant Number: N/A Charges: 9999999999 BOOKED FOR THE U.S. MARSHAL: FRAUD & MAIL FRAUD Race: [redacted] Facility: [redacted] Booking [redacted] Booking Date: 12/19/2001 Time: Officer: AGT. WILNER Current Bond: $0.00 Holds For Other Agencies: No Information contained herein should not be relied upon for any type of legal action. PBSO cannot represent that the information is current, accurate or complete. Persons may use false identification information. True identity can only be confirmed through fingerprint comparison. 1 07/26/17 Page 66 of 95 4/4/2006 8:35 PM Public Records Request No.: 17-295 DOJ-OGR-00031063",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Palm Beach County Sheriff's Office - Booking Blotter Search",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Palm Beach County Sheriff's Office - http://www.pbso.org/",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Name: [redacted] Address: [redacted] OBTS Number: N/A Arresting Agency: Other Agency Original Bond: $0.00 Release Date: 01/01/01 Time: Warrant Number: N/A Charges: 9999999999 BOOKED FOR THE U.S. MARSHAL: FRAUD & MAIL FRAUD",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Race: [redacted] Facility: [redacted] Booking [redacted] Booking Date: 12/19/2001 Time: Officer: AGT. WILNER Current Bond: $0.00 Holds For Other Agencies: No",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Information contained herein should not be relied upon for any type of legal action. PBSO cannot represent that the information is current, accurate or complete. Persons may use false identification information. True identity can only be confirmed through fingerprint comparison.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "in Sandia",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "1 07/26/17 Page 66 of 95 4/4/2006 8:35 PM Public Records Request No.: 17-295 DOJ-OGR-00031063",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "AGT. WILNER"
+    ],
+    "organizations": [
+      "Palm Beach County Sheriff's Office",
+      "U.S. Marshal"
+    ],
+    "locations": [
+      "Palm Beach County"
+    ],
+    "dates": [
+      "12/19/2001",
+      "01/01/01",
+      "07/26/17",
+      "4/4/2006"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00031063",
+      "9999999999"
+    ]
+  },
+  "additional_notes": "The document contains redactions and handwritten notes. The image quality is clear, but some information is obscured by redactions."
+}

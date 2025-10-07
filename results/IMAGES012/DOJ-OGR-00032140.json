@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": "101",
+    "document_number": "17-295",
+    "date": "6/22/2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "JEGE, INC. PASSENGER MANIFEST Registration Number: N908JE Type: B-727-31 Pilots: Dave Rodgers, Larry Visoski Flight Engineer: Larry Morrison DATE: 6 22 2005 FROM PBI TO LCQ Departure Time 9:00 AM Arrival Time 9:45 AM Trip Number 342 PASSENGERS 1. [redacted] 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. FROM Identifier Defined City WEST PALM BEACH State or Country FL TO Identifier Defined City LAKE CITY State or Country FL. Nautical Miles 247 Statute Miles 315 Gallons 207 AIRFRAME 33116.9 Pounds 33116.9 Flight Time +45 .8 Altitude FL FL310 33117.5 20. Night 21. T/L 1 22. IMC 23. Approach 24. 25. NO PASSENGERS 26. MAINTENANCE RELOCATION 07/26/17 Page 101 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032140",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "JEGE, INC. PASSENGER MANIFEST",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: N908JE Type: B-727-31 Pilots: Dave Rodgers, Larry Visoski Flight Engineer: Larry Morrison",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "6 22 2005 PBI LCQ 9:00 AM 9:45 AM 342",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGERS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "[redacted]",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "WEST PALM BEACH FL LAKE CITY FL. 247 315 207 33116.9 +45 .8 FL310 33117.5 NO PASSENGERS MAINTENANCE RELOCATION",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 101 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032140",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Dave Rodgers",
+      "Larry Visoski",
+      "Larry Morrison"
+    ],
+    "organizations": [
+      "JEGE, INC."
+    ],
+    "locations": [
+      "West Palm Beach",
+      "Lake City",
+      "FL"
+    ],
+    "dates": [
+      "6/22/2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N908JE",
+      "17-295",
+      "DOJ-OGR-00032140",
+      "342"
+    ]
+  },
+  "additional_notes": "The document contains redactions in the passenger list. The page is part of a larger document (Page 101 of 151)."
+}

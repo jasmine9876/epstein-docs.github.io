@@ -1,0 +1,87 @@
+{
+  "document_metadata": {
+    "page_number": "85",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "JEGE, INC. PASSENGER MANIFEST Registration Number: N908JE Type: B-727-31 Pilots: Dave Rodgers, Larry Visoski Bill Hamm Flight Engineer: Larry Morrison DATE: 1 -20, 2004 FROM PBI TO PBI Departure Time 10:45 PM (AM Arrival Time 11:17 PM (AM Trip Number 318 PASSENGERS 1. Jeffrey Epstein 2. Ghislaine Maxwell 3. Brent Tindall FROM Identifier Defined City West Palm Beach State or Country FL TO Identifier Defined City West Palm Beach State or Country FL Nautical Miles 0 Statute Miles 0 Gallons 500 AIRFRAME 33051.5 Pounds 6700 33052.0 Flight Time 0+32 Altitude FL 250 Training Flight Public Records Request No.: 17-295 DOJ-OGR-00032124 Page 85 of 151",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "JEGE, INC. PASSENGER MANIFEST",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: N908JE Type: B-727-31 Pilots: Dave Rodgers, Larry Visoski Flight Engineer: Larry Morrison",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Bill Hamm",
+      "position": "margin"
+    },
+    {
+      "type": "handwritten",
+      "content": "1 -20, 2004 PBI PBI 10:45 PM 11:17 PM 318",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffrey Epstein Ghislaine Maxwell Brent Tindall",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "West Palm Beach FL West Palm Beach FL 0 0 500 6700 0+32 250",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "33051.5 33052.0",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Training Flight",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295 DOJ-OGR-00032124 Page 85 of 151",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Ghislaine Maxwell",
+      "Brent Tindall",
+      "Dave Rodgers",
+      "Larry Visoski",
+      "Larry Morrison",
+      "Bill Hamm"
+    ],
+    "organizations": [
+      "JEGE, INC."
+    ],
+    "locations": [
+      "West Palm Beach",
+      "PBI",
+      "FL"
+    ],
+    "dates": [
+      "1-20, 2004",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N908JE",
+      "17-295",
+      "DOJ-OGR-00032124"
+    ]
+  },
+  "additional_notes": "The document is a passenger manifest for a flight operated by JEGE, INC. The flight took place on January 20, 2004, and was a round trip from PBI to PBI. The passengers included Jeffrey Epstein, Ghislaine Maxwell, and Brent Tindall. The flight crew consisted of Dave Rodgers, Larry Visoski, and Larry Morrison. The document also includes details about the flight, such as the departure and arrival times, trip number, and fuel consumption."
+}

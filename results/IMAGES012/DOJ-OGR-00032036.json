@@ -1,0 +1,82 @@
+{
+  "document_metadata": {
+    "page_number": "97",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR smith DATE 3/16/05 TIME 1:10 A.M. P.M. M Haley OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE LRR PM w/FT 308 0282 SIGNED X 1184 IMPORTANT MESSAGE FOR J.E DATE 3/18/05 TIME 8:00 A.M. P.M. M J.H.Study OF (212) 744-0770 PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED T. 1184 IMPORTANT MESSAGE FOR Mrs. R. Maxwell DATE 3/19/05 TIME 3:45 A.M. P.M. M E.Mi OF Spa The Breakers PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Appointment at 9:30 am tomorrow. Christine is not available it is very the same computer problem. SIGNED S. 07/26/17 Page 97 of 00 1184 IMPORTANT MESSAGE FOR J.E DATE 3/18/05 TIME 12:35 A.M. P.M. M Sarah OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 1184 Public Records Request No.: 17-295 DOJ-OGR-00032036",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "smith Haley LRR PM w/FT 308 0282 X",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FOR DATE TIME M OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "J.E J.H.Study (212) 744-0770 T.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Mrs. R. Maxwell E.Mi Spa The Breakers Appointment at 9:30 am tomorrow. Christine is not available it is very the same computer problem. S.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "J.E Sarah",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032036",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "smith",
+      "Haley",
+      "J.E",
+      "J.H.Study",
+      "Mrs. R. Maxwell",
+      "E.Mi",
+      "Christine",
+      "Sarah"
+    ],
+    "organizations": [
+      "Spa The Breakers"
+    ],
+    "locations": [],
+    "dates": [
+      "3/16/05",
+      "3/18/05",
+      "3/19/05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032036",
+      "308 0282",
+      "(212) 744-0770"
+    ]
+  },
+  "additional_notes": "The document appears to be a scan of a page containing four 'Important Message' forms, likely from a hotel or office setting. The forms contain handwritten notes with various messages, names, and phone numbers. The page is labeled as 'Page 97 of 00' and includes a 'Public Records Request No.' at the bottom."
+}

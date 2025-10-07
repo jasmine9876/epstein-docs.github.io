@@ -1,0 +1,82 @@
+{
+  "document_metadata": {
+    "page_number": "42",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Message Slips",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR Jeffrey DATE 3/6/05 TIME 03:00 P.M. M Mort Beckerman OF PHONE/MOBILE 917 7501900 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Returning your phone call SIGNED 1184 IMPORTANT MESSAGE FOR Jeffrey DATE 3/06/05 TIME 11:40 A.M. P.M. M Clea OF PHONE/MOBILE 914 669 4651 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE That he called SIGNED 1184 IMPORTANT MESSAGE FOR J.E. DATE 3/7/05 TIME 7:30 A.M. P.M. M Dr. Moskowitz office OF PHONE/MOBILE 833-6116 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Do you want to see him? SIGNED J. 07/26/17 1184 Page 42 of 124 IMPORTANT MESSAGE FOR Ms A. Maxwell DATE 3/06/05 TIME 9:01 A.M. P.M. M Bruce OF From The Island PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Lift his cell # 340-771-1339 SIGNED 1184 Public Records Request No.: 17-295",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffrey 3/6/05 03:00 P.M. Mort Beckerman 917 7501900 Returning your phone call",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffrey 3/06/05 11:40 A.M. Clea 914 669 4651 That he called",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "J.E. 3/7/05 7:30 A.M. Dr. Moskowitz office 833-6116 Do you want to see him?",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "J. 07/26/17",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "Ms A. Maxwell 3/06/05 9:01 A.M. Bruce From The Island Lift his cell # 340-771-1339",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page 42 of 124 Public Records Request No.: 17-295",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey",
+      "Mort Beckerman",
+      "Clea",
+      "J.E.",
+      "Dr. Moskowitz",
+      "Ms A. Maxwell",
+      "Bruce"
+    ],
+    "organizations": [],
+    "locations": [
+      "The Island"
+    ],
+    "dates": [
+      "3/6/05",
+      "3/06/05",
+      "3/7/05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "917 7501900",
+      "914 669 4651",
+      "833-6116",
+      "340-771-1339"
+    ]
+  },
+  "additional_notes": "The document is a scan of a page from a spiral-bound notebook containing four message slips. The page is labeled 'Page 42 of 124' and has a 'Public Records Request No.: 17-295' stamp. The document quality is good, with clear handwriting and printing."
+}

@@ -1,0 +1,51 @@
+{
+  "document_metadata": {
+    "page_number": "36",
+    "document_number": "DOJ-OGR-00031209",
+    "date": "07/26/17",
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "- CAD CA1/5 - PPUBLIC Records Request No.: 17-295 Page 36 of 135 07/26/17",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "- CAD CA1/5 -",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "PPUBLIC Records Request No.: 17-295",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "Page 36 of 135",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00031209",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00031209"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned page with handwritten and printed text. The page is labeled as 'Page 36 of 135' and has a handwritten note at the top reading '- CAD CA1/5 -'. The document also includes a PPUBLIC Records Request Number and a date stamp."
+}

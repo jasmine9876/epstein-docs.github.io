@@ -1,0 +1,77 @@
+{
+  "document_metadata": {
+    "page_number": "1 of 2",
+    "document_number": null,
+    "date": "01/25/2001",
+    "document_type": "FAA Registry N-Number Inquiry Results",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "FAA Registry N-Number Inquiry Results N908JE is Assigned Assigned/Registered Aircraft Aircraft Description Serial Number 20115 Manufacturer Name BOEING Model 727-31 Type Aircraft Fixed Wing Multi-Engine Pending Number Change None Date Change Authorized None MFR Year 1969 Type Certificate Issue Date 01/25/2001 Status Valid Corporation Type Engine Turbo-Jet Dealer No Mode S Code 53106661 Fractional Owner NO Registered Owner Name JEGE INC Street 103 FOULK RD STE 202 City WILMINGTON State DELAWARE Zip Code 19803-3742 County NEW CASTLE Country UNITED STATES Airworthiness Engine Manufacturer P&W Classification Standard Engine Model JT8D SERIES Category Transport A/W Date 07/23/1990 Other Owner Names http://registry.faa.gov/aircraftinquiry/NNumSQL.asp?NNumbertxt=908JE&cmd=11... 1/3/2006 Page 53 of 135 Public Records Request No.: 17-295 DOJ-OGR-00031226 07/26/17",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "FAA Registry N-Number Inquiry Results N908JE is Assigned Assigned/Registered Aircraft Aircraft Description",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Serial Number 20115 Manufacturer Name BOEING Model 727-31 Type Aircraft Fixed Wing Multi-Engine Pending Number Change None Date Change Authorized None MFR Year 1969 Type Certificate Issue Date 01/25/2001 Status Valid Corporation Type Engine Turbo-Jet Dealer No Mode S Code 53106661 Fractional Owner NO",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Registered Owner Name JEGE INC Street 103 FOULK RD STE 202 City WILMINGTON State DELAWARE Zip Code 19803-3742 County NEW CASTLE Country UNITED STATES",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Airworthiness Engine Manufacturer P&W Classification Standard Engine Model JT8D SERIES Category Transport A/W Date 07/23/1990",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Other Owner Names",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "07/26/17",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "http://registry.faa.gov/aircraftinquiry/NNumSQL.asp?NNumbertxt=908JE&cmd=11... 1/3/2006 Page 53 of 135 Public Records Request No.: 17-295 DOJ-OGR-00031226",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "BOEING",
+      "JEGE INC",
+      "P&W"
+    ],
+    "locations": [
+      "WILMINGTON",
+      "DELAWARE",
+      "NEW CASTLE",
+      "UNITED STATES"
+    ],
+    "dates": [
+      "01/25/2001",
+      "07/23/1990",
+      "1/3/2006",
+      "07/26/17",
+      "1969"
+    ],
+    "reference_numbers": [
+      "N908JE",
+      "20115",
+      "53106661",
+      "17-295",
+      "DOJ-OGR-00031226"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned copy of an FAA Registry N-Number Inquiry Results page. The document contains both printed and handwritten text. The handwritten date '07/26/17' is likely a stamp or annotation indicating when the document was accessed or processed."
+}

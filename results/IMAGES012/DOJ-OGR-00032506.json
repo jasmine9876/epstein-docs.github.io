@@ -1,0 +1,82 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Important Message Slips",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR: Mr. JE DATE: 11/16/05 TIME: 2:10 P.M. M: Manucl2 OF: PHONE/MOBILE: (212) 300-6136 TELEPHONED | PLEASE CALL CAME TO SEE YOU | WILL CALL AGAIN WANTS TO SEE YOU | RUSH RETURNED YOUR CALL | SPECIAL ATTENTION MESSAGE: 'Tell him that I called' SIGNED: IMPORTANT MESSAGE FOR: JE DATE: 11/16/05 TIME: 2:25 P.M. M: David Copperfield OF: PHONE/MOBILE: (702) 235-5555 TELEPHONED | PLEASE CALL CAME TO SEE YOU | WILL CALL AGAIN WANTS TO SEE YOU | RUSH RETURNED YOUR CALL | SPECIAL ATTENTION MESSAGE: Returning your call. It has some info. SIGNED: IMPORTANT MESSAGE FOR: Mr. JE DATE: 11/16/05 TIME: 3:25 P.M. M: Leslie Wexner OF: PHONE/MOBILE: 'You know the number' TELEPHONED | PLEASE CALL CAME TO SEE YOU | WILL CALL AGAIN WANTS TO SEE YOU | RUSH RETURNED YOUR CALL | SPECIAL ATTENTION MESSAGE: Please call him (He's in Georgia) SIGNED: IMPORTANT MESSAGE FOR: JE DATE: 11/20/05 TIME: 5:00 P.M. M: Manil OF: PHONE/MOBILE: (561) 644-1639 TELEPHONED | PLEASE CALL CAME TO SEE YOU | WILL CALL AGAIN WANTS TO SEE YOU | RUSH RETURNED YOUR CALL | SPECIAL ATTENTION MESSAGE: Please Tell him that I Called SIGNED: DOJ-OGR-00032506",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Mr. JE",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "FOR: DATE: TIME: M: OF: PHONE/MOBILE: TELEPHONED | PLEASE CALL CAME TO SEE YOU | WILL CALL AGAIN WANTS TO SEE YOU | RUSH RETURNED YOUR CALL | SPECIAL ATTENTION MESSAGE: SIGNED:",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "11/16/05 2:10 P.M. Manucl2 (212) 300-6136 'Tell him that I called'",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "JE",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "11/16/05 2:25 P.M. David Copperfield (702) 235-5555 Returning your call. It has some info.",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "Mr. JE 11/16/05 3:25 P.M. Leslie Wexner 'You know the number' Please call him (He's in Georgia)",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "JE 11/20/05 5:00 P.M. Manil (561) 644-1639 Please Tell him that I Called",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032506",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Mr. JE",
+      "Manucl2",
+      "David Copperfield",
+      "JE",
+      "Leslie Wexner",
+      "Manil"
+    ],
+    "organizations": [],
+    "locations": [
+      "Georgia"
+    ],
+    "dates": [
+      "11/16/05",
+      "11/20/05"
+    ],
+    "reference_numbers": [
+      "(212) 300-6136",
+      "(702) 235-5555",
+      "(561) 644-1639"
+    ]
+  },
+  "additional_notes": "The document appears to be a set of four 'Important Message' slips, likely from a professional or business setting. The handwriting is generally legible, but some signatures are difficult to decipher. There are no visible redactions or significant damage."
+}

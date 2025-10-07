@@ -1,0 +1,96 @@
+{
+  "document_metadata": {
+    "page_number": "08",
+    "document_number": "561478553",
+    "date": "04/07/2005",
+    "document_type": "PASSENGER MANIFEST",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "04/07/2005 17:29 561478553 JEGE OR HYPERION AIR PAGE 08 HYPERION AIR, INC. PASSENGER MANIFEST B. HAMMOND Registration Number: N909JE Type: G-1159B Pilots: Dave Rodgers, Larry Visoeki DATE: 4 8 2005 FROM TEB TO PBI Departure Time 7:41 AM Arrival Time 10:02 AM Trip Number 1769 PASSENGERS 1. Jeffrey Epstein 2. Christine Baccard 3. Sarah Kattan 4. NADIA MARCINKOVA 5. ANDREA MOSINSKA FROM Identifier Defined City TETERBORO State or Country N.J. TO Identifier Defined City WEST PALM BEACH State or Country FL. Nautical Miles Statute Miles Gallons 1400 Pounds 8900 AIRFRAME 9740.8 2.3 Flight Time 2:21 9743.1 Altitude FL FL430 TAKE-OFF POWER Night 1.0 Flex Take-Off T/L 1 Min Take-Off IMC Condition Approach COMMENTS 07/26/17 Page 118 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032157",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "HYPERION AIR, INC. PASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "B. HAMMOND",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: N909JE Type: G-1159B Pilots: Dave Rodgers, Larry Visoeki",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "4 8 2005 TEB PBI 7:41 AM 10:02 AM 1769",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGERS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1. Jeffrey Epstein 2. Christine Baccard 3. Sarah Kattan 4. NADIA MARCINKOVA 5. ANDREA MOSINSKA",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FROM Identifier Defined City TETERBORO State or Country N.J. TO Identifier Defined City WEST PALM BEACH State or Country FL.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Nautical Miles Statute Miles Gallons 1400 Pounds 8900 AIRFRAME 9740.8 2.3 Flight Time 2:21 9743.1 Altitude FL FL430 TAKE-OFF POWER Night 1.0 Flex Take-Off T/L 1 Min Take-Off IMC Condition Approach",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "COMMENTS",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 118 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032157",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Christine Baccard",
+      "Sarah Kattan",
+      "Nadia Marcinkova",
+      "Andrea Mosinska",
+      "Dave Rodgers",
+      "Larry Visoeki",
+      "B. Hammond"
+    ],
+    "organizations": [
+      "Hyperion Air, Inc."
+    ],
+    "locations": [
+      "Teterboro",
+      "New Jersey",
+      "West Palm Beach",
+      "Florida"
+    ],
+    "dates": [
+      "04/07/2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N909JE",
+      "G-1159B",
+      "1769",
+      "17-295",
+      "DOJ-OGR-00032157"
+    ]
+  },
+  "additional_notes": "The document is a passenger manifest for a flight operated by Hyperion Air, Inc. on April 8, 2005. The flight departed from Teterboro, NJ and arrived at West Palm Beach, FL. The document contains handwritten information about the passengers, pilots, and flight details."
+}

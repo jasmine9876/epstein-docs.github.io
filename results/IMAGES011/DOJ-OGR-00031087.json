@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": "90",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Public Records Request",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "ay hoe LOVELY ME *L.A.* 7/7/2006 1:51 PM heyy gabe ....... pmg .. u r so funny wen u were drunk th other night wem we gunna chill again.. 07/26/17 Page 90 of 95 Public Records Request No.: 17-295 DOJ-OGR-00031087",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "ay hoe LOVELY ME *L.A.*",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "7/7/2006 1:51 PM",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "heyy gabe ....... pmg .. u r so funny wen u were drunk th other night wem we gunna chill again..",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 90 of 95 Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00031087",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "gabe"
+    ],
+    "organizations": [],
+    "locations": [
+      "L.A."
+    ],
+    "dates": [
+      "7/7/2006",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00031087"
+    ]
+  },
+  "additional_notes": "The document appears to be a public records request containing a printed instant message or email conversation."
+}

@@ -1,0 +1,83 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR Mr. Epstein DATE 2/8/05 TIME 12:10 P.M. M Katia OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Left her # 511-8383-4951 SIGNED XFR IMPORTANT MESSAGE FOR J.F. DATE 2/5/05 TIME 9:10 P.M. M Lorraine Kraus OF (216) 283-3807 PHONE/MOBILE TELEPHONED X PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Would like talk with you SIGNED J. IMPORTANT MESSAGE FOR J.F DATE TIME 4:45 P.M. M Tatia OF PHONE/MOBILE 310 702 0109 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE It's Important SIGNED IMPORTANT MESSAGE FOR J.F DATE TIME 2:15 A.M. M David Copperfield OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED Public Records Request No.: 17-293 DOJ-OGR-00032514",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Mr. Epstein 2/8/05 12:10 P.M. Katia Left her # 511-8383-4951 XFR",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "J.F. 2/5/05 9:10 P.M. Lorraine Kraus (216) 283-3807 Would like talk with you J.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "J.F 4:45 P.M. Tatia 310 702 0109 It's Important",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "J.F 2/15 A.M. David Copperfield",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Public Records Request No.: 17-293 DOJ-OGR-00032514",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Mr. Epstein",
+      "Katia",
+      "J.F.",
+      "Lorraine Kraus",
+      "Tatia",
+      "David Copperfield"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "2/8/05",
+      "2/5/05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "511-8383-4951",
+      "(216) 283-3807",
+      "310 702 0109",
+      "17-293",
+      "DOJ-OGR-00032514"
+    ]
+  },
+  "additional_notes": "The document appears to be a scan of a notepad containing four 'Important Message' forms. The forms contain handwritten notes with names, phone numbers, and messages. The document quality is generally good, but there may be some minor degradation due to scanning."
+}

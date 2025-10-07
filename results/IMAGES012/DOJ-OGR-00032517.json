@@ -1,0 +1,81 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00032517",
+    "date": null,
+    "document_type": "Message slips",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR M. Epstein DATE 2/21/05 TIME 7:30 P.M. M Jan Luc OF PHONE/ MOBILE TELEPHONED | PLEASE CALL | CAME TO SEE YOU | WILL CALL AGAIN | WANTS TO SEE YOU | RUSH RETURNED YOUR CALL | SPECIAL ATTENTION MESSAGE Want you to know that he called. SIGNED RER IMPORTANT MESSAGE FOR J.E. DATE 2/18/05 TIME 3:45 P.M. M Ms Wexler OF PHONE/ MOBILE TELEPHONED | PLEASE CALL | CAME TO SEE YOU | WILL CALL AGAIN | WANTS TO SEE YOU | RUSH RETURNED YOUR CALL | SPECIAL ATTENTION MESSAGE no message SIGNED J. IMPORTANT MESSAGE FOR Natalie DATE TIME 10:15 P.M. M OF PHONE/ MOBILE 917 204996 MESSAGE Pascal & Kiana one confirmed for 4pm tomorrow. Anna is available tomorrow tonight SIGNED both girls not [illegible] IMPORTANT MESSAGE FOR J.E DATE 2/20/05 TIME 11:40 P.M. M George Mitchel OF PHONE/ MOBILE 1202/329-9466 TELEPHONED | PLEASE CALL | CAME TO SEE YOU | WILL CALL AGAIN | WANTS TO SEE YOU | RUSH RETURNED YOUR CALL | SPECIAL ATTENTION MESSAGE Return a call SIGNED Public Records Request No.: 17-295",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "M. Epstein 2/21/05 7:30 P.M. Jan Luc Want you to know that he called. RER",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "J.E. 2/18/05 3:45 P.M. Ms Wexler no message J.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Natalie 10:15 P.M. 917 204996 Pascal & Kiana one confirmed for 4pm tomorrow. Anna is available tomorrow tonight both girls not [illegible]",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "J.E 2/20/05 11:40 P.M. George Mitchel 1202/329-9466 Return a call Public Records Request No.: 17-295",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "M. Epstein",
+      "Jan Luc",
+      "J.E.",
+      "Ms Wexler",
+      "Natalie",
+      "George Mitchel",
+      "Pascal",
+      "Kiana",
+      "Anna",
+      "RER",
+      "J."
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "2/21/05",
+      "2/18/05",
+      "2/20/05"
+    ],
+    "reference_numbers": [
+      "917 204996",
+      "1202/329-9466",
+      "17-295"
+    ]
+  },
+  "additional_notes": "The document appears to be a set of message slips with handwritten notes. Some of the handwriting is difficult to read."
+}

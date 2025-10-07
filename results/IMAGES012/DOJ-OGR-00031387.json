@@ -1,0 +1,71 @@
+{
+  "document_metadata": {
+    "page_number": "8 and 9",
+    "document_number": "0035224228",
+    "date": "February 12, 2005",
+    "document_type": "Invoice",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "Xcingular Wireless AT&T Wireless Account Number 0035224228 Account Name HOLLY ROBSON Date of Invoice February 12, 2005 COPY Page 8 of 10 DETAIL OF CURRENT ACTIVITY - CONTINUED VOICE USAGE FOR (561)308-0282 - Continued ... Page 79 of 102 Public Records Request No.: 17-295 DOJ-OGR-00031387",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Xcingular Wireless AT&T Wireless Account Number 0035224228 Account Name HOLLY ROBSON Date of Invoice February 12, 2005",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DETAIL OF CURRENT ACTIVITY - CONTINUED VOICE USAGE FOR (561)308-0282 - Continued",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Page 8 of 10",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Page 79 of 102",
+      "position": "footer"
+    },
+    {
+      "type": "stamp",
+      "content": "COPY",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295 DOJ-OGR-00031387",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "HOLLY ROBSON"
+    ],
+    "organizations": [
+      "Xcingular Wireless",
+      "AT&T Wireless"
+    ],
+    "locations": [
+      "WPALMBEACH FL",
+      "LAKE WORTH FL",
+      "NEW YORK NY"
+    ],
+    "dates": [
+      "February 12, 2005",
+      "02/04/05",
+      "02/05/05",
+      "02/06/05",
+      "02/07/05"
+    ],
+    "reference_numbers": [
+      "0035224228",
+      "(561)308-0282",
+      "17-295",
+      "DOJ-OGR-00031387"
+    ]
+  },
+  "additional_notes": "The document appears to be a copy of an invoice from Xcingular Wireless/AT&T Wireless to HOLLY ROBSON. It details voice usage for a specific phone number over several days in February 2005. The document is stamped 'COPY' and has a public records request number associated with it."
+}

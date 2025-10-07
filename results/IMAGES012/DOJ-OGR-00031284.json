@@ -1,0 +1,71 @@
+{
+  "document_metadata": {
+    "page_number": "11",
+    "document_number": null,
+    "date": "3/7/2006",
+    "document_type": "Donation List",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Albuquerque Tribune Online Page 11 of 28 $13,000 Odis Echols, Albuquerque President $12,751 Democratic Party of New Mexico, Albuquerque Political Action Committee $12,751 Anita De Domenico, Santa Fe Businesswoman $12,100 Bill Robbins, Houston, Texas Partner $12,000 Tesuque Pueblo, Santa Fe American Indian Pueblo $12,000 Phelps Dodge Employees' Comm., Tyrone Political Action Committee $11,500 Guy Riordan, Albuquerque Banker $11,312 Daniel D. Villanueva, Los Angeles, Calif. Investments $11,508 Deborah Dozier Potter, Santa Fe Investor $10,748 Burlington Northern & Santa Fe Railway Co. Topeka, Kan. Transportation $10,486 Nick Kapnison, Albuquerque Owner $10,067 Mohammed Aysheh, Gallup Business owner $10,000 Adolescent Pointe, Santa Teresa, Behavioral health $10,000 Aquila, Albuquerque Defense technology $10,000 Atlas Resources, Albuquerque Employee leasing company $10,000 Benny Roybal, Espanola Contractor http://abqtrib.com/archives/news02/120702_page11donate.shtml PPublic Records Request No.: 17-295 3/7/2006 DOJ-OGR-00031284",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Albuquerque Tribune Online Page 11 of 28",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "$13,000 Odis Echols, Albuquerque President $12,751 Democratic Party of New Mexico, Albuquerque Political Action Committee $12,751 Anita De Domenico, Santa Fe Businesswoman $12,100 Bill Robbins, Houston, Texas Partner $12,000 Tesuque Pueblo, Santa Fe American Indian Pueblo $12,000 Phelps Dodge Employees' Comm., Tyrone Political Action Committee $11,500 Guy Riordan, Albuquerque Banker $11,312 Daniel D. Villanueva, Los Angeles, Calif. Investments $11,508 Deborah Dozier Potter, Santa Fe Investor $10,748 Burlington Northern & Santa Fe Railway Co. Topeka, Kan. Transportation $10,486 Nick Kapnison, Albuquerque Owner $10,067 Mohammed Aysheh, Gallup Business owner $10,000 Adolescent Pointe, Santa Teresa, Behavioral health $10,000 Aquila, Albuquerque Defense technology $10,000 Atlas Resources, Albuquerque Employee leasing company $10,000 Benny Roybal, Espanola Contractor",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "http://abqtrib.com/archives/news02/120702_page11donate.shtml PPublic Records Request No.: 17-295 3/7/2006 DOJ-OGR-00031284",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Odis Echols",
+      "Anita De Domenico",
+      "Bill Robbins",
+      "Guy Riordan",
+      "Daniel D. Villanueva",
+      "Deborah Dozier Potter",
+      "Nick Kapnison",
+      "Mohammed Aysheh",
+      "Benny Roybal"
+    ],
+    "organizations": [
+      "Democratic Party of New Mexico",
+      "Tesuque Pueblo",
+      "Phelps Dodge Employees' Comm.",
+      "Burlington Northern & Santa Fe Railway Co.",
+      "Adolescent Pointe",
+      "Aquila",
+      "Atlas Resources"
+    ],
+    "locations": [
+      "Albuquerque",
+      "Santa Fe",
+      "Houston",
+      "Texas",
+      "Tyrone",
+      "Los Angeles",
+      "Topeka",
+      "Kan.",
+      "Gallup",
+      "Santa Teresa",
+      "Espanola"
+    ],
+    "dates": [
+      "3/7/2006"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00031284"
+    ]
+  },
+  "additional_notes": "The document appears to be a list of donations with corresponding amounts and donor information. The page number is 11 of 28, and the date is handwritten as 3/7/2006."
+}

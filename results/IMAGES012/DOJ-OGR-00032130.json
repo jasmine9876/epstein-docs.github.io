@@ -1,0 +1,75 @@
+{
+  "document_metadata": {
+    "page_number": "91",
+    "document_number": "DOJ-OGR-00032130",
+    "date": "2/21/2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "JEGE, INC. PASSENGER MANIFEST Registration Number: N382JE Type: B-727-31 Pilots: Dave Rodgers, Larry Visoaki Flight Engineer: Larry Morrison DATE: 2 21 2005 FROM TIST TO PBI Departure Time 2 :41 AM Arrival Time 8 :05 AM Trip Number 323 PASSENGERS 1. Jeffrey Epstein 2. Sarah Kellen 3. Nadia Marcinkova 4. Amanda 5. James Stanley 6. Sarah Stanley 7. Alexa Stanley 8. Stanly FROM Identifier Defined City ST. Thomas State or Country USVI TO Identifier Defined City WEST PALM BEACH State or Country FL. Nautical Miles 976 Statute Miles 1122 Gallons 5305 AIRFRAME Pounds 23557 33070.5 Flight Time 2:23 2.3 Altitude FL FL340 33072.8 20. Night 2.0 21. T/L 14 22. IMC 23. Approach Public Records Request No.: 17-295 Page 91 of 151",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "JEGE, INC. PASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: N382JE Type: B-727-31 Pilots: Dave Rodgers, Larry Visoaki Flight Engineer: Larry Morrison",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "2 21 2005 TIST PBI 2 :41 AM 8 :05 AM 323",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1. Jeffrey Epstein 2. Sarah Kellen 3. Nadia Marcinkova 4. Amanda 5. James Stanley 6. Sarah Stanley 7. Alexa Stanley 8. Stanly",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "ST. Thomas USVI WEST PALM BEACH FL. 976 1122 5305 23557 33070.5 2:23 2.3 FL340 33072.8 2.0 14",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295 Page 91 of 151",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Sarah Kellen",
+      "Nadia Marcinkova",
+      "Amanda",
+      "James Stanley",
+      "Sarah Stanley",
+      "Alexa Stanley",
+      "Dave Rodgers",
+      "Larry Visoaki",
+      "Larry Morrison"
+    ],
+    "organizations": [
+      "JEGE, INC."
+    ],
+    "locations": [
+      "ST. Thomas",
+      "USVI",
+      "WEST PALM BEACH",
+      "FL"
+    ],
+    "dates": [
+      "2/21/2005"
+    ],
+    "reference_numbers": [
+      "N382JE",
+      "17-295",
+      "DOJ-OGR-00032130"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned copy of a passenger manifest with some handwritten information. The image quality is generally good, but there are some black streaks down the center of the page."
+}

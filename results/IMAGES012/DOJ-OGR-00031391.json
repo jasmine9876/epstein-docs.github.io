@@ -1,0 +1,90 @@
+{
+  "document_metadata": {
+    "page_number": "5 and 83",
+    "document_number": "0035224228",
+    "date": "April 12, 2005",
+    "document_type": "Invoice",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Cingular raising the bar Account Number 0035224228 Account Name HOLLY ROBSON Date of Invoice April 12, 2005 DETAIL OF CURRENT ACTIVITY - CONTINUED VOICE USAGE FOR (561)308-0282 - Continued ... DETAIL OF CURRENT ACTIVITY - CONTINUED VOICE USAGE FOR (561)308-0282 - Continued ... Page 5 of 8 07/26/17 Page 83 of 102 Public Records Request No.: 17-295 DOJ-OGR-00031391",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Cingular raising the bar",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Account Number 0035224228",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Account Name HOLLY ROBSON",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Date of Invoice April 12, 2005",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DETAIL OF CURRENT ACTIVITY - CONTINUED",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "VOICE USAGE FOR (561)308-0282 - Continued",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Page 5 of 8",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 83 of 102 Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00031391",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "HOLLY ROBSON"
+    ],
+    "organizations": [
+      "Cingular"
+    ],
+    "locations": [
+      "LAKE WORTH FL",
+      "WPALM BEACH FL",
+      "DELRAY BCH FL",
+      "JIPITER FL",
+      "MIAMI FL"
+    ],
+    "dates": [
+      "April 12, 2005",
+      "03/23",
+      "03/24",
+      "03/25",
+      "03/26",
+      "03/27",
+      "03/28",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "0035224228",
+      "(561)308-0282",
+      "17-295",
+      "DOJ-OGR-00031391"
+    ]
+  },
+  "additional_notes": "The document appears to be a Cingular invoice for HOLLY ROBSON, detailing voice usage for the phone number (561)308-0282. The document is paginated, with this image showing pages 5 and 83. There are no visible redactions or damage."
+}

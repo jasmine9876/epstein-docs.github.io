@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "60",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Money Transfer Receipt",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "Requestor=MM0, Subpoena #=75686, Locator #=36247514298\nWESTERN UNION\nIssued At: 8308083459-6\nMoney Transfer Receive\nCheck: 1 of 1\nPay to the\nOrder of\nThe Sum of\nOrigin and\nfree Date\nPayable at Wells Fargo Bank Grand Junction\nDowntown, N.A., Grand Junction, Colorado\nANY KIND CHECK CASH OK\n1111 ROYAL PALM BEACH BLVD\nROYAL PALM BEACH FL 33411\nIssue Date\nDollars $\nVOID if ALTERED or ERASED\nMTN TO Digital\nWestern Union Financial Services, Inc.\nIssuer\nBy\nKimberly S. Patinore, Chief Financial Officer\n100000 20000\nFOR DEPOSIT ONLY\nGRAND BANK AND TRUST OF FLORIDA, INC.\n#98 10730421\nThis is a true copy from the records of the Money Transfer Processing Center, Custodian of Records, Western Union Financial Services BEST COPY AVAILABLE\n07/26/17 Page 60 of 81 Public Records Request No.: 17-295 DOJ-OGR-00031152",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Requestor=MM0, Subpoena #=75686, Locator #=36247514298",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "WESTERN UNION",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Kimberly S. Patinore",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "FOR DEPOSIT ONLY GRAND BANK AND TRUST OF FLORIDA, INC.",
+      "position": "right"
+    },
+    {
+      "type": "printed",
+      "content": "This is a true copy from the records of the Money Transfer Processing Center, Custodian of Records, Western Union Financial Services BEST COPY AVAILABLE",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Kimberly S. Patinore"
+    ],
+    "organizations": [
+      "Western Union Financial Services",
+      "Wells Fargo Bank",
+      "Grand Bank and Trust of Florida, Inc."
+    ],
+    "locations": [
+      "Royal Palm Beach",
+      "Grand Junction",
+      "Colorado",
+      "Florida"
+    ],
+    "dates": [
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "75686",
+      "36247514298",
+      "17-295",
+      "8308083459-6",
+      "DOJ-OGR-00031152"
+    ]
+  },
+  "additional_notes": "The document is a money transfer receipt with some handwritten information and stamps. The image quality is generally good, but there are some blacked-out areas."
+}

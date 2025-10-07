@@ -1,0 +1,116 @@
+{
+  "document_metadata": {
+    "page_number": "92 of 151",
+    "document_number": "DOJ-OGR-00032131",
+    "date": "2-24, 2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "JEGE, INC. PASSENGER MANIFEST Registration Number: N968JE Type: B-727-31 Pilots: Dave Rodgers, Larry Visocki Flight Engineer: Larry Morrison DATE: 2-24, 2005 FROM PAI TO PBI Departure Time 1:27 AM Arrival Time 4:45 AM Trip Number 324 PASSENGERS 1. Jeffrey Barton FROM Identifier Defined City West Palm Beach State or Country FL TO Identifier Defined City West Palm Beach State or Country FL Nautical Miles Statute Miles 0 Gallons 3500 Pounds AIRFRAME 33072.8 Flight Time 0+17 33073.1 Altitude FL 2500' 20. Night T/L 111 21. IMC 22. 23. Approach 1 24. 25. 26. MAINTENANCE TEST FLIGHT Page 92 of 151 Public Records Request No.: 17-295",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "JEGE, INC. PASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: Type: Pilots: Flight Engineer:",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "N968JE B-727-31 Dave Rodgers, Larry Visocki Larry Morrison",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "DATE: FROM TO Departure Time Arrival Time Trip Number",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "2-24, 2005 PAI PBI 1:27 AM 4:45 AM 324",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGERS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1. Jeffrey Barton",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FROM Identifier Defined TO Identifier Defined",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "City West Palm Beach State or Country FL City West Palm Beach State or Country FL",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Nautical Miles Statute Miles Gallons Pounds Flight Time Altitude FL",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "0 3500 0+17 2500'",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "AIRFRAME",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "33072.8 33073.1",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "MAINTENANCE TEST FLIGHT",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page 92 of 151 Public Records Request No.: 17-295",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Dave Rodgers",
+      "Larry Visocki",
+      "Larry Morrison",
+      "Jeffrey Barton"
+    ],
+    "organizations": [
+      "JEGE, INC."
+    ],
+    "locations": [
+      "West Palm Beach",
+      "FL",
+      "PAI",
+      "PBI"
+    ],
+    "dates": [
+      "2-24, 2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N968JE",
+      "324",
+      "17-295",
+      "DOJ-OGR-00032131"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned copy of a passenger manifest with some handwritten notes. The scan quality is poor, with a vertical black line running through the center of the page. The document has been stamped with a 'Public Records Request No.' and a 'Page X of Y' notation."
+}

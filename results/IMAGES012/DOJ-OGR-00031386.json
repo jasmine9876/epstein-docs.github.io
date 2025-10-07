@@ -1,0 +1,71 @@
+{
+  "document_metadata": {
+    "page_number": "8",
+    "document_number": "0035224228",
+    "date": "February 12, 2005",
+    "document_type": "Invoice",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Cingular Wireless AT&T Wireless Account Number 0035224228 Account Name HOLLY ROBSON Date of Invoice February 12, 2005 DETAIL OF CURRENT ACTIVITY - CONTINUED VOICE USAGE FOR (561)308-0282 - Continued Item Date Time Number Called Calls To Qnty Used Charge Rate Description Charge 571 02/05 11:10P (561)876-2208 INCOMING 4MIN UNLIMITED NWKND MIN ... ... 07/26/17 Page 8 of 10 Public Records Request No.: 17-295 DOJ-OGR-00031386",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Cingular Wireless AT&T Wireless Account Number 0035224228 Account Name HOLLY ROBSON Date of Invoice February 12, 2005",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DETAIL OF CURRENT ACTIVITY - CONTINUED",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "VOICE USAGE FOR (561)308-0282 - Continued",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Item Date Time Number Called Calls To Qnty Used Charge Rate Description Charge",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "571 02/05 11:10P (561)876-2208 INCOMING 4MIN UNLIMITED NWKND MIN ...",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 8 of 10 Public Records Request No.: 17-295 DOJ-OGR-00031386",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "HOLLY ROBSON"
+    ],
+    "organizations": [
+      "Cingular Wireless",
+      "AT&T Wireless"
+    ],
+    "locations": [
+      "WPALM BEACH FL",
+      "LAKE WORTH FL",
+      "NEW YORK NY"
+    ],
+    "dates": [
+      "February 12, 2005",
+      "02/05",
+      "02/06",
+      "02/07",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "0035224228",
+      "(561)308-0282",
+      "17-295",
+      "DOJ-OGR-00031386"
+    ]
+  },
+  "additional_notes": "The document is a detailed invoice from Cingular Wireless (now AT&T Wireless) to HOLLY ROBSON. It includes a list of voice usage for a specific phone number, detailing calls made and received, along with their durations and charges. The document is part of a larger invoice, as indicated by the page number (8 of 10). The presence of a public records request number suggests it was obtained through a public records request."
+}

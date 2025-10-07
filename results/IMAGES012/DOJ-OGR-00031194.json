@@ -1,0 +1,76 @@
+{
+  "document_metadata": {
+    "page_number": "1 of 2",
+    "document_number": null,
+    "date": "03/15/1994",
+    "document_type": "FAA Registry N-Number Inquiry Results",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "N-Number Inquiry Results Page 1 of 2 FAA Registry N-Number Inquiry Results N909JE is Assigned Assigned/Registered Aircraft Aircraft Description Serial Number 151 Type Registration Corporation Manufacturer Name GULFSTREAM AEROSPACE Certificate Issue Date 03/15/1994 Model G1159B Status Valid Type Aircraft Fixed Wing Multi-Engine Type Engine Turbo-Jet Pending Number Change None Dealer No Date Change Authorized None Mode S Code 53110550 MFR Year 1974 Fractional Owner NO Registered Owner Name HYPERION AIR INC Street 103 FOULK RD STE 202 City WILMINGTON State DELAWARE Zip Code 19803-3742 County NEW CASTLE Country UNITED STATES Airworthiness Engine Manufacturer ROLL-ROYCE Classification Standard Engine Model RB.211 SERIES Category Transport A/W Date 06/29/1989 Other Owner Names http://registry.faa.gov/aircraftinquiry/NNumSQLa.asp?NNumbertxt=909JE Public Records Request No.: 17-293/2006 DOJ-OGR-00031194",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "N-Number Inquiry Results Page 1 of 2",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "FAA Registry N-Number Inquiry Results N909JE is Assigned Assigned/Registered Aircraft Aircraft Description",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Serial Number 151 Manufacturer Name GULFSTREAM AEROSPACE Model G1159B Type Aircraft Fixed Wing Multi-Engine Pending Number Change None Date Change Authorized None MFR Year 1974 Type Registration Corporation Certificate Issue Date 03/15/1994 Status Valid Type Engine Turbo-Jet Dealer No Mode S Code 53110550 Fractional Owner NO",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Registered Owner Name HYPERION AIR INC Street 103 FOULK RD STE 202 City WILMINGTON State DELAWARE Zip Code 19803-3742 County NEW CASTLE Country UNITED STATES",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Airworthiness Engine Manufacturer ROLL-ROYCE Classification Standard Engine Model RB.211 SERIES Category Transport A/W Date 06/29/1989",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Other Owner Names",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "http://registry.faa.gov/aircraftinquiry/NNumSQLa.asp?NNumbertxt=909JE Public Records Request No.: 17-293/2006 DOJ-OGR-00031194",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "GULFSTREAM AEROSPACE",
+      "HYPERION AIR INC",
+      "ROLL-ROYCE"
+    ],
+    "locations": [
+      "WILMINGTON",
+      "DELAWARE",
+      "NEW CASTLE",
+      "UNITED STATES"
+    ],
+    "dates": [
+      "03/15/1994",
+      "06/29/1989",
+      "17-293/2006"
+    ],
+    "reference_numbers": [
+      "N909JE",
+      "151",
+      "G1159B",
+      "53110550",
+      "19803-3742",
+      "DOJ-OGR-00031194"
+    ]
+  },
+  "additional_notes": "The document appears to be a standard FAA Registry N-Number Inquiry Results report. The document is clean and legible, with no visible redactions or damage."
+}

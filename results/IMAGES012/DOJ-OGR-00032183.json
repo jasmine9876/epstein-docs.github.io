@@ -1,0 +1,86 @@
+{
+  "document_metadata": {
+    "page_number": "144",
+    "document_number": "17-295",
+    "date": "09/14/2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "09/14/2005 14:16 FAX 003 HYPERION AIR, INC. PASSENGER MANIFEST By: Bill Hammond Registration Number: N909JE Type: G-1159B Pilots: Dave Rodgers, Larry Vissaki DATE: 9-9-2005 FROM TEB TO PBI Departure Time: 10:00 AM Arrival Time: 12:22 PM Trip Number: 1875 PASSENGERS 1. Jeffrey Epstein 2. Nadia Marcinkova 3. Adriana Mucinska FROM Identifier Defined City TETERBORD State or Country NJ TO Identifier Defined City WEST PALM BEACH FL Nautical Miles 1025 Statute Miles 1179 Gallons 1150 Pounds 9590 AIRFRAME 98458 23 Flight Time 2+22 Altitude FL 450 98481 TAKE-OFF POWER Night 23 Flex Take-Off T/L 11 Min Take-Off IMC Condition Approach P COMMENTS 07/26/17 Page 144 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032183",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "HYPERION AIR, INC. PASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: N909JE Type: G-1159B Pilots: Dave Rodgers, Larry Vissaki",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "9-9-2005 TEB PBI 10:00 AM 12:22 PM 1875",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGERS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1. Jeffrey Epstein 2. Nadia Marcinkova 3. Adriana Mucinska",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "TETERBORD NJ WEST PALM BEACH FL 1025 1179 1150 9590 2+22 450 11 P",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "COMMENTS",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page 144 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032183",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Nadia Marcinkova",
+      "Adriana Mucinska",
+      "Dave Rodgers",
+      "Larry Vissaki",
+      "Bill Hammond"
+    ],
+    "organizations": [
+      "Hyperion Air, Inc.",
+      "DOJ"
+    ],
+    "locations": [
+      "Teterboro",
+      "West Palm Beach",
+      "New Jersey",
+      "Florida"
+    ],
+    "dates": [
+      "09/14/2005",
+      "9-9-2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N909JE",
+      "G-1159B",
+      "1875",
+      "17-295",
+      "DOJ-OGR-00032183"
+    ]
+  },
+  "additional_notes": "The document is a faxed copy of a passenger manifest from Hyperion Air, Inc. dated September 9, 2005. It contains handwritten information about the flight, passengers, and other details. The document is part of a larger collection, as indicated by the page number (144 of 151) and public records request number (17-295)."
+}

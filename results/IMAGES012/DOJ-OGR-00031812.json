@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "06049528",
+    "date": "04/06/06",
+    "document_type": "Offense Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "OFNARRM1 PALM BEACH COUNTY SHERIFF'S OFFIC 04/06/06 CASE# 06049528 ORIGINAL OFFENSE REPORT PAGE 4 MONTI, ID 7346. THIS CASE IS CLEARED BY ARREST AND THIS ENDS MY INVOLVEMENT IN THIS CASE AT THIS TIME. D/S S. SHAFFER/ID 6376/TRANS: 040406/BH DICT: 040106/0900 HRS. <PF1> <PA2> <PF15> <PF22> <PF23> MSG: RETURN BWD 1ST PAGE PREV SUPL NEXT SUPL 07/26/17 Page 91 of 124 Public Records Request No.: 17-295 DOJ-OGR-00031812",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "OFNARRM1 PALM BEACH COUNTY SHERIFF'S OFFIC 04/06/06 CASE# 06049528 ORIGINAL OFFENSE REPORT PAGE 4",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "MONTI, ID 7346. THIS CASE IS CLEARED BY ARREST AND THIS ENDS MY INVOLVEMENT IN THIS CASE AT THIS TIME. D/S S. SHAFFER/ID 6376/TRANS: 040406/BH DICT: 040106/0900 HRS.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "<PF1> <PA2> <PF15> <PF22> <PF23> MSG: RETURN BWD 1ST PAGE PREV SUPL NEXT SUPL",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 91 of 124 Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00031812",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "MONTI",
+      "S. SHAFFER"
+    ],
+    "organizations": [
+      "PALM BEACH COUNTY SHERIFF'S OFFIC"
+    ],
+    "locations": [
+      "Palm Beach County"
+    ],
+    "dates": [
+      "04/06/06",
+      "040106",
+      "040406",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "06049528",
+      "7346",
+      "6376",
+      "17-295",
+      "DOJ-OGR-00031812"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned copy of an offense report from the Palm Beach County Sheriff's Office. The text is mostly clear, but there are some minor formatting issues due to the scanning process."
+}

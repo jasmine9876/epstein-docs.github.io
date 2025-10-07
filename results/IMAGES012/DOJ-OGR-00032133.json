@@ -1,0 +1,83 @@
+{
+  "document_metadata": {
+    "page_number": "94",
+    "document_number": "N908JE",
+    "date": "3-4,2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "JEGE, INC. PASSENGER MANIFEST Registration Number: N908JE Type: B-727-31 Pilots: Dave Rodgers, Larry Visoski Flight Engineer: Larry Morrison Bill Hammond DATE: 3-4,2005 FROM JFK TO PBI Departure Time 9:28 AM Arrival Time 11:45 PM Trip Number 326 PASSENGERS 1. Jeffrey Epstein 2. Ghislaine Maxwell 3. David Mullen 4. Nadia Marcinkova 5. Adrianna Mucinska FROM Identifier Defined City NEW YORK, NEW YORK State or Country NY TO Identifier Defined City WEST PALM BEACH State or Country FL Nautical Miles 894 Statute Miles 1028 Gallons 2.097 Pounds 18,826 Flight Time 2+18 Altitude FL 320 20. Night 2.3 21. T/L 4.11 22. IMC 23. Approach AIRFRAME 33075.2 2.3 33077.5",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "JEGE, INC. PASSENGER MANIFEST Registration Number: Type: Pilots: Flight Engineer:",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Bill Hammond Dave Rodgers, Larry Visoski Larry Morrison",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "DATE: FROM TO Departure Time Arrival Time Trip Number PASSENGERS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "3-4,2005 JFK PBI 9:28 AM 11:45 PM 326 1. Jeffrey Epstein 2. Ghislaine Maxwell 3. David Mullen 4. Nadia Marcinkova 5. Adrianna Mucinska",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FROM Identifier Defined City State or Country TO Identifier Defined City State or Country Nautical Miles Statute Miles Gallons Pounds Flight Time Altitude FL",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "NEW YORK, NEW YORK NY WEST PALM BEACH FL 894 1028 2.097 18,826 2+18 320",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "20. Night 21. T/L 22. IMC 23. Approach AIRFRAME",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "2.3 4.11 33075.2 2.3 33077.5",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Ghislaine Maxwell",
+      "David Mullen",
+      "Nadia Marcinkova",
+      "Adrianna Mucinska",
+      "Bill Hammond",
+      "Dave Rodgers",
+      "Larry Visoski",
+      "Larry Morrison"
+    ],
+    "organizations": [
+      "JEGE, INC."
+    ],
+    "locations": [
+      "JFK",
+      "PBI",
+      "New York",
+      "West Palm Beach"
+    ],
+    "dates": [
+      "3-4,2005"
+    ],
+    "reference_numbers": [
+      "N908JE",
+      "326"
+    ]
+  },
+  "additional_notes": "The document is a passenger manifest for a flight from JFK to PBI on 3-4,2005. The flight was operated by JEGE, INC. with registration number N908JE. The document contains handwritten information about the passengers, flight details, and crew members."
+}

@@ -1,0 +1,51 @@
+{
+  "document_metadata": {
+    "page_number": "6",
+    "document_number": "DOJ-OGR-00031179",
+    "date": "07/26/17",
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "- CAD CA11/S - PPUBLIC Records Request No.: 17-295 Page 6 of 135 07/26/17 DOJ-OGR-00031179",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "- CAD CA11/S -",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "PPUBLIC Records Request No.: 17-295",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "Page 6 of 135",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00031179",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00031179"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned page with handwritten and printed text. The page is mostly blank with some metadata in the margins and footer."
+}

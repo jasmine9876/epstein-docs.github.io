@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00032423",
+    "date": null,
+    "document_type": "Message Slips",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "FOR MR. EPSTEIN 3/1/02 TIME 1 TELEPHONED X PLEASE CALL X MESSAGE SIGNED 1184 FOR MR. EPSTEIN 3/28/02 TIME 130 TELEPHONED X PLEASE CALL MESSAGE SIGNED 1184 IMPORTANT MESSAGE FOR DATE 3/9/02 TIME TELEPHONED PLEASE CALL MESSAGE SIGNED 1184 IMPORTANT MESSAGE FOR MR. EPSTEIN DATE 9/2/02 TIME 1 TELEPHONED X PLEASE CALL MESSAGE SIGNED 1184",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE FOR DATE M. OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "MR. EPSTEIN 3/1/02 1 202 0864 X X",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "MR. EPSTEIN 3/28/02 130 289 5900 X",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "3/9/02 359 South Blvd X",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "MR. EPSTEIN 9/2/02 1 X",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [
+      "MR. EPSTEIN",
+      "JODY",
+      "KAROLYN KALSY",
+      "IR SHAVITZ"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "3/1/02",
+      "3/28/02",
+      "3/9/02",
+      "9/2/02"
+    ],
+    "reference_numbers": [
+      "202 0864",
+      "289 5900",
+      "359"
+    ]
+  },
+  "additional_notes": "Four message slips with handwritten notes. The document appears to be a scanned copy of a notebook page with four message slips filled out."
+}

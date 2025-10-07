@@ -1,0 +1,89 @@
+{
+  "document_metadata": {
+    "page_number": "149",
+    "document_number": "17-295",
+    "date": "10-6-2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "HYPERION AIR, INC. PASSENGER MANIFEST Registration Number: N909JE Type: G-1159B Bill Hammond Pilots: Dave Rodgers, Larry Visotski DATE: 10-6-2005 FROM MIA TO T.I.S.T Departure Time 7:34 AM PM Arrival Time 10:00 AM PM Trip Number 1830 PASSENGERS 1. Jeffrey Epstein 2. Sarah Kellen 3. Dana Burns 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. COMMENTS FROM Identifier Defined City MIAMI State or Country FL TO Identifier Defined City ST. THOMAS State or Country USVI Nautical Miles 962 Statute Miles 1106 Gallons 1300 AIRFRAME Pounds 9947 9874.1 Flight Time 2:25 2.5 Altitude FL FL450 9876.6 TAKE-OFF POWER Night 20 Flex Take-Off T/O Min Take-Off IMC Condition Approach",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "HYPERION AIR, INC. PASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: N909JE Type: G-1159B Bill Hammond Pilots: Dave Rodgers, Larry Visotski",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "10-6-2005",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "MIA T.I.S.T 7:34 PM 10:00 PM 1830",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGERS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1. Jeffrey Epstein 2. Sarah Kellen 3. Dana Burns",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "COMMENTS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "MIAMI FL ST. THOMAS USVI 962 1106 1300 9947 9874.1 2:25 2.5 FL450 9876.6 20 T/O IMC",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 149 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032188",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Sarah Kellen",
+      "Dana Burns",
+      "Bill Hammond",
+      "Dave Rodgers",
+      "Larry Visotski"
+    ],
+    "organizations": [
+      "Hyperion Air, Inc."
+    ],
+    "locations": [
+      "Miami",
+      "St. Thomas",
+      "FL",
+      "USVI"
+    ],
+    "dates": [
+      "10-6-2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N909JE",
+      "G-1159B",
+      "1830",
+      "17-295",
+      "DOJ-OGR-00032188"
+    ]
+  },
+  "additional_notes": "The document is a passenger manifest for Hyperion Air, Inc. with handwritten entries. The image quality is clear, and there are no visible redactions or damage."
+}

@@ -1,0 +1,53 @@
+{
+  "document_metadata": {
+    "page_number": "68",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Phone Message Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Phone Message log to Δ 07/26/17 Page 68 of 100 Public Records Request No.: 17-295 DOJ-OGR-00032007",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "Phone Message log to Δ",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page 68 of 100",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032007",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032007"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned page with handwritten notes at the top and printed metadata at the bottom. The page is part of a larger document (Page 68 of 100)."
+}

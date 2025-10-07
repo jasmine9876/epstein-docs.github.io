@@ -1,0 +1,88 @@
+{
+  "document_metadata": {
+    "page_number": "02",
+    "document_number": "17-295",
+    "date": "06/18/2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "06/18/2005 12:40 5614786553 JEGE OR HYPERION AIR PAGE 02 JEGE, INC. PASSENGER MANIFEST Registration Number: N908JE Type: B-727-31 Pilots: Dave Rodgers, Larry Visoski Flight Engineer: Larry Morrison DATE: 6.8.2005 FROM JFK TO PBI Departure Time 8:24 PM Arrival Time 10:33 PM Trip Number 341 PASSENGERS 1. Jeffrey Epstein 2. SARAH KELLEN 3. DAVID MULLEN 4. ANDREANA MUNCINSKA 5. DANA BURNS 6. MARK ZEFF 7. DANIELL 8. DOUG SHUTTLE 9. JENN 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. FROM Identifier Defined City NEW YORK State or Country N.Y. TO Identifier Defined City WEST PALM BEACH State or Country FL. Nautical Miles 894 Statute Miles 1028 Gallons Pounds 18646 33114.6 Flight Time 2+09 2.1 Altitude FL FL380 33116.7 20. Night 2 21. T/L 1 22. IMC 23. Approach 24. 25. 26. 07/26/17 Page 100 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032139",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "JEGE, INC. PASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: N908JE Type: B-727-31 Pilots: Dave Rodgers, Larry Visoski Flight Engineer: Larry Morrison",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "6.8.2005 JFK PBI 8:24 PM 10:33 PM 341",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGERS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1. Jeffrey Epstein 2. SARAH KELLEN 3. DAVID MULLEN 4. ANDREANA MUNCINSKA 5. DANA BURNS 6. MARK ZEFF 7. DANIELL 8. DOUG SHUTTLE 9. JENN",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FROM Identifier Defined City NEW YORK State or Country N.Y. TO Identifier Defined City WEST PALM BEACH State or Country FL. Nautical Miles 894 Statute Miles 1028 Gallons Pounds 18646 33114.6 Flight Time 2+09 2.1 Altitude FL FL380 33116.7 Night 2 T/L 1 IMC Approach",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 100 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032139",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "SARAH KELLEN",
+      "DAVID MULLEN",
+      "ANDREANA MUNCINSKA",
+      "DANA BURNS",
+      "MARK ZEFF",
+      "DANIELL",
+      "DOUG SHUTTLE",
+      "JENN",
+      "Dave Rodgers",
+      "Larry Visoski",
+      "Larry Morrison"
+    ],
+    "organizations": [
+      "JEGE, INC.",
+      "HYPERION AIR"
+    ],
+    "locations": [
+      "JFK",
+      "PBI",
+      "NEW YORK",
+      "N.Y.",
+      "WEST PALM BEACH",
+      "FL"
+    ],
+    "dates": [
+      "06/18/2005",
+      "6.8.2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N908JE",
+      "341",
+      "17-295",
+      "DOJ-OGR-00032139"
+    ]
+  },
+  "additional_notes": "The document is a passenger manifest for a flight from JFK to PBI on June 8, 2005. The document contains handwritten and printed text. The passenger list includes Jeffrey Epstein and several other individuals. The flight details include departure and arrival times, trip number, and flight time."
+}

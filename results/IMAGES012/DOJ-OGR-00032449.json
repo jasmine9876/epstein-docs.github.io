@@ -1,0 +1,131 @@
+{
+  "document_metadata": {
+    "page_number": "2136",
+    "document_number": "DOJ-OGR-00032449",
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR TJC DATE 02/10/03 TIME 1:00 P.M. TELEPHONED PLEASE CALL MESSAGE Amanda is with client SIGNED ? IMPORTANT MESSAGE FOR DATE 02/11/03 TIME 5:00 P.M. TELEPHONED PLEASE CALL MESSAGE Amanda 917 245 3107 SIGNED ? IMPORTANT MESSAGE FOR Ye DATE 02 TIME A.M. P.M. IMPORTANT MESSAGE FOR JE DATE 16/02/03 TIME 21:10 P.M. OF SUEQLANA PHONE 717 774 3061 TELEPHONED PLEASE CALL",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "TJC",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "02/10/03",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "1:00 P.M.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "TELEPHONED PLEASE CALL",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Amanda is with client",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "?",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "02/11/03",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "5:00 P.M.",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Amanda",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "917 245 3107",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "?",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "Ye",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "02",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "JE",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "16/02/03",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "21:10 P.M.",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "SUEQLANA",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "717 774 3061",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [
+      "TJC",
+      "Amanda",
+      "Ye",
+      "JE",
+      "SUEQLANA"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "02/10/03",
+      "02/11/03",
+      "16/02/03",
+      "02",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032449"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned copy of a page from a notebook containing 'Important Message' forms. The forms are filled out with handwritten notes, some of which are difficult to decipher. The page number '2136' is visible at the bottom, along with a 'Public Records Request No.: 17-295' and 'DOJ-OGR-00032449'."
+}

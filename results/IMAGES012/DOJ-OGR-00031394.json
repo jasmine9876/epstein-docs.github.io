@@ -1,0 +1,96 @@
+{
+  "document_metadata": {
+    "page_number": "8",
+    "document_number": "0035224228",
+    "date": "April 12, 2005",
+    "document_type": "Invoice",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Cingular Wireless Detail of Current Activity - Continued Voice Usage for (561)308-0282 - Continued Item Date Time Called Number Calls To Qnty Used Charge Rate Description Charge ... TOTAL VOICE USAGE FOR (561)308-0282 52.74 DATA USAGE FOR (561)308-0282 Item Date Qnty Used Charge Description Charge 1 03/25 28 KB MMODE/DATA USAGE 0.28 TOTAL DATA USAGE FOR (561)308-0282 0.34 TEXT/MULTIMEDIA MSGS FOR (561)308-0282 Item Date Time Sent To/Recvd From Charge Description Charge 1 03/21 06:01A (561)543-9076 TEXT MESSAGES SENT 0.10 ... TOTAL TEXT/MULTIMEDIA MSG USAGE FOR (561)308-0282 1.50 Public Records Request No.: 17-295 DOJ-OGR-00031394",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Cingular Wireless",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DETAIL OF CURRENT ACTIVITY - CONTINUED",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "VOICE USAGE FOR (561)308-0282 - Continued",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "TOTAL VOICE USAGE FOR (561)308-0282 52.74",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DATA USAGE FOR (561)308-0282",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TOTAL DATA USAGE FOR (561)308-0282 0.34",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TEXT/MULTIMEDIA MSGS FOR (561)308-0282",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TOTAL TEXT/MULTIMEDIA MSG USAGE FOR (561)308-0282 1.50",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00031394",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "HOLLY ROBSON"
+    ],
+    "organizations": [
+      "Cingular Wireless"
+    ],
+    "locations": [
+      "WPALMBEACH FL",
+      "LAKE WORTH FL",
+      "PHOENIX AZ",
+      "NASHUA NH",
+      "JUPITER FL"
+    ],
+    "dates": [
+      "April 12, 2005",
+      "03/25",
+      "03/21",
+      "03/29",
+      "03/30",
+      "03/31",
+      "04/03",
+      "04/04"
+    ],
+    "reference_numbers": [
+      "0035224228",
+      "(561)308-0282",
+      "(561)543-9076",
+      "17-295",
+      "DOJ-OGR-00031394"
+    ]
+  },
+  "additional_notes": "The document is a Cingular Wireless invoice for account number 0035224228, dated April 12, 2005. It details voice usage, data usage, and text/multimedia messages for the phone number (561)308-0282. The document is page 8 of 8."
+}

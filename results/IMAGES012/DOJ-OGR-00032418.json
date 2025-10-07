@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Message slips",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR Jeffcy DATE 01/24/03 TIME 11:00 A.M. M Ghislaine OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Please call her back SIGNED 1184 IMPORTANT MESSAGE FOR Jeffcy DATE 2/11/03 TIME 4:20 P.M. M Jocllyn OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE he Los called SIGNED an 1184 IMPORTANT MESSAGE FOR ge DATE  TIME 11:10 A.M. M Colleen OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Going into class - will be out in 45 min. 07/26 SIGNED Page 2105 IMPORTANT MESSAGE FOR GE DATE TIME 11:00 A.M. M. Dr. Perlman OF PHONE/ MOBILE 612 595 3483 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED Public Records Request No. 17295 1184 DOJ-OGR-00032418",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffcy 01/24/03 11:00 Ghislaine Please call her back",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffcy 2/11/03 4:20 Jocllyn he Los called an",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "ge Colleen 11:10 Going into class - will be out in 45 min. 07/26",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "GE Dr. Perlman 11:00 612 595 3483 Public Records Request No. 17295",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032418",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffcy",
+      "Ghislaine",
+      "Jocllyn",
+      "Colleen",
+      "Dr. Perlman"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "01/24/03",
+      "2/11/03",
+      "07/26"
+    ],
+    "reference_numbers": [
+      "612 595 3483",
+      "17295",
+      "DOJ-OGR-00032418"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned image of a notepad with four message slips. The handwriting is mostly legible, but some parts are difficult to read. There are no visible redactions or damage."
+}

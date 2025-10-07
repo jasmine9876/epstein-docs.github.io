@@ -1,0 +1,67 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "DOJ-OGR-00032421",
+    "date": "11/26/05, 11/27/05",
+    "document_type": "Important Message slips",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR Jeffrey DATE 11/26/05 TIME 9:33 A.M. M Glen Dubin OF PHONE/MOBILE 212 287 4977 TELEPHONED PLEASE CALL WILL CALL AGAIN CAME TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE That he called and he is at home SIGNED IMPORTANT MESSAGE FOR Jeffrey DATE 11/26/05 TIME 6:57 P.M. M Glen Dubin OF PHONE/MOBILE 212 287 4977 TELEPHONED PLEASE CALL WILL CALL AGAIN CAME TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE He is sending a fax and he will have more color about portfolio tomorrow SIGNED IMPORTANT MESSAGE FOR Jeffrey DATE 11/27/05 TIME 9:25 P.M. M Darren OF PHONE/MOBILE TELEPHONED PLEASE CALL WILL CALL AGAIN CAME TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE He will call you back little bit later SIGNED IMPORTANT MESSAGE FOR Jeffrey DATE 11/26/05 TIME 10:00 P.M. M Natalie OF PHONE/MOBILE 917 204 9696 TELEPHONED PLEASE CALL WILL CALL AGAIN CAME TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE She is returning phone call. Sorry that so late but she took a nap SIGNED Public Records Request No. 17-285 DOJ-OGR-00032421",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffrey 11/26/05 9:33 A.M. Glen Dubin 212 287 4977 That he called and he is at home",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffrey 11/26/05 6:57 P.M. Glen Dubin 212 287 4977 He is sending a fax and he will have more color about portfolio tomorrow",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffrey 11/27/05 9:25 P.M. Darren He will call you back little bit later",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffrey 11/26/05 10:00 P.M. Natalie 917 204 9696 She is returning phone call. Sorry that so late but she took a nap",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No. 17-285",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032421",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey",
+      "Glen Dubin",
+      "Darren",
+      "Natalie"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "11/26/05",
+      "11/27/05"
+    ],
+    "reference_numbers": [
+      "17-285",
+      "DOJ-OGR-00032421"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned copy of a notepad with four 'Important Message' slips. The slips contain handwritten notes with phone messages for Jeffrey from various individuals. The document is in a relatively good condition, with some minor signs of wear and tear."
+}

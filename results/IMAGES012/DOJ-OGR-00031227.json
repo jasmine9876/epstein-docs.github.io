@@ -1,0 +1,103 @@
+{
+  "document_metadata": {
+    "page_number": "2 of 2",
+    "document_number": "T010517",
+    "date": "01/25/2001",
+    "document_type": "Temporary Certificate",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "N-Number Inquiry Results page 2 of 2 None Temporary Certificate Certificate Number T010517 Issue Date 01/25/2001 Expiration Date 02/24/2001 Fuel Modifications None PEN SEALCH FUEL TO TOP http://registry.faa.gov/aircraftinquiry/NNumSQL.asp?NNumbertxt=908JE&cmdFind.x=11 1/3/2006 Page 54 of 135 Public Records Request No.: 17-295 DOJ-OGR-00031227 07/26/17",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "N-Number Inquiry Results",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "page 2 of 2",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "None",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Temporary Certificate",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Certificate Number T010517 Issue Date 01/25/2001 Expiration Date 02/24/2001",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Fuel Modifications",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "None",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PEN SEALCH FUEL TO TOP",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "07/26/17",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "http://registry.faa.gov/aircraftinquiry/NNumSQL.asp?NNumbertxt=908JE&cmdFind.x=11",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "1/3/2006",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 54 of 135",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00031227",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "FAA"
+    ],
+    "locations": [],
+    "dates": [
+      "01/25/2001",
+      "02/24/2001",
+      "1/3/2006",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "T010517",
+      "908JE",
+      "17-295",
+      "DOJ-OGR-00031227"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned copy of a temporary certificate with some handwritten annotations."
+}

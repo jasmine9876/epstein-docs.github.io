@@ -1,0 +1,82 @@
+{
+  "document_metadata": {
+    "page_number": "139",
+    "document_number": "17-295",
+    "date": "8-22-2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "HYPERION AIR, INC. PASSENGER MANIFEST Registration Number: N909JE Type: G-1159B Pilots: Dave Rodgers, Larry Visoski DATE: 8-22-2005 FROM PBI TO TEB Departure Time 3:57 PM Arrival Time 6:16 PM Trip Number 1806 PASSENGERS 1. Jeffrey Epstein 2. NADIA MARCINKOVA FROM Identifier Defined City WEST PALM BEH State or Country FL TO Identifier Defined City TETERBORO State or Country N.J. Nautical Miles 200 Statute Miles 1035 Gallons 1100 AIRFRAME Pounds 9533 9829.2 Flight Time 2+19 12.3 Altitude FL FL450 9831.5 TAKE-OFF POWER Night Flex Take-Off T/L 1 Min Take-Off IMC COMMENTS Condition Approach 07/26/17 Page 139 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032178",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "HYPERION AIR, INC. PASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: N909JE Type: G-1159B Pilots: Dave Rodgers, Larry Visoski",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "8-22-2005 PBI TEB 3:57 PM 6:16 PM 1806",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGERS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffrey Epstein NADIA MARCINKOVA",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "WEST PALM BEH FL TETERBORO N.J. 200 1035 1100 9533 9829.2 2+19 12.3 FL450 9831.5",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "COMMENTS",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 139 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032178",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "NADIA MARCINKOVA",
+      "Dave Rodgers",
+      "Larry Visoski"
+    ],
+    "organizations": [
+      "Hyperion Air, Inc."
+    ],
+    "locations": [
+      "West Palm Beach, FL",
+      "Teterboro, N.J.",
+      "PBI",
+      "TEB"
+    ],
+    "dates": [
+      "8-22-2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N909JE",
+      "G-1159B",
+      "1806",
+      "17-295",
+      "DOJ-OGR-00032178"
+    ]
+  },
+  "additional_notes": "The document is a passenger manifest for a flight on August 22, 2005, operated by Hyperion Air, Inc. The document contains handwritten information, including passenger names, flight details, and other relevant data."
+}

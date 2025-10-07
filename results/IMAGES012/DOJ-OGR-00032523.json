@@ -1,0 +1,82 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR Jeffery DATE 3/31/05 TIME 12:20 A.M. M. Ghislaine OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Glen has pulled muscle and he is at the hospital 'Good Sam' They have called dr. Moskowitz and everything has been arranged. In this case properly they won't make for lunch. SIGNED #16 IMPORTANT MESSAGE FOR J.E. DATE 3/31/05 TIME 7:05 A.M. M. Leslie Wexler OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED J. 1184 #16 IMPORTANT MESSAGE FOR Jeffry DATE 04/01/05 TIME 11:07 A.M. M. Cecilia OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE she had on the phone Mr. Cipriani SIGNED 07/26/17 Page 2210 IMPORTANT MESSAGE FOR Jeffrysson DATE 04/04/05 TIME 07:50 A.M. M. Genia OF PHONE/MOBILE No number he still left text TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE That he called SIGNED Public Records Request No.: 17-295 DOJ-OGR-00032523",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffery 3/31/05 12:20 A.M. Ghislaine Glen has pulled muscle and he is at the hospital 'Good Sam' They have called dr. Moskowitz and everything has been arranged. In this case properly they won't make for lunch.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "J.E. 3/31/05 7:05 A.M. Leslie Wexler J.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffry 04/01/05 11:07 A.M. Cecilia she had on the phone Mr. Cipriani",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffrysson 04/04/05 07:50 A.M. Genia No number he still left text That he called",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032523",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffery",
+      "Ghislaine",
+      "Glen",
+      "J.E.",
+      "Leslie Wexler",
+      "Jeffry",
+      "Cecilia",
+      "Mr. Cipriani",
+      "Jeffrysson",
+      "Genia"
+    ],
+    "organizations": [
+      "Good Sam hospital"
+    ],
+    "locations": [],
+    "dates": [
+      "3/31/05",
+      "04/01/05",
+      "04/04/05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032523"
+    ]
+  },
+  "additional_notes": "The document appears to be a collection of 'Important Message' forms, likely from a professional or personal setting. The forms contain handwritten notes and messages from various individuals. The document quality is generally good, with some minor wear and tear visible on the edges."
+}

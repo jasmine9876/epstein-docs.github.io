@@ -1,0 +1,108 @@
+{
+  "document_metadata": {
+    "page_number": "95",
+    "document_number": "N908JE",
+    "date": "3-8-2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "JEGE, INC. PASSENGER MANIFEST Registration Number: N908JE Type: B-727-31 Pilots: B Hammond Flight Engineer: Larry Morrison DATE: 3-8-2005 FROM PBT TO TIST Departure Time 11:42 PM Arrival Time 2:50 AM Trip Number 327 PASSENGERS 1. Jeffrey Epstein 2. Sarah Kellen 3. Nadia Marcinkova 4. Andrea FROM Identifier Defined City WEST PALM BEACH State or Country FL TO Identifier Defined City ST. THOMAS State or Country USVI Nautical Miles 976 Statute Miles 1122 Gallons 3227 AIRFRAME Pounds 18602 33079.5 Flight Time 2+08 2.1 Altitude FL F370 33079.6",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "JEGE, INC. PASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: N908JE Type: B-727-31",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "B Hammond",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "Pilots: Dave Rodgers, Larry Visoski Flight Engineer: Larry Morrison",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "3-8-2005",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "PBT TIST",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "11:42 PM 2:50 AM",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "327",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGERS",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "1. Jeffrey Epstein 2. Sarah Kellen 3. Nadia Marcinkova 4. Andrea",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "WEST PALM BEACH FL ST. THOMAS USVI",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "976 1122 3227 18602 33079.5 2+08 2.1 F370 33079.6",
+      "position": "body"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Sarah Kellen",
+      "Nadia Marcinkova",
+      "Andrea",
+      "B Hammond",
+      "Dave Rodgers",
+      "Larry Visoski",
+      "Larry Morrison"
+    ],
+    "organizations": [
+      "JEGE, INC."
+    ],
+    "locations": [
+      "West Palm Beach",
+      "FL",
+      "St. Thomas",
+      "USVI",
+      "PBT",
+      "TIST"
+    ],
+    "dates": [
+      "3-8-2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N908JE",
+      "327",
+      "33079.5",
+      "33079.6",
+      "DOJ-OGR-00032134"
+    ]
+  },
+  "additional_notes": "The document is a passenger manifest for a flight on March 8, 2005. It includes the names of the passengers and crew members, as well as flight details such as departure and arrival times, and fuel consumption. The document appears to be a scanned copy, with some handwritten annotations."
+}

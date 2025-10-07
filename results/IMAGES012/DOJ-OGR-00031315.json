@@ -1,0 +1,69 @@
+{
+  "document_metadata": {
+    "page_number": "7",
+    "document_number": "1-05-001263",
+    "date": "9/11/05",
+    "document_type": "Incident Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Date: 11/18/05\nTime: 11:36:11\nPALM BEACH POLICE DEPARTMENT\nIncident Report\nPage: 1\nProgram: CMS301L\nCase No. : 1-05-001263\nOccur From Date: 9/11/05 2344\nSPECIAL NOTES :\nOccur To Date : 9/11/05 2344\nReport Date : : 9/11/05 2345\nDay Of Week . : Sunday\nStreet Number : 200 BAHAMA LN\nCity . : PALM BEACH, FL\nLocation Type : HIGHWAY/ROADWAY\nBeat Assignment: SHIFT 3\nMap Reference : 23\nDept Class . : DRUG LAW VIOLATION\nReport Officer : CARISTO, NICHOLAS\nCase Status : CLEARED BY ARREST\nCase Status Dt : 9/11/05\nSupervisory Dt.: BURFIELD, KURT 9/11/05\nEntry Date : OREGERO, LAURA 9/12/05\nNames? :\nVehicles? :\nNarrative? :\nProperty? :\nOffenses? :\nRelated Cases? :\n********* PROPERTY INFORMATION # 1 *************\nCase number . : 1-05-001263\nCategory . : **EVIDENCE/CONFISCATED (NOT UCR)***\nColor . :\nDescription : MARIJUAN CIGARETTE\nMake . :\nSerial number :\nModel . :\nUCR Prop Type : MISCELLANEOUS\nInsured? :\nNCIC number :\nRecovered by :\nRecovered Date : 0/00/00\nRecovery value : 0.00\nStreet number :\nCity . :\nDrug? . . . :\nDocument? . :\n********* PROPERTY INFORMATION # 2 *************\nCase number . : 1-05-001263\nCategory . : **EVIDENCE/CONFISCATED (NOT UCR)***\nDescription : 2 GLASS PIPES W/MARIJ.RESIDUE\nColor . :\nMake . :\nSerial number :\nModel . :\nUCR Prop Type : MISCELLANEOUS\nProperty type : MISCELLANEOUS\nInsured? . :\nInsured by . :\nValue . . . : 0.00\nNCIC number :\nRecovered by :\nRecovered Date : 0/00/00\nRecovery value : 0.00\nStreet number :\nCity . :\nDrug? . . . :\nDocument? . :\n********* PROPERTY INFORMATION # 3 *************\nCase number . : 1-05-001263\nCategory . : **EVIDENCE/CONFISCATED (NOT UCR)***\nDescription : CLEAR PLASTIC BAGGY W/MARIJUA.\nColor . :\nMake . :\nSerial number :\nModel . :\nUCR Prop Type : MISCELLANEOUS\nProperty type : MISCELLANEOUS\nInsured? . :\nInsured by . :\nValue . . . : 0.00\nNCIC number :\n07/26/17 Page 7 of 102 Public Records Request No.: 17-295 DOJ-OGR-00031315",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date: 11/18/05\nTime: 11:36:11\nPALM BEACH POLICE DEPARTMENT\nIncident Report\nPage: 1\nProgram: CMS301L",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Case No. : 1-05-001263\nOccur From Date: 9/11/05 2344\nSPECIAL NOTES :\nOccur To Date : 9/11/05 2344\nReport Date : : 9/11/05 2345",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "********* PROPERTY INFORMATION # 1 *************\nCase number . : 1-05-001263\nCategory . : **EVIDENCE/CONFISCATED (NOT UCR)***\nDescription : MARIJUAN CIGARETTE",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "********* PROPERTY INFORMATION # 2 *************\nCase number . : 1-05-001263\nCategory . : **EVIDENCE/CONFISCATED (NOT UCR)***\nDescription : 2 GLASS PIPES W/MARIJ.RESIDUE",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "********* PROPERTY INFORMATION # 3 *************\nCase number . : 1-05-001263\nCategory . : **EVIDENCE/CONFISCATED (NOT UCR)***\nDescription : CLEAR PLASTIC BAGGY W/MARIJUA.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 7 of 102 Public Records Request No.: 17-295 DOJ-OGR-00031315",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "CARISTO, NICHOLAS",
+      "BURFIELD, KURT",
+      "OREGERO, LAURA"
+    ],
+    "organizations": [
+      "PALM BEACH POLICE DEPARTMENT"
+    ],
+    "locations": [
+      "PALM BEACH, FL",
+      "200 BAHAMA LN"
+    ],
+    "dates": [
+      "9/11/05",
+      "9/12/05",
+      "11/18/05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "1-05-001263",
+      "17-295",
+      "DOJ-OGR-00031315"
+    ]
+  },
+  "additional_notes": "The document is a police incident report with detailed property information related to a drug law violation case."
+}

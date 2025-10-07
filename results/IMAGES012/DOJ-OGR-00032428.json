@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "2115",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR Mr. ECKLER DATE 9/1/77 TIME 2:30 P.M. TELEPHONED PLEASE CALL MESSAGE Chris not available at 4:00 cat at 3:00. SIGNED 1184 IMPORTANT MESSAGE FOR MR ECKLER DATE 8/5/77 TIME 4:55 P.M. TELEPHONED PLEASE CALL MESSAGE He spoke to MR. WEBER and will like to talk to/you. SIGNED 1184 IMPORTANT MESSAGE FOR Mr. Eckler DATE 9/20/77 TIME TELEPHONED PLEASE CALL MESSAGE Phone Confirm at 3:00 SIGNED 1184 IMPORTANT MESSAGE FOR DATE TIME MESSAGE SIGNED 1184 Public Records Request No.: 17-295",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Mr. ECKLER 9/1/77 2:30 P.M. Chris not available at 4:00 cat at 3:00.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TELEPHONED PLEASE CALL",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "MR ECKLER 8/5/77 4:55 P.M. He spoke to MR. WEBER and will like to talk to/you.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Mr. Eckler 9/20/77 Phone Confirm at 3:00",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Mr. ECKLER",
+      "MR ECKLER",
+      "MR. WEBER",
+      "Chris"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "9/1/77",
+      "8/5/77",
+      "9/20/77",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned image of a page containing four 'Important Message' forms. The forms are filled out with handwritten notes, indicating phone calls and messages for Mr. Eckler. The page is dated 07/26/17 and has a public records request number of 17-295."
+}

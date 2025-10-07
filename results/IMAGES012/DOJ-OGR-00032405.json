@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "17-295",
+    "date": "07/26/13",
+    "document_type": "Important Message",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR JE DATE TIME 2:50 A.M. P.M. M OF GLEN PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE CALLED HE IS IN COLORADO SIGNED 1184 IMPORTANT MESSAGE FOR JE DATE TIME 7:20 A.M. P.M. M OF ATTY PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SHE IS GOING TO BE IN PB ON WEDNESDAY. DO YOU WANT TO SEE HER? SIGNED 1184 IMPORTANT MESSAGE FOR JE DATE TIME A.M. P.M. M OF DARREN PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 07/26/13 1184 Page 2 1184 IMPORTANT MESSAGE FOR JE DATE TIME 10:30 A.M. P.M. M OF DARREN PHONE/MOBILE 9735971169 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED Public Records Request No.: 17-295 1184 DOJ-OGR-00032405",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "JE GLEN 2:50 CALLED HE IS IN COLORADO",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "JE ATTY 7:20 SHE IS GOING TO BE IN PB ON WEDNESDAY. DO YOU WANT TO SEE HER?",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "JE DARREN 9735971169",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032405",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JE",
+      "GLEN",
+      "ATTY",
+      "DARREN"
+    ],
+    "organizations": [],
+    "locations": [
+      "COLORADO",
+      "PB"
+    ],
+    "dates": [
+      "07/26/13",
+      "WEDNESDAY"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "9735971169",
+      "DOJ-OGR-00032405"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned copy of a notepad with four 'Important Message' forms filled out. The forms contain handwritten notes with names, phone numbers, and messages. The document has a date stamp of 07/26/13 and a public records request number."
+}

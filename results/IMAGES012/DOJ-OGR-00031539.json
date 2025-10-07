@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": "18",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Envelope",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "RICCI-LEOPOLD CONSUMER JUSTICE ATTORNEYS 2925 PGA Boulevard Suite 200 Palm Beach Gardens FL 33410 File #: 080048 Lanna Belohlavek, Esq. Office of the Florida State Attorney 401 N. Dixie Highway West Palm Beach, FL 33401 33401+4256 07/26/17 Page 18 Public Records Request No.: 17-295 DOJ-OGR-00031539 049J82034925 $00.410 02/21/2008 Mailed From 33410 US POSTAGE",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "RICCI-LEOPOLD CONSUMER JUSTICE ATTORNEYS 2925 PGA Boulevard Suite 200 Palm Beach Gardens FL 33410",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "File #: 080048",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Lanna Belohlavek, Esq. Office of the Florida State Attorney 401 N. Dixie Highway West Palm Beach, FL 33401",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "33401+4256",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "049J82034925 $00.410 02/21/2008 Mailed From 33410 US POSTAGE",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 18 Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00031539",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Lanna Belohlavek"
+    ],
+    "organizations": [
+      "RICCI-LEOPOLD",
+      "Office of the Florida State Attorney"
+    ],
+    "locations": [
+      "Palm Beach Gardens",
+      "West Palm Beach",
+      "FL"
+    ],
+    "dates": [
+      "02/21/2008",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "080048",
+      "17-295",
+      "DOJ-OGR-00031539",
+      "049J82034925",
+      "33410"
+    ]
+  },
+  "additional_notes": "The document is a scanned image of an envelope with a stamp and printed text. The image quality is clear, and there are no visible redactions or damage."
+}

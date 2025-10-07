@@ -1,0 +1,89 @@
+{
+  "document_metadata": {
+    "page_number": "16",
+    "document_number": null,
+    "date": "3/7/2006",
+    "document_type": "Donation List",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Albuquerque Tribune Online Page 16 of 28 $7,576 Diana MacArthur, Bethesda, Md. Business owner $7,500 ODS Technologies LP DBA TV games, Tulsa, Okla. Racing network $7,000 John M O'Quinn, Houston, Texas Attorney $7,000 Steve Gabaldon, Farmington Developer $6,975 Palace Restaurant, Santa Fe Restaurant $6,757 Fairfax Properties Inc., Branford, Conn. Real estate $6,700 Ben Barnes, Austin, Texas Consultant $6,591 Jamie Koch, Santa Fe Insurance $6,429 AKAL Security, Santa Cruz, Calif. Security $6,120 Ahmed Assed, Albuquerque Attorney $6,000 New Mexico Manufactured Housing Assn., Albuquerque Professional association $5,000 $5,000 Addus HealthCare Inc., Palatine, Ill. Health care $5,000 Homeland Security Corporation, Nashville, Tenn. Security $5,000 KBHome, Los Angeles, Calif. Real estate $5,000 United Mine Workers of America, Price, Utah Labor committee $5,000 E. W. Williams Jr., Amarillo, Texas Banker http://abqtrib.com/archives/news02/120702_Page_118_of_135_news_donate.shtml Public Records Request No.: 17-295 3/7/2006 DOJ-OGR-00031289",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Albuquerque Tribune Online",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Page 16 of 28",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "$7,576 Diana MacArthur, Bethesda, Md. Business owner $7,500 ODS Technologies LP DBA TV games, Tulsa, Okla. Racing network $7,000 John M O'Quinn, Houston, Texas Attorney $7,000 Steve Gabaldon, Farmington Developer $6,975 Palace Restaurant, Santa Fe Restaurant $6,757 Fairfax Properties Inc., Branford, Conn. Real estate $6,700 Ben Barnes, Austin, Texas Consultant $6,591 Jamie Koch, Santa Fe Insurance $6,429 AKAL Security, Santa Cruz, Calif. Security $6,120 Ahmed Assed, Albuquerque Attorney $6,000 New Mexico Manufactured Housing Assn., Albuquerque Professional association $5,000 $5,000 Addus HealthCare Inc., Palatine, Ill. Health care $5,000 Homeland Security Corporation, Nashville, Tenn. Security $5,000 KBHome, Los Angeles, Calif. Real estate $5,000 United Mine Workers of America, Price, Utah Labor committee $5,000 E. W. Williams Jr., Amarillo, Texas Banker",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "http://abqtrib.com/archives/news02/120702_Page_118_of_135_news_donate.shtml",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295 3/7/2006",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00031289",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Diana MacArthur",
+      "John M O'Quinn",
+      "Steve Gabaldon",
+      "Ben Barnes",
+      "Jamie Koch",
+      "Ahmed Assed",
+      "E. W. Williams Jr."
+    ],
+    "organizations": [
+      "ODS Technologies LP DBA TV games",
+      "Palace Restaurant",
+      "Fairfax Properties Inc.",
+      "AKAL Security",
+      "New Mexico Manufactured Housing Assn.",
+      "Addus HealthCare Inc.",
+      "Homeland Security Corporation",
+      "KBHome",
+      "United Mine Workers of America"
+    ],
+    "locations": [
+      "Bethesda, Md.",
+      "Tulsa, Okla.",
+      "Houston, Texas",
+      "Farmington",
+      "Santa Fe",
+      "Branford, Conn.",
+      "Austin, Texas",
+      "Santa Cruz, Calif.",
+      "Albuquerque",
+      "Palatine, Ill.",
+      "Nashville, Tenn.",
+      "Los Angeles, Calif.",
+      "Price, Utah",
+      "Amarillo, Texas"
+    ],
+    "dates": [
+      "3/7/2006"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00031289"
+    ]
+  },
+  "additional_notes": "The document appears to be a list of donations with corresponding donor names, locations, and professions/industries. The document is from the Albuquerque Tribune Online and is page 16 of 28."
+}

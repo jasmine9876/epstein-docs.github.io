@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "561 832 4117",
+    "date": "APR 05 2005",
+    "document_type": "Bill/Invoice",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "** BELLSOUTH TELECOMMUNICATIONS, INC. **\n561 832 4117 APR 05 2005 908\nCURRENT CHARGES WPB PAGE 3 BST\nITEM CODES AMOUNT\nMessages\nBellSouth is making your life simpler!\nBellSouth» RightTouch» service, our automated, 24-hour customer service system, is an easy way to do business with us. Use any touch-tone phone to confirm receipt of your last payment, make payment arrangements, order services like Call Waiting and Caller ID, request a copy of your bill, order local telephone directories, disconnect your service, or check your account balance.\nTo perform many of the functions listed above, you will need your four-digit Personal Identification Number (PIN) located in the Questions? Call: section on page1 of your bill or the last four digits of the social security number associated with your account.\nWe even provide help on how to use telephone features. To use RightTouch» service, call 1-888-764-2500.\n** Unregulated Charge\nVisit us on the Internet: www.bellsouth.com\n07/26/17 Page 25 of 104 Public Records Request No.: 17-295 DOJ-OGR-00031642",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "** BELLSOUTH TELECOMMUNICATIONS, INC. **",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "561 832 4117 APR 05 2005 908\nCURRENT CHARGES WPB PAGE 3 BST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "ITEM CODES AMOUNT\nMessages",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "BellSouth is making your life simpler!\nBellSouth» RightTouch» service, our automated, 24-hour customer service system, is an easy way to do business with us. Use any touch-tone phone to confirm receipt of your last payment, make payment arrangements, order services like Call Waiting and Caller ID, request a copy of your bill, order local telephone directories, disconnect your service, or check your account balance.\nTo perform many of the functions listed above, you will need your four-digit Personal Identification Number (PIN) located in the Questions? Call: section on page1 of your bill or the last four digits of the social security number associated with your account.\nWe even provide help on how to use telephone features. To use RightTouch» service, call 1-888-764-2500.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "** Unregulated Charge\nVisit us on the Internet: www.bellsouth.com",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 25 of 104 Public Records Request No.: 17-295 DOJ-OGR-00031642",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "BellSouth Telecommunications, Inc."
+    ],
+    "locations": [],
+    "dates": [
+      "APR 05 2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "561 832 4117",
+      "1-888-764-2500",
+      "17-295",
+      "DOJ-OGR-00031642"
+    ]
+  },
+  "additional_notes": "The document appears to be a page from a BellSouth telecommunications bill/invoice. The page contains information about the customer's account and services provided by BellSouth. The document is mostly printed text with no handwritten content or stamps. The footer contains metadata about the document, including the date it was processed (07/26/17) and a public records request number."
+}

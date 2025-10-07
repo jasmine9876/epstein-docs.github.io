@@ -1,0 +1,117 @@
+{
+  "document_metadata": {
+    "page_number": "97",
+    "document_number": "17-295",
+    "date": "3-22-2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "JEGE, INC. PASSENGER MANIFEST Registration Number: N908JE Type: B-727-31 Pilots: Dave Rodgers, Larry Visoaki Flight Engineer: Larry Morrison DATE: 3-22-2005 FROM PBI TO JFK Departure Time 1:07 PM Arrival Time 3:16 PM Trip Number 332 PASSENGERS 1. Jeffrey Epstein 2. Andrea Musiska 3. 1 Female 4. Dana Burns 5. 1 Female FROM Identifier Defined City NEST Palm Beach State or Country FL TO Identifier Defined City NEW YORK State or Country N.Y. Nautical Miles 894 Stanute Miles 1028 Gallons Pounds 1850 Flight Time 2:09 Altitude FL FL240 AIRFRAME 33086.8 33089.0 Night T/L 1 IMC Approach Public Records Request No.: 17-295 DOJ-OGR-00032136 07/26/17 Page 97 of 151",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "JEGE, INC. PASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: N908JE Type: B-727-31 Pilots: Dave Rodgers, Larry Visoaki Flight Engineer: Larry Morrison",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "George Diaz",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DATE: FROM TO Departure Time Arrival Time Trip Number",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "3-22-2005 PBI JFK 1:07 PM 3:16 PM 332",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGERS",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "1. Jeffrey Epstein 2. Andrea Musiska 3. 1 Female 4. Dana Burns 5. 1 Female",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "FROM Identifier Defined City State or Country TO Identifier Defined City State or Country Nautical Miles Stanute Miles Gallons Pounds Flight Time Altitude FL",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "NEST Palm Beach FL NEW YORK N.Y. 894 1028 1850 2:09 FL240",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "AIRFRAME",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "33086.8 33089.0",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Night T/L IMC Approach",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "1",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295 DOJ-OGR-00032136 07/26/17 Page 97 of 151",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Andrea Musiska",
+      "Dana Burns",
+      "Dave Rodgers",
+      "Larry Visoaki",
+      "Larry Morrison",
+      "George Diaz"
+    ],
+    "organizations": [
+      "JEGE, INC."
+    ],
+    "locations": [
+      "Palm Beach",
+      "West Palm Beach",
+      "PBI",
+      "JFK",
+      "New York",
+      "N.Y.",
+      "FL"
+    ],
+    "dates": [
+      "3-22-2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N908JE",
+      "332",
+      "17-295",
+      "DOJ-OGR-00032136"
+    ]
+  },
+  "additional_notes": "The document is a passenger manifest for a flight from PBI to JFK on 3-22-2005. The document contains handwritten notes and appears to be a scanned copy."
+}

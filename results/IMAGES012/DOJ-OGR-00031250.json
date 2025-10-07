@@ -1,0 +1,79 @@
+{
+  "document_metadata": {
+    "page_number": "20",
+    "document_number": null,
+    "date": "7/2006",
+    "document_type": "Donation List",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Albuquerque Tribune Online Page 20 of 28 $5,000 Deborah C. Kastrin, El Paso, Texas Business consultant $5,000 Devon Energy Corp, Oklahoma City, Okla. Energy $5,000 DGP Inc DBA Zia Factory Outlet, Las Vegas, N.M Manufactured homes $5,000 Earl Potter, Santa Fe Lawyer/entrepreneur $5,000 Edward R. Broida, Santa Fe, Retired $5,000 El Dorado Communications Inc., Houston, Texas Communications $5,000 Elizabeth Keeshan, Friday Harbor, Wash. Corporate executive $5,000 Entravision Communications Co. LLC, Santa Monica, Calif. Communications $5,000 Essence Bottling Co. Inc., Albuquerque Beverage distributor $5,000 Falconridge Development LLC, Albuquerque Real estate $5,000 First State Bank, Albuquerque Banking $5,000 Frank Zaitshik, Auburn Hills, Mich. President $5,000 Fred A. Vierra, Englewood, Colo. Unknown $5,000 Friends of Antonio Villaraigosa 2006, Los Angeles, Calif. Political Action Committee $5,000 G. Frost Enterprises Inc., Albuquerque Mortgage banking $5,000 Gary D. Plante, Albuquerque Hospitality Page 17 of 35 Public Records Request No.: 17-295 7/7/2006 DOJ-OGR-00031250",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Albuquerque Tribune Online Page 20 of 28",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "$5,000 Deborah C. Kastrin, El Paso, Texas Business consultant $5,000 Devon Energy Corp, Oklahoma City, Okla. Energy $5,000 DGP Inc DBA Zia Factory Outlet, Las Vegas, N.M Manufactured homes $5,000 Earl Potter, Santa Fe Lawyer/entrepreneur $5,000 Edward R. Broida, Santa Fe, Retired $5,000 El Dorado Communications Inc., Houston, Texas Communications $5,000 Elizabeth Keeshan, Friday Harbor, Wash. Corporate executive $5,000 Entravision Communications Co. LLC, Santa Monica, Calif. Communications $5,000 Essence Bottling Co. Inc., Albuquerque Beverage distributor $5,000 Falconridge Development LLC, Albuquerque Real estate $5,000 First State Bank, Albuquerque Banking $5,000 Frank Zaitshik, Auburn Hills, Mich. President $5,000 Fred A. Vierra, Englewood, Colo. Unknown $5,000 Friends of Antonio Villaraigosa 2006, Los Angeles, Calif. Political Action Committee $5,000 G. Frost Enterprises Inc., Albuquerque Mortgage banking $5,000 Gary D. Plante, Albuquerque Hospitality",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Page 17 of 35 Public Records Request No.: 17-295 7/7/2006 DOJ-OGR-00031250",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Deborah C. Kastrin",
+      "Earl Potter",
+      "Edward R. Broida",
+      "Elizabeth Keeshan",
+      "Frank Zaitshik",
+      "Fred A. Vierra",
+      "Gary D. Plante",
+      "Antonio Villaraigosa"
+    ],
+    "organizations": [
+      "Devon Energy Corp",
+      "DGP Inc DBA Zia Factory Outlet",
+      "El Dorado Communications Inc.",
+      "Entravision Communications Co. LLC",
+      "Essence Bottling Co. Inc.",
+      "Falconridge Development LLC",
+      "First State Bank",
+      "Friends of Antonio Villaraigosa 2006",
+      "G. Frost Enterprises Inc."
+    ],
+    "locations": [
+      "El Paso",
+      "Texas",
+      "Oklahoma City",
+      "Oklahoma",
+      "Las Vegas",
+      "New Mexico",
+      "Santa Fe",
+      "Houston",
+      "Friday Harbor",
+      "Washington",
+      "Santa Monica",
+      "California",
+      "Albuquerque",
+      "Auburn Hills",
+      "Michigan",
+      "Englewood",
+      "Colorado",
+      "Los Angeles"
+    ],
+    "dates": [
+      "7/7/2006"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00031250"
+    ]
+  },
+  "additional_notes": "The document appears to be a list of donations with amounts and donor information. The page is clean and well-formatted, with clear printed text."
+}

@@ -1,0 +1,191 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "telephone message slips",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR J.E DATE 1/20/05 TIME 7:05 A.M. M.S Claudia OF Nathan Hyrnold PHONE/ MOBILE (425) 167-7303 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Returning Your Call SIGNED IMPORTANT MESSAGE FOR J.E DATE 1/22/05 TIME 1:45 A.M. M Daliz OF PHONE/ MOBILE (305) 588-8013 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Please call her SIGNED IMPORTANT MESSAGE FOR J.E DATE 1/21/05 TIME 9:00 A.M. M Eve OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Please tell him that I called SIGNED IMPORTANT MESSAGE FOR J.E DATE 1/22/05 TIME 1:52 A.M. M Anya OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Please call her SIGNED",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "J.E",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "1/20/05",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "7:05 A.M.",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "M.S Claudia",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Nathan Hyrnold",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "(425) 167-7303",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Returning Your Call",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "SIGNED",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "J.E",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "1/22/05",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "1:45 A.M.",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "M Daliz",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "(305) 588-8013",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Please call her",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "SIGNED",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "J.E",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "1/21/05",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "9:00 A.M.",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "M Eve",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Please tell him that I called",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "SIGNED",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "J.E",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "1/22/05",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "1:52 A.M.",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "M Anya",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Please call her",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "SIGNED",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "J.E",
+      "Claudia",
+      "Nathan Hyrnold",
+      "Daliz",
+      "Eve",
+      "Anya"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "1/20/05",
+      "1/22/05",
+      "1/21/05",
+      "1/22/05"
+    ],
+    "reference_numbers": [
+      "(425) 167-7303",
+      "(305) 588-8013"
+    ]
+  },
+  "additional_notes": "The document appears to be a set of telephone message slips with handwritten notes. The messages are from different individuals to J.E. The document is in good condition, with clear handwriting."
+}

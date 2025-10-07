@@ -1,0 +1,79 @@
+{
+  "document_metadata": {
+    "page_number": "2211",
+    "document_number": "DOJ-OGR-00032524",
+    "date": "07/26/17",
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR J.E. DATE 4/4/05 TIME 8:18 A.M. M Eva OF PHONE/MOBILE TELEPHONED CAME TO SEE YOU WANTS TO SEE YOU RETURNED YOUR CALL PLEASE CALL WILL CALL AGAIN RUSH SPECIAL ATTENTION MESSAGE SIGNED J IMPORTANT MESSAGE FOR J.E. DATE 4/2/05 TIME 11:38 A.M. M George Dowsen OF PHONE/MOBILE (917) 572-9796 TELEPHONED CAME TO SEE YOU WANTS TO SEE YOU RETURNED YOUR CALL PLEASE CALL WILL CALL AGAIN RUSH SPECIAL ATTENTION MESSAGE SIGNED J IMPORTANT MESSAGE FOR J.E. DATE 4/4/03 TIME 4:32 P.M. M Jean-Luc OF PHONE/MOBILE TELEPHONED CAME TO SEE YOU WANTS TO SEE YOU RETURNED YOUR CALL PLEASE CALL WILL CALL AGAIN RUSH SPECIAL ATTENTION MESSAGE 07/26/17 SIGNED J Page 2211 IMPORTANT MESSAGE FOR Jeffry DATE 9/13/05 TIME 07:4 A.M. M Alicia OF PHONE/MOBILE 917 774 4452 TELEPHONED CAME TO SEE YOU WANTS TO SEE YOU RETURNED YOUR CALL PLEASE CALL WILL CALL AGAIN RUSH SPECIAL ATTENTION MESSAGE Pls. call back SIGNED Public Records Request No.: 17-295 DOJ-OGR-00032524",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "J.E. 4/4/05 8:18 A.M. Eva",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "FOR DATE TIME M OF PHONE/MOBILE TELEPHONED CAME TO SEE YOU WANTS TO SEE YOU RETURNED YOUR CALL PLEASE CALL WILL CALL AGAIN RUSH SPECIAL ATTENTION MESSAGE SIGNED",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "J J.E. 4/2/05 11:38 A.M. George Dowsen (917) 572-9796",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "J.E. 4/4/03 4:32 P.M. Jean-Luc",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffry 9/13/05 07:4 A.M. Alicia 917 774 4452 Pls. call back",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Page 2211",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295 DOJ-OGR-00032524",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "J.E.",
+      "Eva",
+      "George Dowsen",
+      "Jean-Luc",
+      "Jeffry",
+      "Alicia"
+    ],
+    "organizations": [
+      "DOJ-OGR"
+    ],
+    "locations": [],
+    "dates": [
+      "4/4/05",
+      "4/2/05",
+      "4/4/03",
+      "9/13/05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032524"
+    ]
+  },
+  "additional_notes": "The document is a scanned image of a spiral-bound notebook containing four 'Important Message' forms. The forms are filled out with handwritten notes. The document quality is clear, and there are no visible redactions or damage."
+}

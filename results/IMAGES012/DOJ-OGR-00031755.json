@@ -1,0 +1,68 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "webpage screenshot",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "MySpace.com | Home The Web MySpace Search Home | Browse | Search | Invite | Rank | Mail | Blog | Favorites | Forum | Groups | Events | Games | Music Back to Picture Index Back to Profile \"I think I'm drunk,.....\" Post a Comment E-Mail to a Friend < Previous | Next > http://viewmorepics.myspace.com/index.cfm?fuseaction=viewImage&friendID=20301322&ImageID=17483005 DOJ-OGR-00031755",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "MySpace.com | Home The Web MySpace",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Home | Browse | Search | Invite | Rank | Mail | Blog | Favorites | Forum | Groups | Events | Games | Music",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Back to Picture Index Back to Profile",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "\"I think I'm drunk,.....\"",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Post a Comment E-Mail to a Friend",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "< Previous | Next >",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "http://viewmorepics.myspace.com/index.cfm?fuseaction=viewImage&friendID=20301322&ImageID=17483005",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00031755",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "MySpace",
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00031755",
+      "20301322",
+      "17483005"
+    ]
+  },
+  "additional_notes": "The document appears to be a screenshot of a MySpace webpage from the early 2000s. The image is mostly blacked out, with some text visible at the top and bottom."
+}

@@ -1,0 +1,72 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00032540",
+    "date": null,
+    "document_type": "Message slips",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "On desk to be seen Item #16 IMPORTANT MESSAGE FOR G. M DATE 4/30/05 TIME 8:15 A.M. P.M M. Mr Epstein OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED IMPORTANT MESSAGE FOR M. J. Epstein DATE 5/6/05 TIME 4:11 A.M. P.M M. Shawna OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Wants to work if you are in. SIGNED IMPORTANT MESSAGE FOR M. J. Epstein DATE 5/6/05 TIME 3:13 A.M. P.M M. OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED Public Records Request No.: 17-295 1184 DOJ-OGR-00032540",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "On desk to be seen sum [illegible] Item #16",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR G. M DATE 4/30/05 TIME 8:15 A.M. P.M M. Mr Epstein",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR M. J. Epstein DATE 5/6/05 TIME 4:11 A.M. P.M M. Shawna TELEPHONED PLEASE CALL Wants to work if you are in.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR M. J. Epstein DATE 5/6/05 TIME 3:13 A.M. P.M M. TELEPHONED PLEASE CALL SIGNED Public Records Request No.: 17-295",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "G. M",
+      "Mr Epstein",
+      "M. J. Epstein",
+      "Shawna"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "4/30/05",
+      "5/6/05"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032540"
+    ]
+  },
+  "additional_notes": "The document appears to be a set of message slips from a office setting, likely from the 2000s based on the dates. The handwriting is generally legible, but some words are difficult to decipher. There are no visible redactions or damage to the document."
+}

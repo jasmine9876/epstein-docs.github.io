@@ -1,0 +1,122 @@
+{
+  "document_metadata": {
+    "page_number": "112",
+    "document_number": "17-295",
+    "date": "02/19/2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "HYPERION AIR, INC. PASSENGER MANIFEST Registration Number: N909JE Type: G-1159B Pilots: Dave Rodgers, barry Visoski GARY ROXBURG DATE: 2 -19 2005 FROM TIST TO PBI Departure Time 6 :18 AM Arrival Time 7 :58 AM Trip Number 1756 PASSENGERS 1. GHISLAINE MAKWELL 2. EVA ANDERSON 3. CELINA DUBIN 4. MAYA DUBIN 5. CRES VALDEZ FROM Identifier Defined City ST. THOMAS State or Country USVI To Identifier Defined City WEST PALM BEACH State or Country FL Nautical Miles Statute Miles Gallons 1400 Pounds 11856 Flight Time 2 39 Altitude FL 260 TAKE-OFF POWER Night 1.0 Flex Take-Off 2. T/L 1.1 Min Take-Off 2.40 IMC .8 Condition WINDSHEAR Approach AIRFRAME 9715.1 2.6 9717.7 COMMENTS Page 112 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032151 07/26/17",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "HYPERION AIR, INC. PASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: Type: Pilots:",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "N909JE G-1159B Dave Rodgers, barry Visoski GARY ROXBURG",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "DATE: FROM TO Departure Time Arrival Time Trip Number",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "2 -19 2005 TIST PBI 6 :18 AM 7 :58 AM 1756",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGERS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1. GHISLAINE MAKWELL 2. EVA ANDERSON 3. CELINA DUBIN 4. MAYA DUBIN 5. CRES VALDEZ",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FROM Identifier Defined City State or Country To Identifier Defined City State or Country Nautical Miles Statute Miles",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "ST. THOMAS USVI WEST PALM BEACH FL",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Gallons Pounds Flight Time Altitude FL TAKE-OFF POWER Night Flex Take-Off T/L Min Take-Off IMC Condition Approach",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "1400 11856 2 39 260 1.0 2. 1.1 2.40 .8 WINDSHEAR",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "AIRFRAME",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "9715.1 2.6 9717.7",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "COMMENTS",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page 112 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032151 07/26/17",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Dave Rodgers",
+      "barry Visoski",
+      "GARY ROXBURG",
+      "GHISLAINE MAKWELL",
+      "EVA ANDERSON",
+      "CELINA DUBIN",
+      "MAYA DUBIN",
+      "CRES VALDEZ"
+    ],
+    "organizations": [
+      "HYPERION AIR, INC.",
+      "DOJ"
+    ],
+    "locations": [
+      "ST. THOMAS",
+      "USVI",
+      "WEST PALM BEACH",
+      "FL"
+    ],
+    "dates": [
+      "2-19-2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N909JE",
+      "G-1159B",
+      "1756",
+      "17-295",
+      "DOJ-OGR-00032151"
+    ]
+  },
+  "additional_notes": "The document is a passenger manifest for Hyperion Air, Inc. with handwritten entries. It includes details about the flight, passengers, and pilots."
+}

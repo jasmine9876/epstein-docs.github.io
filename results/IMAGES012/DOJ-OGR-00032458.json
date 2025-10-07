@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR SE DATE 14/03/03 TIME 15:45 A.M. P.M. M Amanda OF PHONE 963 8470 AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 1184 IMPORTANT MESSAGE FOR Dr Epstein DATE 03/14/03 TIME 12:15 P.M. Miss Carolyn OF PHONE 178 0496 AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED Evelyne 1184 IMPORTANT MESSAGE FOR DATE TIME A.M. P.M. M OF Loswexnos PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Please call SIGNED 07/26/17 1184 IMPORTANT MESSAGE FOR Dr Epstein DATE 03/14/03 TIME 1:27 P.M. M Tony OF PHONE 955 1393 AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Evely SIGNED Page 2145 Public Records Request No.: 17",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "SE Amanda 963 8470",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "FOR DATE TIME M OF PHONE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Dr Epstein Miss Carolyn 178 0496 Evelyne",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Loswexnos Please call",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Dr Epstein Tony 955 1393 Evely",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Page 2145 Public Records Request No.: 17",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Amanda",
+      "Dr Epstein",
+      "Miss Carolyn",
+      "Evelyne",
+      "Loswexnos",
+      "Tony",
+      "Evely"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "14/03/03",
+      "03/14/03",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "963 8470",
+      "178 0496",
+      "955 1393",
+      "2145",
+      "17"
+    ]
+  },
+  "additional_notes": "The document contains four 'Important Message' forms with handwritten notes. The forms are filled out with names, phone numbers, and messages. The document appears to be a scanned or photocopied version of the original forms."
+}

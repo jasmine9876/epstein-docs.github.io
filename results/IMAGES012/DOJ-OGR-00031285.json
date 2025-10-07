@@ -1,0 +1,90 @@
+{
+  "document_metadata": {
+    "page_number": "12",
+    "document_number": null,
+    "date": "3/7/2006",
+    "document_type": "Donation List",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Albuquerque Tribune Online Page 12 of 28 $10,000 Carlos Gallegos Jr., Santa Fe Businessman $10,000 CEMEX Inc., Houston, Texas Cement Wholesale Mfg. $10,000 Cimarron Exploration Company, El Paso, Texas Construction $10,000 Cordelia C. Trimble, Farmington Retired $10,000 Cozen O'Connor PAC, Philadelphia, Pa. Political Action Committee $10,000 Custer Basarich Ltd., Albuquerque Architecture firm $10,000 Dunn Kacal Adams Pappas & Law, Houston, Texas Law firm $10,000 Earth Energy & Environment LLC, Rapid City, S.D. Energy $10,000 Edward Garcia, Albuquerque Business owner $10,000 El Paso Energy Service Company, Houston, Texas Energy $10,000 EPV Management Inc., Palm Desert, Calif. Real estate management $10,000 Four-Four Inc., Farmington Pipeline contractor $10,000 Gerald Kessler, Melville, N.Y. CEO $10,000 H & R Block, Farmington Accounting and investments $10,000 Hunt Uptown II LLC, El Paso, Texas Construction $10,000 IGT, Reno, Nev. Gambling http://abqtrib.com/archives/news02/120702_page12donate.shtml Public Records Request No.: 17 3/7/2006 DOJ-OGR-00031285",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Albuquerque Tribune Online",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Page 12 of 28",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "$10,000 Carlos Gallegos Jr., Santa Fe Businessman $10,000 CEMEX Inc., Houston, Texas Cement Wholesale Mfg. $10,000 Cimarron Exploration Company, El Paso, Texas Construction $10,000 Cordelia C. Trimble, Farmington Retired $10,000 Cozen O'Connor PAC, Philadelphia, Pa. Political Action Committee $10,000 Custer Basarich Ltd., Albuquerque Architecture firm $10,000 Dunn Kacal Adams Pappas & Law, Houston, Texas Law firm $10,000 Earth Energy & Environment LLC, Rapid City, S.D. Energy $10,000 Edward Garcia, Albuquerque Business owner $10,000 El Paso Energy Service Company, Houston, Texas Energy $10,000 EPV Management Inc., Palm Desert, Calif. Real estate management $10,000 Four-Four Inc., Farmington Pipeline contractor $10,000 Gerald Kessler, Melville, N.Y. CEO $10,000 H & R Block, Farmington Accounting and investments $10,000 Hunt Uptown II LLC, El Paso, Texas Construction $10,000 IGT, Reno, Nev. Gambling",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "http://abqtrib.com/archives/news02/120702_page12donate.shtml",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "3/7/2006",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00031285",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Carlos Gallegos Jr.",
+      "Cordelia C. Trimble",
+      "Edward Garcia",
+      "Gerald Kessler"
+    ],
+    "organizations": [
+      "CEMEX Inc.",
+      "Cimarron Exploration Company",
+      "Cozen O'Connor PAC",
+      "Custer Basarich Ltd.",
+      "Dunn Kacal Adams Pappas & Law",
+      "Earth Energy & Environment LLC",
+      "El Paso Energy Service Company",
+      "EPV Management Inc.",
+      "Four-Four Inc.",
+      "H & R Block",
+      "Hunt Uptown II LLC",
+      "IGT"
+    ],
+    "locations": [
+      "Santa Fe",
+      "Houston",
+      "El Paso",
+      "Farmington",
+      "Philadelphia",
+      "Albuquerque",
+      "Rapid City",
+      "Palm Desert",
+      "Melville",
+      "Reno"
+    ],
+    "dates": [
+      "3/7/2006"
+    ],
+    "reference_numbers": [
+      "17",
+      "DOJ-OGR-00031285"
+    ]
+  },
+  "additional_notes": "The document appears to be a list of donations from various individuals and organizations. The page is clean and well-formatted, with clear headings and bullet points."
+}

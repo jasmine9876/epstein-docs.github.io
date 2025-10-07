@@ -1,0 +1,88 @@
+{
+  "document_metadata": {
+    "page_number": "145",
+    "document_number": "17-295",
+    "date": "09/14/2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "09/14/2005 14:16 FAX\n\nHYPERION AIR, INC.\nPASSENGER MANIFEST\n\nRegistration Number: N909JE Type: G-1159B Pilots: Dave Rodgers, Larry Visoski\nDATE: 9-11-2005 FROM PDT TO TST\nDeparture Arrival Trip\nTime 2:06 PM Time 4:30 PM Number 1816\n\nPASSENGERS\n1. Jeffrey Epstein\n2. ADRIANNA MUSINSKA\n3. NADIA MARCINKOVA\n4.\n5.\n6.\n7.\n8.\n9.\n10.\n11.\n12.\n13.\n\nCOMMENTS\n\nFROM Identifier Defined\nCity WEST PALM BEACH\nState or Country FL\nTO Identifier Defined\nCity ST. THOMAS\nState or Country USVI\nNautical Miles 985\nStatute Miles 1032\nGallons 1300 Pounds 9532 AIRFRAME 9848.1\nFlight Time 2:83 2.3\nAltitude FL FL450 9850.4\nTAKE-OFF POWER Night\nFlex Take-Off T/L 1\nMin Take-Off IMC\nCondition Approach\n\n07/26/17 Page 145 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032184",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "HYPERION AIR, INC.\nPASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: N909JE Type: G-1159B Pilots: Dave Rodgers, Larry Visoski",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "9-11-2005\nPDT\nTST\n2:06 PM\n4:30 PM\n1816",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGERS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffrey Epstein\nADRIANNA MUSINSKA\nNADIA MARCINKOVA",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FROM Identifier Defined\nCity\nState or Country\nTO Identifier Defined\nCity\nState or Country\nNautical Miles\nStatute Miles\nGallons\nPounds\nAIRFRAME\nFlight Time\nAltitude FL\nTAKE-OFF POWER\nNight\nFlex Take-Off\nT/L\nMin Take-Off\nIMC\nCondition\nApproach",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "WEST PALM BEACH\nFL\nST. THOMAS\nUSVI\n985\n1032\n1300\n9532\n9848.1\n2:83\n2.3\nFL450\n9850.4\n1",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "COMMENTS",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 145 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032184",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Adrianna Musinska",
+      "Nadia Marcinkova",
+      "Dave Rodgers",
+      "Larry Visoski"
+    ],
+    "organizations": [
+      "Hyperion Air, Inc."
+    ],
+    "locations": [
+      "West Palm Beach",
+      "FL",
+      "St. Thomas",
+      "USVI"
+    ],
+    "dates": [
+      "9-11-2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N909JE",
+      "G-1159B",
+      "1816",
+      "17-295",
+      "DOJ-OGR-00032184"
+    ]
+  },
+  "additional_notes": "The document is a passenger manifest for Hyperion Air, Inc. with handwritten entries. The document is dated 09/14/2005 and is related to a flight on 9-11-2005."
+}

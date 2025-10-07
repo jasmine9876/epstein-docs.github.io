@@ -16,6 +16,45 @@ eleventyComputed:
 
   <h1 style="margin-bottom: 1rem;">Document {{ doc.document_number }}</h1>
 
+  {% set docAnalysis = null %}
+  {% for item in analyses %}
+    {% if item.document_id == doc.unique_id %}
+      {% set docAnalysis = item.analysis %}
+    {% endif %}
+  {% endfor %}
+
+  {% if docAnalysis %}
+  <div class="analysis-box">
+    <h3>AI Analysis</h3>
+    <div class="analysis-content">
+      <div class="analysis-summary">
+        <strong>Summary:</strong> {{ docAnalysis.summary }}
+      </div>
+      <div class="analysis-significance">
+        <strong>Significance:</strong> {{ docAnalysis.significance }}
+      </div>
+      {% if docAnalysis.key_topics.length > 0 %}
+      <div class="analysis-topics">
+        <strong>Key Topics:</strong>
+        {% for topic in docAnalysis.key_topics %}
+          <span class="topic-tag">{{ topic }}</span>
+        {% endfor %}
+      </div>
+      {% endif %}
+      {% if docAnalysis.key_people.length > 0 %}
+      <div class="analysis-people">
+        <strong>Key People:</strong>
+        <ul>
+          {% for person in docAnalysis.key_people %}
+          <li><strong>{{ person.name }}</strong> - {{ person.role }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
+    </div>
+  </div>
+  {% endif %}
+
   <div class="metadata-box">
     <div class="metadata-grid">
       <div class="metadata-item">
@@ -159,3 +198,86 @@ eleventyComputed:
     </main>
   </div>
 </div>
+
+<style>
+  .analysis-box {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+    color: white;
+  }
+
+  .analysis-box h3 {
+    margin: 0 0 1rem 0;
+    font-size: 1.25rem;
+    font-weight: 600;
+  }
+
+  .analysis-content > div {
+    margin-bottom: 1rem;
+  }
+
+  .analysis-content > div:last-child {
+    margin-bottom: 0;
+  }
+
+  .analysis-summary {
+    background: rgba(255, 255, 255, 0.15);
+    padding: 1rem;
+    border-radius: 6px;
+    border-left: 3px solid rgba(255, 255, 255, 0.5);
+    line-height: 1.6;
+  }
+
+  .analysis-significance {
+    font-style: italic;
+    opacity: 0.95;
+    line-height: 1.6;
+  }
+
+  .analysis-topics {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    align-items: center;
+  }
+
+  .analysis-topics strong {
+    margin-right: 0.5rem;
+  }
+
+  .topic-tag {
+    display: inline-block;
+    background: rgba(255, 255, 255, 0.2);
+    padding: 0.25rem 0.75rem;
+    border-radius: 12px;
+    font-size: 0.85rem;
+    font-weight: 500;
+  }
+
+  .analysis-people ul {
+    margin: 0.5rem 0 0 1.5rem;
+    padding: 0;
+  }
+
+  .analysis-people li {
+    margin-bottom: 0.5rem;
+    line-height: 1.5;
+  }
+
+  @media (max-width: 600px) {
+    .analysis-box {
+      padding: 1rem;
+    }
+
+    .analysis-summary {
+      padding: 0.75rem;
+    }
+
+    .analysis-topics {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  }
+</style>

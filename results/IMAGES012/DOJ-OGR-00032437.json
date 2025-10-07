@@ -1,0 +1,59 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "17-295",
+    "date": "02/02/03, 07/26/17",
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR DATE TIME A.M. P.M. M. OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 1184 IMPORTANT MESSAGE FOR JE DATE 02/02/03 TIME 9:41 A.M. P.M. M. Tony OF PHONE 255 1393 AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 1184 IMPORTANT MESSAGE FOR DATE TIME A.M. P.M. M. 561 714 0546 OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Joao Please call SIGNED 07/26/17 224 IMPORTANT MESSAGE FOR DATE MR QEN TIME A.M. P.M. M. OF PHONE 917 7334444 AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED Public Records Request No.: 17-295 1184",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE FOR DATE TIME A.M. P.M. M. OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "JE 02/02/03 9:41 Tony 255 1393",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "561 714 0546 Joao Please call",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "MR QEN 917 7334444",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JE",
+      "Tony",
+      "Joao",
+      "MR QEN"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "02/02/03",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "561 714 0546",
+      "255 1393",
+      "917 7334444"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned copy of a notepad containing four 'Important Message' forms. The forms have been partially filled out with handwritten notes. The document quality is generally good, but there are some minor signs of wear and tear around the edges."
+}

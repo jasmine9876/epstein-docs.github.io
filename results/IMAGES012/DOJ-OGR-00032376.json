@@ -1,0 +1,48 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00032376",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Snyder 1212 452 7878 1917 282 6219 Ghislaine Maxwell",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "Snyder",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "1212 452 7878",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1917 282 6219",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Ghislaine Maxwell",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Snyder",
+      "Ghislaine Maxwell"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "1212 452 7878",
+      "1917 282 6219",
+      "DOJ-OGR-00032376"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned image with significant blackening on the left side, potentially obscuring content. The visible text includes handwritten phone numbers and a name, 'Snyder', along with a printed name, 'Ghislaine Maxwell', at the bottom."
+}

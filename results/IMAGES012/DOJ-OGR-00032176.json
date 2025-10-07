@@ -1,0 +1,109 @@
+{
+  "document_metadata": {
+    "page_number": "137",
+    "document_number": "17-295",
+    "date": "8.18.2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "HYPERION AIR, INC. PASSENGER MANIFEST Registration Number: N909JE Type: G-1159B Pilots: Dave Rodgers, Larry Visoski DATE: 8.18.2005 FROM TEB TO PBI Departure Time 1:11 AM PM Arrival Time 3:19 AM PM Trip Number 1804 PASSENGERS 1. Jeffrey Epstein 2. ADRIANA MUCINSKA 3. MR. MUCINSKA 4. MRS. MUCINSKA 5. ADRIANA'S SISTER 6. NADJA MARCINKOVA FROM Identifier Defined City TETERBORO State or Country NJ City WEST PALM BEACH State or Country FL Nautical Miles 900 Statute Miles 1035 Gallons 1400 Pounds 9064 AIRFRAME 9827.0 Flight Time 2 +07 21 Altitude FL 450 9829.1 TAKE-OFF POWER Night Flex Take-Off T/L 1 Min Take-Off IMC Condition Approach COMMENTS",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "HYPERION AIR, INC. PASSENGER MANIFEST",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: Type: Pilots:",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "N909JE G-1159B Dave Rodgers, Larry Visoski",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DATE: FROM TO Departure Time Arrival Time Trip Number",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "8.18.2005 TEB PBI 1:11 AM PM 3:19 AM PM 1804",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGERS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1. Jeffrey Epstein 2. ADRIANA MUCINSKA 3. MR. MUCINSKA 4. MRS. MUCINSKA 5. ADRIANA'S SISTER 6. NADJA MARCINKOVA",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FROM Identifier Defined City State or Country City State or Country Nautical Miles Statute Miles Gallons Pounds Flight Time Altitude FL TAKE-OFF POWER Night Flex Take-Off T/L Min Take-Off IMC Condition Approach",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "TETERBORO NJ WEST PALM BEACH FL 900 1035 1400 9064 2 +07 450 1",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "COMMENTS",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page 137 of 151 Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 DOJ-OGR-00032176",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "ADRIANA MUCINSKA",
+      "MR. MUCINSKA",
+      "MRS. MUCINSKA",
+      "ADRIANA'S SISTER",
+      "NADJA MARCINKOVA",
+      "Dave Rodgers",
+      "Larry Visoski"
+    ],
+    "organizations": [
+      "HYPERION AIR, INC.",
+      "DOJ"
+    ],
+    "locations": [
+      "TEB",
+      "PBI",
+      "TETERBORO",
+      "NJ",
+      "WEST PALM BEACH",
+      "FL"
+    ],
+    "dates": [
+      "8.18.2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N909JE",
+      "G-1159B",
+      "1804",
+      "17-295",
+      "DOJ-OGR-00032176"
+    ]
+  },
+  "additional_notes": "The document is a passenger manifest for a flight on Hyperion Air, Inc. The document contains handwritten information about the flight details, passengers, and flight statistics. The document is part of a larger collection of public records, as indicated by the page number and public records request number."
+}

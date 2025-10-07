@@ -1,0 +1,81 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00032432",
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR DATE TIME A.M. P.M. OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 1184 FOR Nyleen Jampani DATE TIME A.M. P.M. M OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 1184 IMPORTANT MESSAGE FOR DATE 15th March TIME 11:15 A.M. P.M. M Nyleen - ETC OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Peter Beck SIGNED 1184 IMPORTANT MESSAGE FOR Mrs Maxwell DATE TIME 12:15 A.M. P.M. M Carlos Sanchez - Architect OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE +34 958 250 0164 (F) +34-958-22 55 2/4) SIGNED 7/26/17 1184-119 IMPORTANT MESSAGE FOR DATE TIME A.M. P.M. M John Schantz OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Re: son SIGNED Public Records Request No.: 17-295 1184",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE FOR DATE TIME A.M. P.M. OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Nyleen Jampani",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "15th March 11:15 Nyleen - ETC 0118 Peter Beck",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Mrs Maxwell 12:15 Carlos Sanchez - Architect +34 958 250 0164 (F) +34-958-22 55 2/4)",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "John Schantz Re: son",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "7/26/17",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "1184",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032432",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Nyleen Jampani",
+      "Nyleen",
+      "Carlos Sanchez",
+      "Mrs Maxwell",
+      "John Schantz",
+      "Peter Beck"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "15th March",
+      "7/26/17"
+    ],
+    "reference_numbers": [
+      "+34 958 250 0164",
+      "+34-958-22 55 2/4",
+      "17-295",
+      "DOJ-OGR-00032432"
+    ]
+  },
+  "additional_notes": "The document is a scan of four 'Important Message' forms, likely from a office setting. The forms contain handwritten notes with names, phone numbers, and messages. The document quality is generally good, but some handwriting is difficult to decipher."
+}

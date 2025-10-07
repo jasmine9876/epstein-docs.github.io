@@ -1,0 +1,89 @@
+{
+  "document_metadata": {
+    "page_number": "128",
+    "document_number": "17-295",
+    "date": "6-18-2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "HYPERION AIR, INC. PASSENGER MANIFEST Registration Number: N909JE Type: G-1159B Pilots: Dave Rodgers, Larry Viskoaki Bill Hartmann DATE: 6-18-2005 FROM TEB TO PBI Departure Time 8:19 PM Arrival Time 10:35 PM Trip Number 1782 ASSENGERS Jeffrey Epstein Sarah Kellen DANA BURNS FROM Identifier Defined City TETERBORO State or Country N.J. TO Identifier Defined City WPB Palm Beach State or Country F.L. Nautical Miles Statute Miles Gallons 1400 AIRFRAME Pounds 9434 9774.9 Flight Time 2+18 2.3 Altitude FL FL430 97772 TAKE-OFF POWER Night Flex Take-Off T/L 1 Min Take-Off IMC Condition Approach 07/26/17 Page 128 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032167",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "HYPERION AIR, INC. PASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: N909JE Type: G-1159B Pilots: Dave Rodgers, Larry Viskoaki",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Bill Hartmann",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "6-18-2005 TEB PBI 8:19 PM 10:35 PM 1782",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "ASSENGERS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffrey Epstein Sarah Kellen DANA BURNS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "TETERBORO N.J. WPB Palm Beach F.L. 1400 9434 9774.9 2+18 2.3 FL430 97772 1",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TAKE-OFF POWER Night Flex Take-Off T/L Min Take-Off IMC Condition Approach",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 128 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032167",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Sarah Kellen",
+      "Dana Burns",
+      "Bill Hartmann",
+      "Dave Rodgers",
+      "Larry Viskoaki"
+    ],
+    "organizations": [
+      "Hyperion Air, Inc.",
+      "DOJ"
+    ],
+    "locations": [
+      "Teterboro",
+      "New Jersey",
+      "West Palm Beach",
+      "Florida"
+    ],
+    "dates": [
+      "6-18-2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N909JE",
+      "G-1159B",
+      "17-295",
+      "DOJ-OGR-00032167"
+    ]
+  },
+  "additional_notes": "The document is a passenger manifest for a flight on June 18, 2005. It contains handwritten information about the flight details, passengers, and other relevant data. The document is part of a public records request."
+}

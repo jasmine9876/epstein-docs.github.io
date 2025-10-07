@@ -1,0 +1,93 @@
+{
+  "document_metadata": {
+    "page_number": "147",
+    "document_number": "17-295",
+    "date": "10-4-2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "HYPERION AIR, INC. PASSENGER MANIFEST Registration Number: N909JE Type: G-1159B Bill Hammond Pilots: Dave Rodgers, Larry Visoski DATE: 10-4-2005 FROM PBI TO TEB Departure Time 11:41 AM Arrival Time 2:11 PM Trip Number 1828 PASSENGERS 1. Jeffrey Epstein 2. Adriana Musinska 3. Dana Bunes FROM Identifier Defined City WEST PALM BEACH State or Country FL TO Identifier Defined City TETERBORO State or Country NJ Nautical Miles 1025 Statute Miles 1178 Gallons 1400 AIRFRAME 98681 Pounds 9871.6 Flight Time 2+29 2.5 Altitude FL 450 TAKE-OFF POWER Night FLEX TAKE-OFF 1TL 11 Min Take-Off IMC Condition Approach COMMENTS 07/26/17 Page 147 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032186",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "HYPERION AIR, INC. PASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: N909JE Type: G-1159B Pilots: Dave Hammond",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Dave Rodgers, Larry Visoski",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "10-4-2005 PBI TEB 11:41 AM 2:11 PM 1828",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGERS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1. Jeffrey Epstein 2. Adriana Musinska 3. Dana Bunes",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FROM Identifier Defined City State or Country TO Identifier Defined City State or Country Nautical Miles Statute Miles Gallons AIRFRAME Pounds Flight Time Altitude FL TAKE-OFF POWER Night FLEX TAKE-OFF Min Take-Off IMC Condition Approach COMMENTS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "WEST PALM BEACH FL TETERBORO NJ 1025 1178 1400 98681 2+29 2.5 450 1TL 11 IMC",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 147 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032186",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Adriana Musinska",
+      "Dana Bunes",
+      "Dave Rodgers",
+      "Larry Visoski",
+      "Bill Hammond"
+    ],
+    "organizations": [
+      "Hyperion Air, Inc.",
+      "DOJ"
+    ],
+    "locations": [
+      "West Palm Beach",
+      "Palm Beach",
+      "Teterboro",
+      "Florida",
+      "FL",
+      "New Jersey",
+      "NJ"
+    ],
+    "dates": [
+      "10-4-2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N909JE",
+      "G-1159B",
+      "1828",
+      "17-295",
+      "DOJ-OGR-00032186"
+    ]
+  },
+  "additional_notes": "The document is a passenger manifest for a flight on October 4, 2005, operated by Hyperion Air, Inc. The manifest lists three passengers: Jeffrey Epstein, Adriana Musinska, and Dana Bunes. The flight departed from West Palm Beach, FL, and arrived at Teterboro, NJ."
+}

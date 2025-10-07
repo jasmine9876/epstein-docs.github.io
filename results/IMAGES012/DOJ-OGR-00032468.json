@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00032468",
+    "date": "03/29/03, 03/30/03",
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR GM DATE 03/29/03 TIME 11:51 A.M. OF ANDREA TELEPHONED PLEASE CALL MESSAGE SIGNED ? IMPORTANT MESSAGE FOR GM DATE 03/30/03 TIME 11:00 A.M. OF EJIA TELEPHONED PLEASE CALL MESSAGE 8049293 SIGNED ? IMPORTANT MESSAGE FOR M Lipstein DATE TIME A.M. P.M. M Stephen 155m NY OF TELEPHONED PLEASE CALL MESSAGE On the phone SIGNED 01/26/17 IMPORTANT MESSAGE FOR EGM DATE 03/30/03 TIME 11:43 A.M. P.M. M OF JC TELEPHONED PLEASE CALL MESSAGE wants to know if we talked for time SIGNED Public Records Request No.: 17-295",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "GM, 03/29/03, 11:51 A.M., ANDREA, TELEPHONED, PLEASE CALL, ?, 1184",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "GM, 03/30/03, 11:00 A.M., EJIA, TELEPHONED, PLEASE CALL, 8049293, ?, 1184",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "M Lipstein, Stephen 155m NY, On the phone, 01/26/17, Page 2155",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "EGM, 03/30/03, 11:43 A.M., JC, TELEPHONED, PLEASE CALL, wants to know if we talked for time, Public Records Request No.: 17-295, 1184",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "1184",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032468",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "GM",
+      "ANDREA",
+      "EJIA",
+      "M Lipstein",
+      "Stephen",
+      "JC",
+      "EGM"
+    ],
+    "organizations": [],
+    "locations": [
+      "NY"
+    ],
+    "dates": [
+      "03/29/03",
+      "03/30/03",
+      "01/26/17"
+    ],
+    "reference_numbers": [
+      "8049293",
+      "17-295",
+      "DOJ-OGR-00032468"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned copy of a set of 'Important Message' forms, likely from a office or business setting. The forms are filled out by hand with varying levels of legibility. There are no visible stamps or other annotations beyond the handwritten content."
+}

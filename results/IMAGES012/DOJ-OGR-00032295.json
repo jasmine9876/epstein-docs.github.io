@@ -1,0 +1,69 @@
+{
+  "document_metadata": {
+    "page_number": "10",
+    "document_number": "1-05-000368",
+    "date": "2/17/06",
+    "document_type": "Incident Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Date: 2/17/06 Time: 11:36:35 PALM BEACH POLICE DEPARTMENT Incident Report Page: 10 Program: CMS301L Case No. . . . : 1-05-000368 (Continued) Street Number : City : Birth Date/Age : 0/00/0000 0 Occupation . : FAMILY THERAPIST Home Phone No. : 561/000-0000 Sex . . . . . : Female Weight . . . . : 0 Other Phone Nbr: 561/000-0000 Employer? . . : Oper Lic No. . : Race . . . . : White Height . . . . : 0 Person Type . : OTHER PERSON ***EMPLOYER INFORMATION*** Case Number . : 1-05-000368 Employer Name : PBC DIVISION OF YOUTH AFFAIRS Address : 4200 N AUSTRALIAN AV City/State/Zip : WEST PALM BEACH, FL 33407 Phone Number : 561/840-4540 ********* O T H E R P E R S O N I N F O R M A T I O N - # 6 ********* Case Number . : 1-05-000368 Last Name . : BRYAN, ZACKERY Street Number : City : Birth Date/Age : Occupation . : STUDENT Home Phone No. : Sex . . . . . : Male Weight . . . . : 0 Other Phone Nbr: Employer? . . : Oper Lic No. . : Race . . . . : White Height . . . . : 0 Person Type . : OTHER PERSON ***EMPLOYER INFORMATION*** Case Number . : 1-05-000368 Employer Name : SUMMIT CHRISTIAN SCHOOL Address . : 4900 SUMMIT BV City/State/Zip : WEST PALM BEACH, FL 33415 Phone Number : ********* O T H E R P E R S O N I N F O R M A T I O N - # 7 ********* Case Number . : 1-05-000368 Last Name . : Street Number : City : Birth Date/Age : 0/00/0000 0 Occupation . : Home Phone No. : Sex . . . . . : Male Weight . . . . : 0 Other Phone Nbr: Employer? . . : Oper Lic No. . : Race . . . . : White Height . . . . : 0 Person Type . : OTHER PERSON ********* O T H E R P E R S O N I N F O R M A T I O N - # 8 ********* Case Number . : 1-05-000368 Last Name . : Street Number : 201 CYPRESS TR City . . . . . : WEST PALM BEACH, FL 33411 Birth Date/Age : 0/00/0000 0 Occupation . : Home Phone No. : 561/667-9764 Sex . . . . . : Female Employer? . . : Oper Lic No. . : Race . . . . : Height . . . . : 0 07/26/17 Page 1982 Public Records Request No.: 17-295 DOJ-OGR-00032295",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date: 2/17/06 Time: 11:36:35 PALM BEACH POLICE DEPARTMENT Incident Report Page: 10 Program: CMS301L",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Case No. . . . : 1-05-000368 (Continued)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "********* O T H E R P E R S O N I N F O R M A T I O N - # 6 *********",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "********* O T H E R P E R S O N I N F O R M A T I O N - # 7 *********",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "********* O T H E R P E R S O N I N F O R M A T I O N - # 8 *********",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 1982 Public Records Request No.: 17-295 DOJ-OGR-00032295",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "BRYAN, ZACKERY"
+    ],
+    "organizations": [
+      "PALM BEACH POLICE DEPARTMENT",
+      "PBC DIVISION OF YOUTH AFFAIRS",
+      "SUMMIT CHRISTIAN SCHOOL"
+    ],
+    "locations": [
+      "WEST PALM BEACH, FL",
+      "4200 N AUSTRALIAN AV",
+      "4900 SUMMIT BV",
+      "201 CYPRESS TR"
+    ],
+    "dates": [
+      "2/17/06",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "1-05-000368",
+      "17-295",
+      "DOJ-OGR-00032295"
+    ]
+  },
+  "additional_notes": "The document appears to be a police incident report with some redacted information. The report includes details about individuals involved in the incident, their occupations, and employer information."
+}

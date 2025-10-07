@@ -1,0 +1,83 @@
+{
+  "document_metadata": {
+    "page_number": "104",
+    "document_number": "17-295",
+    "date": "10-17-2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "JEGE, INC. PASSENGER MANIFEST Registration Number: N908JK Type: B-727-31 Pilots: Dave Rogers Larry Visoki Flight Engineer: Larry Morrison DATE: 10-17-2005 FROM LCQ TO JFK Departure Time 1:12 PM Arrival Time 3:01 PM Trip Number 345 PASSENGERS 1. Jackie Depaula FROM Identifier Defined City Lake City State or Country FL TO Identifier Defined City New York State or Country N.Y. Nautical Miles 760 Statute Miles 874 Gallons 4500 AIRFRAME Pounds 16690 33119.2 Flight Time 1:49 1.8 Altitude FL 63.350 33121.0 20. Night 21. T/L 1 22. IMC 23. Approsch 24. NO PASSENGERS 25. MAINTENANCE 26. RELOCATION AFTER ENGINE REPAIR 07/26/17 Page 104 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032143",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "JEGE, INC. PASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: N908JK Type: B-727-31 Pilots: Dave Rogers Larry Visoki Flight Engineer: Larry Morrison",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "10-17-2005 LCQ JFK 1:12 PM 3:01 PM 345",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGERS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jackie Depaula",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Lake City FL New York N.Y. 760 874 4500 16690 1:49 63.350",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "NO PASSENGERS MAINTENANCE RELOCATION AFTER ENGINE REPAIR",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 104 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032143",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Dave Rogers",
+      "Larry Visoki",
+      "Larry Morrison",
+      "Jackie Depaula"
+    ],
+    "organizations": [
+      "JEGE, INC."
+    ],
+    "locations": [
+      "Lake City",
+      "FL",
+      "New York",
+      "N.Y.",
+      "LCQ",
+      "JFK"
+    ],
+    "dates": [
+      "10-17-2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N908JK",
+      "17-295",
+      "DOJ-OGR-00032143",
+      "345"
+    ]
+  },
+  "additional_notes": "The document is a passenger manifest for a flight from Lake City, FL to New York, N.Y. on October 17, 2005. The flight was operated by JEGE, INC. using a B-727-31 aircraft with registration number N908JK. The manifest lists one passenger, Jackie Depaula. The document also contains information about the flight, including departure and arrival times, trip number, and fuel consumption."
+}

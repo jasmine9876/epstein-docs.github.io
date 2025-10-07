@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": "5",
+    "document_number": "DOJ-OGR-00031097",
+    "date": "07/28/17",
+    "document_type": "Driver License",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "HAWAII DRIVER LICENSE DRIVER DOSSIER DLNumber: Name: KELLEN,SARAH LYNNELLE Address: P O BOX 833 City/State/Zip: HALEIWA, HI Birth Date: 05/25/1979 Sex: F Height: 508 Weight: 120 Eye Color: HAZ Hair Color: BRO County: O Issue Date: 01/01/1899 Expire Date: 01/01/1899 Class: 3 Restrictions: . Endorsements: . OrganDonor: Public Records Request No.: 17-295 Page 5 of 81 07/28/17 DOJ-OGR-00031097",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "HAWAII DRIVER LICENSE",
+      "position": "header"
+    },
+    {
+      "type": "stamp",
+      "content": "DRIVER DOSSIER",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "DLNumber: Name: KELLEN,SARAH LYNNELLE Address: P O BOX 833 City/State/Zip: HALEIWA, HI Birth Date: 05/25/1979 Sex: F Height: 508 Weight: 120 Eye Color: HAZ Hair Color: BRO County: O Issue Date: 01/01/1899 Expire Date: 01/01/1899 Class: 3 Restrictions: . Endorsements: . OrganDonor:",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Sarah Kellen",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295 Page 5 of 81 07/28/17 DOJ-OGR-00031097",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "KELLEN,SARAH LYNNELLE",
+      "Sarah Kellen"
+    ],
+    "organizations": [],
+    "locations": [
+      "HALEIWA, HI"
+    ],
+    "dates": [
+      "05/25/1979",
+      "01/01/1899",
+      "07/28/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00031097"
+    ]
+  },
+  "additional_notes": "The document appears to be a photocopy or scan of a driver's license dossier. The issue and expiration dates are likely incorrect or placeholder values."
+}

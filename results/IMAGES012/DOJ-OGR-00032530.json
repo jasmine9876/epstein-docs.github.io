@@ -1,0 +1,67 @@
+{
+  "document_metadata": {
+    "page_number": "2817",
+    "document_number": "17-295",
+    "date": null,
+    "document_type": "Message slips",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "On desk sun/5/16/05 Item #16 IMPORTANT MESSAGE FOR G.M DATE 4/30/05 TIME 8:15 A.M. M Mr. Epstein OF PHONE/ MOBILE TELEPHONED PLEASE CALL X CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED IMPORTANT MESSAGE FOR Mr. J. Epstein DATE 5/6/05 TIME 4:11 P.M. M Shawna OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Wants to work if you are in. SIGNED 7/26/17 Page 2817 IMPORTANT MESSAGE FOR Mr. J. Epstein DATE 5/6/05 TIME 3:53 P.M. M OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED Public Records Request No.: 17-295 DOJ-OGR-00032530",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "On desk sun/5/16/05 Item #16",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR G.M DATE 4/30/05 TIME 8:15 A.M. M Mr. Epstein TELEPHONED X PLEASE CALL MESSAGE SIGNED",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR Mr. J. Epstein DATE 5/6/05 TIME 4:11 P.M. M Shawna TELEPHONED PLEASE CALL MESSAGE Wants to work if you are in. SIGNED 7/26/17",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR Mr. J. Epstein DATE 5/6/05 TIME 3:53 P.M. M TELEPHONED PLEASE CALL MESSAGE SIGNED Public Records Request No.: 17-295",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "G.M",
+      "Mr. Epstein",
+      "Shawna"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "4/30/05",
+      "5/6/05",
+      "7/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032530"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned image of a page from a binder containing message slips. The page is labeled as 'Page 2817'. The document is in good condition, with some handwritten notes and messages."
+}

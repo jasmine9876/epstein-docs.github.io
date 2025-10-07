@@ -1,0 +1,90 @@
+{
+  "document_metadata": {
+    "page_number": "03",
+    "document_number": "17-295",
+    "date": "04/07/2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "HYPERION AIR, INC. PASSENGER MANIFEST Registration Number: N909JE Type: G-1159B Pilots: Dave Rodgers, larry wilson BILL MURPHY DATE: 3 8 , 2005 FROM PBI TO SAN Departure Time 6 : 10 AM Arrival Time 8 35 PM Trip Number 1759 PASSENGERS 1. [redacted] 2. Ghislaine Maxwell 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. FROM Identifier Defined City WEST PALM BEACH State or Country FL TO Identifier Defined City SAN DIEGO State or Country CA Nautical Miles Statute Miles Gallons 3291 Pounds 19427 AIRFRAME 9722.6 Flight Time 5 +26 54 Altitude FL 430 9728.0 TAKE-OFF POWER Night 34 Flex Take-Off T/L .1 Min Take-Off IMC 3 Condition Approach LOC COMMENTS",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "HYPERION AIR, INC. PASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: N909JE Type: G-1159B Pilots: Dave Rodgers, larry wilson",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "BILL MURPHY",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "3 8 , 2005 PBI SAN 6 : 10 AM 8 35 PM 1759",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGERS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1. [redacted] 2. Ghislaine Maxwell",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "WEST PALM BEACH FL SAN DIEGO CA",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "3291 19427 9722.6 5 +26 54 430 9728.0 34 .1 3 LOC",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "COMMENTS",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Dave Rodgers",
+      "larry wilson",
+      "BILL MURPHY",
+      "Ghislaine Maxwell"
+    ],
+    "organizations": [
+      "HYPERION AIR, INC."
+    ],
+    "locations": [
+      "WEST PALM BEACH",
+      "FL",
+      "SAN DIEGO",
+      "CA",
+      "PBI",
+      "SAN"
+    ],
+    "dates": [
+      "3 8 , 2005",
+      "04/07/2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N909JE",
+      "G-1159B",
+      "1759",
+      "17-295",
+      "DOJ-OGR-00032154"
+    ]
+  },
+  "additional_notes": "The document contains redactions and handwritten notes. The passenger list includes Ghislaine Maxwell."
+}

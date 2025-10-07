@@ -1,0 +1,110 @@
+{
+  "document_metadata": {
+    "page_number": "127",
+    "document_number": "17-295",
+    "date": "6.1.2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "HYPERION AIR, INC. PASSENGER MANIFEST Registration Number: N909JE Type: G-1159B Pilots: Dave Rodgers, Larry Visoski DATE: 6.1.2005 FROM PBI TO TEB Departure 4:31 AM Arrival 7:50 PM Trip Number 1781 PASSENGERS 1. Jeffrey Epstein 2. Nadia Marcinkova 3. ADRIANA MUCINSKA FROM Identifier Defined City WEST PALM BEACH State or Country FL TO Identifier Defined City TETERBORO State or Country NJ Nautical Miles Statute Miles Gallons 1600 Pounds 9470 AIRFRAME 9772.6 Flight Time 2:19 2.3 Altitude FL 450 9774.9 TAKE-OFF POWER Night T/L 1 Flex Take-Off 2.15 Min Take-Off IMC 3 Condition Approach COMMENTS",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "HYPERION AIR, INC. PASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: Type: Pilots:",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "N909JE G-1159B Dave Rodgers, Larry Visoski",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "DATE: FROM TO",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "6.1.2005 PBI TEB",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Departure Time Arrival Time Trip Number",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "4:31 AM 7:50 PM 1781",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGERS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1. Jeffrey Epstein 2. Nadia Marcinkova 3. ADRIANA MUCINSKA",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FROM Identifier Defined TO Identifier Defined",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "City WEST PALM BEACH State or Country FL City TETERBORO State or Country NJ",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Nautical Miles Statute Miles Gallons Pounds AIRFRAME Flight Time Altitude FL TAKE-OFF POWER Night T/L Flex Take-Off Min Take-Off IMC Condition Approach COMMENTS",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "1600 9470 9772.6 2:19 2.3 450 9774.9 1 2.15 3",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Nadia Marcinkova",
+      "ADRIANA MUCINSKA",
+      "Dave Rodgers",
+      "Larry Visoski"
+    ],
+    "organizations": [
+      "HYPERION AIR, INC."
+    ],
+    "locations": [
+      "WEST PALM BEACH",
+      "FL",
+      "TETERBORO",
+      "NJ",
+      "PBI",
+      "TEB"
+    ],
+    "dates": [
+      "6.1.2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N909JE",
+      "G-1159B",
+      "1781",
+      "17-295",
+      "DOJ-OGR-00032166"
+    ]
+  },
+  "additional_notes": "The document is a passenger manifest for a flight on June 1, 2005, operated by Hyperion Air, Inc. The flight was from West Palm Beach, FL to Teterboro, NJ. The passengers included Jeffrey Epstein, Nadia Marcinkova, and Adriana Mucinska. The pilots were Dave Rodgers and Larry Visoski."
+}

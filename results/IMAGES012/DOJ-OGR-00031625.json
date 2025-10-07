@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": "1 of 3",
+    "document_number": "BST05040711",
+    "date": "4/16/2005",
+    "document_type": "Subpoena Results",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Results for Subpoena BST05040711\nStandard Results\nRequest 1\nType\tNumber\tResult\nList Name\t5618324117\tEpstein, Jeffrey\nList Address\t5618324117\t358 El Brillo Way Palm Bch 33480\nBilling Name\t5618324117\tJEFFREY EPSTEIN\nBilling Address\t5618324117\t358 EL BRILLO WAY PALM BCH FL 33480\nService Address\t5618324117\t358 EL BRILLO WAY PALM BCH\n-------- End Request --------\nfile://C:\\Program%20Files\\BellSouth%20DATA%20Team\\SubComV2\\resulttemp.html 07/26/17\nPage 8 of 104\nPublic Records Request No.: 17-295\n4/16/2005\nDOJ-OGR-00031625",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Results for Subpoena BST05040711",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Standard Results",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Request 1\nType\tNumber\tResult\nList Name\t5618324117\tEpstein, Jeffrey\nList Address\t5618324117\t358 El Brillo Way Palm Bch 33480\nBilling Name\t5618324117\tJEFFREY EPSTEIN\nBilling Address\t5618324117\t358 EL BRILLO WAY PALM BCH FL 33480\nService Address\t5618324117\t358 EL BRILLO WAY PALM BCH\n-------- End Request --------",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "file://C:\\Program%20Files\\BellSouth%20DATA%20Team\\SubComV2\\resulttemp.html 07/26/17\nPage 8 of 104\nPublic Records Request No.: 17-295\n4/16/2005\nDOJ-OGR-00031625",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "BellSouth"
+    ],
+    "locations": [
+      "Palm Beach",
+      "FL"
+    ],
+    "dates": [
+      "4/16/2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "BST05040711",
+      "5618324117",
+      "17-295",
+      "DOJ-OGR-00031625"
+    ]
+  },
+  "additional_notes": "The document appears to be a subpoena result from BellSouth, containing information related to Jeffrey Epstein. The document is page 1 of 3 and has a corresponding page number in a different document (Page 8 of 104)."
+}

@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": "001/016",
+    "document_number": "2005-028931",
+    "date": "May 5, 2005",
+    "document_type": "Facsimile Cover Sheet",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "05/05/2005 08:41 FAX 19732928680 T MOBILE LER 001/016 T-Mobile Get more from it Facsimile Cover Sheet To: Det Michelle Pagan From: Andy Dios (973) 292-8841 Date: May 5, 2005 Pages: 16 (including cover) Fax Number: (561) 838-5491 Voice Number: Subject: Subpoena Response 2005-028931 Message: MAY-05-2005 10:58 19732928680 P.01 07/26/17 Page 80 Public Records Request No.: 17-295 DOJ-OGR-00031601",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "T-Mobile Get more from it Facsimile Cover Sheet",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "To: Det Michelle Pagan From: Andy Dios (973) 292-8841 Date: May 5, 2005 Pages: 16 (including cover) Fax Number: (561) 838-5491 Voice Number: Subject: Subpoena Response 2005-028931",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "16",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Message:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "MAY-05-2005 10:58 19732928680 P.01",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 80 Public Records Request No.: 17-295 DOJ-OGR-00031601",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Det Michelle Pagan",
+      "Andy Dios"
+    ],
+    "organizations": [
+      "T-Mobile"
+    ],
+    "locations": [],
+    "dates": [
+      "May 5, 2005",
+      "05/05/2005",
+      "MAY-05-2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "2005-028931",
+      "17-295",
+      "DOJ-OGR-00031601",
+      "19732928680"
+    ]
+  },
+  "additional_notes": "The document is a fax cover sheet from T-Mobile, dated May 5, 2005. It contains a handwritten number '16' in the 'Pages' field. The document is part of a larger fax transmission, as indicated by the page number '001/016' and the presence of a 'Public Records Request No.' at the bottom."
+}

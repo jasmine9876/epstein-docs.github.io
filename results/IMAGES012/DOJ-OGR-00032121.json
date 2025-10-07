@@ -1,0 +1,75 @@
+{
+  "document_metadata": {
+    "page_number": "82",
+    "document_number": "17-295",
+    "date": "1-14-2004",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "JEGE, INC. PASSENGER MANIFEST Registration Number: N908JE Type: B-727-31 Pilots: Dave Rodgers, Larry Visoski Flight Engineer: Larry Morrison DATE: 1-14-2004 FROM TIST TO PBI Departure Time 9:44 AM Arrival Time 6:18 PM Trip Number 311 PASSENGERS 1. Jeffrey Epstein 2. Ghislaine Maxwell 3. Sarah Kellen 4. NADIA MARCINKOVA 5. ADRIANA FROM Identifier Defined City St. Thomas State or Country USVI TO Identifier Defined City WEST PALM BEACH State or Country FL Nautical Miles 975 Statute Miles 1121 Gallons 3869 Pounds 22996 AIRFRAME 33044.3 Flight Time 2+34 2.5 Altitude FL FL350 33046.8 20. Night 1.0 21. T/L 11 22. IMC 23. Approach 07/26/17 Page 82 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032121",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "JEGE, INC. PASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: N908JE Type: B-727-31 Pilots: Dave Rodgers, Larry Visoski Flight Engineer: Larry Morrison",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "1-14-2004 TIST PBI 9:44 AM 6:18 PM 311",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1. Jeffrey Epstein 2. Ghislaine Maxwell 3. Sarah Kellen 4. NADIA MARCINKOVA 5. ADRIANA",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "St. Thomas USVI WEST PALM BEACH FL 975 1121 3869 22996 33044.3 2+34 2.5 FL350 33046.8 1.0 11",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 82 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032121",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Ghislaine Maxwell",
+      "Sarah Kellen",
+      "Nadia Marcinkova",
+      "Adriana",
+      "Dave Rodgers",
+      "Larry Visoski",
+      "Larry Morrison"
+    ],
+    "organizations": [
+      "JEGE, INC."
+    ],
+    "locations": [
+      "St. Thomas",
+      "USVI",
+      "West Palm Beach",
+      "FL"
+    ],
+    "dates": [
+      "1-14-2004",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N908JE",
+      "17-295",
+      "DOJ-OGR-00032121",
+      "311"
+    ]
+  },
+  "additional_notes": "The document is a passenger manifest for a flight on January 14, 2004. It lists the passengers and crew members, as well as flight details such as departure and arrival times, and fuel consumption. The document appears to be a photocopy or scan of an original document."
+}

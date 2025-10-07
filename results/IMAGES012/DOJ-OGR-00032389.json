@@ -1,0 +1,87 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00032389",
+    "date": null,
+    "document_type": "Important Message Slips",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR: MR. EPSTEIN DATE: Darren TIME: 1:00 A.M. P.M. TELEPHONED CAME TO SEE YOU PLEASE CALL WILL CALL AGAIN RETURNED YOUR CALL RUSH SPECIAL ATTENTION MESSAGE: He said that he got a call from Byron SIGNED: IMPORTANT MESSAGE FOR: MR. EPSTEIN DATE: 7/6 TIME: 8:00 A.M. P.M. M: DARREN TELEPHONED CAME TO SEE YOU PLEASE CALL WILL CALL AGAIN RETURNED YOUR CALL RUSH SPECIAL ATTENTION MESSAGE: SIGNED: IMPORTANT MESSAGE FOR: JE DATE: 9/6 TIME: 1:30 A.M. P.M. M: OF: CAROLINE AMBROISE TELEPHONED CAME TO SEE YOU PLEASE CALL WILL CALL AGAIN RETURNED YOUR CALL RUSH SPECIAL ATTENTION MESSAGE: I need a raise I need (new) I don't have money can you have paid work for me? 07/26 SIGNED: Page 4076 IMPORTANT MESSAGE FOR: Sarah DATE: TIME: 8:10 A.M. P.M. M: OF: Johanna TELEPHONED CAME TO SEE YOU PLEASE CALL WILL CALL AGAIN RETURNED YOUR CALL RUSH SPECIAL ATTENTION MESSAGE: SIGNED: Public Records Request No.: 17-295",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "MR. EPSTEIN\nDarren\n1:00\nHe said that he got a call from Byron",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "MR. EPSTEIN\n7/6\nDARREN\n8:00",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "JE\n9/6\n1:30\nCAROLINE AMBROISE\nI need a raise\nI need (new) I don't have money\ncan you have paid work for me?\n07/26",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Sarah\n8:10\nJohanna",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032389",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "MR. EPSTEIN",
+      "Darren",
+      "DARREN",
+      "JE",
+      "CAROLINE AMBROISE",
+      "Sarah",
+      "Johanna",
+      "Byron"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "7/6",
+      "9/6",
+      "07/26"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032389"
+    ]
+  },
+  "additional_notes": "The document appears to be a set of 'Important Message' slips, likely from a office or business setting. The slips contain handwritten notes with names, dates, times, and messages. The document is likely related to the activities or communications of the individuals mentioned, including MR. EPSTEIN."
+}

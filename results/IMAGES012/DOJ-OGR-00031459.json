@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "07/26/17 //mvspace-256.vo.llnwd.net/608148/55/20/819700256_1.jpg Public Records Request No.: 17-295 6/13/20 DOJ-OGR-00031459",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "07/26/17",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "//mvspace-256.vo.llnwd.net/608148/55/20/819700256_1.jpg",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "6/13/20",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00031459",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "07/26/17",
+      "6/13/20"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00031459"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned image with a black rectangle at the top, possibly containing an image or text that is not legible. The rest of the page contains metadata and a public records request number."
+}

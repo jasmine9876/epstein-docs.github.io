@@ -1,0 +1,55 @@
+{
+  "document_metadata": {
+    "page_number": "8",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Public Records Request",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Address: P O BOX City/State/Zip: HALEIV Birth Date: 05/25/19 Height: 508 Eye Color: HAZ County: O Issue Date: 01/01/18 Expire Date: 01/01/18 Class: 3 Endorsements: . Sarah Kellen 07/26/17 Page 8 of 81 Public Records Request No.: 17-295 DOJ-OGR-00031100",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Address: P O BOX City/State/Zip: HALEIV Birth Date: 05/25/19 Height: 508 Eye Color: HAZ County: O Issue Date: 01/01/18 Expire Date: 01/01/18 Class: 3 Endorsements: .",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Sarah Kellen",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 8 of 81 Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00031100",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Sarah Kellen"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [
+      "Haleiv"
+    ],
+    "dates": [
+      "05/25/19",
+      "01/01/18",
+      "01/01/18",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00031100"
+    ]
+  },
+  "additional_notes": "The document appears to be a photocopy of a driver's license or identification card with some information redacted or obscured. The image quality is somewhat degraded."
+}

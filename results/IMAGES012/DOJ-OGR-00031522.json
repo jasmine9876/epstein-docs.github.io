@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Federal Indictment",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "VI. [Redacted] Federal Indictment 07/26/17 Page 1 Public Records Request No.: 17-295 DOJ-OGR-00031522",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "VI.",
+      "position": "top"
+    },
+    {
+      "type": "other",
+      "content": "[Redacted]",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Federal Indictment",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 1",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00031522",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00031522"
+    ]
+  },
+  "additional_notes": "The document contains a redaction. The document appears to be a page from a larger document related to a federal indictment."
+}

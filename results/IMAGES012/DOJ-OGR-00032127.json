@@ -1,0 +1,81 @@
+{
+  "document_metadata": {
+    "page_number": "88",
+    "document_number": "17-295",
+    "date": "2-7-2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "JEGE, INC. PASSENGER MANIFEST Registration Number: N908JE Type: B-727-31 Pilots: Dave Rodgers, Larry Visoaki Flight Engineer: Larry Morrison DATE: 2-7-2005 FROM PBT TO JFK Departure Time 5:39 AM Arrival Time 7:54 AM Trip Number 319 PASSENGERS 1. Jeffrey Epstein 2. NADIA MARCINKOWSKI 3. ADRIANA 4. DAVID MULLER 5. JANSEN 6. SARAH KELLEN 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. FROM Identifier Defined City WEST PALM BCH State or Country FL TO Identifier Defined City NEW YORK State or Country N.Y Nautical Miles Statute Miles Gallons Pounds 19868 AIRFRAME 33060.8 Flight Time 2+15 28 Altitude FL FL370 33063.0 20. Night 1.5 21. T/L 11 22. IMC 23. Approach 24. 25. 26. 07/26/17 Page 88 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032127",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "JEGE, INC. PASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: N908JE Type: B-727-31 Pilots: Dave Rodgers, Larry Visoaki Flight Engineer: Larry Morrison",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "2-7-2005 PBT JFK 5:39 AM 7:54 AM 319",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGERS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1. Jeffrey Epstein 2. NADIA MARCINKOWSKI 3. ADRIANA 4. DAVID MULLER 5. JANSEN 6. SARAH KELLEN",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "WEST PALM BCH FL NEW YORK N.Y 19868 33060.8 2+15 28 FL370 33063.0 1.5 11",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 88 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032127",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Nadia Marcinkowski",
+      "Adriana",
+      "David Muller",
+      "Jansen",
+      "Sarah Kellen",
+      "Dave Rodgers",
+      "Larry Visoaki",
+      "Larry Morrison"
+    ],
+    "organizations": [
+      "JEGE, INC."
+    ],
+    "locations": [
+      "West Palm Beach, FL",
+      "New York, N.Y",
+      "PBT",
+      "JFK"
+    ],
+    "dates": [
+      "2-7-2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N908JE",
+      "319",
+      "17-295",
+      "DOJ-OGR-00032127"
+    ]
+  },
+  "additional_notes": "The document is a passenger manifest for a flight on February 7, 2005, from West Palm Beach, FL to New York, N.Y. The document contains handwritten information about the passengers, flight details, and crew members."
+}

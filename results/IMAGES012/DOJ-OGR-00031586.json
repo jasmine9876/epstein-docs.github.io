@@ -1,0 +1,77 @@
+{
+  "document_metadata": {
+    "page_number": "6",
+    "document_number": "17-295",
+    "date": "Feb 05, 2005",
+    "document_type": "Telephone Bill",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Customer Service Number 1-800-937-8997 Feb 05, 2005 Itemized Details For: Account Number: [REDACTED] Page 6 of 33 LOCAL AIRTIME, LONG DISTANCE and INTERNATIONAL CHARGES - (Continued) Date Call Destination Time Number Called Call Type Minutes Airtime Charges Toll Charges Total 1/05/05 1/06/05 1/06/05 1/06/05 1/06/05 1/09/05 1/16/05 1/11/05 1/12/05 1/12/05 1/12/05 1/12/05 1/12/05 1/15/05 1/17/05 1/31/05 Incoming 3:08 PM 561-317-3375 (A) 1 $ - $ - $ - 1/31/05 W Palm Bch, FL 3:16 PM 561-602-5720 1 $ - $ - $ - 1/31/05 W Palm Bch, FL 3:22 PM 561-383-6810 1 $ - $ - $ - 1/31/05 W Palm Bch, FL 3:30 PM 561-383-6810 1 $ - $ - $ - 1/31/05 W Palm Bch, FL 4:02 PM 561-383-6810 1 $ - $ - $ - 1/31/05 W Palm Bch, FL 4:07 PM 561-383-6810 1 $ - $ - $ - 1/31/05 Delray Bch, FL 4:14 PM 561-330-0402 2 $ - $ - $ - 1/31/05 W Palm Bch, FL 10:22 PM 561-317-3375 (F) 1 $ - $ - $ - 1/31/05 Incoming 10:23 PM 561-317-3375 (F) 1 $ - $ - $ - 1/31/05 W Palm Bch, FL 11:25 PM 561-719-1519 (A) 2 $ - $ - $ - 1/31/05 Incoming 11:26 PM 561-719-1519 (A) 1 $ - $ - $ - 2/01/05 Incoming 5:08 PM 561-602-5722 17 $ - $ - $ - 2/01/05 W Palm Bch, FL 5:24 PM 561-602-5722 1 $ - $ - $ - 2/01/05 W Palm Bch, FL 5:24 PM 561-622-5722 1 $ - $ - $ - 2/01/05 W Palm Bch, FL 5:25 PM 561-602-5722 1 $ - $ - $ - 2/01/05 W Palm Bch, FL 5:28 PM 561-602-5722 1 $ - $ - $ - 2/01/05 Incoming 8:54 PM 561-317-3375 (F) 1 $ - $ - $ - 2/01/05 W Palm Bch, FL 10:05 PM 561-602-5720 1 $ - $ - $ - 2/02/05 W Palm Bch, FL 10:28 AM 561-317-3375 (F) 1 $ - $ - $ - Call Type: (A) Call Waiting (B) Call Forward (C) Conference Call (E) Data/Fax (F) Mobile2Mobile (G) Voicemail (H) Free Calls (I) WATS Call 07/26/17 Page 65 Public Records Request No.: 17-295 DOJ-OGR-00031586",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Customer Service Number 1-800-937-8997 Feb 05, 2005 Itemized Details For: Account Number: [REDACTED] Page 6 of 33",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "LOCAL AIRTIME, LONG DISTANCE and INTERNATIONAL CHARGES - (Continued)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Date Call Destination Time Number Called Call Type Minutes Airtime Charges Toll Charges Total",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "1/31/05 Incoming 3:08 PM 561-317-3375 (A) 1 $ - $ - $ -",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "Call Type: (A) Call Waiting (B) Call Forward (C) Conference Call (E) Data/Fax (F) Mobile2Mobile (G) Voicemail (H) Free Calls (I) WATS Call",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 65 Public Records Request No.: 17-295 DOJ-OGR-00031586",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [
+      "W Palm Bch, FL",
+      "Delray Bch, FL"
+    ],
+    "dates": [
+      "Feb 05, 2005",
+      "1/05/05",
+      "1/06/05",
+      "1/09/05",
+      "1/11/05",
+      "1/12/05",
+      "1/15/05",
+      "1/17/05",
+      "1/31/05",
+      "2/01/05",
+      "2/02/05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "1-800-937-8997",
+      "561-317-3375",
+      "561-602-5720",
+      "561-383-6810",
+      "561-330-0402",
+      "561-719-1519",
+      "561-602-5722",
+      "17-295",
+      "DOJ-OGR-00031586"
+    ]
+  },
+  "additional_notes": "The document is a telephone bill with itemized details for a specific account. The account number is redacted. The document contains a list of calls made, including date, time, destination, and charges. The document also includes a key to call types."
+}

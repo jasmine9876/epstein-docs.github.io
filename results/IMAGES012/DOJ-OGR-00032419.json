@@ -1,0 +1,77 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00032419",
+    "date": "01/25/05",
+    "document_type": "Important Message",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR Jeffry DATE 1/25/05 TIME 3:40 P.M. M George son OF PHONE/ MOBILE 888224 5104 TELEPHONED CAME TO SEE YOU PLEASE CALL WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE He's regarding the letter you have received about invest in Texaco Number to is 3108 SIGNED thank you IMPORTANT MESSAGE FOR Jeffry DATE 01/25/05 TIME 2:55 P.M. M Ghislaine OF PHONE/ MOBILE her cell phone TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Please call back SIGNED Eric K IMPORTANT MESSAGE FOR DATE TIME A.M. P.M. M OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Li 30 SIGNED 07/26/17 IMPORTANT MESSAGE FOR Jeffry DATE 1/25/05 TIME 12:45 P.M. M OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE called again about working today SIGNED Public Records Request No.: 17-295 DOJ-OGR-00032419",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffry 1/25/05 3:40 P.M. George son 888224 5104 He's regarding the letter you have received about invest in Texaco Number to is 3108 thank you",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffry 01/25/05 2:55 P.M. Ghislaine her cell phone Please call back Eric K",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Li 30",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffry 1/25/05 12:45 P.M. called again about working today Public Records Request No.: 17-295",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffry",
+      "George son",
+      "Ghislaine",
+      "Eric K"
+    ],
+    "organizations": [],
+    "locations": [
+      "Texaco"
+    ],
+    "dates": [
+      "1/25/05",
+      "01/25/05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "888224 5104",
+      "3108",
+      "17-295",
+      "DOJ-OGR-00032419"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned copy of a notepad with four 'Important Message' forms. The forms contain handwritten notes with various messages and phone numbers. The document quality is good, but there are some minor signs of wear and tear around the edges."
+}

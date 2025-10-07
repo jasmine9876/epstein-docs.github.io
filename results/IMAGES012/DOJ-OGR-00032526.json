@@ -1,0 +1,83 @@
+{
+  "document_metadata": {
+    "page_number": "null",
+    "document_number": "DOJ-OGR-00032526",
+    "date": "4/8/05, 4/10/03",
+    "document_type": "Message slips",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR Jeffrey DATE 4/8/05 TIME 02:10 P.M. M Christine OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 1184 IMPORTANT MESSAGE FOR Jeffrey DATE 4/8/05 TIME 2:00 P.M. M OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 1184 IMPORTANT MESSAGE FOR J.E DATE 4/10/03 TIME 1:20 P.M. M Dana OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE She went running and back to the gym SIGNED 07/26/17 Page 2 113 1184 IMPORTANT MESSAGE FOR J.E. DATE 4/10/05 TIME M Dana OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE She went running SIGNED Public Records Request No.: 17-295 1184 DOJ-OGR-00032526",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffrey 4/8/05 02:10 P.M. Christine",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "FOR DATE TIME M OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffrey 4/8/05 2:00 P.M.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "FOR DATE TIME M OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "J.E 4/10/03 1:20 P.M. Dana She went running and back to the gym 07/26/17",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "FOR DATE TIME M OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "J.E. 4/10/05 Dana She went running Public Records Request No.: 17-295",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "1184",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey",
+      "Christine",
+      "J.E",
+      "Dana"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [
+      "gym"
+    ],
+    "dates": [
+      "4/8/05",
+      "4/10/03",
+      "4/10/05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032526"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned copy of a notebook page containing four message slips. The handwriting is mostly legible, but some parts are difficult to read due to the quality of the scan. There are no visible redactions or damage to the document."
+}

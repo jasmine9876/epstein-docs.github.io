@@ -1,0 +1,55 @@
+{
+  "document_metadata": {
+    "page_number": "45",
+    "document_number": "17-295",
+    "date": "2/07/05",
+    "document_type": "Police Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Call Number: 050380167 SI Call Type: 143 CAD File Check Police Entry Day/Tm: 2/07/05 14:44:49 REVIEW 143 CAD File Check Police Caller Name: Last First Mid See Caller: Address...: Dr Phone#: Mod City/State: Source: SI Location....: 358 Dr EL BRILLO WY Mod City......: PALM BEACH Block#: 300 Loc. I.D.: Mapr.: 10S N A R R A T I V E 001 update cad file 14:47:03 000 00:00:00 000 00:00:00 000 00:00:00 000 00:00:00 1 PDC05A F7=Scroll Back F8=Scroll Forward F12=Return No Update 07/26/17 Page 45 of 135 PPublic Records Request No.: 17-295 DOJ-OGR-00031218",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Call Number: 050380167 SI Call Type: 143 CAD File Check Police Entry Day/Tm: 2/07/05 14:44:49 REVIEW 143 CAD File Check Police Caller Name: Last First Mid See Caller: Address...: Dr Phone#: Mod City/State: Source: SI Location....: 358 Dr EL BRILLO WY Mod City......: PALM BEACH Block#: 300 Loc. I.D.: Mapr.: 10S",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "N A R R A T I V E 001 update cad file 14:47:03 000 00:00:00 000 00:00:00 000 00:00:00 000 00:00:00 1 PDC05A",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "F7=Scroll Back F8=Scroll Forward F12=Return No Update",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 45 of 135 PPublic Records Request No.: 17-295 DOJ-OGR-00031218",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Last First"
+    ],
+    "organizations": [
+      "Police"
+    ],
+    "locations": [
+      "PALM BEACH",
+      "358 Dr EL BRILLO WY"
+    ],
+    "dates": [
+      "2/07/05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "050380167",
+      "17-295",
+      "DOJ-OGR-00031218"
+    ]
+  },
+  "additional_notes": "The document appears to be a police report with a narrative section. The quality is clear, and there are no visible redactions or damage."
+}

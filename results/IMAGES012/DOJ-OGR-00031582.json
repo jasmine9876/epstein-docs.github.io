@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "5 of 21",
+    "document_number": "17-295",
+    "date": "Apr 05, 2005",
+    "document_type": "Customer Service Details",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Customer Service Number 1-800-937-8997 Apr 05, 2005 Itemized Details For: Account Number: [redacted] Page 5 of 21 LOCAL AIRTIME, LONG DISTANCE and INTERNATIONAL CHARGES - (Continued) Date Call Destination Time Number Called Call Type Minutes Airtime Charges Toll Charges Total 4/01/05 W Palm Bch, FL 3:27 PM 561-333-0180 1 $ - $ - $ - 4/01/05 W Palm Bch, FL 3:59 PM 561-308-2082 1 $ - $ - $ - 4/01/05 W Palm Bch, FL 4:00 PM 561-333-0180 1 $ - $ - $ - Total Zero VM calls 21 $ - $ - $ - SUBTOTAL 41 $ - $ - $ - Total of All Usage Charges $ - Call Type (A) Call Waiting (B) Call Forward (C) Conference Call (E) Data/Fax (F) Mobile2Mobile (G) Voicemail (H) Free Calls (K) WPS Call 07/26/17 Page 61 Public Records Request No.: 17-295 DOJ-OGR-00031582",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Customer Service Number 1-800-937-8997 Apr 05, 2005 Itemized Details For: Account Number: [redacted] Page 5 of 21",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "LOCAL AIRTIME, LONG DISTANCE and INTERNATIONAL CHARGES - (Continued)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Date Call Destination Time Number Called Call Type Minutes Airtime Charges Toll Charges Total",
+      "position": "table header"
+    },
+    {
+      "type": "printed",
+      "content": "4/01/05 W Palm Bch, FL 3:27 PM 561-333-0180 1 $ - $ - $ - 4/01/05 W Palm Bch, FL 3:59 PM 561-308-2082 1 $ - $ - $ - 4/01/05 W Palm Bch, FL 4:00 PM 561-333-0180 1 $ - $ - $ - Total Zero VM calls 21 $ - $ - $ - SUBTOTAL 41 $ - $ - $ - Total of All Usage Charges $ -",
+      "position": "table body"
+    },
+    {
+      "type": "printed",
+      "content": "Call Type (A) Call Waiting (B) Call Forward (C) Conference Call (E) Data/Fax (F) Mobile2Mobile (G) Voicemail (H) Free Calls (K) WPS Call 07/26/17 Page 61 Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00031582",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [
+      "W Palm Bch, FL"
+    ],
+    "dates": [
+      "Apr 05, 2005",
+      "4/01/05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "1-800-937-8997",
+      "561-333-0180",
+      "561-308-2082",
+      "17-295",
+      "DOJ-OGR-00031582"
+    ]
+  },
+  "additional_notes": "The document appears to be a customer service details page from a telecommunications company. The account number is redacted. The document is part of a larger record set, as indicated by the page number and public records request number."
+}

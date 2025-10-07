@@ -1,0 +1,77 @@
+{
+  "document_metadata": {
+    "page_number": "27",
+    "document_number": null,
+    "date": null,
+    "document_type": "news article",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Albuquerque Tribune Online Page 27 of 28 Bangladesh Businessman $5,000 HILLPAC, Washington, D.C. Political Action Committee $5,000 L&M Assets Management, El Paso, Texas Real estate $5,000 Science Applications International Corp., San Diego, Calif. Engineering Consultants $5,000 Robert Rivera, Albuquerque Attorney Source: Campaign-finance reports filed with the New Mexico Secretary of State Compiled by Gilbert Gallegos Print this SEND THIS PAGE TO A FRIEND! Enter an e-mail address: Enter your name: Send! http://abqtrib.com/archives/news02/120702pages close shtml PPublic Records Request No.: 17-2967/2006 DOJ-OGR-00031300",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Albuquerque Tribune Online",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Page 27 of 28",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Bangladesh Businessman $5,000 HILLPAC, Washington, D.C. Political Action Committee $5,000 L&M Assets Management, El Paso, Texas Real estate $5,000 Science Applications International Corp., San Diego, Calif. Engineering Consultants $5,000 Robert Rivera, Albuquerque Attorney",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Source: Campaign-finance reports filed with the New Mexico Secretary of State Compiled by Gilbert Gallegos",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Print this",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SEND THIS PAGE TO A FRIEND! Enter an e-mail address: Enter your name: Send!",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "http://abqtrib.com/archives/news02/120702pages close shtml PPublic Records Request No.: 17-2967/2006",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00031300",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Gilbert Gallegos",
+      "Robert Rivera"
+    ],
+    "organizations": [
+      "HILLPAC",
+      "L&M Assets Management",
+      "Science Applications International Corp."
+    ],
+    "locations": [
+      "Washington, D.C.",
+      "El Paso, Texas",
+      "San Diego, Calif.",
+      "Albuquerque",
+      "New Mexico"
+    ],
+    "dates": [],
+    "reference_numbers": [
+      "17-2967/2006",
+      "DOJ-OGR-00031300"
+    ]
+  },
+  "additional_notes": "The document appears to be a news article from the Albuquerque Tribune Online, discussing campaign finance reports. The page is part of a larger document, as indicated by the 'Page 27 of 28' header."
+}

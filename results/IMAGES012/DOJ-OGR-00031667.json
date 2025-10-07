@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "50",
+    "document_number": "17-295",
+    "date": "01/06/2008",
+    "document_type": "letter",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "01/06/2008 22:27 5615404420 X PAGE 82 Sincerely, Aileen Josephs, Esq. cc. Ms. La Tosha Lowe Mr. Alexader Acosta , United States Attorney 305 530 6444 Mr. Rolando Garcia 820 8711 Enclosure FOIA filed 8/2006, response from the State 07/26/17 Page 50 of 104 Public Records Request No.: 17-295 DOJ-OGR-00031667",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "01/06/2008 22:27 5615404420 X PAGE 82",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Sincerely,",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Aileen Josephs",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Aileen Josephs, Esq. cc. Ms. La Tosha Lowe Mr. Alexader Acosta , United States Attorney 305 530 6444 Mr. Rolando Garcia 820 8711 Enclosure FOIA filed 8/2006, response from the State",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 50 of 104 Public Records Request No.: 17-295 DOJ-OGR-00031667",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Aileen Josephs",
+      "La Tosha Lowe",
+      "Alexader Acosta",
+      "Rolando Garcia"
+    ],
+    "organizations": [
+      "United States Attorney"
+    ],
+    "locations": [],
+    "dates": [
+      "01/06/2008",
+      "8/2006",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00031667",
+      "5615404420",
+      "305 530 6444",
+      "820 8711"
+    ]
+  },
+  "additional_notes": "The document appears to be a letter with a signature and a list of recipients. The document has a header with a date and page number, and a footer with a page number and public records request number."
+}

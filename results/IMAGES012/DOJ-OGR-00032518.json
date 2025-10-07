@@ -1,0 +1,75 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR J.E. DATE 2/24/05 TIME 4:18 P.M. M Katia OF PHONE/MOBILE 011.551/83834951 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Please Call her Tomorow is her birthday SIGNED J. IMPORTANT MESSAGE FOR J.E. DATE 2/22 TIME 12:45 P.M. M Shana OF PHONE/MOBILE (561) 689-4717 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Please Call her. SIGNED J. IMPORTANT MESSAGE FOR Jeffry DATE 2/25/05 TIME 01:10 P.M. M Dave Bois OF PHONE/MOBILE 914 552 4400 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Please call him back SIGNED IMPORTANT MESSAGE FOR M. Epstein DATE 2/24/05 TIME 11:19 P.M. M Katia OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE She needs her telephone number. Left her # 917-678-2772 SIGNED X Public Records Request No.: 17-295 DOJ-OGR-00032518",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR J.E. DATE 2/24/05 TIME 4:18 P.M. M Katia OF PHONE/MOBILE 011.551/83834951 MESSAGE Please Call her Tomorow is her birthday SIGNED J.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR J.E. DATE 2/22 TIME 12:45 P.M. M Shana OF PHONE/MOBILE (561) 689-4717 MESSAGE Please Call her. SIGNED J.",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR Jeffry DATE 2/25/05 TIME 01:10 P.M. M Dave Bois OF PHONE/MOBILE 914 552 4400 MESSAGE Please call him back",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR M. Epstein DATE 2/24/05 TIME 11:19 P.M. M Katia OF PHONE/MOBILE MESSAGE She needs her telephone number. Left her # 917-678-2772 SIGNED X Public Records Request No.: 17-295",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032518",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "J.E.",
+      "Katia",
+      "Shana",
+      "Jeffry",
+      "Dave Bois",
+      "M. Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "2/24/05",
+      "2/22",
+      "2/25/05",
+      "2/24/05"
+    ],
+    "reference_numbers": [
+      "011.551/83834951",
+      "(561) 689-4717",
+      "914 552 4400",
+      "917-678-2772",
+      "17-295",
+      "DOJ-OGR-00032518"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned copy of four 'Important Message' forms, likely from a professional or business setting. The forms contain handwritten notes with phone messages and contact information. The document quality is generally good, with some minor variations in handwriting legibility."
+}

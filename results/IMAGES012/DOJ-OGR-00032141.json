@@ -1,0 +1,90 @@
+{
+  "document_metadata": {
+    "page_number": "102",
+    "document_number": "17-295",
+    "date": "10-8-2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "JEGE, INC. PASSENGER MANIFEST Registration Number: N908JE Type: B-727-31 Pilots: Dave Rodgers, Flight Engineer: Larry Morrison GEORGE GEYER DATE: 10_8_2005 FROM LCQ TO LCQ Departure Time 11:02 AM Arrival Time 12:32 PM Trip Number 343 PASSENGERS 1. JERRY FROM Identifier Defined City LAKE CITY State or Country FL TO Identifier Defined City LAKE CITY State or Country FL Nautical Miles 0 Statute Miles 0 Gallons Pounds 13703 AIRFRAME 33117.5 Flight Time 1+30 1.5 Altitude FL 410 33119.0 07/26/17 Page 102 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032141",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "JEGE, INC. PASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: N908JE Type: B-727-31 Pilots: Dave Rodgers, Flight Engineer: Larry Morrison",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "GEORGE GEYER",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "DATE: FROM TO Departure Time Arrival Time Trip Number",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "10_8_2005 LCQ LCQ 11:02 AM 12:32 PM 343",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGERS",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1. JERRY",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FROM Identifier Defined City State or Country TO Identifier Defined City State or Country Nautical Miles Statute Miles Gallons Pounds AIRFRAME Flight Time Altitude FL",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "LAKE CITY FL LAKE CITY FL 0 0 13703 33117.5 1+30 1.5 410 33119.0",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 102 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032141",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Dave Rodgers",
+      "Larry Morrison",
+      "GEORGE GEYER",
+      "JERRY"
+    ],
+    "organizations": [
+      "JEGE, INC."
+    ],
+    "locations": [
+      "LAKE CITY",
+      "LCQ",
+      "FL"
+    ],
+    "dates": [
+      "10-8-2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "N908JE",
+      "17-295",
+      "DOJ-OGR-00032141",
+      "343"
+    ]
+  },
+  "additional_notes": "The document is a passenger manifest with handwritten entries. The passenger list is mostly redacted, with only one name visible: JERRY. The flight details and crew information are also filled in."
+}

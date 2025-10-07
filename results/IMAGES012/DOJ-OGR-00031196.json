@@ -1,0 +1,72 @@
+{
+  "document_metadata": {
+    "page_number": "1 of 2",
+    "document_number": null,
+    "date": "01/25/2001",
+    "document_type": "FAA Registry N-Number Inquiry Results",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "N-Number Inquiry Results\nFAA Registry\nN-Number Inquiry Results\nN908JE is Assigned\nAssigned/Registered Aircraft\nAircraft Description\nSerial Number 20115\nManufacturer Name BOEING\nModel 727-31\nType Aircraft Fixed Wing Multi-Engine\nPending Number Change None\nDate Change Authorized None\nMFR Year 1969\nType Certificate Issue Date 01/25/2001\nStatus Valid\nType Engine Turbo-Jet\nDealer No\nMode S Code 53106661\nFractional Owner NO\nRegistered Owner\nName JEGE INC\nStreet 103 FOULK RD STE 202\nCity WILMINGTON State DELAWARE Zip Code 19803-3742\nCounty NEW CASTLE\nCountry UNITED STATES\nAirworthiness\nEngine Manufacturer P&W Classification Standard\nEngine Model JT8D SERIES Category Transport\nA/W Date 07/23/1990\nOther Owner Names\nhttp://registry.faa.gov/aircraftinquiry/NNumSQL.asp?NNumbertxt=908JE&cmdFind.x=11... 1/3/2006\nPage 23 of 135 Public Records Request No.: 17-295\nDOJ-OGR-00031196",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "N-Number Inquiry Results\nFAA Registry\nN-Number Inquiry Results\nN908JE is Assigned\nAssigned/Registered Aircraft\nAircraft Description",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Serial Number 20115\nManufacturer Name BOEING\nModel 727-31\nType Aircraft Fixed Wing Multi-Engine\nPending Number Change None\nDate Change Authorized None\nMFR Year 1969\nType Certificate Issue Date 01/25/2001\nStatus Valid\nType Engine Turbo-Jet\nDealer No\nMode S Code 53106661\nFractional Owner NO",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Registered Owner\nName JEGE INC\nStreet 103 FOULK RD STE 202\nCity WILMINGTON State DELAWARE Zip Code 19803-3742\nCounty NEW CASTLE\nCountry UNITED STATES",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Airworthiness\nEngine Manufacturer P&W Classification Standard\nEngine Model JT8D SERIES Category Transport\nA/W Date 07/23/1990",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Other Owner Names",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "http://registry.faa.gov/aircraftinquiry/NNumSQL.asp?NNumbertxt=908JE&cmdFind.x=11... 1/3/2006\nPage 23 of 135 Public Records Request No.: 17-295\nDOJ-OGR-00031196",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "BOEING",
+      "JEGE INC",
+      "P&W",
+      "FAA"
+    ],
+    "locations": [
+      "WILMINGTON",
+      "DELAWARE",
+      "NEW CASTLE",
+      "UNITED STATES"
+    ],
+    "dates": [
+      "01/25/2001",
+      "07/23/1990",
+      "1/3/2006",
+      "1969"
+    ],
+    "reference_numbers": [
+      "N908JE",
+      "20115",
+      "53106661",
+      "17-295",
+      "DOJ-OGR-00031196"
+    ]
+  },
+  "additional_notes": "The document appears to be a printout from the FAA Registry, providing details about an aircraft registered under the number N908JE. The document is page 1 of 2 and is part of a larger set of public records (Page 23 of 135)."
+}

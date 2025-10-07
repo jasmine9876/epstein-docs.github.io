@@ -1,0 +1,89 @@
+{
+  "document_metadata": {
+    "page_number": "13",
+    "document_number": "5614788553",
+    "date": "05/20/2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "05/20/2005 13:00 5614788553 JEGE OR HYPERION AIR PAGE 13 HYPERION AIR, INC. PASSENGER MANIFEST Registration Number: N909JE Type: G-1159B Pilots: Dave Rodgers BILL HAMMOND DATE: 5-19-2005 FROM TEB TO PBI Departure Time 7:51 AM PM Arrival Time 10:12 AM PM Trip Number 1777 PASSENGERS 1. Jeffrey Epstein 2. Sarah Kellen 3. ADRIANA MUCINSKA FROM Identifier Defined City TETERBORO State or Country NJ TO Identifier Defined City WEST PALM BEACH State or Country FL Nautical Miles Statute Miles Gallons 1600 Pounds 9782 AIRFRAME 9762.0 Flight Time 2 +20 2.3 Altitude FL 430 9764.3 TAKE-OFF POWER Night 8 Flex Take-Off 2.15 T/L 1 Min Take-Off IMC Condition Approach COMMENTS 07/26/17 Page 124 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032163",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "HYPERION AIR, INC. PASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: N909JE Type: G-1159B Pilots: Dave Rodgers",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "BILL HAMMOND",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "5-19-2005 TEB PBI 7:51 10:12 1777",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGERS",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "1. Jeffrey Epstein 2. Sarah Kellen 3. ADRIANA MUCINSKA",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "TETERBORO NJ WEST PALM BEACH FL 1600 9782 9762.0 2 +20 2.3 430 9764.3 8 2.15 1",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "COMMENTS",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 124 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032163",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Sarah Kellen",
+      "ADRIANA MUCINSKA",
+      "Dave Rodgers",
+      "BILL HAMMOND"
+    ],
+    "organizations": [
+      "HYPERION AIR, INC."
+    ],
+    "locations": [
+      "TETERBORO",
+      "NJ",
+      "WEST PALM BEACH",
+      "FL",
+      "TEB",
+      "PBI"
+    ],
+    "dates": [
+      "05/20/2005",
+      "5-19-2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "5614788553",
+      "17-295",
+      "DOJ-OGR-00032163"
+    ]
+  },
+  "additional_notes": "The document is a passenger manifest for a flight on May 19, 2005, operated by Hyperion Air, Inc. The manifest lists three passengers: Jeffrey Epstein, Sarah Kellen, and Adriana Mucinska. The flight departed from Teterboro, NJ, and arrived at West Palm Beach, FL."
+}

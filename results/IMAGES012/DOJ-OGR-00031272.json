@@ -1,0 +1,78 @@
+{
+  "document_metadata": {
+    "page_number": "8",
+    "document_number": "DOJ-OGR-00031272",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "www.myspace.com/takingba-'microsoft Page 8 of 12 Ciedus McTavern 8/29/2005 3:35:00 AM i love you Leah Jean the DANCING MACHINE 8/28/2005 4:38:00 PM fuck this city in your mouth 8/21/2005 7:06:00 PM <333 preston77 8/11/2005 9:04:00 AM i was just on the phone with you. crrrazy. http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendID=173833 Request No.: 1/14/2005 DOJ-OGR-00031272",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "www.myspace.com/takingba-'microsoft",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Page 8 of 12",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Ciedus McTavern 8/29/2005 3:35:00 AM i love you",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Leah Jean the DANCING MACHINE 8/28/2005 4:38:00 PM",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "fuck this city in your mouth 8/21/2005 7:06:00 PM <333",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "preston77 8/11/2005 9:04:00 AM i was just on the phone with you. crrrazy.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendID=173833 Request No.: 1/14/2005",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00031272",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ciedus McTavern",
+      "Leah Jean",
+      "preston77"
+    ],
+    "organizations": [
+      "Microsoft",
+      "Myspace",
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "8/29/2005",
+      "8/28/2005",
+      "8/21/2005",
+      "8/11/2005",
+      "1/14/2005"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00031272",
+      "173833"
+    ]
+  },
+  "additional_notes": "The document appears to be a printout of a Myspace page, containing user profiles and comments. The text is mostly printed, with some URLs and dates. The document has a header and footer with page numbers and a document ID."
+}

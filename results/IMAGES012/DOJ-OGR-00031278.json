@@ -1,0 +1,83 @@
+{
+  "document_metadata": {
+    "page_number": "5",
+    "document_number": null,
+    "date": null,
+    "document_type": "news article",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Albuquerque Tribune Online Page 5 of 28 9. Cap II: $50,000 The Albuquerque real estate company is owned by James Peterson of Peterson Properties Real Estate Services Inc. Cap II leases properties to companies such as Walgreens Drug Stores Inc. 10. Jeffrey E. Epstein: $50,000 The New York City financier, who owns a ranch near Stanley, supported Richardson's campaign in New Mexico. Epstein heads J. Epstein & Co., a Manhattan money-management company. He built a mansion on the 100,000-acre Zorro Ranch he bought from former Gov. Bruce King's family in 1993. BREAKDOWN: TOP DONORS Here is a list of individuals, companies and political organizations that donated at least $50,000 to Democratic Gov.-elect Bill Richardson's campaign: $345,000 Democratic Governors Association, Washington, D.C. Political Action Committee $300,000 AFSCME, Washington, D.C. Labor committee $289,315 New Mexicans for Bill Richardson, Santa Fe Congressional committee $100,000 CWA New Mexico State PAC, Albuquerque Political Action Committee $100,000 Downs at Albuquerque, Albuquerque Horse racing $100,000 Jerry Perenchio, Los Angeles, Calif., President, Univision. $100,000 The Peters Corporation, http://abqtrib.com/archives/news02/120702_Page_05_donate.shtml Public Records Request No.: 17-2957/2006 DOJ-OGR-00031278",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Albuquerque Tribune Online Page 5 of 28",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "9. Cap II: $50,000 The Albuquerque real estate company is owned by James Peterson of Peterson Properties Real Estate Services Inc. Cap II leases properties to companies such as Walgreens Drug Stores Inc.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "10. Jeffrey E. Epstein: $50,000 The New York City financier, who owns a ranch near Stanley, supported Richardson's campaign in New Mexico. Epstein heads J. Epstein & Co., a Manhattan money-management company. He built a mansion on the 100,000-acre Zorro Ranch he bought from former Gov. Bruce King's family in 1993.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "BREAKDOWN: TOP DONORS Here is a list of individuals, companies and political organizations that donated at least $50,000 to Democratic Gov.-elect Bill Richardson's campaign:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "$345,000 Democratic Governors Association, Washington, D.C. Political Action Committee $300,000 AFSCME, Washington, D.C. Labor committee $289,315 New Mexicans for Bill Richardson, Santa Fe Congressional committee $100,000 CWA New Mexico State PAC, Albuquerque Political Action Committee $100,000 Downs at Albuquerque, Albuquerque Horse racing $100,000 Jerry Perenchio, Los Angeles, Calif., President, Univision. $100,000 The Peters Corporation,",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "http://abqtrib.com/archives/news02/120702_Page_05_donate.shtml Public Records Request No.: 17-2957/2006 DOJ-OGR-00031278",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "James Peterson",
+      "Jeffrey E. Epstein",
+      "Bill Richardson",
+      "Bruce King",
+      "Jerry Perenchio"
+    ],
+    "organizations": [
+      "Peterson Properties Real Estate Services Inc.",
+      "Walgreens Drug Stores Inc.",
+      "J. Epstein & Co.",
+      "Democratic Governors Association",
+      "AFSCME",
+      "New Mexicans for Bill Richardson",
+      "CWA New Mexico State PAC",
+      "Downs at Albuquerque",
+      "The Peters Corporation",
+      "Univision"
+    ],
+    "locations": [
+      "Albuquerque",
+      "New York City",
+      "Stanley",
+      "New Mexico",
+      "Manhattan",
+      "Washington, D.C.",
+      "Santa Fe",
+      "Los Angeles",
+      "California"
+    ],
+    "dates": [
+      "1993"
+    ],
+    "reference_numbers": [
+      "17-2957/2006",
+      "DOJ-OGR-00031278"
+    ]
+  },
+  "additional_notes": "The document appears to be a news article from the Albuquerque Tribune Online, detailing campaign donations to Democratic Gov.-elect Bill Richardson. The page is clean and free of damage or redactions."
+}

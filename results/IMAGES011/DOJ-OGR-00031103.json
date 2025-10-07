@@ -1,0 +1,68 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "17-295",
+    "date": "March 18, 2005",
+    "document_type": "Transcript of control call",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "MP: Detective Michele Pagan\n\nMP: I.D. #8059. Offense number 05-368. Today's date is March 18, 2005. Today's time, by my watch, is approximately 12:54. Present is [redacted]. Reference to a control call to 561-333-0180.\n(Dialing number)\nUNK: Hello?\nSG: Is Haley there?\nUNK: No, she's working. She won't be home til later.\n[Redacted]: Okay. Thanks.\nUNK: Okay.\n[Redacted]: Bye. She won't be home until later. She's working.\n(Dialing number)\nUNK: Hello?\n[Redacted]: Hello again. I'm sorry. Do you know what time Haley will get back?\nUNK: I don't know cause I'm not sure if she's working a double or not. But she might be back between 3 and 4.\nSG: Okay. Thank you.\nUNK: Alright.\nMP: I.D. #8059 continuing the control call to Haley. Time now by my watch is 4:21 on the 18th. Present is [redacted].\n(Dialing number)\nPage 1 of 4\n07/26/17 Page 11 of 81 Public Records Request No.: 17-295 DOJ-OGR-00031103",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "MP: Detective Michele Pagan",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "MP: I.D. #8059. Offense number 05-368. Today's date is March 18, 2005. Today's time, by my watch, is approximately 12:54. Present is [redacted]. Reference to a control call to 561-333-0180.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "(Dialing number)\nUNK: Hello?\nSG: Is Haley there?\nUNK: No, she's working. She won't be home til later.\n[Redacted]: Okay. Thanks.\nUNK: Okay.\n[Redacted]: Bye. She won't be home until later. She's working.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "(Dialing number)\nUNK: Hello?\n[Redacted]: Hello again. I'm sorry. Do you know what time Haley will get back?\nUNK: I don't know cause I'm not sure if she's working a double or not. But she might be back between 3 and 4.\nSG: Okay. Thank you.\nUNK: Alright.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "MP: I.D. #8059 continuing the control call to Haley. Time now by my watch is 4:21 on the 18th. Present is [redacted].\n(Dialing number)",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page 1 of 4",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 11 of 81 Public Records Request No.: 17-295 DOJ-OGR-00031103",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Detective Michele Pagan",
+      "Haley"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "March 18, 2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "#8059",
+      "05-368",
+      "561-333-0180",
+      "17-295",
+      "DOJ-OGR-00031103"
+    ]
+  },
+  "additional_notes": "The document is a transcript of a control call. Some names and numbers are redacted."
+}

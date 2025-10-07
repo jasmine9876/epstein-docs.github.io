@@ -1,0 +1,98 @@
+{
+  "document_metadata": {
+    "page_number": "15",
+    "document_number": "5614786553",
+    "date": "05/20/2005",
+    "document_type": "Passenger Manifest",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "05/20/2005 13:00 5614786553 JEGE OR HYPERION AIR PAGE 15 HYPERION AIR, INC. PASSENGER MANIFEST Registration Number: N909JE Type: G-1159B Pilots: Dave Rodgers, Larry Visoski DATE: 5 10 2005 FROM PBI TO TEB Departure Time 4:34 AM Arrival Time 6:57 PM Trip Number 1776 PASSENGERS 1. Jeffrey Epstein 2. Sarah Kellen 3. [redacted] 4. David Mullen 5. DAN BURNS FROM Identifier Defined City WEST PALM BEACH State or Country FL TO Identifier Defined City TETERBORO State or Country NJ Nautical Miles Statute Miles Gallons 1300 Pounds 9850 Flight Time 2+23 Altitude FL 450 TAKE-OFF POWER Flex Take-Off 215 T/I Min Take-Off IMC Condition Approach COMMENTS 07/26/17 Page 123 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032162",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "HYPERION AIR, INC. PASSENGER MANIFEST",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Registration Number: N909JE Type: G-1159B Pilots: Dave Rodgers, Larry Visoski",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "DATE: 5 10 2005 FROM PBI TO TEB",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "Departure Time 4:34 AM Arrival Time 6:57 PM Trip Number 1776",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "PASSENGERS",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "1. Jeffrey Epstein 2. Sarah Kellen 3. [redacted] 4. David Mullen 5. DAN BURNS",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "FROM Identifier Defined City WEST PALM BEACH State or Country FL TO Identifier Defined City TETERBORO State or Country NJ",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "Gallons 1300 Pounds 9850 Flight Time 2+23 Altitude FL 450 TAKE-OFF POWER Flex Take-Off 215",
+      "position": "body"
+    },
+    {
+      "type": "printed",
+      "content": "COMMENTS",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 123 of 151 Public Records Request No.: 17-295 DOJ-OGR-00032162",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Sarah Kellen",
+      "David Mullen",
+      "DAN BURNS",
+      "Dave Rodgers",
+      "Larry Visoski"
+    ],
+    "organizations": [
+      "HYPERION AIR, INC."
+    ],
+    "locations": [
+      "WEST PALM BEACH",
+      "FL",
+      "TETERBORO",
+      "NJ",
+      "PBI",
+      "TEB"
+    ],
+    "dates": [
+      "05/20/2005",
+      "5 10 2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "5614786553",
+      "N909JE",
+      "G-1159B",
+      "1776",
+      "17-295",
+      "DOJ-OGR-00032162"
+    ]
+  },
+  "additional_notes": "The document contains redactions and handwritten notes. The passenger list includes notable individuals such as Jeffrey Epstein."
+}

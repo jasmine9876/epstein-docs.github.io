@@ -1,0 +1,79 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00032497",
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR Mr J.F. DATE 12/19/04 TIME 10:51 A.M. M v David Coppeahold OF PHONE/MOBILE (866) 855-6110 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE I just went to sey hello SIGNED IMPORTANT MESSAGE FOR Mr J.F. DATE 12/19/04 TIME 2:45 P.M. M v Derron OF PHONE/MOBILE (973) 537-1165 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Please tell him that I called SIGNED IMPORTANT MESSAGE FOR Mr J.F. DATE 12/21/04 TIME 10:27 A.M. M v Jess Stanley OF PHONE/MOBILE (212) 837-2375 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Returning four Cell SIGNED IMPORTANT MESSAGE FOR DATE TIME 2:15 P.M. M OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE were up on her way to pick her up now so they will be late - closer to 3pm SIGNED Public Records Request No.: 17-295",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Mr J.F.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "FOR DATE TIME M v OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "12/19/04 10:51 A.M. David Coppeahold (866) 855-6110 I just went to sey hello",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "12/19/04 2:45 P.M. Derron (973) 537-1165 Please tell him that I called",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "12/21/04 10:27 A.M. Jess Stanley (212) 837-2375 Returning four Cell",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "2:15 P.M. were up on her way to pick her up now so they will be late - closer to 3pm",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032497",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Mr J.F.",
+      "David Coppeahold",
+      "Derron",
+      "Jess Stanley"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "12/19/04",
+      "12/21/04"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "(866) 855-6110",
+      "(973) 537-1165",
+      "(212) 837-2375"
+    ]
+  },
+  "additional_notes": "The document contains four 'Important Message' forms with handwritten notes. Some information on the fourth form is redacted."
+}

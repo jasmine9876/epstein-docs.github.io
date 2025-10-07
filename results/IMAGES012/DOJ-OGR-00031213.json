@@ -1,0 +1,99 @@
+{
+  "document_metadata": {
+    "page_number": "40",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Public Records Request",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Command: Person Type.: SUSP Suspect 052520160 1 of 1 Race..: W Sex: M Age...: - Hgt.....: - Wgt..: - Weapon: Build.: Hair...: Eyes: Hat...: Jacket: Shirt..: Pants: Shoes.: Facial: Glasses: OL#: SSN: 000000000 Flight Dir: Mode: Name: L: TORRES F: JOSE M: A Apt DOB 12031957 Addr: City: Phn 9/09/05 15:34:33 Additional: VLD DL CLR PALMS F12=Cancel F6=Warr F7=Back F8=Fwd F9=Global F10=Bolo F11=History History 07/26/17 Page 40 of 135 PPublic Records Request No.: 17-295 DOJ-OGR-00031213",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Command: Person Type.: SUSP Suspect 052520160 1 of 1",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Race..: W Sex: M Age...: - Hgt.....: - Wgt..: -",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Weapon: Build.: Hair...: Eyes:",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Hat...: Jacket: Shirt..: Pants:",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Shoes.: Facial: Glasses: OL#: SSN: 000000000",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Flight Dir: Mode:",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Name: L: TORRES F: JOSE M: A Apt DOB 12031957",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Addr: City: Phn 9/09/05 15:34:33",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Additional: VLD DL CLR PALMS",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "F12=Cancel F6=Warr F7=Back F8=Fwd F9=Global F10=Bolo F11=History",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "History",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 40 of 135 PPublic Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00031213",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JOSE TORRES A"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "9/09/05",
+      "07/26/17",
+      "12/03/1957"
+    ],
+    "reference_numbers": [
+      "052520160",
+      "17-295",
+      "DOJ-OGR-00031213",
+      "000000000"
+    ]
+  },
+  "additional_notes": "The document appears to be a law enforcement record or report, potentially related to a suspect. The SSN is redacted but still visible as 000000000."
+}

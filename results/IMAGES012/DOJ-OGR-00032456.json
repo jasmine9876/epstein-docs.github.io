@@ -1,0 +1,76 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR Joe DATE 02/22 TIME 4:55 P.M. M. Jean Lee OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE You can call him to his portable or 305.537.2447 SIGNED 1184 IMPORTANT MESSAGE FOR Joe DATE 22/22 TIME 1:55 P.M. M. OF Jerry Cohen PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED L.GRAHAM 1184 IMPORTANT MESSAGE FOR Joe DATE 22/02 TIME 4:55 P.M. M. OF David Goldsmith PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 07/16/17 Page 2143 IMPORTANT MESSAGE FOR Joe DATE 22/02 TIME 5:06 P.M. M. OF Anna PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED L.GRAHAM Public Records Request No.: 17-295 1184 DOJ-OGR-00032456",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Joe",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "02/22",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "4:55 P.M.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jean Lee",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "You can call him to his portable or 305.537.2447",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "L.GRAHAM",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "1184",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Joe",
+      "Jean Lee",
+      "Jerry Cohen",
+      "David Goldsmith",
+      "Anna",
+      "L.GRAHAM"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "02/22",
+      "22/02",
+      "07/16/17"
+    ],
+    "reference_numbers": [
+      "305.537.2447",
+      "17-295",
+      "DOJ-OGR-00032456"
+    ]
+  },
+  "additional_notes": "The document appears to be a collection of 'Important Message' forms, likely from a office or business setting. The forms contain handwritten notes and messages, including phone numbers and names. The document quality is good, with some minor wear and tear visible on the spiral binding."
+}

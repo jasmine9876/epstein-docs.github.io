@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "18",
+    "document_number": "DOJ-OGR-00031191",
+    "date": "07/26/17",
+    "document_type": "Public Records Request",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Command: Person Type.: OPER . . . Operator (Vehicle) . . . . . . . . 052060131 . . . 1 of . . . 1\nRace..: W Sex: F Age...: - Hgt.....: - Wgt.: - \nWeapon: Build.: Hair...: Eyes: \nHat...: Jacket: Shirt..: Pants: \nShoes.: Facial: Glasses: SSN: 000000000 \nFlight Dir: Mode: OL#: \nName: L: BURNS F: DANA M: L Apt \nAddr: DOB 5171985 7/25/05 \nCity: Phn 15:33:42 \nAdditional: VALID OH DL/NO FL DL/CLR PALMS \nF12=Cancel F6=Warr F7=Back F8=Fwd F9=Global F10=Bolo F11=History \n07/26/17 Page 18 of 135 PPublic Records Request No.: 17-295 DOJ-OGR-00031191",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Command: Person Type.: OPER . . . Operator (Vehicle) . . . . . . . . 052060131 . . . 1 of . . . 1",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Race..: W Sex: F Age...: - Hgt.....: - Wgt.: - \nWeapon: Build.: Hair...: Eyes: \nHat...: Jacket: Shirt..: Pants: \nShoes.: Facial: Glasses: SSN: 000000000 \nFlight Dir: Mode: OL#: ",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Name: L: BURNS F: DANA M: L Apt \nAddr: DOB 5171985 7/25/05 \nCity: Phn 15:33:42 ",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Additional: VALID OH DL/NO FL DL/CLR PALMS ",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "F12=Cancel F6=Warr F7=Back F8=Fwd F9=Global F10=Bolo F11=History",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 18 of 135 PPublic Records Request No.: 17-295 DOJ-OGR-00031191",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "BURNS",
+      "DANA"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "7/25/05",
+      "07/26/17",
+      "5171985"
+    ],
+    "reference_numbers": [
+      "052060131",
+      "000000000",
+      "17-295",
+      "DOJ-OGR-00031191"
+    ]
+  },
+  "additional_notes": "The document appears to be a public records request related to an individual. The SSN has been redacted, but other personal details are visible. The document is page 18 of 135."
+}

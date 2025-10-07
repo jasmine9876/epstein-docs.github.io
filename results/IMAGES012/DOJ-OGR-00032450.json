@@ -1,0 +1,82 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR JE DATE 18/02/03 TIME 13:45 P.M. M. LESLEY (NY office) OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED MARGIE L 1184 IMPORTANT MESSAGE FOR JE Epstein DATE 02/18/03 TIME 8459 A.M. M. Eva OF PHONE 804 9293 AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED Exline 1184 IMPORTANT MESSAGE FOR JE DATE 02/18/03 TIME 12 15 P.M. M. OF Cecilia PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE return call SIGNED 07/26/17 1184 IMPORTANT MESSAGE FOR H. Epstein DATE TIME A.M. P.M. M. Fuitmana OF 917.774.3061 PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE 42 or 43 - line. SIGNED Public Records Request No. 17-296 1184 DOJ-OGR-00032450",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "JE, 18/02/03, 13:45 P.M., LESLEY (NY office), MARGIE L",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "JE Epstein, 02/18/03, 8459 A.M., Eva, 804 9293, Exline",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "JE, 02/18/03, 12 15 P.M., Cecilia, return call",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "H. Epstein, Fuitmana, 917.774.3061, 42 or 43 - line.",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "1184",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "Public Records Request No. 17-296",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032450",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JE",
+      "LESLEY",
+      "Eva",
+      "JE Epstein",
+      "Cecilia",
+      "H. Epstein",
+      "Fuitmana",
+      "MARGIE L",
+      "Exline"
+    ],
+    "organizations": [],
+    "locations": [
+      "NY office"
+    ],
+    "dates": [
+      "18/02/03",
+      "02/18/03",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "804 9293",
+      "917.774.3061",
+      "17-296",
+      "DOJ-OGR-00032450"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned copy of a set of 'Important Message' forms, likely from a professional or business setting. The forms contain handwritten notes and messages from various individuals. The document quality is generally good, with clear handwriting and printed text."
+}

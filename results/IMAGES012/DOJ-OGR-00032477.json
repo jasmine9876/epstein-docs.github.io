@@ -1,0 +1,76 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00032477",
+    "date": null,
+    "document_type": "Important Message Slips",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR Mr. J.E DATE 10/10/04 TIME 4:20 P.M. M. Mr. Doug Dad OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE 'as Call him' SIGNED AS 1184 IMPORTANT MESSAGE FOR Mr. J.E DATE 10/13/09 TIME 9:10 A.M. M. Mr. Joan Luc OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE 'I'm in N.Y. Please Cell me' SIGNED RC 1184 IMPORTANT MESSAGE FOR Mr. J.E DATE 10/18/04 TIME 2:55 P.M. M. George Johnson OF Shenshoulders PHONE/ MOBILE 1-888-274-5101 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE 'Call Please regarding your investment ID# 3108' SIGNED 0726 1184 IMPORTANT MESSAGE FOR Mr. J.E DATE 10/30/09 TIME 12:50 P.M. M. Sarah OF PHONE/ MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE 'D 1676 cell her' SIGNED Public Records Request No.: 17-295 1184",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Mr. J.E 10/10/04 4:20 P.M. Mr. Doug Dad 'as Call him' AS",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Mr. J.E 10/13/09 9:10 A.M. Mr. Joan Luc 'I'm in N.Y. Please Cell me' RC",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Mr. J.E 10/18/04 2:55 P.M. George Johnson Shenshoulders 1-888-274-5101 'Call Please regarding your investment ID# 3108'",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Mr. J.E 10/30/09 12:50 P.M. Sarah 'D 1676 cell her'",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032477",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Mr. J.E",
+      "Mr. Doug Dad",
+      "Mr. Joan Luc",
+      "George Johnson",
+      "Sarah"
+    ],
+    "organizations": [
+      "Shenshoulders"
+    ],
+    "locations": [
+      "N.Y."
+    ],
+    "dates": [
+      "10/10/04",
+      "10/13/09",
+      "10/18/04",
+      "10/30/09"
+    ],
+    "reference_numbers": [
+      "1-888-274-5101",
+      "ID# 3108",
+      "D 1676",
+      "17-295"
+    ]
+  },
+  "additional_notes": "The document appears to be a collection of 'Important Message' slips, likely from a office or business setting. The slips contain handwritten notes and messages for 'Mr. J.E' from various individuals. The document is in a relatively good condition, with some minor wear and tear visible on the edges."
+}
