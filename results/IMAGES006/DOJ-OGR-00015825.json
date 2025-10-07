@@ -1,0 +1,67 @@
+{
+  "document_metadata": {
+    "page_number": "28",
+    "document_number": "DOJ-OGR-00015825",
+    "date": "1994 APR 10-30",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE 1994 APR 10-30 | AIRCRAFT MAKE AND MODEL Cessna 172 | AIRCRAFT IDENTIFICATION MARK N9853K | POINTS OF DEPARTURE & ARRIVAL | MILES FLOWN | FLT. NO. | REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS | AIRCRAFT CATEGORY | NO. LDG. | DAY/NIGHT | COMPLEX | TURBINE\n10-30 APR | Cessna 172 | N9853K | MOW | PBI | 523 | 523 |  |  | 16 | 0 | 160 | 16\n26 | HS125-700 | \" | PBE | MOW | 524 | 524 |  |  | 25 | 2 | 25 | 2\n30 | \" | \" | MOW | TEB | 525 | 525 |  |  | 27 | 2 | 27 | 2\n31 | \" | \" | TEB | SAF | 526 | 526 |  |  | 16 | 1 | 16 | 1\nMAY 2 | \" | \" | SAF | PBE | 527 | 527 |  |  | 45 | 4 | 45 | 4\n3 | \" | \" | PBE | TEB | 528 | 528 |  |  | 36 | 3 | 36 | 3\n5 | \" | \" | TEB | DCA | 529 | 529 |  |  | 25 | 2 | 25 | 2\n7 | \" | \" | DCA | TEB | 530 | 530 |  |  | 7 |  | 7 | \n7 | \" | \" | TEB | BOS | 531 |  |  |  | 8 |  | 8 | \n8 | \" | \" | BOS | TEB | 532 |  |  |  | 6 |  | 6 | \n8 | \" | \" | TEB | CRS | 533 |  |  |  | 6 |  | 6 | \n10 | \" | \" | TEBCRS | Regus | 535 |  |  |  | 1 | 1 | 1 | 1\n18 | \" | \" | CMH | SAV | 538 |  |  |  | 14 | 1 | 14 | 1\n18 | \" | \" | SAV | PBI | 539 |  |  |  | 10 | 1 | 10 | 1\n20 | \" | \" | PBI | TEB | 540 |  |  |  | 27 | 2 | 27 | 2\n22 | \" | \" | TEB | PBE | 541 |  |  |  | 25 | 2 | 25 | 2\n26 | \" | \" | PBI | TEB | 542 |  |  |  | 24 | 2 | 24 | 2\nJUL 27 | \" | \" | PBI | TEB | 554 |  |  |  | 25 | 2 | 25 | 2\nI certify that the statements made by me on this form are true.\nPILOT'S SIGNATURE David hidgins\nPAGE TOTAL | 497 | 497 | 49 | AMT. FORWARD 5451 | 6146 | 4515 | 12506 | TOTAL TO DATE 5183 | 6196 | 4564 | 32506",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE 1994 APR 10-30 | AIRCRAFT MAKE AND MODEL | AIRCRAFT IDENTIFICATION MARK | POINTS OF DEPARTURE & ARRIVAL | MILES FLOWN | FLT. NO. | REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS | AIRCRAFT CATEGORY | NO. LDG. | DAY/NIGHT | COMPLEX | TURBINE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Cessna 172 | N9853K | MOW | PBI | 523 | 523 |  |  | 16 | 0 | 160 | 16",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "David hidgins",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "David hidgins"
+    ],
+    "organizations": [],
+    "locations": [
+      "MOW",
+      "PBI",
+      "PBE",
+      "TEB",
+      "SAF",
+      "DCA",
+      "BOS",
+      "CRS",
+      "CMH",
+      "SAV"
+    ],
+    "dates": [
+      "1994 APR 10-30",
+      "APR 26",
+      "APR 30",
+      "MAY 2",
+      "MAY 3",
+      "MAY 5",
+      "MAY 7",
+      "MAY 8",
+      "MAY 10",
+      "MAY 18",
+      "MAY 20",
+      "MAY 22",
+      "MAY 26",
+      "JUL 27"
+    ],
+    "reference_numbers": [
+      "N9853K",
+      "DOJ-OGR-00015825"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log with handwritten entries. The log includes details such as aircraft make and model, identification mark, points of departure and arrival, miles flown, and flight numbers. The document is signed by the pilot, David hidgins."
+}

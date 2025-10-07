@@ -1,0 +1,71 @@
+{
+  "document_metadata": {
+    "page_number": "2976",
+    "document_number": "NYMAQ 530.03",
+    "date": "08-11-2019",
+    "document_type": "BUREAU OF PRISONS COUNT SHEET",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2976 NYMAQ 530.03 * BUREAU OF PRISONS COUNT SHEET * 08-11-2019 PAGE 001 NEW YORK MCC 15:36:11 QTRG EQ *** OCTG EQ **** COUNT AREA CENSUS OUT COUNT SECTION TR V OC TU N VERIFY COUNT COUNT AREA ATTY F F F H M R S TR V OC TU N VERIFY COUNT COUNT AREA N J N Y E S S P N W I D I T N J N Y E S S P N W I D I T (b)(7)(F) (b)(7)(F) B-A B-A C-A C-A E-N 1 . . . . . . 1 E-N E-S . 2 1 . . . 3 E-S G-N . . . . . . . G-N G-S . . . . . . . G-S H-A . . . . . . . H-A I-N . . . . . . . I-N K-N . . . . . . . K-N K-S . 10 1 . . . 11 K-S R-A . . . . . . . R-A Z-A . . . . . . . Z-A Z-B . . . . . . . Z-B TOTAL 1 12 2 . . 15 TOTAL COUNT COUNT VERIFY COUNT VERIFY OFFICIAL PREPARING COUNT OFFICIAL TAKING COUNT COUNT CLEARED TIME (b)(6); (b)(7)(C) (b)(7)(F) Good Verbal DOJ-OGR-00026632",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "NYMAQ 530.03 * BUREAU OF PRISONS COUNT SHEET * 08-11-2019 PAGE 001 NEW YORK MCC 15:36:11 QTRG EQ *** OCTG EQ ****",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "COUNT AREA CENSUS OUT COUNT SECTION TR V OC TU N VERIFY COUNT COUNT AREA",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "B-A C-A E-N E-S G-N G-S H-A I-N K-N K-S R-A Z-A Z-B TOTAL",
+      "position": "left"
+    },
+    {
+      "type": "printed",
+      "content": "TOTAL",
+      "position": "left"
+    },
+    {
+      "type": "printed",
+      "content": "COUNT VERIFY",
+      "position": "left"
+    },
+    {
+      "type": "printed",
+      "content": "OFFICIAL PREPARING COUNT OFFICIAL TAKING COUNT COUNT CLEARED TIME",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "Good Verbal",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026632",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "BUREAU OF PRISONS",
+      "DOJ"
+    ],
+    "locations": [
+      "NEW YORK"
+    ],
+    "dates": [
+      "08-11-2019"
+    ],
+    "reference_numbers": [
+      "NYMAQ 530.03",
+      "DOJ-OGR-00026632"
+    ]
+  },
+  "additional_notes": "The document appears to be a count sheet from the Bureau of Prisons, detailing the count of inmates in various areas. The document has some redacted information, indicated by '(b)(7)(F)' and '(b)(6); (b)(7)(C)'. The count was cleared with a 'Good Verbal' notation."
+}

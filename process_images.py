@@ -137,6 +137,56 @@ Return ONLY valid JSON in this exact structure:
   "additional_notes": "Any observations about document quality, redactions, damage, etc."
 }"""
 
+    def fix_json_with_llm(self, base64_image: str, broken_json: str, error_msg: str) -> dict:
+        """Ask the LLM to fix its own broken JSON"""
+        response = self.client.chat.completions.create(
+            model=self.model,
+            messages=[
+                {
+                    "role": "system",
+                    "content": self.get_system_prompt()
+                },
+                {
+                    "role": "user",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "Extract all text and entities from this image. Return only valid JSON."
+                        },
+                        {
+                            "type": "image_url",
+                            "image_url": {
+                                "url": f"data:image/jpeg;base64,{base64_image}"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "role": "assistant",
+                    "content": broken_json
+                },
+                {
+                    "role": "user",
+                    "content": f"Your JSON response has an error: {error_msg}\n\nPlease fix the JSON and return ONLY the corrected valid JSON. Do not explain, just return the fixed JSON."
+                }
+            ],
+            max_tokens=4096,
+            temperature=0.1
+        )
+
+        content = response.choices[0].message.content.strip()
+
+        # Extract JSON using same logic
+        json_match = re.search(r'```(?:json)?\s*\n(.*?)\n```', content, re.DOTALL)
+        if json_match:
+            content = json_match.group(1).strip()
+        else:
+            json_match = re.search(r'\{.*\}', content, re.DOTALL)
+            if json_match:
+                content = json_match.group(0).strip()
+
+        return json.loads(content)
+
     def process_image(self, image_path: Path) -> ProcessingResult:
         """Process a single image through the API"""
         try:
@@ -173,6 +223,7 @@ Return ONLY valid JSON in this exact structure:
 
             # Parse response
             content = response.choices[0].message.content
+            original_content = content  # Keep original for retry
 
             # Robust JSON extraction
             content = content.strip()
@@ -224,8 +275,14 @@ Return ONLY valid JSON in this exact structure:
                     else:
                         raise ValueError("Could not find complete JSON object")
                 except Exception:
-                    # If we can't salvage it, raise the original error
-                    raise e
+                    # Last resort: Ask LLM to fix its JSON
+                    try:
+                        extracted_data = self.fix_json_with_llm(base64_image, original_content, str(e))
+                    except Exception:
+                        # Save ORIGINAL LLM response to errors directory (not our extracted version)
+                        self.save_broken_json(self.get_relative_path(image_path), original_content)
+                        # If even that fails, raise the original error
+                        raise e
 
             return ProcessingResult(
                 filename=self.get_relative_path(image_path),
@@ -308,6 +365,18 @@ Return ONLY valid JSON in this exact structure:
         # Save the extracted data
         with open(result_path, 'w', encoding='utf-8') as f:
             json.dump(result.data, f, indent=2, ensure_ascii=False)
+
+    def save_broken_json(self, filename: str, broken_content: str):
+        """Save broken JSON to errors directory"""
+        error_path = Path("./errors") / filename
+        error_path = error_path.with_suffix('.json')
+
+        # Create parent directories
+        error_path.parent.mkdir(parents=True, exist_ok=True)
+
+        # Save the broken content as-is
+        with open(error_path, 'w', encoding='utf-8') as f:
+            f.write(broken_content)
 
     def save_results(self, results: List[ProcessingResult], output_file: str = "processed_results.json"):
         """Save summary results to JSON file"""

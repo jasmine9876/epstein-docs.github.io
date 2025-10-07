@@ -1,0 +1,38 @@
+```json
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "Case 1:20-cr-00800-LJL Document 11 Filed 07/23/20 Page 6 of 36",
+    "date": "July 2, 2020, July 14, 2020",
+    "document_type": "Court Document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "On July 2, 2020, the Federal Bureau of Investigation (“FBI”) arrested the defendant. Following extensive briefing, on July 14, 2020, the Court held a lengthy bail hearing. In its written and oral submissions, the defense urged the Court to release the defendant on bail. Among other things, the defense emphasized the defendant’s family ties and residence in the United States (Dkt. 18 at 2, 3, 12), offered to hire a private security company to monitor the defendant (Id. at 20), noted that the defendant remained in the country and was in touch with the Government through counsel following Epstein’s arrest (Dkt. 18 at 12-13; Tr. 49, 52-55), argued that the defendant went into hiding to avoid a media frenzy (Dkt. 18 at 14-16; Tr. 55-56), and argued that detention would hamper the ability to prepare a defense (Tr. 42, 67-69). Responding to the Government’s concerns about the lack of transparency about the defendant’s finances and six proposed co-signers, the defense specifically asked the Court to keep the proceedings open if the Court believed additional information or a more fulsome bond would be useful to the bail determination. (Tr. 52 (“And if the court determines that the conditions that we have proffered are insufficient or need further verification, as long as we can have some assurance of safety and confidentiality, we would recommend that the court keep the proceeding open, and we should be able to get whatever the court needs to satisfy it.”); Tr. 59 (“Even if the court were to assume for purposes of today’s proceeding that she has the means that the government claims she does, it does not affect the analysis. That is to be addressed in conditions, to be addressed if the court requires it, through verifications and further proceedings before the court.”); Tr. 66 (“If the court desires to leave the proceeding open for a week and allow us to come back, if the court has concerns about the number of suretors, for example, verification information, information about financial issues, we think that, now that we have some ability to breathe a little bit, that we should be able to pull this together for the court’s consideration.”); Tr. 70 (“And if the court needs more information"),
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "On July 2, 2020, the Federal Bureau of Investigation (“FBI”) arrested the defendant. Following extensive briefing, on July 14, 2020, the Court held a lengthy bail hearing. In its written and oral submissions, the defense urged the Court to release the defendant on bail. Among other things, the defense emphasized the defendant’s family ties and residence in the United States (Dkt. 18 at 2, 3, 12), offered to hire a private security company to monitor the defendant (Id. at 20), noted that the defendant remained in the country and was in touch with the Government through counsel following Epstein’s arrest (Dkt. 18 at 12-13; Tr. 49, 52-55), argued that the defendant went into hiding to avoid a media frenzy (Dkt. 18 at 14-16; Tr. 55-56), and argued that detention would hamper the ability to prepare a defense (Tr. 42, 67-69). Responding to the Government’s concerns about the lack of transparency about the defendant’s finances and six proposed co-signers, the defense specifically asked the Court to keep the proceedings open if the Court believed additional information or a more fulsome bond would be useful to the bail determination. (Tr. 52 (“And if the court determines that the conditions that we have proffered are insufficient or need further verification, as long as we can have some assurance of safety and confidentiality, we would recommend that the court keep the proceeding open, and we should be able to get whatever the court needs to satisfy it.”); Tr. 59 (“Even if the court were to assume for purposes of today’s proceeding that she has the means that the government claims she does, it does not affect the analysis. That is to be addressed in conditions, to be addressed if the court requires it, through verifications and further proceedings before the court.”); Tr. 66 (“If the court desires to leave the proceeding open for a week and allow us to come back, if the court has concerns about the number of suretors, for example, verification information, information about financial issues, we think that, now that we have some ability to breathe a little bit, that we should be able to pull this together for the court’s consideration.”); Tr. 70 (“And if the court needs more information",
+      "position": "main body"
+    },
+    {
+      "type": "printed",
+      "content": "3",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00020066",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": ["defendant", "Epstein"],
+    "organizations": ["Federal Bureau of Investigation", "Government"],
+    "locations": ["United States"],
+    "dates": ["July 2, 2020", "July 14, 2020"],
+    "reference_numbers": ["Dkt. 18", "Tr. 49", "Tr. 52-55", "Tr. 55-56", "Tr. 42", "Tr. 67-69", "Tr. 52", "Tr. 59", "Tr. 66", "Tr. 70", "Case 1:20-cr-00800-LJL Document 11 Filed 07/23/20 Page 6 of 36"]
+  },
+  "additional_notes": "The document appears to be a court transcript or legal document related to a bail hearing. The text is well-formatted and clear, with no visible redactions or damage."
+}
+```

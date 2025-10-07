@@ -88,6 +88,7 @@ python process_images.py
 The script will:
 - Process each image through the OCR API
 - Extract text, entities, and metadata
+- **Auto-fix broken JSON**: If the LLM returns invalid JSON, the script automatically sends the error back to the LLM along with the original image to get a corrected response
 - Save results to `./results/{folder}/{imagename}.json`
 - Track progress in `processing_index.json` (resume-friendly)
 - Log failed files for later cleanup

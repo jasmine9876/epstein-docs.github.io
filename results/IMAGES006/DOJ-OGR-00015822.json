@@ -1,0 +1,106 @@
+{
+  "document_metadata": {
+    "page_number": "25",
+    "document_number": "DOJ-OGR-00015822",
+    "date": "1943-11",
+    "document_type": "Pilot's Flight Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "DATE 1943 NOV AIRCRAFT MAKE AND MODEL AIRCRAFT IDENTIFICATION MARK POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FLOWN FLT. NO. REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS NO. Ldg. AIRPLANE COMPLEX TURE AIRCRAFT CATEGORY 26 HS125-1a2 N908K BGS-CMH-M19-PBI 430 431 432 433 434 435 436 437 438 439 440 441 442 443 444 445 446 447 448 449 450 451 452 453 454 455 456 457 458 459 460 461 PAGE TOTAL 16 AMT. FORWARD 5447 5447 5447 5447 TOTAL TO DATE 2563 2563 2563 2563 I certify that the statements made by me on this form are true. PILOT'S SIGNATURE",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "DATE 1943 NOV AIRCRAFT MAKE AND MODEL AIRCRAFT IDENTIFICATION MARK POINTS OF DEPARTURE & ARRIVAL FROM TO MILES FLOWN FLT. NO. REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS NO. Ldg. AIRPLANE COMPLEX TURE AIRCRAFT CATEGORY",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "26 HS125-1a2 N908K BGS-CMH-M19-PBI 430 431 432 433 434 435 436 437 438 439 440 441 442 443 444 445 446 447 448 449 450 451 452 453 454 455 456 457 458 459 460 461",
+      "position": "body"
+    },
+    {
+      "type": "handwritten",
+      "content": "I certify that the statements made by me on this form are true. PILOT'S SIGNATURE",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [
+      "BGS",
+      "CMH",
+      "M19",
+      "PBI",
+      "IAD",
+      "TGB",
+      "EWR",
+      "SAL",
+      "DCA",
+      "ASC",
+      "MMZ",
+      "BED",
+      "OFA",
+      "SFF",
+      "TPA"
+    ],
+    "dates": [
+      "1943-11-26",
+      "1943-11-04",
+      "1943-11-05",
+      "1943-11-06",
+      "1943-11-08",
+      "1943-11-16",
+      "1943-11-17",
+      "1943-11-20",
+      "1943-11-24",
+      "1943-11-30",
+      "1944-01-02",
+      "1944-01-06",
+      "1944-01-08",
+      "1944-01-15",
+      "1944-01-16",
+      "1944-01-18",
+      "1944-01-20",
+      "1944-01-23"
+    ],
+    "reference_numbers": [
+      "N908K",
+      "HS125-1a2",
+      "430",
+      "431",
+      "432",
+      "433",
+      "434",
+      "435",
+      "436",
+      "437",
+      "438",
+      "439",
+      "440",
+      "441",
+      "442",
+      "443",
+      "444",
+      "445",
+      "446",
+      "447",
+      "448",
+      "449",
+      "450",
+      "451",
+      "452",
+      "453",
+      "454",
+      "455",
+      "456",
+      "457",
+      "458",
+      "459",
+      "460",
+      "461"
+    ]
+  },
+  "additional_notes": "The document is a pilot's flight log from November 1943 to January 1944. The log contains handwritten entries detailing flight information, including dates, aircraft make and model, identification marks, points of departure and arrival, miles flown, and flight numbers. The document has been partially redacted with a black box covering the 'REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS' section. The pilot has signed the document at the bottom."
+}

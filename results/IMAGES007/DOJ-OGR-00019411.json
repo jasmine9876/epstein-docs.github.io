@@ -1,0 +1,51 @@
+{
+  "document_metadata": {
+    "page_number": "12",
+    "document_number": "60",
+    "date": "09/24/2020",
+    "document_type": "court document",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Case 20-3061, Document 60, 09/24/2020, 2938278, Page12 of 58\nMs. Maxwell asked Judge Preska to briefly stay the\n7\nDOJ-OGR-00019411",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Case 20-3061, Document 60, 09/24/2020, 2938278, Page12 of 58",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Ms. Maxwell asked Judge Preska to briefly stay the",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "7",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00019411",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Maxwell",
+      "Preska"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "09/24/2020"
+    ],
+    "reference_numbers": [
+      "20-3061",
+      "60",
+      "2938278",
+      "DOJ-OGR-00019411"
+    ]
+  },
+  "additional_notes": "The document appears to be a court transcript with redactions."
+}

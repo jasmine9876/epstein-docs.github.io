@@ -1,0 +1,46 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00027081",
+    "date": "1/2/13",
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "(b)(6), (b)(7)(C) (b)(6), (b)(7)(C) (b)(6), (b)(7)(C) Expedit 76318-054 1/2/13 2: (b)(6), (b)(7)(C) DOJ-OGR-00027081",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "(b)(6), (b)(7)(C)",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Expedit",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "76318-054 1/2/13 2:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00027081",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "1/2/13"
+    ],
+    "reference_numbers": [
+      "76318-054",
+      "DOJ-OGR-00027081"
+    ]
+  },
+  "additional_notes": "The document has been heavily redacted, with most of the content obscured by green highlights. The visible text is mostly handwritten and appears to be a date and a reference number."
+}

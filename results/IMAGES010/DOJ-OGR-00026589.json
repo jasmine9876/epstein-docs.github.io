@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": "2933",
+    "document_number": "DOJ-OGR-00026589",
+    "date": "08-11-2019",
+    "document_type": "BUREAU OF PRISONS COUNT SHEET",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Page 2933 08-11-2019 01:41:50 NYMBMi ±530.03 * BUREAU OF PRISONS COUNT SHEET PAGE 001 QTRG EQ *** NEW YORK MCC OCTG EQ **** ATTY F F N N Y Y S COUNT SECTION TR V OC TU T VERIFY COUNT COUNT AREA CENSUS E-N E-S G-N G-S H-A I-N K-N K-S R-A Z-A Z-B TOTAL COUNT VERIFY B-A C-A E-N E-S G-N G-S H-A I-N K-N K-S R-A Z-A Z-B OFFICIAL PREPARING COUNT: OFFICIAL TAKING COUNT: COUNT CLEARED TIME: b(7)(F) b(7)(F) b(6); b(7)(C) b(7)(F) 19 b(7)(F) Cook verbatim. b(7)(F) 01:42 DOJ-OGR-00026589",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "BUREAU OF PRISONS COUNT SHEET NEW YORK MCC",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "COUNT AREA CENSUS",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "COUNT VERIFY",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Cook verbatim.",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00026589",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "BUREAU OF PRISONS",
+      "NEW YORK MCC"
+    ],
+    "locations": [
+      "NEW YORK"
+    ],
+    "dates": [
+      "08-11-2019"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00026589",
+      "±530.03"
+    ]
+  },
+  "additional_notes": "The document contains redactions marked as b(6), b(7)(C), and b(7)(F). The count sheet appears to be a record of a count conducted at the New York MCC on August 11, 2019."
+}
