@@ -298,18 +298,39 @@ module.exports = function(eleventyConfig) {
           : firstPage.document_metadata?.date
       };
 
-      return {
+      // Create lightweight pages array (keep full_text but make them lazy)
+      const lightPages = docPages.map(p => {
+        const lightPage = { ...p };
+        // Keep full_text reference for document rendering, but it won't be duplicated
+        return lightPage;
+      });
+
+      // Only include full_text when needed (for individual document pages)
+      // For the main documents array, we skip it to save memory
+      const docData = {
         unique_id: normalizedDocNum,  // Normalized version for unique URLs
         document_number: rawDocNums.length === 1 ? rawDocNums[0] : normalizedDocNum, // Show original if consistent, else normalized
         raw_document_numbers: rawDocNums, // All variations found
-        pages: docPages,
+        pages: lightPages,
         page_count: docPages.length,
         document_metadata: normalizedMetadata,
         entities: deduplicatedEntities,
-        full_text: docPages.map(p => p.full_text).join('\n\n--- PAGE BREAK ---\n\n'),
         folder: folders.join(', '),  // Show all folders if document spans multiple
         folders: folders  // Keep array for reference
       };
+
+      // Add full_text getter that loads on demand
+      Object.defineProperty(docData, 'full_text', {
+        get: function() {
+          if (!this._full_text) {
+            this._full_text = this.pages.map(p => p.full_text).join('\n\n--- PAGE BREAK ---\n\n');
+          }
+          return this._full_text;
+        },
+        enumerable: true
+      });
+
+      return docData;
     });
 
     cachedDocuments = documents;

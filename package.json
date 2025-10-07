@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Static site for exploring OCR'd documents",
   "scripts": {
-    "build": "eleventy",
+    "build": "NODE_OPTIONS='--max-old-space-size=8192' eleventy",
     "start": "eleventy --serve"
   },
   "devDependencies": {

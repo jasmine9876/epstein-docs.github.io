@@ -4,7 +4,7 @@ title: Document Analyses
 ---
 
 <h1>Document Analyses</h1>
-<p class="subtitle">AI-generated summaries for {{ analyses.length }} documents</p>
+<p class="subtitle">AI-generated summaries for <span id="total-count">{{ analyses.length }}</span> documents</p>
 
 <div class="search-box">
   <input type="text" id="search" placeholder="Search analyses...">
@@ -15,6 +15,22 @@ title: Document Analyses
   {% for type in analysisDocumentTypes %}
   <button class="filter-btn" data-type="{{ type | lower }}">{{ type }}</button>
   {% endfor %}
+</div>
+
+<div class="pagination-controls">
+  <button id="prev-page" disabled>← Previous</button>
+  <span id="page-info">Page 1</span>
+  <button id="next-page">Next →</button>
+  <span class="page-size-selector">
+    Show:
+    <select id="page-size">
+      <option value="50">50</option>
+      <option value="100" selected>100</option>
+      <option value="250">250</option>
+      <option value="500">500</option>
+    </select>
+    per page
+  </span>
 </div>
 
 <div class="table-container">
@@ -29,7 +45,7 @@ title: Document Analyses
     </thead>
     <tbody id="results">
       {% for item in analyses %}
-      <tr class="analysis-row" data-content="{{ [item.document_number, item.analysis.document_type, item.analysis.summary, item.analysis.significance, item.analysis.key_topics | join(' ')] | join(' ') | lower }}" data-type="{{ item.analysis.document_type | lower }}">
+      <tr class="analysis-row" data-type="{{ item.analysis.document_type | lower }}">
         <td class="doc-number">
           <a href="/document/{{ item.document_id | slugify }}/">{{ item.document_number }}</a>
         </td>
@@ -73,6 +89,56 @@ title: Document Analyses
     background: #3498db;
     border-color: #3498db;
     color: white;
+  }
+
+  .pagination-controls {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+    padding: 1rem;
+    background: white;
+    border: 1px solid #e0e0e0;
+    border-radius: 6px;
+  }
+
+  .pagination-controls button {
+    padding: 0.5rem 1rem;
+    background: white;
+    border: 1px solid #e0e0e0;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.875rem;
+    transition: all 0.2s;
+  }
+
+  .pagination-controls button:hover:not(:disabled) {
+    border-color: #3498db;
+    color: #3498db;
+  }
+
+  .pagination-controls button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }
+
+  #page-info {
+    font-size: 0.875rem;
+    color: #666;
+    margin: 0 0.5rem;
+  }
+
+  .page-size-selector {
+    margin-left: auto;
+    font-size: 0.875rem;
+    color: #666;
+  }
+
+  .page-size-selector select {
+    padding: 0.25rem 0.5rem;
+    border: 1px solid #e0e0e0;
+    border-radius: 4px;
+    margin: 0 0.5rem;
   }
 
   .table-container {
@@ -188,7 +254,33 @@ title: Document Analyses
     }
   }
 
+  @media (max-width: 900px) {
+    .pagination-controls {
+      flex-wrap: wrap;
+    }
+
+    .page-size-selector {
+      margin-left: 0;
+      width: 100%;
+      text-align: center;
+    }
+  }
+
   @media (max-width: 600px) {
+    .pagination-controls {
+      padding: 0.75rem;
+      gap: 0.5rem;
+    }
+
+    .pagination-controls button {
+      font-size: 0.8rem;
+      padding: 0.4rem 0.75rem;
+    }
+
+    #page-info {
+      font-size: 0.75rem;
+    }
+
     /* Stack table on mobile */
     .analyses-table thead {
       display: none;
@@ -251,35 +343,97 @@ title: Document Analyses
   const results = document.getElementById('results');
   const allRows = Array.from(results.querySelectorAll('.analysis-row'));
   const filterButtons = document.querySelectorAll('.filter-btn');
+  const prevButton = document.getElementById('prev-page');
+  const nextButton = document.getElementById('next-page');
+  const pageInfo = document.getElementById('page-info');
+  const pageSizeSelect = document.getElementById('page-size');
+  const totalCount = document.getElementById('total-count');
 
   let currentFilter = 'all';
   let currentSearch = '';
+  let currentPage = 1;
+  let pageSize = 100;
+  let filteredRows = allRows;
 
-  // Filter function that applies both type filter and search
-  function applyFilters() {
-    allRows.forEach(row => {
+  // Filter and pagination function
+  function applyFiltersAndPagination() {
+    // First, filter rows based on type and search
+    filteredRows = allRows.filter(row => {
       const matchesType = currentFilter === 'all' || row.dataset.type === currentFilter;
-      const matchesSearch = currentSearch === '' || row.dataset.content.includes(currentSearch);
-      row.style.display = (matchesType && matchesSearch) ? '' : 'none';
+
+      let matchesSearch = true;
+      if (currentSearch !== '') {
+        const rowText = row.textContent.toLowerCase();
+        matchesSearch = rowText.includes(currentSearch);
+      }
+
+      return matchesType && matchesSearch;
     });
+
+    // Update total count
+    totalCount.textContent = filteredRows.length;
+
+    // Calculate pagination
+    const totalPages = Math.ceil(filteredRows.length / pageSize);
+    const startIndex = (currentPage - 1) * pageSize;
+    const endIndex = startIndex + pageSize;
+
+    // Hide all rows first
+    allRows.forEach(row => row.style.display = 'none');
+
+    // Show only current page rows
+    filteredRows.slice(startIndex, endIndex).forEach(row => {
+      row.style.display = '';
+    });
+
+    // Update pagination controls
+    pageInfo.textContent = `Page ${currentPage} of ${totalPages || 1} (${filteredRows.length} total)`;
+    prevButton.disabled = currentPage <= 1;
+    nextButton.disabled = currentPage >= totalPages;
   }
 
   // Search handler
   search.addEventListener('input', (e) => {
     currentSearch = e.target.value.toLowerCase().trim();
-    applyFilters();
+    currentPage = 1; // Reset to first page on search
+    applyFiltersAndPagination();
   });
 
   // Filter button handlers
   filterButtons.forEach(btn => {
     btn.addEventListener('click', () => {
-      // Update active state
       filterButtons.forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
-
-      // Update filter and apply
       currentFilter = btn.dataset.type;
-      applyFilters();
+      currentPage = 1; // Reset to first page on filter change
+      applyFiltersAndPagination();
     });
   });
+
+  // Pagination handlers
+  prevButton.addEventListener('click', () => {
+    if (currentPage > 1) {
+      currentPage--;
+      applyFiltersAndPagination();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+  });
+
+  nextButton.addEventListener('click', () => {
+    const totalPages = Math.ceil(filteredRows.length / pageSize);
+    if (currentPage < totalPages) {
+      currentPage++;
+      applyFiltersAndPagination();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+  });
+
+  pageSizeSelect.addEventListener('change', (e) => {
+    pageSize = parseInt(e.target.value);
+    currentPage = 1; // Reset to first page on page size change
+    applyFiltersAndPagination();
+  });
+
+  // Initial render
+  applyFiltersAndPagination();
 </script>
