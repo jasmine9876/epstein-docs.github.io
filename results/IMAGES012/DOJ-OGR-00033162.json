@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": "12/03/2009",
+    "document_type": "Envelope",
+    "has_handwriting": false,
+    "has_stamps": true
+  },
+  "full_text": "ATTERBURY GOLDBERGER & WEISS, P.A. One Clearlake Centre, Suite 1400 250 Australian Avenue South West Palm Beach, FL 33401 Barbara Burns, Esquire State Attorney's Office 401 North Dixie Highway West Palm Beach, Florida 33401 33401 34295 0021 Public Records Request No. 19-372 DOJ-OGR-00033162 045J83095852 $0.449 12/03/2009 Mailed From 33401 US POSTAGE neopost",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "ATTERBURY GOLDBERGER & WEISS, P.A. One Clearlake Centre, Suite 1400 250 Australian Avenue South West Palm Beach, FL 33401",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Barbara Burns, Esquire State Attorney's Office 401 North Dixie Highway West Palm Beach, Florida 33401",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "33401 34295 0021",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "045J83095852 $0.449 12/03/2009 Mailed From 33401 US POSTAGE neopost",
+      "position": "top-right"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No. 19-372",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00033162",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Barbara Burns"
+    ],
+    "organizations": [
+      "ATTERBURY GOLDBERGER & WEISS, P.A.",
+      "State Attorney's Office"
+    ],
+    "locations": [
+      "West Palm Beach",
+      "Florida"
+    ],
+    "dates": [
+      "12/03/2009"
+    ],
+    "reference_numbers": [
+      "045J83095852",
+      "33401 34295 0021",
+      "19-372",
+      "DOJ-OGR-00033162"
+    ]
+  },
+  "additional_notes": "The document is an envelope with a postage stamp and a printed return address. The envelope appears to be slightly damaged at the bottom edge."
+}

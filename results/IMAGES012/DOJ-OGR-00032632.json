@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "1-05-001263",
+    "date": "11/18/05",
+    "document_type": "Incident Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Date: 11/18/05 Time: 11:36:11 PALM BEACH POLICE DEPARTMENT Incident Report Page: 1 Program: CMS301L Case No. : 1-05-001263 SPECIAL NOTES : Occur To Date : 9/11/05 2344 Occur From Date: 9/11/05 2344 Day Of Week : Sunday Report Date : 9/11/05 2345 Street Number : 200 BAHAMA LN City : PALM BEACH, FL Location Type : HIGHWAY/ROADWAY Beat Assignment: SHIFT 3 Map Reference : 23 Dept Class . : DRUG LAW VIOLATION Report Officer : CARISTO, NICHOLAS Case Status : CLEARED BY ARREST Case Status Dt : 9/11/05 Supervisory Dt.: BURFIELD, KURT 9/11/05 Entry Date : OREGERO, LAURA 9/12/05 Property? : Names? : Offenses? : Vehicles? : Related Cases? : Narrative? : ********* P R O P E R T Y I N F O R M A T I O N # 1 ************************ Case number : 1-05-001263 Category : **EVIDENCE/CONFISCATED (NOT UCR)*** Description : MARIJUANA CIGARETTE Serial number : Model : Property type : MISCELLANEOUS Make : UCR Prop Type : MISCELLANEOUS Insured by : : Insured? : NCIC number : : Value : 0.00 Recovered by : : Recovered Date : 0/00/00 Recovery value : 0.00 Street number : : City : : Drug? : : Document? : : ********* P R O P E R T Y I N F O R M A T I O N # 2 ************************ Case number : 1-05-001263 Category : **EVIDENCE/CONFISCATED (NOT UCR)*** Description : 2 GLASS PIPES W/MARIJ.RESIDUE Color : : Serial number : : Make : : Model : : UCR Prop Type : MISCELLANEOUS Property type : MISCELLANEOUS Insured? : : Insured by : : NCIC number : : Value : : Recovered by : : Recovered Date : 0/00/00 Recovery value : 0.00 Street number : : City : : Drug? : : Document? : : ********* P R O P E R T Y I N F O R M A T I O N # 3 ************************ Case number : 1-05-001263 Category : **EVIDENCE/CONFISCATED (NOT UCR)*** Description : CLEAR PLASTIC BAGGY W/MARIJUA. Color : : Serial number : : Make : : Model : : UCR Prop Type : MISCELLANEOUS Property type : MISCELLANEOUS Insured? : : Insured by : : NCIC number : : Value : : 0.00 07/26/17 Page 2319 Public Records Request No.: 17-295 DOJ-OGR-00032632",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date: 11/18/05 Time: 11:36:11 PALM BEACH POLICE DEPARTMENT Incident Report Page: 1 Program: CMS301L",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Case No. : 1-05-001263 SPECIAL NOTES : Occur To Date : 9/11/05 2344 Occur From Date: 9/11/05 2344 Day Of Week : Sunday Report Date : 9/11/05 2345 Street Number : 200 BAHAMA LN City : PALM BEACH, FL Location Type : HIGHWAY/ROADWAY Beat Assignment: SHIFT 3 Map Reference : 23 Dept Class . : DRUG LAW VIOLATION Report Officer : CARISTO, NICHOLAS Case Status : CLEARED BY ARREST Case Status Dt : 9/11/05 Supervisory Dt.: BURFIELD, KURT 9/11/05 Entry Date : OREGERO, LAURA 9/12/05 Property? : Names? : Offenses? : Vehicles? : Related Cases? : Narrative? :",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "********* P R O P E R T Y I N F O R M A T I O N # 1 ************************ Case number : 1-05-001263 Category : **EVIDENCE/CONFISCATED (NOT UCR)*** Description : MARIJUANA CIGARETTE Serial number : Model : Property type : MISCELLANEOUS Make : UCR Prop Type : MISCELLANEOUS Insured by : : Insured? : NCIC number : : Value : 0.00 Recovered by : : Recovered Date : 0/00/00 Recovery value : 0.00 Street number : : City : : Drug? : : Document? : :",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "********* P R O P E R T Y I N F O R M A T I O N # 2 ************************ Case number : 1-05-001263 Category : **EVIDENCE/CONFISCATED (NOT UCR)*** Description : 2 GLASS PIPES W/MARIJ.RESIDUE Color : : Serial number : : Make : : Model : : UCR Prop Type : MISCELLANEOUS Property type : MISCELLANEOUS Insured? : : Insured by : : NCIC number : : Value : : Recovered by : : Recovered Date : 0/00/00 Recovery value : 0.00 Street number : : City : : Drug? : : Document? : :",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "********* P R O P E R T Y I N F O R M A T I O N # 3 ************************ Case number : 1-05-001263 Category : **EVIDENCE/CONFISCATED (NOT UCR)*** Description : CLEAR PLASTIC BAGGY W/MARIJUA. Color : : Serial number : : Make : : Model : : UCR Prop Type : MISCELLANEOUS Property type : MISCELLANEOUS Insured? : : Insured by : : NCIC number : : Value : : 0.00",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 2319 Public Records Request No.: 17-295 DOJ-OGR-00032632",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "CARISTO, NICHOLAS",
+      "BURFIELD, KURT",
+      "OREGERO, LAURA"
+    ],
+    "organizations": [
+      "PALM BEACH POLICE DEPARTMENT"
+    ],
+    "locations": [
+      "PALM BEACH",
+      "FL",
+      "200 BAHAMA LN"
+    ],
+    "dates": [
+      "11/18/05",
+      "9/11/05",
+      "9/12/05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "1-05-001263",
+      "17-295",
+      "DOJ-OGR-00032632"
+    ]
+  },
+  "additional_notes": "The document is a police incident report with detailed information about a drug-related case. It includes property information and is part of a public records request."
+}

@@ -1,0 +1,73 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "2420",
+    "date": null,
+    "document_type": "Myspace profile page",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "www.myspace.com/takingbackmicrosoft Page 3 of 12 Ugly Ken Hart 10/3/2005 1:10:00 PM SKATI UNDERG LIVE LOCA EVERY FRIE 7PM - FRIDAY OCT The Ugl THE DEMO PRYING VERY MUCH STRAY I PRYRUS $8.00 ADM ON LAKE WORTH RD JUST FOR MORE INFO & WWW.SKATEZONEU BRING IN THIS FLYER FOI chuck yeager aint got shit on me 9/24/2005 1:41:00 PM 07/26/17 http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendID=172831&... Page 2420 Public Records Request No.: 17-295 11/14/2005 DOJ-OGR-00032733",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "www.myspace.com/takingbackmicrosoft",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Page 3 of 12",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Ugly Ken Hart 10/3/2005 1:10:00 PM",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SKATI UNDERG LIVE LOCA EVERY FRIE 7PM - FRIDAY OCT The Ugl THE DEMO PRYING VERY MUCH STRAY I PRYRUS $8.00 ADM ON LAKE WORTH RD JUST FOR MORE INFO & WWW.SKATEZONEU BRING IN THIS FLYER FOI",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "chuck yeager aint got shit on me 9/24/2005 1:41:00 PM",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendID=172831&... Page 2420 Public Records Request No.: 17-295 11/14/2005",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032733",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Ken Hart",
+      "Chuck Yeager"
+    ],
+    "organizations": [
+      "Myspace",
+      "Skatezone"
+    ],
+    "locations": [
+      "Lake Worth Rd"
+    ],
+    "dates": [
+      "10/3/2005",
+      "9/24/2005",
+      "07/26/17",
+      "11/14/2005"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032733",
+      "172831"
+    ]
+  },
+  "additional_notes": "The document appears to be a Myspace profile page with various images and text. The main content is a flyer for a skate event. The page also contains metadata and timestamps."
+}

@@ -1,0 +1,83 @@
+{
+  "document_metadata": {
+    "page_number": "0001",
+    "document_number": "DOJ-OGR-00032929",
+    "date": "12-20-2005",
+    "document_type": "Screen Print",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "12-20-2005 14:45:56 JJ8375 JJ8375 00 DTG OPERATIONS dba DOLLAR RENT A CAR tuls05 Report #0492 Page 0001\nOPTION:    Screen Print\n1 NME L/F BANASIAK/JANUSZ    Dollar RA OPEN    HH115484 OPEN\n2 ADDRESS 358 EL BRILLO WAY    11 RET DATE/TME 12-23-2005/1040\n3 C/SZ PALM BEACH/FL/33480    12 RET LOC/DROP PBI/*\n4 PH/DOB/GEN 561-818-8361/04/07-1953/M    13 VEH/CL/RT/CL 817622/CDAR/WALK/CDAR\n5 LOCL CNT 5616557626    14 COM/FUEL 11230/B\n6 LI/ST/EX/VER 8522420531270/FL/04-07-2012/*    15 EMP/OPEN EMP/DRW SMCKED/SMCKED/187\n7 FOP/#/EX VI/447011534008274/02-07    A-RATES    G-DTS/MISC\n8 ATH#/AMT 050298/1066    B-DB/CUST    M-RA CLOSE\n9 SR/TY/ID WLK/W*/*    C-DEPOSIT    N-NOTES\n10 NOTES    D-OPTIONS O-OTHER WINDOWS\nF1=RD ONLY F2=SWIPE F3=ERASE F6=SEARCH F8=ESTIMATE F9=VEHICLES\n-- End of report --\n07/26/17 Page 2616 Public Records Request No.: 17-295\nDOJ-OGR-00032929",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "12-20-2005 14:45:56 JJ8375 JJ8375 00 DTG OPERATIONS dba DOLLAR RENT A CAR tuls05 Report #0492 Page 0001",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "OPTION:    Screen Print",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "1 NME L/F BANASIAK/JANUSZ    Dollar RA OPEN    HH115484 OPEN\n2 ADDRESS 358 EL BRILLO WAY    11 RET DATE/TME 12-23-2005/1040\n3 C/SZ PALM BEACH/FL/33480    12 RET LOC/DROP PBI/*\n4 PH/DOB/GEN 561-818-8361/04/07-1953/M    13 VEH/CL/RT/CL 817622/CDAR/WALK/CDAR\n5 LOCL CNT 5616557626    14 COM/FUEL 11230/B\n6 LI/ST/EX/VER 8522420531270/FL/04-07-2012/*    15 EMP/OPEN EMP/DRW SMCKED/SMCKED/187\n7 FOP/#/EX VI/447011534008274/02-07    A-RATES    G-DTS/MISC\n8 ATH#/AMT 050298/1066    B-DB/CUST    M-RA CLOSE\n9 SR/TY/ID WLK/W*/*    C-DEPOSIT    N-NOTES\n10 NOTES    D-OPTIONS O-OTHER WINDOWS",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "F1=RD ONLY F2=SWIPE F3=ERASE F6=SEARCH F8=ESTIMATE F9=VEHICLES",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "-- End of report --",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 2616 Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032929",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "BANASIAK",
+      "JANUSZ"
+    ],
+    "organizations": [
+      "DTG OPERATIONS",
+      "DOLLAR RENT A CAR"
+    ],
+    "locations": [
+      "PALM BEACH",
+      "FL"
+    ],
+    "dates": [
+      "12-20-2005",
+      "12-23-2005",
+      "04-07-1953",
+      "04-07-2012",
+      "02-07",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "HH115484",
+      "817622",
+      "561-818-8361",
+      "5616557626",
+      "8522420531270",
+      "447011534008274",
+      "050298/1066",
+      "11230/B",
+      "17-295",
+      "DOJ-OGR-00032929"
+    ]
+  },
+  "additional_notes": "The document appears to be a rental car agreement or report from Dollar Rent A Car. The document is a screen print from a system used by DTG Operations, which does business as Dollar Rent A Car. The document contains customer information, rental details, and various codes related to the rental transaction."
+}

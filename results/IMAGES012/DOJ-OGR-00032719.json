@@ -1,0 +1,51 @@
+{
+  "document_metadata": {
+    "page_number": "5",
+    "document_number": "2406",
+    "date": "07/26/17",
+    "document_type": "Phone Conversation Transcript",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "1 : Alrighty.\n2 HR: Alright.\n3 : Okay.\n4 HR: Bye.\n5 (Hung up phone)\n6 MP: This concludes. The time now of the conversation, approximately 3:40pm.\nPage 5 of 5\n07/26/17 Page 2406 Public Records Request No.: 17-295\nDOJ-OGR-00032719",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "1 : Alrighty.\n2 HR: Alright.\n3 : Okay.\n4 HR: Bye.\n5 (Hung up phone)\n6 MP: This concludes. The time now of the conversation, approximately 3:40pm.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Page 5 of 5",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 2406 Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032719",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "HR",
+      "MP"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032719"
+    ]
+  },
+  "additional_notes": "The document appears to be a transcript of a phone conversation. Some names are redacted."
+}

@@ -1,0 +1,59 @@
+{
+  "document_metadata": {
+    "page_number": "7",
+    "document_number": "DOJ-OGR-00032803",
+    "date": "Apr 17, 2005",
+    "document_type": "Myspace post",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "myspace.com Page 7 of 15 Virginia Apr 17, 2005 4:07 PM FISHING TRIP A couple goes on vacation to a fishing resort in northern Saskatchewan. The husband likes to fish at the crack of dawn; the wife likes to read. One morning the husband returns after several hours of fishing and decides to take a nap. Although not familiar with the lake, the wife decides to take the boat out. She motors out a short distance, anchors, and continues to read her book. 07/26/17 Page 2490 Public Records Request No.: 17-295 http://www.myspace.com/index.cfm?fuseaction=user.viewComments&friendID=172831&page=2&My token=74F355A7-B649-... 12/2/2005 DOJ-OGR-00032803",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "myspace.com",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Page 7 of 15",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Virginia Apr 17, 2005 4:07 PM FISHING TRIP A couple goes on vacation to a fishing resort in northern Saskatchewan. The husband likes to fish at the crack of dawn; the wife likes to read. One morning the husband returns after several hours of fishing and decides to take a nap. Although not familiar with the lake, the wife decides to take the boat out. She motors out a short distance, anchors, and continues to read her book.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 2490 Public Records Request No.: 17-295 http://www.myspace.com/index.cfm?fuseaction=user.viewComments&friendID=172831&page=2&My token=74F355A7-B649-... 12/2/2005",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032803",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "husband",
+      "wife"
+    ],
+    "organizations": [],
+    "locations": [
+      "Virginia",
+      "Saskatchewan"
+    ],
+    "dates": [
+      "Apr 17, 2005",
+      "07/26/17",
+      "12/2/2005"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032803"
+    ]
+  },
+  "additional_notes": "The document appears to be a printed copy of a Myspace post with some redacted content. The post describes a couple's fishing trip to a resort in northern Saskatchewan."
+}

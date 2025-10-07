@@ -1,0 +1,46 @@
+{
+  "document_metadata": {
+    "page_number": "2633",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Public Records Request",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "10 Dr. Board 11 4 Sarah is trying to more for 11 cuz then Britney called work at 6 Jeffrey E. Epstein 07/26/17 Page 2633 Public Records Request No.: 17-295 DOJ-OGR-00032946",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "10 Dr. Board 11 4 Sarah is trying to more for 11 cuz then Britney called work at 6",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Jeffrey E. Epstein",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 2633 Public Records Request No.: 17-295 DOJ-OGR-00032946",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Dr. Board",
+      "Sarah",
+      "Britney",
+      "Jeffrey E. Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032946"
+    ]
+  },
+  "additional_notes": "The document contains handwritten notes with some redacted text. The handwriting is difficult to read in some places, but the transcription is as accurate as possible."
+}

@@ -1,0 +1,45 @@
+{
+  "document_metadata": {
+    "page_number": "2658",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Public Records Request",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "07/26/17 Page 2658 Public Records Request No.: 17-295 [Handwritten note] Julie? 8:00 pm of #3 have left messages for confirm - Julie 1:00 pm 1- to confirm 5:30 pm (it went straight to voicemail) DOJ-OGR-00032971",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "Julie? 8:00 pm",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "of #3 have left messages for confirm - Julie 1:00 pm 1- to confirm 5:30 pm (it went straight to voicemail)",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 2658 Public Records Request No.: 17-295",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Julie"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032971"
+    ]
+  },
+  "additional_notes": "The document appears to be a handwritten note on a printed page with a public records request number. The note is about leaving messages for someone named Julie. The document has been redacted in some areas."
+}

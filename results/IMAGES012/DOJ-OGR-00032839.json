@@ -1,0 +1,66 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "1-05-000368",
+    "date": "4/20/06",
+    "document_type": "Incident Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Date: 4/20/06 Time: 13:02:26 PALM BEACH POLICE DEPARTMENT Incident Report Page: 3 Program: CMS301L Case No. : 1-05-000368 (Continued) Complexion : Build : Speech : Coat : Pants : Body Marks #1 : Body Marks #3 : Status : STILL SUSPECT Additional UCR2: ************ VICTIM INFORMATION - # 1 ************* Case Number : 1-05-000368 Prompt valid in: Street Number : City : WEST PALM BEACH, FL 33412 Birth Date/Age : 5/13/1990 14 Occupation : STUDENT Employer? : Home Phone No. : ~ ~ Oper Lic No. : Sex : Female Race : White Height : 0 Misc. ID# : Weight : 0 Other Phone Nbr: Victim Type : JUVENILE Residency Sts : File Charges : Injury Extent : Victim Sobriety: Injury Type 1 : Injury Type 2 : Hospital ID : Phys Last Name: ************ VICTIM INFORMATION - # 2 ************* Case Number : 1-05-000368 Prompt valid in: Street Number : City : PALM BEACH, FL 000033480 Birth Date/Age : 12/30/1986 18 Occupation : Employer? : Home Phone No. : 561/000-0000 Oper Lic No. : Sex : Female Race : White Height : 0 Misc. ID# : Weight : 0 Other Phone Nbr: 561/000-0000 Victim Type : ADULT Residency Sts : File Charges : Injury Extent : Victim Sobriety: Injury Type 1 : Injury Type 2 : Hospital ID : Phys Last Name: ************ VICTIM INFORMATION - # 3 ************* Case Number : 1-05-000368 Prompt valid in: Street Number : City : PALM BEACH, FL 000033480 Birth Date/Age : 3/05/1988 16 Occupation : Employer? : 07/26/17 Page 2526 Public Records Request No.: 17-295 DOJ-OGR-00032839",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date: 4/20/06 Time: 13:02:26 PALM BEACH POLICE DEPARTMENT Incident Report Page: 3 Program: CMS301L",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Case No. : 1-05-000368 (Continued) Complexion : Build : Speech : Coat : Pants : Body Marks #1 : Body Marks #3 : Status : STILL SUSPECT Additional UCR2:",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "************ VICTIM INFORMATION - # 1 ************* Case Number : 1-05-000368 Prompt valid in: Street Number : City : WEST PALM BEACH, FL 33412 Birth Date/Age : 5/13/1990 14 Occupation : STUDENT Employer? : Home Phone No. : ~ ~ Oper Lic No. : Sex : Female Race : White Height : 0 Misc. ID# : Weight : 0 Other Phone Nbr: Victim Type : JUVENILE Residency Sts : File Charges : Injury Extent : Victim Sobriety: Injury Type 1 : Injury Type 2 : Hospital ID : Phys Last Name:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "************ VICTIM INFORMATION - # 2 ************* Case Number : 1-05-000368 Prompt valid in: Street Number : City : PALM BEACH, FL 000033480 Birth Date/Age : 12/30/1986 18 Occupation : Employer? : Home Phone No. : 561/000-0000 Oper Lic No. : Sex : Female Race : White Height : 0 Misc. ID# : Weight : 0 Other Phone Nbr: 561/000-0000 Victim Type : ADULT Residency Sts : File Charges : Injury Extent : Victim Sobriety: Injury Type 1 : Injury Type 2 : Hospital ID : Phys Last Name:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "************ VICTIM INFORMATION - # 3 ************* Case Number : 1-05-000368 Prompt valid in: Street Number : City : PALM BEACH, FL 000033480 Birth Date/Age : 3/05/1988 16 Occupation : Employer? :",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 2526 Public Records Request No.: 17-295 DOJ-OGR-00032839",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "PALM BEACH POLICE DEPARTMENT"
+    ],
+    "locations": [
+      "WEST PALM BEACH, FL",
+      "PALM BEACH, FL"
+    ],
+    "dates": [
+      "4/20/06",
+      "5/13/1990",
+      "12/30/1986",
+      "3/05/1988",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "1-05-000368",
+      "17-295",
+      "DOJ-OGR-00032839"
+    ]
+  },
+  "additional_notes": "The document appears to be a police incident report with victim information. The report is from the Palm Beach Police Department and includes details about three victims. The document is page 3 of the report."
+}

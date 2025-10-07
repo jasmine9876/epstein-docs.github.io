@@ -1,0 +1,40 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00032924",
+    "date": null,
+    "document_type": "note",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "saying thank you for the car. Jeffrey E. Epstein",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "saying thank you for the car.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Jeffrey E. Epstein",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032924",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey E. Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00032924"
+    ]
+  },
+  "additional_notes": "The document appears to be a photocopy or scan of a handwritten note. The image quality is poor, with significant blackening on the left side. The note is signed by Jeffrey E. Epstein."
+}

@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "page_number": "2632",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Public Records Request",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "TUES 10/4 saying thank you for the car. Jeffrey E. Epstein 07/26/17 Page 2632 Public Records Request No.: 17-295 DOJ-OGR-00032945",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "TUES 10/4",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "saying thank you for the car.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Jeffrey E. Epstein",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 2632 Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032945",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey E. Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "10/4",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032945"
+    ]
+  },
+  "additional_notes": "The document contains a handwritten note and a redacted section. The document is a public records request related to Jeffrey E. Epstein."
+}

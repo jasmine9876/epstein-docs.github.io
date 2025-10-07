@@ -1,0 +1,58 @@
+{
+  "document_metadata": {
+    "page_number": "5",
+    "document_number": "DOJ-OGR-00032979",
+    "date": "07/26/17",
+    "document_type": "note",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "07/26/17 Page 5 of 11 DOJ-OGR-00032979 #2 04-19-2013 Julia will be here at 1:30pm. She couldn't come earlier as she is being dropped off #3 04-10-2013 Danna for me",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "07/26/17",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 5 of 11",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032979",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "#2 04-19-2013 Julia will be here at 1:30pm. She couldn't come earlier as she is being dropped off",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "#3 04-10-2013 Danna for me",
+      "position": "top"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Julia",
+      "Danna",
+      "She"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "04-19-2013",
+      "04-10-2013",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "#2",
+      "#3",
+      "DOJ-OGR-00032979"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned handwritten note with some printed metadata at the bottom. The handwriting is mostly legible, but there are some minor speckles and dust spots on the image."
+}

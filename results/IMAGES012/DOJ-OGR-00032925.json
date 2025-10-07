@@ -1,0 +1,43 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00032925",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "10 Dr. Beard 11 4 Sarah is trying to more for 11 am Ethan Britney could work at 6 Jeffrey E. Epstein",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "10 Dr. Beard 11 4 Sarah is trying to more for 11 am Ethan Britney could work at 6",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Jeffrey E. Epstein",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032925",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Dr. Beard",
+      "Sarah",
+      "Ethan Britney",
+      "Jeffrey E. Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00032925"
+    ]
+  },
+  "additional_notes": "The document contains handwritten notes with some redacted text. The handwriting is difficult to read in some areas, but the transcription is as accurate as possible. The document is associated with Jeffrey E. Epstein."
+}

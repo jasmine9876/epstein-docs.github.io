@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "17-295",
+    "date": "10/24/2005",
+    "document_type": "Community Service Documentation Form",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "10 /24/2005 18:09 9042645454 RAINOFSHINE Faxed to Marty 10/24/05 6:10pm PAGE 03 COMMUNITY SERVICE DOCUMENTATION FORM VOLUNTEER DATE TIME IN/OUT DESCRIPTION OF DUTY AUTHORIZED BY 10-20-05 8am - 10:15 childcare 705-2766 cell 2.25hr 10-20-05 10:45am - 4:45 pm office work (copies, filing, etc.) Ellen M. Finly 978-9237 6 hrs 10-21-05 8 - 1:30pm childcare Rob H. Matheson 705-2766 cell 4.5 hrs 10-23-05 10 - 4 pm childcare Rob H. Matheson 705-2766 cell 6 hrs 3 of 3 Total: 18.75 hrs 07/26/17 Page 2316 Public Records Request No.: 17-295 DOJ-OGR-00032629",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "COMMUNITY SERVICE DOCUMENTATION FORM",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "Faxed to Marty 10/24/05 6:10pm",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "VOLUNTEER",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "10-20-05 8am - 10:15 childcare 705-2766 cell 2.25hr 10-20-05 10:45am - 4:45 pm office work (copies, filing, etc.) Ellen M. Finly 978-9237 6 hrs 10-21-05 8 - 1:30pm childcare Rob H. Matheson 705-2766 cell 4.5 hrs 10-23-05 10 - 4 pm childcare Rob H. Matheson 705-2766 cell 6 hrs",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "3 of 3 Total: 18.75 hrs",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Marty",
+      "Ellen M. Finly",
+      "Rob H. Matheson"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "10/24/2005",
+      "10/24/05",
+      "10-20-05",
+      "10-21-05",
+      "10-23-05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "9042645454",
+      "705-2766",
+      "978-9237",
+      "DOJ-OGR-00032629"
+    ]
+  },
+  "additional_notes": "The document is a faxed copy of a community service documentation form. It contains handwritten entries for volunteer work done on different dates. The total hours worked are calculated at the bottom."
+}

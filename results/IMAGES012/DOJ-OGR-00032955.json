@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "2642",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Public Records Request",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Luba Sunday 100 - Improv Saturday 1500 Boy Road Miami Flamingos Beach Jeffrey E. Epstein Page 2642 Public Records Request No.: 17-295 07/26/17 10/7/05 DOJ-OGR-00032955",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "Luba Sunday 100 - Improv Saturday 1500 Boy Road Miami Flamingos Beach",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Jeffrey E. Epstein Page 2642 Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "10/7/05",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032955",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Luba Sunday",
+      "Jeffrey E. Epstein"
+    ],
+    "organizations": [
+      "Flamingos"
+    ],
+    "locations": [
+      "Miami Beach",
+      "Boy Road"
+    ],
+    "dates": [
+      "10/7/05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032955"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned page from a public records request related to Jeffrey E. Epstein. The handwriting is clear, but the context of the handwritten note is unclear."
+}

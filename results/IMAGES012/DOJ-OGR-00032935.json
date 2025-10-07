@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00032935",
+    "date": null,
+    "document_type": "checks and deposit ticket",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "4100481 1/2001 TRANSACTION Register A record of deposits and items Numbered from _______ to _______ Dated from _______ to _______ To order visit us at: www.clarkeamerican.com or call 1.800.355.8123 Clarke American JANUSZ BANASIAK BEATA BANASIAK 12542 GREAT PARK CIRCLE APT 303 GERMANTOWN, MD 20876 Pay to the Order of _______ Date _______ BB&T BRANCH BANKING AND TRUST COMPANY CHARLOTTESVILLE, VIRGINIA For _______ DEPOSIT TICKET JANUSZ BANASIAK BEATA BANASIAK 04/95 12542 GREAT PARK CIRCLE APT 303 GERMANTOWN, MD 20876 DATE _______ BB&T BRANCH BANKING AND TRUST COMPANY CHARLOTTESVILLE, VIRGINIA DOJ-OGR-00032935",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "4100481 1/2001 TRANSACTION Register A record of deposits and items Numbered from _______ to _______ Dated from _______ to _______ To order visit us at: www.clarkeamerican.com or call 1.800.355.8123 Clarke American",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "JANUSZ BANASIAK BEATA BANASIAK 12542 GREAT PARK CIRCLE APT 303 GERMANTOWN, MD 20876 Pay to the Order of _______ Date _______ BB&T BRANCH BANKING AND TRUST COMPANY CHARLOTTESVILLE, VIRGINIA For _______",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "DEPOSIT TICKET JANUSZ BANASIAK BEATA BANASIAK 04/95 12542 GREAT PARK CIRCLE APT 303 GERMANTOWN, MD 20876 DATE _______ BB&T BRANCH BANKING AND TRUST COMPANY CHARLOTTESVILLE, VIRGINIA",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032935",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JANUSZ BANASIAK",
+      "BEATA BANASIAK"
+    ],
+    "organizations": [
+      "Clarke American",
+      "BB&T",
+      "BRANCH BANKING AND TRUST COMPANY"
+    ],
+    "locations": [
+      "GERMANTOWN",
+      "MD",
+      "CHARLOTTESVILLE",
+      "VIRGINIA"
+    ],
+    "dates": [
+      "04/95"
+    ],
+    "reference_numbers": [
+      "4100481",
+      "1/2001",
+      "1.800.355.8123",
+      "DOJ-OGR-00032935"
+    ]
+  },
+  "additional_notes": "The image appears to be a scanned document with checks and a deposit ticket. Some information has been redacted."
+}

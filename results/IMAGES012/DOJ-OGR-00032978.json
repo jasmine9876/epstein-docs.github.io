@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": "2665",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Public Records Request",
+    "has_handwriting": true,
+    "has_stamps": true
+  },
+  "full_text": "11 694 0644 Confidential Jeffrey E. Epstein 04-11-2002 07/26/17 Page 2665 Public Records Request No.: 17-295 DOJ-OGR-00032978",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "11 694 0644",
+      "position": "middle"
+    },
+    {
+      "type": "stamp",
+      "content": "Confidential",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Jeffrey E. Epstein",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "04-11-2002",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 2665 Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032978",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey E. Epstein"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "04-11-2002",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032978",
+      "11 694 0644"
+    ]
+  },
+  "additional_notes": "The document contains handwritten notes and a stamp indicating 'Confidential'. The document is related to a public records request."
+}

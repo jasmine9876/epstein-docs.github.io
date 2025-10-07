@@ -1,0 +1,61 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": null,
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR JEFFREY DATE Aug 2 TIME 12:45 P.M. M OF PHONE/MOBILE 2010237 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE THEY ARE AVAILABLE ALL WEEKEND AND DANA too MAYBE SIGNED Nicole Hesse 1184 IMPORTANT MESSAGE FOR MR EPSTEIN DATE 7/25/04 TIME 5:08 P.M. M OF SNYDER PHONE/MOBILE 914 763 9167 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE \"RETUNING YOUR CALL\" SIGNED Ru 1184 IMPORTANT MESSAGE FOR SARAH DATE Aug. 2 TIME 3:00 P.M. M Nicole Hesse OF PHONE/MOBILE Nicole Hesse 832-6777 / 201-3101 TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Please call IN Reference to where the framed pictures are. I loved them per Ms. Maxwell's request. 07/26/17 SIGNED Nicole Hesse Page 2390 1184 IMPORTANT MESSAGE FOR MR EPSTEIN DATE 7/25/04 TIME 1:48 P.M. M MS MAXWELL OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE \"TELL HIM TO CALL ME\" Public Records Request No.: 17-295 SIGNED m 1184 DOJ-OGR-00032703",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR JEFFREY DATE Aug 2 TIME 12:45 P.M. M OF PHONE/MOBILE 2010237 MESSAGE THEY ARE AVAILABLE ALL WEEKEND AND DANA too MAYBE SIGNED Nicole Hesse",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR MR EPSTEIN DATE 7/25/04 TIME 5:08 P.M. M OF SNYDER PHONE/MOBILE 914 763 9167 MESSAGE \"RETUNING YOUR CALL\" SIGNED Ru",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR SARAH DATE Aug. 2 TIME 3:00 P.M. M Nicole Hesse OF PHONE/MOBILE Nicole Hesse 832-6777 / 201-3101 MESSAGE Please call IN Reference to where the framed pictures are. I loved them per Ms. Maxwell's request. SIGNED Nicole Hesse",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "FOR MR EPSTEIN DATE 7/25/04 TIME 1:48 P.M. M MS MAXWELL OF PHONE/MOBILE MESSAGE \"TELL HIM TO CALL ME\" SIGNED m",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEFFREY",
+      "MR EPSTEIN",
+      "SNYDER",
+      "SARAH",
+      "Nicole Hesse",
+      "MS MAXWELL",
+      "DANA"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "Aug 2",
+      "7/25/04",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032703"
+    ]
+  },
+  "additional_notes": "The document contains four 'Important Message' forms with handwritten notes. Some phone numbers and names are partially redacted. The forms are related to messages for various individuals, including Jeffrey, Mr. Epstein, Sarah, and Ms. Maxwell. The document appears to be a scanned copy of a physical record, possibly from a public records request."
+}

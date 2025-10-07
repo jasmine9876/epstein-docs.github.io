@@ -1,0 +1,39 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00032942",
+    "date": null,
+    "document_type": "note",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Lubee can come either on Saturday or Sunday. She requires 4 hours minimum as she will take day off at work. 150$ an hour. She needs car to bring her and take her home. Jeffrey E. Epstein",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "Lubee can come either on Saturday or Sunday. She requires 4 hours minimum as she will take day off at work. 150$ an hour. She needs car to bring her and take her home.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Jeffrey E. Epstein",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Lubee",
+      "Jeffrey E. Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "Saturday",
+      "Sunday"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00032942"
+    ]
+  },
+  "additional_notes": "The document appears to be a handwritten note on a piece of paper with a printed name at the bottom. The handwriting is clear, but the context and purpose of the note are unclear. The note mentions a person named Lubee and her work arrangements."
+}

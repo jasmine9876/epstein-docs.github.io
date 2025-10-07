@@ -1,0 +1,52 @@
+{
+  "document_metadata": {
+    "page_number": "2639",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Public Records Request",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Joe - trash for toston - ph & study\n\nCopyright 2002-2004 Purdue Pharma L.P., Stamford, CT\n\n07/26/17 Page 2639 Public Records Request No.: 17-295\nDOJ-OGR-00032952",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "Joe - trash for toston - ph & study",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Copyright 2002-2004 Purdue Pharma L.P., Stamford, CT",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 2639 Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032952",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Joe"
+    ],
+    "organizations": [
+      "Purdue Pharma L.P."
+    ],
+    "locations": [
+      "Stamford, CT"
+    ],
+    "dates": [
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032952"
+    ]
+  },
+  "additional_notes": "The document appears to be a page from a larger document, with handwritten notes in the top-right corner. The page number and date are printed at the bottom."
+}

@@ -1,0 +1,56 @@
+{
+  "document_metadata": {
+    "page_number": "2641",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Trash Recovery Log",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Palm Beach Police Department Trash Recovery Log Location: 358 El Bello DATE/DAY TRASH (Y/N) POSITIVE (Y/N) IDENTIFIER (Y/N) CONTRABAND TYPE 9.21.05 wed Y Y Notes",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Palm Beach Police Department Trash Recovery Log",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "358 El Bello",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "DATE/DAY TRASH (Y/N) POSITIVE (Y/N) IDENTIFIER (Y/N) CONTRABAND TYPE",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "9.21.05 wed Y Y Notes",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 2641 Public Records Request No.: 17-295 DOJ-OGR-00032954",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Palm Beach Police Department"
+    ],
+    "locations": [
+      "358 El Bello"
+    ],
+    "dates": [
+      "9.21.05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032954"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned copy of a log sheet used by the Palm Beach Police Department to record trash recovery. The log sheet has a single entry dated 9.21.05."
+}

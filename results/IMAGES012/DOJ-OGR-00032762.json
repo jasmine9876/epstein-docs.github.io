@@ -1,0 +1,63 @@
+{
+  "document_metadata": {
+    "page_number": "15 of 17",
+    "document_number": "DOJ-OGR-00032762",
+    "date": "12/27/2005",
+    "document_type": "Myspace records",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "i misses me wife =|\nimCORE Jul 26, 2005 6:13 AM heey thanks for the add...whats up? Steven Andrew Jul 25, 2005 8:27 PM I WIN!!!!! Mei-Y-ssa Jul 23, 2005 7:36 PM I miss my ashley :( http://www.myspace.com/index.cfm?fuseaction=user.viewComments&friendID=172831&Mytoken=ddb34231952003-9837... 12/27/2005 DOJ-OGR-00032762",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "i misses me wife =|",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "imCORE Jul 26, 2005 6:13 AM heey thanks for the add...whats up?",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Steven Andrew Jul 25, 2005 8:27 PM I WIN!!!!!",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Mei-Y-ssa Jul 23, 2005 7:36 PM I miss my ashley :(",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "http://www.myspace.com/index.cfm?fuseaction=user.viewComments&friendID=172831&Mytoken=ddb34231952003-9837... 12/27/2005",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032762",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "ashley"
+    ],
+    "organizations": [
+      "Myspace"
+    ],
+    "locations": [],
+    "dates": [
+      "Jul 26, 2005",
+      "Jul 25, 2005",
+      "Jul 23, 2005",
+      "12/27/2005"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00032762",
+      "172831"
+    ]
+  },
+  "additional_notes": "The document appears to be a printout of Myspace comments. The text is mostly printed, with some informal language and abbreviations used in the comments."
+}

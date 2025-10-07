@@ -1,0 +1,60 @@
+{
+  "document_metadata": {
+    "page_number": "14",
+    "document_number": "DOJ-OGR-00032796",
+    "date": "2005",
+    "document_type": null,
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "©2003-2005 MySpace.com All Rights Reserved. Page 14 of 14 07/26/17 http://www.myspace.com/index.cfm?fuseaction=user.viewComments&friendID=172831&page=1&Mytoken=938B5D0D-11/29/2005 Records Request No.: 117293 DOJ-OGR-00032796",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "©2003-2005 MySpace.com All Rights Reserved.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Page 14 of 14",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "http://www.myspace.com/index.cfm?fuseaction=user.viewComments&friendID=172831&page=1&Mytoken=938B5D0D-11/29/2005",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Records Request No.: 117293",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032796",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "MySpace.com"
+    ],
+    "locations": [],
+    "dates": [
+      "07/26/17",
+      "11/29/2005"
+    ],
+    "reference_numbers": [
+      "117293",
+      "DOJ-OGR-00032796",
+      "172831"
+    ]
+  },
+  "additional_notes": "The document appears to be a printout of a webpage from MySpace.com, with a records request number and a DOJ reference number at the bottom."
+}

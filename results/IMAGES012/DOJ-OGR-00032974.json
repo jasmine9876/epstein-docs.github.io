@@ -1,0 +1,48 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00032974",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "10:30 Brittany on friday 3 from Zales Jeffrey E. F DOJ-OGR-00032974",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "10:30",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Brittany on friday from Zales 3",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Jeffrey E. F",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032974",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Brittany",
+      "Jeffrey E. F"
+    ],
+    "organizations": [
+      "Zales"
+    ],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00032974"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned note with handwritten text and a printed name. The image is in black and white and has a grainy texture. There is a redacted section at the top."
+}

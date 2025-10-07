@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "01/05",
+    "document_number": null,
+    "date": "09/29/2005",
+    "document_type": "Facsimile Transmittal Sheet",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "09/29/2005 18:30 516-889-6665 METRO REFUNDS PAGE 01/05 METROPOLITAN REFUNDS 138 EAST PARK AVENUE LONG BEACH, NEW YORK 11561 TEL (516) 889-6664 FAX (516) 889-6665 Property & Tax Consultants -- Utility Auditors -- Reducing Your Operating Costs FACSIMILE TRANSMITTAL SHEET TO: Jeffrey E. Epstein FROM: Michael Janin COMPANY: 11 East 71st Street Trust DATE: 9-29-05 FAX NUMBER: 2123718042 TELEPHONE NUMBER: 2127509790 TOTAL NO. OF PAGES INCLUDING COVER: 5 OUR REFERENCE NUMBER: RE: Oil Auditing Program Thought this would be of interest to you. Please review and call us if you are interested. 07/26/17 Page 2628 Public Records Request No. 17-295 DOJ-OGR-00032941",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "METROPOLITAN REFUNDS 138 EAST PARK AVENUE LONG BEACH, NEW YORK 11561 TEL (516) 889-6664 FAX (516) 889-6665 Property & Tax Consultants -- Utility Auditors -- Reducing Your Operating Costs",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "FACSIMILE TRANSMITTAL SHEET",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffrey E. Epstein Michael Janin 9-29-05",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Thought this would be of interest to you. Please review and call us if you are interested.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 2628 Public Records Request No. 17-295 DOJ-OGR-00032941",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey E. Epstein",
+      "Michael Janin"
+    ],
+    "organizations": [
+      "Metropolitan Refunds",
+      "11 East 71st Street Trust"
+    ],
+    "locations": [
+      "Long Beach",
+      "New York"
+    ],
+    "dates": [
+      "09/29/2005",
+      "9-29-05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "516-889-6665",
+      "2123718042",
+      "2127509790",
+      "17-295",
+      "DOJ-OGR-00032941"
+    ]
+  },
+  "additional_notes": "The document is a facsimile transmittal sheet from Metropolitan Refunds to Jeffrey E. Epstein regarding an Oil Auditing Program. The document contains both printed and handwritten text. There are no visible stamps or signatures."
+}

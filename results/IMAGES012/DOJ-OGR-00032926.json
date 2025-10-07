@@ -1,0 +1,52 @@
+{
+  "document_metadata": {
+    "page_number": "2613",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Public Records Request",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "(rent the car) - contract up on 2nd of February Dollar Rent A Car Blue Dodge Neon (561) 686-3300 Jeffrey E. Epstein",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "(rent the car) - contract up on 2nd of February",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Dollar Rent A Car Blue Dodge Neon (561) 686-3300",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Jeffrey E. Epstein",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 2613 Public Records Request No.: 17-295 DOJ-OGR-00032926",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey E. Epstein"
+    ],
+    "organizations": [
+      "Dollar Rent A Car"
+    ],
+    "locations": [],
+    "dates": [
+      "2nd of February",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032926",
+      "(561) 686-3300"
+    ]
+  },
+  "additional_notes": "The document appears to be a page from a larger document related to a public records request. There are two redacted sections at the top of the page. The handwriting is likely a note or annotation added to the document."
+}

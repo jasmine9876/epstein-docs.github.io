@@ -1,0 +1,43 @@
+{
+  "document_metadata": {
+    "page_number": "2339",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Public Records Request",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "1) car extension 1 month 2)900 pm bucket of roses to Royal Palm Beach High school for [redacted] Give the flowers at 8:30 to S.B. to give it to her at the stage after performance 07/26/17 Page 2339 Jeffrey E. Epstein Public Records Request No.: 17-295 DOJ-OGR-00032652",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "1) car extension 1 month 2)900 pm bucket of roses to Royal Palm Beach High school for [redacted] Give the flowers at 8:30 to S.B. to give it to her at the stage after performance",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 2339 Jeffrey E. Epstein Public Records Request No.: 17-295 DOJ-OGR-00032652",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey E. Epstein",
+      "S.B."
+    ],
+    "organizations": [
+      "Royal Palm Beach High School"
+    ],
+    "locations": [
+      "Royal Palm Beach"
+    ],
+    "dates": [
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032652"
+    ]
+  },
+  "additional_notes": "The document contains handwritten notes and a redacted section. The document appears to be a public records request related to Jeffrey E. Epstein."
+}

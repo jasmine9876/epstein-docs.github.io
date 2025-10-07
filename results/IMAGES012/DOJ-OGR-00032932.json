@@ -1,0 +1,41 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00032932",
+    "date": "10/01/01",
+    "document_type": "Sales Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "SALES RECEIPT\nPALM BEACH COUNTY\nFUN SEARCH # 000000-\nDEPARTMENT # 000000\nTERMINAL ID # 000001\nACCOUNT # : 6338339401\nDATE : 10/01/01 TIME : 03:52\nCLERK # : 08\nFSS # : 98711\nAMOUNT $20.00\nI AGREE TO PAY ABOVE TOTAL AMOUNT\nACCORDING TO CARD ISSUER AGREEMENT\n3.10\nTHANK YOU.\nPLEASE COME AGAIN.",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "SALES RECEIPT\nPALM BEACH COUNTY\nFUN SEARCH # 000000-\nDEPARTMENT # 000000\nTERMINAL ID # 000001\nACCOUNT # : 6338339401\nDATE : 10/01/01 TIME : 03:52\nCLERK # : 08\nFSS # : 98711\nAMOUNT $20.00\nI AGREE TO PAY ABOVE TOTAL AMOUNT\nACCORDING TO CARD ISSUER AGREEMENT\nTHANK YOU.\nPLEASE COME AGAIN.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "3.10",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [
+      "Palm Beach County"
+    ],
+    "dates": [
+      "10/01/01"
+    ],
+    "reference_numbers": [
+      "6338339401",
+      "98711",
+      "000000",
+      "000001",
+      "DOJ-OGR-00032932"
+    ]
+  },
+  "additional_notes": "The document is a sales receipt from Palm Beach County, dated 10/01/01. The receipt is for $20.00 and has a handwritten note '3.10'. The image quality is poor, with significant noise and distortion."
+}

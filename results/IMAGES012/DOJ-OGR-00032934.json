@@ -1,0 +1,95 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": "10.1.05",
+    "document_type": "Skin Care Rx",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Guerlain Paris Skin Care Rx The Spa NAME: DANA BURNS EMAIL: TELEPHONE: DO YOU HAVE ANY CONCERNS WITH THE FOLLOWING? LINES DEHYDRATION BREAKOUTS IRREGULAR TEXTURE PIGMENTATION IRREGULAR COLOR EYE PUFFINESS DARK CIRCLES WHAT WOULD YOU LIKE TO CHANGE ABOUT YOUR SKIN? WHAT IS YOUR SKIN TYPE? OILY NORMAL/OILY NORMAL/DRY DRY HIGHLY SENSITIVE CLEANSERS: PURE VEIL CLEANSING MILK PURE DEW CLEANSING FOAMING GEL PERFECT EYE AND LIP MAKEUP REMOVER TONERS: PURIFYING IRIS TONER MOISTURIZING MALLOW TONER SUCCESS SMOOTHING TONER EYE CARE: SUCCESS EYE TECH EYESERUM HAPPYLOGY EYE CREAM SUBSTANTIFIC EYE AND LIP DAY MOISTURIZERS: HAPPYLOGY SUCCESS MODEL SERUM SUPER AQUASERUM SUBSTANTIFIC DAY CREAM NIGHT MOISTURIZERS: SUBSTANTIFIC NIGHT CARE SUCCESS NIGHT MODEL MASKS/EXFOLIATORS: MOISTURIZING INVIGORATING MASK PURIFYING INVIGORATING MASK SMOOTHING EXFOLIATOR SPECIAL CARE: BAUME DE LA FERTE LIP BALM CREME CAMPHRE SUBSTANTIFIC FIRMING NECK CREME SERENISSIMA S.O.S. CREAM S.O.S. SERUM SUCCESSLASER DAY CARE SUCCESSLASER CONCENTRATE THANK YOU FOR OFFERING ME THE OPPORTUNITY TO PROVIDE YOU WITH OUR EXCLUSIVE GUERLAIN FACIAL EXPERIENCE! PRESCRIBED BY: GRACE 10.1.05 ONE SOUTH COUNTY ROAD • PALM BEACH, FL 33480 • (877) 448-3752 OPERATED BY DELTA AIR LINES INC. DESTINATION ATLANTA ORIGIN COLUMBUS OH FLIGHT DL475 DATE 29SEP BOARDING PASS BURNS/DANA ET SEAT 10C ZONE 1 Public Records Request No.: 17-295 DOJ-OGR-00032934",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Guerlain Paris Skin Care Rx The Spa",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "DANA BURNS",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "NAME: EMAIL: TELEPHONE: DO YOU HAVE ANY CONCERNS WITH THE FOLLOWING? LINES DEHYDRATION BREAKOUTS IRREGULAR TEXTURE PIGMENTATION IRREGULAR COLOR EYE PUFFINESS DARK CIRCLES WHAT WOULD YOU LIKE TO CHANGE ABOUT YOUR SKIN? WHAT IS YOUR SKIN TYPE? OILY NORMAL/OILY NORMAL/DRY DRY HIGHLY SENSITIVE",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "CLEANSERS: PURE VEIL CLEANSING MILK PURE DEW CLEANSING FOAMING GEL PERFECT EYE AND LIP MAKEUP REMOVER TONERS: PURIFYING IRIS TONER MOISTURIZING MALLOW TONER SUCCESS SMOOTHING TONER EYE CARE: SUCCESS EYE TECH EYESERUM HAPPYLOGY EYE CREAM SUBSTANTIFIC EYE AND LIP DAY MOISTURIZERS: HAPPYLOGY SUCCESS MODEL SERUM SUPER AQUASERUM SUBSTANTIFIC DAY CREAM NIGHT MOISTURIZERS: SUBSTANTIFIC NIGHT CARE SUCCESS NIGHT MODEL MASKS/EXFOLIATORS: MOISTURIZING INVIGORATING MASK PURIFYING INVIGORATING MASK SMOOTHING EXFOLIATOR SPECIAL CARE: BAUME DE LA FERTE LIP BALM CREME CAMPHRE SUBSTANTIFIC FIRMING NECK CREME SERENISSIMA S.O.S. CREAM S.O.S. SERUM SUCCESSLASER DAY CARE SUCCESSLASER CONCENTRATE",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "1x a week 2x a week",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "THANK YOU FOR OFFERING ME THE OPPORTUNITY TO PROVIDE YOU WITH OUR EXCLUSIVE GUERLAIN FACIAL EXPERIENCE! PRESCRIBED BY: GRACE 10.1.05",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "GRACE 10.1.05",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "ONE SOUTH COUNTY ROAD • PALM BEACH, FL 33480 • (877) 448-3752",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "OPERATED BY DELTA AIR LINES INC. DESTINATION ATLANTA ORIGIN COLUMBUS OH FLIGHT DL475 DATE 29SEP BOARDING PASS BURNS/DANA ET SEAT 10C ZONE 1",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295 DOJ-OGR-00032934",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "DANA BURNS",
+      "GRACE"
+    ],
+    "organizations": [
+      "Guerlain",
+      "The Spa",
+      "Delta Air Lines Inc."
+    ],
+    "locations": [
+      "Paris",
+      "Palm Beach",
+      "Atlanta",
+      "Columbus OH"
+    ],
+    "dates": [
+      "10.1.05",
+      "29SEP"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032934",
+      "DL475"
+    ]
+  },
+  "additional_notes": "The document appears to be a skin care prescription form from Guerlain Paris, with handwritten notes and checkmarks indicating the client's skin concerns and recommended products. The form is dated 10.1.05 and signed by GRACE. A boarding pass for a Delta Air Lines flight is visible at the bottom of the image."
+}

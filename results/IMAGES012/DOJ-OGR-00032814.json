@@ -1,0 +1,75 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "2501",
+    "date": "07/26/17",
+    "document_type": "Myspace comments",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "preston77 Feb 27, 2005 8:12 AM bleh? Online Now! preston77 Feb 25, 2005 1:06 PM Damn!t, you sign off right as I get back. Online Now! Girl From Ipanema Feb 24, 2005 9:27 AM SO MUCH RICE... SO LITTLE TIME. the tragic tale of you and me Feb 23, 2005 10:27 AM I was just asking. Nevermind. Online Now! the tragic tale of you and me Feb 22, 2005 10:14 PM What's your favorite kind of flower? 07/26/17 Page 2501 Public Records Request No.: 17-295 http://www.myspace.com/index.cfm?fuseaction=user.viewComments&friendID=172831&page=3&My token=3313946C-2D8A... 12/2/2005 DOJ-OGR-00032814",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "preston77 Feb 27, 2005 8:12 AM bleh? Online Now!",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "preston77 Feb 25, 2005 1:06 PM Damn!t, you sign off right as I get back. Online Now!",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Girl From Ipanema Feb 24, 2005 9:27 AM SO MUCH RICE... SO LITTLE TIME.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "the tragic tale of you and me Feb 23, 2005 10:27 AM I was just asking. Nevermind. Online Now!",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "the tragic tale of you and me Feb 22, 2005 10:14 PM What's your favorite kind of flower?",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 2501 Public Records Request No.: 17-295 http://www.myspace.com/index.cfm?fuseaction=user.viewComments&friendID=172831&page=3&My token=3313946C-2D8A... 12/2/2005",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032814",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "preston77",
+      "Girl From Ipanema",
+      "the tragic tale of you and me"
+    ],
+    "organizations": [
+      "Myspace"
+    ],
+    "locations": [
+      "Ipanema"
+    ],
+    "dates": [
+      "Feb 27, 2005",
+      "Feb 25, 2005",
+      "Feb 24, 2005",
+      "Feb 23, 2005",
+      "Feb 22, 2005",
+      "07/26/17",
+      "12/2/2005"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032814"
+    ]
+  },
+  "additional_notes": "The document appears to be a printout of Myspace comments from 2005. The page is part of a larger document, as indicated by the page number '3 of 13' in the top-right corner."
+}

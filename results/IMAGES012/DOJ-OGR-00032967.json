@@ -1,0 +1,68 @@
+{
+  "document_metadata": {
+    "page_number": "2654",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Public Records Request",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "04-03-05 #12 TIME 8:31 PM IMPORTANT MESSAGE FOR Jeffrey Luc DATE 4/05/05 M of COMPOINT communications INC PHONE/MOBILE 646 286 7000 TELEPHONED PLEASE CALL WILL CALL AGAIN RUSH SPECIAL ATTENTION RETURNED YOUR CALL MESSAGE Please call him back as soon as possible. It's very important. Haley or scheduler with him at 10 am Friday Jeffrey E. Epstein",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "04-03-05 #12",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "For Jeffrey Luc Date 4/05/05",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "M of COMPOINT communications INC PHONE/MOBILE 646 286 7000 TELEPHONED PLEASE CALL WILL CALL AGAIN RUSH SPECIAL ATTENTION RETURNED YOUR CALL",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Please call him back as soon as possible. It's very important.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Haley or scheduler with him at 10 am Friday",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Jeffrey E. Epstein",
+      "position": "margin"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey Luc",
+      "Jeffrey E. Epstein",
+      "Haley"
+    ],
+    "organizations": [
+      "COMPOINT communications INC"
+    ],
+    "locations": [],
+    "dates": [
+      "4/05/05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032967"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned copy of a message slip with handwritten notes. The image quality is somewhat degraded, but the text is still legible."
+}

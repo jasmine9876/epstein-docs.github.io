@@ -1,0 +1,35 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00032957",
+    "date": null,
+    "document_type": "letter",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "15 saying thank you for the car. Jeffrey E. Epstein",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "15 saying thank you for the car.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Jeffrey E. Epstein",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey E. Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00032957"
+    ]
+  },
+  "additional_notes": "The document appears to be a photocopy or scan of a handwritten note. The name at the bottom is printed, while the rest of the message is handwritten. There is a redacted section at the top."
+}

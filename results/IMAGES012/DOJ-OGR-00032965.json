@@ -1,0 +1,50 @@
+{
+  "document_metadata": {
+    "page_number": "2652",
+    "document_number": "DOJ-OGR-00032965",
+    "date": "07/26/17",
+    "document_type": "Public Records Request",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "The girl from St. Barths got sick so she isn't able to come. Sarah got message from Feb. To Julie In Sin City Albuquerque, New Mexico",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "The girl from St. Barths got sick so she isn't able to come. Sarah got message from Feb.",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "To Julie In Sin City Albuquerque, New Mexico",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 2652 Public Records Request No.: 17-295 DOJ-OGR-00032965",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Julie",
+      "Sarah"
+    ],
+    "organizations": [],
+    "locations": [
+      "Albuquerque",
+      "New Mexico",
+      "Sin City",
+      "St. Barths"
+    ],
+    "dates": [
+      "07/26/17",
+      "Feb"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032965"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned image of handwritten notes on two separate pieces of paper. The handwriting is difficult to read in some areas, but the overall content is legible."
+}

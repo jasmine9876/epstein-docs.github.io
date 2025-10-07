@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "2656",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Public Records Request",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Haley with Sarah on saturday at 1030 9:15 Dr Board #150 I have left message 10:00 Shawna with friend 12:00 Left message for Christina Jeffrey E. Epstein 07/26/17 Page 2656 Public Records Request No.: 17-295 DOJ-OGR-00032969",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "Haley with Sarah on saturday at 1030",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "9:15 Dr Board #150 I have left message",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "10:00 Shawna with friend",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "12:00 Left message for Christina",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Jeffrey E. Epstein",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 2656 Public Records Request No.: 17-295 DOJ-OGR-00032969",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Haley",
+      "Sarah",
+      "Dr Board",
+      "Shawna",
+      "Christina",
+      "Jeffrey E. Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "07/26/17",
+      "saturday"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032969",
+      "#150"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned page from a diary or calendar belonging to Jeffrey E. Epstein. The handwriting is mostly legible, but there are some minor smudges and marks on the page."
+}

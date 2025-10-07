@@ -1,0 +1,57 @@
+{
+  "document_metadata": {
+    "page_number": "2647",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Public Records Request",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "917. 847 6584. JOE Today's Trunsh 11/05 Lawton Jeffrey E. Epstein 07/26/17 Page 2647 Public Records Request No.: 17-295 DOJ-OGR-00032960",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "917. 847 6584.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "JOE Today's Trunsh 11/05 Lawton",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Jeffrey E. Epstein",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 2647 Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032960",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey E. Epstein",
+      "Joe",
+      "Lawton"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "07/26/17",
+      "11/05"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032960",
+      "917. 847 6584"
+    ]
+  },
+  "additional_notes": "The document appears to be a page from a larger document related to a public records request. The handwriting is likely a note or annotation added to the document."
+}

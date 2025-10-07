@@ -1,0 +1,64 @@
+{
+  "document_metadata": {
+    "page_number": "4",
+    "document_number": "1-05-000368",
+    "date": "4/20/06",
+    "document_type": "Incident Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Date: 4/20/06 Time: 13:02:26 PALM BEACH POLICE DEPARTMENT Incident Report Page: 4 Program: CMS301L Case No. : 1-05-000368 (Continued) Occupation : Oper Lic No. : Home Phone No. : 561/000-0000 Race : White Sex : Female Height : 0 Misc. ID# : Victim Type : JUVENILE Other Phone Nbr: 561/000-0000 Residency Type : File Charges : Injury Extent : Victim Sobriety : Injury Type 1 : Hospital ID : Phys Last Name : Phys First Name : ************* VICTIM INFORMATION - # 4 ************* Case Number : 1-05-000368 Prompt valid in: Street Number : City : PALM BEACH, FL 000033480 Birth Date/Age : 6/30/1987 17 Employer? : Occupation : Oper Lic No. : Home Phone No. : 561/000-0000 Race : White Sex : Female Height : 0 Misc. ID# : Victim Type : JUVENILE Other Phone Nbr: 561/000-0000 Residency Type : File Charges : Identify : Victim Sobriety : Injury Extent : Injury Type 1 : Hospital ID : Phys Last Name : Phys First Name : ************* VICTIM INFORMATION - # 5 ************* Case Number : 1-05-000368 Prompt valid in: Street Number : City : PALM BEACH, FL 000033480 Birth Date/Age : 9/21/1986 18 Employer? : Occupation : Oper Lic No. : Home Phone No. : 561/000-0000 Race : White Sex : Female Height : 0 Misc. ID# : Victim Type : ADULT Other Phone Nbr: 561/000-0000 Residency Type : File Charges : Victim Sobriety : Injury Extent : Injury Type 1 : Hospital ID : Phys Last Name : Phys First Name : ************* VICTIM INFORMATION - # 6 ************* Case Number : 1-05-000368 Prompt valid in: 07/26/17 Page 2527 Public Records Request No.: 17-295 DOJ-OGR-00032840",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date: 4/20/06 Time: 13:02:26 PALM BEACH POLICE DEPARTMENT Incident Report Page: 4 Program: CMS301L",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Case No. : 1-05-000368 (Continued)",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "************* VICTIM INFORMATION - # 4 *************",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "************* VICTIM INFORMATION - # 5 *************",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "************* VICTIM INFORMATION - # 6 *************",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 2527 Public Records Request No.: 17-295 DOJ-OGR-00032840",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "PALM BEACH POLICE DEPARTMENT"
+    ],
+    "locations": [
+      "PALM BEACH, FL"
+    ],
+    "dates": [
+      "4/20/06",
+      "6/30/1987",
+      "9/21/1986",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "1-05-000368",
+      "17-295",
+      "DOJ-OGR-00032840"
+    ]
+  },
+  "additional_notes": "The document appears to be a police incident report with victim information. The report is from the Palm Beach Police Department and contains details about multiple victims."
+}

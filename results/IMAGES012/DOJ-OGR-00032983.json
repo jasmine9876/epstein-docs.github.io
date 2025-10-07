@@ -1,0 +1,83 @@
+{
+  "document_metadata": {
+    "page_number": "2670",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Instant Message",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Jeffrey E. Enstein Public Records Request No.: 17-295 07/26/17 Page 2670 DOJ-OGR-00032983 IMPORTANT MESSAGE TIME 11:40 PM FOR: Jeffries DATE 4/11/05 M Helisa Mance OF PHONE/MOBILE SPRINT SPECTRUM,LP 555-0344 TELEPHONED WILL CALL AGAIN PLEASE CALL CAME TO SEE YOU WANTS TO RETURN YOUR CALL SPECIAL ATTENTION MESSAGE room 1600 Courtney Wilde Please call her to see if she would like to speak with you -left- 850",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Jeffrey E. Enstein",
+      "position": "right margin"
+    },
+    {
+      "type": "printed",
+      "content": "Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "Page 2670",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032983",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "TIME 11:40 PM FOR: DATE M OF PHONE/MOBILE TELEPHONED WILL CALL AGAIN PLEASE CALL CAME TO SEE YOU WANTS TO RETURN YOUR CALL SPECIAL ATTENTION MESSAGE",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Jeffries 4/11/05 Helisa Mance SPRINT SPECTRUM,LP 555-0344 0944",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "room 1600 Courtney Wilde Please call her to see if she would like to speak with you -left- 850",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffries",
+      "Helisa Mance",
+      "Courtney Wilde"
+    ],
+    "organizations": [
+      "SPRINT SPECTRUM,LP"
+    ],
+    "locations": [
+      "room 1600"
+    ],
+    "dates": [
+      "4/11/05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032983",
+      "555-0344",
+      "0944",
+      "850"
+    ]
+  },
+  "additional_notes": "The document is a scanned image of an instant message slip with handwritten notes. The image is rotated and has some smudges."
+}

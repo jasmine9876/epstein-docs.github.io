@@ -1,0 +1,70 @@
+{
+  "document_metadata": {
+    "page_number": "2",
+    "document_number": "1-05-001263",
+    "date": "11/18/05",
+    "document_type": "Incident Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Date: 11/18/05 Time: 11:36:11 PALM BEACH POLICE DEPARTMENT Incident Report Page: 2 Program: CMS301L Case No. : 1-05-001263 Recovered Date : 0/00/00 Recovered by : Recovery value : 0.00 Street number : City . . . : Drug? . . . : Document? . . . : PROPERTY INFORMATION # 4 Case number : 1-05-001263 Category : **EVIDENCE/CONFISCATED (NOT UCR)** Description : PAPER BAG W/MARIJUANA Serial number : Color . . . : Model : Make . . . : Property type : MISCELLANEOUS UCR Prop Type : MISCELLANEOUS Insured by : Insured? . . . : Value : 0.00 NCIC number : Recovered Date : 0/00/00 Recovered by : Street number : Recovery value : 0.00 City . . . : Drug? . . . : Document? . . . : VEHICLE INFORMATION # 1 Case number : 1-05-001263 Category : **SEARCHED** State Veh Type : AUTO Year . . . : 1997 Make : MITSUBISHI Model . . . : GALANT Model Name : GALANT Permit Number : 111076356 Style : 4 DOOR Color - Top : WHITE Color - Bottom : License # . . : C104VY FL VIN . . . . . : 4A3AJ56G9VE196319 Stolen value : 0 Disposition : Insured . . . : Vehicle locked : Keys in car : Date recovered : 0/00/00 Lien holder : Street number : Recovery value : 0 City . . . : Recovery code : NCIC number : Be On Look Out?: SUSPECT/ARRESTEE INFORMATION - #1 Case Number : 1-05-001263 Prompt valid in: BRYAN, BENJAMIN SKYLER Street Number : 5691 STONINGTON WY Maximum Age : 18 City . . . . . : LAKE WORTH, FL 33463 Occupation : Birth Date . . : 12/29/1986 18 Employer? : Home Phone No. : 561/715-6303 Oper Lic No. : Other Phone Nbr: Race . . . . . : White Sex . . . . . : Male Minimum Height : 603 Minimum Weight : 160 Maximum Height : 0 Maximum Weight : 0 Misc. ID# : 16483 Aliases? . . : MO/Crime Spec? : Hair Color . . : BROWN Hair Style : Hair Length : Eye Color . . : GREEN Glasses . . . : No Complexion : MEDIUM 07/26/17 Page 2320 Public Records Request No.: 17-295 DOJ-OGR-00032633",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date: 11/18/05 Time: 11:36:11 PALM BEACH POLICE DEPARTMENT Incident Report Page: 2 Program: CMS301L",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Case No. : 1-05-001263 Recovered Date : 0/00/00 Recovered by : Recovery value : 0.00 Street number : City . . . : Drug? . . . : Document? . . . :",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "PROPERTY INFORMATION # 4 Case number : 1-05-001263 Category : **EVIDENCE/CONFISCATED (NOT UCR)** Description : PAPER BAG W/MARIJUANA Serial number : Color . . . : Model : Make . . . : Property type : MISCELLANEOUS UCR Prop Type : MISCELLANEOUS Insured by : Insured? . . . : Value : 0.00 NCIC number : Recovered Date : 0/00/00 Recovered by : Street number : Recovery value : 0.00 City . . . : Drug? . . . : Document? . . . :",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "VEHICLE INFORMATION # 1 Case number : 1-05-001263 Category : **SEARCHED** State Veh Type : AUTO Year . . . : 1997 Make : MITSUBISHI Model . . . : GALANT Model Name : GALANT Permit Number : 111076356 Style : 4 DOOR Color - Top : WHITE Color - Bottom : License # . . : C104VY FL VIN . . . . . : 4A3AJ56G9VE196319 Stolen value : 0 Disposition : Insured . . . : Vehicle locked : Keys in car : Date recovered : 0/00/00 Lien holder : Street number : Recovery value : 0 City . . . : Recovery code : NCIC number : Be On Look Out?:",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "SUSPECT/ARRESTEE INFORMATION - #1 Case Number : 1-05-001263 Prompt valid in: BRYAN, BENJAMIN SKYLER Street Number : 5691 STONINGTON WY Maximum Age : 18 City . . . . . : LAKE WORTH, FL 33463 Occupation : Birth Date . . : 12/29/1986 18 Employer? : Home Phone No. : 561/715-6303 Oper Lic No. : Other Phone Nbr: Race . . . . . : White Sex . . . . . : Male Minimum Height : 603 Minimum Weight : 160 Maximum Height : 0 Maximum Weight : 0 Misc. ID# : 16483 Aliases? . . : MO/Crime Spec? : Hair Color . . : BROWN Hair Style : Hair Length : Eye Color . . : GREEN Glasses . . . : No Complexion : MEDIUM",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 2320 Public Records Request No.: 17-295 DOJ-OGR-00032633",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "BRYAN, BENJAMIN SKYLER"
+    ],
+    "organizations": [
+      "PALM BEACH POLICE DEPARTMENT"
+    ],
+    "locations": [
+      "LAKE WORTH, FL",
+      "STONINGTON WY"
+    ],
+    "dates": [
+      "11/18/05",
+      "12/29/1986",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "1-05-001263",
+      "17-295",
+      "DOJ-OGR-00032633",
+      "111076356",
+      "C104VY",
+      "4A3AJ56G9VE196319",
+      "16483"
+    ]
+  },
+  "additional_notes": "The document appears to be a police incident report with various sections including property information, vehicle information, and suspect/arrestee information. The document is printed and contains no handwritten text or stamps."
+}

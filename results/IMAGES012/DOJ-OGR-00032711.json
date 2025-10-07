@@ -1,0 +1,52 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00032711",
+    "date": "02/03/03, 07/26/17",
+    "document_type": "Important Message Forms",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR DATE TIME A.M. P.M. M OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 1184 IMPORTANT MESSAGE FOR John Epstein DATE 02/03/03 TIME 12:56 P.M. M Tony OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED Evelyn 1184 IMPORTANT MESSAGE FOR DATE TIME A.M. P.M. M OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 07/26/17 Page 2898 1184 IMPORTANT MESSAGE FOR Robert Mathew DATE TIME 11:00 A.M. P.M. M OF PHONE 229 2214 AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE Exhibited herewith this file SIGNED Public Records Request No.: 17-295 1184",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE FOR DATE TIME A.M. P.M. M OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 1184",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "John Epstein 02/03/03 12:56 P.M. Tony PLEASE CALL SIGNED Evelyn",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE FOR DATE TIME A.M. P.M. M OF PHONE AREA CODE NUMBER EXTENSION TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED 07/26/17 Page 2898 1184",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Robert Mathew 11:00 A.M. 229 2214 Exhibited herewith this file Public Records Request No.: 17-295",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "John Epstein",
+      "Tony",
+      "Evelyn",
+      "Robert Mathew"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "02/03/03",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032711"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned copy of a set of 'Important Message' forms, likely from an office setting. The forms are filled out with handwritten notes. The document quality is generally good, with some minor signs of wear and tear."
+}

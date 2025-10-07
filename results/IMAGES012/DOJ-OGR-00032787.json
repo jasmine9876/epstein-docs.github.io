@@ -1,0 +1,69 @@
+{
+  "document_metadata": {
+    "page_number": "5",
+    "document_number": "DOJ-OGR-00032787",
+    "date": null,
+    "document_type": "Myspace comments",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "i love that \"play russian roulette as we kiss\"--what's it from? Jeff Jun 19, 2005 4:21 PM well hello there my favorite next door neighbor well i havnt talked to you in a while hows everything in the boonies Yo quero matar tu' perro!! Jun 19, 2005 10:48 AM hey there, havent seen/talked to u in a while so i figured i would drop a comment. hows ur summer going? Mr. Johanson. Jun 18, 2005 1:53 PM well hello ....... how r u, what did u get on mirana's exam?? Jenny Jun 17, 2005 3:10 PM 07/26/17 Page 2474 Public Records Request No.: 17-295 http://www.myspace.com/index.cfm?fuseaction=user.viewComments&friendID=172831&page=1&My token=09B3DE8B-B3F... 12/2/2005 DOJ-OGR-00032787",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "i love that \"play russian roulette as we kiss\"--what's it from?",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Jeff Jun 19, 2005 4:21 PM well hello there my favorite next door neighbor well i havnt talked to you in a while hows everything in the boonies",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Yo quero matar tu' perro!! Jun 19, 2005 10:48 AM hey there, havent seen/talked to u in a while so i figured i would drop a comment. hows ur summer going?",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Mr. Johanson. Jun 18, 2005 1:53 PM well hello ....... how r u, what did u get on mirana's exam??",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Jenny Jun 17, 2005 3:10 PM",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 2474 Public Records Request No.: 17-295 http://www.myspace.com/index.cfm?fuseaction=user.viewComments&friendID=172831&page=1&My token=09B3DE8B-B3F... 12/2/2005 DOJ-OGR-00032787",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeff",
+      "Mr. Johanson",
+      "Jenny",
+      "mirana"
+    ],
+    "organizations": [
+      "Myspace"
+    ],
+    "locations": [
+      "boonies"
+    ],
+    "dates": [
+      "Jun 19, 2005",
+      "Jun 18, 2005",
+      "Jun 17, 2005",
+      "07/26/17",
+      "12/2/2005"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032787"
+    ]
+  },
+  "additional_notes": "The document appears to be a printout of Myspace comments. The text is mostly printed, with some informal language and abbreviations used in the comments."
+}

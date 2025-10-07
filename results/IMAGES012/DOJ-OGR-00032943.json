@@ -1,0 +1,79 @@
+{
+  "document_metadata": {
+    "page_number": "2630",
+    "document_number": "17-295",
+    "date": "SEP 29 2005",
+    "document_type": "Flight Itinerary",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "SHOPPERS TRAVEL\n196 PRINCETON-HIGHTSTOWN RD\nWEST WINDSOR NJ 08550\n609 936-0808\nAGENT RS/RS BOOKING REF ZKAZC6\nBURNS/DANA\nDATE: SEP 29 2005\nDELTA AIR LINES 29SEP NEW YORK NY COLUMBUS OH 130P 318P\nDL 6375 THURSDAY LA GUARDIA PORT COLUMBUS\nQ ECONOMY TERMINAL DL\nNON SMOKING NON STOP\nRESERVATION CONFIRMED 1:48 DURATION\nFLIGHT OPERATED BY RP CHAUTAUQUA AIRLINES\nAIRCRAFT: EMBRAER RJ135/140/145\nUNITED AIRLINES 29SEP COLUMBUS OH CHARLOTTE NC 710P 828P\nUA 2691 THURSDAY PORT COLUMBUS DOUGLAS\nU ECONOMY\nNON STOP\nRESERVATION CONFIRMED 1:18 DURATION\nUS 1543 FLIGHT OPERATED BY US US AIRWAYS\nAIRCRAFT: BOEING 737-300\nUNITED AIRLINES 29SEP CHARLOTTE NC FT LAUDERDA FL 930P 1127P\nUA 2065 THURSDAY DOUGLAS FLL INTL\nU ECONOMY TERMINAL 3\nNON STOP\nRESERVATION CONFIRMED 1:57 DURATION\nUS 0539 FLIGHT OPERATED BY US US AIRWAYS\nAIRCRAFT: BOEING 757-200/300\nRESERVATION NUMBER(S) DL/28G28A UA/X2RRSW\nThis is just in case you miss the other flight at 4:52 pm - I can have this one issued as a backup -\n07/26/17 Page 2630 Public Records Request No.: 17-295 DOJ-OGR-00032943",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "SHOPPERS TRAVEL\n196 PRINCETON-HIGHTSTOWN RD\nWEST WINDSOR NJ 08550\n609 936-0808\nAGENT RS/RS BOOKING REF ZKAZC6\nBURNS/DANA\nDATE: SEP 29 2005",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "DELTA AIR LINES 29SEP NEW YORK NY COLUMBUS OH 130P 318P\nDL 6375 THURSDAY LA GUARDIA PORT COLUMBUS\nQ ECONOMY TERMINAL DL\nNON SMOKING NON STOP\nRESERVATION CONFIRMED 1:48 DURATION\nFLIGHT OPERATED BY RP CHAUTAUQUA AIRLINES\nAIRCRAFT: EMBRAER RJ135/140/145",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "UNITED AIRLINES 29SEP COLUMBUS OH CHARLOTTE NC 710P 828P\nUA 2691 THURSDAY PORT COLUMBUS DOUGLAS\nU ECONOMY\nNON STOP\nRESERVATION CONFIRMED 1:18 DURATION\nUS 1543 FLIGHT OPERATED BY US US AIRWAYS\nAIRCRAFT: BOEING 737-300",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "UNITED AIRLINES 29SEP CHARLOTTE NC FT LAUDERDA FL 930P 1127P\nUA 2065 THURSDAY DOUGLAS FLL INTL\nU ECONOMY TERMINAL 3\nNON STOP\nRESERVATION CONFIRMED 1:57 DURATION\nUS 0539 FLIGHT OPERATED BY US US AIRWAYS\nAIRCRAFT: BOEING 757-200/300\nRESERVATION NUMBER(S) DL/28G28A UA/X2RRSW",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "This is just in case you miss the other flight at 4:52 pm - I can have this one issued as a backup -",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 2630 Public Records Request No.: 17-295 DOJ-OGR-00032943",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "BURNS",
+      "DANA"
+    ],
+    "organizations": [
+      "SHOPPERS TRAVEL",
+      "DELTA AIR LINES",
+      "UNITED AIRLINES",
+      "RP CHAUTAUQUA AIRLINES",
+      "US US AIRWAYS"
+    ],
+    "locations": [
+      "WEST WINDSOR",
+      "NEW YORK",
+      "LA GUARDIA",
+      "COLUMBUS",
+      "PORT COLUMBUS",
+      "CHARLOTTE",
+      "DOUGLAS",
+      "FT LAUDERDA",
+      "FLL INTL"
+    ],
+    "dates": [
+      "SEP 29 2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "ZKAZC6",
+      "DL/28G28A",
+      "UA/X2RRSW",
+      "17-295",
+      "DOJ-OGR-00032943"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned copy of a flight itinerary with handwritten notes. The quality is generally good, but there may be some minor artifacts from the scanning process."
+}

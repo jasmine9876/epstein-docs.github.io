@@ -1,0 +1,49 @@
+{
+  "document_metadata": {
+    "page_number": "2663",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Public Records Request",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Left medages for Tatum, Joanna Harrison, Rhiannon works 4-9 pm Mon & Tues loannen school @ 11:20 AM Shanna will be free tomorrow at 10:30 AM Jeffrey E. Epstein",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "Left medages for Tatum, Joanna Harrison, Rhiannon works 4-9 pm Mon & Tues loannen school @ 11:20 AM",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Shanna will be free tomorrow at 10:30 AM",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Jeffrey E. Epstein",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Tatum",
+      "Joanna Harrison",
+      "Rhiannon",
+      "Shanna",
+      "Jeffrey E. Epstein",
+      "loannen"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "07/26/17",
+      "tomorrow"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032976"
+    ]
+  },
+  "additional_notes": "The document appears to be a handwritten note on a printed page with some redacted information. The handwriting is mostly legible, but there are a few words that are difficult to decipher."
+}

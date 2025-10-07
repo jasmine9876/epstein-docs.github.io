@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": "3",
+    "document_number": "DOJ-OGR-00032816",
+    "date": "February 19, 2005 - February 20, 2005",
+    "document_type": "Myspace comments",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "SUN CANT SHINE ALL THE TIME Feb 20, 2005 7:37 PM hey budddddddddyyyyyyyy Ugly Ken Hart Feb 19, 2005 9:33 PM Even so, you are a SweetHart, it is a pity you had to be sad at our show. I hope that the next show will be more fun for you. Ugly Ken Hart Feb 19, 2005 7:25 PM Despair? I hope you are feeling better. And I also hope that our show had nothing to do with it. The last thing this band needs, is to cuase you to be unhappy sweethart.",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "SUN CANT SHINE ALL THE TIME Feb 20, 2005 7:37 PM hey budddddddddyyyyyyyy",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Ugly Ken Hart Feb 19, 2005 9:33 PM Even so, you are a SweetHart, it is a pity you had to be sad at our show. I hope that the next show will be more fun for you.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Ugly Ken Hart Feb 19, 2005 7:25 PM Despair? I hope you are feeling better. And I also hope that our show had nothing to do with it. The last thing this band needs, is to cuase you to be unhappy sweethart.",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "SUN CANT SHINE ALL THE TIME",
+      "Ugly Ken Hart"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "Feb 20, 2005",
+      "Feb 19, 2005"
+    ],
+    "reference_numbers": [
+      "DOJ-OGR-00032816"
+    ]
+  },
+  "additional_notes": "This document appears to be a printout of Myspace comments. The text is clear and legible, with no visible redactions or damage."
+}

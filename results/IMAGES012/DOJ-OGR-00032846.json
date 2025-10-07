@@ -1,0 +1,80 @@
+{
+  "document_metadata": {
+    "page_number": "10",
+    "document_number": "1-05-000368",
+    "date": "4/20/06",
+    "document_type": "Incident Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Date: 4/20/06 Time: 13:02:26 PALM BEACH POLICE DEPARTMENT Incident Report Page: 10 Program: CMS301L (Continued) Case No. : 1-05-000368 Street Number : City : Birth Date/Age : 0/00/0000 0 Occupation : FAMILY THERAPIST Home Phone No. : 561/000-0000 Sex : Female eight . . . . : 0 Other Phone Nbr: 561/000-0000 Employer? : Oper Lic No. : Race : White Height : 0 Person Type : OTHER PERSON ***EMPLOYER INFORMATION*** Case Number : 1-05-000368 Employer Name : PBC DIVISON OF YOUTH AFFAIRS Address : 4200 N AUSTRALIAN AV City/State/Zip : WEST PALM BEACH, FL 33407 Phone Number : 561/840-4540 ********* OTHER PERSON INFORMATION - # 6 ********* Case Number : 1-05-000368 Street Number : Y City : Birth Date/Age : Occupation : Home Phone No. : 561/383-6810 Sex : Male eight . . . . : 0 Other Phone Nbr: Employer? : Oper Lic No. : Race : White Height : 0 Person Type : OTHER PERSON ***EMPLOYER INFORMATION*** Case Number : 1-05-000368 Employer Name : SUMMIT CHRISTIAN SCHOOL Address : 4900 SUMMIT BV City/State/Zip : WEST PALM BEACH, FL 33415 Phone Number : ********* OTHER PERSON INFORMATION - # 7 ********* Case Number : 1-05-000368 Street Number : City : WEST PALM BEACH, FL 33412 Birth Date/Age : 0/00/0000 0 Occupation : Home Phone No. : Sex : Male eight . . . . : 0 Other Phone Nbr: Employer? : Oper Lic No. : Race : White Height : 0 Person Type : OTHER PERSON ********* OTHER PERSON INFORMATION - # 8 ********* Case Number : 1-05-000368 Street Number : 201 CYPRESS TR City : WEST PALM BEACH, FL 33411 Birth Date/Age : 0/00/0000 0 Occupation : Home Phone No. : 561/667-9764 Sex : Female Employer? : Oper Lic No. : Race : Height : 0 07/26/17 Page 2533 Public Records Request No.: 17-295 DOJ-OGR-00032846",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date: 4/20/06 Time: 13:02:26 PALM BEACH POLICE DEPARTMENT Incident Report Page: 10 Program: CMS301L (Continued)",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Case No. : 1-05-000368 Street Number : City : Birth Date/Age : 0/00/0000 0 Occupation : FAMILY THERAPIST Home Phone No. : 561/000-0000 Sex : Female eight . . . . : 0 Other Phone Nbr: 561/000-0000 Employer? : Oper Lic No. : Race : White Height : 0 Person Type : OTHER PERSON",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "***EMPLOYER INFORMATION*** Case Number : 1-05-000368 Employer Name : PBC DIVISON OF YOUTH AFFAIRS Address : 4200 N AUSTRALIAN AV City/State/Zip : WEST PALM BEACH, FL 33407 Phone Number : 561/840-4540",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "********* OTHER PERSON INFORMATION - # 6 ********* Case Number : 1-05-000368 Street Number : Y City : Birth Date/Age : Occupation : Home Phone No. : 561/383-6810 Sex : Male eight . . . . : 0 Other Phone Nbr: Employer? : Oper Lic No. : Race : White Height : 0 Person Type : OTHER PERSON",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "***EMPLOYER INFORMATION*** Case Number : 1-05-000368 Employer Name : SUMMIT CHRISTIAN SCHOOL Address : 4900 SUMMIT BV City/State/Zip : WEST PALM BEACH, FL 33415 Phone Number :",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "********* OTHER PERSON INFORMATION - # 7 ********* Case Number : 1-05-000368 Street Number : City : WEST PALM BEACH, FL 33412 Birth Date/Age : 0/00/0000 0 Occupation : Home Phone No. : Sex : Male eight . . . . : 0 Other Phone Nbr: Employer? : Oper Lic No. : Race : White Height : 0 Person Type : OTHER PERSON",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "********* OTHER PERSON INFORMATION - # 8 ********* Case Number : 1-05-000368 Street Number : 201 CYPRESS TR City : WEST PALM BEACH, FL 33411 Birth Date/Age : 0/00/0000 0 Occupation : Home Phone No. : 561/667-9764 Sex : Female Employer? : Oper Lic No. : Race : Height : 0",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 2533 Public Records Request No.: 17-295 DOJ-OGR-00032846",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JEANNIE HERNANDEZ"
+    ],
+    "organizations": [
+      "PALM BEACH POLICE DEPARTMENT",
+      "PBC DIVISON OF YOUTH AFFAIRS",
+      "SUMMIT CHRISTIAN SCHOOL"
+    ],
+    "locations": [
+      "WEST PALM BEACH",
+      "FL",
+      "N AUSTRALIAN AV",
+      "SUMMIT BV",
+      "CYPRESS TR"
+    ],
+    "dates": [
+      "4/20/06",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "1-05-000368",
+      "17-295",
+      "DOJ-OGR-00032846"
+    ]
+  },
+  "additional_notes": "The document appears to be a police incident report with multiple sections detailing different individuals and their information. Some fields are redacted."
+}

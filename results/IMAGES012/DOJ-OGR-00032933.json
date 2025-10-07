@@ -1,0 +1,62 @@
+{
+  "document_metadata": {
+    "page_number": "2620",
+    "document_number": "17-295",
+    "date": "10/2/05",
+    "document_type": "Important Message",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "IMPORTANT MESSAGE FOR J. E. DATE 10/2/05 TIME 10:40 A.M. M Sarah OF PHONE/MOBILE TELEPHONED PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE is sick and she can't come today SIGNED J. IMPORTANT MESSAGE FOR J. E. DATE 10/2/05 TIME 10:00 A.M. M Mr. Goldsmith OF PHONE/Cell. 772-971-1000 TELEPHONED X PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE SIGNED J. IMPORTANT MESSAGE FOR J. E. DATE 10/2/05 TIME 10:20 A.M. M OF PHONE/MOBILE 801-3590 TELEPHONED X PLEASE CALL CAME TO SEE YOU WILL CALL AGAIN WANTS TO SEE YOU RUSH RETURNED YOUR CALL SPECIAL ATTENTION MESSAGE",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "IMPORTANT MESSAGE",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "J. E. 10/2/05 10:40 A.M. Sarah is sick and she can't come today J.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FOR J. E. DATE 10/2/05 TIME 10:00 A.M. M Mr. Goldsmith OF PHONE/Cell. 772-971-1000",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "J. 10/2/05 10:00 A.M. Mr. Goldsmith 772-971-1000 X J.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "FOR J. E. DATE 10/2/05 TIME 10:20 A.M. M OF PHONE/MOBILE 801-3590",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "J. E. 10/2/05 10:20 A.M. 801-3590 X",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [
+      "J. E.",
+      "Sarah",
+      "Mr. Goldsmith",
+      "J."
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "10/2/05"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "801-3590",
+      "772-971-1000"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned image of four 'Important Message' forms. The forms contain handwritten notes and phone numbers. Some information has been redacted."
+}

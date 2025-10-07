@@ -1,0 +1,42 @@
+{
+  "document_metadata": {
+    "page_number": "2667",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Public Records Request",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "07/26/17 Page 2667 Public Records Request No.: 17-295 DOJ-OGR-00032980 11:30 call at Jason will Columbus Ohio 43215 Christina Tepee for winter time Balloons A. $57 student range student",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 2667 Public Records Request No.: 17-295 DOJ-OGR-00032980",
+      "position": "footer"
+    },
+    {
+      "type": "handwritten",
+      "content": "11:30 call at Jason will Columbus Ohio 43215 Christina Tepee for winter time Balloons A. $57 student range student",
+      "position": "middle"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jason",
+      "Christina Tepee"
+    ],
+    "organizations": [],
+    "locations": [
+      "Columbus",
+      "Ohio"
+    ],
+    "dates": [
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032980"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned page from a public records request, containing handwritten notes about a call with Jason and Christina Tepee. The handwriting is mostly legible, but some words are difficult to decipher due to the quality of the scan."
+}

@@ -1,0 +1,53 @@
+{
+  "document_metadata": {
+    "page_number": "22",
+    "document_number": "17-295",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "22 8.15 210 Denis M. Murphy 7411 N. Flagler # 7800 ph: 561 832 1643 Call By Leave Jeffrey E. Epstein Request No.: 17-295 DOJ-OGR-00032962",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "210 Denis M. Murphy\n7411 N. Flagler # 7800\nph: 561 832 1643\nCall By Leave",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Jeffrey E. Epstein",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "8.15",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032962",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Denis M. Murphy",
+      "Jeffrey E. Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032962",
+      "561 832 1643"
+    ]
+  },
+  "additional_notes": "The document appears to be a scanned note with handwritten text and a printed name at the bottom. The image quality is somewhat degraded, but the text is still legible."
+}

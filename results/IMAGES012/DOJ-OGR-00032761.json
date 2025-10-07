@@ -1,0 +1,44 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": null,
+    "date": "Jul 26, 2005",
+    "document_type": "Event Flyer",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "SKATEZONE UNDERGROUND LIVE LOCAL BANDS EVERY FRIDAY NIGHT 7PM - 11PM FRIDAY AUGUST 5TH THE HEIST ENKORE THE RANDOM CHOICE STRANGLED TO TEARS THE UGLY HARTS $8.00 ADMISSION ON LAKE WORTH RD JUST WEST OF THE TURNPIKE FOR MORE INFO & DIRECTIONS GO TO WWW.SKATEZONEUNDERGROUND.COM BRING IN THIS FLYER FOR $1.00 OFF ADMISSION sam Jul 26, 2005 7:04 PM",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "SKATEZONE UNDERGROUND LIVE LOCAL BANDS EVERY FRIDAY NIGHT 7PM - 11PM FRIDAY AUGUST 5TH THE HEIST ENKORE THE RANDOM CHOICE STRANGLED TO TEARS THE UGLY HARTS $8.00 ADMISSION ON LAKE WORTH RD JUST WEST OF THE TURNPIKE FOR MORE INFO & DIRECTIONS GO TO WWW.SKATEZONEUNDERGROUND.COM BRING IN THIS FLYER FOR $1.00 OFF ADMISSION",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "sam",
+      "position": "margin"
+    },
+    {
+      "type": "printed",
+      "content": "Jul 26, 2005 7:04 PM",
+      "position": "margin"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Skatezone Underground"
+    ],
+    "locations": [
+      "Lake Worth Rd",
+      "Turnpike"
+    ],
+    "dates": [
+      "Friday August 5th",
+      "Jul 26, 2005"
+    ],
+    "reference_numbers": []
+  },
+  "additional_notes": "The document is a photocopy of a flyer for an event at Skatezone Underground. The original flyer appears to be a black and white image with a grayish tone. The text is mostly clear, but some parts may be difficult to read due to the quality of the photocopy."
+}

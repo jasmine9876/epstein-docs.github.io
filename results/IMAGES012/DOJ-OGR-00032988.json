@@ -1,0 +1,45 @@
+{
+  "document_metadata": {
+    "page_number": "2675",
+    "document_number": "17-295",
+    "date": "04/11/05",
+    "document_type": "Public Records Request",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "04/11/05 #2 Down Weeks Saturday Christine Tatum Joann Joorberg Meleah Paul Ned Mediation Meeting 480 555 5700 Jason elder 079 Jeffrey E. Epstein Page 2675 Public Records Request No.: 17-295 07/26/17 DOJ-OGR-00032988",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "04/11/05 #2 Down Weeks Saturday Christine Tatum Joann Joorberg Meleah Paul Ned Mediation Meeting 480 555 5700 Jason elder 079",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Jeffrey E. Epstein Page 2675 Public Records Request No.: 17-295 07/26/17 DOJ-OGR-00032988",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Christine Tatum",
+      "Joann Joorberg",
+      "Meleah Paul",
+      "Jason Elder",
+      "Jeffrey E. Epstein"
+    ],
+    "organizations": [
+      "DOJ"
+    ],
+    "locations": [],
+    "dates": [
+      "04/11/05",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032988"
+    ]
+  },
+  "additional_notes": "The document appears to be a handwritten note with a list of names and a phone number, followed by a printed footer with metadata. The handwriting is somewhat difficult to read in some places."
+}

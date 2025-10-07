@@ -1,0 +1,55 @@
+{
+  "document_metadata": {
+    "page_number": "2638",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Boarding Pass",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "BOARDING PASS ******* ET ******* BURNS/DANA SEAT 10C FLIGHT DATE DL475 29SEP ORIGIN COLUMBUS OH DESTINATION ATLANTA OPERATED BY DELTA AIR LINES INC 07/26/17 Page 2638 Public Records Request No.: 17-295 DOJ-OGR-00032951",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "BOARDING PASS ******* ET ******* BURNS/DANA",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "SEAT 10C FLIGHT DATE DL475 29SEP ORIGIN COLUMBUS OH DESTINATION ATLANTA OPERATED BY DELTA AIR LINES INC",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 2638 Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032951",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Dana Burns"
+    ],
+    "organizations": [
+      "Delta Air Lines Inc"
+    ],
+    "locations": [
+      "Columbus OH",
+      "Atlanta"
+    ],
+    "dates": [
+      "29SEP",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032951",
+      "DL475"
+    ]
+  },
+  "additional_notes": "The document is a boarding pass for a Delta Air Lines flight from Columbus, OH to Atlanta on September 29th. The passenger's name is Dana Burns, and their seat is 10C. The document is part of a public records request (No. 17-295) and is dated July 26, 2017."
+}

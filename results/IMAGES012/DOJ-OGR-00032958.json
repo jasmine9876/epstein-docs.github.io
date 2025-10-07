@@ -1,0 +1,38 @@
+{
+  "document_metadata": {
+    "page_number": null,
+    "document_number": "DOJ-OGR-00032958",
+    "date": null,
+    "document_type": null,
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "10 Dr. Beard 11 4 Sorula is trying to more ... for 11 w/ Ethan Brimley could work at 6 Jeffrey E. Epstein",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "10 Dr. Beard 11 4 Sorula is trying to more ... for 11 w/ Ethan Brimley could work at 6",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Jeffrey E. Epstein",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Dr. Beard",
+      "Sorula",
+      "Ethan Brimley",
+      "Jeffrey E. Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "reference_numbers": [
+      "DOJ-OGR-00032958"
+    ]
+  },
+  "additional_notes": "The document appears to be a handwritten note with a printed name at the bottom. There is a redacted section in the middle of the page."
+}

@@ -1,0 +1,39 @@
+{
+  "document_metadata": {
+    "page_number": "2636",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Public Records Request",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "Luba can come either on Saturday or Sunday. She requires 4 hours minimum as she will take day off at work. 150$ an hair. She needs car to bring her and take her home. Jeffrey E. Epstein",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "Luba can come either on Saturday or Sunday. She requires 4 hours minimum as she will take day off at work. 150$ an hair. She needs car to bring her and take her home.",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Jeffrey E. Epstein",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Luba",
+      "Jeffrey E. Epstein"
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032949"
+    ]
+  },
+  "additional_notes": "The document appears to be a handwritten note on a page with a printed name 'Jeffrey E. Epstein' at the bottom. The handwriting is somewhat difficult to read in some places, but the overall content is clear. The document is related to a public records request."
+}

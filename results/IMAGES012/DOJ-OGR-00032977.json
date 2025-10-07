@@ -1,0 +1,77 @@
+{
+  "document_metadata": {
+    "page_number": "2664",
+    "document_number": "17-295",
+    "date": "07/26/17",
+    "document_type": "Public Records Request",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "11 Glen -Dessert + 12:30 Chicken All- Dinner Detail 4. Wilder John -Rimmer 8am tomorrow Don -Skin Tom 10:30 AM 3->Sepl breakfast! Sin (ts) Big screen X8 Mon-after school Abeona Wednesday at 4pm Jeffrey E. Epstein",
+  "text_blocks": [
+    {
+      "type": "handwritten",
+      "content": "11 Glen -Dessert + 12:30 Chicken All-",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Dinner Detail",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "Wilder John -Rimmer 8am tomorrow Don -Skin Tom 10:30 AM",
+      "position": "top"
+    },
+    {
+      "type": "handwritten",
+      "content": "4.",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "3->Sepl breakfast! Sin (ts) Big screen X8",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Mon-after school",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "Abeona Wednesday at 4pm",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Jeffrey E. Epstein",
+      "position": "bottom"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jeffrey E. Epstein",
+      "Wilder",
+      "John",
+      "Don",
+      "Tom"
+    ],
+    "organizations": [
+      "Abeona"
+    ],
+    "locations": [
+      "Glen"
+    ],
+    "dates": [
+      "07/26/17",
+      "Wednesday"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032977"
+    ]
+  },
+  "additional_notes": "The document appears to be a handwritten note with a list of tasks and appointments. The name 'Jeffrey E. Epstein' is printed at the bottom of the page. There are two blacked-out sections, likely redacted information. The document is part of a public records request."
+}

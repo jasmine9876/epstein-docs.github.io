@@ -1,0 +1,65 @@
+{
+  "document_metadata": {
+    "page_number": "8",
+    "document_number": "1-05-000368",
+    "date": "4/20/06",
+    "document_type": "Incident Report",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Date: 4/20/06 Time: 13:02:26 PALM BEACH POLICE DEPARTMENT Incident Report Page: 8 Program: CMS301L Case No. : 1-05-000368 Injury Type 2 : Hospital ID : (Continued) Phys Last Name : Phys First Name : ************* VICTIM INFORMATION - # 15 ************* Case Number : 1-05-000368 Street Number : City : PALM BEACH, FL 000033480 Birth Date/Age : 8/24/1985 19 Occupation : Home Phone No. : 561/000-0000 Sex : Female Weight : 0 On Look Out?: Victim Type : ADULT Residency Sts : Can Identify : Injury Extent : Injury Type 2 : Med Treatment : Phys Last Name : Prompt valid in: Employer? : Oper Lic No. : Race : White Height : 0 Misc. ID# : Other Phone Nbr: 561/000-0000 Residency Type : File Charges : Victim Sobriety: Injury Type 1 : Hospital ID : Phys First Name : ************* VICTIM INFORMATION - # 16 ************* Case Number : 1-05-000368 Street Number : City : PALM BEACH, FL 000033480 Birth Date/Age : 2/08/1987 17 Occupation : Home Phone No. : 561/000-0000 Sex : Female Weight : 0 On Look Out?: Victim Type : JUVENILE Residency Sts : Can Identify : Injury Extent : Injury Type 2 : Med Treatment : Phys Last Name : Prompt valid in: Employer? : Oper Lic No. : Race : White Height : 0 Misc. ID# : Other Phone Nbr: 561/000-0000 Residency Type : File Charges : Victim Sobriety: Injury Type 1 : Hospital ID : Phys First Name : ************* VICTIM INFORMATION - # 17 ************* Case Number : 1-05-000368 Street Number : City : PALM BEACH, FL 000033480 Birth Date/Age : 4/29/1988 16 Occupation : Home Phone No. : 561/000-0000 Sex : Female Weight : 0 On Look Out?: Victim Type : JUVENILE Residency Sts : Prompt valid in: Employer? : Oper Lic No. : Race : White Height : 0 Misc. ID# : Other Phone Nbr: 561/000-0000 Residency Type : File Charges : 07/26/17 Page 2531 Public Records Request No.: 17-295 DOJ-OGR-00032844",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Date: 4/20/06 Time: 13:02:26 PALM BEACH POLICE DEPARTMENT Incident Report Page: 8 Program: CMS301L",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "Case No. : 1-05-000368 Injury Type 2 : Hospital ID : (Continued) Phys Last Name : Phys First Name :",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "************* VICTIM INFORMATION - # 15 ************* Case Number : 1-05-000368 Street Number : City : PALM BEACH, FL 000033480 Birth Date/Age : 8/24/1985 19 Occupation : Home Phone No. : 561/000-0000 Sex : Female Weight : 0 On Look Out?: Victim Type : ADULT Residency Sts : Can Identify : Injury Extent : Injury Type 2 : Med Treatment : Phys Last Name : Prompt valid in: Employer? : Oper Lic No. : Race : White Height : 0 Misc. ID# : Other Phone Nbr: 561/000-0000 Residency Type : File Charges : Victim Sobriety: Injury Type 1 : Hospital ID : Phys First Name :",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "************* VICTIM INFORMATION - # 16 ************* Case Number : 1-05-000368 Street Number : City : PALM BEACH, FL 000033480 Birth Date/Age : 2/08/1987 17 Occupation : Home Phone No. : 561/000-0000 Sex : Female Weight : 0 On Look Out?: Victim Type : JUVENILE Residency Sts : Can Identify : Injury Extent : Injury Type 2 : Med Treatment : Phys Last Name : Prompt valid in: Employer? : Oper Lic No. : Race : White Height : 0 Misc. ID# : Other Phone Nbr: 561/000-0000 Residency Type : File Charges : Victim Sobriety: Injury Type 1 : Hospital ID : Phys First Name :",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "************* VICTIM INFORMATION - # 17 ************* Case Number : 1-05-000368 Street Number : City : PALM BEACH, FL 000033480 Birth Date/Age : 4/29/1988 16 Occupation : Home Phone No. : 561/000-0000 Sex : Female Weight : 0 On Look Out?: Victim Type : JUVENILE Residency Sts : Prompt valid in: Employer? : Oper Lic No. : Race : White Height : 0 Misc. ID# : Other Phone Nbr: 561/000-0000 Residency Type : File Charges :",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "07/26/17 Page 2531 Public Records Request No.: 17-295 DOJ-OGR-00032844",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "PALM BEACH POLICE DEPARTMENT"
+    ],
+    "locations": [
+      "PALM BEACH, FL"
+    ],
+    "dates": [
+      "4/20/06",
+      "8/24/1985",
+      "2/08/1987",
+      "4/29/1988",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "1-05-000368",
+      "17-295",
+      "DOJ-OGR-00032844"
+    ]
+  },
+  "additional_notes": "The document appears to be a police incident report with victim information. The report is from the Palm Beach Police Department and contains details about three victims. The document is printed and does not contain any handwritten text or stamps."
+}

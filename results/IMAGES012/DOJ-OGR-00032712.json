@@ -1,0 +1,74 @@
+{
+  "document_metadata": {
+    "page_number": "2309",
+    "document_number": "PBPD Form #52",
+    "date": "07/26/17",
+    "document_type": "Property Receipt",
+    "has_handwriting": true,
+    "has_stamps": false
+  },
+  "full_text": "PBPD Form #52 PROPERTY RECEIPT DETECTIVE BUREAU SEARCH WARRANT RETURN PROPERTY FOUND DECEASED (Probated) PERSONAL CONFISCATED DESTROY EVIDENCE TRIAL LABORATORY STOLEN/RECOVERED OTHER INCIDENT/CITATION NUMBER DATE/TIME RECOVERED PROPERTY NUMBER (Leave Blank) BIN NUMBER (Leave Blank) ADDRESS WHERE PROPERTY IMPOUNDED DISCOVERED BY / D.O.B. ADDRESS Street City Zip PHONE NUMBER OWNER / VICTIM'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER SUSPECT'S NAME / D.O.B. ADDRESS Street City Zip PHONE NUMBER ADDT'NL. SUSPECT / D.O.B. ADDRESS Street City Zip PHONE NUMBER SPECIAL INSTRUCTIONS FOUND PROPERTY 90 DAYS CLAIM NOT CLAIM ITEM # QUANTITY VALUE DESCRIPTION 1 1 2 2 3 3 4 1 5 1 6 7 8 1 9 10 11 12 TOTAL PACKAGE WEIGHT I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt. I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer. SIGNATURE DATE SIGNATURE ID# UNIT RECEIVED BY REASON DATE/TIME RECEIVED Page 2309 Public Records Request No. 17-205 DOJ-OGR-00032712",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "PBPD Form #52 PROPERTY RECEIPT DETECTIVE BUREAU",
+      "position": "header"
+    },
+    {
+      "type": "printed",
+      "content": "SEARCH WARRANT RETURN",
+      "position": "header"
+    },
+    {
+      "type": "handwritten",
+      "content": "1 1 2 2 3 3 4 1 5 1 6 7 8 1 9 10 11 12",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "TOTAL PACKAGE WEIGHT",
+      "position": "middle"
+    },
+    {
+      "type": "handwritten",
+      "content": "various descriptions and quantities of items",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "I hereby acknowledge that the above list represents all property taken from me and that I have received a copy of this receipt.",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "I hereby acknowledge that the above list represents all property impounded by me in the official performance of my duty as a police officer.",
+      "position": "bottom"
+    },
+    {
+      "type": "handwritten",
+      "content": "signatures and dates",
+      "position": "bottom"
+    },
+    {
+      "type": "printed",
+      "content": "Page 2309 Public Records Request No. 17-205 DOJ-OGR-00032712",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Detective Bureau"
+    ],
+    "locations": [],
+    "dates": [
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "PBPD Form #52",
+      "17-205",
+      "DOJ-OGR-00032712"
+    ]
+  },
+  "additional_notes": "The document is a property receipt form filled out by hand with various details about the property impounded, including descriptions and quantities of items. The form includes sections for the incident/citation number, date/time recovered, property number, and bin number, as well as information about the person who discovered the property, the owner/victim, and the suspect. The document also includes a section for special instructions and a total package weight. The form is signed by the officer who impounded the property and includes a receipt acknowledgement."
+}

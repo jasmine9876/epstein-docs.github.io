@@ -1,0 +1,68 @@
+{
+  "document_metadata": {
+    "page_number": "1",
+    "document_number": "17-295",
+    "date": "October 11, 2005",
+    "document_type": "Transcript",
+    "has_handwriting": false,
+    "has_stamps": false
+  },
+  "full_text": "Tape: PBPD & [redacted]\nDate: October 11, 2005\nTime: 4:10 p.m.\nParticipants: Det. Joe Recarey: DETECTIVE (introduces the recording and asks most questions)\nDet. Dawson: DETECTIVE 2\nShayna Jasmine: FRIEND\nAbbreviations: UI = unintelligible // = voices overlap\nTranscript 07/26/17 Page 1 October 11, 2005 PBPD & Public Records Request No.: 17-295 DOJ-OGR-00032653",
+  "text_blocks": [
+    {
+      "type": "printed",
+      "content": "Tape: PBPD & [redacted]",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Date: October 11, 2005",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Time: 4:10 p.m.",
+      "position": "top"
+    },
+    {
+      "type": "printed",
+      "content": "Participants: Det. Joe Recarey: DETECTIVE (introduces the recording and asks most questions)\nDet. Dawson: DETECTIVE 2\nShayna Jasmine: FRIEND",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Abbreviations: UI = unintelligible // = voices overlap",
+      "position": "middle"
+    },
+    {
+      "type": "printed",
+      "content": "Transcript 07/26/17 Page 1 October 11, 2005 PBPD & Public Records Request No.: 17-295",
+      "position": "footer"
+    },
+    {
+      "type": "printed",
+      "content": "DOJ-OGR-00032653",
+      "position": "footer"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Det. Joe Recarey",
+      "Det. Dawson",
+      "Shayna Jasmine"
+    ],
+    "organizations": [
+      "PBPD"
+    ],
+    "locations": [],
+    "dates": [
+      "October 11, 2005",
+      "07/26/17"
+    ],
+    "reference_numbers": [
+      "17-295",
+      "DOJ-OGR-00032653"
+    ]
+  },
+  "additional_notes": "The document contains redactions and is a transcript of a recording."
+}
